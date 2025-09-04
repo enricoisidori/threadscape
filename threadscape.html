@@ -1,0 +1,3040 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Threadscape</title>
+    <style>
+      :root {
+        --bg: #0e0e0e;
+        --panel: #151515;
+        --ink: #ffffff;
+        --muted: #bdbdbd;
+        --line: #2a2a2a;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: #eee;
+        font: 14px/1.4 system-ui;
+        -webkit-tap-highlight-color: transparent;
+      }
+      header {
+        padding: 8px;
+        border-bottom: 1px solid #333;
+        display: flex;
+        gap: 10px;
+        align-items: center;
+      }
+      button {
+        background: #111;
+        color: #eee;
+        border: 1px solid #444;
+        padding: 6px 10px;
+        border-radius: 6px;
+        cursor: pointer;
+      }
+      button:focus,
+      button:focus-visible {
+        outline: none;
+        box-shadow: none;
+      }
+      .app {
+        display: grid;
+        grid-template-columns: 1fr 380px;
+        grid-template-rows: 50px 1fr;
+        height: 100vh;
+      }
+
+      #stage {
+        position: relative;
+        overflow: hidden;
+        user-select: none;
+        background: #0e0e0e;
+        background-image: linear-gradient(#111 1px, transparent 1px),
+          linear-gradient(90deg, #111 1px, transparent 1px);
+        background-size: 24px 24px, 24px 24px;
+        background-position: 0 0, 0 0;
+        cursor: default;
+      }
+      svg#edges {
+        position: absolute;
+        inset: 0;
+        z-index: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+      }
+
+      .node {
+        position: absolute;
+        width: 320px;
+        max-width: 400px;
+        min-width: 260px;
+        border: 1px solid #444;
+        border-radius: 8px;
+        background: var(--panel);
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.35);
+        cursor: grab;
+        z-index: 1;
+        transform-origin: top left;
+      }
+      .node.dragging {
+        cursor: grabbing;
+      }
+      .node.selected {
+        outline: 2px solid #fff;
+      }
+
+      .titlebar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background: #1b1b1b;
+        border-bottom: 1px solid #2a2a2a;
+        padding: 6px 8px;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+      }
+      .title {
+        font-weight: 700;
+        color: #fff;
+        min-height: 1em;
+      }
+      .body {
+        padding: 8px;
+      }
+      .meta {
+        color: var(--muted);
+        font-size: 12px;
+        font-family: inherit;
+      }
+      .divider {
+        height: 1px;
+        background: #2a2a2a;
+        margin: 6px 0;
+      }
+      .kv {
+        display: grid;
+        grid-template-columns: 110px 1fr;
+        gap: 4px;
+        font-size: 12px;
+      }
+      .kv div:nth-child(odd) {
+        color: #bbb;
+      }
+
+      .desc {
+        margin-top: 6px;
+        font-size: 12px;
+        white-space: normal;
+        font-family: inherit;
+      }
+      .descTitle {
+        margin-top: 8px;
+        font-size: 12px;
+        color: #bbb;
+      }
+      .tags {
+        margin-top: 6px;
+      }
+      .badge {
+        display: inline-block;
+        border: 1px solid #444;
+        border-radius: 999px;
+        padding: 2px 6px;
+        margin: 2px 6px 0 0;
+        font-size: 12px;
+      }
+
+      .links {
+        margin-top: 8px;
+        font-size: 12px;
+        font-family: inherit;
+      }
+      .links a {
+        color: #fff;
+        text-decoration: underline;
+        display: inline-block;
+        margin: 2px 10px 0 0;
+      }
+
+      .images {
+        margin-top: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }
+      .images img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border: 1px solid #444;
+        border-radius: 6px;
+        pointer-events: none;
+        -webkit-user-drag: none;
+        user-drag: none;
+      }
+      .attachments {
+        margin-top: 8px;
+        font-size: 12px;
+      }
+      .attachments a {
+        color: #fff;
+        text-decoration: underline;
+        margin-right: 10px;
+      }
+
+      .handle {
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        pointer-events: auto;
+        cursor: pointer;
+      }
+      .out {
+        right: -15px;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+      .in {
+        left: -15px;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+      .out::after {
+        content: "";
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        right: 5px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: #fff;
+        border: 1px solid #000;
+        border-radius: 50%;
+      }
+      .in::after {
+        content: "";
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        left: 5px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: #fff;
+        border: 1px solid #000;
+        clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
+      }
+
+      .edge-visible {
+        cursor: pointer;
+        stroke: #9a9a9a;
+        stroke-width: 2;
+        fill: none;
+        stroke-linecap: butt;
+        filter: none;
+      }
+      .edge-visible.selected {
+        stroke: #ffffff;
+        stroke-width: 3;
+      }
+      .edge-visible.weak {
+        stroke: #ffffff;
+        stroke-opacity: 0.4;
+        stroke-dasharray: 10 6;
+        stroke-linecap: round;
+        stroke-width: 1.5;
+      }
+      .edge-visible.weak.selected {
+        stroke: #ffffff;
+        stroke-opacity: 1;
+        stroke-dasharray: 10 6;
+        stroke-linecap: round;
+        stroke-width: 2.5;
+      }
+      .edge-hit {
+        stroke: #000;
+        stroke-opacity: 0;
+        stroke-width: 16;
+        fill: none;
+        cursor: pointer;
+      }
+
+      .marquee {
+        position: absolute;
+        border: 1px solid #bbb;
+        background: rgba(255, 255, 255, 0.06);
+        pointer-events: none;
+        z-index: 2;
+      }
+
+      aside {
+        background: #121212;
+        border-left: 1px solid #333;
+        padding: 10px;
+        overflow: auto;
+      }
+      h3#panelTitle {
+        margin: 0.6rem 0 0.3rem;
+        font-size: 12px;
+        font-weight: 400;
+        text-transform: none;
+        color: #bbb;
+        letter-spacing: 0.02em;
+      }
+      label {
+        display: block;
+        font-size: 12px;
+        margin-top: 12px;
+      }
+      input[type="text"],
+      input[type="date"],
+      textarea {
+        width: 100%;
+        background: #0d0d0d;
+        border: 1px solid #444;
+        border-radius: 6px;
+        color: #eee;
+        padding: 6px;
+        font-family: inherit;
+        margin-top: 6px;
+      }
+      input:focus,
+      input:focus-visible,
+      textarea:focus,
+      textarea:focus-visible {
+        outline: none;
+        box-shadow: none;
+        border-color: #555;
+      }
+      textarea {
+        min-height: 140px;
+        resize: vertical;
+      }
+      .muted {
+        color: #bbb;
+      }
+
+      .file-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+        font-size: 12px;
+        padding: 6px 0;
+        border-bottom: 1px solid #333;
+      }
+      .file-left {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        min-width: 0;
+      }
+      .thumb {
+        width: 16px;
+        height: 16px;
+        border-radius: 3px;
+        border: 1px solid #333;
+        object-fit: cover;
+        display: block;
+      }
+      .file-row .name {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 220px;
+      }
+      .file-row .remove {
+        cursor: pointer;
+        text-decoration: underline;
+      }
+
+      .chipRow {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-top: 6px;
+      }
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 2px 8px;
+        border: 1px solid #444;
+        border-radius: 999px;
+        font-size: 12px;
+        cursor: pointer;
+        user-select: none;
+        background: #0f0f0f;
+      }
+      .chip.active {
+        background: #1c1c1c;
+        border-color: #666;
+      }
+      .chip:hover {
+        border-color: #777;
+      }
+      .chip.radio:not(.active) {
+        background: #0d0d0d;
+        border-color: #3a3a3a;
+        opacity: 0.85;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="app">
+      <header style="grid-column: 1/3">
+        <button id="btnAdd">+ New node</button>
+        <button id="btnAuto">Auto layout</button>
+        <button id="btnOpen">Open</button>
+        <button id="btnSave">Save</button>
+        <button id="btnUndo">Undo</button>
+        <button id="btnRedo">Redo</button>
+        <button id="btnDel">Delete selection</button>
+        <button id="btnFit">Fit view (0)</button>
+        <span id="status" class="muted" style="margin-left: 8px"></span>
+      </header>
+
+      <div id="stage"><svg id="edges" preserveAspectRatio="none"></svg></div>
+
+      <aside>
+        <h3 id="panelTitle">Node properties</h3>
+        <div id="nodeForm">
+          <form onsubmit="return false;">
+            <label>Date <input id="fDate" type="date" /></label>
+
+            <label
+              >Title
+              <input
+                id="fTitle"
+                type="text"
+                placeholder="(optional, spaces allowed)"
+              />
+            </label>
+
+            <label
+              >Type
+              <input
+                id="fType"
+                type="text"
+                placeholder="e.g. Brief, Prototype (no spaces while typing)"
+              />
+              <div id="typeChips" class="chipRow"></div>
+            </label>
+
+            <label
+              >Action
+              <div id="actionChips" class="chipRow">
+                <div class="chip radio" data-val="Exploring">Exploring</div>
+                <div class="chip radio" data-val="Making">Making</div>
+              </div>
+            </label>
+
+            <label
+              >Main area
+              <div id="mainAreaChips" class="chipRow">
+                <div class="chip radio" data-val="Speculation">Speculation</div>
+                <div class="chip radio" data-val="Interaction">Interaction</div>
+                <div class="chip radio" data-val="Communication">
+                  Communication
+                </div>
+              </div>
+            </label>
+
+            <label
+              >Areas
+              <input
+                id="fAreas"
+                type="text"
+                placeholder="Comma separated (you can type freely)"
+              />
+              <div id="areasChips" class="chipRow"></div>
+            </label>
+
+            <label
+              >Description
+              <textarea
+                id="fDesc"
+                placeholder="Paragraphs and - bullet lists supported"
+              ></textarea>
+            </label>
+
+            <label
+              >Tags
+              <input
+                id="fTags"
+                type="text"
+                placeholder="Comma separated (you can type freely)"
+              />
+              <div id="tagsChips" class="chipRow"></div>
+            </label>
+
+            <label
+              >Links
+              <textarea id="fLinks" placeholder="One URL per line"></textarea>
+            </label>
+
+            <input id="fFiles" type="file" multiple style="display: none" />
+            <div
+              style="
+                display: flex;
+                gap: 8px;
+                align-items: center;
+                margin-top: 10px;
+              "
+            >
+              <button id="btnChoose" type="button">Choose files</button>
+              <span id="selInfo" class="muted">No selection</span>
+            </div>
+            <div id="filesList" class="muted" style="margin-top: 6px"></div>
+          </form>
+        </div>
+
+        <div id="edgeForm" style="display: none">
+          <div class="muted" style="font-size: 12px; margin-bottom: 6px">
+            From: <span id="eFrom">—</span> → To: <span id="eTo">—</span>
+          </div>
+          <label class="checkboxRow"
+            ><input id="eDashed" type="checkbox" /> Weak (dashed)</label
+          >
+        </div>
+
+        <input
+          id="openFile"
+          type="file"
+          accept="application/json"
+          style="display: none"
+        />
+      </aside>
+    </div>
+
+    <script>
+      (() => {
+        const GRID = 24,
+          NODE_W = 320,
+          NODE_H = 180,
+          HGAP = 160,
+          VGAP = 40,
+          MIN_LAYER_GAP = 24;
+        const IMG_MAX_SIDE = 1500,
+          IMG_TARGET_BYTES = 500 * 1024;
+        const CLICK_THRESHOLD = 10;
+
+        const projectCtx = { mode: null, dirHandle: null };
+
+        const history = {
+          undo: [],
+          redo: [],
+
+          limit: 80,
+          lock: false,
+          debounce: null,
+        };
+        const snap = () => ({
+          nodes: structuredClone(state.nodes),
+          edges: structuredClone(state.edges),
+          selNodes: [...state.selNodes],
+          selEdges: [...state.selEdges],
+          pan: { ...state.pan },
+          zoom: state.zoom,
+        });
+        function pushHistory() {
+          if (history.lock) return;
+          history.undo.push(snap());
+          if (history.undo.length > history.limit) history.undo.shift();
+          history.redo.length = 0;
+        }
+        const scheduleHistory = () => {
+          clearTimeout(history.debounce);
+          history.debounce = setTimeout(pushHistory, 400);
+        };
+
+        const state = {
+          nodes: [],
+          edges: [],
+          selNodes: new Set(),
+          selEdges: new Set(),
+          zoom: 1,
+          pan: { x: 0, y: 0 },
+          press: null,
+          dragLink: null,
+          spaceDown: false,
+          marquee: null,
+          ignoreNextStageClick: false,
+          clip: null,
+          groupSeq: 1,
+        };
+
+        function $(s) {
+          return document.querySelector(s);
+        }
+        const stage = $("#stage"),
+          edgesSVG = $("#edges"),
+          status = $("#status");
+
+        // === UX: hit-test del vuoto & flag gesto ===
+        function isBlankAtPoint(clientX, clientY) {
+          const el = document.elementFromPoint(clientX, clientY);
+          return el === stage || el === edgesSVG;
+        }
+        // mousedown nato sul vuoto?
+        let bgPointerDown = false;
+        // durante questo gesto si è mosso (pan o marquee)?
+        let gestureMoved = false;
+
+        const f = {
+          date: $("#fDate"),
+          title: $("#fTitle"),
+          type: $("#fType"),
+          actionChips: $("#actionChips"),
+          mainAreaChips: $("#mainAreaChips"),
+          areas: $("#fAreas"),
+          areasChips: $("#areasChips"),
+          tags: $("#fTags"),
+          tagsChips: $("#tagsChips"),
+          desc: $("#fDesc"),
+          links: $("#fLinks"),
+          files: $("#fFiles"),
+          filesList: $("#filesList"),
+          selInfo: $("#selInfo"),
+          btnChoose: $("#btnChoose"),
+          openFile: $("#openFile"),
+          nodeForm: $("#nodeForm"),
+          edgeForm: $("#edgeForm"),
+          eFrom: $("#eFrom"),
+          eTo: $("#eTo"),
+          eDashed: $("#eDashed"),
+          panelTitle: $("#panelTitle"),
+          typeChips: $("#typeChips"),
+        };
+
+        const uid = () => "n" + Math.random().toString(36).slice(2, 9);
+        const setStatus = (m) => (status.textContent = m || "");
+        const esc = (s) =>
+          (s ?? "").replace(
+            /[&<>"']/g,
+            (c) =>
+              ({
+                "&": "&amp;",
+                "<": "&lt;",
+                ">": "&gt;",
+                '"': "&quot;",
+                "'": "&#39;",
+              }[c])
+          );
+
+        function splitListComma(str) {
+          return (str || "")
+            .split(/,\s*/)
+            .map((s) => s.trim())
+            .filter(Boolean);
+        }
+        function normalizeToken(s) {
+          if (!s) return "";
+          const t = s.trim().replace(/\s+/g, " ");
+          if (!t) return "";
+          return t.charAt(0).toUpperCase() + t.slice(1).toLowerCase();
+        }
+        function normalizeArray(arr) {
+          const seen = new Set(),
+            out = [];
+          for (const raw of arr) {
+            const n = normalizeToken(raw);
+            if (!n) continue;
+            const key = n.toLowerCase();
+            if (seen.has(key)) continue;
+            seen.add(key);
+            out.push(n);
+          }
+          return out;
+        }
+        function normalizeURL(s) {
+          if (!s) return null;
+          let u = s.trim();
+          if (!/^https?:\/\//i.test(u)) u = "https://" + u;
+          try {
+            new URL(u);
+            return u;
+          } catch {
+            return null;
+          }
+        }
+        function bytes(b) {
+          if (!Number.isFinite(b)) return "";
+          const k = 1024,
+            u = ["B", "KB", "MB", "GB"];
+          let i = 0;
+          while (b >= k && i < u.length - 1) {
+            b /= k;
+            i++;
+          }
+          return b.toFixed(b < 10 && i > 0 ? 1 : 0) + " " + u[i];
+        }
+        function todayYMD() {
+          const d = new Date();
+          const mm = String(d.getMonth() + 1).padStart(2, "0");
+          const dd = String(d.getDate()).padStart(2, "0");
+          return `${d.getFullYear()}-${mm}-${dd}`;
+        }
+        function formatDateIT(ymd) {
+          if (!ymd) return "";
+          const [y, m, d] = ymd.split("-");
+          return y && m && d ? `${d}/${m}/${y}` : ymd;
+        }
+
+        function toWorld(cx, cy) {
+          const r = stage.getBoundingClientRect();
+          return {
+            x: (cx - r.left - state.pan.x) / state.zoom,
+            y: (cy - r.top - state.pan.y) / state.zoom,
+          };
+        }
+        function fromWorld(x, y) {
+          return {
+            x: x * state.zoom + state.pan.x,
+            y: y * state.zoom + state.pan.y,
+          };
+        }
+
+        function ensureSVGSize() {
+          const r = stage.getBoundingClientRect();
+          const w = Math.max(1, Math.round(r.width)),
+            h = Math.max(1, Math.round(r.height));
+          edgesSVG.setAttribute("width", w);
+          edgesSVG.setAttribute("height", h);
+          edgesSVG.setAttribute(
+            "viewBox",
+            `${-state.pan.x / state.zoom} ${-state.pan.y / state.zoom} ${
+              w / state.zoom
+            } ${h / state.zoom}`
+          );
+        }
+        window.addEventListener("resize", () => {
+          ensureSVGSize();
+          updateGrid();
+        });
+        ensureSVGSize();
+        function updateGrid() {
+          const sizeX = GRID * state.zoom,
+            sizeY = GRID * state.zoom;
+          const posX = state.pan.x % sizeX,
+            posY = state.pan.y % sizeY;
+          stage.style.backgroundSize = `${sizeX}px ${sizeY}px, ${sizeX}px ${sizeY}px`;
+          stage.style.backgroundPosition = `${posX}px ${posY}px, ${posX}px ${posY}px`;
+        }
+
+        function emptyData() {
+          return {
+            date: todayYMD(),
+            title: "",
+            type: "",
+            action: null,
+            mainArea: null,
+            areas: [],
+            tags: [],
+            desc: "",
+            links: [],
+            files: [],
+          };
+        }
+        function getNodeById(id) {
+          return state.nodes.find((n) => n.id === id) || null;
+        }
+        function getEdgeByIndex(i) {
+          return state.edges[i] || null;
+        }
+
+        function addNodeAt(x, y, initialData = null) {
+          pushHistory();
+          const id = uid();
+          const node = {
+            id,
+            x,
+            y,
+            w: 320,
+            h: 180,
+            data: initialData
+              ? { ...emptyData(), ...initialData }
+              : emptyData(),
+          };
+          state.nodes.push(node);
+          vocabInitNodeSnapshot(node);
+          mountNode(node);
+          measure(node);
+          positionNode(node);
+          populate(node);
+          selectOnlyNodes([id]);
+          renderEdges();
+          return id;
+        }
+        function addNode() {
+          const i = state.nodes.length;
+          return addNodeAt(80 + i * 40, 80 + i * 30);
+        }
+
+        function mountNode(node) {
+          const el = document.createElement("div");
+          el.className = "node";
+          el.id = node.id;
+          el.innerHTML = `
+            <div class="handle in" data-role="in" title="Input"></div>
+            <div class="handle out" data-role="out" title="Output / Create child"></div>
+            <div class="titlebar"><div class="title"></div></div>
+            <div class="body">
+              <div class="meta"><span class="date"></span></div>
+              <div class="divider"></div>
+              <div class="kv">
+                <div>Type</div><div class="object typeField"></div>
+                <div>Action</div><div class="action"></div>
+                <div>Main area</div><div class="mainArea"></div>
+                <div>Areas</div><div class="areas"></div>
+              </div>
+              <div class="descBlock">
+                <div class="descTitle" style="display:none">Description</div>
+                <div class="desc"></div>
+              </div>
+              <div class="tags"></div>
+              <div class="links"></div>
+              <div class="images"></div>
+              <div class="attachments"></div>
+            </div>`;
+          stage.appendChild(el);
+
+          // Drag nodo (multi)
+          let dragging = false,
+            off = { x: 0, y: 0 },
+            pushed = false,
+            multiOffsets = null;
+          el.addEventListener("mousedown", (e) => {
+            const role = e.target.getAttribute("data-role");
+            if (role) return;
+            dragging = true;
+            el.classList.add("dragging");
+            const w = toWorld(e.clientX, e.clientY);
+            off.x = w.x - node.x;
+            off.y = w.y - node.y;
+            if (!pushed) {
+              pushHistory();
+              pushed = true;
+            }
+
+            if (node.group && !e.shiftKey) {
+              const groupNodes = state.nodes
+                .filter((n) => n.group === node.group)
+                .map((n) => n.id);
+              selectOnlyNodes(groupNodes);
+            } else {
+              if (e.shiftKey) toggleNodeSelection(node.id);
+              else if (!state.selNodes.has(node.id)) selectOnlyNodes([node.id]);
+            }
+            clearEdgeSelection();
+            updateSidebarSelectionLabel();
+            refreshSidebarForms();
+
+            if (state.selNodes.size > 1) {
+              const cur = toWorld(e.clientX, e.clientY);
+              multiOffsets = [...state.selNodes].map((id) => {
+                const n = getNodeById(id);
+                return { id, dx: n.x - cur.x, dy: n.y - cur.y };
+              });
+            } else multiOffsets = null;
+          });
+          document.addEventListener("mousemove", (e) => {
+            if (!dragging) return;
+            const w = toWorld(e.clientX, e.clientY);
+            if (multiOffsets) {
+              for (const m of multiOffsets) {
+                const n = getNodeById(m.id);
+                if (!n) continue;
+                n.x = w.x + m.dx;
+                n.y = w.y + m.dy;
+                positionNode(n);
+              }
+            } else {
+              node.x = w.x - off.x;
+              node.y = w.y - off.y;
+              positionNode(node);
+            }
+            renderEdges();
+          });
+          document.addEventListener("mouseup", () => {
+            if (dragging) {
+              dragging = false;
+              el.classList.remove("dragging");
+              if (multiOffsets) {
+                for (const m of multiOffsets) {
+                  const n = getNodeById(m.id);
+                  n && measure(n);
+                }
+              } else {
+                measure(node);
+              }
+              pushed = false;
+              multiOffsets = null;
+            }
+          });
+
+          // Handles
+          const inEl = el.querySelector(".in"),
+            outEl = el.querySelector(".out");
+          const handleDown = (side) => (e) => {
+            e.stopPropagation();
+            const sources =
+              state.selNodes.has(node.id) && state.selNodes.size > 1
+                ? [...state.selNodes]
+                : [node.id];
+            state.press = {
+              side,
+              sources,
+              primary: node.id,
+              startX: e.clientX,
+              startY: e.clientY,
+              moved: false,
+            };
+          };
+          const handleUp = (side) => (e) => {
+            e.stopPropagation();
+            if (state.dragLink && state.dragLink.active) {
+              const from = state.dragLink.from;
+              if (
+                (from === "out" && side === "in") ||
+                (from === "in" && side === "out")
+              ) {
+                pushHistory();
+                const targetNodeId = node.id;
+                if (from === "out") {
+                  for (const s of state.dragLink.sources) {
+                    if (s !== targetNodeId) addEdge(s, targetNodeId);
+                  }
+                } else {
+                  for (const t of state.dragLink.sources) {
+                    if (t !== targetNodeId) addEdge(targetNodeId, t);
+                  }
+                }
+                cancelGhost();
+                renderEdges();
+                setStatus("Edge created");
+                return;
+              }
+            }
+            if (
+              state.press &&
+              !state.press.moved &&
+              state.press.side === side
+            ) {
+              if (side === "out") {
+                if (!state.dragLink) {
+                  pushHistory();
+                  const srcs = state.press.sources;
+                  for (const sid of srcs) {
+                    const parent = getNodeById(sid);
+                    if (!parent) continue;
+                    const pos = nextChildPosition(parent);
+                    const p = parent.data;
+                    const init = {
+                      type: p.type || "",
+                      action: p.action ?? null,
+                      mainArea: p.mainArea ?? null,
+                      areas: [...(p.areas || [])],
+                    };
+                    const childId = addNodeAt(pos.x, pos.y, init);
+                    addEdge(parent.id, childId);
+                  }
+                  renderEdges();
+                  setStatus(
+                    srcs.length > 1
+                      ? "Children created and connected"
+                      : "Child created and connected"
+                  );
+                } else {
+                  if (state.dragLink.from === "in") {
+                    pushHistory();
+                    const targetNodeId = node.id;
+                    for (const t of state.dragLink.sources) {
+                      if (t !== targetNodeId) addEdge(targetNodeId, t);
+                    }
+                    cancelGhost();
+                    renderEdges();
+                    setStatus("Edge created");
+                  }
+                }
+              } else {
+                if (state.dragLink && state.dragLink.from === "out") {
+                  pushHistory();
+                  const targetNodeId = node.id;
+                  for (const s of state.dragLink.sources) {
+                    if (s !== targetNodeId) addEdge(s, targetNodeId);
+                  }
+                  cancelGhost();
+                  renderEdges();
+                  setStatus("Edge created");
+                }
+              }
+            }
+            state.press = null;
+          };
+          const handleMove = () => (e) => {
+            if (!state.press) return;
+            const dx = e.clientX - state.press.startX,
+              dy = e.clientY - state.press.startY;
+            if (!state.press.moved && Math.hypot(dx, dy) > CLICK_THRESHOLD) {
+              state.press.moved = true;
+              startGhost(
+                state.press.side,
+                state.press.sources,
+                state.press.primary
+              );
+            }
+            if (state.dragLink && state.dragLink.active) {
+              const w = toWorld(e.clientX, e.clientY);
+              state.dragLink.x = w.x;
+              state.dragLink.y = w.y;
+              renderEdges();
+            }
+          };
+          outEl.addEventListener("mousedown", handleDown("out"));
+          inEl.addEventListener("mousedown", handleDown("in"));
+          outEl.addEventListener("mouseup", handleUp("out"));
+          inEl.addEventListener("mouseup", handleUp("in"));
+          document.addEventListener("mousemove", handleMove());
+        }
+
+        function startGhost(from, sources, primary) {
+          state.dragLink = {
+            active: true,
+            from,
+            sources: [...new Set(sources)],
+            primary,
+            x: 0,
+            y: 0,
+          };
+          document.body.style.cursor = "grabbing";
+          stage.style.cursor = "grabbing";
+          setStatus(from === "out" ? "Drag to input…" : "Drag to output…");
+        }
+        function cancelGhost() {
+          state.dragLink = null;
+          state.press = null;
+          document.body.style.cursor = "";
+          stage.style.cursor = "";
+          setStatus("");
+        }
+        document.addEventListener("mouseup", () => {
+          if (state.press) state.press = null;
+          if (!(state.dragLink && state.dragLink.active)) {
+            document.body.style.cursor = "";
+            stage.style.cursor = "";
+          }
+        });
+
+        // Click su canvas: deseleziona SOLO su sfondo vuoto (stage o edgesSVG “nudo”)
+        stage.addEventListener("click", (e) => {
+          if (state.ignoreNextStageClick) {
+            state.ignoreNextStageClick = false;
+            return;
+          }
+          // se stavo trascinando un ghost-link, annulla ma NON deselezionare
+          if (state.dragLink && state.dragLink.active) {
+            cancelGhost();
+            renderEdges();
+            return;
+          }
+          // Desel. SOLO se: mousedown su vuoto, nessun movimento, e il punto è ancora vuoto
+          if (
+            bgPointerDown &&
+            !gestureMoved &&
+            isBlankAtPoint(e.clientX, e.clientY)
+          ) {
+            finalizeEditsCurrentNode();
+            clearAllSelection();
+          }
+          // reset flags gesto
+          bgPointerDown = false;
+          gestureMoved = false;
+        });
+
+        document.addEventListener("keydown", (e) => {
+          if (e.key === "Escape") {
+            if (state.dragLink) {
+              cancelGhost();
+              renderEdges();
+            } else {
+              finalizeEditsCurrentNode();
+              clearAllSelection();
+            }
+          }
+        });
+
+        // === Keyboard (Space non “ruba” negli input)
+        document.addEventListener("keydown", (e) => {
+          const tag = document.activeElement?.tagName;
+          const inText =
+            tag === "INPUT" ||
+            tag === "TEXTAREA" ||
+            document.activeElement?.isContentEditable;
+
+          if (e.code === "Space" && !inText) {
+            state.spaceDown = true;
+            e.preventDefault();
+            stage.style.cursor = "move";
+            return;
+          }
+
+          if ((e.metaKey || e.ctrlKey) && !inText) {
+            const k = e.key.toLowerCase();
+            if (k === "z" && !e.shiftKey) {
+              e.preventDefault();
+              undo();
+              return;
+            }
+            if ((k === "z" && e.shiftKey) || k === "y") {
+              e.preventDefault();
+              redo();
+              return;
+            }
+            if (k === "o") {
+              e.preventDefault();
+              openProject();
+              return;
+            }
+            if (k === "s" && !e.shiftKey) {
+              e.preventDefault();
+              saveProjectSmart();
+              return;
+            }
+            if (k === "s" && e.shiftKey) {
+              e.preventDefault();
+              saveAs();
+              return;
+            }
+            if (k === "p") {
+              e.preventDefault();
+              exportJSON();
+              return;
+            }
+            if (k === "n") {
+              e.preventDefault();
+              newProject();
+              return;
+            }
+            if (k === "a" && !e.shiftKey) {
+              e.preventDefault();
+              selectAll();
+              return;
+            }
+            if (k === "a" && e.shiftKey) {
+              e.preventDefault();
+              finalizeEditsCurrentNode();
+              clearAllSelection();
+              return;
+            }
+            if (k === "d" && !e.shiftKey) {
+              e.preventDefault();
+              duplicateSelection();
+              return;
+            }
+            if (k === "g" && !e.shiftKey) {
+              e.preventDefault();
+              groupSelection();
+              return;
+            }
+            if (k === "g" && e.shiftKey) {
+              e.preventDefault();
+              ungroupSelection();
+              return;
+            }
+            if (k === "c") {
+              e.preventDefault();
+              copySelection();
+              return;
+            }
+            if (k === "x") {
+              e.preventDefault();
+              cutSelection();
+              return;
+            }
+            if (k === "v") {
+              e.preventDefault();
+              pasteClipboard();
+              return;
+            }
+          }
+
+          if ((e.key === "Delete" || e.key === "Backspace") && !inText) {
+            e.preventDefault();
+            doDeleteSelection();
+            return;
+          }
+          if (e.key === "0") {
+            e.preventDefault();
+            fitView();
+            return;
+          }
+          if ((e.key === "l" || e.key === "L") && !inText) {
+            if (state.selNodes.size === 2) {
+              pushHistory();
+              const [a, b] = [...state.selNodes];
+              const na = getNodeById(a),
+                nb = getNodeById(b);
+              if (na && nb) {
+                const s = na.x <= nb.x ? a : b;
+                const t = na.x <= nb.x ? b : a;
+                addEdge(s, t);
+                renderEdges();
+                setStatus(`Connected ${s} → ${t}`);
+              }
+            }
+          }
+        });
+        document.addEventListener("keyup", (e) => {
+          if (e.code === "Space") {
+            state.spaceDown = false;
+            stage.style.cursor = "";
+          }
+        });
+
+        function doDeleteSelection() {
+          if (state.selEdges.size || state.selNodes.size) pushHistory();
+          if (state.selEdges.size) {
+            const del = [...state.selEdges].sort((a, b) => b - a);
+            del.forEach((i) => state.edges.splice(i, 1));
+            state.selEdges.clear();
+          }
+          if (state.selNodes.size) {
+            const ids = [...state.selNodes];
+            for (const id of ids) {
+              const n = getNodeById(id);
+              n && vocabRemoveNode(n);
+            }
+            state.edges = state.edges.filter(
+              (e) => !state.selNodes.has(e.s) && !state.selNodes.has(e.t)
+            );
+            ids.forEach((id) => document.getElementById(id)?.remove());
+            state.nodes = state.nodes.filter((n) => !state.selNodes.has(n.id));
+            state.selNodes.clear();
+
+            // ripulisci MRU type “vuoti”
+            vocab.typeMRU.removeIf((x) => {
+              const k = normalizeToken(x || "");
+              return !k || (counts.type.get(k) || 0) <= 0;
+            });
+          }
+          renderEdges();
+          refreshNodeSelectionClasses();
+          applyEdgeSelection();
+          updateSidebarSelectionLabel();
+          refreshSidebarForms();
+          clearForm();
+        }
+
+        function positionNode(node) {
+          const el = $("#" + node.id);
+          const p = fromWorld(node.x, node.y);
+          el.style.transform = `translate(${p.x}px,${p.y}px) scale(${state.zoom})`;
+        }
+        function measure(node) {
+          const el = $("#" + node.id);
+          node.w = el.offsetWidth;
+          node.h = el.offsetHeight;
+        }
+
+        function renderDescription(htmlEl, text) {
+          if (!text) {
+            htmlEl.innerHTML = "";
+            return;
+          }
+          const lines = text.replace(/\r\n/g, "\n").split("\n");
+          let out = "",
+            inList = false;
+          const flush = () => {
+            if (inList) {
+              out += "</ul>";
+              inList = false;
+            }
+          };
+          for (const raw of lines) {
+            const line = raw.trimEnd();
+            if (/^[-*]\s+/.test(line)) {
+              if (!inList) {
+                out += "<ul>";
+                inList = true;
+              }
+              const item = esc(line.replace(/^[-*]\s+/, ""));
+              out += `<li>${item}</li>`;
+            } else if (line === "") {
+              flush();
+              out += "<p></p>";
+            } else {
+              flush();
+              out += `<p>${esc(line)}</p>`;
+            }
+          }
+          flush();
+          htmlEl.innerHTML = out;
+        }
+
+        function populate(node) {
+          const el = $("#" + node.id);
+          if (!el) return;
+          const d = node.data;
+          const tb = el.querySelector(".titlebar");
+          const hasTitle = !!(d.title && d.title.trim());
+          tb.style.display = hasTitle ? "flex" : "none";
+          el.querySelector(".title").textContent = hasTitle ? d.title : "";
+          el.querySelector(".date").textContent = formatDateIT(d.date) || "";
+          el.querySelector(".typeField").textContent = d.type || "";
+          el.querySelector(".action").textContent = d.action || "";
+          el.querySelector(".mainArea").textContent = d.mainArea || "";
+          el.querySelector(".areas").textContent = (d.areas || []).join(", ");
+
+          const descTitle = el.querySelector(".descTitle");
+          descTitle.style.display = d.desc ? "block" : "none";
+          renderDescription(el.querySelector(".desc"), d.desc || "");
+
+          const tagsEl = el.querySelector(".tags");
+          tagsEl.innerHTML = (d.tags || [])
+            .map((t) => `<span class="badge">${esc(t)}</span>`)
+            .join("");
+
+          const linksEl = el.querySelector(".links");
+          linksEl.innerHTML = (d.links || [])
+            .map((raw) => {
+              const url = normalizeURL(raw);
+              return url
+                ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(
+                    raw
+                  )}</a>`
+                : `<span class="muted">${esc(raw)}</span>`;
+            })
+            .join("");
+
+          const imagesEl = el.querySelector(".images");
+          const imgs = (d.files || []).filter((f) => f.isImage);
+          imagesEl.innerHTML = imgs
+            .map(
+              (f) =>
+                `<img src="${esc(f.url)}" alt="${esc(
+                  f.name
+                )}" draggable="false">`
+            )
+            .join("");
+
+          const attEl = el.querySelector(".attachments");
+          const docs = (d.files || []).filter((f) => !f.isImage);
+          attEl.innerHTML = docs
+            .map((f) => {
+              const href = esc(f.url),
+                name = esc(f.name);
+              return f.isPDF
+                ? `<a href="${href}" target="_blank" rel="noopener">${name}</a>`
+                : `<a href="${href}" download="${name}">${name}</a>`;
+            })
+            .join(" ");
+        }
+
+        // ==== Forms ====
+        function fillFormForNode(node) {
+          const d = node?.data || emptyData();
+          f.date.value = d.date || "";
+          f.title.value = d.title || "";
+          f.type.value = d.type || "";
+          renderRadioChips(f.actionChips, d.action);
+          renderRadioChips(f.mainAreaChips, d.mainArea);
+          f.areas.value = (d.areas || []).join(", ");
+          f.tags.value = (d.tags || []).join(", ");
+          f.desc.value = d.desc || "";
+          f.links.value = (d.links || []).join("\n");
+          renderFilesList(node);
+          f.files.value = "";
+          renderSuggestionsForNode(node);
+        }
+        function clearForm() {
+          for (const el of [
+            f.date,
+            f.title,
+            f.type,
+            f.areas,
+            f.tags,
+            f.desc,
+            f.links,
+          ])
+            el.value = "";
+          f.filesList.innerHTML = "";
+          f.areasChips.innerHTML = "";
+          f.tagsChips.innerHTML = "";
+          f.typeChips.innerHTML = "";
+          renderRadioChips(f.actionChips, null);
+          renderRadioChips(f.mainAreaChips, null);
+        }
+
+        function renderFilesList(node) {
+          const files = node?.data?.files || [];
+          if (!files.length) {
+            f.filesList.innerHTML = "";
+            return;
+          }
+          f.filesList.innerHTML = files
+            .map((file, i) => {
+              const name = esc(file.name || "file");
+              const size = bytes(file.size || 0);
+              const thumb = file.isImage
+                ? `<img class="thumb" src="${esc(file.url)}" alt="">`
+                : "";
+              return `<div class="file-row"><div class="file-left">${thumb}<div class="name">• ${name}${
+                size ? " — " + esc(size) : ""
+              }</div></div><div class="remove" data-idx="${i}">Remove</div></div>`;
+            })
+            .join("");
+        }
+
+        function updateSidebarSelectionLabel() {
+          const n = state.selNodes.size,
+            e = state.selEdges.size;
+          if (n === 0 && e === 0) {
+            f.selInfo.textContent = "No selection";
+            return;
+          }
+          if (n === 1 && e === 0) {
+            const id = [...state.selNodes][0];
+            const node = getNodeById(id);
+            f.selInfo.textContent = `Selected: ${node?.data?.title || id}`;
+            return;
+          }
+          if (n === 0 && e === 1) {
+            const i = [...state.selEdges][0];
+            const ed = getEdgeByIndex(i);
+            f.selInfo.textContent = `Selected edge: ${ed?.s || "?"} → ${
+              ed?.t || "?"
+            }`;
+            return;
+          }
+          f.selInfo.textContent = `${n} node(s), ${e} edge(s) selected`;
+        }
+        function refreshSidebarForms() {
+          const showNode =
+            state.selNodes.size === 1 && state.selEdges.size === 0;
+          const showEdge =
+            state.selEdges.size === 1 && state.selNodes.size === 0;
+          f.nodeForm.style.display = showNode ? "block" : "none";
+          f.edgeForm.style.display = showEdge ? "block" : "none";
+          f.panelTitle.textContent = showEdge
+            ? "Edge properties"
+            : "Node properties";
+          if (showNode) {
+            fillFormForNode(getNodeById([...state.selNodes][0]));
+          } else if (!showEdge) {
+            clearForm();
+          }
+          if (showEdge) {
+            const idx = [...state.selEdges][0];
+            const edge = getEdgeByIndex(idx);
+            f.eFrom.textContent = edge?.s || "—";
+            f.eTo.textContent = edge?.t || "—";
+            f.eDashed.checked = !!edge?.dashed;
+          }
+        }
+
+        // Radio chips
+        function renderRadioChips(container, activeVal) {
+          container.querySelectorAll(".chip").forEach((c) => {
+            c.classList.toggle(
+              "active",
+              c.getAttribute("data-val") === activeVal
+            );
+          });
+        }
+        function attachRadioChips() {
+          f.actionChips.addEventListener("click", (e) => {
+            const chip = e.target.closest(".chip");
+            if (!chip) return;
+            if (state.selNodes.size !== 1) return;
+            const node = getNodeById([...state.selNodes][0]);
+            const val = chip.getAttribute("data-val");
+            const newVal = node.data.action === val ? null : val;
+            node.data.action = newVal;
+            renderRadioChips(f.actionChips, newVal);
+            populate(node);
+            measure(node);
+            scheduleHistory();
+          });
+          f.mainAreaChips.addEventListener("click", (e) => {
+            const chip = e.target.closest(".chip");
+            if (!chip) return;
+            if (state.selNodes.size !== 1) return;
+            const node = getNodeById([...state.selNodes][0]);
+            const val = chip.getAttribute("data-val");
+            const newVal = node.data.mainArea === val ? null : val;
+            node.data.mainArea = newVal;
+            renderRadioChips(f.mainAreaChips, newVal);
+            populate(node);
+            measure(node);
+            scheduleHistory();
+          });
+        }
+        attachRadioChips();
+
+        // ==== Vocabulary / MRU ====
+        const MRU_CAP = Infinity;
+        const vocab = {
+          areasMRU: makeMRU(MRU_CAP),
+          tagsMRU: makeMRU(MRU_CAP),
+          typeMRU: makeMRU(MRU_CAP),
+        };
+        const counts = { areas: new Map(), tags: new Map(), type: new Map() };
+        const nodeLast = new Map(); // { id -> { type, areas:Set, tags:Set } }
+
+        // nuova funzione globale
+        function recomputeTypeCountsAndMRU() {
+          // azzera solo i conti Type (non tocchiamo areas/tags)
+          counts.type.clear();
+          // riconta dai nodi attuali usando gli snapshot normalizzati
+          for (const [id, snap] of nodeLast.entries()) {
+            const t = snap?.type || "";
+            if (t) counts.type.set(t, (counts.type.get(t) || 0) + 1);
+          }
+          // pota l'MRU Type: tieni solo le voci vive (count>0)
+          vocab.typeMRU.removeIf((x) => (counts.type.get(x) || 0) <= 0);
+        }
+
+        function makeMRU(cap) {
+          const arr = [],
+            set = new Set();
+          return {
+            put(x) {
+              if (!x) return;
+              const k = (x || "").toLowerCase();
+              if (set.has(k)) {
+                const i = arr.findIndex((v) => v.toLowerCase() === k);
+                if (i > -1) arr.splice(i, 1);
+              } else set.add(k);
+              arr.unshift(x);
+              while (arr.length > cap) {
+                const rem = arr.pop();
+                set.delete((rem || "").toLowerCase());
+              }
+            },
+            removeIf(pred) {
+              for (let i = arr.length - 1; i >= 0; i--) {
+                if (pred(arr[i])) {
+                  set.delete((arr[i] || "").toLowerCase());
+                  arr.splice(i, 1);
+                }
+              }
+            },
+            list() {
+              return arr.slice();
+            },
+            clear() {
+              arr.length = 0;
+              set.clear();
+            },
+          };
+        }
+        function pruneTypeMRUOnce() {
+          vocab.typeMRU.removeIf((x) => {
+            const k = normalizeToken(x || "");
+            return !k || (counts.type.get(k) || 0) <= 0;
+          });
+        }
+
+        function vocabResetNodeSnapshots() {
+          nodeLast.clear();
+        }
+        function vocabInitNodeSnapshot(node) {
+          nodeLast.set(node.id, {
+            type: normalizeToken(node.data.type || ""),
+            areas: new Set(normalizeArray(node.data.areas || [])),
+            tags: new Set(normalizeArray(node.data.tags || [])),
+          });
+        }
+        function countsResetAll() {
+          counts.areas.clear();
+          counts.tags.clear();
+          counts.type.clear();
+        }
+        function vocabIngestNode(node) {
+          const snap = nodeLast.get(node.id);
+          if (!snap) return;
+          if (snap.type) {
+            counts.type.set(snap.type, (counts.type.get(snap.type) || 0) + 1);
+          }
+          for (const a of snap.areas) {
+            counts.areas.set(a, (counts.areas.get(a) || 0) + 1);
+          }
+          for (const t of snap.tags) {
+            counts.tags.set(t, (counts.tags.get(t) || 0) + 1);
+          }
+        }
+        function vocabRemoveNode(node) {
+          const snap = nodeLast.get(node.id);
+          if (!snap) return;
+          if (snap.type) {
+            const v = (counts.type.get(snap.type) || 0) - 1;
+            if (v <= 0) {
+              counts.type.delete(snap.type);
+              vocab.typeMRU.removeIf(
+                (x) => x.toLowerCase() === snap.type.toLowerCase()
+              );
+            } else counts.type.set(snap.type, v);
+          }
+          for (const a of snap.areas) {
+            const v = (counts.areas.get(a) || 0) - 1;
+            if (v <= 0) counts.areas.delete(a);
+            else counts.areas.set(a, v);
+          }
+          for (const t of snap.tags) {
+            const v = (counts.tags.get(t) || 0) - 1;
+            if (v <= 0) counts.tags.delete(t);
+            else counts.tags.set(t, v);
+          }
+          nodeLast.delete(node.id);
+        }
+
+        // ==== Input bindings ====
+        function bindLive() {
+          f.date.addEventListener("input", () => {
+            if (state.selNodes.size !== 1) return;
+            const n = getNodeById([...state.selNodes][0]);
+            n.data.date = f.date.value || todayYMD();
+            populate(n);
+            measure(n);
+            scheduleHistory();
+          });
+          f.title.addEventListener("input", () => {
+            if (state.selNodes.size !== 1) return;
+            const n = getNodeById([...state.selNodes][0]);
+            n.data.title = f.title.value;
+            populate(n);
+            measure(n);
+            scheduleHistory();
+          });
+
+          /* TYPE: identico a Areas/Tags → testo libero; commit su blur/Enter */
+          f.type.addEventListener("input", () => {
+            if (state.selNodes.size !== 1) return;
+            // Nessuna normalizzazione live: solo history debounce (come Areas/Tags)
+            scheduleHistory();
+          });
+          f.type.addEventListener("blur", () => {
+            commitTypeForSelected();
+          });
+          f.type.addEventListener("keydown", (e) => {
+            if (e.key === "Enter") {
+              e.preventDefault();
+              commitTypeForSelected();
+            }
+          });
+
+          // AREAS/TAGS: libero; commit su blur/Enter
+          f.areas.addEventListener("input", () => {
+            if (state.selNodes.size !== 1) return;
+            scheduleHistory();
+          });
+          f.areas.addEventListener("blur", () => {
+            commitAreasForSelected();
+          });
+          f.areas.addEventListener("keydown", (e) => {
+            if (e.key === "Enter") {
+              e.preventDefault();
+              commitAreasForSelected();
+            }
+          });
+
+          f.tags.addEventListener("input", () => {
+            if (state.selNodes.size !== 1) return;
+            scheduleHistory();
+          });
+          f.tags.addEventListener("blur", () => {
+            commitTagsForSelected();
+          });
+          f.tags.addEventListener("keydown", (e) => {
+            if (e.key === "Enter") {
+              e.preventDefault();
+              commitTagsForSelected();
+            }
+          });
+
+          f.desc.addEventListener("input", () => {
+            if (state.selNodes.size !== 1) return;
+            const n = getNodeById([...state.selNodes][0]);
+            n.data.desc = f.desc.value;
+            populate(n);
+            measure(n);
+            scheduleHistory();
+          });
+
+          f.links.addEventListener("input", () => {
+            if (state.selNodes.size !== 1) return;
+            const n = getNodeById([...state.selNodes][0]);
+            const list = (f.links.value || "")
+              .split(/\n+/)
+              .map((s) => s.trim())
+              .filter(Boolean);
+            n.data.links = list;
+            populate(n);
+            measure(n);
+            scheduleHistory();
+          });
+
+          // Edge dashed
+          f.eDashed.addEventListener("change", () => {
+            if (!(state.selEdges.size === 1 && state.selNodes.size === 0))
+              return;
+            pushHistory();
+            const idx = [...state.selEdges][0];
+            const edge = getEdgeByIndex(idx);
+            if (!edge) return;
+            edge.dashed = !!f.eDashed.checked;
+            renderEdges();
+          });
+
+          // Files
+          f.btnChoose.addEventListener("click", () => {
+            // apri il picker solo se ho esattamente 1 nodo selezionato
+            if (state.selNodes.size !== 1) {
+              setStatus("Select a node to attach files");
+              return;
+            }
+            f.files.click();
+          });
+          f.files.addEventListener("change", () => {
+            if (state.selNodes.size !== 1) return;
+            pushHistory();
+            const n = getNodeById([...state.selNodes][0]);
+            const newEntries = fileListToEntries(f.files.files);
+            n.data.files = (n.data.files || []).concat(newEntries);
+            f.files.value = "";
+            renderFilesList(n);
+            populate(n);
+            measure(n);
+          });
+          f.filesList.addEventListener("click", (e) => {
+            const rm = e.target.closest(".remove");
+            if (!rm) return;
+            const idx = Number(rm.getAttribute("data-idx"));
+            if (state.selNodes.size !== 1) return;
+            pushHistory();
+            const n = getNodeById([...state.selNodes][0]);
+            n.data.files.splice(idx, 1);
+            renderFilesList(n);
+            populate(n);
+            measure(n);
+          });
+
+          $("#btnUndo").addEventListener("click", undo);
+          $("#btnRedo").addEventListener("click", redo);
+        }
+        bindLive();
+
+        // === Commit (Type/Areas/Tags) ===
+        function commitTypeForSelected() {
+          if (state.selNodes.size !== 1) return;
+          const node = getNodeById([...state.selNodes][0]);
+          if (!node) return;
+
+          const raw = normalizeToken(f.type.value || "");
+          const last = nodeLast.get(node.id);
+          const prev = last?.type || "";
+
+          if (prev && prev !== raw) {
+            const v = (counts.type.get(prev) || 0) - 1;
+            if (v <= 0) {
+              counts.type.delete(prev);
+              vocab.typeMRU.removeIf(
+                (x) => x.toLowerCase() === prev.toLowerCase()
+              );
+            } else {
+              counts.type.set(prev, v);
+            }
+          }
+
+          if (raw) {
+            counts.type.set(raw, (counts.type.get(raw) || 0) + 1);
+            vocab.typeMRU.put(raw);
+          }
+
+          if (last) last.type = raw;
+          node.data.type = raw;
+          f.type.value = raw;
+
+          vocab.typeMRU.removeIf((x) => (counts.type.get(x) || 0) <= 0);
+
+          populate(node);
+          measure(node);
+          renderTypeSuggestions(node);
+        }
+        function commitAreasForSelected() {
+          if (state.selNodes.size !== 1) return;
+          const node = getNodeById([...state.selNodes][0]);
+          if (!node) return;
+          const arr = normalizeArray(splitListComma(f.areas.value || ""));
+          const last = nodeLast.get(node.id);
+          const prev = last ? new Set(last.areas) : new Set();
+          const cur = new Set(arr);
+          for (const x of prev) {
+            if (!cur.has(x)) {
+              const v = (counts.areas.get(x) || 0) - 1;
+              if (v <= 0) counts.areas.delete(x);
+              else counts.areas.set(x, v);
+            }
+          }
+          for (const x of cur) {
+            if (!prev.has(x)) {
+              counts.areas.set(x, (counts.areas.get(x) || 0) + 1);
+              vocab.areasMRU.put(x);
+            }
+          }
+          if (last) last.areas = cur;
+          node.data.areas = [...cur];
+          f.areas.value = [...cur].join(", ");
+          populate(node);
+          measure(node);
+          renderSuggestionsForNode(node);
+        }
+        function commitTagsForSelected() {
+          if (state.selNodes.size !== 1) return;
+          const node = getNodeById([...state.selNodes][0]);
+          if (!node) return;
+          const arr = normalizeArray(splitListComma(f.tags.value || ""));
+          const last = nodeLast.get(node.id);
+          const prev = last ? new Set(last.tags) : new Set();
+          const cur = new Set(arr);
+          for (const x of prev) {
+            if (!cur.has(x)) {
+              const v = (counts.tags.get(x) || 0) - 1;
+              if (v <= 0) counts.tags.delete(x);
+              else counts.tags.set(x, v);
+            }
+          }
+          for (const x of cur) {
+            if (!prev.has(x)) {
+              counts.tags.set(x, (counts.tags.get(x) || 0) + 1);
+              vocab.tagsMRU.put(x);
+            }
+          }
+          if (last) last.tags = cur;
+          node.data.tags = [...cur];
+          f.tags.value = [...cur].join(", ");
+          populate(node);
+          measure(node);
+          renderSuggestionsForNode(node);
+        }
+
+        // Finalizza il nodo corrente su deselect
+        function finalizeEditsCurrentNode() {
+          if (state.selNodes.size !== 1) return;
+          commitTypeForSelected();
+          commitAreasForSelected();
+          commitTagsForSelected();
+        }
+
+        // Suggerimenti
+        function renderTypeSuggestions(node) {
+          const cur = normalizeToken(node?.data?.type || "");
+          const uniq = new Set();
+          // Raccogli i type attuali dal grafo
+          for (const n of state.nodes) {
+            const t = normalizeToken(n?.data?.type || "");
+            if (t && t !== cur) uniq.add(t);
+          }
+          // Ordine stabile e leggibile
+          const live = Array.from(uniq).sort((a, b) =>
+            a.localeCompare(b, undefined, { sensitivity: "base" })
+          );
+          // Render chip
+          f.typeChips.innerHTML = live
+            .map(
+              (x) => `<div class="chip" data-val="${esc(x)}">${esc(x)}</div>`
+            )
+            .join("");
+        }
+        function renderSuggestionsForNode(node) {
+          const curAreas = new Set(normalizeArray(node?.data?.areas || []));
+          const areasList = vocab.areasMRU
+            .list()
+            .filter((x) => (counts.areas.get(x) || 0) > 0 && !curAreas.has(x));
+          f.areasChips.innerHTML = areasList
+            .map(
+              (x) => `<div class="chip" data-val="${esc(x)}">${esc(x)}</div>`
+            )
+            .join("");
+
+          const curTags = new Set(normalizeArray(node?.data?.tags || []));
+          const tagsList = vocab.tagsMRU
+            .list()
+            .filter((x) => (counts.tags.get(x) || 0) > 0 && !curTags.has(x));
+          f.tagsChips.innerHTML = tagsList
+            .map(
+              (x) => `<div class="chip" data-val="${esc(x)}">${esc(x)}</div>`
+            )
+            .join("");
+
+          renderTypeSuggestions(node);
+        }
+        f.areasChips.addEventListener("click", (e) => {
+          const chip = e.target.closest(".chip");
+          if (!chip) return;
+          if (state.selNodes.size !== 1) return;
+          const node = getNodeById([...state.selNodes][0]);
+          const val = chip.getAttribute("data-val");
+          if (!val) return;
+          const tokens = new Set(
+            normalizeArray(splitListComma(f.areas.value || ""))
+          );
+          if (!tokens.has(val)) {
+            tokens.add(val);
+            f.areas.value = [...tokens].join(", ");
+            commitAreasForSelected();
+          }
+        });
+        f.tagsChips.addEventListener("click", (e) => {
+          const chip = e.target.closest(".chip");
+          if (!chip) return;
+          if (state.selNodes.size !== 1) return;
+          const node = getNodeById([...state.selNodes][0]);
+          const val = chip.getAttribute("data-val");
+          if (!val) return;
+          const tokens = new Set(
+            normalizeArray(splitListComma(f.tags.value || ""))
+          );
+          if (!tokens.has(val)) {
+            tokens.add(val);
+            f.tags.value = [...tokens].join(", ");
+            commitTagsForSelected();
+          }
+        });
+        f.typeChips.addEventListener("click", (e) => {
+          const chip = e.target.closest(".chip");
+          if (!chip) return;
+          if (state.selNodes.size !== 1) return;
+          f.type.value = chip.getAttribute("data-val") || "";
+          commitTypeForSelected();
+          f.type.blur();
+        });
+
+        // Selezione helpers
+        function refreshNodeSelectionClasses() {
+          document.querySelectorAll(".node").forEach((el) => {
+            state.selNodes.has(el.id)
+              ? el.classList.add("selected")
+              : el.classList.remove("selected");
+          });
+        }
+        function applyEdgeSelection() {
+          edgesSVG.querySelectorAll(".edge-visible").forEach((p, i) => {
+            p.classList.toggle("selected", state.selEdges.has(i));
+          });
+        }
+        function selectOnlyNodes(ids) {
+          finalizeEditsCurrentNode();
+          state.selNodes = new Set(ids);
+          state.selEdges.clear();
+          refreshNodeSelectionClasses();
+          applyEdgeSelection();
+          updateSidebarSelectionLabel();
+          refreshSidebarForms();
+          if (ids.length === 1) fillFormForNode(getNodeById(ids[0]));
+          else clearForm();
+        }
+        function toggleNodeSelection(id) {
+          finalizeEditsCurrentNode();
+          if (state.selNodes.has(id)) state.selNodes.delete(id);
+          else state.selNodes.add(id);
+          refreshNodeSelectionClasses();
+          updateSidebarSelectionLabel();
+          refreshSidebarForms();
+        }
+        function selectOnlyEdges(indexes) {
+          finalizeEditsCurrentNode();
+          state.selEdges = new Set(indexes);
+          state.selNodes.clear();
+          refreshNodeSelectionClasses();
+          applyEdgeSelection();
+          updateSidebarSelectionLabel();
+          refreshSidebarForms();
+          clearForm();
+        }
+        function toggleEdgeSelection(index) {
+          state.selEdges.has(index)
+            ? state.selEdges.delete(index)
+            : state.selEdges.add(index);
+          applyEdgeSelection();
+          updateSidebarSelectionLabel();
+          refreshSidebarForms();
+        }
+        function clearEdgeSelection() {
+          state.selEdges.clear();
+          applyEdgeSelection();
+        }
+        function clearAllSelection() {
+          finalizeEditsCurrentNode();
+          state.selNodes.clear();
+          state.selEdges.clear();
+          refreshNodeSelectionClasses();
+          applyEdgeSelection();
+          updateSidebarSelectionLabel();
+          refreshSidebarForms();
+          clearForm();
+        }
+        function selectAll() {
+          finalizeEditsCurrentNode();
+          state.selNodes = new Set(state.nodes.map((n) => n.id));
+          state.selEdges = new Set(state.edges.map((_, i) => i));
+          refreshNodeSelectionClasses();
+          applyEdgeSelection();
+          updateSidebarSelectionLabel();
+          refreshSidebarForms();
+        }
+
+        // Toolbar
+        $("#btnAdd").addEventListener("click", addNode);
+        $("#btnDel").addEventListener("click", doDeleteSelection);
+        $("#btnFit").addEventListener("click", fitView);
+        $("#btnAuto").addEventListener("click", autoLayoutLeftToRight);
+        $("#btnOpen").addEventListener("click", openProject);
+        $("#btnSave").addEventListener("click", saveProjectSmart);
+
+        // Pan / Marquee / Zoom
+        let panning = false,
+          startPan = { x: 0, y: 0 };
+        stage.addEventListener("mousedown", (e) => {
+          // i <path> degli edge hanno la loro gestione
+          if (e.target.tagName === "path") return;
+
+          // Registra se il down nasce davvero sul vuoto
+          bgPointerDown = isBlankAtPoint(e.clientX, e.clientY);
+          gestureMoved = false;
+
+          // memorizza origine e stato tasti per la soglia
+          stage._downX = e.clientX;
+          stage._downY = e.clientY;
+          stage._downShift = !!e.shiftKey;
+
+          if (!bgPointerDown) return; // non è vuoto → niente pan/marquee immediato
+          // NON avviare nulla qui: aspetta la soglia nel mousemove
+        });
+
+        document.addEventListener("mousemove", (e) => {
+          // Failsafe: se un gesto è "attivo" ma il bottone non è più premuto, chiudi
+          if ((panning || state.marquee?.active) && e.buttons === 0) {
+            if (panning) {
+              panning = false;
+              stage.style.cursor = "";
+            }
+            if (state.marquee?.active) {
+              endMarquee();
+            }
+            bgPointerDown = false;
+            gestureMoved = false;
+            stage._downX = stage._downY = null;
+            return;
+          }
+
+          // Se il down è nato sul vuoto e nessun gesto è ancora attivo → valuta soglia
+          if (bgPointerDown && !panning && !state.marquee?.active) {
+            const ox = stage._downX,
+              oy = stage._downY;
+            const dist =
+              Number.isFinite(ox) && Number.isFinite(oy)
+                ? Math.hypot(e.clientX - ox, e.clientY - oy)
+                : 0;
+
+            if (dist > CLICK_THRESHOLD) {
+              if (stage._downShift) {
+                // Avvia marquee solo ora (oltre soglia)
+                startMarquee({
+                  clientX: ox,
+                  clientY: oy,
+                  shiftKey: true,
+                });
+              } else {
+                // Avvia pan solo ora (oltre soglia)
+                panning = true;
+                stage.style.cursor = "all-scroll";
+                const r = stage.getBoundingClientRect();
+                startPan = {
+                  x: ox - r.left - state.pan.x,
+                  y: oy - r.top - state.pan.y,
+                };
+              }
+              gestureMoved = true;
+              return;
+            }
+          }
+
+          // Pan attivo
+          if (panning) {
+            const r = stage.getBoundingClientRect();
+            state.pan.x = e.clientX - r.left - startPan.x;
+            state.pan.y = e.clientY - r.top - startPan.y;
+            applyView();
+            gestureMoved = true;
+            return;
+          }
+
+          // Marquee attiva
+          if (state.marquee?.active) {
+            updateMarquee(e);
+            gestureMoved = true;
+            return;
+          }
+        });
+        document.addEventListener("mouseup", () => {
+          if (panning) {
+            panning = false;
+            stage.style.cursor = "";
+          }
+          if (state.marquee?.active) {
+            endMarquee();
+          }
+          stage._downX = stage._downY = null;
+        });
+        stage.addEventListener(
+          "wheel",
+          (e) => {
+            e.preventDefault();
+            const sensitivity = 0.012,
+              d = -e.deltaY * sensitivity,
+              old = state.zoom;
+            const z = Math.min(3, Math.max(0.25, old * (1 + d)));
+            const r = stage.getBoundingClientRect();
+            const mx = e.clientX - r.left,
+              my = e.clientY - r.top;
+            const wx = (mx - state.pan.x) / old,
+              wy = (my - state.pan.y) / old;
+            state.zoom = z;
+            state.pan.x = mx - wx * z;
+            state.pan.y = my - wy * z;
+            applyView();
+          },
+          { passive: false }
+        );
+
+        function applyView() {
+          ensureSVGSize();
+          updateGrid();
+          state.nodes.forEach((n) => positionNode(n));
+          renderEdges();
+        }
+        function fitView() {
+          if (!state.nodes.length) {
+            state.zoom = 1;
+            state.pan = { x: 0, y: 0 };
+            applyView();
+            return;
+          }
+          let minX = Infinity,
+            minY = Infinity,
+            maxX = -Infinity,
+            maxY = -Infinity;
+          for (const n of state.nodes) {
+            minX = Math.min(minX, n.x);
+            minY = Math.min(minY, n.y);
+            maxX = Math.max(maxX, n.x + (n.w || NODE_W));
+            maxY = Math.max(maxY, n.y + (n.h || NODE_H));
+          }
+          const r = stage.getBoundingClientRect(),
+            vw = r.width,
+            vh = r.height;
+          const bw = maxX - minX,
+            bh = maxY - minY,
+            m = 80;
+          const zx = (vw - m) / bw,
+            zy = (vh - m) / bh;
+          state.zoom = Math.min(3, Math.max(0.25, Math.min(zx, zy)));
+          const cx = (minX + maxX) / 2,
+            cy = (minY + maxY) / 2;
+          state.pan.x = vw / 2 - cx * state.zoom;
+          state.pan.y = vh / 2 - cy * state.zoom;
+          applyView();
+        }
+
+        function startMarquee(e) {
+          const rect = document.createElement("div");
+          rect.className = "marquee";
+          stage.appendChild(rect);
+          const r = stage.getBoundingClientRect();
+          state.marquee = {
+            active: true,
+            startX: e.clientX - r.left,
+            startY: e.clientY - r.top,
+            curX: e.clientX - r.left,
+            curY: e.clientY - r.top,
+            el: rect,
+            additive: e.shiftKey,
+            prevNodes: new Set(state.selNodes),
+            prevEdges: new Set(state.selEdges),
+          };
+          state.ignoreNextStageClick = true;
+          drawMarqueeRect();
+        }
+        function updateMarquee(e) {
+          const r = stage.getBoundingClientRect();
+          state.marquee.curX = e.clientX - r.left;
+          state.marquee.curY = e.clientY - r.top;
+          drawMarqueeRect();
+          const a = toWorld(
+            state.marquee.startX + r.left,
+            state.marquee.startY + r.top
+          );
+          const b = toWorld(
+            state.marquee.curX + r.left,
+            state.marquee.curY + r.top
+          );
+          const minX = Math.min(a.x, b.x),
+            minY = Math.min(a.y, b.y),
+            maxX = Math.max(a.x, b.x),
+            maxY = Math.max(a.y, b.y);
+
+          // SOLO NODI (niente edge nella marquee)
+          const hitsNodes = new Set(
+            state.nodes
+              .filter((n) =>
+                rectsIntersect(
+                  minX,
+                  minY,
+                  maxX,
+                  maxY,
+                  n.x,
+                  n.y,
+                  n.x + (n.w || NODE_W),
+                  n.y + (n.h || NODE_H)
+                )
+              )
+              .map((n) => n.id)
+          );
+
+          if (state.marquee.additive) {
+            state.selNodes = new Set([
+              ...state.marquee.prevNodes,
+              ...hitsNodes,
+            ]);
+            state.selEdges = new Set(state.marquee.prevEdges); // preserva
+          } else {
+            state.selNodes = hitsNodes;
+            state.selEdges = new Set(); // none
+          }
+          refreshNodeSelectionClasses();
+          applyEdgeSelection();
+          updateSidebarSelectionLabel();
+          refreshSidebarForms();
+          if (state.selNodes.size === 1 && state.selEdges.size === 0)
+            fillFormForNode(getNodeById([...state.selNodes][0]));
+          else clearForm();
+        }
+        function endMarquee() {
+          state.marquee.el.remove();
+          state.marquee = null;
+        }
+        function drawMarqueeRect() {
+          const m = state.marquee;
+          if (!m) return;
+          const x = Math.min(m.startX, m.curX),
+            y = Math.min(m.startY, m.curY);
+          const w = Math.abs(m.curX - m.startX),
+            h = Math.abs(m.curY - m.startY);
+          m.el.style.left = x + "px";
+          m.el.style.top = y + "px";
+          m.el.style.width = w + "px";
+          m.el.style.height = h + "px";
+        }
+        function rectsIntersect(
+          aMinX,
+          aMinY,
+          aMaxX,
+          aMaxY,
+          bMinX,
+          bMinY,
+          bMaxX,
+          bMaxY
+        ) {
+          return (
+            aMinX <= bMaxX && aMaxX >= bMinX && aMinY <= bMaxY && aMaxY >= bMinY
+          );
+        }
+
+        // Auto layout
+        function autoLayoutLeftToRight() {
+          pushHistory();
+          state.nodes.forEach((n) => measure(n));
+          const indeg = new Map(state.nodes.map((n) => [n.id, 0]));
+          state.edges.forEach((e) => indeg.set(e.t, (indeg.get(e.t) || 0) + 1));
+          const roots = state.nodes
+            .filter((n) => (indeg.get(n.id) || 0) === 0)
+            .map((n) => n.id);
+          const depth = new Map();
+          const q = [...roots];
+          roots.forEach((id) => depth.set(id, 0));
+          while (q.length) {
+            const u = q.shift();
+            const d = depth.get(u) || 0;
+            state.edges
+              .filter((e) => e.s === u)
+              .forEach((e) => {
+                if (!depth.has(e.t)) {
+                  depth.set(e.t, d + 1);
+                  q.push(e.t);
+                }
+              });
+          }
+          state.nodes.forEach((n) => {
+            if (!depth.has(n.id)) depth.set(n.id, 0);
+          });
+          const layers = {};
+          state.nodes.forEach((n) => {
+            const d = depth.get(n.id) || 0;
+            (layers[d] ||= []).push(n);
+          });
+          const layerKeys = Object.keys(layers)
+            .map(Number)
+            .sort((a, b) => a - b);
+          let x = 0;
+          layerKeys.forEach((li) => {
+            const col = layers[li];
+            col.sort((a, b) => a.y - b.y);
+            let y = 0;
+            for (const n of col) {
+              n.x = x;
+              n.y = y;
+              const h = n.h || NODE_H;
+              y += h + Math.max(VGAP, MIN_LAYER_GAP);
+            }
+            x += NODE_W + HGAP;
+          });
+          state.nodes.forEach((n) => positionNode(n));
+          renderEdges();
+          setStatus("Auto layout applied");
+        }
+        function nextChildPosition(parent) {
+          const children = state.edges
+            .filter((e) => e.s === parent.id)
+            .map((e) => getNodeById(e.t))
+            .filter(Boolean);
+          const baseX = parent.x + (parent.w || NODE_W) + HGAP;
+          if (children.length === 0) return { x: baseX, y: parent.y };
+          const last = children.reduce(
+            (a, c) => (c.y > a.y ? c : a),
+            children[0]
+          );
+          return { x: baseX, y: last.y + (last.h || NODE_H) + VGAP };
+        }
+
+        function addEdge(s, t) {
+          if (!s || !t || s === t) return;
+          if (state.edges.some((e) => e.s === s && e.t === t)) return;
+          state.edges.push({ s, t, dashed: false });
+        }
+        function anchor(id, side) {
+          const n = getNodeById(id);
+          if (!n) return { x: 0, y: 0 };
+          const x = side === "right" ? n.x + (n.w || NODE_W) : n.x;
+          const y = n.y + (n.h || NODE_H) / 2;
+          return { x, y };
+        }
+        function pathCubic(a, b) {
+          const dx = Math.max(40, Math.abs(b.x - a.x) * 0.5);
+          return `M ${a.x} ${a.y} C ${a.x + dx} ${a.y}, ${b.x - dx} ${b.y}, ${
+            b.x
+          } ${b.y}`;
+        }
+        function edgeBBox(e) {
+          const s = anchor(e.s, "right"),
+            t = anchor(e.t, "left");
+          const minX = Math.min(s.x, t.x),
+            maxX = Math.max(s.x, t.x),
+            minY = Math.min(s.y, t.y),
+            maxY = Math.max(s.y, t.y);
+          return { minX, minY, maxX, maxY };
+        }
+
+        // scheduler per edge rendering
+        let __edgeRenderQueued = false;
+        function requestEdgeRender() {
+          if (__edgeRenderQueued) return;
+          __edgeRenderQueued = true;
+          requestAnimationFrame(() => {
+            __edgeRenderQueued = false;
+            renderEdges();
+          });
+        }
+
+        function renderEdges() {
+          ensureSVGSize();
+          edgesSVG.innerHTML = "";
+          state.edges.forEach((e, i) => {
+            const s = anchor(e.s, "right"),
+              t = anchor(e.t, "left");
+            if (!s || !t) return;
+            const g = document.createElementNS(
+              "http://www.w3.org/2000/svg",
+              "g"
+            );
+            const pv = document.createElementNS(
+              "http://www.w3.org/2000/svg",
+              "path"
+            );
+            pv.setAttribute("d", pathCubic(s, t));
+            pv.setAttribute(
+              "class",
+              "edge-visible" + (e.dashed ? " weak" : "")
+            );
+            if (state.selEdges.has(i)) pv.classList.add("selected");
+            const ph = document.createElementNS(
+              "http://www.w3.org/2000/svg",
+              "path"
+            );
+            ph.setAttribute("d", pathCubic(s, t));
+            ph.setAttribute("class", "edge-hit");
+
+            g.addEventListener("click", (ev) => {
+              ev.stopPropagation();
+              if (ev.altKey) {
+                pushHistory();
+                const mid = { x: (s.x + t.x) / 2, y: (s.y + t.y) / 2 };
+                const nid = addNodeAt(
+                  mid.x - NODE_W / 2,
+                  mid.y - NODE_H / 2,
+                  {}
+                );
+                const dashed = !!e.dashed;
+                state.edges.splice(i, 1);
+                state.edges.push(
+                  { s: e.s, t: nid, dashed },
+                  { s: nid, t: e.t, dashed }
+                );
+                renderEdges();
+                return;
+              }
+              if (ev.shiftKey) toggleEdgeSelection(i);
+              else selectOnlyEdges([i]);
+            });
+
+            g.appendChild(ph);
+            g.appendChild(pv);
+            edgesSVG.appendChild(g);
+          });
+
+          if (state.dragLink && state.dragLink.active) {
+            const t = { x: state.dragLink.x, y: state.dragLink.y };
+            for (const sid of state.dragLink.sources) {
+              const fromAnchor =
+                state.dragLink.from === "out"
+                  ? anchor(sid, "right")
+                  : anchor(sid, "left");
+              const a = state.dragLink.from === "out" ? fromAnchor : t;
+              const b = state.dragLink.from === "out" ? t : fromAnchor;
+              const path = document.createElementNS(
+                "http://www.w3.org/2000/svg",
+                "path"
+              );
+              path.setAttribute("d", pathCubic(a, b));
+              path.setAttribute("stroke", "#fff");
+              path.setAttribute("stroke-width", "2");
+              path.setAttribute("fill", "none");
+              edgesSVG.appendChild(path);
+            }
+          }
+        }
+
+        /* ---------- FAST SAVE HELPERS ---------- */
+        async function asyncPool(limit, tasks, worker) {
+          const ret = [],
+            executing = new Set();
+          for (const t of tasks) {
+            const p = Promise.resolve().then(() => worker(t));
+            ret.push(p);
+            executing.add(p);
+            p.finally(() => executing.delete(p));
+            if (executing.size >= limit) await Promise.race(executing);
+          }
+          return Promise.all(ret);
+        }
+        function extFromName(name) {
+          const m = (name || "").match(/\.[a-z0-9]+$/i);
+          return m ? m[0].toLowerCase() : "";
+        }
+
+        /* ---------- SAVE / OPEN (veloce per grafi grandi) ---------- */
+        async function saveProjectSmart() {
+          if (projectCtx.mode === "folder" && projectCtx.dirHandle) {
+            await saveProjectToDir(projectCtx.dirHandle);
+            setStatus("Project saved (fast)");
+            return;
+          }
+          await saveAs();
+        }
+        async function saveAs() {
+          const supportsFS = "showDirectoryPicker" in window;
+          if (supportsFS) {
+            try {
+              const dir = await window.showDirectoryPicker({
+                mode: "readwrite",
+              });
+              await saveProjectToDir(dir);
+              projectCtx.mode = "folder";
+              projectCtx.dirHandle = dir;
+              setStatus("Project saved (new fast folder)");
+              return;
+            } catch (err) {
+              console.warn(
+                "Save As cancelled or failed, falling back to light JSON",
+                err
+              );
+            }
+          }
+          await exportJSONLight(); // fallback leggero (senza file)
+          projectCtx.mode = "embedded";
+          projectCtx.dirHandle = null;
+        }
+
+        // filesMode: "none" | "paths" | "embedded" (noi usiamo "paths" o "none")
+        function buildProjectObject(baseVersion = 6, filesMode = "paths") {
+          const nodesOut = state.nodes.map((n) => {
+            const src = n.data || {};
+            const outFiles = (() => {
+              if (filesMode === "none") return [];
+              if (filesMode === "paths") {
+                return (src.files || []).map((f) => ({
+                  name: f.name,
+                  size: f.size,
+                  type: f.type,
+                  isImage: !!f.isImage,
+                  isPDF: !!f.isPDF,
+                  path: f.path || null,
+                }));
+              }
+              return (src.files || []).map((f) => ({
+                name: f.name,
+                size: f.size,
+                type: f.type,
+                isImage: !!f.isImage,
+                isPDF: !!f.isPDF,
+                dataUrl: f.dataUrl || null,
+              }));
+            })();
+
+            return {
+              id: n.id,
+              x: n.x,
+              y: n.y,
+              w: n.w,
+              h: n.h,
+              group: n.group || null,
+              data: {
+                date: src.date || todayYMD(),
+                title: src.title || "",
+                type: src.type || "",
+                action: src.action ?? null,
+                mainArea: src.mainArea ?? null,
+                areas: [...(src.areas || [])],
+                tags: [...(src.tags || [])],
+                desc: src.desc || "",
+                links: [...(src.links || [])],
+                files: outFiles,
+              },
+            };
+          });
+
+          const vocabOut = {
+            areas: vocab.areasMRU.list(),
+            tags: vocab.tagsMRU.list(),
+            type: vocab.typeMRU.list(),
+          };
+          return {
+            version: baseVersion,
+            nodes: nodesOut,
+            edges: state.edges.map((e) => ({
+              s: e.s,
+              t: e.t,
+              dashed: !!e.dashed,
+            })),
+            vocab: vocabOut,
+          };
+        }
+
+        async function saveProjectToDir(dir) {
+          await ensureSubdir(dir, "assets");
+          // 1) Copia solo i NUOVI file (quelli già con path si saltano)
+          const toCopy = [];
+          for (const n of state.nodes) {
+            for (const f of n.data.files || []) {
+              if (f.path) {
+                continue;
+              } // già su disco
+              toCopy.push({ node: n, file: f });
+            }
+          }
+
+          // Copia con concorrenza limitata (no ricompressione)
+          await asyncPool(2, toCopy, async ({ file }) => {
+            try {
+              const blob = await fetch(file.url).then((r) => r.blob());
+              const base = sanitizeName(
+                (file.name || "file").replace(/\s+/g, "_")
+              );
+              const ext =
+                extFromName(base) ||
+                (file.isPDF ? ".pdf" : file.isImage ? ".jpg" : ".bin");
+              const name = extFromName(base) ? base : base + ext;
+              const rel = `assets/${name}`;
+              await writeFileByPath(dir, rel, blob);
+              file.path = rel; // marca come salvato
+              delete file.dataUrl; // nessun embed
+            } catch (e) {
+              console.warn("Copy failed:", file?.name, e);
+            }
+          });
+
+          // 2) Scrivi JSON con soli path (niente dataUrl)
+          const project = buildProjectObject(6, "paths");
+          const jsonBlob = new Blob([JSON.stringify(project, null, 2)], {
+            type: "application/json",
+          });
+          await writeFileByPath(dir, "project.json", jsonBlob);
+        }
+
+        async function exportJSONLight() {
+          const light = buildProjectObject(6, "none"); // nessun file
+          const blob = new Blob([JSON.stringify(light, null, 2)], {
+            type: "application/json",
+          });
+          downloadBlob("project_light.json", blob);
+          setStatus("Light JSON exported (no images)");
+        }
+        async function exportJSON() {
+          await exportJSONLight();
+        }
+
+        async function openProject() {
+          const supportsFS = "showDirectoryPicker" in window;
+          if (supportsFS) {
+            try {
+              const dir = await window.showDirectoryPicker({
+                mode: "readwrite",
+              });
+              let fileHandle;
+              try {
+                fileHandle = await dir.getFileHandle("project.json", {
+                  create: false,
+                });
+              } catch {
+                setStatus("project.json not found in selected folder");
+                return;
+              }
+              const file = await fileHandle.getFile();
+              const project = JSON.parse(await file.text());
+              pushHistory();
+              await loadProject(project, dir);
+              projectCtx.mode = "folder";
+              projectCtx.dirHandle = dir;
+              setStatus("Project opened from folder");
+              return;
+            } catch (err) {
+              console.warn("FS open error, falling back to JSON input", err);
+            }
+          }
+          f.openFile.onchange = async () => {
+            const fl = f.openFile.files?.[0];
+            if (!fl) return;
+            const text = await fl.text();
+            const project = JSON.parse(text);
+            pushHistory();
+            await loadProject(project, null);
+            projectCtx.mode = "embedded";
+            projectCtx.dirHandle = null;
+            setStatus("Project opened from JSON file");
+            f.openFile.value = "";
+          };
+          f.openFile.click();
+        }
+
+        async function newProject() {
+          pushHistory();
+          finalizeEditsCurrentNode();
+          clearAllSelection();
+          document.querySelectorAll(".node").forEach((n) => n.remove());
+          state.nodes = [];
+          state.edges = [];
+          state.pan = { x: 0, y: 0 };
+          state.zoom = 1;
+          projectCtx.mode = null;
+          projectCtx.dirHandle = null;
+          vocab.areasMRU.clear();
+          vocab.tagsMRU.clear();
+          vocab.typeMRU.clear();
+          countsResetAll();
+          vocabResetNodeSnapshots();
+
+          // sync MRU type
+          vocab.typeMRU.removeIf((x) => {
+            const k = normalizeToken(x || "");
+            return !k || (counts.type.get(k) || 0) <= 0;
+          });
+
+          addNodeAt(80, 80, {});
+          setStatus("New project");
+        }
+
+        async function loadProject(project, dirHandle) {
+          finalizeEditsCurrentNode();
+          clearAllSelection();
+          document.querySelectorAll(".node").forEach((n) => n.remove());
+          state.nodes = [];
+          state.edges = [];
+          vocabResetNodeSnapshots();
+          countsResetAll();
+
+          for (const pn of project.nodes || []) {
+            const node = {
+              id: pn.id || uid(),
+              x: pn.x || 0,
+              y: pn.y || 0,
+              w: pn.w || NODE_W,
+              h: pn.h || NODE_H,
+              group: pn.group || null,
+              data: emptyData(),
+            };
+            const d = pn.data || {};
+            node.data.type = normalizeToken(d.type || d.object || "");
+            if (Array.isArray(d.action)) node.data.action = d.action[0] || null;
+            else node.data.action = d.action ?? null;
+            if (Array.isArray(d.mainAreas))
+              node.data.mainArea = d.mainAreas[0] || null;
+            else node.data.mainArea = d.mainArea ?? d.mainarea ?? null;
+            node.data.date = d.date || todayYMD();
+            node.data.title = d.title || "";
+            node.data.areas = normalizeArray(d.areas || []);
+            node.data.tags = normalizeArray(d.tags || []);
+            node.data.desc = d.desc || "";
+            node.data.links = (d.links || []).slice();
+            node.data.files = await Promise.all(
+              (d.files || []).map(async (f) => {
+                if (f.dataUrl) {
+                  const blob = await (await fetch(f.dataUrl)).blob();
+                  return { ...f, url: URL.createObjectURL(blob) };
+                } else if (f.path && dirHandle) {
+                  const file = await readFileByPath(dirHandle, f.path);
+                  return { ...f, url: URL.createObjectURL(file) };
+                } else {
+                  return { ...f, url: "" };
+                }
+              })
+            );
+
+            state.nodes.push(node);
+            vocabInitNodeSnapshot(node);
+            vocabIngestNode(node);
+            mountNode(node);
+            measure(node);
+            positionNode(node);
+            populate(node);
+          }
+          state.edges = (project.edges || []).map((e) => ({
+            s: e.s,
+            t: e.t,
+            dashed: !!e.dashed,
+          }));
+
+          if (project.vocab) {
+            vocab.areasMRU.clear();
+            vocab.tagsMRU.clear();
+            vocab.typeMRU.clear();
+            for (const a of project.vocab.areas || [])
+              if (a) vocab.areasMRU.put(normalizeToken(a));
+            for (const t of project.vocab.tags || [])
+              if (t) vocab.tagsMRU.put(normalizeToken(t));
+            for (const ty of project.vocab.type || [])
+              if (ty) vocab.typeMRU.put(normalizeToken(ty));
+            vocab.areasMRU.removeIf((x) => (counts.areas.get(x) || 0) <= 0);
+            vocab.tagsMRU.removeIf((x) => (counts.tags.get(x) || 0) <= 0);
+          }
+
+          // sync MRU type
+          vocab.typeMRU.removeIf((x) => {
+            const k = normalizeToken(x || "");
+            return !k || (counts.type.get(k) || 0) <= 0;
+          });
+
+          ensureSVGSize();
+          updateGrid();
+          renderEdges();
+        }
+
+        function undo() {
+          if (!history.undo.length) return;
+          const cur = snap();
+          const prev = history.undo.pop();
+          history.redo.push(cur);
+          applySnapshot(prev);
+          setStatus("Undone");
+        }
+        function redo() {
+          if (!history.redo.length) return;
+          const cur = snap();
+          const next = history.redo.pop();
+          history.undo.push(cur);
+          applySnapshot(next);
+          setStatus("Redone");
+        }
+        function applySnapshot(s) {
+          history.lock = true;
+          document.querySelectorAll(".node").forEach((n) => n.remove());
+          state.nodes = structuredClone(s.nodes || []);
+          state.edges = structuredClone(s.edges || []);
+          state.selNodes = new Set(s.selNodes || []);
+          state.selEdges = new Set(s.selEdges || []);
+          state.pan = s.pan ? { ...s.pan } : { x: 0, y: 0 };
+          state.zoom = s.zoom ?? 1;
+
+          vocabResetNodeSnapshots();
+          countsResetAll();
+
+          state.nodes.forEach((n) => {
+            mountNode(n);
+            measure(n);
+            positionNode(n);
+            populate(n);
+            vocabInitNodeSnapshot(n);
+            vocabIngestNode(n);
+          });
+
+          // Sync MRU Type con i count vivi
+          vocab.typeMRU.removeIf((x) => {
+            const k = normalizeToken(x || "");
+            return !k || (counts.type.get(k) || 0) <= 0;
+          });
+
+          ensureSVGSize();
+          updateGrid();
+          renderEdges();
+          refreshNodeSelectionClasses();
+          applyEdgeSelection();
+          updateSidebarSelectionLabel();
+          refreshSidebarForms();
+          history.lock = false;
+        }
+
+        // Clipboard/group
+        function copySelection() {
+          if (!state.selNodes.size) return;
+          const ids = [...state.selNodes];
+          const nodes = ids.map((id) => structuredClone(getNodeById(id)));
+          const edges = state.edges
+            .filter((e) => ids.includes(e.s) && ids.includes(e.t))
+            .map((e) => structuredClone(e));
+          const minX = Math.min(...nodes.map((n) => n.x)),
+            minY = Math.min(...nodes.map((n) => n.y));
+          state.clip = { nodes, edges, dx: minX, dy: minY };
+          setStatus("Copied selection");
+        }
+        function cutSelection() {
+          copySelection();
+          doDeleteSelection();
+          setStatus("Cut selection");
+        }
+        function pasteClipboard(offset = { x: 40, y: 40 }) {
+          if (!state.clip) return;
+          pushHistory();
+          const idMap = new Map();
+          const pastedIds = [];
+          for (const src of state.clip.nodes) {
+            const id = uid();
+            idMap.set(src.id, id);
+            const clone = structuredClone(src);
+            clone.id = id;
+            clone.x = clone.x - state.clip.dx + offset.x;
+            clone.y = clone.y - state.clip.dy + offset.y;
+            state.nodes.push(clone);
+            vocabInitNodeSnapshot(clone);
+            vocabIngestNode(clone);
+            mountNode(clone);
+            measure(clone);
+            positionNode(clone);
+            populate(clone);
+            pastedIds.push(id);
+          }
+          const newEdges = state.clip.edges.map((e) => ({
+            s: idMap.get(e.s),
+            t: idMap.get(e.t),
+            dashed: !!e.dashed,
+          }));
+          state.edges.push(...newEdges);
+
+          // sync MRU type
+          vocab.typeMRU.removeIf((x) => {
+            const k = normalizeToken(x || "");
+            return !k || (counts.type.get(k) || 0) <= 0;
+          });
+
+          renderEdges();
+          selectOnlyNodes(pastedIds);
+          setStatus("Pasted");
+        }
+        function duplicateSelection() {
+          if (!state.selNodes.size) return pasteClipboard({ x: 40, y: 40 });
+        }
+        function groupSelection() {
+          if (!state.selNodes.size) return;
+          pushHistory();
+          const gid = state.groupSeq++;
+          for (const id of state.selNodes) {
+            const n = getNodeById(id);
+            if (n) n.group = gid;
+          }
+          setStatus(`Grouped ${state.selNodes.size} node(s)`);
+        }
+        function ungroupSelection() {
+          if (!state.selNodes.size) return;
+          pushHistory();
+          for (const id of state.selNodes) {
+            const n = getNodeById(id);
+            if (n) n.group = null;
+          }
+          setStatus("Ungrouped");
+        }
+
+        stage.addEventListener("dblclick", (e) => {
+          if (!isBlankAtPoint(e.clientX, e.clientY)) return;
+          const w = toWorld(e.clientX, e.clientY);
+          addNodeAt(w.x, w.y);
+        });
+
+        async function ensureSubdir(dirHandle, name) {
+          try {
+            return await dirHandle.getDirectoryHandle(name, { create: true });
+          } catch (e) {
+            return await dirHandle.getDirectoryHandle(name, { create: false });
+          }
+        }
+        function sanitizeName(name) {
+          return (name || "file").replace(/[\\\/:*?"<>|]/g, "_");
+        }
+        async function writeFileByPath(root, relPath, blob) {
+          const parts = relPath.split("/");
+          const fileName = parts.pop();
+          let dir = root;
+          for (const seg of parts) {
+            dir = await dir.getDirectoryHandle(seg, { create: true });
+          }
+          const fh = await dir.getFileHandle(fileName, { create: true });
+          const w = await fh.createWritable();
+          await w.write(blob);
+          await w.close();
+        }
+        async function readFileByPath(root, relPath) {
+          const parts = relPath.split("/");
+          const fileName = parts.pop();
+          let dir = root;
+          for (const seg of parts) {
+            dir = await dir.getDirectoryHandle(seg, { create: false });
+          }
+          const fh = await dir.getFileHandle(fileName, { create: false });
+          const file = await fh.getFile();
+          return file;
+        }
+        async function resizeImageBlob(
+          blob,
+          maxSide = 1500,
+          targetBytes = 512 * 1024
+        ) {
+          const img = await blobToImage(blob);
+          const { w, h } = fitWithin(
+            img.naturalWidth || img.width,
+            img.naturalHeight || img.height,
+            maxSide
+          );
+          const canvas =
+            "OffscreenCanvas" in window
+              ? new OffscreenCanvas(w, h)
+              : document.createElement("canvas");
+          canvas.width = w;
+          canvas.height = h;
+          const ctx = canvas.getContext("2d");
+          ctx.drawImage(img, 0, 0, w, h);
+          let q = 0.92;
+          let out = await canvasToBlob(canvas, "image/jpeg", q);
+          while (out.size > targetBytes && q > 0.5) {
+            q -= 0.08;
+            out = await canvasToBlob(canvas, "image/jpeg", q);
+          }
+          return out;
+        }
+        function fitWithin(w, h, maxSide) {
+          if (w >= h) {
+            const s = maxSide / w;
+            return { w: Math.round(w * s), h: Math.round(h * s) };
+          } else {
+            const s = maxSide / h;
+            return { w: Math.round(w * s), h: Math.round(h * s) };
+          }
+        }
+        function blobToImage(blob) {
+          return new Promise((res, rej) => {
+            const url = URL.createObjectURL(blob);
+            const img = new Image();
+            img.onload = () => {
+              URL.revokeObjectURL(url);
+              res(img);
+            };
+            img.onerror = rej;
+            img.src = url;
+          });
+        }
+        function canvasToBlob(canvas, type, quality) {
+          return new Promise((res) => {
+            if (canvas.convertToBlob) {
+              canvas.convertToBlob({ type, quality }).then(res);
+            } else {
+              canvas.toBlob(res, type, quality);
+            }
+          });
+        }
+        function blobToDataURL(blob) {
+          return new Promise((res) => {
+            const r = new FileReader();
+            r.onload = () => res(r.result);
+            r.readAsDataURL(blob);
+          });
+        }
+        function downloadBlob(filename, blob) {
+          const a = document.createElement("a");
+          a.href = URL.createObjectURL(blob);
+          a.download = filename;
+          document.body.appendChild(a);
+          a.click();
+          setTimeout(() => {
+            URL.revokeObjectURL(a.href);
+            a.remove();
+          }, 0);
+        }
+        function fileListToEntries(fileList) {
+          const arr = Array.from(fileList || []);
+          return arr.map((fl) => {
+            const isImage = /^image\//i.test(fl.type);
+            const isPDF =
+              /pdf$/i.test(fl.type) || /\.pdf$/i.test(fl.name || "");
+            const url = URL.createObjectURL(fl);
+            return {
+              name: fl.name,
+              size: fl.size,
+              type: fl.type,
+              url,
+              isImage,
+              isPDF,
+            };
+          });
+        }
+
+        // Inizializzazione storia + primo nodo se necessario
+        pushHistory();
+        if (state.nodes.length === 0) {
+          addNodeAt(80, 80, {});
+        }
+      })(); // chiusura dell'IIFE
+    </script>
+  </body>
+</html>
