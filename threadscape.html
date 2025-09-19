@@ -4,6 +4,775 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Threadscape</title>
+    <!-- Favicons / Icons -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="1024x1024"
+      href="./asset/threadscape/icon.png"
+    />
+
+    <!-- HEAD: import Material Symbols -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <style>
+      /* === FIGMA-LIKE RESTYLE (DARK) =================================== */
+
+      /* Palette */
+      :root {
+        --bg: #0e0e0e;
+        --panel: #151515;
+        --panel-soft: #161616;
+        --ink: #ffffff;
+        --muted: #bdbdbd;
+        --line: #2a2a2a;
+        --btn-hover: rgba(255, 255, 255, 0.08);
+        --btn-active: rgba(255, 255, 255, 0.12);
+        --field: #1e1e1e;
+        --field-hover: #222222;
+        --field-focus-ring: rgba(255, 255, 255, 0.18);
+        --chip: #1e1e1e;
+        --chip-hover: #3f3f3f;
+        --chip-active: #2f2f2f;
+      }
+
+      /* Reset selezione monocromatica */
+      ::selection {
+        background: rgba(255, 255, 255, 0.18);
+        color: #fff;
+      }
+      ::-moz-selection {
+        background: rgba(255, 255, 255, 0.18);
+        color: #fff;
+      }
+
+      /* Material Symbols: leggermente più sottili ma nitide */
+      .material-symbols-outlined {
+        font-variation-settings: "FILL" 0, "wght" 200, "opsz" 24;
+        font-size: 22px;
+        line-height: 1;
+        display: inline-block;
+        vertical-align: middle;
+      }
+
+      /* Header sticky come Figma, ma senza bordo duro */
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 5;
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        padding: 6px 8px;
+        background: var(--bg);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+      }
+
+      /* Icon button (toolbar): senza bordo; hover → bg leggero */
+      header button,
+      .icon-btn {
+        appearance: none;
+        -webkit-appearance: none;
+        border: none;
+        background: transparent;
+        color: #eee;
+        padding: 6px 8px;
+        border-radius: 8px;
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+        transition: background-color 120ms ease, opacity 120ms ease,
+          transform 60ms ease;
+      }
+      header button:hover,
+      .icon-btn:hover {
+        background: var(--btn-hover);
+      }
+      header button:active,
+      .icon-btn:active {
+        background: var(--btn-active);
+        transform: translateY(0.5px);
+      }
+      header button:focus-visible,
+      .icon-btn:focus-visible {
+        outline: none;
+        box-shadow: 0 0 0 2px var(--btn-hover);
+      }
+
+      /* Stato "active" (es. connect attivo): bg continuo, niente bordo lampeggiante */
+      button.connect.active {
+        background: var(--btn-active);
+        animation: none;
+      }
+
+      /* removed old CSS tooltip rules (data-tip) */
+
+      /* App layout + sidebar più soft */
+      .app {
+        display: grid;
+        grid-template-columns: 1fr 360px;
+        grid-template-rows: 50px 1fr;
+        height: 100vh;
+      }
+      .app header {
+        grid-column: 1 / -1;
+      }
+      .app.no-panel {
+        grid-template-columns: 1fr !important;
+      }
+      .app.no-panel aside {
+        display: none !important;
+      }
+
+      aside {
+        background: var(--panel-soft);
+        border-left: 1px solid rgba(255, 255, 255, 0.06);
+        padding: 10px;
+        overflow: auto;
+      }
+
+      /* Stage e edges invariati */
+      #stage {
+        position: relative;
+        overflow: hidden;
+        background: var(--bg);
+        background-image: linear-gradient(#111 1px, transparent 1px),
+          linear-gradient(90deg, #111 1px, transparent 1px);
+        background-size: 24px 24px, 24px 24px;
+      }
+      /* CSS da mettere nello <style> */
+      .marquee-active *:not(input):not(textarea):not([contenteditable]) {
+        user-select: none !important;
+        -webkit-user-select: none !important;
+      }
+      svg#edges {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+        z-index: 0;
+      }
+
+      /* Node card: bordo meno marcato, look pulito */
+      .node {
+        position: absolute;
+        width: 320px;
+        max-width: 400px;
+        min-width: 260px;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        border-radius: 8px;
+        background: var(--panel);
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.35);
+        cursor: grab;
+        transform-origin: top left;
+      }
+      .node.dragging {
+        cursor: grabbing;
+      }
+      .node.selected {
+        outline: 2px solid #fff;
+      }
+
+      /* Titlebar styles removed (title now lives inside .body) */
+      .title {
+        font-weight: 400;
+        font-size: 12px;
+        color: #fff;
+        min-height: 1em;
+      }
+      .body {
+        padding: 8px;
+      }
+      .meta {
+        color: var(--muted);
+        font-size: 12px;
+      }
+      .divider {
+        height: 1px;
+        background: rgba(255, 255, 255, 0.06);
+        margin: 6px 0;
+      }
+
+      /* Key/Value grid pulito */
+      .kv {
+        display: grid;
+        grid-template-columns: 110px 1fr;
+        gap: 4px;
+        font-size: 12px;
+      }
+      .kv div:nth-child(odd) {
+        color: #bbb;
+      }
+
+      /* Description: campi testuali più leggibili */
+      /* supporta accapo e linee vuote nei nodi */
+      .desc {
+        margin-top: 2px;
+        font-size: 12px;
+        white-space: pre-wrap;
+      }
+
+      .node .title,
+      .node .meta,
+      .node .kv,
+      .node .desc,
+      .node .links,
+      .node .badge {
+        overflow-wrap: break-word;
+        word-break: break-word;
+      }
+
+      .desc > * {
+        margin: 0;
+      }
+      .descTitle {
+        margin-top: 4px;
+        font-size: 12px;
+        color: #bbb;
+      }
+
+      /* Links */
+      .links {
+        margin-top: 8px;
+        font-size: 12px;
+      }
+      .links a {
+        color: #fff;
+        text-decoration: underline;
+        display: inline-block;
+        margin: 2px 10px 0 0;
+      }
+
+      /* Images/attachments invariati */
+      .images {
+        margin-top: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }
+      .images img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        border-radius: 6px;
+        pointer-events: none;
+        -webkit-user-drag: none;
+        user-drag: none;
+      }
+      .attachments {
+        margin-top: 8px;
+        font-size: 12px;
+      }
+      .attachments a {
+        color: #fff;
+        text-decoration: underline;
+        margin-right: 10px;
+      }
+
+      /* Handle più grandi ma visivamente come prima */
+      .handle {
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        pointer-events: auto;
+      }
+      .out {
+        right: -22px;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+      .in {
+        left: -22px;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+      .out::after {
+        content: "";
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        right: 13px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: #fff;
+        border: 1px solid #000;
+        border-radius: 50%;
+      }
+      .in::after {
+        content: "";
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        left: 13px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: #fff;
+        border: 1px solid #000;
+        clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
+      }
+
+      /* Edges: già ottimizzati altrove; qui solo colori */
+      .edge-visible {
+        stroke: #e0e0e0;
+        stroke-width: 2;
+        fill: none;
+        cursor: pointer;
+        pointer-events: stroke;
+      }
+      .edge-visible.selected {
+        stroke: #ffffff;
+        stroke-width: 3;
+      }
+      .edge-visible.weak {
+        stroke: #cfcfcf;
+        stroke-opacity: 0.5;
+        stroke-dasharray: 10 6;
+        stroke-linecap: round;
+        stroke-width: 1.5;
+      }
+      .edge-visible.weak.selected {
+        stroke: #ffffff;
+        stroke-opacity: 1;
+        stroke-dasharray: 10 6;
+        stroke-linecap: round;
+        stroke-width: 2.5;
+      }
+      /* Se usi edge-hit, mantieni lo stile invisibile largo */
+      .edge-hit {
+        stroke: transparent;
+        stroke-width: 24;
+        fill: none;
+        cursor: pointer;
+        pointer-events: stroke;
+      }
+
+      /* Marquee coerente */
+      .marquee {
+        position: absolute;
+        border: 1px solid rgba(255, 255, 255, 0.35);
+        background: rgba(255, 255, 255, 0.06);
+        pointer-events: none;
+        z-index: 2;
+      }
+
+      /* Sidebar: campi alla Figma-like (no border, bg chiaro, focus ring) */
+      label {
+        display: block;
+        font-size: 12px;
+        margin-top: 12px;
+        color: #ddd;
+      }
+      input[type="text"],
+      input[type="date"],
+      textarea {
+        width: 100%;
+        background: var(--field) !important;
+        border: none !important;
+        color: #eee;
+        padding: 8px 10px !important;
+        border-radius: 8px !important;
+        font-family: inherit;
+        margin-top: 6px;
+        transition: background-color 120ms ease, box-shadow 120ms ease;
+      }
+      input:hover,
+      textarea:hover {
+        background: var(--field-hover) !important;
+      }
+      input:focus,
+      input:focus-visible,
+      textarea:focus,
+      textarea:focus-visible {
+        outline: none;
+        box-shadow: 0 0 0 2px var(--field-focus-ring) !important;
+      }
+      textarea {
+        min-height: 140px;
+        resize: vertical;
+      }
+      input::placeholder,
+      textarea::placeholder {
+        color: #9a9a9a;
+      }
+
+      /* Date input levigato */
+      input[type="date"] {
+        caret-color: #eee;
+      }
+      input[type="date"]::-webkit-calendar-picker-indicator {
+        filter: grayscale(100%);
+        opacity: 0.9;
+      }
+
+      /* File list */
+      .file-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+        font-size: 12px;
+        padding: 6px 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+      }
+      .file-left {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        min-width: 0;
+      }
+      .thumb {
+        width: 16px;
+        height: 16px;
+        border-radius: 3px;
+        border: 1px solid #333;
+        object-fit: cover;
+        display: block;
+      }
+      .file-row .name {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 220px;
+      }
+      .file-row .remove {
+        cursor: pointer;
+        text-decoration: underline;
+      }
+      .file-row .remove:hover {
+        color: #eee;
+        text-decoration-color: #eee;
+      }
+
+      /* Chip stile Figma: sempre con bg, niente bordo “duro” */
+      .chipRow {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-top: 6px;
+      }
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 4px 10px !important;
+        background: var(--chip) !important;
+        border: none !important;
+        border-radius: 999px !important;
+        font-size: 12px;
+        color: #eee;
+        cursor: pointer;
+        user-select: none;
+        transition: background-color 120ms ease, transform 60ms ease,
+          box-shadow 120ms ease;
+      }
+      .chip:hover {
+        background: var(--chip-hover) !important;
+      }
+
+      .chip:active {
+        background: var(--chip-active) !important;
+        transform: translateY(0.5px);
+      }
+      .chip.active {
+        background: var(--chip-active) !important;
+      }
+      .chip:focus-visible {
+        outline: none;
+        box-shadow: 0 0 0 2px var(--btn-hover) !important;
+      }
+      .chip.radio:not(.active) {
+        background: var(--chip) !important;
+        opacity: 1;
+      }
+
+      /* Badge (tag nel nodo) come chip del pannello, senza hover */
+      .badge {
+        display: inline-block;
+        border: none !important;
+        border-radius: 999px;
+        padding: 4px 10px;
+        margin: 2px 6px 0 0;
+        font-size: 12px;
+        background: var(--chip) !important;
+        color: #eee;
+      }
+
+      /* Upload files button styled like toolbar buttons (no border) */
+      #btnChoose.icon-btn {
+        border: none !important;
+        background: transparent !important;
+        padding: 6px 8px;
+        border-radius: 8px;
+      }
+      #btnChoose.icon-btn:hover {
+        background: var(--btn-hover) !important;
+      }
+      #btnChoose.icon-btn:active {
+        background: var(--btn-active) !important;
+      }
+
+      /* Status pulse resta, ma senza bordi lampeggianti altrove */
+      #status.pulsing {
+        animation: statusPulse 3s ease-in-out infinite;
+      }
+      @keyframes statusPulse {
+        0% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0.4;
+        }
+        100% {
+          opacity: 1;
+        }
+      }
+
+      /* Pan con space: cursore multidirezionale coerente */
+      .space-pan #stage,
+      .space-pan .node,
+      .space-pan .handle {
+        cursor: all-scroll !important;
+      }
+    </style>
+    <style>
+      /* UI: upload button senza gap icona-testo, e label selezione coerente */
+      #btnChoose .material-symbols-outlined {
+        margin-right: 0 !important;
+      }
+      #selInfo {
+        font-size: 12px !important;
+      }
+      /* Mettere in fondo al SECONDO <style> */
+      .descTitle {
+        margin-top: 4px !important;
+      }
+
+      .descBlock .desc {
+        margin-top: 4px !important;
+      }
+      /* --- Mettere in fondo al SECONDO <style> --- */
+      /* Hover uniforme per Action/MainArea come Tags (vince su .chip.radio) */
+      #actionChips .chip:hover,
+      #mainAreaChips .chip:hover {
+        background: var(--chip-hover, #1c1c1c) !important;
+        border-color: #ffffff !important;
+        color: #ffffff !important;
+        opacity: 1 !important;
+        cursor: pointer;
+      }
+      #actionChips .chip.active,
+      #mainAreaChips .chip.active {
+        background: var(--chip-active, #2f2f2f) !important;
+        color: #fff !important;
+      }
+
+      /* Safari/Marquee: blocca selezione e drag anche su toolbar e sidebar */
+      .marquee-active,
+      .marquee-active *:not(input):not(textarea):not([contenteditable]) {
+        -webkit-user-select: none !important;
+        user-select: none !important;
+      }
+      .marquee-active header,
+      .marquee-active header *,
+      .marquee-active aside,
+      .marquee-active aside * {
+        -webkit-user-select: none !important;
+        user-select: none !important;
+      }
+      .marquee-active img {
+        -webkit-user-drag: none !important;
+        user-drag: none !important;
+      }
+      /* In fondo al SECONDO <style>, per eliminare il doppio disegno degli edge:
+         manteniamo SOLO il canvas per la resa visiva; lo SVG resta solo per l'hit. */
+      .edge-visible {
+        display: none !important;
+      }
+
+      /* === CSS (aggiungere in fondo al SECONDO <style>) ===================== */
+
+      /* Help panel layout */
+      #helpPanel {
+        display: none;
+        height: 100%;
+        overflow-y: auto;
+        padding: 10px;
+        color: #eee;
+        font-size: 13px;
+        line-height: 1.5;
+      }
+      #helpPanel h2 {
+        margin: 0 0 8px 0;
+        font-size: 16px;
+        color: #fff;
+        font-weight: 600;
+      }
+      #helpPanel .doc-section {
+        border-top: 1px solid #333;
+        padding: 8px 0;
+      }
+      #helpPanel .doc-section:first-of-type {
+        border-top: none;
+      }
+      #helpPanel .doc-section h3 {
+        margin: 0;
+        font-size: 13px;
+        color: #ccc;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+      }
+      #helpPanel .doc-section h3 .material-symbols-outlined {
+        font-size: 18px;
+      }
+      #helpPanel .doc-section h3::after {
+        content: "expand_more";
+        font-family: "Material Symbols Outlined";
+        font-variation-settings: "FILL" 0, "wght" 200, "opsz" 24;
+        font-size: 18px;
+        opacity: 0.8;
+        margin-left: auto;
+      }
+      #helpPanel .doc-section.open h3::after {
+        content: "expand_less";
+      }
+      #helpPanel .doc-body {
+        display: none;
+        margin-top: 6px;
+      }
+      #helpPanel .doc-section.open .doc-body {
+        display: block;
+      }
+
+      /* Icon bullet per liste nella doc */
+      #helpPanel ul {
+        margin: 6px 0 0 0;
+        padding-left: 0;
+        list-style: none;
+      }
+      #helpPanel li {
+        margin: 4px 0;
+        display: flex;
+        gap: 6px;
+        align-items: flex-start;
+      }
+      #helpPanel li .material-symbols-outlined {
+        font-size: 16px;
+        line-height: 1.2;
+        opacity: 0.9;
+      }
+
+      /* Chip "type" solo per la prima lista di Node Structure */
+      #helpPanel .chip.type {
+        background: #222 !important;
+        border: none !important;
+        border-radius: 999px;
+        padding: 2px 10px;
+        color: #eee;
+        font-size: 12px;
+        display: inline-block;
+        margin: 2px 4px 4px 0;
+        pointer-events: none;
+      }
+
+      /* Nasconde sempre il vecchio titolo pannello proprietà */
+      #panelTitle {
+        display: none !important;
+      }
+
+      /* Help button stile “figma-like” (senza bordo) */
+      #btnHelp.icon-btn {
+        border: none !important;
+        background: transparent !important;
+        padding: 6px 8px;
+        border-radius: 8px;
+      }
+      #btnHelp.icon-btn:hover {
+        background: var(--btn-hover) !important;
+      }
+      #btnHelp.icon-btn:active {
+        background: var(--btn-active) !important;
+      }
+
+      /* Overlay Help: full-screen, fuori da <aside> */
+      #helpOverlay {
+        position: fixed;
+        inset: 0;
+        z-index: 9999;
+        background: rgba(14, 14, 14, 0.86);
+        display: none;
+        padding: 32px;
+        overflow: auto;
+        -webkit-user-select: text;
+        user-select: text;
+      }
+      /* Pannello interno */
+      #helpOverlay .doc-box {
+        max-width: 920px;
+        margin: 0 auto;
+        background: var(--panel);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        border-radius: 12px;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+        overflow: hidden;
+      }
+      /* Header pannello */
+      #helpOverlay .doc-box-header {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 10px 12px;
+        background: #1a1a1a;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+      }
+      #helpOverlay .doc-title {
+        font-weight: 600;
+        font-size: 14px;
+        margin-right: auto;
+      }
+      #helpOverlay .doc-box-body {
+        padding: 16px;
+      }
+      /* Le sezioni doc esistenti si adattano dentro il box */
+      #helpOverlay .doc-section {
+        margin-bottom: 18px;
+      }
+      #helpOverlay .doc-section h3 {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin: 0 0 8px 0;
+      }
+      #helpOverlay .doc-section ul {
+        margin: 8px 0 0 18px;
+      }
+      #helpOverlay .doc-section li {
+        margin: 6px 0;
+      }
+      /* Bottoni stile toolbar, no bordo */
+      #helpOverlay .icon-btn {
+        appearance: none;
+        border: none;
+        background: transparent;
+        color: #eee;
+        padding: 6px 8px;
+        border-radius: 8px;
+        cursor: pointer;
+      }
+      #helpOverlay .icon-btn:hover {
+        background: var(--btn-hover);
+      }
+      #helpOverlay .icon-btn:active {
+        background: var(--btn-active);
+      }
+    </style>
     <style>
       :root {
         --bg: #0e0e0e;
@@ -11,9 +780,19 @@
         --ink: #ffffff;
         --muted: #bdbdbd;
         --line: #2a2a2a;
+        --hover-light: #e6e6e6;
       }
       * {
         box-sizing: border-box;
+      }
+      /* Monochrome selection highlight */
+      ::selection {
+        background: rgba(255, 255, 255, 0.18);
+        color: #fff;
+      }
+      ::-moz-selection {
+        background: rgba(255, 255, 255, 0.18);
+        color: #fff;
       }
       body {
         margin: 0;
@@ -28,6 +807,10 @@
         display: flex;
         gap: 10px;
         align-items: center;
+        position: sticky;
+        top: 0;
+        z-index: 5;
+        background: var(--bg);
       }
       button {
         background: #111;
@@ -37,16 +820,40 @@
         border-radius: 6px;
         cursor: pointer;
       }
+      /* Hover feedback: bordo bianco puro; icona invariata */
+      .icon-btn {
+        border: 1px solid #444;
+        transition: border-color 120ms ease, opacity 120ms ease;
+      }
+      .icon-btn:hover {
+        opacity: 1;
+        border-color: var(--hover-light);
+      }
+      .icon-btn:active {
+        opacity: 0.9;
+      }
       button:focus,
       button:focus-visible {
         outline: none;
         box-shadow: none;
       }
+      /* Layout base */
       .app {
         display: grid;
         grid-template-columns: 1fr 380px;
         grid-template-rows: 50px 1fr;
         height: 100vh;
+      }
+      /* Sidebar nascosta: niente seconda colonna, canvas a tutta larghezza */
+      .app.no-panel {
+        grid-template-columns: 1fr !important;
+      }
+      .app.no-panel aside {
+        display: none !important;
+      }
+      /* Header: copre tutte le colonne presenti (1 o 2) */
+      .app header {
+        grid-column: 1 / -1;
       }
 
       #stage {
@@ -89,21 +896,6 @@
         outline: 2px solid #fff;
       }
 
-      .titlebar {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        background: #1b1b1b;
-        border-bottom: 1px solid #2a2a2a;
-        padding: 6px 8px;
-        border-top-left-radius: 8px;
-        border-top-right-radius: 8px;
-      }
-      .title {
-        font-weight: 700;
-        color: #fff;
-        min-height: 1em;
-      }
       .body {
         padding: 8px;
       }
@@ -127,17 +919,6 @@
         color: #bbb;
       }
 
-      .desc {
-        margin-top: 6px;
-        font-size: 12px;
-        white-space: normal;
-        font-family: inherit;
-      }
-      .descTitle {
-        margin-top: 8px;
-        font-size: 12px;
-        color: #bbb;
-      }
       .tags {
         margin-top: 6px;
       }
@@ -188,29 +969,37 @@
         margin-right: 10px;
       }
 
+      /* Area cliccabile più grande, aspetto identico */
       .handle {
         position: absolute;
-        width: 24px;
-        height: 24px;
+        width: 40px;
+        height: 40px;
         pointer-events: auto;
+      }
+      /* cursori coerenti con le tue regole attuali */
+      .handle.out {
         cursor: pointer;
       }
+      .handle.in {
+        cursor: grab;
+      }
       .out {
-        right: -15px;
+        right: -22px;
         top: 50%;
         transform: translateY(-50%);
       }
       .in {
-        left: -15px;
+        left: -22px;
         top: 50%;
         transform: translateY(-50%);
       }
+      /* Indicatori interni invariati (14x14), ma ricentrati nel 40px */
       .out::after {
         content: "";
         position: absolute;
         width: 14px;
         height: 14px;
-        right: 5px;
+        right: 13px;
         top: 50%;
         transform: translateY(-50%);
         background: #fff;
@@ -222,7 +1011,7 @@
         position: absolute;
         width: 14px;
         height: 14px;
-        left: 5px;
+        left: 13px;
         top: 50%;
         transform: translateY(-50%);
         background: #fff;
@@ -231,37 +1020,31 @@
       }
 
       .edge-visible {
-        cursor: pointer;
-        stroke: #9a9a9a;
-        stroke-width: 2;
+        stroke: #ffffff; /* colore visivo */
+        stroke-width: 2; /* spessore visivo */
         fill: none;
-        stroke-linecap: butt;
-        filter: none;
+        cursor: pointer;
+        pointer-events: stroke; /* path visibile cliccabile */
       }
+
+      /* Canvas render: continuiamo a disegnare ma lasciamo il path cliccabile */
       .edge-visible.selected {
         stroke: #ffffff;
         stroke-width: 3;
       }
       .edge-visible.weak {
         stroke: #ffffff;
-        stroke-opacity: 0.4;
+        stroke-opacity: 0.2;
         stroke-dasharray: 10 6;
         stroke-linecap: round;
-        stroke-width: 1.5;
+        stroke-width: 1;
       }
       .edge-visible.weak.selected {
         stroke: #ffffff;
         stroke-opacity: 1;
         stroke-dasharray: 10 6;
         stroke-linecap: round;
-        stroke-width: 2.5;
-      }
-      .edge-hit {
-        stroke: #000;
-        stroke-opacity: 0;
-        stroke-width: 16;
-        fill: none;
-        cursor: pointer;
+        stroke-width: 2;
       }
 
       .marquee {
@@ -303,17 +1086,35 @@
         font-family: inherit;
         margin-top: 6px;
       }
+      /* unify focus ring and selection feel */
       input:focus,
       input:focus-visible,
       textarea:focus,
       textarea:focus-visible {
         outline: none;
-        box-shadow: none;
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.18) inset;
         border-color: #555;
       }
       textarea {
         min-height: 140px;
         resize: vertical;
+      }
+      /* Date input: neutralize blue highlight/look */
+      input[type="date"] {
+        caret-color: #eee;
+      }
+      input[type="date"]::-webkit-datetime-edit-fields-wrapper {
+        color: #eee;
+      }
+      input[type="date"]::-webkit-calendar-picker-indicator {
+        filter: grayscale(100%);
+        opacity: 0.9;
+      }
+      input[type="date"]::-moz-focus-inner {
+        border: 0;
+      }
+      input[type="date"] {
+        -moz-appearance: none;
       }
       .muted {
         color: #bbb;
@@ -352,6 +1153,10 @@
         cursor: pointer;
         text-decoration: underline;
       }
+      .file-row .remove:hover {
+        color: var(--hover-light);
+        text-decoration-color: var(--hover-light);
+      }
 
       .chipRow {
         display: flex;
@@ -359,6 +1164,7 @@
         gap: 6px;
         margin-top: 6px;
       }
+      /* Uniforma hover chip (tags, action, mainArea) */
       .chip {
         display: inline-flex;
         align-items: center;
@@ -370,50 +1176,126 @@
         cursor: pointer;
         user-select: none;
         background: #0f0f0f;
+        transition: background-color 0.2s;
+      }
+      .chip:hover {
+        background-color: #444;
+        color: #fff;
       }
       .chip.active {
         background: #1c1c1c;
         border-color: #666;
       }
+      /* removed old CSS tooltip rules (data-tip) */
       .chip:hover {
-        border-color: #777;
+        border-color: var(--hover-light);
       }
       .chip.radio:not(.active) {
         background: #0d0d0d;
         border-color: #3a3a3a;
         opacity: 0.85;
       }
+      .chip.radio:hover {
+        border-color: var(--hover-light);
+      }
+
+      /* Space-pan: cursore multidirezionale ovunque (stage, nodi, handle) */
+      .space-pan #stage,
+      .space-pan .node,
+      .space-pan .handle {
+        cursor: all-scroll !important;
+      }
+
+      /* Checkbox weak coerente con lo stile */
+      #edgeForm .checkboxRow {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-size: 12px;
+      }
+      #edgeForm input[type="checkbox"]#eDashed {
+        appearance: none;
+        -webkit-appearance: none;
+        width: 16px;
+        height: 16px;
+        border: 1px solid #444;
+        border-radius: 3px;
+        background: #000;
+        display: inline-block;
+        position: relative;
+        vertical-align: middle;
+      }
+      #edgeForm input[type="checkbox"]#eDashed:focus {
+        outline: none;
+        box-shadow: none;
+        border-color: #666;
+      }
+      #edgeForm input[type="checkbox"]#eDashed:checked::after {
+        content: "";
+        position: absolute;
+        inset: 3px;
+        background: #fff;
+        border-radius: 1px;
+      }
+      /* Ensure radio chips (Action/Main area) get the same white hover border */
+      .chip.radio:hover {
+        border-color: #ffffff;
+      }
     </style>
   </head>
   <body>
     <div class="app">
       <header style="grid-column: 1/3">
-        <button id="btnAdd">+ New node</button>
-        <button id="btnAuto">Auto layout</button>
-        <button id="btnOpen">Open</button>
-        <button id="btnSave">Save</button>
-        <button id="btnUndo">Undo</button>
-        <button id="btnRedo">Redo</button>
-        <button id="btnDel">Delete selection</button>
-        <button id="btnFit">Fit view (0)</button>
+        <button id="btnNew" data-tip="New project">
+          <span class="material-symbols-outlined">note_add</span>
+        </button>
+        <button id="btnOpen" data-tip="Open (Cmd/Ctrl+O)">
+          <span class="material-symbols-outlined">file_open</span>
+        </button>
+        <button id="btnSave" data-tip="Save (Cmd/Ctrl+S)">
+          <span class="material-symbols-outlined">file_save</span>
+        </button>
+        <button id="btnAdd" data-tip="New node (N)">
+          <span class="material-symbols-outlined">add_box</span>
+        </button>
+        <button
+          id="btnConnect"
+          class="connect"
+          data-tip="Connect nodes (Shift+C)"
+        >
+          <span class="material-symbols-outlined">conversion_path</span>
+        </button>
+        <button id="btnAuto" data-tip="Auto layout (Alt+A)">
+          <span class="material-symbols-outlined">account_tree</span>
+        </button>
+        <button id="btnUndo" data-tip="Undo (Cmd/Ctrl+Z)">
+          <span class="material-symbols-outlined">undo</span>
+        </button>
+        <button id="btnRedo" data-tip="Redo (Cmd/Ctrl+Shift+Z)">
+          <span class="material-symbols-outlined">redo</span>
+        </button>
+        <button id="btnDel" data-tip="Delete (Del)">
+          <span class="material-symbols-outlined">delete</span>
+        </button>
+        <button id="btnFit" data-tip="Fit view (0)">
+          <span class="material-symbols-outlined">fullscreen</span>
+        </button>
+        <button id="btnHelp" class="icon-btn" data-tip="Help">
+          <span class="material-symbols-outlined">help</span>
+        </button>
         <span id="status" class="muted" style="margin-left: 8px"></span>
       </header>
 
       <div id="stage"><svg id="edges" preserveAspectRatio="none"></svg></div>
 
       <aside>
-        <h3 id="panelTitle">Node properties</h3>
         <div id="nodeForm">
           <form onsubmit="return false;">
             <label>Date <input id="fDate" type="date" /></label>
 
             <label
               >Title
-              <input
-                id="fTitle"
-                type="text"
-                placeholder="(optional, spaces allowed)"
-              />
+              <input id="fTitle" type="text" placeholder="" />
             </label>
 
             <label
@@ -421,7 +1303,7 @@
               <input
                 id="fType"
                 type="text"
-                placeholder="e.g. Brief, Prototype (no spaces while typing)"
+                placeholder="Source · Concept · Sketch · Artefact · Feedback"
               />
               <div id="typeChips" class="chipRow"></div>
             </label>
@@ -447,29 +1329,18 @@
 
             <label
               >Areas
-              <input
-                id="fAreas"
-                type="text"
-                placeholder="Comma separated (you can type freely)"
-              />
+              <input id="fAreas" type="text" placeholder="Comma separated" />
               <div id="areasChips" class="chipRow"></div>
             </label>
 
             <label
               >Description
-              <textarea
-                id="fDesc"
-                placeholder="Paragraphs and - bullet lists supported"
-              ></textarea>
+              <textarea id="fDesc" placeholder=""></textarea>
             </label>
 
             <label
               >Tags
-              <input
-                id="fTags"
-                type="text"
-                placeholder="Comma separated (you can type freely)"
-              />
+              <input id="fTags" type="text" placeholder="Comma separated" />
               <div id="tagsChips" class="chipRow"></div>
             </label>
 
@@ -487,7 +1358,19 @@
                 margin-top: 10px;
               "
             >
-              <button id="btnChoose" type="button">Choose files</button>
+              <button
+                id="btnChoose"
+                type="button"
+                title="Upload files"
+                class="icon-btn"
+              >
+                <span
+                  class="material-symbols-outlined"
+                  style="margin-right: 6px"
+                  >upload</span
+                >
+                Upload files
+              </button>
               <span id="selInfo" class="muted">No selection</span>
             </div>
             <div id="filesList" class="muted" style="margin-top: 6px"></div>
@@ -509,6 +1392,280 @@
           accept="application/json"
           style="display: none"
         />
+
+        <!-- HTML: aggiungi il pannello help in fondo a <aside>, dopo i form -->
+        <div id="helpPanel">
+          <h2>Threadscape — Documentation</h2>
+
+          <div class="doc-section open">
+            <h3>
+              <span class="material-symbols-outlined">lightbulb</span> Concept
+              and Purpose
+            </h3>
+            <div class="doc-body">
+              <p>
+                Threadscape is a tool to map and reflect on design processes. It
+                is designed to capture the often nonlinear flow of ideas and
+                materials that emerge while working on a project.
+              </p>
+              <p>
+                Each node represents a design atom — not simply a chronological
+                step, but any meaningful element that shapes the project: a
+                concept, an artefact, a reference, an insight, and more. The map
+                shows how these elements branch and merge, making visible the
+                structure and logic of the process.
+              </p>
+              <ul>
+                <li>
+                  <span class="material-symbols-outlined">flowchart</span>
+                  <strong>During a project:</strong><br />to clarify what is
+                  happening, explore alternatives, and make sense of complex
+                  progressions.
+                </li>
+                <li>
+                  <span class="material-symbols-outlined">door_open</span>
+                  <strong>After a project:</strong><br />to analyse its
+                  structure, conduct research on design processes, and
+                  communicate the underlying decisions and sources.
+                </li>
+              </ul>
+              <p>
+                It promotes open documentation and shared understanding of
+                design work. All data is stored locally and can be freely
+                modified or shared.
+              </p>
+            </div>
+          </div>
+
+          <div class="doc-section">
+            <h3>
+              <span class="material-symbols-outlined">schema</span> Node
+              Structure
+            </h3>
+            <div class="doc-body">
+              <p>
+                Un nodo può rappresentare: <span class="chip key">Brief</span>,
+                <span class="chip key">Source</span>,
+                <span class="chip key">Collection</span>,
+                <span class="chip key">Concept</span>,
+                <span class="chip key">Sketch</span>,
+                <span class="chip key">Artefact</span>,
+                <span class="chip key">Observation</span>,
+                <span class="chip key">Feedback</span>,
+                <span class="chip key">Decision</span>,
+                <span class="chip key">Output</span>.
+              </p>
+              <p><strong>Campi (tutti opzionali):</strong></p>
+              <ul>
+                <li>
+                  <span class="chip key">Title</span> — nome dell’elemento
+                </li>
+                <li>
+                  <span class="chip key">Date</span> — data chiave (precompilata
+                  ma editabile)
+                </li>
+                <li>
+                  <span class="chip key">Type</span> — categoria (es. Concept,
+                  Artefact…)
+                </li>
+                <li>
+                  <span class="chip key">Action</span> — atteggiamento (es.
+                  Exploring / Making)
+                </li>
+                <li>
+                  <span class="chip key">Main Area</span> — dominio primario
+                  (es. Speculation)
+                </li>
+                <li>
+                  <span class="chip key">Areas</span> — parole chiave secondarie
+                </li>
+                <li>
+                  <span class="chip key">Tags</span> — parole chiave libere per
+                  filtri
+                </li>
+                <li>
+                  <span class="chip key">Description</span> — testo (200–1000
+                  caratteri)
+                </li>
+                <li><span class="chip key">Links</span> — un link per riga</li>
+                <li>
+                  <span class="chip key">Files</span> — immagini/PDF (compressi
+                  in <code>assets/</code>)
+                </li>
+              </ul>
+              <p>
+                <strong>Main Area vs Areas</strong><br />
+                <span class="chip key">Main Area</span> è un’etichetta unica per
+                il dominio primario.<br />
+                <span class="chip key">Areas</span> sono keyword multiple
+                (temi/contesti secondari).
+              </p>
+              <p>
+                Il pannello suggerisce <span class="chip key">Type</span>,
+                <span class="chip key">Areas</span> e
+                <span class="chip key">Tags</span> già usati.
+              </p>
+            </div>
+          </div>
+
+          <div class="doc-section">
+            <h3>
+              <span class="material-symbols-outlined">fork_right</span>
+              Connections and Interaction
+            </h3>
+            <div class="doc-body">
+              <p>Le connessioni mostrano le relazioni tra nodi:</p>
+              <ul>
+                <li>
+                  <span class="chip key">Dirette</span> — linea piena (relazione
+                  forte/esplicita)
+                </li>
+                <li>
+                  <span class="chip key">Weak</span> — linea tratteggiata
+                  (relazione indiretta/ipotetica)
+                </li>
+              </ul>
+              <p><strong>Interazioni base:</strong></p>
+              <ul>
+                <li>
+                  Pan: <span class="chip kbd">Space</span> + trascina / trackpad
+                </li>
+                <li>Zoom: rotella/trackpad</li>
+                <li>Selezione multipla: trascina per creare un rettangolo</li>
+                <li>Muovi nodi: trascina i nodi selezionati</li>
+                <li>
+                  Crea connessione: trascina da
+                  <span class="badge io out">OUT</span> a
+                  <span class="badge io in">IN</span>
+                </li>
+                <li>
+                  <span class="chip key">Alt/⌥</span> trascina nodi → duplica
+                  &amp; sposta
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="doc-section">
+            <h3>
+              <span class="material-symbols-outlined">conversion_path</span>
+              Connect Tool
+            </h3>
+            <div class="doc-body">
+              <ol>
+                <li>Seleziona una o più sorgenti</li>
+                <li>
+                  Clicca
+                  <span
+                    class="material-symbols-outlined"
+                    style="vertical-align: middle"
+                    >conversion_path</span
+                  >
+                  <span class="chip key">Connect</span>
+                </li>
+                <li>Clicca i target da connettere</li>
+                <li>
+                  Riclicca <span class="chip key">Connect</span> per confermare
+                </li>
+              </ol>
+              <p>
+                <span class="chip kbd">C</span> con esattamente 2 nodi
+                selezionati collega direttamente da sinistra a destra.
+              </p>
+            </div>
+          </div>
+
+          <div class="doc-section">
+            <h3>
+              <span class="material-symbols-outlined">save</span> Saving and
+              Opening Projects
+            </h3>
+            <div class="doc-body">
+              <ul>
+                <li>
+                  Salvataggio crea: <code>project.json</code> + cartella
+                  <code>assets/</code>
+                </li>
+                <li>
+                  Le immagini nuove vengono convertite in
+                  <span class="chip key">JPEG</span>, lato lungo max
+                  <span class="chip key">1500px</span>, compresse
+                  automaticamente
+                </li>
+                <li>
+                  Per aprire: seleziona la cartella del progetto (carica
+                  <code>project.json</code>)
+                </li>
+                <li>Disponibile export leggero JSON (senza file)</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="doc-section">
+            <h3>
+              <span class="material-symbols-outlined">keyboard</span> Toolbar &
+              Shortcuts
+            </h3>
+            <div class="doc-body">
+              <ul>
+                <li>
+                  <span class="chip key">New Project</span> —
+                  <span class="chip kbd">⌘/Ctrl + N</span>
+                </li>
+                <li>
+                  <span class="chip key">Open Project</span> —
+                  <span class="chip kbd">⌘/Ctrl + O</span>
+                </li>
+                <li>
+                  <span class="chip key">Save Project</span> —
+                  <span class="chip kbd">⌘/Ctrl + S</span>
+                </li>
+                <li>
+                  <span class="chip key">New Node</span> —
+                  <span class="chip kbd">N</span>
+                </li>
+                <li>
+                  <span class="chip key">Direct Connect</span> (2 selezionati) —
+                  <span class="chip kbd">C</span>
+                </li>
+                <li>
+                  <span class="chip key">Auto Layout</span> —
+                  <span class="chip kbd">⇧ + A</span>
+                </li>
+                <li>
+                  <span class="chip key">Undo</span> —
+                  <span class="chip kbd">⌘/Ctrl + Z</span>
+                </li>
+                <li>
+                  <span class="chip key">Redo</span> —
+                  <span class="chip kbd">⌘/Ctrl + ⇧ + Z</span>
+                </li>
+                <li>
+                  <span class="chip key">Fit View</span> —
+                  <span class="chip kbd">0</span>
+                </li>
+                <li>
+                  <span class="chip key">Upload Files</span> (nodo selezionato)
+                  — <span class="chip kbd">U</span>
+                </li>
+                <li>
+                  <span class="chip key">Group</span> —
+                  <span class="chip kbd">⌘/Ctrl + G</span>
+                </li>
+                <li>
+                  <span class="chip key">Ungroup</span> —
+                  <span class="chip kbd">⌘/Ctrl + ⇧ + G</span>
+                </li>
+              </ul>
+              <p>
+                <strong>Selezione rapida:</strong>
+                <span class="chip key">⇧ + click</span> su nodi/edge per
+                multiselezione. <span class="chip key">⌥ + click</span> su edge
+                per inserire un nodo intermedio.
+              </p>
+            </div>
+          </div>
+        </div>
       </aside>
     </div>
 
@@ -520,6 +1677,154 @@
           HGAP = 160,
           VGAP = 40,
           MIN_LAYER_GAP = 24;
+
+        // JS: toggle pannello help + accordion (aggiungere nel blocco script principale)
+        const btnHelp = document.getElementById("btnHelp");
+        const helpPanel = document.getElementById("helpPanel");
+
+        // Build Help content (English, icon bullets, no separate Connect section)
+        if (helpPanel) {
+          helpPanel.innerHTML = `
+          <h2>Threadscape — Documentation</h2>
+          <div class="doc-section open">
+            <h3><span class="material-symbols-outlined">lightbulb</span> Concept and Purpose</h3>
+            <div class="doc-body">
+              <ul>
+                <li><span class="material-symbols-outlined">info</span>
+                  <span>Threadscape is a tool to map and reflect on design processes. It is designed to capture the often nonlinear flow of ideas and materials that emerge while working on a project.</span>
+                </li>
+                <li><span class="material-symbols-outlined">account_tree</span>
+                  <span>Each node represents a design atom — not simply a chronological step, but any meaningful element that shapes the project: a concept, an artefact, a reference, an insight, and more. The map shows how these elements branch and merge, making visible the structure and logic of the process.</span>
+                </li>
+                <li><span class="material-symbols-outlined">schedule</span>
+                  <span><strong>During a project</strong>, to clarify what is happening, explore alternatives, and make sense of complex progressions.</span>
+                </li>
+                <li><span class="material-symbols-outlined">history_edu</span>
+                  <span><strong>After a project</strong>, to analyse its structure, conduct research on design processes, and communicate the underlying decisions and sources.</span>
+                </li>
+                <li><span class="material-symbols-outlined">lock_open_right</span>
+                  <span>It promotes open documentation and shared understanding of design work. All data is stored locally and can be freely modified or shared.</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="doc-section">
+            <h3><span class="material-symbols-outlined">schema</span> Node Structure</h3>
+            <div class="doc-body">
+              <p>Each node can represent any meaningful element of a design process, such as:</p>
+              <ul>
+                <li><span class="chip type">Brief</span><br>the initial framing of the project, the question or design challenge that triggers it (project goal, starting hypothesis, constraint)</li>
+                <li><span class="chip type">Source</span><br>external material used as input and inspiration (case study, reference, article, artwork, dataset, book, website)</li>
+                <li><span class="chip type">Collection</span><br>curated group of references organised around a theme, showing a first layer of interpretation (moodboard, image set, text set)</li>
+                <li><span class="chip type">Concept</span><br>the core idea or proposition that drives exploration</li>
+                <li><span class="chip type">Sketch</span><br>embryonic design attempt, rough and provisional, not yet fully articulated (drawing, wireframe, doodle, draft)</li>
+                <li><span class="chip type">Artefact</span><br>tangible outcome produced during the process, with a degree of autonomy or completeness (prototype, installation, poster, website, editorial, app, gadget)</li>
+                <li><span class="chip type">Observation</span><br>reflection, analysis, and learning from the process, including when things don’t work (note, failure, discovery, insight)</li>
+                <li><span class="chip type">Feedback</span><br>external response and evaluation from others (peer comment, critique, review)</li>
+                <li><span class="chip type">Decision</span><br>moment where something is defined or chosen, shaping the direction (design choice, milestone, strategic shift)</li>
+                <li><span class="chip type">Output</span><br>the final, consolidated result</li>
+              </ul>
+
+              <h4 style="margin-top:18px; color:#bbb; font-size:12px; font-weight:600;">Node fields</h4>
+              <p>These fields describe the content of each node (all optional):</p>
+
+              <ul>
+                <li><strong>Title</strong><br>name of the element, summarising the node content</li>
+                <li><strong>Date</strong><br>key date for the element (automatically set to the current date but editable and backdatable)</li>
+                <li><strong>Type</strong><br>choose or write a category (e.g. Concept, Artefact, Feedback...)</li>
+                <li><strong>Action</strong><br>the attitude involved, e.g. Exploring or Making</li>
+                <li><strong>Main Area</strong><br>the main disciplinary area (select only if it includes the node)</li>
+                <li><strong>Areas</strong><br>specific areas explored (comma-separated keywords)</li>
+                <li><strong>Tags</strong><br>free keywords for filtering; useful for recurring typologies, transversal, thematic, structural or methodological elements</li>
+                <li><strong>Description</strong><br>explanatory text (200–1000 characters including spaces)</li>
+                <li><strong>Links</strong><br>one link per line</li>
+                <li><strong>Files</strong><br>upload images or PDFs (they are stored and compressed automatically in the assets folder)</li>
+              </ul>
+
+              <ul style="margin-top:10px;">
+                <li><strong>Main Area</strong> is a single label defining the primary domain (e.g., “Speculation”).</li>
+                <li><strong>Areas</strong> are multiple free-form keywords describing secondary themes or contexts (e.g., “biology, interaction design, performance”).</li>
+                <li><strong>Suggestions</strong> reuse previously used Types, Areas, and Tags to speed up data entry.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="doc-section">
+            <h3><span class="material-symbols-outlined">gesture_select</span> Interaction</h3>
+            <div class="doc-body">
+              <ul>
+                <li><span class="material-symbols-outlined">pan_tool</span><strong>Pan the canvas:</strong><br>trackpad or hold Space and drag</li>
+                <li><span class="material-symbols-outlined">zoom_in</span><strong>Zoom:</strong><br>trackpad or mouse wheel</li>
+                <li><span class="material-symbols-outlined">select_all</span><strong>Select multiple nodes:</strong><br>drag to create a selection rectangle</li>
+                <li><span class="material-symbols-outlined">open_with</span><strong>Move nodes:</strong><br>drag them (groups move together)</li>
+                <li><span class="material-symbols-outlined">automation</span><strong>Create a connection:</strong><br>drag from ● IN to ► OUT</li>
+                <li><span class="material-symbols-outlined">graph_1</span><strong>Click a ● IN handle:</strong><br>creates a connected duplicate node (inheriting Action and Main Area)</li>
+                <li><span class="material-symbols-outlined">conversion_path</span><strong>Connect mode:</strong><br>select one or more sources, click on the toolbar, click one or more targets, click again to exit</li>
+                <li><span class="material-symbols-outlined">diagonal_line</span><strong>Direct connect:</strong><br>with exactly two nodes selected, press C to connect left → right</li>
+                <li><span class="material-symbols-outlined">commit</span><strong>Alt/Option + click edge:</strong><br>split an edge and insert a node in the middle</li>
+                <li><span class="material-symbols-outlined">power_input</span><strong>Weak connections:</strong><br>click an edge and enable “Weak”</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="doc-section">
+            <h3><span class="material-symbols-outlined">save</span> Saving and Opening Projects</h3>
+            <div class="doc-body">
+              <ul>
+                <li><span class="material-symbols-outlined">folder</span><span><strong>Saving</strong> creates a folder with:</span></li>
+                <li style="margin-left:22px;"><span class="material-symbols-outlined">description</span><span><code>project.json</code> — nodes, connections, positions, text</span></li>
+                <li style="margin-left:22px;"><span class="material-symbols-outlined">folder_copy</span><span><code>assets/</code> — attached files</span></li>
+                <li><span class="material-symbols-outlined">image</span><span>New images are converted to <strong>JPEG</strong>, resized to a max of <strong>1500px</strong> (longest side), and compressed.</span></li>
+                <li><span class="material-symbols-outlined">download_done</span><span>No need to place files manually into <code>assets</code>.</span></li>
+                <li><span class="material-symbols-outlined">folder_open</span><span><strong>Open</strong>: select the project folder — Threadscape loads <code>project.json</code>.</span></li>
+                <li><span class="material-symbols-outlined">data_object</span><span>Lightweight JSON export (without files) is available for quick sharing.</span></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="doc-section">
+            <h3><span class="material-symbols-outlined">keyboard</span> Toolbar and Shortcuts</h3>
+            <div class="doc-body">
+              <ul>
+                <li><span class="material-symbols-outlined">note_add</span><span>New Project — ⌘/Ctrl + N</span></li>
+                <li><span class="material-symbols-outlined">file_open</span><span>Open Project — ⌘/Ctrl + O</span></li>
+                <li><span class="material-symbols-outlined">file_save</span><span>Save Project — ⌘/Ctrl + S</span></li>
+                <li><span class="material-symbols-outlined">add_box</span><span>New Node — N</span></li>
+                <li><span class="material-symbols-outlined">bolt</span><span>Direct Connect (2 selected) — C</span></li>
+                <li><span class="material-symbols-outlined">account_tree</span><span>Auto Layout — ⇧ + A</span></li>
+                <li><span class="material-symbols-outlined">undo</span><span>Undo — ⌘/Ctrl + Z</span></li>
+                <li><span class="material-symbols-outlined">redo</span><span>Redo — ⌘/Ctrl + ⇧ + Z</span></li>
+                <li><span class="material-symbols-outlined">fullscreen</span><span>Fit View — 0</span></li>
+                <li><span class="material-symbols-outlined">upload</span><span>Upload Files (selected node) — U</span></li>
+                <li><span class="material-symbols-outlined">group</span><span>Group — ⌘/Ctrl + G</span></li>
+                <li><span class="material-symbols-outlined">group_off</span><span>Ungroup — ⌘/Ctrl + ⇧ + G</span></li>
+              </ul>
+              <ul>
+                <li><span class="material-symbols-outlined">select_check_box</span><span>⇧ + click edges — multi-select edges</span></li>
+                <li><span class="material-symbols-outlined">select_check_box</span><span>⇧ + click nodes — multi-select nodes</span></li>
+                <li><span class="material-symbols-outlined">call_split</span><span>⌥ + click edge — split an edge and insert a node in the middle</span></li>
+              </ul>
+            </div>
+          </div>
+          `;
+        }
+        btnHelp?.addEventListener("click", () => {
+          const show = helpPanel?.style.display !== "block";
+          if (helpPanel) helpPanel.style.display = show ? "block" : "none";
+          // nascondi i form quando il help è aperto
+          const nf = document.getElementById("nodeForm");
+          const ef = document.getElementById("edgeForm");
+          if (nf) nf.style.display = show ? "none" : "";
+          if (ef) ef.style.display = "none";
+        });
+
+        // accordion
+        helpPanel?.querySelectorAll(".doc-section h3").forEach((h) => {
+          h.addEventListener("click", () => {
+            h.parentElement.classList.toggle("open");
+          });
+        });
         const IMG_MAX_SIDE = 1500,
           IMG_TARGET_BYTES = 500 * 1024;
         const CLICK_THRESHOLD = 10;
@@ -575,6 +1880,281 @@
         const stage = $("#stage"),
           edgesSVG = $("#edges"),
           status = $("#status");
+        let __statusTimer = null;
+        function setStatus(msg) {
+          status.textContent = msg || "";
+          clearTimeout(__statusTimer);
+          if (!msg) return;
+          if (status.classList.contains("pulsing")) return; // non auto-hide durante connect mode
+          __statusTimer = setTimeout(() => {
+            status.textContent = "";
+          }, 3000);
+        }
+
+        /* ==== CONNECT FSM — self-contained in this IIFE ==== */
+        // Mini helpers for status with HTML/pulse
+        const setStatusHTML = (html) => {
+          status.innerHTML = html || "";
+        };
+        const setStatusPulseHTML = (html, on = false) => {
+          setStatusHTML(html);
+          status.classList.toggle("pulsing", !!on);
+        };
+        const btnConnect = document.getElementById("btnConnect");
+        // Private state
+        let connectMode = false;
+        let connectSources = [];
+        const MSG = {
+          needSources: `Select source node(s), then press <span class="material-symbols-outlined status-ico">conversion_path</span>Connect.`,
+          selectTargets: `Select target node(s)...`,
+          completeHint: `Complete by clicking <span class="material-symbols-outlined status-ico">conversion_path</span>.`,
+          multiRule: `Multiple sources can connect to a single target only.`,
+          cancelled: `Operation cancelled.`,
+          created: (n) => `Created ${n} connection${n === 1 ? "" : "s"}.`,
+        };
+        const enterConnectMode = () => {
+          connectMode = true;
+          btnConnect?.classList.add("active");
+          if (state.selNodes.size === 0) {
+            connectSources = [];
+            setStatusPulseHTML(MSG.needSources, true);
+          } else {
+            connectSources = [...state.selNodes];
+            setStatusPulseHTML(MSG.selectTargets, true);
+          }
+        };
+        const exitConnectMode = (finalMsgHTML = "") => {
+          connectMode = false;
+          connectSources = [];
+          btnConnect?.classList.remove("active");
+          setStatusPulseHTML(finalMsgHTML, false);
+        };
+        const updateConnectStatusDuringSelection = () => {
+          if (!connectMode) return;
+          if (connectSources.length === 0) {
+            setStatusPulseHTML(MSG.needSources, true);
+            return;
+          }
+          const targets = [...state.selNodes].filter(
+            (id) => !connectSources.includes(id)
+          );
+          setStatusPulseHTML(
+            targets.length > 0 ? MSG.completeHint : MSG.selectTargets,
+            true
+          );
+        };
+        // Bindings
+        btnConnect?.addEventListener("click", () => {
+          if (!connectMode) {
+            enterConnectMode();
+            return;
+          }
+          const sources = [...connectSources];
+          const targets = [...state.selNodes].filter(
+            (id) => !connectSources.includes(id)
+          );
+          if (sources.length === 0) {
+            setStatusPulseHTML(MSG.needSources, true);
+            return;
+          }
+          if (sources.length > 1 && targets.length > 1) {
+            setStatusPulseHTML(MSG.multiRule, true);
+            return;
+          }
+          let created = 0;
+          pushHistory();
+          for (const s of sources) {
+            for (const t of targets) {
+              if (s !== t && !state.edges.some((e) => e.s === s && e.t === t)) {
+                addEdge(s, t);
+                created++;
+              }
+            }
+          }
+          renderEdges();
+          exitConnectMode(created > 0 ? MSG.created(created) : "");
+        });
+        document.addEventListener("keydown", (e) => {
+          const tag = document.activeElement?.tagName;
+          const inText =
+            tag === "INPUT" ||
+            tag === "TEXTAREA" ||
+            document.activeElement?.isContentEditable;
+          if (inText) return;
+          // Shift + C → comporta come pressione del pulsante Connect
+          if (e.key.toLowerCase() === "c" && e.shiftKey) {
+            e.preventDefault();
+            btnConnect?.click();
+            return;
+          }
+          // C semplice → collega esattamente 2 nodi selezionati (senza toccare il pulsante)
+          if (
+            e.key.toLowerCase() === "c" &&
+            !e.shiftKey &&
+            !e.metaKey &&
+            !e.ctrlKey &&
+            !e.altKey
+          ) {
+            e.preventDefault();
+            const ids = [...state.selNodes];
+            if (ids.length === 2) {
+              const a = getNodeById(ids[0]);
+              const b = getNodeById(ids[1]);
+              if (a && b && a.id !== b.id) {
+                // Direzione: sinistra → destra; se X uguali, alto → basso
+                let s = a.id,
+                  t = b.id;
+                if (a.x > b.x || (a.x === b.x && a.y > b.y)) {
+                  s = b.id;
+                  t = a.id;
+                }
+                if (!state.edges.some((e) => e.s === s && e.t === t)) {
+                  pushHistory();
+                  addEdge(s, t);
+                  renderEdges();
+                  setStatus("Created 1 connection.");
+                }
+              }
+            }
+            return;
+          }
+          if (e.key === "Escape" && connectMode) {
+            e.preventDefault();
+            exitConnectMode(MSG.cancelled);
+            return;
+          }
+        });
+        document.addEventListener(
+          "click",
+          () => {
+            if (!connectMode) return;
+            setTimeout(updateConnectStatusDuringSelection, 0);
+          },
+          false
+        );
+
+        // === EDGE CANVAS (disegno) + SCHEDULER ===
+        const edgeCanvas = document.createElement("canvas");
+        edgeCanvas.id = "edgesCanvas";
+        edgeCanvas.style.position = "absolute";
+        edgeCanvas.style.inset = "0";
+        edgeCanvas.style.zIndex = "1"; // sotto ai nodi (.node ha z-index:1, ma trasformata; questo resta dietro)
+        edgeCanvas.style.pointerEvents = "none"; // eventi restano all'SVG per hit-test
+        stage.insertBefore(edgeCanvas, edgesSVG.nextSibling);
+        const edgeCtx = edgeCanvas.getContext("2d", { alpha: true });
+
+        let __edgesCSSHidden = false;
+        function __hideSvgVisibleOnce() {
+          if (__edgesCSSHidden) return;
+          __edgesCSSHidden = true;
+          // Se non hai messo la regola CSS, nascondi via JS
+          edgesSVG
+            .querySelectorAll(".edge-visible")
+            .forEach((p) => (p.style.display = "none"));
+        }
+
+        function resizeEdgeCanvasToStage() {
+          const r = stage.getBoundingClientRect();
+          // pixel reali per nitidezza su HiDPI
+          const dpr = Math.max(1, window.devicePixelRatio || 1);
+          edgeCanvas.width = Math.max(1, Math.round(r.width * dpr));
+          edgeCanvas.height = Math.max(1, Math.round(r.height * dpr));
+          edgeCanvas.style.width = `${Math.max(1, Math.round(r.width))}px`;
+          edgeCanvas.style.height = `${Math.max(1, Math.round(r.height))}px`;
+          edgeCtx.setTransform(dpr, 0, 0, dpr, 0, 0);
+        }
+
+        function worldTransform(ctx) {
+          // Trasforma world->screen come fai per SVG (pan/zoom)
+          ctx.translate(state.pan.x, state.pan.y);
+          ctx.scale(state.zoom, state.zoom);
+        }
+
+        function drawAllEdgesOnCanvas() {
+          __hideSvgVisibleOnce();
+          resizeEdgeCanvasToStage();
+          const ctx = edgeCtx;
+          ctx.clearRect(0, 0, edgeCanvas.width, edgeCanvas.height);
+
+          // 1) edge normali
+          ctx.save();
+          worldTransform(ctx);
+          for (let i = 0; i < state.edges.length; i++) {
+            const e = state.edges[i];
+            const s = anchor(e.s, "right");
+            const t = anchor(e.t, "left");
+            if (!s || !t) continue;
+
+            const isWeak = !!e.dashed;
+            const isSel = state.selEdges.has(i);
+
+            // Impostazioni comuni
+            ctx.lineCap = "butt"; // cap rettangolare per coerenza
+
+            if (isWeak) {
+              // WEAK: più fini, grigio scuro, gap breve
+              const dash = [8, 3]; // gap più corto
+              ctx.setLineDash(dash);
+
+              if (isSel) {
+                // WEAK selezionati: più spessi e bianchi (restano tratteggiati)
+                ctx.lineWidth = 2;
+                ctx.strokeStyle = "#eeeeee";
+              } else {
+                ctx.lineWidth = 2; // più fini
+                ctx.strokeStyle = "#444444"; // grigio scu
+              }
+            } else {
+              // NORMAL
+              ctx.setLineDash([]);
+              if (isSel) {
+                // Selezionati: più spessi e bianchi
+                ctx.lineWidth = 3;
+                ctx.strokeStyle = "#ffffff";
+              } else {
+                ctx.lineWidth = 2;
+                ctx.strokeStyle = "#9a9a9a";
+              }
+            }
+
+            drawCubic(ctx, s, t);
+          }
+
+          // 2) ghost durante drag edge (disegno “provvisorio” sul canvas)
+          if (state.dragLink && state.dragLink.active) {
+            const to = { x: state.dragLink.x, y: state.dragLink.y };
+            ctx.setLineDash([]);
+            ctx.lineWidth = 2;
+            ctx.strokeStyle = "#ffffff";
+            for (const sid of state.dragLink.sources || []) {
+              const a =
+                state.dragLink.from === "out"
+                  ? anchor(sid, "right")
+                  : anchor(sid, "left");
+              const A = state.dragLink.from === "out" ? a : to;
+              const B = state.dragLink.from === "out" ? to : a;
+              drawCubic(ctx, A, B);
+            }
+          }
+          ctx.restore();
+        }
+
+        function drawCubic(ctx, a, b) {
+          const dx = Math.max(40, Math.abs(b.x - a.x) * 0.5);
+          ctx.beginPath();
+          ctx.moveTo(a.x, a.y);
+          ctx.bezierCurveTo(a.x + dx, a.y, b.x - dx, b.y, b.x, b.y);
+          ctx.stroke();
+        }
+
+        let __edgeRAF = null;
+        function scheduleEdgeCanvasDraw() {
+          if (__edgeRAF) return;
+          __edgeRAF = requestAnimationFrame(() => {
+            __edgeRAF = null;
+            drawAllEdgesOnCanvas();
+          });
+        }
 
         // === UX: hit-test del vuoto & flag gesto ===
         function isBlankAtPoint(clientX, clientY) {
@@ -613,7 +2193,14 @@
         };
 
         const uid = () => "n" + Math.random().toString(36).slice(2, 9);
-        const setStatus = (m) => (status.textContent = m || "");
+        function fmtTime10() {
+          const d = new Date();
+          const hh = String(d.getHours()).padStart(2, "0");
+          const mm = String(d.getMinutes()).padStart(2, "0");
+          const ss = String(d.getSeconds()).padStart(2, "0");
+          const tenth = Math.floor(d.getMilliseconds() / 100);
+          return `${hh}:${mm}:${ss}`;
+        }
         const esc = (s) =>
           (s ?? "").replace(
             /[&<>"']/g,
@@ -717,6 +2304,12 @@
           ensureSVGSize();
           updateGrid();
         });
+
+        // Canvas segue lo stage
+        window.addEventListener("resize", () => {
+          resizeEdgeCanvasToStage();
+          scheduleEdgeCanvasDraw();
+        });
         ensureSVGSize();
         function updateGrid() {
           const sizeX = GRID * state.zoom,
@@ -764,16 +2357,23 @@
           state.nodes.push(node);
           vocabInitNodeSnapshot(node);
           mountNode(node);
+
+          // Ordine corretto: prima riempi il DOM, poi misura e posiziona
+          populate(node);
           measure(node);
           positionNode(node);
-          populate(node);
+
+          // Una rimesura al prossimo frame per font/immagini che arrivano dopo
+          scheduleMeasureAfterPopulate(node);
+
           selectOnlyNodes([id]);
-          renderEdges();
+          safeRedrawEdges();
           return id;
         }
         function addNode() {
-          const i = state.nodes.length;
-          return addNodeAt(80 + i * 40, 80 + i * 30);
+          const r = stage.getBoundingClientRect();
+          const world = toWorld(r.left + 80, r.top + 80);
+          return addNodeAt(world.x, world.y);
         }
 
         function mountNode(node) {
@@ -783,10 +2383,11 @@
           el.innerHTML = `
             <div class="handle in" data-role="in" title="Input"></div>
             <div class="handle out" data-role="out" title="Output / Create child"></div>
-            <div class="titlebar"><div class="title"></div></div>
             <div class="body">
+              <div class="title"></div>
+              <div class="divider div-after-title"></div>
               <div class="meta"><span class="date"></span></div>
-              <div class="divider"></div>
+              <div class="divider div-after-date"></div>
               <div class="kv">
                 <div>Type</div><div class="object typeField"></div>
                 <div>Action</div><div class="action"></div>
@@ -853,13 +2454,16 @@
                 n.x = w.x + m.dx;
                 n.y = w.y + m.dy;
                 positionNode(n);
+                updateEdgesForNode(n.id);
               }
             } else {
               node.x = w.x - off.x;
               node.y = w.y - off.y;
               positionNode(node);
+              updateEdgesForNode(node.id);
             }
-            renderEdges();
+            if (typeof scheduleEdgeCanvasDraw === "function")
+              scheduleEdgeCanvasDraw();
           });
           document.addEventListener("mouseup", () => {
             if (dragging) {
@@ -868,13 +2472,18 @@
               if (multiOffsets) {
                 for (const m of multiOffsets) {
                   const n = getNodeById(m.id);
-                  n && measure(n);
+                  if (n) {
+                    measure(n);
+                    markEdgesDirtyForNode(n.id);
+                  }
                 }
               } else {
                 measure(node);
+                markEdgesDirtyForNode(node.id);
               }
               pushed = false;
               multiOffsets = null;
+              flushDirtyEdges();
             }
           });
 
@@ -920,7 +2529,14 @@
                 setStatus("Edge created");
                 return;
               }
+
+              // 👇 patch: rilascio sopra un nodo ma non su handle → annulla ghost
+              cancelGhost();
+              renderEdges();
+              setStatus("");
+              return;
             }
+
             if (
               state.press &&
               !state.press.moved &&
@@ -993,13 +2609,36 @@
               const w = toWorld(e.clientX, e.clientY);
               state.dragLink.x = w.x;
               state.dragLink.y = w.y;
-              renderEdges();
+
+              // Aggancia a handle/nodo sotto il puntatore (senza scan globale)
+              const pick = pickDropTargetFromPointer(
+                e.clientX,
+                e.clientY,
+                state.dragLink.from
+              );
+              state.dragLink.snap = pick || null;
+
+              // Feedback cursore
+              stage.style.cursor = pick ? "grab" : "grabbing";
+
+              scheduleEdgeCanvasDraw();
             }
           };
           outEl.addEventListener("mousedown", handleDown("out"));
           inEl.addEventListener("mousedown", handleDown("in"));
           outEl.addEventListener("mouseup", handleUp("out"));
           inEl.addEventListener("mouseup", handleUp("in"));
+          // 👇 patch: se rilascio su un nodo ma NON sulla handle → annulla ghost
+          el.addEventListener("mouseup", (e) => {
+            if (state.dragLink && state.dragLink.active) {
+              cancelGhost();
+              if (typeof renderEdges === "function") renderEdges();
+              if (typeof scheduleEdgeCanvasDraw === "function")
+                scheduleEdgeCanvasDraw();
+              setStatus("");
+              e.stopPropagation();
+            }
+          });
           document.addEventListener("mousemove", handleMove());
         }
 
@@ -1011,6 +2650,7 @@
             primary,
             x: 0,
             y: 0,
+            snap: null,
           };
           document.body.style.cursor = "grabbing";
           stage.style.cursor = "grabbing";
@@ -1061,7 +2701,7 @@
           if (e.key === "Escape") {
             if (state.dragLink) {
               cancelGhost();
-              renderEdges();
+              scheduleEdgeCanvasDraw();
             } else {
               finalizeEditsCurrentNode();
               clearAllSelection();
@@ -1080,11 +2720,24 @@
           if (e.code === "Space" && !inText) {
             state.spaceDown = true;
             e.preventDefault();
-            stage.style.cursor = "move";
+            document.body.classList.add("space-pan");
+            stage.style.cursor = "all-scroll";
             return;
           }
 
-          if ((e.metaKey || e.ctrlKey) && !inText) {
+          // Cmd/Ctrl + L → Auto layout
+          if (
+            !inText &&
+            (e.metaKey || e.ctrlKey) &&
+            e.key.toLowerCase() === "l"
+          ) {
+            e.preventDefault();
+            autoLayoutLeftToRight();
+            setStatus("Auto layout");
+            return;
+          }
+
+          if ((e.metaKey || e.ctrlKey || e.altKey) && !inText) {
             const k = e.key.toLowerCase();
             if (k === "z" && !e.shiftKey) {
               e.preventDefault();
@@ -1096,6 +2749,7 @@
               redo();
               return;
             }
+            // RIMOSSO: Cmd/Ctrl+N (nessuna scorciatoia per New Project)
             if (k === "o") {
               e.preventDefault();
               openProject();
@@ -1116,11 +2770,7 @@
               exportJSON();
               return;
             }
-            if (k === "n") {
-              e.preventDefault();
-              newProject();
-              return;
-            }
+            // RIMOSSO: N con modificatori (nessuna scorciatoia per New Project)
             if (k === "a" && !e.shiftKey) {
               e.preventDefault();
               selectAll();
@@ -1174,25 +2824,26 @@
             fitView();
             return;
           }
-          if ((e.key === "l" || e.key === "L") && !inText) {
-            if (state.selNodes.size === 2) {
-              pushHistory();
-              const [a, b] = [...state.selNodes];
-              const na = getNodeById(a),
-                nb = getNodeById(b);
-              if (na && nb) {
-                const s = na.x <= nb.x ? a : b;
-                const t = na.x <= nb.x ? b : a;
-                addEdge(s, t);
-                renderEdges();
-                setStatus(`Connected ${s} → ${t}`);
-              }
+          // (removed old L connect shortcut)
+
+          // W = toggle weak dashed su edge selezionati
+          if (e.key.toLowerCase() === "w" && state.selEdges.size) {
+            e.preventDefault();
+            pushHistory();
+            for (const idx of state.selEdges) {
+              const edge = getEdgeByIndex(idx);
+              if (edge) edge.dashed = !edge.dashed;
             }
+            renderEdges();
+            return;
           }
+
+          // (removed old L press/hold connect logic in favor of FSM)
         });
         document.addEventListener("keyup", (e) => {
           if (e.code === "Space") {
             state.spaceDown = false;
+            document.body.classList.remove("space-pan");
             stage.style.cursor = "";
           }
         });
@@ -1224,6 +2875,7 @@
             });
           }
           renderEdges();
+          scheduleEdgeCanvasDraw();
           refreshNodeSelectionClasses();
           applyEdgeSelection();
           updateSidebarSelectionLabel();
@@ -1242,38 +2894,55 @@
           node.h = el.offsetHeight;
         }
 
+        // Redraw edges: usa canvas se presente, altrimenti SVG
+        function safeRedrawEdges() {
+          if (typeof scheduleEdgeCanvasDraw === "function") {
+            scheduleEdgeCanvasDraw();
+          } else if (typeof renderEdges === "function") {
+            renderEdges();
+          }
+        }
+
+        // Pianifica una rimesura subito dopo che il DOM ha dipinto
+        function scheduleMeasureAfterPopulate(node) {
+          requestAnimationFrame(() => {
+            measure(node);
+            positionNode(node);
+            safeRedrawEdges();
+          });
+        }
+
         function renderDescription(htmlEl, text) {
           if (!text) {
             htmlEl.innerHTML = "";
             return;
           }
-          const lines = text.replace(/\r\n/g, "\n").split("\n");
-          let out = "",
-            inList = false;
-          const flush = () => {
-            if (inList) {
-              out += "</ul>";
-              inList = false;
-            }
-          };
-          for (const raw of lines) {
-            const line = raw.trimEnd();
-            if (/^[-*]\s+/.test(line)) {
-              if (!inList) {
-                out += "<ul>";
-                inList = true;
-              }
-              const item = esc(line.replace(/^[-*]\s+/, ""));
-              out += `<li>${item}</li>`;
-            } else if (line === "") {
-              flush();
+          // Support paragraphs (blank line) and soft breaks (single \n)
+          const normalized = text.replace(/\r\n/g, "\n");
+          const blocks = normalized.split(/\n\n+/); // paragraphs
+          let out = "";
+          for (const block of blocks) {
+            const trimmed = block.trimEnd();
+            if (!trimmed) {
               out += "<p></p>";
+              continue;
+            }
+
+            // handle list items inside a block, preserving soft breaks
+            const lines = trimmed.split("\n");
+            if (lines.every((ln) => /^[-*]\s+/.test(ln.trim()))) {
+              out += "<ul>";
+              for (const raw of lines) {
+                const item = esc(raw.trim().replace(/^[-*]\s+/, ""));
+                out += `<li>${item}</li>`;
+              }
+              out += "</ul>";
             } else {
-              flush();
-              out += `<p>${esc(line)}</p>`;
+              // paragraph with soft line breaks as <br>
+              const withBr = lines.map((ln) => esc(ln)).join("<br>");
+              out += `<p>${withBr}</p>`;
             }
           }
-          flush();
           htmlEl.innerHTML = out;
         }
 
@@ -1281,15 +2950,32 @@
           const el = $("#" + node.id);
           if (!el) return;
           const d = node.data;
-          const tb = el.querySelector(".titlebar");
           const hasTitle = !!(d.title && d.title.trim());
-          tb.style.display = hasTitle ? "flex" : "none";
-          el.querySelector(".title").textContent = hasTitle ? d.title : "";
-          el.querySelector(".date").textContent = formatDateIT(d.date) || "";
+          const hasDate = !!(d.date && d.date.trim());
+          const titleEl = el.querySelector(".title");
+          const dateEl = el.querySelector(".date");
+          const divAfterTitle = el.querySelector(".div-after-title");
+          const divAfterDate = el.querySelector(".div-after-date");
+
+          if (titleEl) {
+            titleEl.textContent = hasTitle ? d.title : "";
+            titleEl.style.display = hasTitle ? "block" : "none";
+          }
+          if (dateEl) {
+            dateEl.textContent = formatDateIT(d.date) || "";
+          }
+          // mostra divider sotto il titolo solo se il titolo esiste
+          if (divAfterTitle)
+            divAfterTitle.style.display = hasTitle ? "block" : "none";
+          // mostra divider sotto la data solo se la data esiste
+          if (divAfterDate)
+            divAfterDate.style.display = hasDate ? "block" : "none";
           el.querySelector(".typeField").textContent = d.type || "";
           el.querySelector(".action").textContent = d.action || "";
           el.querySelector(".mainArea").textContent = d.mainArea || "";
-          el.querySelector(".areas").textContent = (d.areas || []).join(", ");
+          el.querySelector(".areas").innerHTML = (d.areas || [])
+            .map((a) => `<span class="badge">${esc(a)}</span>`)
+            .join("");
 
           const descTitle = el.querySelector(".descTitle");
           descTitle.style.display = d.desc ? "block" : "none";
@@ -1322,6 +3008,22 @@
                 )}" draggable="false">`
             )
             .join("");
+
+          // Quando le immagini sono cariche, rimesura e riallinea gli anchor
+          imagesEl.querySelectorAll("img").forEach((img) => {
+            const done = () => {
+              measure(node);
+              positionNode(node);
+              safeRedrawEdges();
+            };
+            img.addEventListener("load", done, { once: true });
+            if (img.decode) {
+              img
+                .decode()
+                .then(done)
+                .catch(() => {});
+            }
+          });
 
           const attEl = el.querySelector(".attachments");
           const docs = (d.files || []).filter((f) => !f.isImage);
@@ -1419,11 +3121,25 @@
             state.selNodes.size === 1 && state.selEdges.size === 0;
           const showEdge =
             state.selEdges.size === 1 && state.selNodes.size === 0;
+
           f.nodeForm.style.display = showNode ? "block" : "none";
           f.edgeForm.style.display = showEdge ? "block" : "none";
-          f.panelTitle.textContent = showEdge
-            ? "Edge properties"
-            : "Node properties";
+          if (f.panelTitle) {
+            f.panelTitle.textContent = showNode
+              ? "Node properties"
+              : showEdge
+              ? "Edge properties"
+              : "";
+          }
+
+          // Toggle layout 1-colonna e forza ridisegno stage/SVG
+          const appEl = document.querySelector(".app");
+          const hidePanel = !(showNode || showEdge);
+          if (appEl) appEl.classList.toggle("no-panel", hidePanel);
+          if (typeof ensureSVGSize === "function") ensureSVGSize();
+          if (typeof updateGrid === "function") updateGrid();
+          if (typeof applyView === "function") applyView();
+
           if (showNode) {
             fillFormForNode(getNodeById([...state.selNodes][0]));
           } else if (!showEdge) {
@@ -1613,10 +3329,11 @@
             scheduleHistory();
           });
 
-          /* TYPE: identico a Areas/Tags → testo libero; commit su blur/Enter */
+          /* TYPE: consentiti solo lettere/numeri/spazi/trattini; commit su blur/Enter */
           f.type.addEventListener("input", () => {
             if (state.selNodes.size !== 1) return;
-            // Nessuna normalizzazione live: solo history debounce (come Areas/Tags)
+            // consenti solo lettere, numeri, spazi e trattini
+            f.type.value = f.type.value.replace(/[^a-zA-Z0-9\- ]/g, "");
             scheduleHistory();
           });
           f.type.addEventListener("blur", () => {
@@ -1689,7 +3406,10 @@
             const edge = getEdgeByIndex(idx);
             if (!edge) return;
             edge.dashed = !!f.eDashed.checked;
-            renderEdges();
+            // aggiorna subito sia l'SVG di hit che il canvas visivo
+            if (typeof renderEdges === "function") renderEdges();
+            if (typeof scheduleEdgeCanvasDraw === "function")
+              scheduleEdgeCanvasDraw();
           });
 
           // Files
@@ -1939,6 +3659,8 @@
           refreshSidebarForms();
           if (ids.length === 1) fillFormForNode(getNodeById(ids[0]));
           else clearForm();
+          if (typeof scheduleEdgeCanvasDraw === "function")
+            scheduleEdgeCanvasDraw();
         }
         function toggleNodeSelection(id) {
           finalizeEditsCurrentNode();
@@ -1957,6 +3679,8 @@
           updateSidebarSelectionLabel();
           refreshSidebarForms();
           clearForm();
+          if (typeof scheduleEdgeCanvasDraw === "function")
+            scheduleEdgeCanvasDraw();
         }
         function toggleEdgeSelection(index) {
           state.selEdges.has(index)
@@ -1965,10 +3689,14 @@
           applyEdgeSelection();
           updateSidebarSelectionLabel();
           refreshSidebarForms();
+          if (typeof scheduleEdgeCanvasDraw === "function")
+            scheduleEdgeCanvasDraw();
         }
         function clearEdgeSelection() {
           state.selEdges.clear();
           applyEdgeSelection();
+          if (typeof scheduleEdgeCanvasDraw === "function")
+            scheduleEdgeCanvasDraw();
         }
         function clearAllSelection() {
           finalizeEditsCurrentNode();
@@ -1979,6 +3707,15 @@
           updateSidebarSelectionLabel();
           refreshSidebarForms();
           clearForm();
+          if (typeof scheduleEdgeCanvasDraw === "function")
+            scheduleEdgeCanvasDraw();
+          {
+            const appEl = document.querySelector(".app");
+            if (appEl) appEl.classList.add("no-panel");
+          }
+          if (typeof ensureSVGSize === "function") ensureSVGSize();
+          if (typeof updateGrid === "function") updateGrid();
+          if (typeof applyView === "function") applyView();
         }
         function selectAll() {
           finalizeEditsCurrentNode();
@@ -1997,6 +3734,97 @@
         $("#btnAuto").addEventListener("click", autoLayoutLeftToRight);
         $("#btnOpen").addEventListener("click", openProject);
         $("#btnSave").addEventListener("click", saveProjectSmart);
+        const toolbarStatus = [
+          { id: "btnAdd", text: "New node" },
+          { id: "btnFit", text: "Fit view" },
+          { id: "btnAuto", text: "Auto layout" },
+          { id: "btnOpen", text: "Open project" },
+          { id: "btnSave", text: "Save project" },
+          { id: "btnNew", text: "New project" },
+          { id: "btnUndo", text: "Undo" },
+          { id: "btnRedo", text: "Redo" },
+          { id: "btnDel", text: "Delete selection" },
+          // NB: btnConnect escluso perché usa status pulsante dedicato
+        ];
+
+        toolbarStatus.forEach(({ id, text }) => {
+          const b = document.getElementById(id);
+          if (!b) return;
+          b.addEventListener("click", () => {
+            const addTime = id === "btnSave";
+            const t =
+              addTime && typeof fmtTime10 === "function"
+                ? ` — ${fmtTime10()}`
+                : "";
+            // post-action per mostrare lo stato finale dell’operazione
+            setTimeout(() => setStatus(`${text}${t}`), 0);
+          });
+        });
+        document.getElementById("btnNew")?.addEventListener("click", () => {
+          saveProjectSmart().then(() => newProject());
+        });
+
+        /* Inserire in fondo allo <script> */
+        (function setupToolbarTooltip() {
+          const tip = document.createElement("div");
+          Object.assign(tip.style, {
+            position: "fixed",
+            left: "0",
+            top: "0",
+            display: "none",
+            background: "#222",
+            color: "#fff",
+            fontSize: "11px",
+            padding: "4px 6px",
+            borderRadius: "4px",
+            whiteSpace: "nowrap",
+            pointerEvents: "none",
+            zIndex: "10000",
+            boxShadow: "0 2px 10px rgba(0,0,0,0.35)",
+          });
+          document.body.appendChild(tip);
+
+          const PAD_Y = 6;
+          const PAD_X = 8;
+
+          function show(btn) {
+            const text =
+              btn.getAttribute("data-tip") || btn.getAttribute("title") || "";
+            if (!text) return;
+            tip.textContent = text;
+            tip.style.display = "block";
+
+            const r = btn.getBoundingClientRect();
+            let left = r.left; // allineato a sinistra del bottone
+            let top = r.bottom + PAD_Y; // sotto al bottone
+
+            tip.style.left = left + "px";
+            tip.style.top = top + "px";
+
+            // clamp orizzontale a viewport
+            const w = tip.offsetWidth;
+            left = Math.max(
+              PAD_X,
+              Math.min(left, window.innerWidth - w - PAD_X)
+            );
+            tip.style.left = left + "px";
+          }
+
+          function hide() {
+            tip.style.display = "none";
+          }
+
+          const buttons = document.querySelectorAll("header button[data-tip]");
+          buttons.forEach((btn) => {
+            btn.addEventListener("mouseenter", () => show(btn));
+            btn.addEventListener("mouseleave", hide);
+            btn.addEventListener("blur", hide);
+          });
+
+          window.addEventListener("scroll", hide, { passive: true });
+          window.addEventListener("resize", hide);
+        })();
+        // (old connect handler removed in favor of FSM)
 
         // Pan / Marquee / Zoom
         let panning = false,
@@ -2005,17 +3833,27 @@
           // i <path> degli edge hanno la loro gestione
           if (e.target.tagName === "path") return;
 
-          // Registra se il down nasce davvero sul vuoto
+          // Se ho space premuto → pan diretto, anche sopra nodi
+          if (state.spaceDown) {
+            panning = true;
+            stage.style.cursor = "all-scroll";
+            const r = stage.getBoundingClientRect();
+            startPan = {
+              x: e.clientX - r.left - state.pan.x,
+              y: e.clientY - r.top - state.pan.y,
+            };
+            return;
+          }
+
+          // Altrimenti: drag in vuoto = marquee
           bgPointerDown = isBlankAtPoint(e.clientX, e.clientY);
           gestureMoved = false;
 
-          // memorizza origine e stato tasti per la soglia
-          stage._downX = e.clientX;
-          stage._downY = e.clientY;
-          stage._downShift = !!e.shiftKey;
-
-          if (!bgPointerDown) return; // non è vuoto → niente pan/marquee immediato
-          // NON avviare nulla qui: aspetta la soglia nel mousemove
+          if (bgPointerDown) {
+            stage._downX = e.clientX;
+            stage._downY = e.clientY;
+            // niente più _downShift: la modalità si decide in startMarquee() su evento reale
+          }
         });
 
         document.addEventListener("mousemove", (e) => {
@@ -2044,29 +3882,18 @@
                 : 0;
 
             if (dist > CLICK_THRESHOLD) {
-              if (stage._downShift) {
-                // Avvia marquee solo ora (oltre soglia)
-                startMarquee({
-                  clientX: ox,
-                  clientY: oy,
-                  shiftKey: true,
-                });
-              } else {
-                // Avvia pan solo ora (oltre soglia)
-                panning = true;
-                stage.style.cursor = "all-scroll";
-                const r = stage.getBoundingClientRect();
-                startPan = {
-                  x: ox - r.left - state.pan.x,
-                  y: oy - r.top - state.pan.y,
-                };
-              }
+              // Default: marquee senza Shift; se l'utente tiene Shift, startMarquee leggerà shiftKey
+              startMarquee({
+                clientX: ox,
+                clientY: oy,
+                shiftKey: e.shiftKey,
+              });
               gestureMoved = true;
               return;
             }
           }
 
-          // Pan attivo
+          // Pan attivo (space o trackpad)
           if (panning) {
             const r = stage.getBoundingClientRect();
             state.pan.x = e.clientX - r.left - startPan.x;
@@ -2097,18 +3924,28 @@
           "wheel",
           (e) => {
             e.preventDefault();
-            const sensitivity = 0.012,
-              d = -e.deltaY * sensitivity,
-              old = state.zoom;
-            const z = Math.min(3, Math.max(0.25, old * (1 + d)));
-            const r = stage.getBoundingClientRect();
-            const mx = e.clientX - r.left,
-              my = e.clientY - r.top;
-            const wx = (mx - state.pan.x) / old,
-              wy = (my - state.pan.y) / old;
-            state.zoom = z;
-            state.pan.x = mx - wx * z;
-            state.pan.y = my - wy * z;
+
+            // Se pinch/zoom (ctrlKey attivo) → zoom
+            if (e.ctrlKey) {
+              const sensitivity = 0.012,
+                d = -e.deltaY * sensitivity,
+                old = state.zoom;
+              const z = Math.min(3, Math.max(0.25, old * (1 + d)));
+              const r = stage.getBoundingClientRect();
+              const mx = e.clientX - r.left,
+                my = e.clientY - r.top;
+              const wx = (mx - state.pan.x) / old,
+                wy = (my - state.pan.y) / old;
+              state.zoom = z;
+              state.pan.x = mx - wx * z;
+              state.pan.y = my - wy * z;
+              applyView();
+              return;
+            }
+
+            // Altrimenti → pan con due dita trackpad
+            state.pan.x -= e.deltaX;
+            state.pan.y -= e.deltaY;
             applyView();
           },
           { passive: false }
@@ -2118,7 +3955,17 @@
           ensureSVGSize();
           updateGrid();
           state.nodes.forEach((n) => positionNode(n));
-          renderEdges();
+          // ricalcola le geometrie degli edge già presenti
+          for (let i = 0; i < state.edges.length; i++) {
+            const ed = state.edges[i];
+            const s = anchor(ed.s, "right");
+            const t = anchor(ed.t, "left");
+            if (!s || !t) continue;
+            updateEdgePathsD(i, pathCubic(s, t));
+          }
+          // Canvas per la resa visiva
+          if (typeof scheduleEdgeCanvasDraw === "function")
+            scheduleEdgeCanvasDraw();
         }
         function fitView() {
           if (!state.nodes.length) {
@@ -2154,6 +4001,7 @@
         }
 
         function startMarquee(e) {
+          document.body.classList.add("marquee-active");
           const rect = document.createElement("div");
           rect.className = "marquee";
           stage.appendChild(rect);
@@ -2165,7 +4013,8 @@
             curX: e.clientX - r.left,
             curY: e.clientY - r.top,
             el: rect,
-            additive: e.shiftKey,
+            // Modalità: di default "replace"; con Shift → "toggle"
+            mode: e.shiftKey ? "toggle" : "replace",
             prevNodes: new Set(state.selNodes),
             prevEdges: new Set(state.selEdges),
           };
@@ -2208,15 +4057,20 @@
               .map((n) => n.id)
           );
 
-          if (state.marquee.additive) {
-            state.selNodes = new Set([
-              ...state.marquee.prevNodes,
-              ...hitsNodes,
-            ]);
-            state.selEdges = new Set(state.marquee.prevEdges); // preserva
+          if (state.marquee.mode === "toggle") {
+            // XOR tra selezione precedente e nodi “colpiti”
+            const next = new Set(state.marquee.prevNodes);
+            for (const id of hitsNodes) {
+              if (next.has(id)) next.delete(id);
+              else next.add(id);
+            }
+            state.selNodes = next;
+            // mantieni gli edge com’erano (non tocchiamo gli edge in marquee)
+            state.selEdges = new Set(state.marquee.prevEdges);
           } else {
+            // replace (default): seleziona solo i nodi colpiti, nessun edge
             state.selNodes = hitsNodes;
-            state.selEdges = new Set(); // none
+            state.selEdges = new Set();
           }
           refreshNodeSelectionClasses();
           applyEdgeSelection();
@@ -2229,6 +4083,7 @@
         function endMarquee() {
           state.marquee.el.remove();
           state.marquee = null;
+          document.body.classList.remove("marquee-active");
         }
         function drawMarqueeRect() {
           const m = state.marquee;
@@ -2307,6 +4162,7 @@
           });
           state.nodes.forEach((n) => positionNode(n));
           renderEdges();
+          scheduleEdgeCanvasDraw();
           setStatus("Auto layout applied");
         }
         function nextChildPosition(parent) {
@@ -2327,6 +4183,37 @@
           if (!s || !t || s === t) return;
           if (state.edges.some((e) => e.s === s && e.t === t)) return;
           state.edges.push({ s, t, dashed: false });
+          // Ricostruisci l’SVG dei path-hit per abilitare click/selection
+          if (typeof renderEdges === "function") renderEdges();
+          // Ridisegna il canvas (vista)
+          if (typeof scheduleEdgeCanvasDraw === "function")
+            scheduleEdgeCanvasDraw();
+        }
+        // Dirty set per update mirati degli edge
+        const dirtyEdges = new Set();
+        function markEdgesDirtyForNode(nodeId) {
+          for (let i = 0; i < state.edges.length; i++) {
+            const ed = state.edges[i];
+            if (ed.s === nodeId || ed.t === nodeId) dirtyEdges.add(i);
+          }
+        }
+        let edgeRafScheduled = false;
+        function flushDirtyEdges() {
+          if (edgeRafScheduled) return;
+          edgeRafScheduled = true;
+          requestAnimationFrame(() => {
+            edgeRafScheduled = false;
+            if (!dirtyEdges.size) return;
+            for (const i of dirtyEdges) {
+              const ed = state.edges[i];
+              if (!ed) continue;
+              const s = anchor(ed.s, "right");
+              const t = anchor(ed.t, "left");
+              if (!s || !t) continue;
+              updateEdgePathsD(i, pathCubic(s, t));
+            }
+            dirtyEdges.clear();
+          });
         }
         function anchor(id, side) {
           const n = getNodeById(id);
@@ -2335,11 +4222,105 @@
           const y = n.y + (n.h || NODE_H) / 2;
           return { x, y };
         }
+        // Ritorna target dal puntatore: handle o nodo compatibile, altrimenti null
+        // fromSide: "out" cerca target lato "left"; "in" cerca target lato "right"
+        function pickDropTargetFromPointer(clientX, clientY, fromSide) {
+          const el = document.elementFromPoint(clientX, clientY);
+          if (!el) return null;
+
+          const handle = el.classList?.contains?.("handle")
+            ? el
+            : el.closest?.(".handle");
+          const wantAnchorSide = fromSide === "out" ? "left" : "right";
+
+          if (handle) {
+            const nodeEl = handle.closest(".node");
+            if (nodeEl?.id) {
+              const a = anchor(nodeEl.id, wantAnchorSide);
+              return {
+                nodeId: nodeEl.id,
+                side: wantAnchorSide,
+                wx: a.x,
+                wy: a.y,
+              };
+            }
+          }
+
+          const nodeEl = el.classList?.contains?.("node")
+            ? el
+            : el.closest?.(".node");
+          if (nodeEl?.id) {
+            const a = anchor(nodeEl.id, wantAnchorSide);
+            return {
+              nodeId: nodeEl.id,
+              side: wantAnchorSide,
+              wx: a.x,
+              wy: a.y,
+            };
+          }
+
+          return null;
+        }
+        // Raggio di snap in pixel schermo (indipendente dallo zoom)
+        const SNAP_PX = 18;
+        // Trova handle compatibile più vicino a worldX/worldY
+        function findNearestCompatibleHandle(
+          worldX,
+          worldY,
+          fromSide,
+          excludeNodeIds = []
+        ) {
+          const wantSide = fromSide === "out" ? "left" : "right";
+          const excl = new Set(excludeNodeIds || []);
+          let best = null;
+          let bestDist = Infinity;
+          const p = fromWorld(worldX, worldY);
+          for (const n of state.nodes) {
+            if (!n) continue;
+            if (excl.has(n.id)) continue;
+            const a = anchor(n.id, wantSide);
+            const s = fromWorld(a.x, a.y);
+            const dist = Math.hypot(s.x - p.x, s.y - p.y);
+            if (dist <= SNAP_PX && dist < bestDist) {
+              bestDist = dist;
+              best = {
+                nodeId: n.id,
+                side: wantSide,
+                wx: a.x,
+                wy: a.y,
+                sx: s.x,
+                sy: s.y,
+              };
+            }
+          }
+          return best;
+        }
         function pathCubic(a, b) {
           const dx = Math.max(40, Math.abs(b.x - a.x) * 0.5);
           return `M ${a.x} ${a.y} C ${a.x + dx} ${a.y}, ${b.x - dx} ${b.y}, ${
             b.x
           } ${b.y}`;
+        }
+        // SVG edge helpers
+        function getEdgeGroupByIndex(i) {
+          return edgesSVG.querySelector(`g[data-idx="${i}"]`);
+        }
+        function updateEdgePathsD(i, d) {
+          const g = getEdgeGroupByIndex(i);
+          if (!g) return;
+          g.querySelectorAll("path").forEach((p) => p.setAttribute("d", d));
+        }
+        function updateEdgesForNode(nodeId) {
+          for (let i = 0; i < state.edges.length; i++) {
+            const ed = state.edges[i];
+            if (ed.s === nodeId || ed.t === nodeId) {
+              const s = anchor(ed.s, "right");
+              const t = anchor(ed.t, "left");
+              if (!s || !t) continue;
+              const d = pathCubic(s, t);
+              updateEdgePathsD(i, d);
+            }
+          }
         }
         function edgeBBox(e) {
           const s = anchor(e.s, "right"),
@@ -2373,6 +4354,7 @@
               "http://www.w3.org/2000/svg",
               "g"
             );
+            g.setAttribute("data-idx", String(i));
             const pv = document.createElementNS(
               "http://www.w3.org/2000/svg",
               "path"
@@ -2383,15 +4365,45 @@
               "edge-visible" + (e.dashed ? " weak" : "")
             );
             if (state.selEdges.has(i)) pv.classList.add("selected");
-            const ph = document.createElementNS(
-              "http://www.w3.org/2000/svg",
-              "path"
-            );
-            ph.setAttribute("d", pathCubic(s, t));
-            ph.setAttribute("class", "edge-hit");
-
             g.addEventListener("click", (ev) => {
               ev.stopPropagation();
+
+              // SHIFT → split con nodo copia (tutto tranne desc e files)
+              if (ev.shiftKey) {
+                pushHistory();
+                const mid = { x: (s.x + t.x) / 2, y: (s.y + t.y) / 2 };
+                const srcNode = getNodeById(e.s);
+                const d = srcNode?.data || {};
+                const init = {
+                  date: d.date || todayYMD(),
+                  title: d.title || "",
+                  type: d.type || "",
+                  action: d.action ?? null,
+                  mainArea: d.mainArea ?? null,
+                  areas: [...(d.areas || [])],
+                  tags: [...(d.tags || [])],
+                  desc: "",
+                  links: [...(d.links || [])],
+                  files: [],
+                };
+                const nid = addNodeAt(
+                  mid.x - NODE_W / 2,
+                  mid.y - NODE_H / 2,
+                  init
+                );
+                const dashed = !!e.dashed;
+                state.edges.splice(i, 1);
+                state.edges.push(
+                  { s: e.s, t: nid, dashed },
+                  { s: nid, t: e.t, dashed }
+                );
+                if (typeof renderEdges === "function") renderEdges();
+                if (typeof scheduleEdgeCanvasDraw === "function")
+                  scheduleEdgeCanvasDraw();
+                return;
+              }
+
+              // ALT → split con nodo vuoto (comportamento precedente)
               if (ev.altKey) {
                 pushHistory();
                 const mid = { x: (s.x + t.x) / 2, y: (s.y + t.y) / 2 };
@@ -2406,20 +4418,30 @@
                   { s: e.s, t: nid, dashed },
                   { s: nid, t: e.t, dashed }
                 );
-                renderEdges();
+                if (typeof renderEdges === "function") renderEdges();
+                if (typeof scheduleEdgeCanvasDraw === "function")
+                  scheduleEdgeCanvasDraw();
                 return;
               }
-              if (ev.shiftKey) toggleEdgeSelection(i);
-              else selectOnlyEdges([i]);
+
+              // Click normale → selezione
+              if (ev.shiftKey) {
+                toggleEdgeSelection(i);
+              } else {
+                selectOnlyEdges([i]);
+              }
+              if (typeof scheduleEdgeCanvasDraw === "function")
+                scheduleEdgeCanvasDraw();
             });
 
-            g.appendChild(ph);
             g.appendChild(pv);
             edgesSVG.appendChild(g);
           });
 
           if (state.dragLink && state.dragLink.active) {
-            const t = { x: state.dragLink.x, y: state.dragLink.y };
+            const t = state.dragLink.snap
+              ? { x: state.dragLink.snap.wx, y: state.dragLink.snap.wy }
+              : { x: state.dragLink.x, y: state.dragLink.y };
             for (const sid of state.dragLink.sources) {
               const fromAnchor =
                 state.dragLink.from === "out"
@@ -2462,7 +4484,7 @@
         async function saveProjectSmart() {
           if (projectCtx.mode === "folder" && projectCtx.dirHandle) {
             await saveProjectToDir(projectCtx.dirHandle);
-            setStatus("Project saved (fast)");
+            setStatus(`Project saved — ${fmtTime10()}`);
             return;
           }
           await saveAs();
@@ -2477,7 +4499,7 @@
               await saveProjectToDir(dir);
               projectCtx.mode = "folder";
               projectCtx.dirHandle = dir;
-              setStatus("Project saved (new fast folder)");
+              setStatus(`Project saved (new fast folder) — ${fmtTime10()}`);
               return;
             } catch (err) {
               console.warn(
@@ -2569,23 +4591,47 @@
             }
           }
 
-          // Copia con concorrenza limitata (no ricompressione)
+          /* Dentro a saveProjectToDir(dir): nuova copia con compressione immagini + stato */
+          const total = toCopy.length;
+          let done = 0;
+
+          if (total > 0) {
+            setStatus("Saving assets (0/" + total + ")");
+          }
+
           await asyncPool(2, toCopy, async ({ file }) => {
             try {
-              const blob = await fetch(file.url).then((r) => r.blob());
-              const base = sanitizeName(
+              let blob = await fetch(file.url).then((r) => r.blob());
+
+              const baseName = sanitizeName(
                 (file.name || "file").replace(/\s+/g, "_")
               );
-              const ext =
-                extFromName(base) ||
-                (file.isPDF ? ".pdf" : file.isImage ? ".jpg" : ".bin");
-              const name = extFromName(base) ? base : base + ext;
-              const rel = `assets/${name}`;
-              await writeFileByPath(dir, rel, blob);
-              file.path = rel; // marca come salvato
-              delete file.dataUrl; // nessun embed
+              const noExt = baseName.replace(/\.[a-z0-9]+$/i, "");
+              let finalName, rel;
+
+              if (file.isImage) {
+                // Ricompressione a JPG 1500px lato lungo
+                const jpg = await resizeImageBlob(blob, 1500, 512 * 1024);
+                finalName = `${noExt}.jpg`;
+                rel = `assets/${finalName}`;
+                await writeFileByPath(dir, rel, jpg);
+              } else {
+                const ext =
+                  extFromName(baseName) || (file.isPDF ? ".pdf" : ".bin");
+                finalName = extFromName(baseName)
+                  ? baseName
+                  : `${baseName}${ext}`;
+                rel = `assets/${finalName}`;
+                await writeFileByPath(dir, rel, blob);
+              }
+
+              file.path = rel;
+              delete file.dataUrl;
             } catch (e) {
               console.warn("Copy failed:", file?.name, e);
+            } finally {
+              done++;
+              setStatus(`Saving assets (${done}/${total})`);
             }
           });
 
@@ -2603,7 +4649,7 @@
             type: "application/json",
           });
           downloadBlob("project_light.json", blob);
-          setStatus("Light JSON exported (no images)");
+          setStatus(`Light JSON exported (no images) — ${fmtTime10()}`);
         }
         async function exportJSON() {
           await exportJSONLight();
@@ -2659,6 +4705,10 @@
           document.querySelectorAll(".node").forEach((n) => n.remove());
           state.nodes = [];
           state.edges = [];
+          /* pulizia immediata della canvas e dell’SVG degli edge */
+          if (typeof renderEdges === "function") renderEdges();
+          if (typeof scheduleEdgeCanvasDraw === "function")
+            scheduleEdgeCanvasDraw();
           state.pan = { x: 0, y: 0 };
           state.zoom = 1;
           projectCtx.mode = null;
@@ -2728,10 +4778,14 @@
             state.nodes.push(node);
             vocabInitNodeSnapshot(node);
             vocabIngestNode(node);
+
             mountNode(node);
+            // Ordine corretto: populate -> measure -> position
+            populate(node);
             measure(node);
             positionNode(node);
-            populate(node);
+            // rAF per allineare font/immagini
+            scheduleMeasureAfterPopulate(node);
           }
           state.edges = (project.edges || []).map((e) => ({
             s: e.s,
@@ -2761,7 +4815,10 @@
 
           ensureSVGSize();
           updateGrid();
-          renderEdges();
+          // Prima costruisci i path di hit nello SVG, poi ridisegna il canvas
+          if (typeof renderEdges === "function") renderEdges();
+          if (typeof scheduleEdgeCanvasDraw === "function")
+            scheduleEdgeCanvasDraw();
         }
 
         function undo() {
@@ -2795,9 +4852,13 @@
 
           state.nodes.forEach((n) => {
             mountNode(n);
+            // Ordine corretto: populate -> measure -> position
+            populate(n);
             measure(n);
             positionNode(n);
-            populate(n);
+            // rAF per allineare eventuali asset
+            scheduleMeasureAfterPopulate(n);
+
             vocabInitNodeSnapshot(n);
             vocabIngestNode(n);
           });
@@ -2810,7 +4871,10 @@
 
           ensureSVGSize();
           updateGrid();
-          renderEdges();
+          // Ricostruisci l'SVG dei path di hit e aggiorna il canvas
+          if (typeof renderEdges === "function") renderEdges();
+          if (typeof scheduleEdgeCanvasDraw === "function")
+            scheduleEdgeCanvasDraw();
           refreshNodeSelectionClasses();
           applyEdgeSelection();
           updateSidebarSelectionLabel();
@@ -2819,8 +4883,10 @@
         }
 
         // Clipboard/group
+        let pasteCount = 0;
         function copySelection() {
           if (!state.selNodes.size) return;
+          pasteCount = 0;
           const ids = [...state.selNodes];
           const nodes = ids.map((id) => structuredClone(getNodeById(id)));
           const edges = state.edges
@@ -2836,9 +4902,14 @@
           doDeleteSelection();
           setStatus("Cut selection");
         }
-        function pasteClipboard(offset = { x: 40, y: 40 }) {
+        function pasteClipboard(offsetBase = { x: 40, y: 40 }) {
           if (!state.clip) return;
           pushHistory();
+          const offset = {
+            x: offsetBase.x * (pasteCount + 1),
+            y: offsetBase.y * (pasteCount + 1),
+          };
+          pasteCount++;
           const idMap = new Map();
           const pastedIds = [];
           for (const src of state.clip.nodes) {
@@ -3034,7 +5105,445 @@
         if (state.nodes.length === 0) {
           addNodeAt(80, 80, {});
         }
+
+        resizeEdgeCanvasToStage();
+        scheduleEdgeCanvasDraw();
+
+        // Allinea subito eventuali anchor
+        if (typeof scheduleEdgeCanvasDraw === "function")
+          scheduleEdgeCanvasDraw();
+        else renderEdges();
+        /* ===== SAFE UNDO + HOTKEYS ROBUSTE + GATE CONNECT ===== */
+        (function TS_SAFE_GUARD() {
+          if (window.__TS_SAFE_GUARD__) return;
+          window.__TS_SAFE_GUARD__ = true;
+
+          const btnConnect = document.getElementById("btnConnect");
+          const statusEl = document.getElementById("status");
+
+          // status compatto con auto-hide (non tocco setStatus se già esiste)
+          function status(msg) {
+            try {
+              if (typeof setStatus === "function") {
+                setStatus(msg);
+                return;
+              }
+              if (!statusEl) return;
+              clearTimeout(status._t);
+              statusEl.textContent = msg || "";
+              if (msg)
+                status._t = setTimeout(() => {
+                  statusEl.textContent = "";
+                }, 3000);
+            } catch {}
+          }
+
+          // 1) Gate: il bottone Connect parte solo se c’è selezione
+          if (btnConnect) {
+            // capture = true per intercettare PRIMA di eventuali handler esistenti
+            btnConnect.addEventListener(
+              "click",
+              (ev) => {
+                const hasSel = (state?.selNodes?.size || 0) > 0;
+                if (!hasSel) {
+                  ev.stopImmediatePropagation();
+                  ev.preventDefault();
+                  btnConnect.classList.remove("active"); // niente stato attivo
+                  status("Select source node(s) first");
+                }
+              },
+              true
+            );
+          }
+
+          // 2) Hotkey robuste (usiamo e.code e capture per evitare conflitti a valle)
+          let newNodeSeq = 0;
+          const inText = () => {
+            const el = document.activeElement;
+            const tag = el?.tagName;
+            return (
+              tag === "INPUT" || tag === "TEXTAREA" || el?.isContentEditable
+            );
+          };
+
+          window.addEventListener(
+            "keydown",
+            (e) => {
+              if (inText()) return;
+
+              const code = e.code; // fisico (KeyC, KeyA, ...)
+              const shift = e.shiftKey;
+              const meta = e.metaKey;
+              const ctrl = e.ctrlKey;
+              const alt = e.altKey;
+
+              // Shift + A → Auto layout
+              if (code === "KeyA" && shift && !meta && !ctrl && !alt) {
+                e.preventDefault();
+                try {
+                  autoLayoutLeftToRight();
+                  status("Auto layout");
+                } catch {}
+                return;
+              }
+
+              // Shift + C → attiva Connect SOLO se c’è selezione
+              if (code === "KeyC" && shift && !meta && !ctrl && !alt) {
+                e.preventDefault();
+                const hasSel = (state?.selNodes?.size || 0) > 0;
+                if (!hasSel) {
+                  status("Select source node(s) first");
+                  return;
+                }
+                // delega al bottone (così usa la tua logica attuale)
+                btnConnect?.click();
+                return;
+              }
+
+              // C → collega SUBITO 2 nodi selezionati (sinistra → destra)
+              if (code === "KeyC" && !shift && !meta && !ctrl && !alt) {
+                e.preventDefault();
+                try {
+                  const ids = [...(state?.selNodes || [])];
+                  if (ids.length !== 2) {
+                    status("Select exactly two nodes");
+                    return;
+                  }
+                  const [a, b] = ids;
+                  const na = state.nodes.find((n) => n.id === a);
+                  const nb = state.nodes.find((n) => n.id === b);
+                  if (!na || !nb) {
+                    status("Nodes not found");
+                    return;
+                  }
+                  const s = na.x <= nb.x ? a : b;
+                  const t = na.x <= nb.x ? b : a;
+                  if (state.edges.some((ed) => ed.s === s && ed.t === t)) {
+                    status("No new connections");
+                    return;
+                  }
+                  pushHistory();
+                  addEdge(s, t);
+                  renderEdges();
+                  status("Connected");
+                } catch {}
+                return;
+              }
+
+              // U → apri chooser file se 1 nodo selezionato
+              if (code === "KeyU" && !shift && !meta && !ctrl && !alt) {
+                e.preventDefault();
+                try {
+                  if ((state?.selNodes?.size || 0) !== 1) {
+                    status("Select one node first");
+                    return;
+                  }
+                  document.getElementById("fFiles")?.click();
+                  status("Choose files…");
+                } catch {}
+                return;
+              }
+
+              // N → nuovo nodo top-left della view con offset progressivo
+              if (code === "KeyN" && !shift && !meta && !ctrl && !alt) {
+                e.preventDefault();
+                try {
+                  const r = stage.getBoundingClientRect();
+                  const base = toWorld(r.left + 80, r.top + 80);
+                  addNodeAt(base.x + 40 * newNodeSeq, base.y + 40 * newNodeSeq);
+                  newNodeSeq++;
+                  status("New node created");
+                } catch {}
+                return;
+              }
+            },
+            { capture: true }
+          );
+        })();
+
+        /* =========================
+         EDGE CLICKABILITY PATCH (HIT AREA SINCRONIZZATA)
+         ========================= */
+
+        /* 1) Inietta/aggiorna CSS per edge visibile + hit area ampia */
+        (() => {
+          const css = `
+.edge-visible {
+  stroke: #9a9a9a;
+  stroke-width: 2;
+  fill: none;
+  cursor: pointer;
+  pointer-events: stroke;
+}
+.edge-visible.selected {
+  stroke: #ffffff;
+  stroke-width: 3;
+}
+.edge-visible.weak {
+  stroke: #9a9a9a;
+  stroke-opacity: 0.5;
+  stroke-dasharray: 10 6;
+  stroke-linecap: round;
+  stroke-width: 1.5;
+}
+.edge-visible.weak.selected {
+  stroke: #ffffff;
+  stroke-opacity: 1;
+  stroke-dasharray: 10 6;
+  stroke-linecap: round;
+  stroke-width: 2.5;
+}
+/* Hit area invisibile ma larga, sempre cliccabile sullo stroke */
+.edge-hit {
+  stroke: transparent;
+  stroke-width: 24;
+  fill: none;
+  cursor: pointer;
+  pointer-events: stroke;
+}`;
+          let style = document.getElementById("edgeHitPatch");
+          if (!style) {
+            style = document.createElement("style");
+            style.id = "edgeHitPatch";
+            document.head.appendChild(style);
+          }
+          style.textContent = css;
+        })();
+
+        /* 2) Helper per aggiornare SEMPRE visibile + hit con lo stesso "d" */
+        function __getEdgeGroupByIndex(i) {
+          return edgesSVG.querySelector(`g[data-idx="${i}"]`);
+        }
+        function __updateEdgePaths(i, d) {
+          const g = __getEdgeGroupByIndex(i);
+          if (!g) return;
+          const pv = g.querySelector("path.edge-visible");
+          const ph = g.querySelector("path.edge-hit");
+          if (pv) pv.setAttribute("d", d);
+          if (ph) ph.setAttribute("d", d);
+        }
+
+        /* 3) Sostituisci renderEdges con una versione che crea SEMPRE entrambi i path
+            e assegna data-idx per gli update mirati */
+        const __origRenderEdgesRef = renderEdges;
+        renderEdges = function renderEdges() {
+          ensureSVGSize();
+          edgesSVG.innerHTML = "";
+
+          state.edges.forEach((e, i) => {
+            const s = anchor(e.s, "right");
+            const t = anchor(e.t, "left");
+            if (!s || !t) return;
+
+            const g = document.createElementNS(
+              "http://www.w3.org/2000/svg",
+              "g"
+            );
+            g.setAttribute("data-idx", String(i));
+            const d = pathCubic(s, t);
+
+            // Hit area (sotto)
+            const ph = document.createElementNS(
+              "http://www.w3.org/2000/svg",
+              "path"
+            );
+            ph.setAttribute("class", "edge-hit");
+            ph.setAttribute("d", d);
+            g.appendChild(ph);
+
+            // Visibile (sopra)
+            const pv = document.createElementNS(
+              "http://www.w3.org/2000/svg",
+              "path"
+            );
+            pv.setAttribute(
+              "class",
+              "edge-visible" + (e.dashed ? " weak" : "")
+            );
+            pv.setAttribute("d", d);
+            if (state.selEdges.has(i)) pv.classList.add("selected");
+            g.appendChild(pv);
+
+            // Click su gruppo (vale per hit + visibile)
+            g.addEventListener("click", (ev) => {
+              ev.stopPropagation();
+              if (ev.altKey) {
+                // split edge in due con nodo intermedio
+                pushHistory();
+                const mid = { x: (s.x + t.x) / 2, y: (s.y + t.y) / 2 };
+                const nid = addNodeAt(
+                  mid.x - NODE_W / 2,
+                  mid.y - NODE_H / 2,
+                  {}
+                );
+                const dashed = !!e.dashed;
+                state.edges.splice(i, 1);
+                state.edges.push(
+                  { s: e.s, t: nid, dashed },
+                  { s: nid, t: e.t, dashed }
+                );
+                renderEdges();
+                return;
+              }
+              if (ev.shiftKey) toggleEdgeSelection(i);
+              else selectOnlyEdges([i]);
+            });
+
+            edgesSVG.appendChild(g);
+          });
+
+          // Ghost link mentre trascini per creare un edge
+          if (state.dragLink && state.dragLink.active) {
+            const t = { x: state.dragLink.x, y: state.dragLink.y };
+            for (const sid of state.dragLink.sources) {
+              const fromAnchor =
+                state.dragLink.from === "out"
+                  ? anchor(sid, "right")
+                  : anchor(sid, "left");
+              const a = state.dragLink.from === "out" ? fromAnchor : t;
+              const b = state.dragLink.from === "out" ? t : fromAnchor;
+              const path = document.createElementNS(
+                "http://www.w3.org/2000/svg",
+                "path"
+              );
+              path.setAttribute("d", pathCubic(a, b));
+              path.setAttribute("stroke", "#fff");
+              path.setAttribute("stroke-width", "2");
+              path.setAttribute("fill", "none");
+              edgesSVG.appendChild(path);
+            }
+          }
+        };
+
+        /* 4) Ogni volta che un nodo viene riposizionato, aggiorna SOLO gli edge collegati
+            (wrappiamo positionNode per non toccare i tuoi handler di drag) */
+        const __origPositionNodeRef = positionNode;
+        positionNode = function patchedPositionNode(node) {
+          __origPositionNodeRef(node);
+          // aggiorna tutti gli edge collegati al nodo
+          for (let i = 0; i < state.edges.length; i++) {
+            const ed = state.edges[i];
+            if (ed.s === node.id || ed.t === node.id) {
+              const s = anchor(ed.s, "right");
+              const t = anchor(ed.t, "left");
+              if (!s || !t) continue;
+              __updateEdgePaths(i, pathCubic(s, t));
+            }
+          }
+        };
       })(); // chiusura dell'IIFE
+
+      const toolbarTooltips = [
+        { id: "btnAdd", label: "Add node (N)" },
+        { id: "btnDel", label: "Delete selection (⌫)" },
+        { id: "btnFit", label: "Fit view (0)" },
+        { id: "btnAuto", label: "Auto layout (⇧A)" },
+        { id: "btnOpen", label: "Open project (⌘O)" },
+        { id: "btnSave", label: "Save project (⌘S)" },
+        { id: "btnNew", label: "New project" },
+        { id: "btnConnect", label: "Connect nodes" },
+        { id: "btnUndo", label: "Undo (⌘Z)" },
+        { id: "btnRedo", label: "Redo (⌘⇧Z)" },
+      ];
+
+      document.querySelectorAll("header button").forEach((btn) => {
+        const def = toolbarTooltips.find((t) => t.id === btn.id);
+        if (def) btn.setAttribute("data-tip", def.label);
+      });
+
+      // Help overlay (clone .doc-section → modal)
+      (function setupHelpOverlay() {
+        function init() {
+          const overlay = document.getElementById("helpOverlay");
+          const content = document.getElementById("helpContent");
+          const btnHelp = document.getElementById("btnHelp");
+          const btnClose = document.getElementById("helpClose");
+          const toolbarBtns = Array.from(
+            document.querySelectorAll("header button")
+          );
+
+          if (!overlay || !content || !btnHelp) return;
+
+          function collectDocSections() {
+            return Array.from(document.querySelectorAll(".doc-section"));
+          }
+
+          function openHelp() {
+            if (!content.dataset.filled) {
+              const sections = collectDocSections();
+              if (sections.length) {
+                sections.forEach((sec) => {
+                  const clone = sec.cloneNode(true);
+                  content.appendChild(clone);
+                  sec.style.display = "none";
+                });
+                content.dataset.filled = "1";
+              } else {
+                content.innerHTML =
+                  '<p style="margin:0">Documentation not found in DOM.</p>';
+                content.dataset.filled = "1";
+              }
+            }
+            overlay.style.display = "block";
+          }
+
+          function closeHelp() {
+            overlay.style.display = "none";
+          }
+
+          btnHelp.addEventListener(
+            "click",
+            (e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              openHelp();
+            },
+            { capture: true }
+          );
+
+          btnClose?.addEventListener("click", (e) => {
+            e.preventDefault();
+            closeHelp();
+          });
+
+          overlay.addEventListener("click", () => closeHelp());
+          overlay
+            .querySelector(".doc-box")
+            ?.addEventListener("click", (e) => e.stopPropagation());
+
+          toolbarBtns.forEach((btn) => {
+            if (btn && btn !== btnHelp) {
+              btn.addEventListener("click", () => closeHelp(), {
+                capture: true,
+              });
+            }
+          });
+
+          document.addEventListener("keydown", (e) => {
+            if (e.key === "Escape" && overlay.style.display === "block")
+              closeHelp();
+          });
+        }
+
+        if (document.getElementById("helpOverlay")) init();
+        else document.addEventListener("DOMContentLoaded", init);
+      })();
     </script>
+    <script>
+      /* No tooltip su Upload files */
+      document.getElementById("btnChoose")?.removeAttribute("title");
+    </script>
+    <div id="helpOverlay" style="display: none">
+      <div class="doc-box">
+        <div class="doc-box-header">
+          <span class="material-symbols-outlined">help</span>
+          <div class="doc-title">Threadscape — Documentation</div>
+          <button id="helpClose" class="icon-btn" aria-label="Close">
+            <span class="material-symbols-outlined">close</span>
+          </button>
+        </div>
+        <div class="doc-box-body" id="helpContent"></div>
+      </div>
+    </div>
   </body>
 </html>

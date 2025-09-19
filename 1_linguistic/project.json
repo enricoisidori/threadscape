@@ -1,0 +1,472 @@
+{
+  "version": 6,
+  "nodes": [
+    {
+      "id": "ny15p0wg",
+      "x": 0,
+      "y": 0,
+      "w": 320,
+      "h": 567,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Conflict: a Distributed Condition: Contemporary War Ecologies",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "socio-political systems",
+          "media and communication",
+          "technological infrastructures",
+          "cultural practices",
+          "urban and territorial studies",
+          "critical theory and design research",
+          "security and surveillance studies",
+          "political ecology"
+        ],
+        "tags": [
+          "distributed conflict",
+          "latent violence",
+          "systemic friction",
+          "post-territorial",
+          "embedded warfare",
+          "infrastructural power",
+          "socio-technical ecologies",
+          "critical design",
+          "antagonism",
+          "structural inequality",
+          "soft power",
+          "invisible control",
+          "cultural infrastructures"
+        ],
+        "desc": "\nConflict is not an exception or an isolated event \u2014 it is a constant condition running through society. It is not limited to war or explicit clashes: it emerges within collective life as friction, as a continuous confrontation between competing needs, systems, and visions.\nIt is not a punctual episode but a latent and distributed condition. It takes on asymmetric, often invisible forms, embedded in cultural practices, social relations, and infrastructures. Its logic is not confined to violence: it also structures coexistence, shaping who holds privilege and who is pushed to the margins.\nExploring distributed conflicts means reading the present as a field where techniques of offense multiply and blur into the infrastructures society depends on. The goal is to generate critical devices, scenarios, and questions that probe the ambiguous nature of conflict as a diffuse condition in a post-territorial age.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqaspco0",
+      "x": 480,
+      "y": 0,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Linguistic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "media studies",
+          "semiotics",
+          "communication design",
+          "interface design",
+          "cultural studies"
+        ],
+        "tags": [
+          "memetics",
+          "persuasive rhetoric",
+          "semiotic warfare",
+          "language manipulation",
+          "interface politics",
+          "discourse control",
+          "symbolic violence"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4q8mtzu",
+      "x": 480,
+      "y": 213,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Media conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "media theory",
+          "journalism studies",
+          "information systems",
+          "political communication",
+          "critical media design"
+        ],
+        "tags": [
+          "propaganda systems",
+          "disinformation",
+          "deepfake",
+          "rumor propagation",
+          "narrative control",
+          "attention economy"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwl9ouvl",
+      "x": 480,
+      "y": 396,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cognitive conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "neuroscience",
+          "human-computer interaction",
+          "biopolitics",
+          "cyberpsychology",
+          "critical technology studies"
+        ],
+        "tags": [
+          "neurocontrol",
+          "brain hacking",
+          "cognitive warfare",
+          "neural interfaces",
+          "psychopolitics",
+          "attention capture"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npongriz",
+      "x": 480,
+      "y": 579,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Metric conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "data ethics",
+          "algorithm studies",
+          "sociology of technology",
+          "critical data studies",
+          "digital governance"
+        ],
+        "tags": [
+          "algorithmic bias",
+          "data politics",
+          "scoring systems",
+          "quantification",
+          "metric governance",
+          "predictive control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7z0p86f",
+      "x": 480,
+      "y": 762,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Symbolic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "cultural studies",
+          "art history",
+          "memory studies",
+          "heritage studies",
+          "semiotics"
+        ],
+        "tags": [
+          "cultural memory",
+          "heritage politics",
+          "myth-making",
+          "iconographic power",
+          "narrative hegemony",
+          "semiotic infrastructures"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n92sunmm",
+      "x": 480,
+      "y": 945,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cultural conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "anthropology",
+          "sociology",
+          "cultural theory",
+          "futures studies",
+          "ethics"
+        ],
+        "tags": [
+          "value systems",
+          "ideological friction",
+          "cultural hegemony",
+          "future imaginaries",
+          "norm contestation"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "c266072a",
+      "x": 480,
+      "y": 1128,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Social conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "sociology",
+          "political science",
+          "law and rights studies",
+          "social policy",
+          "critical theory"
+        ],
+        "tags": [
+          "citizenship struggles",
+          "rights negotiation",
+          "representation crisis",
+          "social stratification",
+          "identity politics"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "45cc197d",
+      "x": 480,
+      "y": 1311,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Bureaucratic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "legal studies",
+          "political geography",
+          "bureaucracy studies",
+          "governance",
+          "critical urbanism"
+        ],
+        "tags": [
+          "administrative violence",
+          "legal cartographies",
+          "border regimes",
+          "paper governance",
+          "procedural control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "1780c30e",
+      "x": 480,
+      "y": 1494,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Digital conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "computer science",
+          "cybersecurity",
+          "digital geopolitics",
+          "AI ethics",
+          "critical infrastructure studies"
+        ],
+        "tags": [
+          "automation control",
+          "kill chain",
+          "AI warfare",
+          "protocol politics",
+          "simulated conflict",
+          "cyberwarfare"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "dbb4a85f",
+      "x": 480,
+      "y": 1677,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Ecological conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "political ecology",
+          "environmental studies",
+          "sustainability studies",
+          "geography",
+          "climate justice"
+        ],
+        "tags": [
+          "geoengineering",
+          "resource wars",
+          "ecocide",
+          "energy politics",
+          "environmental violence",
+          "multispecies justice"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "0a0a86b5",
+      "x": 480,
+      "y": 1860,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Infrastructural conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "infrastructure studies",
+          "urban studies",
+          "political geography",
+          "systems theory",
+          "supply chain studies"
+        ],
+        "tags": [
+          "logistics power",
+          "infrastructural geopolitics",
+          "network control",
+          "chokepoints",
+          "extractive systems"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    }
+  ],
+  "edges": [
+    {
+      "s": "ny15p0wg",
+      "t": "nqaspco0",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n4q8mtzu",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "nwl9ouvl",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "npongriz",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n7z0p86f",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n92sunmm",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "c266072a",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "45cc197d",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "1780c30e",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "dbb4a85f",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "0a0a86b5",
+      "dashed": false
+    }
+  ],
+  "vocab": {
+    "areas": [],
+    "tags": [],
+    "type": [
+      "Brief"
+    ]
+  }
+}
