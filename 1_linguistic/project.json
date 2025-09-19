@@ -14,6 +14,7 @@
         "type": "Brief",
         "action": null,
         "mainArea": null,
+<<<<<<< Updated upstream
         "areas": [
           "socio-political systems",
           "media and communication",
@@ -40,6 +41,11 @@
           "cultural infrastructures"
         ],
         "desc": "\nConflict is not an exception or an isolated event \u2014 it is a constant condition running through society. It is not limited to war or explicit clashes: it emerges within collective life as friction, as a continuous confrontation between competing needs, systems, and visions.\nIt is not a punctual episode but a latent and distributed condition. It takes on asymmetric, often invisible forms, embedded in cultural practices, social relations, and infrastructures. Its logic is not confined to violence: it also structures coexistence, shaping who holds privilege and who is pushed to the margins.\nExploring distributed conflicts means reading the present as a field where techniques of offense multiply and blur into the infrastructures society depends on. The goal is to generate critical devices, scenarios, and questions that probe the ambiguous nature of conflict as a diffuse condition in a post-territorial age.\n",
+=======
+        "areas": [],
+        "tags": [],
+        "desc": "\nConflict is not an exception or an isolated event — it is a constant condition running through society. It is not limited to war or explicit clashes: it emerges within collective life as friction, as a continuous confrontation between competing needs, systems, and visions.\nIt is not a punctual episode but a latent and distributed condition. It takes on asymmetric, often invisible forms, embedded in cultural practices, social relations, and infrastructures. Its logic is not confined to violence: it also structures coexistence, shaping who holds privilege and who is pushed to the margins.\nExploring distributed conflicts means reading the present as a field where techniques of offense multiply and blur into the infrastructures society depends on. The goal is to generate critical devices, scenarios, and questions that probe the ambiguous nature of conflict as a diffuse condition in a post-territorial age.\n",
+>>>>>>> Stashed changes
         "links": [],
         "files": []
       }
@@ -57,6 +63,7 @@
         "type": "Brief",
         "action": null,
         "mainArea": null,
+<<<<<<< Updated upstream
         "areas": [
           "media studies",
           "semiotics",
@@ -73,6 +80,10 @@
           "discourse control",
           "symbolic violence"
         ],
+=======
+        "areas": [],
+        "tags": [],
+>>>>>>> Stashed changes
         "desc": "",
         "links": [],
         "files": []
@@ -87,6 +98,7 @@
       "group": null,
       "data": {
         "date": "2025-09-19",
+<<<<<<< Updated upstream
         "title": "Media conflict",
         "type": "Brief",
         "action": null,
@@ -106,6 +118,14 @@
           "narrative control",
           "attention economy"
         ],
+=======
+        "title": "",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+>>>>>>> Stashed changes
         "desc": "",
         "links": [],
         "files": []
@@ -120,6 +140,7 @@
       "group": null,
       "data": {
         "date": "2025-09-19",
+<<<<<<< Updated upstream
         "title": "Cognitive conflict",
         "type": "Brief",
         "action": null,
@@ -139,6 +160,14 @@
           "psychopolitics",
           "attention capture"
         ],
+=======
+        "title": "",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+>>>>>>> Stashed changes
         "desc": "",
         "links": [],
         "files": []
@@ -153,6 +182,7 @@
       "group": null,
       "data": {
         "date": "2025-09-19",
+<<<<<<< Updated upstream
         "title": "Metric conflict",
         "type": "Brief",
         "action": null,
@@ -172,6 +202,14 @@
           "metric governance",
           "predictive control"
         ],
+=======
+        "title": "",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+>>>>>>> Stashed changes
         "desc": "",
         "links": [],
         "files": []
@@ -186,6 +224,7 @@
       "group": null,
       "data": {
         "date": "2025-09-19",
+<<<<<<< Updated upstream
         "title": "Symbolic conflict",
         "type": "Brief",
         "action": null,
@@ -205,6 +244,14 @@
           "narrative hegemony",
           "semiotic infrastructures"
         ],
+=======
+        "title": "",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+>>>>>>> Stashed changes
         "desc": "",
         "links": [],
         "files": []
@@ -219,6 +266,7 @@
       "group": null,
       "data": {
         "date": "2025-09-19",
+<<<<<<< Updated upstream
         "title": "Cultural conflict",
         "type": "Brief",
         "action": null,
@@ -399,6 +447,14 @@
           "chokepoints",
           "extractive systems"
         ],
+=======
+        "title": "",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+>>>>>>> Stashed changes
         "desc": "",
         "links": [],
         "files": []
@@ -435,6 +491,7 @@
       "s": "ny15p0wg",
       "t": "n92sunmm",
       "dashed": false
+<<<<<<< Updated upstream
     },
     {
       "s": "ny15p0wg",
@@ -460,6 +517,8 @@
       "s": "ny15p0wg",
       "t": "0a0a86b5",
       "dashed": false
+=======
+>>>>>>> Stashed changes
     }
   ],
   "vocab": {
