@@ -6,7 +6,7 @@
       "x": 0,
       "y": 0,
       "w": 320,
-      "h": 908,
+      "h": 807,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -15,13 +15,12 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "Socio-political systems",
-          "Media and communication",
-          "Technological infrastructures",
+          "Socio-political",
+          "Media studies",
+          "Communication",
           "Cultural practices",
-          "Urban and territorial studies",
-          "Critical theory and design research",
-          "Security and surveillance studies",
+          "Critical design",
+          "Design research",
           "Political ecology"
         ],
         "tags": [
@@ -30,13 +29,8 @@
           "Systemic friction",
           "Post-territorial",
           "Embedded warfare",
-          "Infrastructural power",
           "Socio-technical ecologies",
-          "Critical design",
-          "Antagonism",
           "Structural inequality",
-          "Soft power",
-          "Invisible control",
           "Cultural infrastructures"
         ],
         "desc": "\nConflict is not an exception or an isolated event — it is a constant condition running through society. It is not limited to war or explicit clashes: it emerges within collective life as friction, as a continuous confrontation between competing needs, systems, and visions.\nIt is not a punctual episode but a latent and distributed condition. It takes on asymmetric, often invisible forms, embedded in cultural practices, social relations, and infrastructures. Its logic is not confined to violence: it also structures coexistence, shaping who holds privilege and who is pushed to the margins.\nExploring distributed conflicts means reading the present as a field where techniques of offense multiply and blur into the infrastructures society depends on. The goal is to generate critical devices, scenarios, and questions that probe the ambiguous nature of conflict as a diffuse condition in a post-territorial age.\n",
@@ -49,7 +43,7 @@
       "x": 480,
       "y": 0,
       "w": 320,
-      "h": 343,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -70,8 +64,7 @@
           "Semiotic warfare",
           "Language manipulation",
           "Interface politics",
-          "Discourse control",
-          "Symbolic violence"
+          "Discourse control"
         ],
         "desc": "",
         "links": [],
@@ -81,9 +74,9 @@
     {
       "id": "n4q8mtzu",
       "x": 480,
-      "y": 383,
+      "y": 362,
       "w": 320,
-      "h": 343,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -114,9 +107,9 @@
     {
       "id": "nwl9ouvl",
       "x": 480,
-      "y": 766,
+      "y": 746,
       "w": 320,
-      "h": 343,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -136,8 +129,7 @@
           "Brain hacking",
           "Cognitive warfare",
           "Neural interfaces",
-          "Psychopolitics",
-          "Attention capture"
+          "Psychopolitics"
         ],
         "desc": "",
         "links": [],
@@ -147,9 +139,9 @@
     {
       "id": "npongriz",
       "x": 480,
-      "y": 1149,
+      "y": 1130,
       "w": 320,
-      "h": 343,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -180,9 +172,9 @@
     {
       "id": "n7z0p86f",
       "x": 480,
-      "y": 1532,
+      "y": 1514,
       "w": 320,
-      "h": 298,
+      "h": 299,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -213,9 +205,9 @@
     {
       "id": "n92sunmm",
       "x": 480,
-      "y": 1870,
+      "y": 1853,
       "w": 320,
-      "h": 298,
+      "h": 299,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -245,9 +237,9 @@
     {
       "id": "n3vsqfai",
       "x": 480,
-      "y": 2208,
+      "y": 2192,
       "w": 320,
-      "h": 298,
+      "h": 299,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -277,9 +269,9 @@
     {
       "id": "ncob3sst",
       "x": 480,
-      "y": 2546,
+      "y": 2531,
       "w": 320,
-      "h": 343,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -309,9 +301,9 @@
     {
       "id": "ne7rohui",
       "x": 480,
-      "y": 2929,
+      "y": 2915,
       "w": 320,
-      "h": 320,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -342,9 +334,9 @@
     {
       "id": "nr86jk3r",
       "x": 480,
-      "y": 3289,
+      "y": 3277,
       "w": 320,
-      "h": 320,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -375,9 +367,9 @@
     {
       "id": "nvlahv4k",
       "x": 480,
-      "y": 3649,
+      "y": 3639,
       "w": 320,
-      "h": 343,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -463,7 +455,14 @@
     }
   ],
   "vocab": {
-    "areas": [],
+    "areas": [
+      "Critical design",
+      "Communication",
+      "Media studies",
+      "Socio-political",
+      "Design research",
+      "Critical theory"
+    ],
     "tags": [],
     "type": [
       "Brief"

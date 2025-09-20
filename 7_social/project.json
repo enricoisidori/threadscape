@@ -6,7 +6,7 @@
       "x": 0,
       "y": 0,
       "w": 320,
-      "h": 567,
+      "h": 807,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -15,31 +15,25 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "socio-political systems",
-          "media and communication",
-          "technological infrastructures",
-          "cultural practices",
-          "urban and territorial studies",
-          "critical theory and design research",
-          "security and surveillance studies",
-          "political ecology"
+          "Socio-political",
+          "Media studies",
+          "Communication",
+          "Cultural practices",
+          "Critical design",
+          "Design research",
+          "Political ecology"
         ],
         "tags": [
-          "distributed conflict",
-          "latent violence",
-          "systemic friction",
-          "post-territorial",
-          "embedded warfare",
-          "infrastructural power",
-          "socio-technical ecologies",
-          "critical design",
-          "antagonism",
-          "structural inequality",
-          "soft power",
-          "invisible control",
-          "cultural infrastructures"
+          "Distributed conflict",
+          "Latent violence",
+          "Systemic friction",
+          "Post-territorial",
+          "Embedded warfare",
+          "Socio-technical ecologies",
+          "Structural inequality",
+          "Cultural infrastructures"
         ],
-        "desc": "\nConflict is not an exception or an isolated event \u2014 it is a constant condition running through society. It is not limited to war or explicit clashes: it emerges within collective life as friction, as a continuous confrontation between competing needs, systems, and visions.\nIt is not a punctual episode but a latent and distributed condition. It takes on asymmetric, often invisible forms, embedded in cultural practices, social relations, and infrastructures. Its logic is not confined to violence: it also structures coexistence, shaping who holds privilege and who is pushed to the margins.\nExploring distributed conflicts means reading the present as a field where techniques of offense multiply and blur into the infrastructures society depends on. The goal is to generate critical devices, scenarios, and questions that probe the ambiguous nature of conflict as a diffuse condition in a post-territorial age.\n",
+        "desc": "\nConflict is not an exception or an isolated event — it is a constant condition running through society. It is not limited to war or explicit clashes: it emerges within collective life as friction, as a continuous confrontation between competing needs, systems, and visions.\nIt is not a punctual episode but a latent and distributed condition. It takes on asymmetric, often invisible forms, embedded in cultural practices, social relations, and infrastructures. Its logic is not confined to violence: it also structures coexistence, shaping who holds privilege and who is pushed to the margins.\nExploring distributed conflicts means reading the present as a field where techniques of offense multiply and blur into the infrastructures society depends on. The goal is to generate critical devices, scenarios, and questions that probe the ambiguous nature of conflict as a diffuse condition in a post-territorial age.\n",
         "links": [],
         "files": []
       }
@@ -49,7 +43,7 @@
       "x": 480,
       "y": 0,
       "w": 320,
-      "h": 143,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -58,20 +52,19 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "media studies",
-          "semiotics",
-          "communication design",
-          "interface design",
-          "cultural studies"
+          "Media studies",
+          "Semiotics",
+          "Communication design",
+          "Interface design",
+          "Cultural studies"
         ],
         "tags": [
-          "memetics",
-          "persuasive rhetoric",
-          "semiotic warfare",
-          "language manipulation",
-          "interface politics",
-          "discourse control",
-          "symbolic violence"
+          "Memetics",
+          "Persuasive rhetoric",
+          "Semiotic warfare",
+          "Language manipulation",
+          "Interface politics",
+          "Discourse control"
         ],
         "desc": "",
         "links": [],
@@ -81,9 +74,9 @@
     {
       "id": "n4q8mtzu",
       "x": 480,
-      "y": 213,
+      "y": 362,
       "w": 320,
-      "h": 143,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -92,19 +85,19 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "media theory",
-          "journalism studies",
-          "information systems",
-          "political communication",
-          "critical media design"
+          "Media theory",
+          "Journalism studies",
+          "Information systems",
+          "Political communication",
+          "Critical media design"
         ],
         "tags": [
-          "propaganda systems",
-          "disinformation",
-          "deepfake",
-          "rumor propagation",
-          "narrative control",
-          "attention economy"
+          "Propaganda systems",
+          "Disinformation",
+          "Deepfake",
+          "Rumor propagation",
+          "Narrative control",
+          "Attention economy"
         ],
         "desc": "",
         "links": [],
@@ -114,9 +107,9 @@
     {
       "id": "nwl9ouvl",
       "x": 480,
-      "y": 396,
+      "y": 746,
       "w": 320,
-      "h": 143,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -125,19 +118,18 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "neuroscience",
-          "human-computer interaction",
-          "biopolitics",
-          "cyberpsychology",
-          "critical technology studies"
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies"
         ],
         "tags": [
-          "neurocontrol",
-          "brain hacking",
-          "cognitive warfare",
-          "neural interfaces",
-          "psychopolitics",
-          "attention capture"
+          "Neurocontrol",
+          "Brain hacking",
+          "Cognitive warfare",
+          "Neural interfaces",
+          "Psychopolitics"
         ],
         "desc": "",
         "links": [],
@@ -147,9 +139,9 @@
     {
       "id": "npongriz",
       "x": 480,
-      "y": 579,
+      "y": 1130,
       "w": 320,
-      "h": 143,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -158,19 +150,19 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "data ethics",
-          "algorithm studies",
-          "sociology of technology",
-          "critical data studies",
-          "digital governance"
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
         ],
         "tags": [
-          "algorithmic bias",
-          "data politics",
-          "scoring systems",
-          "quantification",
-          "metric governance",
-          "predictive control"
+          "Algorithmic bias",
+          "Data politics",
+          "Scoring systems",
+          "Quantification",
+          "Metric governance",
+          "Predictive control"
         ],
         "desc": "",
         "links": [],
@@ -180,9 +172,9 @@
     {
       "id": "n7z0p86f",
       "x": 480,
-      "y": 762,
+      "y": 1514,
       "w": 320,
-      "h": 143,
+      "h": 299,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -191,19 +183,19 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "cultural studies",
-          "art history",
-          "memory studies",
-          "heritage studies",
-          "semiotics"
+          "Cultural studies",
+          "Art history",
+          "Memory studies",
+          "Heritage studies",
+          "Semiotics"
         ],
         "tags": [
-          "cultural memory",
-          "heritage politics",
-          "myth-making",
-          "iconographic power",
-          "narrative hegemony",
-          "semiotic infrastructures"
+          "Cultural memory",
+          "Heritage politics",
+          "Myth-making",
+          "Iconographic power",
+          "Narrative hegemony",
+          "Semiotic infrastructures"
         ],
         "desc": "",
         "links": [],
@@ -213,9 +205,9 @@
     {
       "id": "n92sunmm",
       "x": 480,
-      "y": 945,
+      "y": 1853,
       "w": 320,
-      "h": 143,
+      "h": 299,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -224,18 +216,18 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "anthropology",
-          "sociology",
-          "cultural theory",
-          "futures studies",
-          "ethics"
+          "Anthropology",
+          "Sociology",
+          "Cultural theory",
+          "Futures studies",
+          "Ethics"
         ],
         "tags": [
-          "value systems",
-          "ideological friction",
-          "cultural hegemony",
-          "future imaginaries",
-          "norm contestation"
+          "Value systems",
+          "Ideological friction",
+          "Cultural hegemony",
+          "Future imaginaries",
+          "Norm contestation"
         ],
         "desc": "",
         "links": [],
@@ -245,9 +237,9 @@
     {
       "id": "n3vsqfai",
       "x": 480,
-      "y": 1128,
+      "y": 2192,
       "w": 320,
-      "h": 143,
+      "h": 299,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -256,18 +248,18 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "sociology",
-          "political science",
-          "law and rights studies",
-          "social policy",
-          "critical theory"
+          "Sociology",
+          "Political science",
+          "Law and rights studies",
+          "Social policy",
+          "Critical theory"
         ],
         "tags": [
-          "citizenship struggles",
-          "rights negotiation",
-          "representation crisis",
-          "social stratification",
-          "identity politics"
+          "Citizenship struggles",
+          "Rights negotiation",
+          "Representation crisis",
+          "Social stratification",
+          "Identity politics"
         ],
         "desc": "",
         "links": [],
@@ -277,9 +269,9 @@
     {
       "id": "ncob3sst",
       "x": 480,
-      "y": 1311,
+      "y": 2531,
       "w": 320,
-      "h": 143,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -288,18 +280,18 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "legal studies",
-          "political geography",
-          "bureaucracy studies",
-          "governance",
-          "critical urbanism"
+          "Legal studies",
+          "Political geography",
+          "Bureaucracy studies",
+          "Governance",
+          "Critical urbanism"
         ],
         "tags": [
-          "administrative violence",
-          "legal cartographies",
-          "border regimes",
-          "paper governance",
-          "procedural control"
+          "Administrative violence",
+          "Legal cartographies",
+          "Border regimes",
+          "Paper governance",
+          "Procedural control"
         ],
         "desc": "",
         "links": [],
@@ -309,9 +301,9 @@
     {
       "id": "ne7rohui",
       "x": 480,
-      "y": 1494,
+      "y": 2915,
       "w": 320,
-      "h": 143,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -320,19 +312,19 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "computer science",
-          "cybersecurity",
-          "digital geopolitics",
-          "AI ethics",
-          "critical infrastructure studies"
+          "Computer science",
+          "Cybersecurity",
+          "Digital geopolitics",
+          "Ai ethics",
+          "Critical infrastructure studies"
         ],
         "tags": [
-          "automation control",
-          "kill chain",
-          "AI warfare",
-          "protocol politics",
-          "simulated conflict",
-          "cyberwarfare"
+          "Automation control",
+          "Kill chain",
+          "Ai warfare",
+          "Protocol politics",
+          "Simulated conflict",
+          "Cyberwarfare"
         ],
         "desc": "",
         "links": [],
@@ -342,9 +334,9 @@
     {
       "id": "nr86jk3r",
       "x": 480,
-      "y": 1677,
+      "y": 3277,
       "w": 320,
-      "h": 143,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -353,19 +345,19 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "political ecology",
-          "environmental studies",
-          "sustainability studies",
-          "geography",
-          "climate justice"
+          "Political ecology",
+          "Environmental studies",
+          "Sustainability studies",
+          "Geography",
+          "Climate justice"
         ],
         "tags": [
-          "geoengineering",
-          "resource wars",
-          "ecocide",
-          "energy politics",
-          "environmental violence",
-          "multispecies justice"
+          "Geoengineering",
+          "Resource wars",
+          "Ecocide",
+          "Energy politics",
+          "Environmental violence",
+          "Multispecies justice"
         ],
         "desc": "",
         "links": [],
@@ -375,9 +367,9 @@
     {
       "id": "nvlahv4k",
       "x": 480,
-      "y": 1860,
+      "y": 3639,
       "w": 320,
-      "h": 143,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -386,18 +378,18 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "infrastructure studies",
-          "urban studies",
-          "political geography",
-          "systems theory",
-          "supply chain studies"
+          "Infrastructure studies",
+          "Urban studies",
+          "Political geography",
+          "Systems theory",
+          "Supply chain studies"
         ],
         "tags": [
-          "logistics power",
-          "infrastructural geopolitics",
-          "network control",
-          "chokepoints",
-          "extractive systems"
+          "Logistics power",
+          "Infrastructural geopolitics",
+          "Network control",
+          "Chokepoints",
+          "Extractive systems"
         ],
         "desc": "",
         "links": [],
@@ -463,7 +455,14 @@
     }
   ],
   "vocab": {
-    "areas": [],
+    "areas": [
+      "Critical design",
+      "Communication",
+      "Media studies",
+      "Socio-political",
+      "Design research",
+      "Critical theory"
+    ],
     "tags": [],
     "type": [
       "Brief"
