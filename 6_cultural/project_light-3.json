@@ -1,0 +1,1100 @@
+{
+  "version": 6,
+  "nodes": [
+    {
+      "id": "ny15p0wg",
+      "x": 0,
+      "y": 0,
+      "w": 320,
+      "h": 776,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Conflict: a Distributed Condition: Contemporary War Ecologies",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Socio-political",
+          "Media studies",
+          "Communication",
+          "Cultural practices",
+          "Critical design",
+          "Design research",
+          "Political ecology"
+        ],
+        "tags": [
+          "Distributed conflict",
+          "Latent violence",
+          "Systemic friction",
+          "Post-territorial",
+          "Embedded warfare",
+          "Socio-technical ecologies",
+          "Structural inequality",
+          "Cultural infrastructures"
+        ],
+        "desc": "\nConflict is not an exception or an isolated event — it is a constant condition running through society. It is not limited to war or explicit clashes: it emerges within collective life as friction, as a continuous confrontation between competing needs, systems, and visions.\nIt is not a punctual episode but a latent and distributed condition. It takes on asymmetric, often invisible forms, embedded in cultural practices, social relations, and infrastructures. Its logic is not confined to violence: it also structures coexistence, shaping who holds privilege and who is pushed to the margins.\nExploring distributed conflicts means reading the present as a field where techniques of offense multiply and blur into the infrastructures society depends on. The goal is to generate critical devices, scenarios, and questions that probe the ambiguous nature of conflict as a diffuse condition in a post-territorial age.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqaspco0",
+      "x": 480,
+      "y": 0,
+      "w": 320,
+      "h": 312,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Linguistic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Media studies",
+          "Semiotics",
+          "Communication design",
+          "Interface design",
+          "Cultural studies"
+        ],
+        "tags": [
+          "Memetics",
+          "Persuasive rhetoric",
+          "Semiotic warfare",
+          "Language manipulation",
+          "Interface politics",
+          "Discourse control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4q8mtzu",
+      "x": 480,
+      "y": 362,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Media conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Media theory",
+          "Journalism studies",
+          "Information systems",
+          "Political communication",
+          "Critical media design"
+        ],
+        "tags": [
+          "Propaganda systems",
+          "Disinformation",
+          "Deepfake",
+          "Rumor propagation",
+          "Narrative control",
+          "Attention economy"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwl9ouvl",
+      "x": 480,
+      "y": 746,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cognitive conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies"
+        ],
+        "tags": [
+          "Neurocontrol",
+          "Brain hacking",
+          "Cognitive warfare",
+          "Neural interfaces",
+          "Psychopolitics"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npongriz",
+      "x": 480,
+      "y": 1130,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Metric conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Algorithmic bias",
+          "Data politics",
+          "Scoring systems",
+          "Quantification",
+          "Metric governance",
+          "Predictive control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7z0p86f",
+      "x": 480,
+      "y": 1514,
+      "w": 320,
+      "h": 290,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Symbolic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Cultural studies",
+          "Art history",
+          "Memory studies",
+          "Heritage studies",
+          "Semiotics"
+        ],
+        "tags": [
+          "Cultural memory",
+          "Heritage politics",
+          "Myth-making",
+          "Iconographic power",
+          "Narrative hegemony",
+          "Semiotic infrastructures"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n92sunmm",
+      "x": 480,
+      "y": 1853,
+      "w": 320,
+      "h": 290,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cultural conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Anthropology",
+          "Sociology",
+          "Cultural theory",
+          "Futures studies",
+          "Ethics"
+        ],
+        "tags": [
+          "Value systems",
+          "Ideological friction",
+          "Cultural hegemony",
+          "Future imaginaries",
+          "Norm contestation"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3vsqfai",
+      "x": 480,
+      "y": 2192,
+      "w": 320,
+      "h": 290,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Social conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Sociology",
+          "Political science",
+          "Law and rights studies",
+          "Social policy",
+          "Critical theory"
+        ],
+        "tags": [
+          "Citizenship struggles",
+          "Rights negotiation",
+          "Representation crisis",
+          "Social stratification",
+          "Identity politics"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncob3sst",
+      "x": 480,
+      "y": 2531,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Bureaucratic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Legal studies",
+          "Political geography",
+          "Bureaucracy studies",
+          "Governance",
+          "Critical urbanism"
+        ],
+        "tags": [
+          "Administrative violence",
+          "Legal cartographies",
+          "Border regimes",
+          "Paper governance",
+          "Procedural control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ne7rohui",
+      "x": 480,
+      "y": 2915,
+      "w": 320,
+      "h": 312,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Digital conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Computer science",
+          "Cybersecurity",
+          "Digital geopolitics",
+          "Ai ethics",
+          "Critical infrastructure studies"
+        ],
+        "tags": [
+          "Automation control",
+          "Kill chain",
+          "Ai warfare",
+          "Protocol politics",
+          "Simulated conflict",
+          "Cyberwarfare"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nr86jk3r",
+      "x": 480,
+      "y": 3277,
+      "w": 320,
+      "h": 312,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Ecological conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Political ecology",
+          "Environmental studies",
+          "Sustainability studies",
+          "Geography",
+          "Climate justice"
+        ],
+        "tags": [
+          "Geoengineering",
+          "Resource wars",
+          "Ecocide",
+          "Energy politics",
+          "Environmental violence",
+          "Multispecies justice"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvlahv4k",
+      "x": 480,
+      "y": 3639,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Infrastructural conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Infrastructure studies",
+          "Urban studies",
+          "Political geography",
+          "Systems theory",
+          "Supply chain studies"
+        ],
+        "tags": [
+          "Logistics power",
+          "Infrastructural geopolitics",
+          "Network control",
+          "Chokepoints",
+          "Extractive systems"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njixu8s1",
+      "x": 1465.5170136571687,
+      "y": 1067.2786811077679,
+      "w": 320,
+      "h": 319,
+      "group": null,
+      "data": {
+        "date": "2025-09-21",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "People",
+          "Media studies",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Negli ultimi anni, l’intelligenza artificiale si è imposta come una forza trasformativa in molti ambiti, per esempio moderazione dei contenuti e automazione. Però, come mostra la ricerca recente, quando questi sistemi sono progettati prevalentemente secondo paradigmi occidentali, nascono diversi problemi che vanno oltre errori tecnici: sono difetti sistemici che possono danneggiare comunità già marginalizzate.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3btw70a",
+      "x": 2165.3290425361884,
+      "y": 609.6168051466777,
+      "w": 320,
+      "h": 291,
+      "group": null,
+      "data": {
+        "date": "2025-09-21",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-political",
+          "People"
+        ],
+        "tags": [],
+        "desc": "Studio che mostra come i sistemi automatici di moderazione (AI / algoritmi) falliscano o siano distorti quando applicati a lingue con scarso supporto digitale. Per esempio, Quechua, una lingua indigena sudamericana, può essere mal interpretata o ignorata.",
+        "links": [
+          "https://arxiv.org/pdf/2501.13836"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nclykt1c",
+      "x": 2209.684911120653,
+      "y": 959.9498235200774,
+      "w": 320,
+      "h": 493,
+      "group": null,
+      "data": {
+        "date": "2025-09-21",
+        "title": "",
+        "type": "Source",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "L’ IA ha catalizzato cambiamenti trasformativi in diversi settori, ma il suo sviluppo ha prevalentemente seguito paradigmi epistemologici occidentali, spesso trascurando i sistemi di conoscenza indigena. Questa trascuratezza si manifesta come imperialismo cognitivo nello sviluppo dell’IA, dove la predominanza delle prospettive occidentali non solo perpetua pregiudizi, ma limita anche l’evoluzione dell’IA verso una tecnologia veramente inclusiva ed eticamente solida (Lindgren 2023; Ray 2023). Tale esclusione porta a sistemi di IA che interpretano erroneamente o ignorano le realtà indigene, producendo soluzioni culturalmente insensibili, meno efficaci o addirittura dannose (Baradaran 2023; Zaga e Lupetti 2022). Affrontare questa lacuna critica è essenziale per sviluppare tecnologie IA universalmente vantaggiose e eticamente affidabili.",
+        "links": [
+          "https://www.springerprofessional.de/cognitive-imperialism-in-artificial-intelligence-counteracting-b/50022722?"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n2zr6llg",
+      "x": 2196.3463572072815,
+      "y": 1523.8466768002386,
+      "w": 320,
+      "h": 467,
+      "group": null,
+      "data": {
+        "date": "2025-09-21",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Critical theory"
+        ],
+        "tags": [],
+        "desc": "Il paper propone una metodologia innovativa per integrare i sistemi di conoscenza indigeni nello sviluppo dell’IA, al fine di contrastare l’imperialismo cognitivo e favorire l’inclusività. Criticando il predominio delle epistemologie occidentali e i rischi di bias, gli autori suggeriscono un approccio partecipativo che coinvolga le comunità indigene. Il framework proposto si basa su etica dell’IA, studi postcoloniali e conoscenze indigene, e prevede co-creazione, protocolli etici di gestione dei dati indigeni e adattamento degli algoritmi. Attraverso casi di studio in NLP, moderazione dei contenuti e sanità, gli autori mostrano l’efficacia dell’approccio. Il contributo principale è una metodologia concreta per “decolonizzare” l’IA, promuovendo equità e rispetto culturale.",
+        "links": [
+          "https://link.springer.com/article/10.1007/s00146-024-02065-0?"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n1ayj60l",
+      "x": 2636.6294898863084,
+      "y": 1213.2558314511164,
+      "w": 320,
+      "h": 413,
+      "group": null,
+      "data": {
+        "date": "2025-09-21",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Il paper evidenzia che le tecnologie linguistiche basate sull’IA coprono solo una minima parte delle lingue del mondo e che i tentativi recenti di includere lingue “poco servite” spesso producono soluzioni viziate da techno-linguistic bias. Questo bias non riguarda quali lingue siano incluse, ma il modo in cui le tecnologie sono progettate, privilegiando concetti e strutture proprie delle lingue dominanti. Di conseguenza, culture e comunità marginalizzate risultano mal rappresentate. Gli autori collegano il fenomeno all’ingiustizia epistemica, mostrando come questo approccio riduttivo alla diversità abbia ricadute socio-politiche, escludendo bisogni e visioni del mondo di molte comunità linguistiche.",
+        "links": [
+          "https://arxiv.org/abs/2307.13714?"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nk8l4614",
+      "x": 2651.161014248975,
+      "y": 738.1578885428978,
+      "w": 320,
+      "h": 345,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Media studies",
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "Le comunità indigene subiscono più danni che benefici dagli algoritmi e non partecipano alla loro progettazione. Per reagire, hanno sviluppato il concetto di sovranità dei dati indigeni, cioè il diritto di gestire i propri dati secondo leggi e culture proprie. Un esempio concreto è la sovranità dei dati Māori in Nuova Zelanda, che ha generato modelli per un uso dei dati rispettoso della cultura Māori.",
+        "links": [
+          "https://arxiv.org/abs/2311.15473?"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n584cfi5",
+      "x": 2648.269612514627,
+      "y": 1741.1537865851055,
+      "w": 320,
+      "h": 413,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "La ricerca denuncia come il data mining riproduca logiche coloniali ed escluda le voci indigene nello sviluppo delle tecnologie basate sui dati, come l’IA. Sottolinea la necessità di riconoscere la sovranità dei dati indigeni e applica i CARE Principles (beneficio collettivo, autorità di controllo, responsabilità ed etica) come quadro per garantire diritti e partecipazione. Attraverso casi studio, mostra come la governance dei dati possa tutelare al tempo stesso comunità indigene ed ecosistemi ambientali. L’obiettivo è proporre un modello di sviluppo tecnologico etico, alternativo a pratiche guidate solo da velocità e profitto, e capace di rafforzare la giustizia e la sovranità sui dati.",
+        "links": [
+          "https://arxiv.org/abs/2309.10215?"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nvuaguey",
+      "x": 1537.1388325367773,
+      "y": 2480.335338137983,
+      "w": 320,
+      "h": 518,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "I Badjao, popolazione austronesiana tra Filippine, Malaysia e Indonesia, non vivono semplicemente vicino al mare, ma incarnano una vera e propria cultura acquatica. \n\nPer loro l’acqua non è confine né risorsa, ma spazio vitale e luogo d’appartenenza. Questa concezione pervade ogni aspetto della loro esistenza: identità, religione, conoscenze, fisicità e organizzazione socioeconomica.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqc3yxx8",
+      "x": 1417.5041063738042,
+      "y": 4280.298639614046,
+      "w": 320,
+      "h": 139,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ns7vujb9",
+      "x": 3165.9131806800065,
+      "y": 930.1708308683208,
+      "w": 320,
+      "h": 691,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Critical theory",
+          "Media studies"
+        ],
+        "tags": [],
+        "desc": "Uno studio dimostra che i dataset più usati per addestrare questi sistemi, IJB-A e Adiencesono, sono composti rispettivamente per il 79,6% e 86,2% da soggetti dalla pelle chiara.\n\nPer questo nel progetto Gender Shades, ha testato tre dei principali sistemi commerciali di riconoscimento facciale (Microsoft, IBM e Face++), scoprendo che la categoria più misclassificata erano le donne con la pelle più scura, con tassi di errore superiori al 30%, mentre per gli uomini con la pelle chiara gli errori erano quasi inesistenti.\n\nLe implicazioni di questo bias sono molto gravi. Negli Stati Uniti, diversi casi documentati hanno mostrato che l'uso di software di riconoscimento facciale da parte delle forze dell'ordine ha portato a falsi arresti e incriminazioni di persone di colore a causa di errori di identificazione. ",
+        "links": [
+          "https://www.media.mit.edu/publications/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n8iv0nij",
+      "x": 2103.2312412982697,
+      "y": 2187.13466485286,
+      "w": 320,
+      "h": 249,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Conflicts"
+        ],
+        "tags": [],
+        "desc": "I Badjao, in quanto popolo apolide del mare, diventano invisibili per gli stati-nazione. \nLe moderne leggi marittime criminalizzano \nil loro stile di vita tradizionale, trasformandoli \nda abitanti originari in trasgressori.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nm1n9stu",
+      "x": 2129.01218745201,
+      "y": 2561.3222172997735,
+      "w": 320,
+      "h": 265,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Conflicts"
+        ],
+        "tags": [],
+        "desc": "Il collasso ecologico da pesca industriale \ne inquinamento distrugge l'habmarino \ndei Badjao, privandoli di cibo e identità. \nSpesso vengono forzatamente trasferiti \nsulla terraferma in “relocation villages”, \nseparandoli dal mare e disintegrando la loro cultura.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6fhzjda",
+      "x": 2185.213814255583,
+      "y": 2986.863303890189,
+      "w": 320,
+      "h": 297,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Conflicts"
+        ],
+        "tags": [],
+        "desc": "I programmi governativi di sedentarizzazione disintegrano la società Badjao. Così, si perdono ruoli sociali tradizionali e rituali .\nIl sistema scolastico costringe i bambini Badjao \na studiare in una lingua straniera, esercitando \nsu di loro una pressione culturale che li spinge \nad abbandonare la propria identità e a recidere \ni legami con le tradizioni comunitarie.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8n9z898",
+      "x": 2243.5533203149203,
+      "y": 3479.2824611546134,
+      "w": 320,
+      "h": 329,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Conflicts"
+        ],
+        "tags": [],
+        "desc": "La visione del mondo animista e il rapporto simbiotico con il mare dei Badjao è considerata primitiva \ne non scientifica. Le loro conoscenze vengono ignorate e i loro metodi di pesca spesso vietati. \nSono state create delle apposite politiche \ndi conservazione top-down che escludono i Badjao dalla progettazione e gestione delle Aree Marine Protette, non riconoscendo il loro ruolo storico \ndi custodi dell'ambiente.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nb1w3ca9",
+      "x": 2665.748371572009,
+      "y": 2538.60598379891,
+      "w": 320,
+      "h": 181,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://mangrovia.info/en/when-sea-nomads-no-longer-roam/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nbnhq7c8",
+      "x": 2689.0208723284336,
+      "y": 2804.1862865486955,
+      "w": 320,
+      "h": 197,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.researchgate.net/publication/360157099_Migration_and_cultural_identity_of_the_Cebu-based_Sama-Bajau"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nho0l4rk",
+      "x": 2796.106920949895,
+      "y": 3146.277391954993,
+      "w": 320,
+      "h": 197,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.researchgate.net/publication/321364564_Pamali_Bajo's_Local_Wisdom_in_the_Conservation_of_Marine_Resources#fullTextFileContent"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n91yfrhb",
+      "x": 2860.885990307602,
+      "y": 3473.983272235158,
+      "w": 320,
+      "h": 229,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.degruyterbrill.com/document/doi/10.1515/9781789201437-019/html?lang=en&srsltid=AfmBOoqoK-k5EpKoydh8miD9IL0lECDRzBjeu26sk9QhyjtgnZ8u_n8b"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nql2g1zc",
+      "x": 3153.072071792865,
+      "y": 2605.146780726987,
+      "w": 320,
+      "h": 213,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://mpra.ub.uni-muenchen.de/117900/1/_STATELESS%20SEA%20GYPSIES%20-%20MORENO%20-%20May%2031%2C%202023%20-%20FINAL.pdf"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "npoqibjw",
+      "x": 3175.9176448834537,
+      "y": 2890.155792704872,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://bluepapers.nl/index.php/bp/article/view/151"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ndsmz0w2",
+      "x": 3253.892856288711,
+      "y": 3159.1522319233145,
+      "w": 320,
+      "h": 229,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.researchgate.net/publication/316626798_Understanding_Identity_and_Diaspora_The_Case_of_the_Sama-Bajau_of_Maritime_Southeast_Asia#fullTextFileContent"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nd08c75z",
+      "x": 3654.8834690116996,
+      "y": 2290.6879033192636,
+      "w": 320,
+      "h": 243,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Macalandag, Regina Estorba. 2009. Otherizing the Badjao: A Spatial Imagery of State Exclusion and Societal Otherization. MA thesis, Graduate School of Development Studies, Institute of Social Studies",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncpzjc5a",
+      "x": 3679.3200682347215,
+      "y": 2618.501134368407,
+      "w": 320,
+      "h": 323,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Silda Iii, Jerry M., Jean Anthony S. Esperame, Zoro Micco A. Flores, Charl Peter P. Gerida, Kelvin Krison C. Dueñas, Louredil F. Longos, Alphinelyn M. Silda, Marie Christy B. Arcamo, Ezel G. Jainar, e Nikko T. Ederio. \"Sociocultural Perspectives on Badjao Life Captured from the Lived Experiences of Badjao Teens in Surigao City: A Phenomenology.\" International Journal of Current Science Research and Review",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nusbc8m2",
+      "x": 3716.7051031619662,
+      "y": 3052.4946656054112,
+      "w": 320,
+      "h": 275,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Macalandag, Regina Estorba. 2011. \"Otherizing the Badjao: A Spatial Imagery of State Exclusion and Societal Otherization.\" Magister's Thesis, Department of Sociology, Lund University.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nm7c1sns",
+      "x": 3747.3601433063054,
+      "y": 3439.6411582924775,
+      "w": 320,
+      "h": 275,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Daug, Artchil C., Christopher O. Kimilat, Glory Grace Ann G. Bayon, e Angenel Clariz D. Rufon. \"THE POSSIBILITY OF ETHNOGENESIS OF THE BADJAO IN BARANGAY TAMBACAN, ILIGAN CITY.\" Unpublished manuscript. Department of History, Mindanao State University-Iligan Institute of Technology",
+        "links": [],
+        "files": []
+      }
+    }
+  ],
+  "edges": [
+    {
+      "s": "ny15p0wg",
+      "t": "nqaspco0",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n4q8mtzu",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "nwl9ouvl",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "npongriz",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n7z0p86f",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n92sunmm",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n3vsqfai",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "ncob3sst",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "ne7rohui",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "nr86jk3r",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "nvlahv4k",
+      "dashed": false
+    },
+    {
+      "s": "n92sunmm",
+      "t": "njixu8s1",
+      "dashed": false
+    },
+    {
+      "s": "njixu8s1",
+      "t": "n3btw70a",
+      "dashed": false
+    },
+    {
+      "s": "njixu8s1",
+      "t": "nclykt1c",
+      "dashed": false
+    },
+    {
+      "s": "njixu8s1",
+      "t": "n2zr6llg",
+      "dashed": false
+    },
+    {
+      "s": "njixu8s1",
+      "t": "n1ayj60l",
+      "dashed": false
+    },
+    {
+      "s": "njixu8s1",
+      "t": "nk8l4614",
+      "dashed": false
+    },
+    {
+      "s": "njixu8s1",
+      "t": "n584cfi5",
+      "dashed": false
+    },
+    {
+      "s": "n92sunmm",
+      "t": "nvuaguey",
+      "dashed": false
+    },
+    {
+      "s": "n92sunmm",
+      "t": "nqc3yxx8",
+      "dashed": false
+    },
+    {
+      "s": "njixu8s1",
+      "t": "ns7vujb9",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "n8iv0nij",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "nm1n9stu",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "n6fhzjda",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "n8n9z898",
+      "dashed": false
+    }
+  ],
+  "vocab": {
+    "areas": [
+      "Conflicts",
+      "Socio-cultural",
+      "Media studies",
+      "Studies",
+      "Critical theory",
+      "People",
+      "Socio-political",
+      "Med",
+      "Design research",
+      "Communication",
+      "Critical design"
+    ],
+    "tags": [],
+    "type": [
+      "Source",
+      "Brief"
+    ]
+  }
+}
