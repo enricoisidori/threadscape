@@ -519,7 +519,7 @@
     {
       "id": "nh5ks9sq",
       "x": 1440,
-      "y": 105.7018825198362,
+      "y": 604,
       "w": 320,
       "h": 376,
       "group": null,
@@ -547,7 +547,7 @@
     {
       "id": "ntnshd31",
       "x": 1440,
-      "y": 521.7018825198362,
+      "y": 1020,
       "w": 320,
       "h": 504,
       "group": null,
@@ -580,13 +580,13 @@
     },
     {
       "id": "ne9u5x9s",
-      "x": 1441.4479709934224,
-      "y": 1045.4302886119224,
+      "x": 1440,
+      "y": 1564,
       "w": 320,
-      "h": 262,
+      "h": 644,
       "group": null,
       "data": {
-        "date": "2025-09-23",
+        "date": "2025-09-16",
         "title": "Helthcare and gender bias",
         "type": "Research",
         "action": "Exploring",
@@ -594,6 +594,162 @@
         "areas": [
           "Data ethics",
           "Critical design",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Statistic bias",
+          "Algorithmic bias"
+        ],
+        "desc": "Gender bias in medical research stems from the historical exclusion of women, the assumption they are just “smaller men,” and poor reporting of sex and gender. This data gap leads to misdiagnosis, inadequate treatments, and a lack of understanding of biological differences across sexes.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8812498/ https://time.com/7171341/gender-gap-medical-research/ https://www.jmir.org/2025/1/e72325/PDF https://pmc.ncbi.nlm.nih.gov/articles/PMC11735179/ https://pubmed.ncbi.nlm.nih.gov/38273982/ https://pubmed.ncbi.nlm.nih.gov/40661269/ https://magazine.hms.harvard.edu/articles/how-gender-bias-medicine-has-shaped-womens-health https://www.bumc.bu.edu/camed/2023/06/27/study-unpacks-how-medical-systems-harm-the-intersex-community/ https://www.theguardian.com/lifeandstyle/2019/nov/13/the-female-problem-male-bias-in-medical-trials"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n46nch3c",
+      "x": 1440,
+      "y": 0,
+      "w": 320,
+      "h": 564,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Ranking systems",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical design",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Algorithmic bias",
+          "Cognitive bias"
+        ],
+        "desc": "Ranking bias is a form of anchoring bias. It refers to the fact that, in a list of search engine results, people believe that the highest-ranked results are the most relevant and important.\n",
+        "links": [
+          "https://www.ludovicoboratto.com/reputation-equity-in-ranking-systems/#:~:text=Reputation%2Dbased%20ranking%20systems%20can,have%20systematically%20lower%20reputation%20scores. https://zilliz.com/learn/ranking-models-what-are-they-and-when-to-use-them https://www.ipu.org/ai-guidelines/generic-risks-and-biases-cognitive-bias-types#:~:text=Ranking%20bias%20is%20a%20form,the%20results%20are%20ranked%20randomly."
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nlbzpmi1",
+      "x": 1440,
+      "y": 2248,
+      "w": 320,
+      "h": 420,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Mental health stigma",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Data ethics",
+          "Critical design",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Cognitive bias"
+        ],
+        "desc": "While conservatives report much higher mental health ratings, asking instead about general mood eliminated the gap between liberals and conservatives.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12043138/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n0s7shor",
+      "x": 1440,
+      "y": 2708,
+      "w": 320,
+      "h": 708,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Predictive justice and Algorithmic fairness",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical design",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Algorithmic bias"
+        ],
+        "desc": "Several technologies, rather than eliminating conflict, end up reinforcing it. A notable example is the COMPAS software, designed to assist in sentencing decisions, which relied on datasets biased toward a specific ‘type’ of criminal, incorporating factors such as ethnicity and gender. This highlights the challenges faced by the field of algorithmic fairness—an interdisciplinary area that seeks to reduce bias and discrimination in machine learning. Despite its promise, the field lacks a universal definition of fairness and remains controversial, with cases like COMPAS illustrating how models can amplify, rather than mitigate, existing prejudices.",
+        "links": [
+          "https://clok.uclan.ac.uk/id/eprint/41816/1/Article_AnAIEthicsDavidAndGoliathValue.pdf  https://arxiv.org/pdf/1908.09635 https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf https://en.wikipedia.org/wiki/COMPAS_(software) https://www.internazionale.it/notizie/ed-yong/2018/02/16/algoritmo-valutazione-rischio-tribunale#:~:text=Compas%20è%20uno%20dei%20tanti,potrebbero%20essere%20utili%20in%20tribunale."
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nmrx6tr0",
+      "x": 1440,
+      "y": 3456,
+      "w": 320,
+      "h": 548,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Psychology's WEIRD Problem",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical design",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Cognitive bias"
+        ],
+        "desc": "Cross-Cultural Perception Studies: Early psychological research relied heavily on WEIRD populations, wrongly generalizing results to all humans and pathologizing non-WEIRD practices. Today, scholars stress the need for culturally sensitive methods to better reflect human diversity.\n",
+        "links": [
+          "https://www.psychologytoday.com/us/blog/non-weird-science/202004/psychologys-weird-problem https://www.cambridge.org/core/elements/psychologys-weird-problems/C324108A678435B4F18EF712EFB793BB https://thedecisionlab.com/insights/society/behavioral-science-is-weird-and-this-should-concern-us https://www.youtube.com/watch?v=vjB6KG-0bFk"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n774n60n",
+      "x": 1440,
+      "y": 4044,
+      "w": 320,
+      "h": 233,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
           "Algorithm studies",
           "Sociology of technology",
           "Critical data studies",
@@ -696,34 +852,53 @@
       "s": "naho5qrg",
       "t": "ne9u5x9s",
       "dashed": false
+    },
+    {
+      "s": "naho5qrg",
+      "t": "n46nch3c",
+      "dashed": false
+    },
+    {
+      "s": "naho5qrg",
+      "t": "nlbzpmi1",
+      "dashed": false
+    },
+    {
+      "s": "naho5qrg",
+      "t": "n0s7shor",
+      "dashed": false
+    },
+    {
+      "s": "naho5qrg",
+      "t": "nmrx6tr0",
+      "dashed": false
+    },
+    {
+      "s": "nxpd6wfv",
+      "t": "n774n60n",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Hfjdf",
-      "Critical design",
-      "Critical theory",
-      "Design research",
-      "Socio-political",
+      "Communication",
       "Media studies",
-      "Communication"
+      "Socio-political",
+      "Design research",
+      "Critical theory",
+      "Critical design"
     ],
     "tags": [
-      "Data representation",
       "Cognitive bias",
-      "Measuring the unmeasurable",
-      "Big data",
-      "Biometric data",
-      "Bi",
-      "Datafication",
-      "Deceptive pattern",
-      "Data rapresentation",
-      "Measuring",
-      "Data perception",
-      "Identities",
-      "Ca",
+      "Algorithmic bias",
       "Statistic bias",
-      "Algorithmic bias"
+      "Identities",
+      "Data perception",
+      "Deceptive pattern",
+      "Biometric data",
+      "Big data",
+      "Measuring the unmeasurable",
+      "Data representation"
     ],
     "type": [
       "Research",
