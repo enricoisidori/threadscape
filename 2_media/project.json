@@ -6,7 +6,7 @@
       "x": 0,
       "y": 0,
       "w": 320,
-      "h": 807,
+      "h": 733,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -43,7 +43,7 @@
       "x": 480,
       "y": 0,
       "w": 320,
-      "h": 344,
+      "h": 343,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -70,6 +70,26 @@
         "links": [],
         "files": []
       }
+    },
+    {
+      "id": "narc5piv",
+      "x": 967.4545367051034,
+      "y": 412.63065299013505,
+      "w": 320,
+      "h": 172,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "prova nodo",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
     }
   ],
   "edges": [
@@ -77,15 +97,20 @@
       "s": "ny15p0wg",
       "t": "n4q8mtzu",
       "dashed": false
+    },
+    {
+      "s": "n4q8mtzu",
+      "t": "narc5piv",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Critical design",
-      "Communication",
-      "Media studies",
+      "Design research",
       "Socio-political",
-      "Design research"
+      "Media studies",
+      "Communication",
+      "Critical design"
     ],
     "tags": [],
     "type": [
