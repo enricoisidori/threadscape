@@ -187,7 +187,7 @@
           "Storytelling",
           "Rumor machine",
           "Deepfake",
-          "Manipolation",
+          "Manipulation",
           "Polarization",
           "Spectacularization"
         ],
@@ -235,7 +235,7 @@
     {
       "id": "nlqsfith",
       "x": 2880,
-      "y": 1199,
+      "y": 1222,
       "w": 320,
       "h": 406,
       "group": null,
@@ -265,7 +265,7 @@
       "x": 2880,
       "y": 0,
       "w": 320,
-      "h": 316,
+      "h": 339,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -280,7 +280,8 @@
           "Slacktivism",
           "Low-effort",
           "Symbolic",
-          "Activism"
+          "Activism",
+          "Inconclusive activism"
         ],
         "desc": "A critical term describing forms of “low-effort” activism, mostly typical of online contexts.\nThose who engage in symbolic gestures may feel “absolved” and fail to move on to more effective forms of activism.",
         "links": [],
@@ -290,7 +291,7 @@
     {
       "id": "npqu7tjd",
       "x": 2880,
-      "y": 356,
+      "y": 379,
       "w": 320,
       "h": 390,
       "group": null,
@@ -307,7 +308,8 @@
           "Washing",
           "Social symbols",
           "Rainbow-washing",
-          "Advertising purposes"
+          "Advertising purposes",
+          "Inconclusive activism"
         ],
         "desc": "Term that describes the strategy by which companies, institutions, or brands appropriate social symbols and causes to “clean up” their image without real commitment (e.g., rainbow-washing, green-washing, pink-washing).\nCompanies have no interest in actually resolving the conflict; their goal is solely to improve their image for advertising purposes.",
         "links": [],
@@ -316,10 +318,10 @@
     },
     {
       "id": "n6kap6uo",
-      "x": 3360,
-      "y": 0,
+      "x": 3324.1458063688547,
+      "y": 214.02034730369752,
       "w": 320,
-      "h": 300,
+      "h": 306,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -331,9 +333,13 @@
           "Research"
         ],
         "tags": [
-          "Inconclusive activism"
+          "Inconclusive activism",
+          "Conflict",
+          "Debate",
+          "Slacktivism",
+          "Washing"
         ],
-        "desc": "F\norms of activism that signal support or raise awareness without producing meaningful or lasting change, often limited to symbolic actions",
+        "desc": "Forms of activism that signal support or raise awareness without producing meaningful or lasting change, often limited to symbolic actions",
         "links": [],
         "files": []
       }
@@ -341,7 +347,7 @@
     {
       "id": "n31bv9vn",
       "x": 2880,
-      "y": 786,
+      "y": 809,
       "w": 320,
       "h": 373,
       "group": null,
@@ -360,7 +366,8 @@
           "Spam",
           "Artificial",
           "Ai",
-          "Non-human"
+          "Non-human",
+          "Automation"
         ],
         "desc": "The Internet is supposed to be a dynamic, open space populated by real users engaging in genuine interactions.\nThe problem arises from bots, spam, AI, and fake accounts. Social interactions can become artificial, making it difficult to distinguish between human and non-human activity.",
         "links": [],
@@ -369,10 +376,10 @@
     },
     {
       "id": "n7gx2wb4",
-      "x": 3360,
-      "y": 786,
+      "x": 3330.797861876813,
+      "y": 839.3639399076769,
       "w": 320,
-      "h": 283,
+      "h": 306,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -387,7 +394,9 @@
           "Automation",
           "Ai",
           "Bots",
-          "Non-human"
+          "Non-human",
+          "Conflict",
+          "Dead internet theory"
         ],
         "desc": "The use of algorithms, bots, or AI to generate, distribute, or amplify content, which can artificially shape online interactions and public perception.",
         "links": [],
@@ -397,7 +406,7 @@
     {
       "id": "nr64a4c7",
       "x": 2880,
-      "y": 1645,
+      "y": 1668,
       "w": 320,
       "h": 356,
       "group": null,
@@ -413,7 +422,7 @@
         "tags": [
           "Spectacularization",
           "Sensationalized",
-          "Manipolation"
+          "Manipulation"
         ],
         "desc": "Information and entertainment are mixed, favoring the sensational aspect of content over depth or informational completeness.\nOrdinary or complex events are presented in a sensationalized way, with fear, anger, surprise, and curiosity driving the narrative.",
         "links": [],
@@ -423,7 +432,7 @@
     {
       "id": "n3ghor9n",
       "x": 2880,
-      "y": 2018,
+      "y": 2064,
       "w": 320,
       "h": 316,
       "group": null,
@@ -448,12 +457,12 @@
     {
       "id": "no1buysv",
       "x": 2880,
-      "y": 2374,
+      "y": 2420,
       "w": 320,
       "h": 373,
       "group": null,
       "data": {
-        "date": "2025-09-23",
+        "date": "2025-09-19",
         "title": "False Balance",
         "type": "Finding",
         "action": "Exploring",
@@ -464,7 +473,7 @@
         "tags": [
           "False balance",
           "Distorted perception",
-          "Manipolation"
+          "Manipulation"
         ],
         "desc": "A topic is presented as if there are two equally legitimate or valid positions, even when one is scientifically or factually stronger.\nIt risks creating a distorted perception of reality, making widely accepted issues (e.g., climate change, vaccines) seem controversial and sparking unnecessary debates.",
         "links": [],
@@ -474,7 +483,7 @@
     {
       "id": "nwoul3rw",
       "x": 2880,
-      "y": 2787,
+      "y": 2833,
       "w": 320,
       "h": 440,
       "group": null,
@@ -490,7 +499,7 @@
         "tags": [
           "Mediatic void",
           "Distorted perception",
-          "Manipolation",
+          "Manipulation",
           "Prospective"
         ],
         "desc": "Mediatic void is a phenomenon in which certain events, issues, or perspectives receive little to no coverage in the media, creating gaps in public awareness. By failing to report on these topics, media outlets can unintentionally or deliberately shape what audiences perceive as important, leaving some problems invisible. This lack of coverage can influence public opinion, political priorities, and social discourse, reinforcing inequalities in attention and limiting informed decision-making among citizens.",
@@ -501,7 +510,7 @@
     {
       "id": "n4uvnp8s",
       "x": 2880,
-      "y": 3267,
+      "y": 3313,
       "w": 320,
       "h": 440,
       "group": null,
@@ -517,11 +526,716 @@
         "tags": [
           "Cherry picking",
           "Prospective",
-          "Manipolation",
+          "Manipulation",
           "Distorted perception"
         ],
         "desc": "Cherry picking is a media phenomenon in which information is selectively presented to support a particular narrative or argument while ignoring data that might contradict it. By highlighting specific facts, quotes, or statistics and omitting context, media outlets can shape public perception and reinforce biases. This practice distorts reality, misleads audiences, and can polarize opinions, often giving an impression of evidence or consensus that does not accurately reflect the full scope of a situation.",
         "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7utwmat",
+      "x": 2880,
+      "y": 3793,
+      "w": 320,
+      "h": 406,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Media overshadowing",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Media overshadowing",
+          "Distorted perception",
+          "Prospective",
+          "Spectacularization"
+        ],
+        "desc": "Media overshadowing is the phenomenon in which an event or a piece of news receives disproportionate coverage, pushing other relevant issues into the background and causing them to disappear from the media agenda as soon as a more “sensational” story emerges. This mechanism can influence public perception of priorities and is sometimes exploited by governments or political actors to divert attention from uncomfortable issues.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nk21xyvd",
+      "x": 2880,
+      "y": 4239,
+      "w": 320,
+      "h": 457,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Fake news",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Fake news",
+          "Distorted perception",
+          "Manipulation",
+          "Polarization"
+        ],
+        "desc": "Fake news are deliberately false or manipulated stories, spread with the aim of deceiving, influencing public opinion, or gaining political and economic advantages. They spread rapidly, especially online, exploiting social media and the logic of virality, confusing citizens and undermining trust in traditional sources of information. The main effects concern the distortion of public debate, the polarization of opinions, and the creation of false perceptions about real facts and issues, with direct consequences on democratic processes and collective decision-making.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ni4j89tf",
+      "x": 2880,
+      "y": 4736,
+      "w": 320,
+      "h": 457,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Deviancy amplification",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Deviancy amplification",
+          "Manipulation",
+          "Distorted perception"
+        ],
+        "desc": "Deviancy amplification is a sociological process in which the media, by excessively emphasizing deviant behavior, end up amplifying its perception and diffusion. The sensationalistic representation of certain episodes can in fact lead public opinion to consider them more frequent or dangerous than they actually are, pushing institutions toward disproportionate repressive responses. This mechanism can fuel stereotypes, reinforce the stigmatization of social groups, and generate a spiral in which deviant phenomena appear amplified, while often remaining marginal in reality.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5ytyus0",
+      "x": 2880,
+      "y": 5233,
+      "w": 320,
+      "h": 451,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Framing",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Framing",
+          "Manipulation",
+          "Contrast"
+        ],
+        "desc": "Framing is a mass media phenomenon in which the way information is presented shapes how audiences interpret and evaluate events. By selecting certain aspects of a story and emphasizing specific angles, media outlets guide attention toward particular interpretations while downplaying alternative perspectives. This subtle process influences how issues are understood, defining what is seen as a problem, who is considered responsible, and which solutions appear most legitimate. As a result, framing not only organizes public discourse but can also steer political debate and decision-making, often without audiences realizing the extent of its impact.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nl669c65",
+      "x": 2880,
+      "y": 5724,
+      "w": 320,
+      "h": 457,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Censorship",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Censorship",
+          "Manipulation",
+          "Prospective",
+          "Debate",
+          "Polarization",
+          "Tension"
+        ],
+        "desc": "Censorship is the practice of suppressing or controlling information, ideas, or artistic expressions deemed objectionable, sensitive, or dangerous by governments, institutions, or media outlets. By limiting access to certain content, censorship shapes public knowledge and perception, often influencing social, political, and cultural discourse. It can prevent critical debate, obscure truths, and restrict the diversity of voices in society, sometimes being justified as a means of protecting morality, security, or social order, but frequently serving the interests of those in power.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n29mz2fv",
+      "x": 3387.866580397609,
+      "y": 3517.3340207264714,
+      "w": 320,
+      "h": 414,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Manipulation",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Manipulation",
+          "Tension",
+          "Debate",
+          "Conflict",
+          "Distorted perception",
+          "Framing",
+          "Censorship",
+          "Deviancy amplification",
+          "Fake news",
+          "Media overshadowing",
+          "Cherry picking",
+          "Mediatic void",
+          "False balance",
+          "Click baiting",
+          "Spectacularization",
+          "Filter bubbles"
+        ],
+        "desc": "The way content is framed or structured to influence perception, often emphasizing certain aspects while omitting or distorting others to guide audience interpretation.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nr6uu86x",
+      "x": 2880,
+      "y": 6221,
+      "w": 320,
+      "h": 390,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Rumor Cascade",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Rumor cascade",
+          "Conflict",
+          "Rumor machine",
+          "Immediacy"
+        ],
+        "desc": "A phenomenon in communication and social media where a rumor, news item, or gossip spreads rapidly among people.\nSources are often not verified, generating a chain reaction of unjustified anger or hostility. \nThis “telephone game” effect also illustrates how information can change as it circulates through media.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9o62p3k",
+      "x": 2880,
+      "y": 6651,
+      "w": 320,
+      "h": 379,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cognitive Laziness",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Cognitive laziness",
+          "Fact-checking",
+          "Debate",
+          "Distorted perception",
+          "Polarization",
+          "Prospective",
+          "Immediacy"
+        ],
+        "desc": "Users prefer to remain misinformed rather than engage in fact-checking due to the cognitive effort required.\nThe tension between digital immediacy and the time needed for verification leads people to accept information as true without checking.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nyej8hm2",
+      "x": 2880,
+      "y": 7070,
+      "w": 320,
+      "h": 339,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Immediacy",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Immediacy",
+          "Distorted perception",
+          "Tension",
+          "Fake news"
+        ],
+        "desc": "The world increasingly rewards content and news that are transmitted as quickly as possible; being first is seen as essential.\nThis speed comes at a cost: the fastest news is often not the most accurate.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nczvdvw6",
+      "x": 3369.5017748544174,
+      "y": 6686.41321983891,
+      "w": 320,
+      "h": 306,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Immediacy / Easy and Fast Information",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Immediacy",
+          "Tension",
+          "Debate",
+          "Conflict",
+          "Cognitive laziness",
+          "Rumor cascade"
+        ],
+        "desc": "The prioritization of speed in news and content delivery, favoring rapid consumption over accuracy or depth.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ntmj1xey",
+      "x": 2878.1700304394244,
+      "y": 7425.210395712518,
+      "w": 320,
+      "h": 333,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Shitstorm",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Shitstorm",
+          "Tension",
+          "Anger",
+          "Conflict"
+        ],
+        "desc": "A massive, rapid, and highly negative public reaction toward a person, company, institution, or online content.\nThousands or millions of users comment, share, or criticize simultaneously, with anger, indignation, and frustration dominating the discourse.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nljoqg7a",
+      "x": 2876.2604938124987,
+      "y": 8447.487355619132,
+      "w": 320,
+      "h": 322,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Argument Culture",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Argument culture",
+          "Anger",
+          "Conflict",
+          "Tension",
+          "Debate"
+        ],
+        "desc": "A social and media tendency to treat public communication as a battlefield.\nIdeas are presented in terms of clash, opposition, and winning rather than dialogue or cooperation.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n05k9l8c",
+      "x": 2878.1700304394244,
+      "y": 7772.100913182734,
+      "w": 320,
+      "h": 333,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cancel Culture",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Cancel culture",
+          "Conflict",
+          "Anger",
+          "Tension"
+        ],
+        "desc": "Individuals, groups or institutions are publicly criticized, boycotted, or excluded after expressing opinions or taking actions considered offensive, discriminatory, or morally unacceptable.\nRather than fostering dialogue, it tends to silence people and reinforce “us versus them” divisions.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nk0ypvdj",
+      "x": 2878.1700304394244,
+      "y": 8116.648325831654,
+      "w": 320,
+      "h": 316,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Rage Baiting",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Rage baiting",
+          "Anger",
+          "Tension",
+          "Debate"
+        ],
+        "desc": "Attempting to provoke anger in people through “bait” comments or posts, exploiting the tendency of individuals to take pleasure in creating conflict.\nIt generates anger and hatred purely for the amusement of a single individual.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzqg4ixt",
+      "x": 3342.4731589616035,
+      "y": 7961.66679278097,
+      "w": 320,
+      "h": 328,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Anger / Public Reaction",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Anger",
+          "Tension",
+          "Debate",
+          "Conflict",
+          "Cancel culture",
+          "Shitstorm",
+          "Rage baiting",
+          "Argument culture"
+        ],
+        "desc": "The emotional responses, especially outrage or frustration, that audiences experience and express in response to provocative or sensational content.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "na2p5erz",
+      "x": 3765.9437570772798,
+      "y": 7770.600481105209,
+      "w": 320,
+      "h": 710,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "The media as a stage for anger: we are aggressors, victims, and paying audiences",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Shitstorm",
+          "Cancel culture",
+          "Argument culture",
+          "Rage baiting",
+          "Anger",
+          "Media overshadowing",
+          "Framing",
+          "Negativity bias",
+          "Polarization",
+          "Spectacularization",
+          "Tribalism"
+        ],
+        "desc": "On social networks, and in the media in general, we increasingly witness communicative dynamics that are far more conflictual and hate-driven than in real life. Phenomena such as cyberbullying, shitstorms, cancel culture, argument culture, and rage baiting are clear symptoms. In this context, we find ourselves sometimes as aggressors, sometimes as victims, but above all as the audience that fuels and finances the system. In fact, we actively seek and demand such content: the more a message provokes outrage, the more it is shared, boosting engagement and, in turn, the profits of platforms and news outlets that spread it.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-23 at 15.11.44.png",
+            "size": 3475608,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-23_at_15.11.44.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqe4ifd4",
+      "x": 4194.411756265148,
+      "y": 7905.8719832370525,
+      "w": 320,
+      "h": 440,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "References",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [],
+        "desc": "- The Argument Culture (1998), Deborah Tannen \n- Lord of the Flies, William Golding\n- How social learning amplifies moral outrage expression in online social networks\n- The social dilemma, Netflix series\n- “Hated in the Nation” Black Mirror S 6 E 3",
+        "links": [
+          "https://share.google/tzsHeJcGaz0AECP9a",
+          "https://share.google/gic53mm3eVnjPinAz",
+          "https://www.science.org/doi/10.1126/sciadv.abe5641",
+          "https://share.google/WKjdFIjieJscCriB0",
+          "https://share.google/VPsv73jzgupLx1X8h"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n2td8cpn",
+      "x": 3803.713762183238,
+      "y": 6457.473156483014,
+      "w": 320,
+      "h": 760,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Post-truth: cognitive laziness and the search for truth",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Post-truth",
+          "Cognitive laziness",
+          "Pseudo-environments",
+          "Digital agnotology",
+          "Information inflation",
+          "Infodemic",
+          "Polarization",
+          "Immediacy",
+          "Fake news"
+        ],
+        "desc": "The rise of new mass media has transformed the very concept of truth, giving rise to a post-truth era: what matters is no longer whether information is verifiable, but whether it feels “true” because it resonates emotionally or aligns with personal beliefs. \nThere is no longer a single shared reality, but multiple, often contradictory versions that coexist and compete. This information overload (often superficial, distorted, or misleading) has devalued truth, making it harder to distinguish from falsehood. \nPeople increasingly rely on cognitive shortcuts, accepting simple or confirming news without verification. The result is a society of “parallel truths,” where objective truth loses significance. Yet truth remains essential: without it, civil coexistence, public debate, and democracy rest on fragile ground.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-23 at 15.31.10.png",
+            "size": 3870472,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-23_at_15.31.10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nzax204c",
+      "x": 4228.030110587965,
+      "y": 6583.580249801719,
+      "w": 320,
+      "h": 511,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "References",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [],
+        "desc": "- The Truman Show \n- HyperNormalization, Adam Curtis (2016)\n- La trahison des images (1929), René Magritte\n- Postverità, Anna Maria Lorusso \n- Truth Decay, Jennifer Kavanagh and Michael D. Rich\n- Vittoriodublinoblog",
+        "links": [
+          "https://share.google/3zznwtptG3tm4EFji",
+          "https://share.google/kyXre0LOLQnZFQCB4",
+          "https://share.google/OCW2pOmCCneJABIVK",
+          "https://share.google/YkUmdcMfA9qzCTwOx",
+          "https://share.google/eDFJoxSQ8fuIIHjrN",
+          "https://vittoriodublinoblog.org/2024/09/22/manipolazione-mediatica-riflessioni-e-rischi/",
+          "https://vittoriodublinoblog.org/2024/09/23/agnotologia-la-costruzione-dellignoranza-nelle-societa-contemporanee/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nnyihtc8",
+      "x": 3841.0443182390295,
+      "y": 3374.2819558807146,
+      "w": 320,
+      "h": 721,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "The media as generators of monsters: the propaganda of dehumanization",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Manipulation",
+          "Discrimination",
+          "Scapegoating",
+          "Common enemy",
+          "Dehumanization",
+          "Demonization",
+          "Monsters",
+          "Polarization"
+        ],
+        "desc": "Media often play a central role in shaping perceptions of the enemy, transforming real people into \"monsters\" to hate or fear. In Nazism, propaganda portrayed Jews as a dehumanized threat, fueling antisemitism until it became socially acceptable and functional to violence. Today, similar dynamics appear in hatred toward immigrants, described by media in certain contexts as invaders or security threats, and in the Israeli-Palestinian conflict, where Israeli government narratives dehumanize Palestinians, facilitating genocide. In all cases, media filters shape minds by creating false narratives that fuel conflict, pushing people to hate not what others truly are, but what they've been led to believe they are.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-23 at 15.40.11.png",
+            "size": 985017,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-23_at_15.40.11.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7gwvr8o",
+      "x": 4309.48161051626,
+      "y": 3504.625206573762,
+      "w": 320,
+      "h": 438,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "References",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [],
+        "desc": "- “Se questo è un uomo”, Primo Levi\n- “Men against fire” Black Mirror  S 3 E 5\n- “Making Monsters: The Uncanny Power of Dehumanization”, David Livingstone Smith\n- “Il sonno della ragione genera mostri”, Francisco Goya",
+        "links": [
+          "https://it.wikipedia.org/wiki/Se_questo_è_un_uomo",
+          "https://en.wikipedia.org/wiki/Men_Against_Fire",
+          "https://en.wikipedia.org/wiki/Making_Monsters:_False_Memories,_Psychotherapy,_and_Sexual_Hysteria",
+          "https://it.wikipedia.org/wiki/Il_sonno_della_ragione_genera_mostri"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nmi1u4gp",
+      "x": 3810.90624831503,
+      "y": 579.8443219514991,
+      "w": 320,
+      "h": 818,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Synthetic interpretations: information is increasingly filtered by machines",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Algorithm",
+          "Bots",
+          "Ai",
+          "Artificial",
+          "Manipulation",
+          "Dead internet theory",
+          "Non-human"
+        ],
+        "desc": "Online information is no longer a neutral flow between people: every content, from news to personal posts, is filtered, selected or rewritten by machines. Ranking algorithms determine what appears in feeds, chatbots and generative AI produce texts, images and videos instead of us, synthesis systems like Google AI Overview reformulate what we search without letting us explore deeper. The same applies to our daily exchanges: a message corrected by ChatGPT, news written by software and already processed before reaching us, an image built by a model instead of a photographer, an entire YouTube video generated and dubbed by AI. The paradox is that even human-born content passes through algorithmic filters. Every message, opinion, image risks being translated and reformulated by machines, dissolving communication's authenticity. Thus media's original promise – human-to-human communication – empties: our exchanges no longer happen directly, but within simulated space where machines talk to machines and humans remain passive spectators.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-23 at 15.45.57.png",
+            "size": 1616050,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-23_at_15.45.57.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n6hv8li6",
+      "x": 4281.653741286279,
+      "y": 628.4199838524422,
+      "w": 320,
+      "h": 713,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "References",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [],
+        "desc": "- Imperva – Bad Bot Report 2024/2025\n- \"Be Right Back\" Black Mirror  S 2 E 1\n- Only bots\n- NewsGuard – AI-Generated News Tracking Center\n- “Computational Propaganda Project” — Oxford Internet Institute\n- “Computational Propaganda Project” — Oxford Internet Institute\n- Bots increase exposure to negative and inflammatory content in online social systems",
+        "links": [
+          "https://www.thalesgroup.com/en/worldwide/defence-and-security/press_release/artificial-intelligence-fuels-rise-hard-detect-bots#:~:text=Automated%20bot%20traffic%20surpassed%20human,bot%20activity%2C%20posing%20security%20challenges",
+          "https://only-bots.ai/?tab=home",
+          "https://www.newsguardtech.com/special-reports/ai-tracking-center/#:~:text=To%20date%2C%20NewsGuard%E2%80%99s%20team%20has,Spanish%2C%20Tagalog%2C%20Thai%2C%20and%20Turkish",
+          "https://www.oii.ox.ac.uk/research/projects/computational-propaganda/",
+          "https://share.google/uA7GekTFTohjvvW4q",
+          "https://www.pnas.org/doi/full/10.1073/pnas.1803470115?utm_source=chatgpt.com",
+          "https://en.wikipedia.org/wiki/Be_Right_Back"
+        ],
         "files": []
       }
     }
@@ -616,6 +1330,196 @@
       "s": "n8ajhvae",
       "t": "n4uvnp8s",
       "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "n7utwmat",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "nk21xyvd",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "ni4j89tf",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "n5ytyus0",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "nl669c65",
+      "dashed": false
+    },
+    {
+      "s": "nlqsfith",
+      "t": "n29mz2fv",
+      "dashed": false
+    },
+    {
+      "s": "nr64a4c7",
+      "t": "n29mz2fv",
+      "dashed": false
+    },
+    {
+      "s": "n3ghor9n",
+      "t": "n29mz2fv",
+      "dashed": false
+    },
+    {
+      "s": "no1buysv",
+      "t": "n29mz2fv",
+      "dashed": false
+    },
+    {
+      "s": "nwoul3rw",
+      "t": "n29mz2fv",
+      "dashed": false
+    },
+    {
+      "s": "n4uvnp8s",
+      "t": "n29mz2fv",
+      "dashed": false
+    },
+    {
+      "s": "n7utwmat",
+      "t": "n29mz2fv",
+      "dashed": false
+    },
+    {
+      "s": "nk21xyvd",
+      "t": "n29mz2fv",
+      "dashed": false
+    },
+    {
+      "s": "ni4j89tf",
+      "t": "n29mz2fv",
+      "dashed": false
+    },
+    {
+      "s": "n5ytyus0",
+      "t": "n29mz2fv",
+      "dashed": false
+    },
+    {
+      "s": "nl669c65",
+      "t": "n29mz2fv",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "nr6uu86x",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "n9o62p3k",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "nyej8hm2",
+      "dashed": false
+    },
+    {
+      "s": "nr6uu86x",
+      "t": "nczvdvw6",
+      "dashed": false
+    },
+    {
+      "s": "n9o62p3k",
+      "t": "nczvdvw6",
+      "dashed": false
+    },
+    {
+      "s": "nyej8hm2",
+      "t": "nczvdvw6",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "ntmj1xey",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "nljoqg7a",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "n05k9l8c",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "nk0ypvdj",
+      "dashed": false
+    },
+    {
+      "s": "nk0ypvdj",
+      "t": "nzqg4ixt",
+      "dashed": false
+    },
+    {
+      "s": "n05k9l8c",
+      "t": "nzqg4ixt",
+      "dashed": false
+    },
+    {
+      "s": "nljoqg7a",
+      "t": "nzqg4ixt",
+      "dashed": false
+    },
+    {
+      "s": "ntmj1xey",
+      "t": "nzqg4ixt",
+      "dashed": false
+    },
+    {
+      "s": "nzqg4ixt",
+      "t": "na2p5erz",
+      "dashed": false
+    },
+    {
+      "s": "na2p5erz",
+      "t": "nqe4ifd4",
+      "dashed": false
+    },
+    {
+      "s": "nczvdvw6",
+      "t": "n2td8cpn",
+      "dashed": false
+    },
+    {
+      "s": "n2td8cpn",
+      "t": "nzax204c",
+      "dashed": false
+    },
+    {
+      "s": "n29mz2fv",
+      "t": "nnyihtc8",
+      "dashed": false
+    },
+    {
+      "s": "nnyihtc8",
+      "t": "n7gwvr8o",
+      "dashed": false
+    },
+    {
+      "s": "n7gx2wb4",
+      "t": "nmi1u4gp",
+      "dashed": false
+    },
+    {
+      "s": "nmi1u4gp",
+      "t": "n6hv8li6",
+      "dashed": false
     }
   ],
   "vocab": {
@@ -628,48 +1532,75 @@
       "Design research"
     ],
     "tags": [
-      "Distorted perception",
-      "Manipolation",
-      "Prospective",
-      "Cherry picking",
-      "Mediatic void",
-      "False balance",
-      "Sensationalized",
-      "Click baiting",
-      "Spectacularization",
-      "Automation",
       "Non-human",
-      "Spam",
-      "Bots",
-      "Ai",
-      "Artificial",
       "Dead internet theory",
-      "Inconclusive activism",
-      "Advertising purposes",
+      "Manipulation",
+      "Artificial",
+      "Ai",
+      "Bots",
+      "Algorithm",
+      "Scapegoating",
+      "Polarization",
+      "Monsters",
+      "Demonization",
+      "Dehumanization",
+      "Common enemy",
+      "Discrimination",
+      "Fake news",
+      "Immediacy",
+      "Pseudo-environments",
+      "Digital agnotology",
+      "Infodemic",
+      "Information inflation",
+      "Cognitive laziness",
+      "Post-truth",
+      "Tribalism",
+      "Spectacularization",
+      "Negativity bias",
+      "Framing",
+      "Media overshadowing",
+      "Anger",
+      "Rage baiting",
+      "Argument culture",
+      "Cancel culture",
+      "Shitstorm",
       "Washing",
+      "Slacktivism",
+      "Filter bubbles",
+      "Click baiting",
+      "False balance",
+      "Mediatic void",
+      "Cherry picking",
+      "Deviancy amplification",
+      "Censorship",
+      "Rumor cascade",
+      "Debate",
+      "Tension",
+      "Conflict",
+      "Distorted perception",
+      "Prospective",
+      "Fact-checking",
+      "Rumor machine",
+      "Manipolation",
+      "Contrast",
+      "Inconclusive activism",
+      "Automation",
+      "Sensationalized",
+      "Spam",
+      "Advertising purposes",
       "Rainbow-washing",
       "Social symbols",
       "Activism",
       "Symbolic",
       "Low-effort",
-      "Slacktivism",
-      "Filter bubbles",
       "Portion",
-      "Polarization",
       "Personalized",
-      "Algorithm",
       "Interaction",
-      "Debate",
       "Debates",
-      "Tension",
       "Conflict node",
       "Deepfake",
-      "Rumor machine",
       "Storytelling",
       "Echo chambers",
-      "Fact-checking",
-      "Fake news",
-      "Framing",
       "Framingfake news",
       "Participation",
       "Rhythm",
@@ -688,13 +1619,12 @@
       "Digital media",
       "Traditional media",
       "Filter",
-      "Contrast",
       "Media",
       "Mediatic conflict",
-      "Mediatic",
-      "Conflict"
+      "Mediatic"
     ],
     "type": [
+      "Source",
       "Finding",
       "Brief"
     ]
