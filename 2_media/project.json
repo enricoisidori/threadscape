@@ -6,7 +6,7 @@
       "x": 0,
       "y": 0,
       "w": 320,
-      "h": 733,
+      "h": 807,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -40,13 +40,13 @@
     },
     {
       "id": "n4q8mtzu",
-      "x": 480,
-      "y": 0,
+      "x": 433.1146249473046,
+      "y": 1.2338256592814538,
       "w": 320,
-      "h": 343,
+      "h": 344,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Media conflict",
         "type": "Brief",
         "action": null,
@@ -73,20 +73,289 @@
     },
     {
       "id": "narc5piv",
-      "x": 967.4545367051034,
-      "y": 412.63065299013505,
+      "x": 891.1676396046548,
+      "y": -422.1547016249753,
       "w": 320,
-      "h": 172,
+      "h": 524,
       "group": null,
       "data": {
-        "date": "2025-09-23",
-        "title": "prova nodo",
-        "type": "",
-        "action": null,
+        "date": "2025-09-19",
+        "title": "Analysis of the meaning of words",
+        "type": "Finding",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
-        "tags": [],
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Conflict",
+          "Mediatic",
+          "Mediatic conflict",
+          "Media",
+          "Contrast",
+          "Filter"
+        ],
+        "desc": "The term conflict, from Latin confligere (“to clash”), refers to a contrast between forces, interests, or values: it can be social and political (between states, ideologies, groups), cultural and symbolic (between narratives and languages), or psychological (inner tension). It is not only physical confrontation but also a struggle over how reality is interpreted. \nMediatic, from “media” (means of communication), points to what is spread and amplified through press, TV, radio, social networks, and digital platforms: information is always filtered by formats, interests, and algorithms. \nMediatic conflict thus means a clash occurring through media (propaganda, narrative wars, manipulation) or one fueled by them, amplifying existing tensions.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n33v6zkp",
+      "x": 1369.878517546689,
+      "y": -462.11748542191214,
+      "w": 320,
+      "h": 643,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "How information is transmitted",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Traditional media",
+          "Digital media",
+          "Interactive and instant media",
+          "Emerging media",
+          "Press",
+          "Radio",
+          "Television",
+          "News website",
+          "Social media",
+          "Blogs",
+          "Podcast",
+          "Messaging apps",
+          "Livestreaming",
+          "Ai"
+        ],
+        "desc": "1) Traditional Media (Broadcasting): press offers slower but deeper coverage, historically setting the agenda; radio is immediate and oral; television dominates with powerful visuals and one-to-many reach, still key in crises.\n\n2) Digital Media: news websites provide continuous updates; social media spread rapid, fragmented, algorithm-filtered content; blogs and forums host opinion exchange; podcasts mix depth and storytelling.\n\n3) Interactive & Instant Media: messaging apps enable fast, private sharing but fuel rumors; live streaming allows real-time participation; citizen journalism turns anyone with a smartphone into a reporter.\n\n4) Emerging Media: generative AI automates news, creates chatbots and deepfakes; AR/VR enable immersive reporting; decentralized platforms offer alternative, non-centralized models.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nj9i7j9s",
+      "x": 1849.878517546689,
+      "y": -462.11748542191214,
+      "w": 320,
+      "h": 350,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Common features",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Code",
+          "Rhythm",
+          "Participation"
+        ],
+        "desc": "All media use a code, whether verbal, visual, or sound; they follow a specific rhythm, such as daily for newspapers, 24/7 for television, and instant for social media; they differ in the level of participation, with traditional media involving a passive audience, while digital media engage an active one that shares, comments, and produces content.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nuvhscua",
+      "x": 1849.878517546689,
+      "y": -72.11748542191214,
+      "w": 320,
+      "h": 555,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Possible points of conflict for the major media in general",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Framing",
+          "Fake news",
+          "Fact-checking",
+          "Echo chambers",
+          "Storytelling",
+          "Rumor machine",
+          "Deepfake",
+          "Manipolation",
+          "Polarization",
+          "Spectacularization"
+        ],
         "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-23 at 12.12.53.png",
+            "size": 309931,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-23_at_12.12.53.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8ajhvae",
+      "x": 2329.878517546689,
+      "y": -72.11748542191214,
+      "w": 320,
+      "h": 468,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Conflict node",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Conflict node",
+          "Tension",
+          "Debate",
+          "Interaction"
+        ],
+        "desc": "A conflict node is a critical point within a process, narrative, or social dynamic where different interests, values, or objectives collide. It marks the moment when tensions become visible and opposing forces come into direct confrontation, often requiring dialogue, negotiation, or resolution. \nIn media and communication studies, conflict nodes appear when contrasting narratives, interests, or perspectives intersect in news coverage, online debates, or social media interactions. They play a key role in shaping public discourse, as they expose underlying tensions, capture collective attention, trigger participation, and can ultimately drive cultural or social change.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nlqsfith",
+      "x": 2750.0817053462933,
+      "y": 750.0327823289945,
+      "w": 320,
+      "h": 406,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Filter Bubbles",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Filter bubbles",
+          "Algorithm",
+          "Personalized",
+          "Polarization",
+          "Portion"
+        ],
+        "desc": "Personalized information ecosystems created by algorithms that show users only content reflecting their own beliefs.\n- They polarize people because you mostly see those who agree with you and increasingly extreme content. \n- You never gain a complete view of reality, but only a portion shaped by your preconceptions, leading to an illusion of control.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n144gzcb",
+      "x": 2803.0789837049197,
+      "y": -391.85249520125427,
+      "w": 320,
+      "h": 316,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Slacktivism",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Slacktivism",
+          "Low-effort",
+          "Symbolic",
+          "Activism"
+        ],
+        "desc": "A critical term describing forms of “low-effort” activism, mostly typical of online contexts.\nThose who engage in symbolic gestures may feel “absolved” and fail to move on to more effective forms of activism.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npqu7tjd",
+      "x": 2803.0789837049197,
+      "y": -47.18505160420356,
+      "w": 320,
+      "h": 390,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Washing",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Washing",
+          "Social symbols",
+          "Rainbow-washing",
+          "Advertising purposes"
+        ],
+        "desc": "Term that describes the strategy by which companies, institutions, or brands appropriate social symbols and causes to “clean up” their image without real commitment (e.g., rainbow-washing, green-washing, pink-washing).\nCompanies have no interest in actually resolving the conflict; their goal is solely to improve their image for advertising purposes.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6kap6uo",
+      "x": 3238.304510444443,
+      "y": -225.91054551428343,
+      "w": 320,
+      "h": 333,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Inconclusive activism",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Inconclusive activism"
+        ],
+        "desc": "Inconclusive Activism refers to forms of activism that raise awareness or signal support for a cause but do not lead to concrete outcomes or meaningful change. It often involves symbolic actions without sustained effort toward resolving the underlying issues.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n31bv9vn",
+      "x": 2789.4799160213806,
+      "y": 400.48732284195864,
+      "w": 320,
+      "h": 321,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Dead Internet Theory",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [],
+        "desc": "The Internet is supposed to be a dynamic, open space populated by real users engaging in genuine interactions.\nThe problem arises from bots, spam, AI, and fake accounts. Social interactions can become artificial, making it difficult to distinguish between human and non-human activity.",
         "links": [],
         "files": []
       }
@@ -102,18 +371,123 @@
       "s": "n4q8mtzu",
       "t": "narc5piv",
       "dashed": false
+    },
+    {
+      "s": "narc5piv",
+      "t": "n33v6zkp",
+      "dashed": false
+    },
+    {
+      "s": "n33v6zkp",
+      "t": "nj9i7j9s",
+      "dashed": false
+    },
+    {
+      "s": "n33v6zkp",
+      "t": "nuvhscua",
+      "dashed": false
+    },
+    {
+      "s": "nuvhscua",
+      "t": "n8ajhvae",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "nlqsfith",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "n144gzcb",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "npqu7tjd",
+      "dashed": false
+    },
+    {
+      "s": "npqu7tjd",
+      "t": "n6kap6uo",
+      "dashed": false
+    },
+    {
+      "s": "n144gzcb",
+      "t": "n6kap6uo",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "n31bv9vn",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Design research",
-      "Socio-political",
-      "Media studies",
+      "Research",
+      "Critical design",
       "Communication",
-      "Critical design"
+      "Media studies",
+      "Socio-political",
+      "Design research"
     ],
-    "tags": [],
+    "tags": [
+      "Inconclusive activism",
+      "Advertising purposes",
+      "Washing",
+      "Rainbow-washing",
+      "Social symbols",
+      "Activism",
+      "Symbolic",
+      "Low-effort",
+      "Slacktivism",
+      "Filter bubbles",
+      "Portion",
+      "Polarization",
+      "Personalized",
+      "Algorithm",
+      "Interaction",
+      "Debate",
+      "Debates",
+      "Tension",
+      "Conflict node",
+      "Spectacularization",
+      "Manipolation",
+      "Deepfake",
+      "Rumor machine",
+      "Storytelling",
+      "Echo chambers",
+      "Fact-checking",
+      "Fake news",
+      "Framing",
+      "Framingfake news",
+      "Participation",
+      "Rhythm",
+      "Code",
+      "Ai",
+      "Livestreaming",
+      "Messaging apps",
+      "Podcast",
+      "Blogs",
+      "Social media",
+      "News website",
+      "Television",
+      "Radio",
+      "Press",
+      "Emerging media",
+      "Interactive and instant media",
+      "Digital media",
+      "Traditional media",
+      "Filter",
+      "Contrast",
+      "Media",
+      "Mediatic conflict",
+      "Mediatic",
+      "Conflict"
+    ],
     "type": [
+      "Finding",
       "Brief"
     ]
   }
