@@ -3,8 +3,8 @@
   "nodes": [
     {
       "id": "ny15p0wg",
-      "x": 0,
-      "y": 0,
+      "x": -12,
+      "y": 1560,
       "w": 320,
       "h": 776,
       "group": null,
@@ -398,8 +398,8 @@
     },
     {
       "id": "naho5qrg",
-      "x": 960,
-      "y": 0,
+      "x": 976,
+      "y": 24,
       "w": 320,
       "h": 290,
       "group": null,
@@ -408,7 +408,7 @@
         "title": "Bias",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
           "Data ethics",
           "Critical design",
@@ -429,8 +429,8 @@
     },
     {
       "id": "nxpd6wfv",
-      "x": 960,
-      "y": 330,
+      "x": 992,
+      "y": 3404.085036525828,
       "w": 320,
       "h": 312,
       "group": null,
@@ -438,7 +438,7 @@
         "date": "2025-09-16",
         "title": "Psychology ",
         "type": "Research",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Data ethics",
@@ -450,6 +450,8 @@
         "tags": [
           "Identities",
           "Data perception",
+          "Metrics distortion",
+          "Subjective reality",
           "Measuring the unmeasurable"
         ],
         "desc": "",
@@ -459,14 +461,14 @@
     },
     {
       "id": "n6rclgnn",
-      "x": 960,
-      "y": 682,
+      "x": 964.4945428293795,
+      "y": 5632.821973066602,
       "w": 320,
       "h": 290,
       "group": null,
       "data": {
         "date": "2025-09-16",
-        "title": "Data manipulation",
+        "title": "Manipulation",
         "type": "Research",
         "action": null,
         "mainArea": null,
@@ -488,8 +490,8 @@
     },
     {
       "id": "novetno4",
-      "x": 960,
-      "y": 1012,
+      "x": 968,
+      "y": 7633.905963398707,
       "w": 320,
       "h": 312,
       "group": null,
@@ -497,7 +499,7 @@
         "date": "2025-09-16",
         "title": "Measurement",
         "type": "Research",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Data ethics",
@@ -509,7 +511,8 @@
         "tags": [
           "Biometric data",
           "Big data",
-          "Measuring the unmeasurable"
+          "Measuring the unmeasurable",
+          "Relativity"
         ],
         "desc": "",
         "links": [],
@@ -518,8 +521,8 @@
     },
     {
       "id": "nh5ks9sq",
-      "x": 1440,
-      "y": 604,
+      "x": 1428,
+      "y": -1088,
       "w": 320,
       "h": 376,
       "group": null,
@@ -546,8 +549,8 @@
     },
     {
       "id": "ntnshd31",
-      "x": 1440,
-      "y": 1020,
+      "x": 1432,
+      "y": -688,
       "w": 320,
       "h": 504,
       "group": null,
@@ -580,8 +583,8 @@
     },
     {
       "id": "ne9u5x9s",
-      "x": 1440,
-      "y": 1564,
+      "x": 1436,
+      "y": -152,
       "w": 320,
       "h": 644,
       "group": null,
@@ -612,8 +615,8 @@
     },
     {
       "id": "n46nch3c",
-      "x": 1440,
-      "y": 0,
+      "x": 1424,
+      "y": -1676,
       "w": 320,
       "h": 564,
       "group": null,
@@ -644,8 +647,8 @@
     },
     {
       "id": "nlbzpmi1",
-      "x": 1440,
-      "y": 2248,
+      "x": 1432,
+      "y": 507.9999999999998,
       "w": 320,
       "h": 420,
       "group": null,
@@ -675,8 +678,8 @@
     },
     {
       "id": "n0s7shor",
-      "x": 1440,
-      "y": 2708,
+      "x": 1432,
+      "y": 947.9999999999998,
       "w": 320,
       "h": 708,
       "group": null,
@@ -706,8 +709,8 @@
     },
     {
       "id": "nmrx6tr0",
-      "x": 1440,
-      "y": 3456,
+      "x": 1432,
+      "y": 1675.9999999999998,
       "w": 320,
       "h": 548,
       "group": null,
@@ -737,14 +740,255 @@
     },
     {
       "id": "n774n60n",
-      "x": 1440,
-      "y": 4044,
+      "x": 1432.170073051656,
+      "y": 2374.2048534721634,
       "w": 320,
-      "h": 233,
+      "h": 468,
       "group": null,
       "data": {
         "date": "2025-09-23",
-        "title": "",
+        "title": "rashmon effect",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Subjective reality"
+        ],
+        "desc": "The Rashomon effect is a term derived from the classic 1950 Japanese film Rashomon, which explores the concept of subjective reality and the nature of truth by presenting differing accounts of a single event from the perspectives of multiple characters.\n",
+        "links": [
+          "https://www.dictionary.com/e/pop-culture/the-rashomon-effect/ https://www.youtube.com/watch?v=M33BC3ZLFG4"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ntjbrkid",
+      "x": 1425.5306574649012,
+      "y": 2863.055218730442,
+      "w": 320,
+      "h": 468,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Goodhart's Law",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Metrics distortion"
+        ],
+        "desc": "According to Goodhart’s law, when a measure becomes a target it loses its value, as pressure on metrics distorts their meaning. This reduction of reality to what can be measured risks overlooking qualitative and complex aspects such as intentions or values.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Goodhart%27s_law https://thedailyeconomy.org/article/goodharts-law-explains-school-decay/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nk8doei5",
+      "x": 1427.8146189012596,
+      "y": 3343.055218730442,
+      "w": 320,
+      "h": 436,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Measuring humans",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Metrics distortion",
+          "Subjective reality"
+        ],
+        "desc": "The “metric conflict” arises from trying to reduce emotions and happiness—subjective, nuanced experiences—into objective numbers and scores. While this quantification reassures and allows comparisons, it diminishes the complexity of human experience and can distance us from true happiness.",
+        "links": [
+          "https://lsz.at/blog/myths-measuring-humans"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ncyo6xkn",
+      "x": 1420.4997595606364,
+      "y": 3797.110640708573,
+      "w": 320,
+      "h": 516,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Categorizations",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Identities",
+          "Subjective reality"
+        ],
+        "desc": "It is imprinted into our minds that In order to like certain things you also have to look a certain way. People enjoying particular brands or activities, especially with those that are similar, is not an inherently bad thing. It becomes alarming, however, when they start to shift their identities to fit inside a pre-packaged box.\n",
+        "links": [
+          "https://sjhexpress.com/ae/2021/01/18/the-toxicity-of-aesthetics/ https://spec.hamilton.edu/conformity-and-consumerism-the-problems-with-following-aesthetics-895d1eb3d7a8"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nhgcv8x9",
+      "x": 1418.6533713807403,
+      "y": 4309.031396245528,
+      "w": 320,
+      "h": 436,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Solipsism",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Subjective reality"
+        ],
+        "desc": "Solipsism is the philosophical doctrine that an individual can be certain only of their own existence, as everything perceived appears external but truly exists only within their own consciousness, making the universe a representation of their mind.",
+        "links": [
+          "https://mondodomani.org/dialegesthai/articoli/alessandra-lucia-01"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n708nf94",
+      "x": 1404,
+      "y": 4853.658985859224,
+      "w": 320,
+      "h": 468,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "The data comprehension problem",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Data representation"
+        ],
+        "desc": "The data comprehension problem arises when even small, simple datasets are inaccessible due to poor presentation. Anderson emphasizes presenting data clearly, shifting the question from “I don’t understand” to “Why isn’t this shown in a way we can understand?” to turn confusion into clarity through meaningful visual organization.\n",
+        "links": [
+          "https://www.youtube.com/watch?v=DahAiSRdJWI https://www.youtube.com/watch?v=e2xKL1b73cU"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ns37z9qr",
+      "x": 1401.126302155331,
+      "y": 5331.911590169886,
+      "w": 320,
+      "h": 450,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Deceptive design",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Deceptive pattern"
+        ],
+        "desc": "A dark/deceptive pattern is a user interface intentionally designed to make people take actions they normally wouldn’t or that aren’t in their best interest. It exploits cognitive biases or confusion—like hidden costs, making it easy to join a service but hard to leave, or hiding the “decline” option.\n",
+        "links": [
+          "https://www.deceptive.design https://www.deceptive.design/types"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n8uis8n6",
+      "x": 1399.323932658816,
+      "y": 5800.470932159792,
+      "w": 320,
+      "h": 478,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Misleading statistics",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Data representation"
+        ],
+        "desc": "Common data misinterpretations include cherry-picking supportive data, confusing correlation with causation, generalizing from small samples, presenting percentages without context, and misreading cumulative probabilities. These errors can lead to misleading or inaccurate conclusions.",
+        "links": [
+          "https://libguides.usask.ca/CriticalThinkingTutorial/HowReasoningFails/StatisticalMisrepresentation https://www.youtube.com/watch?v=qN4FjdyiDNg https://www.youtube.com/watch?v=Tg6e2Y3IEUk https://www.youtube.com/watch?v=Uyd_Fk9cDjA"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nk03ub35",
+      "x": 1399.2591950395984,
+      "y": 6296.1498588792565,
+      "w": 320,
+      "h": 696,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Data Manipulation and Case Studies",
         "type": "Research",
         "action": null,
         "mainArea": null,
@@ -756,8 +1000,101 @@
           "Digital governance"
         ],
         "tags": [],
-        "desc": "",
-        "links": [],
+        "desc": "The manipulation of data can be observed in the following examples:\n1.⁠ ⁠The Mars Climate Orbiter Crash (1999) – Unit Conversion Error\n2.⁠ ⁠COVID-19 Data Reporting Variability (2020–2022) – Inconsistent Health Metrics\n3.⁠ ⁠Flint Water Crisis Lead Levels (2014–2016) – Sampling and Representation Bias\n4.⁠ ⁠Brexit Campaign (2016) – Misleading Data Representation",
+        "links": [
+          "https://www.factcheck.org/the-factcheck-wire/ https://www.factcheck.org/2025/09/trump-again-overstates-number-of-drug-overdose-deaths-in-u-s/ https://www.factcheck.org/2025/09/after-kirks-death-a-false-social-media-post-on-partisan-reaction-to-violence/ https://www.factcheck.org/2025/09/few-mass-shooters-have-been-transgender/ https://www.factcheck.org/2025/09/few-mass-shooters-have-been-transgender/ https://libguides.usask.ca/CriticalThinkingTutorial/HowReasoningFails/StatisticalMisrepresentation https://www.academia.edu/32949865/IL_GIOCO_DELL_IMITAZIONE_stereotipi_umani_big_data_e_algoritmi?utm_source=chatgpt.com"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nr85lj60",
+      "x": 1394.9354656833277,
+      "y": 7034.246204705042,
+      "w": 320,
+      "h": 502,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "datafication",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Big data"
+        ],
+        "desc": "The digital quantification of human life—behaviors, relationships, and habits—often to generate economic value. This contemporary phenomenon has significant social consequences, with scholars across disciplines analyzing its intersection of power and knowledge.\n",
+        "links": [
+          "https://tcf.org/content/report/datafication-employment-surveillance-capitalism-shaping-workers-futures-without-knowledge/?utm_source=chatgpt.com",
+          "https://policyreview.info/concepts/datafication"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nn5n9f9p",
+      "x": 1393.351447218082,
+      "y": 7549.409562393565,
+      "w": 320,
+      "h": 484,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "measuring the impossibile",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Measuring the unmeasurable"
+        ],
+        "desc": "“Measuring the Impossible” aims to bridge objectivism and empiricism by combining methods across disciplines to quantify subjective human experiences, from perception to comfort. Selected projects explore consciousness, naturalness, perceptual awareness, and sensory expectations, enhancing understanding and innovation in emerging technologies.\n",
+        "links": [
+          "https://cordis.europa.eu/article/id/26387-measuring-the-impossible/it"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nty4y52n",
+      "x": 1391.9585428595637,
+      "y": 8059.428310242354,
+      "w": 320,
+      "h": 484,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Theory of relativity",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Relativity"
+        ],
+        "desc": "Incompatibility of measurement methods: Two different measurement procedures can yield different results for the same quantity.\nMeasurement uncertainty: Variations in results for the same quantity arise due to inherent limitations and precision of the measurement process.\n",
+        "links": [
+          "https://www.infn.it/fisica/fisica-delluniverso/einstein-e-la-relativita-generale/ https://www.fondazioneleonardo.com/stories/esempi-teoria-relativita-vita-quotidiana-einstein"
+        ],
         "files": []
       }
     }
@@ -877,6 +1214,61 @@
       "s": "nxpd6wfv",
       "t": "n774n60n",
       "dashed": false
+    },
+    {
+      "s": "nxpd6wfv",
+      "t": "ntjbrkid",
+      "dashed": false
+    },
+    {
+      "s": "nxpd6wfv",
+      "t": "nk8doei5",
+      "dashed": false
+    },
+    {
+      "s": "nxpd6wfv",
+      "t": "ncyo6xkn",
+      "dashed": false
+    },
+    {
+      "s": "nxpd6wfv",
+      "t": "nhgcv8x9",
+      "dashed": false
+    },
+    {
+      "s": "n6rclgnn",
+      "t": "n708nf94",
+      "dashed": false
+    },
+    {
+      "s": "n6rclgnn",
+      "t": "ns37z9qr",
+      "dashed": false
+    },
+    {
+      "s": "n6rclgnn",
+      "t": "n8uis8n6",
+      "dashed": false
+    },
+    {
+      "s": "n6rclgnn",
+      "t": "nk03ub35",
+      "dashed": false
+    },
+    {
+      "s": "novetno4",
+      "t": "nr85lj60",
+      "dashed": false
+    },
+    {
+      "s": "novetno4",
+      "t": "nn5n9f9p",
+      "dashed": false
+    },
+    {
+      "s": "novetno4",
+      "t": "nty4y52n",
+      "dashed": false
     }
   ],
   "vocab": {
@@ -889,16 +1281,21 @@
       "Critical design"
     ],
     "tags": [
+      "Relativity",
+      "Big data",
+      "Data representation",
+      "Measuring the unmeasurable",
+      "Deceptive pattern",
+      "Data comprehension",
+      "Data co",
+      "Subjective reality",
+      "Identities",
+      "Metrics distortion",
+      "Data perception",
       "Cognitive bias",
       "Algorithmic bias",
       "Statistic bias",
-      "Identities",
-      "Data perception",
-      "Deceptive pattern",
-      "Biometric data",
-      "Big data",
-      "Measuring the unmeasurable",
-      "Data representation"
+      "Biometric data"
     ],
     "type": [
       "Research",
