@@ -1,0 +1,908 @@
+{
+  "version": 6,
+  "nodes": [
+    {
+      "id": "ny15p0wg",
+      "x": 0,
+      "y": 0,
+      "w": 320,
+      "h": 776,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Conflict: a Distributed Condition: Contemporary War Ecologies",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Socio-political",
+          "Media studies",
+          "Communication",
+          "Cultural practices",
+          "Critical design",
+          "Design research",
+          "Political ecology"
+        ],
+        "tags": [
+          "Distributed conflict",
+          "Latent violence",
+          "Systemic friction",
+          "Post-territorial",
+          "Embedded warfare",
+          "Socio-technical ecologies",
+          "Structural inequality",
+          "Cultural infrastructures"
+        ],
+        "desc": "\nConflict is not an exception or an isolated event — it is a constant condition running through society. It is not limited to war or explicit clashes: it emerges within collective life as friction, as a continuous confrontation between competing needs, systems, and visions.\nIt is not a punctual episode but a latent and distributed condition. It takes on asymmetric, often invisible forms, embedded in cultural practices, social relations, and infrastructures. Its logic is not confined to violence: it also structures coexistence, shaping who holds privilege and who is pushed to the margins.\nExploring distributed conflicts means reading the present as a field where techniques of offense multiply and blur into the infrastructures society depends on. The goal is to generate critical devices, scenarios, and questions that probe the ambiguous nature of conflict as a diffuse condition in a post-territorial age.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqaspco0",
+      "x": 480,
+      "y": 0,
+      "w": 320,
+      "h": 312,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Linguistic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Media studies",
+          "Semiotics",
+          "Communication design",
+          "Interface design",
+          "Cultural studies"
+        ],
+        "tags": [
+          "Memetics",
+          "Persuasive rhetoric",
+          "Semiotic warfare",
+          "Language manipulation",
+          "Interface politics",
+          "Discourse control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4q8mtzu",
+      "x": 480,
+      "y": 352,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Media conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Media theory",
+          "Journalism studies",
+          "Information systems",
+          "Political communication",
+          "Critical media design"
+        ],
+        "tags": [
+          "Propaganda systems",
+          "Disinformation",
+          "Deepfake",
+          "Rumor propagation",
+          "Narrative control",
+          "Attention economy"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwl9ouvl",
+      "x": 480,
+      "y": 726,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cognitive conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies"
+        ],
+        "tags": [
+          "Neurocontrol",
+          "Brain hacking",
+          "Cognitive warfare",
+          "Neural interfaces",
+          "Psychopolitics"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npongriz",
+      "x": 480,
+      "y": 1100,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Metric conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Algorithmic bias",
+          "Data politics",
+          "Scoring systems",
+          "Quantification",
+          "Metric governance",
+          "Predictive control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7z0p86f",
+      "x": 480,
+      "y": 1474,
+      "w": 320,
+      "h": 290,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Symbolic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Cultural studies",
+          "Art history",
+          "Memory studies",
+          "Heritage studies",
+          "Semiotics"
+        ],
+        "tags": [
+          "Cultural memory",
+          "Heritage politics",
+          "Myth-making",
+          "Iconographic power",
+          "Narrative hegemony",
+          "Semiotic infrastructures"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n92sunmm",
+      "x": 480,
+      "y": 1804,
+      "w": 320,
+      "h": 290,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cultural conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Anthropology",
+          "Sociology",
+          "Cultural theory",
+          "Futures studies",
+          "Ethics"
+        ],
+        "tags": [
+          "Value systems",
+          "Ideological friction",
+          "Cultural hegemony",
+          "Future imaginaries",
+          "Norm contestation"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3vsqfai",
+      "x": 480,
+      "y": 2134,
+      "w": 320,
+      "h": 290,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Social conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Sociology",
+          "Political science",
+          "Law and rights studies",
+          "Social policy",
+          "Critical theory"
+        ],
+        "tags": [
+          "Citizenship struggles",
+          "Rights negotiation",
+          "Representation crisis",
+          "Social stratification",
+          "Identity politics"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncob3sst",
+      "x": 480,
+      "y": 2464,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Bureaucratic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Legal studies",
+          "Political geography",
+          "Bureaucracy studies",
+          "Governance",
+          "Critical urbanism"
+        ],
+        "tags": [
+          "Administrative violence",
+          "Legal cartographies",
+          "Border regimes",
+          "Paper governance",
+          "Procedural control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ne7rohui",
+      "x": 480,
+      "y": 2838,
+      "w": 320,
+      "h": 312,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Digital conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Computer science",
+          "Cybersecurity",
+          "Digital geopolitics",
+          "Ai ethics",
+          "Critical infrastructure studies"
+        ],
+        "tags": [
+          "Automation control",
+          "Kill chain",
+          "Ai warfare",
+          "Protocol politics",
+          "Simulated conflict",
+          "Cyberwarfare"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nr86jk3r",
+      "x": 480,
+      "y": 3190,
+      "w": 320,
+      "h": 312,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Ecological conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Political ecology",
+          "Environmental studies",
+          "Sustainability studies",
+          "Geography",
+          "Climate justice"
+        ],
+        "tags": [
+          "Geoengineering",
+          "Resource wars",
+          "Ecocide",
+          "Energy politics",
+          "Environmental violence",
+          "Multispecies justice"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvlahv4k",
+      "x": 480,
+      "y": 3542,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Infrastructural conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Infrastructure studies",
+          "Urban studies",
+          "Political geography",
+          "Systems theory",
+          "Supply chain studies"
+        ],
+        "tags": [
+          "Logistics power",
+          "Infrastructural geopolitics",
+          "Network control",
+          "Chokepoints",
+          "Extractive systems"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "naho5qrg",
+      "x": 960,
+      "y": 0,
+      "w": 320,
+      "h": 290,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Bias",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical design",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Algorithmic bias",
+          "Cognitive bias",
+          "Statistic bias"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nxpd6wfv",
+      "x": 960,
+      "y": 330,
+      "w": 320,
+      "h": 312,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Psychology ",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Identities",
+          "Data perception",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6rclgnn",
+      "x": 960,
+      "y": 682,
+      "w": 320,
+      "h": 290,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Data manipulation",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Data representation",
+          "Deceptive pattern"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "novetno4",
+      "x": 960,
+      "y": 1012,
+      "w": 320,
+      "h": 312,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Measurement",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Biometric data",
+          "Big data",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nh5ks9sq",
+      "x": 1440,
+      "y": 604,
+      "w": 320,
+      "h": 376,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Biased Survey",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Cognitive bias"
+        ],
+        "desc": "Intentionally guiding the interviewee along a path toward a certain answer, or phrased in a way that is confusing, leading to unclear answers.",
+        "links": [
+          "https://trustmary.com/surveys/5-examples-of-biased-survey-questions-and-why-you-should-avoid-them/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ntnshd31",
+      "x": 1440,
+      "y": 1020,
+      "w": 320,
+      "h": 504,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Framing Effect",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Data ethics",
+          "Critical design",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Cognitive bias",
+          "Data representation"
+        ],
+        "desc": "Cognitive bias that demonstrates how people's decisions and perceptions are influenced by the way information is presented (or “framed”) rather than by its objective content",
+        "links": [
+          "https://www.giuseppemotta.it/bias-cognitivi-ovvero-come-i-pregiudizi-influiscono-sul-ragionamento/",
+          "https://psicoterapiascientifica.it/recensione-pensieri-lenti-veloci/",
+          "https://www.verywellmind.com/the-framing-effect-in-psychology-8713689"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ne9u5x9s",
+      "x": 1440,
+      "y": 1564,
+      "w": 320,
+      "h": 644,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Helthcare and gender bias",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical design",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Statistic bias",
+          "Algorithmic bias"
+        ],
+        "desc": "Gender bias in medical research stems from the historical exclusion of women, the assumption they are just “smaller men,” and poor reporting of sex and gender. This data gap leads to misdiagnosis, inadequate treatments, and a lack of understanding of biological differences across sexes.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC8812498/ https://time.com/7171341/gender-gap-medical-research/ https://www.jmir.org/2025/1/e72325/PDF https://pmc.ncbi.nlm.nih.gov/articles/PMC11735179/ https://pubmed.ncbi.nlm.nih.gov/38273982/ https://pubmed.ncbi.nlm.nih.gov/40661269/ https://magazine.hms.harvard.edu/articles/how-gender-bias-medicine-has-shaped-womens-health https://www.bumc.bu.edu/camed/2023/06/27/study-unpacks-how-medical-systems-harm-the-intersex-community/ https://www.theguardian.com/lifeandstyle/2019/nov/13/the-female-problem-male-bias-in-medical-trials"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n46nch3c",
+      "x": 1440,
+      "y": 0,
+      "w": 320,
+      "h": 564,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Ranking systems",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical design",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Algorithmic bias",
+          "Cognitive bias"
+        ],
+        "desc": "Ranking bias is a form of anchoring bias. It refers to the fact that, in a list of search engine results, people believe that the highest-ranked results are the most relevant and important.\n",
+        "links": [
+          "https://www.ludovicoboratto.com/reputation-equity-in-ranking-systems/#:~:text=Reputation%2Dbased%20ranking%20systems%20can,have%20systematically%20lower%20reputation%20scores. https://zilliz.com/learn/ranking-models-what-are-they-and-when-to-use-them https://www.ipu.org/ai-guidelines/generic-risks-and-biases-cognitive-bias-types#:~:text=Ranking%20bias%20is%20a%20form,the%20results%20are%20ranked%20randomly."
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nlbzpmi1",
+      "x": 1440,
+      "y": 2248,
+      "w": 320,
+      "h": 420,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Mental health stigma",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Data ethics",
+          "Critical design",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Cognitive bias"
+        ],
+        "desc": "While conservatives report much higher mental health ratings, asking instead about general mood eliminated the gap between liberals and conservatives.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12043138/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n0s7shor",
+      "x": 1440,
+      "y": 2708,
+      "w": 320,
+      "h": 708,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Predictive justice and Algorithmic fairness",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical design",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Algorithmic bias"
+        ],
+        "desc": "Several technologies, rather than eliminating conflict, end up reinforcing it. A notable example is the COMPAS software, designed to assist in sentencing decisions, which relied on datasets biased toward a specific ‘type’ of criminal, incorporating factors such as ethnicity and gender. This highlights the challenges faced by the field of algorithmic fairness—an interdisciplinary area that seeks to reduce bias and discrimination in machine learning. Despite its promise, the field lacks a universal definition of fairness and remains controversial, with cases like COMPAS illustrating how models can amplify, rather than mitigate, existing prejudices.",
+        "links": [
+          "https://clok.uclan.ac.uk/id/eprint/41816/1/Article_AnAIEthicsDavidAndGoliathValue.pdf  https://arxiv.org/pdf/1908.09635 https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf https://en.wikipedia.org/wiki/COMPAS_(software) https://www.internazionale.it/notizie/ed-yong/2018/02/16/algoritmo-valutazione-rischio-tribunale#:~:text=Compas%20è%20uno%20dei%20tanti,potrebbero%20essere%20utili%20in%20tribunale."
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nmrx6tr0",
+      "x": 1440,
+      "y": 3456,
+      "w": 320,
+      "h": 548,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Psychology's WEIRD Problem",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical design",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Cognitive bias"
+        ],
+        "desc": "Cross-Cultural Perception Studies: Early psychological research relied heavily on WEIRD populations, wrongly generalizing results to all humans and pathologizing non-WEIRD practices. Today, scholars stress the need for culturally sensitive methods to better reflect human diversity.\n",
+        "links": [
+          "https://www.psychologytoday.com/us/blog/non-weird-science/202004/psychologys-weird-problem https://www.cambridge.org/core/elements/psychologys-weird-problems/C324108A678435B4F18EF712EFB793BB https://thedecisionlab.com/insights/society/behavioral-science-is-weird-and-this-should-concern-us https://www.youtube.com/watch?v=vjB6KG-0bFk"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n774n60n",
+      "x": 1440,
+      "y": 4044,
+      "w": 320,
+      "h": 233,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    }
+  ],
+  "edges": [
+    {
+      "s": "ny15p0wg",
+      "t": "nqaspco0",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n4q8mtzu",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "nwl9ouvl",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "npongriz",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n7z0p86f",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n92sunmm",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n3vsqfai",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "ncob3sst",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "ne7rohui",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "nr86jk3r",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "nvlahv4k",
+      "dashed": false
+    },
+    {
+      "s": "npongriz",
+      "t": "naho5qrg",
+      "dashed": false
+    },
+    {
+      "s": "npongriz",
+      "t": "nxpd6wfv",
+      "dashed": false
+    },
+    {
+      "s": "npongriz",
+      "t": "n6rclgnn",
+      "dashed": false
+    },
+    {
+      "s": "npongriz",
+      "t": "novetno4",
+      "dashed": false
+    },
+    {
+      "s": "naho5qrg",
+      "t": "nh5ks9sq",
+      "dashed": false
+    },
+    {
+      "s": "naho5qrg",
+      "t": "ntnshd31",
+      "dashed": false
+    },
+    {
+      "s": "naho5qrg",
+      "t": "ne9u5x9s",
+      "dashed": false
+    },
+    {
+      "s": "naho5qrg",
+      "t": "n46nch3c",
+      "dashed": false
+    },
+    {
+      "s": "naho5qrg",
+      "t": "nlbzpmi1",
+      "dashed": false
+    },
+    {
+      "s": "naho5qrg",
+      "t": "n0s7shor",
+      "dashed": false
+    },
+    {
+      "s": "naho5qrg",
+      "t": "nmrx6tr0",
+      "dashed": false
+    },
+    {
+      "s": "nxpd6wfv",
+      "t": "n774n60n",
+      "dashed": false
+    }
+  ],
+  "vocab": {
+    "areas": [
+      "Communication",
+      "Media studies",
+      "Socio-political",
+      "Design research",
+      "Critical theory",
+      "Critical design"
+    ],
+    "tags": [
+      "Cognitive bias",
+      "Algorithmic bias",
+      "Statistic bias",
+      "Identities",
+      "Data perception",
+      "Deceptive pattern",
+      "Biometric data",
+      "Big data",
+      "Measuring the unmeasurable",
+      "Data representation"
+    ],
+    "type": [
+      "Research",
+      "Brief"
+    ]
+  }
+}
