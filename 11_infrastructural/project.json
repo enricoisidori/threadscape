@@ -401,20 +401,218 @@
       "x": 960,
       "y": 3639,
       "w": 320,
-      "h": 240,
+      "h": 360,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Definition of Conflict ",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Critical theory"
+        ],
+        "tags": [
+          "Definition",
+          "Conflict"
+        ],
+        "desc": "Positive: costitutive condition of living together. It's the result of the human plurality. It could be positive confront, structural antagonism that moves history. \n\nNegative: conflict as a consequence of power-resistance dynamics, and as the base of institutions. ",
+        "links": [
+          "Jean-Luc Nancy, Hanna Arendt, Marx, Nietzche, Foucault"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n33i8hbz",
+      "x": 960,
+      "y": 4076.3117053494607,
+      "w": 320,
+      "h": 360,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Definition of Infrastructure ",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Critical theory"
+        ],
+        "tags": [
+          "Definition",
+          "Infrastructure"
+        ],
+        "desc": "Complementary works necessary for the performance of an activity (roads, railways, aqueducts, telecommunication networks, digital). They are the foundation of the main structure, necessary for the economic and social development of a country.",
+        "links": [
+          "Treccani, Garzanti, Google"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n6ef8tan",
+      "x": 1436.3172170608805,
+      "y": 4067.553224202507,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Physical Infrastructures",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnvd0gn7",
+      "x": 1440,
+      "y": 4303.969792729872,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Technological and Digital Infrastructures",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nw4b1gsd",
+      "x": 1440,
+      "y": 4502.61591690443,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Social Infrastructures",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6rj6h65",
+      "x": 1440,
+      "y": 4716.622353860908,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Law & Order and Institutional Infrastructures",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncjegc4i",
+      "x": 1441.2969046672426,
+      "y": 4914.553224202507,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Economical and financial Infrastructures",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nm15tku8",
+      "x": 1441.2969046672426,
+      "y": 5103.553224202507,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Cultural Infrastructures",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nsdsyt6d",
+      "x": 2216.3587649887995,
+      "y": 3793.2434632428076,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Infrastructural conflict",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Critical theory"
+        ],
+        "tags": [
+          "Infrastructure",
+          "Definition",
+          "Conflict"
+        ],
+        "desc": "situation of contrast, opposition, and tension, that regards the project, localisation, realisation, management, resignation of an infrastructure (physical or immaterial).",
+        "links": [
+          "www.urbanconflicts.arct"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nfxwtxjg",
+      "x": 2733.0780968461504,
+      "y": 4397.70015689458,
+      "w": 320,
+      "h": 149,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "",
-        "type": "Brief",
-        "action": null,
+        "type": "Research",
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Infrastructure studies",
-          "Urban studies",
-          "Political geography",
-          "Systems theory",
-          "Supply chain studies"
+          "Critical theory"
         ],
         "tags": [],
         "desc": "",
@@ -423,25 +621,125 @@
       }
     },
     {
-      "id": "n33i8hbz",
-      "x": 960,
-      "y": 3919,
+      "id": "nahpwlgx",
+      "x": 2673.564757695625,
+      "y": 3474.8591344830493,
       "w": 320,
-      "h": 240,
+      "h": 619,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "First topics brainstorm",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "General knowledge"
+        ],
+        "tags": [
+          "Conflict",
+          "Definition",
+          "Infrastructure"
+        ],
+        "desc": "- Security cameras, big brother, conflict in surveillance\n- Construction of Infrastructures that then self-damage\n- Transport Infrastructures designed for AI, instead of humans \n- Bureaucracy (as an infrastructure itself) blocking infrastructures \n- Military mobility in Europe: infrastructures + customs/technical limits\n- Infrastructure as a network \n- Cyber warfare\n- Corruption\n- Infrastructure crises caused by war\n- ‘Evolutionary’ differences of infrastructures in different places\n- Infrastructures that arise because of conflict \n- Walls as infrastructure creating separation\n- Playful/Ludic infrastructure\n- Pop-up walls (temporary or movable barriers)\n- Gentrification\n- Satellites and the space race \n- Energy\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqhs4c7q",
+      "x": 2778.574274709587,
+      "y": 4588.726611123091,
+      "w": 320,
+      "h": 143,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "",
-        "type": "Brief",
-        "action": null,
+        "type": "Research",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [
-          "Infrastructure studies",
-          "Urban studies",
-          "Political geography",
-          "Systems theory",
-          "Supply chain studies"
-        ],
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ng7rbcv7",
+      "x": 2734.3688121381565,
+      "y": 4201.784600484536,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nhnkyrav",
+      "x": 2770.9762722785285,
+      "y": 4787.537043217452,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9fxiy4p",
+      "x": 2782.403846853849,
+      "y": 5003.196585898188,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvmyu19c",
+      "x": 2757.0771720836547,
+      "y": 5199.794588329246,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
         "tags": [],
         "desc": "",
         "links": [],
@@ -514,19 +812,130 @@
       "s": "nvlahv4k",
       "t": "n33i8hbz",
       "dashed": false
+    },
+    {
+      "s": "n33i8hbz",
+      "t": "n6ef8tan",
+      "dashed": false
+    },
+    {
+      "s": "n33i8hbz",
+      "t": "nnvd0gn7",
+      "dashed": false
+    },
+    {
+      "s": "n33i8hbz",
+      "t": "nw4b1gsd",
+      "dashed": false
+    },
+    {
+      "s": "n33i8hbz",
+      "t": "n6rj6h65",
+      "dashed": false
+    },
+    {
+      "s": "n33i8hbz",
+      "t": "ncjegc4i",
+      "dashed": false
+    },
+    {
+      "s": "n33i8hbz",
+      "t": "nm15tku8",
+      "dashed": false
+    },
+    {
+      "s": "nvgxuk36",
+      "t": "nsdsyt6d",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "nfxwtxjg",
+      "dashed": false
+    },
+    {
+      "s": "nnvd0gn7",
+      "t": "nfxwtxjg",
+      "dashed": false
+    },
+    {
+      "s": "n33i8hbz",
+      "t": "nsdsyt6d",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "nahpwlgx",
+      "dashed": false
+    },
+    {
+      "s": "nw4b1gsd",
+      "t": "nqhs4c7q",
+      "dashed": false
+    },
+    {
+      "s": "n6ef8tan",
+      "t": "ng7rbcv7",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "ng7rbcv7",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "nqhs4c7q",
+      "dashed": false
+    },
+    {
+      "s": "n6rj6h65",
+      "t": "nhnkyrav",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "nhnkyrav",
+      "dashed": false
+    },
+    {
+      "s": "ncjegc4i",
+      "t": "n9fxiy4p",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "n9fxiy4p",
+      "dashed": false
+    },
+    {
+      "s": "nm15tku8",
+      "t": "nvmyu19c",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "nvmyu19c",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "General knowledge",
       "Critical theory",
-      "Design research",
-      "Socio-political",
-      "Media studies",
+      "Critical design",
       "Communication",
-      "Critical design"
+      "Media studies",
+      "Socio-political",
+      "Design research"
     ],
-    "tags": [],
+    "tags": [
+      "Infrastructure",
+      "Definition",
+      "Conflict"
+    ],
     "type": [
+      "Research",
       "Brief"
     ]
   }
