@@ -1336,10 +1336,10 @@
     },
     {
       "id": "napmn0rs",
-      "x": 2297.8488308252963,
+      "x": 2296.091540207046,
       "y": 2744.3693974434045,
       "w": 320,
-      "h": 320,
+      "h": 589,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -1348,14 +1348,41 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Chronopolitics",
           "Data ethics",
           "Critical data studies",
           "Algorithm studies"
         ],
-        "tags": [],
+        "tags": [
+          "Biometric data",
+          "Metrics distortion",
+          "Metric governance"
+        ],
         "desc": "Metric and political conflict: the imposition of a single official time can clash with local practices and cultural identities. The conflict can also extend to the individual, as the enforcement of a standardized time for political purposes may conflict with natural biological rhythms.",
-        "links": [],
-        "files": []
+        "links": [
+          "https://www.dailymotion.com/video/x9gy5s6",
+          "https://www.poolpharma.it/jet-lag-sociale-perche-i-ritmi-sballati-si-ripercuotono-sul-sonno-e-la-salute/",
+          "https://www.aljazeera.com/news/2023/8/9/conflict-over-the-clock-china-among-countries-where-time-is-political",
+          "https://www.e-ir.info/pdf/64864"
+        ],
+        "files": [
+          {
+            "name": "History and Theory - 2023 - Esposito - THE TIME OF POLITICS THE POLITICS OF TIME AND POLITICIZED TIME AN INTRODUCTION TO.pdf",
+            "size": 158650,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/History_and_Theory_-_2023_-_Esposito_-_THE_TIME_OF_POLITICS_THE_POLITICS_OF_TIME_AND_POLITICIZED_TIME_AN_INTRODUCTION_TO.pdf"
+          },
+          {
+            "name": "nutrients-13-04543.pdf",
+            "size": 720426,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/nutrients-13-04543.pdf"
+          }
+        ]
       }
     }
   ],
@@ -1603,6 +1630,8 @@
   ],
   "vocab": {
     "areas": [
+      "Chronopolitics",
+      "Cronopolitic",
       "Critical data studies",
       "Critical design",
       "Data ethics",
@@ -1613,12 +1642,12 @@
       "Communication"
     ],
     "tags": [
-      "Big data",
-      "Biometric data",
+      "Metric governance",
       "Metrics distortion",
+      "Biometric data",
+      "Big data",
       "Subjective reality",
       "Measuring the unmeasurable",
-      "Metric governance",
       "Statistic bias",
       "Algorithmic bias",
       "Cognitive bias",
