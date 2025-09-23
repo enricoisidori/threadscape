@@ -39,39 +39,6 @@
       }
     },
     {
-      "id": "nqaspco0",
-      "x": 480,
-      "y": 0,
-      "w": 320,
-      "h": 322,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Linguistic conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Media studies",
-          "Semiotics",
-          "Communication design",
-          "Interface design",
-          "Cultural studies"
-        ],
-        "tags": [
-          "Memetics",
-          "Persuasive rhetoric",
-          "Semiotic warfare",
-          "Language manipulation",
-          "Interface politics",
-          "Discourse control"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "n4q8mtzu",
       "x": 480,
       "y": 362,
@@ -400,11 +367,6 @@
   "edges": [
     {
       "s": "ny15p0wg",
-      "t": "nqaspco0",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
       "t": "n4q8mtzu",
       "dashed": false
     },
@@ -456,12 +418,12 @@
   ],
   "vocab": {
     "areas": [
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Socio-political",
+      "Critical theory",
       "Design research",
-      "Critical theory"
+      "Socio-political",
+      "Media studies",
+      "Communication",
+      "Critical design"
     ],
     "tags": [],
     "type": [
