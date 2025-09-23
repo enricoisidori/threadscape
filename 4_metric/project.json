@@ -491,7 +491,7 @@
     {
       "id": "novetno4",
       "x": 968,
-      "y": 8433.374503425945,
+      "y": 8662.980690124115,
       "w": 320,
       "h": 322,
       "group": null,
@@ -510,6 +510,7 @@
         ],
         "tags": [
           "Biometric data",
+          "Metric governance",
           "Big data",
           "Measuring the unmeasurable",
           "Relativity"
@@ -709,7 +710,7 @@
     },
     {
       "id": "nmrx6tr0",
-      "x": 1432,
+      "x": 1429.3179197041839,
       "y": 1675.9999999999998,
       "w": 320,
       "h": 569,
@@ -1218,6 +1219,144 @@
         ],
         "files": []
       }
+    },
+    {
+      "id": "nlf6xx5y",
+      "x": 1385.3935609155412,
+      "y": 10735.269724864922,
+      "w": 320,
+      "h": 674,
+      "group": null,
+      "data": {
+        "date": "2025-09-21",
+        "title": "The imposition of measurement systems",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Metric governance"
+        ],
+        "desc": "The imposition of measurement systems has often served political purposes throughout history. Standardized units, clocks, and time zones are not merely tools for coordination—they have been used strategically to assert control over territories, enforce sovereignty, and even resist colonial domination. By regulating how time and measurements are perceived and applied, governments and empires could influence economic activity, social organization, and cultural practices. The historical manipulation of temporal systems illustrates how seemingly neutral standards can carry significant political and social power.",
+        "links": [
+          "https://www.aljazeera.com/news/2023/8/9/conflict-over-the-clock-china-among-countries-where-time-is-political",
+          "https://www.ilpost.it/2015/08/07/corea-del-nord-cambia-fuso-orario/",
+          "https://www.washingtonpost.com/world/2023/01/27/russia-moscow-time-occupied-ukraine/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nutmmv06",
+      "x": 2293.7789109068403,
+      "y": 1425.3986314752938,
+      "w": 320,
+      "h": 389,
+      "group": null,
+      "data": {
+        "date": "2025-09-21",
+        "title": "Wellbeing measurement",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Critical data studies"
+        ],
+        "tags": [
+          "Biometric data",
+          "Measuring the unmeasurable",
+          "Subjective reality"
+        ],
+        "desc": "While we can track nearly every objective aspect of our lives, can we truly measure our well-being? This raises a fundamental tension between maintaining privacy and the continuous monitoring of behaviour.",
+        "links": [
+          "https://smnf.it/salute-mentale-ed-emozioni/?utm_source=.com"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nscn3qxy",
+      "x": 2293.8183817336226,
+      "y": 1838.3693974434045,
+      "w": 320,
+      "h": 410,
+      "group": null,
+      "data": {
+        "date": "2025-09-21",
+        "title": "Modulor 3.0",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Critical design"
+        ],
+        "tags": [
+          "Metrics distortion",
+          "Biometric data"
+        ],
+        "desc": "Le Corbusier's Modulor was conceived as a harmonic system based on the golden ratio, designed to create spaces that were balanced in relation to the \"ideal\" human. However, the concept of an ideal proportion carries a paradox: real people are not uniform, they do not always fit standard measurements, and, most importantly, they have diverse needs and desires.",
+        "links": [
+          "https://www.santagostino.it/magazine-psiche/i-canoni-di-bellezza-in-psicologia/?utm_source=.com"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n5zy1wbw",
+      "x": 2295.5900122565686,
+      "y": 2261.7117192111414,
+      "w": 320,
+      "h": 427,
+      "group": null,
+      "data": {
+        "date": "2025-09-21",
+        "title": "Measurement of Work Value",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Critical data studies"
+        ],
+        "tags": [
+          "Big data"
+        ],
+        "desc": "Paying everyone purely based on time or efficiency seems fair at first, but it oversimplifies the complexity of work. True equity requires recognizing the diverse conditions, efforts, and circumstances that shape labor. Ignoring these factors can unintentionally reinforce inequalities rather than eliminate them.",
+        "links": [
+          "https://www.hcamag.com/au/specialisation/employment-law/fired-for-failing-to-meet-kpi-worker-cries-unfair-dismissal/492867?utm_source=chatgpt.com"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "napmn0rs",
+      "x": 2297.8488308252963,
+      "y": 2744.3693974434045,
+      "w": 320,
+      "h": 320,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Critical data studies",
+          "Algorithm studies"
+        ],
+        "tags": [],
+        "desc": "Metric and political conflict: the imposition of a single official time can clash with local practices and cultural identities. The conflict can also extend to the individual, as the enforcement of a standardized time for political purposes may conflict with natural biological rhythms.",
+        "links": [],
+        "files": []
+      }
     }
   ],
   "edges": [
@@ -1410,28 +1549,81 @@
       "s": "novetno4",
       "t": "nbkm1rtj",
       "dashed": false
+    },
+    {
+      "s": "novetno4",
+      "t": "nlf6xx5y",
+      "dashed": false
+    },
+    {
+      "s": "ntnshd31",
+      "t": "nutmmv06",
+      "dashed": false
+    },
+    {
+      "s": "nn5n9f9p",
+      "t": "nutmmv06",
+      "dashed": false
+    },
+    {
+      "s": "nd63apio",
+      "t": "nutmmv06",
+      "dashed": false
+    },
+    {
+      "s": "ne9u5x9s",
+      "t": "nscn3qxy",
+      "dashed": false
+    },
+    {
+      "s": "ntjbrkid",
+      "t": "nscn3qxy",
+      "dashed": false
+    },
+    {
+      "s": "nd63apio",
+      "t": "nscn3qxy",
+      "dashed": false
+    },
+    {
+      "s": "nr85lj60",
+      "t": "n5zy1wbw",
+      "dashed": false
+    },
+    {
+      "s": "nd63apio",
+      "t": "napmn0rs",
+      "dashed": false
+    },
+    {
+      "s": "nlf6xx5y",
+      "t": "napmn0rs",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Critical data studies",
       "Critical design",
-      "Critical theory",
-      "Design research",
-      "Socio-political",
+      "Data ethics",
       "Media studies",
+      "Socio-political",
+      "Design research",
+      "Critical theory",
       "Communication"
     ],
     "tags": [
-      "Measuring the unmeasurable",
       "Big data",
       "Biometric data",
+      "Metrics distortion",
+      "Subjective reality",
+      "Measuring the unmeasurable",
+      "Metric governance",
       "Statistic bias",
       "Algorithmic bias",
       "Cognitive bias",
       "Data perception",
-      "Metrics distortion",
       "Identities",
-      "Subjective reality",
       "Deceptive pattern",
       "Data representation",
       "Relativity"
