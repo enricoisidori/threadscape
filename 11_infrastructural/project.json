@@ -395,6 +395,58 @@
         "links": [],
         "files": []
       }
+    },
+    {
+      "id": "nvgxuk36",
+      "x": 960,
+      "y": 3639,
+      "w": 320,
+      "h": 240,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Infrastructure studies",
+          "Urban studies",
+          "Political geography",
+          "Systems theory",
+          "Supply chain studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n33i8hbz",
+      "x": 960,
+      "y": 3919,
+      "w": 320,
+      "h": 240,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Infrastructure studies",
+          "Urban studies",
+          "Political geography",
+          "Systems theory",
+          "Supply chain studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
     }
   ],
   "edges": [
@@ -452,16 +504,26 @@
       "s": "ny15p0wg",
       "t": "nvlahv4k",
       "dashed": false
+    },
+    {
+      "s": "nvlahv4k",
+      "t": "nvgxuk36",
+      "dashed": false
+    },
+    {
+      "s": "nvlahv4k",
+      "t": "n33i8hbz",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Socio-political",
+      "Critical theory",
       "Design research",
-      "Critical theory"
+      "Socio-political",
+      "Media studies",
+      "Communication",
+      "Critical design"
     ],
     "tags": [],
     "type": [
