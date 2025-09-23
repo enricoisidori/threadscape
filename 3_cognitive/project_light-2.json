@@ -6,7 +6,7 @@
       "x": 0,
       "y": 0,
       "w": 320,
-      "h": 807,
+      "h": 776,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -39,11 +39,44 @@
       }
     },
     {
+      "id": "nqaspco0",
+      "x": 480,
+      "y": 0,
+      "w": 320,
+      "h": 312,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Linguistic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Media studies",
+          "Semiotics",
+          "Communication design",
+          "Interface design",
+          "Cultural studies"
+        ],
+        "tags": [
+          "Memetics",
+          "Persuasive rhetoric",
+          "Semiotic warfare",
+          "Language manipulation",
+          "Interface politics",
+          "Discourse control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
       "id": "n4q8mtzu",
       "x": 480,
       "y": 362,
       "w": 320,
-      "h": 344,
+      "h": 334,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -76,7 +109,7 @@
       "x": 480,
       "y": 746,
       "w": 320,
-      "h": 344,
+      "h": 334,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -108,7 +141,7 @@
       "x": 480,
       "y": 1130,
       "w": 320,
-      "h": 344,
+      "h": 334,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -141,7 +174,7 @@
       "x": 480,
       "y": 1514,
       "w": 320,
-      "h": 299,
+      "h": 290,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -174,7 +207,7 @@
       "x": 480,
       "y": 1853,
       "w": 320,
-      "h": 299,
+      "h": 290,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -206,7 +239,7 @@
       "x": 480,
       "y": 2192,
       "w": 320,
-      "h": 299,
+      "h": 290,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -238,7 +271,7 @@
       "x": 480,
       "y": 2531,
       "w": 320,
-      "h": 344,
+      "h": 334,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -270,7 +303,7 @@
       "x": 480,
       "y": 2915,
       "w": 320,
-      "h": 322,
+      "h": 312,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -303,7 +336,7 @@
       "x": 480,
       "y": 3277,
       "w": 320,
-      "h": 322,
+      "h": 312,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -336,7 +369,7 @@
       "x": 480,
       "y": 3639,
       "w": 320,
-      "h": 344,
+      "h": 334,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -362,9 +395,40 @@
         "links": [],
         "files": []
       }
+    },
+    {
+      "id": "nqsj3v05",
+      "x": 960,
+      "y": 746,
+      "w": 320,
+      "h": 262,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "prova",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
     }
   ],
   "edges": [
+    {
+      "s": "ny15p0wg",
+      "t": "nqaspco0",
+      "dashed": false
+    },
     {
       "s": "ny15p0wg",
       "t": "n4q8mtzu",
@@ -413,6 +477,11 @@
     {
       "s": "ny15p0wg",
       "t": "nvlahv4k",
+      "dashed": false
+    },
+    {
+      "s": "nwl9ouvl",
+      "t": "nqsj3v05",
       "dashed": false
     }
   ],
