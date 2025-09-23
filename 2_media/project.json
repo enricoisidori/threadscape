@@ -40,8 +40,8 @@
     },
     {
       "id": "n4q8mtzu",
-      "x": 433.1146249473046,
-      "y": 1.2338256592814538,
+      "x": 480,
+      "y": 0,
       "w": 320,
       "h": 344,
       "group": null,
@@ -73,8 +73,8 @@
     },
     {
       "id": "narc5piv",
-      "x": 891.1676396046548,
-      "y": -422.1547016249753,
+      "x": 960,
+      "y": 0,
       "w": 320,
       "h": 524,
       "group": null,
@@ -102,8 +102,8 @@
     },
     {
       "id": "n33v6zkp",
-      "x": 1369.878517546689,
-      "y": -462.11748542191214,
+      "x": 1440,
+      "y": 0,
       "w": 320,
       "h": 643,
       "group": null,
@@ -139,8 +139,8 @@
     },
     {
       "id": "nj9i7j9s",
-      "x": 1849.878517546689,
-      "y": -462.11748542191214,
+      "x": 1920,
+      "y": 0,
       "w": 320,
       "h": 350,
       "group": null,
@@ -165,8 +165,8 @@
     },
     {
       "id": "nuvhscua",
-      "x": 1849.878517546689,
-      "y": -72.11748542191214,
+      "x": 1920,
+      "y": 390,
       "w": 320,
       "h": 555,
       "group": null,
@@ -207,8 +207,8 @@
     },
     {
       "id": "n8ajhvae",
-      "x": 2329.878517546689,
-      "y": -72.11748542191214,
+      "x": 2400,
+      "y": 0,
       "w": 320,
       "h": 468,
       "group": null,
@@ -234,8 +234,8 @@
     },
     {
       "id": "nlqsfith",
-      "x": 2750.0817053462933,
-      "y": 750.0327823289945,
+      "x": 2880,
+      "y": 1199,
       "w": 320,
       "h": 406,
       "group": null,
@@ -262,8 +262,8 @@
     },
     {
       "id": "n144gzcb",
-      "x": 2803.0789837049197,
-      "y": -391.85249520125427,
+      "x": 2880,
+      "y": 0,
       "w": 320,
       "h": 316,
       "group": null,
@@ -289,8 +289,8 @@
     },
     {
       "id": "npqu7tjd",
-      "x": 2803.0789837049197,
-      "y": -47.18505160420356,
+      "x": 2880,
+      "y": 356,
       "w": 320,
       "h": 390,
       "group": null,
@@ -316,10 +316,10 @@
     },
     {
       "id": "n6kap6uo",
-      "x": 3238.304510444443,
-      "y": -225.91054551428343,
+      "x": 3360,
+      "y": 0,
       "w": 320,
-      "h": 333,
+      "h": 300,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -333,17 +333,17 @@
         "tags": [
           "Inconclusive activism"
         ],
-        "desc": "Inconclusive Activism refers to forms of activism that raise awareness or signal support for a cause but do not lead to concrete outcomes or meaningful change. It often involves symbolic actions without sustained effort toward resolving the underlying issues.",
+        "desc": "F\norms of activism that signal support or raise awareness without producing meaningful or lasting change, often limited to symbolic actions",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n31bv9vn",
-      "x": 2789.4799160213806,
-      "y": 400.48732284195864,
+      "x": 2880,
+      "y": 786,
       "w": 320,
-      "h": 321,
+      "h": 373,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -354,8 +354,173 @@
         "areas": [
           "Research"
         ],
-        "tags": [],
+        "tags": [
+          "Dead internet theory",
+          "Bots",
+          "Spam",
+          "Artificial",
+          "Ai",
+          "Non-human"
+        ],
         "desc": "The Internet is supposed to be a dynamic, open space populated by real users engaging in genuine interactions.\nThe problem arises from bots, spam, AI, and fake accounts. Social interactions can become artificial, making it difficult to distinguish between human and non-human activity.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7gx2wb4",
+      "x": 3360,
+      "y": 786,
+      "w": 320,
+      "h": 283,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Automation",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Automation",
+          "Ai",
+          "Bots",
+          "Non-human"
+        ],
+        "desc": "The use of algorithms, bots, or AI to generate, distribute, or amplify content, which can artificially shape online interactions and public perception.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nr64a4c7",
+      "x": 2880,
+      "y": 1645,
+      "w": 320,
+      "h": 356,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Spectacularization (Infotainment)",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Spectacularization",
+          "Sensationalized",
+          "Manipolation"
+        ],
+        "desc": "Information and entertainment are mixed, favoring the sensational aspect of content over depth or informational completeness.\nOrdinary or complex events are presented in a sensationalized way, with fear, anger, surprise, and curiosity driving the narrative.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3ghor9n",
+      "x": 2880,
+      "y": 2018,
+      "w": 320,
+      "h": 316,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Click Baiting",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Click baiting",
+          "Sensationalized"
+        ],
+        "desc": "Creating sensationalistic titles, images, or previews to attract attention and entice users to click on content.\nThe content often does not match the headline, which undermines public discourse",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "no1buysv",
+      "x": 2880,
+      "y": 2374,
+      "w": 320,
+      "h": 373,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "False Balance",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "False balance",
+          "Distorted perception",
+          "Manipolation"
+        ],
+        "desc": "A topic is presented as if there are two equally legitimate or valid positions, even when one is scientifically or factually stronger.\nIt risks creating a distorted perception of reality, making widely accepted issues (e.g., climate change, vaccines) seem controversial and sparking unnecessary debates.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwoul3rw",
+      "x": 2880,
+      "y": 2787,
+      "w": 320,
+      "h": 440,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Mediatic void",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Mediatic void",
+          "Distorted perception",
+          "Manipolation",
+          "Prospective"
+        ],
+        "desc": "Mediatic void is a phenomenon in which certain events, issues, or perspectives receive little to no coverage in the media, creating gaps in public awareness. By failing to report on these topics, media outlets can unintentionally or deliberately shape what audiences perceive as important, leaving some problems invisible. This lack of coverage can influence public opinion, political priorities, and social discourse, reinforcing inequalities in attention and limiting informed decision-making among citizens.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4uvnp8s",
+      "x": 2880,
+      "y": 3267,
+      "w": 320,
+      "h": 440,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cherry picking ",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Cherry picking",
+          "Prospective",
+          "Manipolation",
+          "Distorted perception"
+        ],
+        "desc": "Cherry picking is a media phenomenon in which information is selectively presented to support a particular narrative or argument while ignoring data that might contradict it. By highlighting specific facts, quotes, or statistics and omitting context, media outlets can shape public perception and reinforce biases. This practice distorts reality, misleads audiences, and can polarize opinions, often giving an impression of evidence or consensus that does not accurately reflect the full scope of a situation.",
         "links": [],
         "files": []
       }
@@ -421,6 +586,36 @@
       "s": "n8ajhvae",
       "t": "n31bv9vn",
       "dashed": false
+    },
+    {
+      "s": "n31bv9vn",
+      "t": "n7gx2wb4",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "nr64a4c7",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "n3ghor9n",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "no1buysv",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "nwoul3rw",
+      "dashed": false
+    },
+    {
+      "s": "n8ajhvae",
+      "t": "n4uvnp8s",
+      "dashed": false
     }
   ],
   "vocab": {
@@ -433,6 +628,22 @@
       "Design research"
     ],
     "tags": [
+      "Distorted perception",
+      "Manipolation",
+      "Prospective",
+      "Cherry picking",
+      "Mediatic void",
+      "False balance",
+      "Sensationalized",
+      "Click baiting",
+      "Spectacularization",
+      "Automation",
+      "Non-human",
+      "Spam",
+      "Bots",
+      "Ai",
+      "Artificial",
+      "Dead internet theory",
       "Inconclusive activism",
       "Advertising purposes",
       "Washing",
@@ -452,8 +663,6 @@
       "Debates",
       "Tension",
       "Conflict node",
-      "Spectacularization",
-      "Manipolation",
       "Deepfake",
       "Rumor machine",
       "Storytelling",
@@ -465,7 +674,6 @@
       "Participation",
       "Rhythm",
       "Code",
-      "Ai",
       "Livestreaming",
       "Messaging apps",
       "Podcast",
