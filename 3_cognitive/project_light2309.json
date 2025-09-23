@@ -1,0 +1,770 @@
+{
+  "version": 6,
+  "nodes": [
+    {
+      "id": "ny15p0wg",
+      "x": 0,
+      "y": 0,
+      "w": 320,
+      "h": 768,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Conflict: a Distributed Condition: Contemporary War Ecologies",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Socio-political",
+          "Media studies",
+          "Communication",
+          "Cultural practices",
+          "Critical design",
+          "Design research",
+          "Political ecology"
+        ],
+        "tags": [
+          "Distributed conflict",
+          "Latent violence",
+          "Systemic friction",
+          "Post-territorial",
+          "Embedded warfare",
+          "Socio-technical ecologies",
+          "Structural inequality",
+          "Cultural infrastructures"
+        ],
+        "desc": "\nConflict is not an exception or an isolated event — it is a constant condition running through society. It is not limited to war or explicit clashes: it emerges within collective life as friction, as a continuous confrontation between competing needs, systems, and visions.\nIt is not a punctual episode but a latent and distributed condition. It takes on asymmetric, often invisible forms, embedded in cultural practices, social relations, and infrastructures. Its logic is not confined to violence: it also structures coexistence, shaping who holds privilege and who is pushed to the margins.\nExploring distributed conflicts means reading the present as a field where techniques of offense multiply and blur into the infrastructures society depends on. The goal is to generate critical devices, scenarios, and questions that probe the ambiguous nature of conflict as a diffuse condition in a post-territorial age.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqaspco0",
+      "x": 480,
+      "y": 0,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Linguistic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Media studies",
+          "Semiotics",
+          "Communication design",
+          "Interface design",
+          "Cultural studies"
+        ],
+        "tags": [
+          "Memetics",
+          "Persuasive rhetoric",
+          "Semiotic warfare",
+          "Language manipulation",
+          "Interface politics",
+          "Discourse control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4q8mtzu",
+      "x": 480,
+      "y": 362,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Media conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Media theory",
+          "Journalism studies",
+          "Information systems",
+          "Political communication",
+          "Critical media design"
+        ],
+        "tags": [
+          "Propaganda systems",
+          "Disinformation",
+          "Deepfake",
+          "Rumor propagation",
+          "Narrative control",
+          "Attention economy"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwl9ouvl",
+      "x": 480,
+      "y": 746,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cognitive conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies"
+        ],
+        "tags": [
+          "Neurocontrol",
+          "Brain hacking",
+          "Cognitive warfare",
+          "Neural interfaces",
+          "Psychopolitics"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npongriz",
+      "x": 480,
+      "y": 1130,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Metric conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Algorithmic bias",
+          "Data politics",
+          "Scoring systems",
+          "Quantification",
+          "Metric governance",
+          "Predictive control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7z0p86f",
+      "x": 480,
+      "y": 1514,
+      "w": 320,
+      "h": 282,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Symbolic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Cultural studies",
+          "Art history",
+          "Memory studies",
+          "Heritage studies",
+          "Semiotics"
+        ],
+        "tags": [
+          "Cultural memory",
+          "Heritage politics",
+          "Myth-making",
+          "Iconographic power",
+          "Narrative hegemony",
+          "Semiotic infrastructures"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n92sunmm",
+      "x": 480,
+      "y": 1853,
+      "w": 320,
+      "h": 282,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cultural conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Anthropology",
+          "Sociology",
+          "Cultural theory",
+          "Futures studies",
+          "Ethics"
+        ],
+        "tags": [
+          "Value systems",
+          "Ideological friction",
+          "Cultural hegemony",
+          "Future imaginaries",
+          "Norm contestation"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3vsqfai",
+      "x": 480,
+      "y": 2192,
+      "w": 320,
+      "h": 282,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Social conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Sociology",
+          "Political science",
+          "Law and rights studies",
+          "Social policy",
+          "Critical theory"
+        ],
+        "tags": [
+          "Citizenship struggles",
+          "Rights negotiation",
+          "Representation crisis",
+          "Social stratification",
+          "Identity politics"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncob3sst",
+      "x": 480,
+      "y": 2531,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Bureaucratic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Legal studies",
+          "Political geography",
+          "Bureaucracy studies",
+          "Governance",
+          "Critical urbanism"
+        ],
+        "tags": [
+          "Administrative violence",
+          "Legal cartographies",
+          "Border regimes",
+          "Paper governance",
+          "Procedural control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ne7rohui",
+      "x": 480,
+      "y": 2915,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Digital conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Computer science",
+          "Cybersecurity",
+          "Digital geopolitics",
+          "Ai ethics",
+          "Critical infrastructure studies"
+        ],
+        "tags": [
+          "Automation control",
+          "Kill chain",
+          "Ai warfare",
+          "Protocol politics",
+          "Simulated conflict",
+          "Cyberwarfare"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nr86jk3r",
+      "x": 480,
+      "y": 3277,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Ecological conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Political ecology",
+          "Environmental studies",
+          "Sustainability studies",
+          "Geography",
+          "Climate justice"
+        ],
+        "tags": [
+          "Geoengineering",
+          "Resource wars",
+          "Ecocide",
+          "Energy politics",
+          "Environmental violence",
+          "Multispecies justice"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvlahv4k",
+      "x": 480,
+      "y": 3639,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Infrastructural conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Infrastructure studies",
+          "Urban studies",
+          "Political geography",
+          "Systems theory",
+          "Supply chain studies"
+        ],
+        "tags": [
+          "Logistics power",
+          "Infrastructural geopolitics",
+          "Network control",
+          "Chokepoints",
+          "Extractive systems"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqsj3v05",
+      "x": 960,
+      "y": 746,
+      "w": 320,
+      "h": 254,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": " intrapsychic conflict",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8a6ebg8",
+      "x": 960,
+      "y": 1048,
+      "w": 320,
+      "h": 254,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "interpersonal conflict",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nz19ocjs",
+      "x": 1565.0525444015084,
+      "y": 1352.032068401328,
+      "w": 320,
+      "h": 480,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cognitive Dissonance",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "It's a universal psychological mechanism: we all experience small conflicts between thoughts, values, and actions every day. It explains a person's choices and behaviors, attitudes that can sometimes even seem irrational. It shows that we don't always make logical decisions: we choose solutions that reduce psychological distress, even at the expense of objective coherence. This explains phenomena such as polarization, fake news, and personal justifications.",
+        "links": [
+          "https://www.gamejournal.it/italiano-scienze-cognitive-e-game-design-progettare-dinamiche-di-gioco-non-finalizzate-a-un-obiettivo/",
+          "https://www.conquistedellavoro.it/global/come-la-guerra-cognitiva-pu%C3%B2-condizionare-la-societ%C3%A0-1.2790383"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n4iormrf",
+      "x": 1565.0605329859413,
+      "y": 1866.7427422625815,
+      "w": 320,
+      "h": 458,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Neuropolitics",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Biopolitics",
+          "Society studies",
+          "Critical theory",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Neuroscience, AI, and politics are at the center of contemporary debate. It's a hot and plausible topic. It implies a strong cognitive conflict: more knowledge and transparency on the one hand, more surveillance and manipulation on the other. It opens the door to tangible devices (bracelets, helmets, pills, algorithms), which can be prototyped in credible but also disturbing ways. Politics affects everyone, and a project that questions freedom of thought and voting generates immediate discussion.",
+        "links": [
+          "https://www.treccani.it/enciclopedia/neuropolitica_(altro)/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nkhzwryp",
+      "x": 1565.7235182585794,
+      "y": 2353.2870860577655,
+      "w": 320,
+      "h": 758,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Learning",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "The learning phase is crucial for cognitive development and conflict: Children actively construct their cognitive schemas; it is during this phase that lasting ways of dealing with dissonance are defined.\nExposing children to cognitive discrepancies creates a state of imbalance that pushes them toward accommodating new schemas. \nWorking in groups with different ideas exposes children to their first meaningful experiences of cognitive disagreement. These differences influence whether conflict is productive or counterproductive.\nParents transmit values, explanations, and strategies (explicit and implicit) that shape how children deal with dissonance.",
+        "links": [
+          "https://www.alessandrogrussu.it/txt/Cooperativo.pdf",
+          "https://files.eric.ed.gov/fulltext/EJ1391444.pdf#:~:text=students%20need%20to%20admit%20that,in%20science%20learning%2C%20students%20need",
+          "https://thesis.unipd.it/retrieve/c3ca2f2c-d6b3-4564-9ee4-33700ee19363/TESI_Ilenia_Balzano_PDF_A.pdf#:~:text=di%3A%20razza%2C%20religione%2C%20etnia%20e,FI%20utilizzano%20pi%C3%B9%20spesso%20argomentazioni",
+          "https://indianmentalhealth.com/pdf/2022/vol9-issue3/4-Review-Paper-2.pdf#:~:text=Believed%20that%20cognitive%20conflict%20due,with%20an%20urge%20to%20change",
+          "https://www.scirp.org/reference/referencespapers?referenceid=738315"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nai1yave",
+      "x": 1557.9930160671809,
+      "y": 609.4056719380497,
+      "w": 320,
+      "h": 702,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cognitive Hedonia",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies",
+          "Media studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "Mark Fisher coined the term \"depressive hedonia\" to describe a modern paradox: people who obsessively seek pleasure but never get real satisfaction from it.\nConstant stimulation from the digital world overactivates our \"wanting\" system (dopamine) but makes our \"pleasure\" system (opioids) less sensitive. Result: we keep seeking rewards but never feel truly satisfied.\nThe mental conflict is frustrating: people understand that scrolling social media or consuming endless entertainment is pointless, but they can't stop. Fisher calls this \"powerless reflexivity\" - you know what you should do but remain trapped in behaviors that harm you.\nThis is a specific consequence of late capitalism that has created an environment of constant stimulation never seen before in human history, where seeking gratification becomes compulsive but never satisfying.",
+        "links": [
+          "https://www.ultimavoce.it/mark-fisher-salute-mentale-come-lotta-politica/#google_vignette",
+          "https://www.artribune.com/editoria/2023/02/realismo-capitalista-mark-fisher-libro-xxi-secolo/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nweug8dn",
+      "x": 1560.9392284029757,
+      "y": -1097.608959283058,
+      "w": 320,
+      "h": 460,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Hypnosis",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "Hypnosis shows that our thinking isn't as stable as we think. When hypnotized, people accept ideas they would normally reject. This lets us create mental conflicts in a controlled way to see how the mind deals with them. Surprisingly, these conflicts can actually help people change in ways that wouldn't be possible otherwise. But this makes us wonder: if suggestions can so easily get past our logical thinking, how much control do we really have over our daily decisions?",
+        "links": [
+          "https://pubmed.ncbi.nlm.nih.gov/15994228/",
+          "https://pubmed.ncbi.nlm.nih.gov/15964211/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nfaki92h",
+      "x": 1561.052220744013,
+      "y": -591.2259516412292,
+      "w": 320,
+      "h": 480,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Devil shift",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Biopolitics",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "The devil shift reflects a universal bias: we tend to see opponents as more hostile, threatening, and powerful than they really are, seeking evidence to confirm this view while ignoring anything that challenges it.\nThe angel shift is the opposite bias: we idealize allies, seeing them as more virtuous, trustworthy, and capable than they actually are, while overlooking their flaws or mistakes.",
+        "links": [
+          "https://biblio.liuc.it/ebookliuc/978-88-941811-0-4.pdf",
+          "https://www.cambridge.org/core/journals/journal-of-public-policy/article/abs/dealing-with-bad-guys-actor-and-processlevel-determinants-of-the-devil-shift-in-policy-making/81FAE1C9A099215FDE4CE73157E4B3CE"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nmm5bb23",
+      "x": 1556.1340995909159,
+      "y": -58.4335289806708,
+      "w": 320,
+      "h": 554,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cognitive overload",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "It has been established that as cognitive overload increases, so does the feeling of anxiety and avoidance when it comes to making decisions. This can trigger decision fatigue.\nThe quality of decisions deteriorates as cognitive resources are depleted; ultimately, this leads to outright decision avoidance or a tendency to delegate choices, even important ones. When the amount of information exceeds the threshold of available cognitive resources, they begin to compete with each other.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/",
+          "https://www.sciencedirect.com/science/article/abs/pii/S0306457323002194",
+          "https://arno.uvt.nl/show.cgi?fid=183529"
+        ],
+        "files": []
+      }
+    }
+  ],
+  "edges": [
+    {
+      "s": "ny15p0wg",
+      "t": "nqaspco0",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n4q8mtzu",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "nwl9ouvl",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "npongriz",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n7z0p86f",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n92sunmm",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "n3vsqfai",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "ncob3sst",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "ne7rohui",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "nr86jk3r",
+      "dashed": false
+    },
+    {
+      "s": "ny15p0wg",
+      "t": "nvlahv4k",
+      "dashed": false
+    },
+    {
+      "s": "nwl9ouvl",
+      "t": "nqsj3v05",
+      "dashed": false
+    },
+    {
+      "s": "nwl9ouvl",
+      "t": "n8a6ebg8",
+      "dashed": false
+    },
+    {
+      "s": "n8a6ebg8",
+      "t": "nz19ocjs",
+      "dashed": false
+    },
+    {
+      "s": "n8a6ebg8",
+      "t": "n4iormrf",
+      "dashed": false
+    },
+    {
+      "s": "n8a6ebg8",
+      "t": "nkhzwryp",
+      "dashed": false
+    },
+    {
+      "s": "nqsj3v05",
+      "t": "nai1yave",
+      "dashed": false
+    },
+    {
+      "s": "nqsj3v05",
+      "t": "nweug8dn",
+      "dashed": false
+    },
+    {
+      "s": "nqsj3v05",
+      "t": "nfaki92h",
+      "dashed": false
+    },
+    {
+      "s": "nqsj3v05",
+      "t": "nmm5bb23",
+      "dashed": false
+    }
+  ],
+  "vocab": {
+    "areas": [
+      "Society studies",
+      "Socio-political",
+      "Critical theory",
+      "Media studies",
+      "Design research",
+      "Communication",
+      "Critical design"
+    ],
+    "tags": [],
+    "type": [
+      "Research",
+      "Brief"
+    ]
+  }
+}
