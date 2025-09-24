@@ -39,206 +39,11 @@
       }
     },
     {
-      "id": "n4q8mtzu",
-      "x": 480,
-      "y": 362,
-      "w": 320,
-      "h": 344,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Media conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Media theory",
-          "Journalism studies",
-          "Information systems",
-          "Political communication",
-          "Critical media design"
-        ],
-        "tags": [
-          "Propaganda systems",
-          "Disinformation",
-          "Deepfake",
-          "Rumor propagation",
-          "Narrative control",
-          "Attention economy"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nwl9ouvl",
-      "x": 480,
-      "y": 746,
-      "w": 320,
-      "h": 344,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Cognitive conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Neuroscience",
-          "Human-computer interaction",
-          "Biopolitics",
-          "Cyberpsychology",
-          "Critical technology studies"
-        ],
-        "tags": [
-          "Neurocontrol",
-          "Brain hacking",
-          "Cognitive warfare",
-          "Neural interfaces",
-          "Psychopolitics"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "npongriz",
-      "x": 480,
-      "y": 1130,
-      "w": 320,
-      "h": 344,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Metric conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Data ethics",
-          "Algorithm studies",
-          "Sociology of technology",
-          "Critical data studies",
-          "Digital governance"
-        ],
-        "tags": [
-          "Algorithmic bias",
-          "Data politics",
-          "Scoring systems",
-          "Quantification",
-          "Metric governance",
-          "Predictive control"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n7z0p86f",
-      "x": 480,
-      "y": 1514,
-      "w": 320,
-      "h": 299,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Symbolic conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Cultural studies",
-          "Art history",
-          "Memory studies",
-          "Heritage studies",
-          "Semiotics"
-        ],
-        "tags": [
-          "Cultural memory",
-          "Heritage politics",
-          "Myth-making",
-          "Iconographic power",
-          "Narrative hegemony",
-          "Semiotic infrastructures"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n92sunmm",
-      "x": 480,
-      "y": 1853,
-      "w": 320,
-      "h": 299,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Cultural conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Anthropology",
-          "Sociology",
-          "Cultural theory",
-          "Futures studies",
-          "Ethics"
-        ],
-        "tags": [
-          "Value systems",
-          "Ideological friction",
-          "Cultural hegemony",
-          "Future imaginaries",
-          "Norm contestation"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n3vsqfai",
-      "x": 480,
-      "y": 2192,
-      "w": 320,
-      "h": 299,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Social conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Sociology",
-          "Political science",
-          "Law and rights studies",
-          "Social policy",
-          "Critical theory"
-        ],
-        "tags": [
-          "Citizenship struggles",
-          "Rights negotiation",
-          "Representation crisis",
-          "Social stratification",
-          "Identity politics"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "ncob3sst",
-      "x": 480,
-      "y": 2531,
+      "x": 369.0395639964143,
+      "y": 48.4437741648718,
       "w": 320,
-      "h": 344,
+      "h": 237,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -247,119 +52,324 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "Legal studies",
-          "Political geography",
-          "Bureaucracy studies",
-          "Governance",
-          "Critical urbanism"
+          "Definition"
         ],
-        "tags": [
-          "Administrative violence",
-          "Legal cartographies",
-          "Border regimes",
-          "Paper governance",
-          "Procedural control"
-        ],
-        "desc": "",
+        "tags": [],
+        "desc": "procedures, boundaries, documents, records, regulations, legal maps, administration",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "ne7rohui",
-      "x": 480,
-      "y": 2915,
+      "id": "npa52m07",
+      "x": 1486.7048930581234,
+      "y": -349.13685123250207,
       "w": 320,
-      "h": 322,
+      "h": 378,
       "group": null,
       "data": {
-        "date": "2025-09-19",
-        "title": "Digital conflict",
-        "type": "Brief",
+        "date": "2025-09-24",
+        "title": "mappe giuridiche, regolamnti",
+        "type": "Research",
         "action": null,
         "mainArea": null,
         "areas": [
-          "Computer science",
-          "Cybersecurity",
-          "Digital geopolitics",
-          "Ai ethics",
-          "Critical infrastructure studies"
+          "Definition",
+          "Semantic research"
         ],
-        "tags": [
-          "Automation control",
-          "Kill chain",
-          "Ai warfare",
-          "Protocol politics",
-          "Simulated conflict",
-          "Cyberwarfare"
-        ],
-        "desc": "",
+        "tags": [],
+        "desc": "Una mappa giuridica non è un termine tecnico specifico del diritto, ma generalmente si riferisce a una rappresentazione visiva e strutturata di concetti, leggi, o rami del diritto, simile a una mappa concettuale o a un grafico. Serve a semplificare e organizzare la complessità del sistema giuridico, evidenziando le relazioni tra diverse normative, istituzioni o principi, facilitando la comprensione e lo studio. ",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "nr86jk3r",
-      "x": 480,
-      "y": 3277,
+      "id": "n70eugn6",
+      "x": 1122.1340554967148,
+      "y": -342.7494926281188,
       "w": 320,
-      "h": 322,
+      "h": 310,
       "group": null,
       "data": {
-        "date": "2025-09-19",
-        "title": "Ecological conflict",
-        "type": "Brief",
+        "date": "2025-09-24",
+        "title": "confini",
+        "type": "Research",
         "action": null,
         "mainArea": null,
         "areas": [
-          "Political ecology",
-          "Environmental studies",
-          "Sustainability studies",
-          "Geography",
-          "Climate justice"
+          "Definition",
+          "Semantic research"
         ],
-        "tags": [
-          "Geoengineering",
-          "Resource wars",
-          "Ecocide",
-          "Energy politics",
-          "Environmental violence",
-          "Multispecies justice"
-        ],
-        "desc": "",
+        "tags": [],
+        "desc": "stati decisi a tavolino\nguerre per territori\nsoluzioni di guerre attraverso la burocrazia\ntrattati, armistizi...\nmovimento tra i confini",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "nvlahv4k",
-      "x": 480,
-      "y": 3639,
+      "id": "n6jyhn38",
+      "x": 769.3467540138722,
+      "y": -358.5991224985861,
       "w": 320,
-      "h": 344,
+      "h": 294,
       "group": null,
       "data": {
-        "date": "2025-09-19",
-        "title": "Infrastructural conflict",
-        "type": "Brief",
+        "date": "2025-09-24",
+        "title": "procedure, documenti, registri, amministrazione",
+        "type": "Research",
         "action": null,
         "mainArea": null,
         "areas": [
-          "Infrastructure studies",
-          "Urban studies",
-          "Political geography",
-          "Systems theory",
-          "Supply chain studies"
+          "Definition",
+          "Semantic research"
         ],
-        "tags": [
-          "Logistics power",
-          "Infrastructural geopolitics",
-          "Network control",
-          "Chokepoints",
-          "Extractive systems"
-        ],
-        "desc": "",
+        "tags": [],
+        "desc": "documenti, archiviazioni che descrivono ciò che fai e ciò che sei; documentazione identitaria; documentazione di guerra e conflitti (armistizi, trattati di pace, carte per divorzi); iter burocratico",
         "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvi0dm4q",
+      "x": 735.1939927201053,
+      "y": 460.92804604609705,
+      "w": 320,
+      "h": 796,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Bureaucracy",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Definition",
+          "Semantic research"
+        ],
+        "tags": [],
+        "desc": "Bureaucracy is the body of officials and offices which, organized in various hierarchical levels, carry out the functions of public administration within the state (state bureaucracy; the reform of bureaucracy).\n2. In a broader sense, the word refers to the officials of an entity or an organization, even if not state-related.\n3. In an abstract, and mostly negative sense, bureaucracy can also refer to the power assumed by the mass of officials, and especially to the long and complex series of formalities and procedures—often perceived as excessive and unnecessary—through which a case must pass to be completed (the slowness, the red tape of bureaucracy).\nFinally, in a figurative sense, the term bureaucracy refers to an exaggerated and inflexible observance of regulations, especially when they are followed more in their formal aspects than in their substance.",
+        "links": [],
+        "files": [
+          {
+            "name": "definizione burocrazia.jpg",
+            "size": 481711,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/definizione_burocrazia.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlxdh48f",
+      "x": 397.55856271829595,
+      "y": 905.0553956883864,
+      "w": 320,
+      "h": 462,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "conflict",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Definition",
+          "Semantic research"
+        ],
+        "tags": [],
+        "desc": "Conflict is any form of clash that generates violence, whether material or symbolic.\nConflict is a state of opposition.\nConflict is a constant condition that runs through society.\nIt is not confined to war or explicit confrontations:\nit emerges in the spaces of collective life as friction, as an ongoing confrontation between different needs, systems, and visions.\nIt is present in cultural practices, in social relations, in infrastructures.\nConflict is integrated into everyday environments and practices.\nIt manifests through a widespread arsenal.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nu4trdn0",
+      "x": 1118.2501254933916,
+      "y": 1106.7736444153702,
+      "w": 320,
+      "h": 321,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "emotional response to bureaucracy",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Semantic research"
+        ],
+        "tags": [],
+        "desc": "oppression, truncation, overwhelm, deadlock, helplessness, immobility, coldness, paperwork, boredom, greyness, slowness, frustration, waiting, misunderstanding, difficulty of understanding, lack of adaptability, a wall from which it is hard to obtain answers and help in a short time, a feeling of being left alone and unheard.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzuhnkym",
+      "x": 1336.8485220502948,
+      "y": 515.0377309304854,
+      "w": 320,
+      "h": 185,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "storia della burocrazia ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nij45h41",
+      "x": 1336.092002088277,
+      "y": 783.9035852384063,
+      "w": 320,
+      "h": 185,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "burocrazia che desscrive una vita individuale ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n66t4qzz",
+      "x": 1884.3870625481245,
+      "y": -152.8689557777513,
+      "w": 320,
+      "h": 201,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "rendere la burocrazia più umana -> inserire margine per le emozioni nelgi iter regolamentari",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nk4d3ukj",
+      "x": 2135.83216526922,
+      "y": 1285.6928304897046,
+      "w": 320,
+      "h": 185,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "fu mattia pascal",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nydwxrhx",
+      "x": 1452.919662431257,
+      "y": 1660.31294941296,
+      "w": 320,
+      "h": 185,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "conflitto burocrazia identità",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9e675sa",
+      "x": 2744.1301891261023,
+      "y": 1401.1704225702128,
+      "w": 320,
+      "h": 185,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "conflitto burocrazia potere",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nise8chd",
+      "x": 1911.021188124495,
+      "y": 1591.7824345867737,
+      "w": 320,
+      "h": 185,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "conflitto burocrazia rifiuto",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nr4kqalv",
+      "x": 1485.3021722969313,
+      "y": 1101.3145289947183,
+      "w": 320,
+      "h": 486,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Conflict Between Citizens and Bureaucracy",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Conflict",
+          "Feelings",
+          "Emotional response"
+        ],
+        "tags": [],
+        "desc": "Although bureaucracy is meant to be a system that maintains order, in the daily lives of citizens it often generates discomfort, frustration, anger, and boredom.\n\nThere is a widespread perception and common belief that bureaucracy is long, complex, burdensome, rigid, inaccessible, tedious, and exasperating.",
+        "links": [
+          "Emotional Responses to Bureaucratic Red Tape (Hattke, Hensel, Kalucza, 2019): https:​​/​/journals​.aom​.org​/doi​/10​.5465​/AMBPP​.2019​.134",
+          "The Impact of Red Tape on Citizen Satisfaction: An Experimental Study (Tummers, Weske, Bouwman, Grimmelikhuijsen, 2015): https://research-portal.uu.nl/en/publications/the-impact-of-red-tape-on-citizen-satisfaction-an-experimental-st?"
+        ],
         "files": []
       }
     }
@@ -367,66 +377,106 @@
   "edges": [
     {
       "s": "ny15p0wg",
-      "t": "n4q8mtzu",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "nwl9ouvl",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "npongriz",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "n7z0p86f",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "n92sunmm",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "n3vsqfai",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
       "t": "ncob3sst",
       "dashed": false
     },
     {
-      "s": "ny15p0wg",
-      "t": "ne7rohui",
+      "s": "ncob3sst",
+      "t": "n6jyhn38",
+      "dashed": false
+    },
+    {
+      "s": "ncob3sst",
+      "t": "n70eugn6",
+      "dashed": false
+    },
+    {
+      "s": "ncob3sst",
+      "t": "npa52m07",
       "dashed": false
     },
     {
       "s": "ny15p0wg",
-      "t": "nr86jk3r",
+      "t": "nlxdh48f",
       "dashed": false
     },
     {
       "s": "ny15p0wg",
-      "t": "nvlahv4k",
+      "t": "nvi0dm4q",
+      "dashed": false
+    },
+    {
+      "s": "nu4trdn0",
+      "t": "nr4kqalv",
+      "dashed": false
+    },
+    {
+      "s": "nydwxrhx",
+      "t": "nise8chd",
+      "dashed": false
+    },
+    {
+      "s": "nvi0dm4q",
+      "t": "nu4trdn0",
+      "dashed": false
+    },
+    {
+      "s": "npa52m07",
+      "t": "n66t4qzz",
+      "dashed": false
+    },
+    {
+      "s": "nvi0dm4q",
+      "t": "nzuhnkym",
+      "dashed": false
+    },
+    {
+      "s": "nvi0dm4q",
+      "t": "nij45h41",
+      "dashed": false
+    },
+    {
+      "s": "nij45h41",
+      "t": "nk4d3ukj",
+      "dashed": false
+    },
+    {
+      "s": "nydwxrhx",
+      "t": "nk4d3ukj",
+      "dashed": false
+    },
+    {
+      "s": "nlxdh48f",
+      "t": "nu4trdn0",
+      "dashed": false
+    },
+    {
+      "s": "nlxdh48f",
+      "t": "nydwxrhx",
+      "dashed": false
+    },
+    {
+      "s": "nvi0dm4q",
+      "t": "nydwxrhx",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Critical theory",
+      "Emotional response",
+      "Feelings",
+      "Conflict",
       "Design research",
       "Socio-political",
       "Media studies",
       "Communication",
-      "Critical design"
+      "Critical design",
+      "Definition",
+      "Semantic research"
     ],
     "tags": [],
     "type": [
+      "Research",
       "Brief"
     ]
   }
