@@ -55,15 +55,15 @@
           "Definition"
         ],
         "tags": [],
-        "desc": "procedure, confini, documenti, registri, regolamenti, mappe giuridiche, amministrazione",
+        "desc": "procedures, boundaries, documents, records, regulations, legal maps, administration",
         "links": [],
         "files": []
       }
     },
     {
       "id": "npa52m07",
-      "x": 1090.7048930581234,
-      "y": -621.1368512325021,
+      "x": 1486.7048930581234,
+      "y": -349.13685123250207,
       "w": 320,
       "h": 378,
       "group": null,
@@ -85,8 +85,8 @@
     },
     {
       "id": "n70eugn6",
-      "x": 726.1340554967148,
-      "y": -614.7494926281188,
+      "x": 1122.1340554967148,
+      "y": -342.7494926281188,
       "w": 320,
       "h": 310,
       "group": null,
@@ -108,8 +108,8 @@
     },
     {
       "id": "n6jyhn38",
-      "x": 373.3467540138722,
-      "y": -630.5991224985861,
+      "x": 769.3467540138722,
+      "y": -358.5991224985861,
       "w": 320,
       "h": 294,
       "group": null,
@@ -131,14 +131,14 @@
     },
     {
       "id": "nvi0dm4q",
-      "x": 783.9443914092781,
-      "y": 305.48405081797443,
+      "x": 735.1939927201053,
+      "y": 460.92804604609705,
       "w": 320,
-      "h": 512,
+      "h": 796,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "definizione burocrazia",
+        "title": "Bureaucracy",
         "type": "Research",
         "action": "Exploring",
         "mainArea": null,
@@ -147,21 +147,30 @@
           "Semantic research"
         ],
         "tags": [],
-        "desc": "1. La BUROCRAZIA è l’insieme dei funzionari e degli uffici che, organizzati in vari gradi gerarchici, svolgono nello stato le funzioni della pubblica amministrazione (la b. statale; la riforma della b.); 2. in senso più ampio, la parola indica l’insieme dei funzionari di un ente, di un organismo, anche non statale. 3. In senso astratto, e per lo più negativo, la parola burocrazia può indicare anche il potere assunto dalla massa dei funzionari, e soprattutto la lunga e complessa serie di formalità e procedure, spesso avvertite come eccessive e inutili, attraverso cui una pratica deve passare per essere portata a termine (la lentezza, le lungaggini della b.). 4. In senso figurato, infine, il termine burocrazia sta ad indicare un’osservanza esagerata e inflessibile dei regolamenti, specialmente quando essi vengono osservati più negli aspetti formali che nella sostanza.",
+        "desc": "Bureaucracy is the body of officials and offices which, organized in various hierarchical levels, carry out the functions of public administration within the state (state bureaucracy; the reform of bureaucracy).\n2. In a broader sense, the word refers to the officials of an entity or an organization, even if not state-related.\n3. In an abstract, and mostly negative sense, bureaucracy can also refer to the power assumed by the mass of officials, and especially to the long and complex series of formalities and procedures—often perceived as excessive and unnecessary—through which a case must pass to be completed (the slowness, the red tape of bureaucracy).\nFinally, in a figurative sense, the term bureaucracy refers to an exaggerated and inflexible observance of regulations, especially when they are followed more in their formal aspects than in their substance.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "definizione burocrazia.jpg",
+            "size": 481711,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/definizione_burocrazia.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nlxdh48f",
-      "x": 375.3918789496556,
-      "y": 372.74331069570707,
+      "x": 397.55856271829595,
+      "y": 905.0553956883864,
       "w": 320,
-      "h": 495,
+      "h": 462,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "definizione conflitto",
+        "title": "conflict",
         "type": "Research",
         "action": "Exploring",
         "mainArea": null,
@@ -170,40 +179,17 @@
           "Semantic research"
         ],
         "tags": [],
-        "desc": "Il conflitto è ogni forma di scontro che produce violenza, materiale o simbolica.\nIl conflitto è uno stato di opposizione.\nIl conflitto è una condizione costante che attraversa la società.\n\nNon è confinato alla guerra o agli scontri espliciti:\nemerge negli spazi della vita collettiva come attrito, come confronto continuo\ntra esigenze, sistemi e visioni diverse.\nÈ presente nelle pratiche culturali, nelle relazioni sociali, nelle infrastrutture.\nIl conflitto è integrato in ambienti e pratiche quotidiane.\nSi manifesta attraverso un arsenale diffuso: linguaggi, confini, procedure amministrative, regole culturali, risorse ambientali, narrazioni simboliche.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n0rjmd1i",
-      "x": 632.5821063381454,
-      "y": 1042.4950365609761,
-      "w": 320,
-      "h": 1133,
-      "group": null,
-      "data": {
-        "date": "2025-09-24",
-        "title": "conflitto burocratico",
-        "type": "Research",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [
-          "Definition",
-          "Semantic research"
-        ],
-        "tags": [],
-        "desc": "Prospettive sui conflitti burocratici: un'analisi multidisciplinare\nIntroduzione al Conflitto Burocratico: Il conflitto burocratico è una sfida intrinseca e multiforme nelle organizzazioni moderne, sia pubbliche che private. Non è una semplice anomalia gestionale, ma un fenomeno prevedibile radicato nei principi organizzativi, e questo rapporto lo analizza attraverso quattro lenti distinte.\nIl Paradosso Weberiano: Max Weber teorizzò che la burocrazia, progettata per razionalità ed efficienza, contiene in sé i semi della rigidità, disumanizzazione e conflitto. Le disfunzioni includono l'incapacità addestrata (specializzazione eccessiva che limita l'adattabilità) e il ritualismo (adesione pedissequa alle regole a discapito degli obiettivi). Culmina nel concetto di \"gabbia d'acciaio,\" dove la razionalizzazione pervasiva intrappola e disumanizza gli individui.\nTeoria del Conflitto Sociologico: Questa prospettiva, con radici in Marx e Dahrendorf, vede il conflitto non come un'anomalia, ma come una forza motrice della vita sociale e organizzativa. Le burocrazie sono arene di lotta per risorse limitate (ricchezza, potere, prestigio) e per la distribuzione ineguale dell'autorità. Weber stesso individuò tre dimensioni di conflitto: classe (economico), status (sociale) e partito (politico).\nIl Modello della Politica Burocratica di Graham Allison: Allison, studiando la crisi dei missili di Cuba, ha sfidato la visione dello Stato come attore razionale e unitario. Ha proposto che le decisioni governative siano \"risultanti politiche\" di complesse negoziazioni e conflitti tra attori interni, le cui posizioni sono influenzate dagli interessi e priorità della loro agenzia (\"turf\").\nParalisi del Settore Pubblico: La Burocrazia Difensiva Italiana: In Italia, la \"burocrazia difensiva\" e la \"paura della firma\" portano alla paralisi decisionale. Le cause includono la complessità normativa, il timore del danno erariale (responsabilità finanziaria personale) e un sistema che penalizza l'azione ma non l'inerzia. Lo \"scudo erariale,\" che limita la responsabilità al dolo, è un tentativo controverso di mitigare il problema, ma la Corte dei Conti lo critica come giustificazione per l'impunità.\nGuerre Civili Aziendali: Silos Organizzativi nel Settore Privato: Anche nel privato, la specializzazione funzionale può degenerare in \"silos organizzativi\"—dipartimenti isolati che non comunicano efficacemente. Questo porta ad accaparramento di risorse, obiettivi disallineati, degrado dell'esperienza del cliente e soffocamento dell'innovazione, erodendo la competitività.",
+        "desc": "Conflict is any form of clash that generates violence, whether material or symbolic.\nConflict is a state of opposition.\nConflict is a constant condition that runs through society.\nIt is not confined to war or explicit confrontations:\nit emerges in the spaces of collective life as friction, as an ongoing confrontation between different needs, systems, and visions.\nIt is present in cultural practices, in social relations, in infrastructures.\nConflict is integrated into everyday environments and practices.\nIt manifests through a widespread arsenal.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nu4trdn0",
-      "x": 1225.1755979260663,
-      "y": 678.6424439077239,
+      "x": 1118.2501254933916,
+      "y": 1106.7736444153702,
       "w": 320,
-      "h": 439,
+      "h": 321,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -215,15 +201,15 @@
           "Semantic research"
         ],
         "tags": [],
-        "desc": "oppressione, troncamento, overwhelming, stallo, impotenza, stallo, immobilità, impotenza, freddezza, scartoffie\nnoia\ngrigio\nimpotenza, lentezza, \nfrustrazione,\nattesa,\nincomprensione,\ndi difficile comprensione, \nnon adattabile a tutti, un muro dal quale è difficile ottenere risposte e aiuto, sopratutto in tempi brevi.\nsensazione di essere abbandonati a se stessi e non ascoltati.",
+        "desc": "oppression, truncation, overwhelm, deadlock, helplessness, immobility, coldness, paperwork, boredom, greyness, slowness, frustration, waiting, misunderstanding, difficulty of understanding, lack of adaptability, a wall from which it is hard to obtain answers and help in a short time, a feeling of being left alone and unheard.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nzuhnkym",
-      "x": 1502.564571481983,
-      "y": -118.31538950021346,
+      "x": 1336.8485220502948,
+      "y": 515.0377309304854,
       "w": 320,
       "h": 185,
       "group": null,
@@ -242,8 +228,8 @@
     },
     {
       "id": "nij45h41",
-      "x": 1614.3204818590507,
-      "y": 269.2582273466721,
+      "x": 1336.092002088277,
+      "y": 783.9035852384063,
       "w": 320,
       "h": 185,
       "group": null,
@@ -262,8 +248,8 @@
     },
     {
       "id": "n66t4qzz",
-      "x": 1488.3870625481245,
-      "y": -424.8689557777513,
+      "x": 1884.3870625481245,
+      "y": -152.8689557777513,
       "w": 320,
       "h": 201,
       "group": null,
@@ -282,8 +268,8 @@
     },
     {
       "id": "nk4d3ukj",
-      "x": 2107.870327820192,
-      "y": 599.1381538324641,
+      "x": 2135.83216526922,
+      "y": 1285.6928304897046,
       "w": 320,
       "h": 185,
       "group": null,
@@ -302,8 +288,8 @@
     },
     {
       "id": "nydwxrhx",
-      "x": 1087.4064195928468,
-      "y": 1262.7375709175044,
+      "x": 1452.919662431257,
+      "y": 1660.31294941296,
       "w": 320,
       "h": 185,
       "group": null,
@@ -322,8 +308,8 @@
     },
     {
       "id": "n9e675sa",
-      "x": 1086.3779589673334,
-      "y": 1487.9704479049165,
+      "x": 2744.1301891261023,
+      "y": 1401.1704225702128,
       "w": 320,
       "h": 185,
       "group": null,
@@ -342,8 +328,8 @@
     },
     {
       "id": "nise8chd",
-      "x": 1528.6475706744632,
-      "y": 1246.1038098826393,
+      "x": 1911.021188124495,
+      "y": 1591.7824345867737,
       "w": 320,
       "h": 185,
       "group": null,
@@ -362,21 +348,28 @@
     },
     {
       "id": "nr4kqalv",
-      "x": 1640.0724740324736,
-      "y": 986.1566700140272,
+      "x": 1485.3021722969313,
+      "y": 1101.3145289947183,
       "w": 320,
-      "h": 185,
+      "h": 486,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
+        "title": "Conflict Between Citizens and Bureaucracy",
         "type": "",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Conflict",
+          "Feelings",
+          "Emotional response"
+        ],
         "tags": [],
-        "desc": "conflitto con la burocrazia stessa",
-        "links": [],
+        "desc": "Although bureaucracy is meant to be a system that maintains order, in the daily lives of citizens it often generates discomfort, frustration, anger, and boredom.\n\nThere is a widespread perception and common belief that bureaucracy is long, complex, burdensome, rigid, inaccessible, tedious, and exasperating.",
+        "links": [
+          "Emotional Responses to Bureaucratic Red Tape (Hattke, Hensel, Kalucza, 2019): https:​​/​/journals​.aom​.org​/doi​/10​.5465​/AMBPP​.2019​.134",
+          "The Impact of Red Tape on Citizen Satisfaction: An Experimental Study (Tummers, Weske, Bouwman, Grimmelikhuijsen, 2015): https://research-portal.uu.nl/en/publications/the-impact-of-red-tape-on-citizen-satisfaction-an-experimental-st?"
+        ],
         "files": []
       }
     }
@@ -403,16 +396,6 @@
       "dashed": false
     },
     {
-      "s": "nlxdh48f",
-      "t": "n0rjmd1i",
-      "dashed": false
-    },
-    {
-      "s": "nvi0dm4q",
-      "t": "n0rjmd1i",
-      "dashed": false
-    },
-    {
       "s": "ny15p0wg",
       "t": "nlxdh48f",
       "dashed": false
@@ -428,37 +411,12 @@
       "dashed": false
     },
     {
-      "s": "n0rjmd1i",
-      "t": "nr4kqalv",
-      "dashed": false
-    },
-    {
-      "s": "n0rjmd1i",
-      "t": "nydwxrhx",
-      "dashed": false
-    },
-    {
-      "s": "n0rjmd1i",
-      "t": "n9e675sa",
-      "dashed": false
-    },
-    {
-      "s": "n0rjmd1i",
-      "t": "nise8chd",
-      "dashed": false
-    },
-    {
       "s": "nydwxrhx",
       "t": "nise8chd",
       "dashed": false
     },
     {
       "s": "nvi0dm4q",
-      "t": "nu4trdn0",
-      "dashed": false
-    },
-    {
-      "s": "n0rjmd1i",
       "t": "nu4trdn0",
       "dashed": false
     },
@@ -486,19 +444,35 @@
       "s": "nydwxrhx",
       "t": "nk4d3ukj",
       "dashed": false
+    },
+    {
+      "s": "nlxdh48f",
+      "t": "nu4trdn0",
+      "dashed": false
+    },
+    {
+      "s": "nlxdh48f",
+      "t": "nydwxrhx",
+      "dashed": false
+    },
+    {
+      "s": "nvi0dm4q",
+      "t": "nydwxrhx",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Semantic research",
-      "Definition",
-      "Significato",
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Socio-political",
+      "Emotional response",
+      "Feelings",
+      "Conflict",
       "Design research",
-      "Critical theory"
+      "Socio-political",
+      "Media studies",
+      "Communication",
+      "Critical design",
+      "Definition",
+      "Semantic research"
     ],
     "tags": [],
     "type": [
