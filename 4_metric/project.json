@@ -1254,7 +1254,7 @@
     },
     {
       "id": "nutmmv06",
-      "x": 2293.7789109068403,
+      "x": 2364.2895560979437,
       "y": 1425.3986314752938,
       "w": 320,
       "h": 389,
@@ -1283,7 +1283,7 @@
     },
     {
       "id": "nscn3qxy",
-      "x": 2293.8183817336226,
+      "x": 2364.329026924726,
       "y": 1838.3693974434045,
       "w": 320,
       "h": 410,
@@ -1310,7 +1310,7 @@
     },
     {
       "id": "n5zy1wbw",
-      "x": 2295.5900122565686,
+      "x": 2366.100657447672,
       "y": 2261.7117192111414,
       "w": 320,
       "h": 427,
@@ -1336,7 +1336,7 @@
     },
     {
       "id": "napmn0rs",
-      "x": 2296.091540207046,
+      "x": 2366.6021853981492,
       "y": 2744.3693974434045,
       "w": 320,
       "h": 589,
@@ -1630,36 +1630,35 @@
   ],
   "vocab": {
     "areas": [
-      "Chronopolitics",
-      "Cronopolitic",
-      "Critical data studies",
-      "Critical design",
-      "Data ethics",
-      "Media studies",
-      "Socio-political",
-      "Design research",
+      "Communication",
       "Critical theory",
-      "Communication"
+      "Design research",
+      "Socio-political",
+      "Media studies",
+      "Data ethics",
+      "Critical design",
+      "Critical data studies",
+      "Chronopolitics"
     ],
     "tags": [
-      "Metric governance",
-      "Metrics distortion",
-      "Biometric data",
-      "Big data",
-      "Subjective reality",
-      "Measuring the unmeasurable",
-      "Statistic bias",
-      "Algorithmic bias",
-      "Cognitive bias",
-      "Data perception",
-      "Identities",
-      "Deceptive pattern",
+      "Relativity",
       "Data representation",
-      "Relativity"
+      "Deceptive pattern",
+      "Identities",
+      "Data perception",
+      "Cognitive bias",
+      "Algorithmic bias",
+      "Statistic bias",
+      "Measuring the unmeasurable",
+      "Subjective reality",
+      "Big data",
+      "Biometric data",
+      "Metrics distortion",
+      "Metric governance"
     ],
     "type": [
-      "Research",
-      "Brief"
+      "Brief",
+      "Research"
     ]
   }
 }
