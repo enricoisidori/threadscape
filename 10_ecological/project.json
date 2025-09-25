@@ -395,6 +395,42 @@
         "links": [],
         "files": []
       }
+    },
+    {
+      "id": "n11h688t",
+      "x": 894.3405556770413,
+      "y": 3251.917429938246,
+      "w": 320,
+      "h": 752,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Primissime idee",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Research",
+          "Ideas"
+        ],
+        "tags": [
+          "Scenarios",
+          "Speculation",
+          "Ideas"
+        ],
+        "desc": "Primissime idee a seguito della consegna del brief.\nEcologismo portato allo stremo, ingegnerizzazione della natura, specismo. A seguito revisione in cui ci viene richiesto di partire da una ricerca molto più ampia e non lanciarci subito negli scenari possibili.\nProblematiche: significato di conflitto e significato di ecologia.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-09-25 at 16.03.13.jpeg",
+            "size": 1260022,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-09-25_at_16.03.13.jpg"
+          }
+        ]
+      }
     }
   ],
   "edges": [
@@ -452,19 +488,33 @@
       "s": "ny15p0wg",
       "t": "nvlahv4k",
       "dashed": false
+    },
+    {
+      "s": "nr86jk3r",
+      "t": "n11h688t",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Socio-political",
+      "Ideas",
+      "Research",
+      "Speculation",
+      "Scenarios",
+      "Critical theory",
       "Design research",
-      "Critical theory"
+      "Socio-political",
+      "Media studies",
+      "Communication",
+      "Critical design"
     ],
-    "tags": [],
+    "tags": [
+      "Ideas",
+      "Speculation",
+      "Scenarios"
+    ],
     "type": [
+      "Ideas",
       "Brief"
     ]
   }
