@@ -431,6 +431,276 @@
           }
         ]
       }
+    },
+    {
+      "id": "nrfocg5e",
+      "x": 1398.7117348020975,
+      "y": 3356.8357584903074,
+      "w": 320,
+      "h": 660,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Definizioni",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Ideas",
+          "Research"
+        ],
+        "tags": [
+          "Research"
+        ],
+        "desc": "Ricerca generale sulle definizioni del tema. Approfondimenti individuali sul tema del conflitto ecologico, alcuni temi sono risultati sovrapponibili e siamo arrivati a quattro macro temi del conflitto ecologico. Importante chiedersi sempre: dov'è il conflitto? il tema su cui stiamo riflettendo è ecologico o andiamo a sfociare su altri tipi di conflitto (es. valoriale)?",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2025-09-25 alle 16.34.27.png",
+            "size": 219148,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2025-09-25_alle_16.34.27.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4hbav2k",
+      "x": 1833.729363824014,
+      "y": 2989.0377128710593,
+      "w": 320,
+      "h": 283,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Artificiale = iperecologico",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Research"
+        ],
+        "tags": [
+          "Research"
+        ],
+        "desc": "L’artificiale come iperecologico in una visione non antropocentrica ma che pone i viventi tutti sullo stesso piano.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9lkcaca",
+      "x": 1833.291552979668,
+      "y": 3299.7218120867406,
+      "w": 320,
+      "h": 248,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Conflitto genera conflitto",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Il conflitto umano come generatore di conflitti ecologici. \n\nTemiamo che questo tema possa essere scontato.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nlbflxss",
+      "x": 1837.6737528400993,
+      "y": 3621.47003588775,
+      "w": 320,
+      "h": 248,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Conflitto tiene l'equilibrio",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Il disequilibrio dell’ecosistema come conseguenza di una totale assenza di conflitto.\nIn alternativa: non vi è ecologia senza conflitto.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0mac59k",
+      "x": 1837.8640310831765,
+      "y": 3912.1727487877706,
+      "w": 320,
+      "h": 294,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Parallelismo",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [
+          "Research"
+        ],
+        "desc": "Parallelismo tra conflitti attuali e conflitti “naturali” (es. dinamica preda-predatore) per ragionare sul conflitto come qualcosa di ferale e animalesco ma naturale.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0kf9z1s",
+      "x": 2548.365377236599,
+      "y": 3518.1140892801423,
+      "w": 320,
+      "h": 395,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Ulteriore ricerca",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Research",
+          "Ideas"
+        ],
+        "tags": [
+          "Research"
+        ],
+        "desc": "A seguito della precedente revisione, in cui ci viene chiesto di andare più nello specifico sulle tematiche e di concentrarci su temi dell'ecologia che interessano l'uomo, delineiamo tre tematiche.",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2025-09-25 alle 16.43.34.png",
+            "size": 70689,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2025-09-25_alle_16.43.34.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nulc1f6y",
+      "x": 3002.9969720077092,
+      "y": 2834.1569055442196,
+      "w": 320,
+      "h": 562,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "Paradosso",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Ideas",
+          "Research"
+        ],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "Tematica del paradosso.\n\n- e se l’artificiale venisse reputato più sostenibile del naturale?\n- e se la direzione della biomimesi prendesse totalmente il posto della natura?\n",
+        "links": [
+          "https://news.harvard.edu/gazette/story/2023/10/clearing-forests-to-erect-solar-panels-may-not-be-clean-energy-solution/",
+          "https://www.designboom.com/technology/biomitech-biourban-robotic-tree-fights-pollution-08-19-2019/",
+          "https://www.green.it/impatto-ambientale-delle-dighe/"
+        ],
+        "files": [
+          {
+            "name": "Schermata 2025-09-25 alle 16.46.11.png",
+            "size": 114647,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2025-09-25_alle_16.46.11.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmymasin",
+      "x": 3020.5532899152317,
+      "y": 3526.6561118965174,
+      "w": 320,
+      "h": 487,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "artificiale / naturale",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Research",
+          "Ideas"
+        ],
+        "tags": [
+          "Ideas",
+          "Speculation"
+        ],
+        "desc": "- se tutto diventa manipolato o incontrollabile, che cosa resta davvero “naturale”? \n- Quanto perdiamo della nostra “umanità” quando ci affidiamo sempre più a tecnologie che, imitando ciò che un tempo era naturale, riescono a controllarci?",
+        "links": [
+          "https://nextnature.org/en/magazine/story/2012/latro-algae-lamp",
+          "https://www.martinavila.com/projects/mcfic/"
+        ],
+        "files": [
+          {
+            "name": "Schermata 2025-09-25 alle 16.50.08.png",
+            "size": 187444,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2025-09-25_alle_16.50.08.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnsp5tri",
+      "x": 3014.0481519734285,
+      "y": 4110.5951056600925,
+      "w": 320,
+      "h": 499,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Temporalità incompatibili",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Research",
+          "Ideas"
+        ],
+        "tags": [
+          "Research",
+          "Ideas",
+          "Speculation"
+        ],
+        "desc": "Il tempo fosse una risorsa finita da redistribuire? \nE se dovessimo negoziare i nostri ritmi con quelli degli ecosistemi? Che forma avrebbe una società sincronizzata con i tempi della Terra?",
+        "links": [
+          "https://direct.mit.edu/glep/article/21/2/44/97366/Policy-Characteristics-Electoral-Cycles-and-the?",
+          "https://www.renewablematter.eu/estrattivismo-trasformando-amazzonia-deserto",
+          "https://ilmanifesto.it/ecocidio-autorizzato-o-bene-comune-globale-da-salvare-lamazzonia-al-ballottaggio"
+        ],
+        "files": [
+          {
+            "name": "Schermata 2025-09-25 alle 16.54.02.png",
+            "size": 52993,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2025-09-25_alle_16.54.02.jpg"
+          }
+        ]
+      }
     }
   ],
   "edges": [
@@ -493,25 +763,84 @@
       "s": "nr86jk3r",
       "t": "n11h688t",
       "dashed": false
+    },
+    {
+      "s": "n11h688t",
+      "t": "nrfocg5e",
+      "dashed": false
+    },
+    {
+      "s": "nrfocg5e",
+      "t": "n4hbav2k",
+      "dashed": false
+    },
+    {
+      "s": "nrfocg5e",
+      "t": "n9lkcaca",
+      "dashed": false
+    },
+    {
+      "s": "nrfocg5e",
+      "t": "nlbflxss",
+      "dashed": false
+    },
+    {
+      "s": "nrfocg5e",
+      "t": "n0mac59k",
+      "dashed": false
+    },
+    {
+      "s": "n4hbav2k",
+      "t": "n0kf9z1s",
+      "dashed": false
+    },
+    {
+      "s": "n9lkcaca",
+      "t": "n0kf9z1s",
+      "dashed": false
+    },
+    {
+      "s": "nlbflxss",
+      "t": "n0kf9z1s",
+      "dashed": false
+    },
+    {
+      "s": "n0mac59k",
+      "t": "n0kf9z1s",
+      "dashed": false
+    },
+    {
+      "s": "n0kf9z1s",
+      "t": "nulc1f6y",
+      "dashed": false
+    },
+    {
+      "s": "n0kf9z1s",
+      "t": "nmymasin",
+      "dashed": false
+    },
+    {
+      "s": "n0kf9z1s",
+      "t": "nnsp5tri",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "Ideas",
       "Research",
-      "Speculation",
-      "Scenarios",
-      "Critical theory",
-      "Design research",
-      "Socio-political",
-      "Media studies",
+      "Critical design",
       "Communication",
-      "Critical design"
+      "Media studies",
+      "Socio-political",
+      "Design research",
+      "Critical theory"
     ],
     "tags": [
-      "Ideas",
       "Speculation",
-      "Scenarios"
+      "Ideas",
+      "Scenarios",
+      "Research"
     ],
     "type": [
       "Ideas",
