@@ -599,28 +599,6 @@
       }
     },
     {
-      "id": "nfxwtxjg",
-      "x": 2733.0780968461504,
-      "y": 4397.70015689458,
-      "w": 320,
-      "h": 149,
-      "group": null,
-      "data": {
-        "date": "2025-09-23",
-        "title": "",
-        "type": "Research",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [
-          "Critical theory"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "nahpwlgx",
       "x": 2673.564757695625,
       "y": 3474.8591344830493,
@@ -647,35 +625,38 @@
       }
     },
     {
-      "id": "nqhs4c7q",
-      "x": 2778.574274709587,
-      "y": 4588.726611123091,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2025-09-23",
-        "title": "",
-        "type": "Research",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "ng7rbcv7",
-      "x": 2734.3688121381565,
-      "y": 4201.784600484536,
+      "x": 2755.2854138525677,
+      "y": 4928.345039672839,
       "w": 320,
-      "h": 143,
+      "h": 202,
       "group": null,
       "data": {
         "date": "2025-09-23",
-        "title": "",
+        "title": "Biopower",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Socio-political",
+          "General knowledge"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0te2dyy",
+      "x": 2750.979708965804,
+      "y": 5183.034432472609,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Urbicide",
         "type": "Research",
         "action": "Exploring",
         "mainArea": null,
@@ -687,15 +668,37 @@
       }
     },
     {
-      "id": "nhnkyrav",
-      "x": 2770.9762722785285,
-      "y": 4787.537043217452,
+      "id": "ngiple7s",
+      "x": 2747.9551036538837,
+      "y": 5270.774020992365,
       "w": 320,
-      "h": 143,
+      "h": 179,
       "group": null,
       "data": {
-        "date": "2025-09-23",
-        "title": "",
+        "date": "2025-09-24",
+        "title": "Bordered",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Critical theory"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nig80wj9",
+      "x": 3113.674718400261,
+      "y": 5071.439389679501,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "War Necropolitics",
         "type": "Research",
         "action": "Exploring",
         "mainArea": null,
@@ -707,15 +710,15 @@
       }
     },
     {
-      "id": "n9fxiy4p",
-      "x": 2782.403846853849,
-      "y": 5003.196585898188,
+      "id": "ne42ns33",
+      "x": 2744.974169453115,
+      "y": 5366.093052845511,
       "w": 320,
-      "h": 143,
+      "h": 173,
       "group": null,
       "data": {
-        "date": "2025-09-23",
-        "title": "",
+        "date": "2025-09-24",
+        "title": "The tragedy of Content Moderators",
         "type": "Research",
         "action": "Exploring",
         "mainArea": null,
@@ -727,19 +730,677 @@
       }
     },
     {
-      "id": "nvmyu19c",
-      "x": 2757.0771720836547,
-      "y": 5199.794588329246,
+      "id": "n7ilvbh6",
+      "x": 2740.9617956134807,
+      "y": 4223.1004226315035,
       "w": 320,
-      "h": 143,
+      "h": 173,
       "group": null,
       "data": {
-        "date": "2025-09-23",
-        "title": "",
+        "date": "2025-09-24",
+        "title": "Internet Backbone",
         "type": "Research",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncg2fcz2",
+      "x": 2741.477889668403,
+      "y": 4282.634244809462,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Wireless and mobile networks",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nl6gswys",
+      "x": 2732,
+      "y": 4345.969792729872,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Data centers",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nddb89ds",
+      "x": 2756.5587296530343,
+      "y": 5058.208056916335,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Necropolitics",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n53i144t",
+      "x": 3109.731763396094,
+      "y": 4285.097489769063,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Cross cutting conflict nodes",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nl1g9ilz",
+      "x": 2736,
+      "y": 4418.969792729872,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Videocameras",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3gqeux0",
+      "x": 2732.1735662687893,
+      "y": 4476.090085623292,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Cyber conflict",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnlpf2mn",
+      "x": 2753.2969046672424,
+      "y": 5635.553224202507,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "the white man's burden",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nndxghpd",
+      "x": 2751.5339306752876,
+      "y": 5742.774784685213,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Cultural infrastructure's problems in Italy",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nja3vax1",
+      "x": 2752.007982691378,
+      "y": 5860.840657264459,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Simbolical infrastructures",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nekkmfu5",
+      "x": 2717.2969046672424,
+      "y": 6134.553224202507,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Overturism",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwivrpwx",
+      "x": 2717.2969046672424,
+      "y": 6215.553224202507,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Cultural Heritage",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npoaf3ou",
+      "x": 2715.745032049893,
+      "y": 6320.466052189738,
+      "w": 320,
+      "h": 190,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "War targets riorganized for a socio-economical advantage",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nr8i4jja",
+      "x": 2716.3172170608805,
+      "y": 6647.553224202507,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Energetic Infrastructures",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ntg0e6es",
+      "x": 3128.3172170608805,
+      "y": 6563.553224202507,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Power Grids",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnz6kvu3",
+      "x": 3124.3172170608805,
+      "y": 6676.553224202507,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Pipelines",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvnrich3",
+      "x": 3507.0083485446803,
+      "y": 6611.674936747703,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "cross cutting conflict nodes",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwmvw3b4",
+      "x": 3127.933730812445,
+      "y": 6889.553224202507,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Megatrends ",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncsohusa",
+      "x": 3140.59733937697,
+      "y": 7100.020502489602,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Fossil Fuels",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzb2m0qr",
+      "x": 3135.5318959511605,
+      "y": 7307.955059063793,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Sattelits",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n25ovdfg",
+      "x": 2693.3306670386955,
+      "y": 7621.09466841122,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Transportation ",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmau57nf",
+      "x": 3053.584515291153,
+      "y": 7597.145438061711,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "In Italy",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n73s5et2",
+      "x": 3050.163196669795,
+      "y": 7676.714011828735,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Supplies in war time",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkthjzom",
+      "x": 3039.8992408057197,
+      "y": 7739.1759924889675,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Integration of travel in more facets of life",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nackr6xg",
+      "x": 4233.672667388464,
+      "y": 5980.037374373785,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Review",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "General knowledge"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0079gul",
+      "x": 4722.176474739443,
+      "y": 5614.3962373114755,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Environmental sustainability vs developement",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "General knowledge"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0cinr9z",
+      "x": 4713.672667388464,
+      "y": 5837.3962373114755,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "infrastructure conflict about shared infrastructure ",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "General knowledge"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nyjy5rg0",
+      "x": 4709.055242500114,
+      "y": 6108.57538901423,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Humanitary/Sanitary help vs war target",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1uuqalf",
+      "x": 4713.672667388464,
+      "y": 6321.57538901423,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "instruction palce vs distruction place",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "General knowledge"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0z43ix8",
+      "x": 4713.672667388464,
+      "y": 6540.57538901423,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Turism vs Welfare",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "General knowledge"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nf6ny5m2",
+      "x": 4711.4650802195965,
+      "y": 6765.320106568497,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "La città del sole",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Socio-political",
+          "General knowledge"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nziuwnz4",
+      "x": 5080.239733061525,
+      "y": 6778.884173295092,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Neuroarchitecture",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Socio-political",
+          "General knowledge"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nj01owja",
+      "x": 4713.672667388464,
+      "y": 7007.320106568497,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Foreigners everywhere: Biennale",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "General knowledge"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -849,16 +1510,6 @@
       "dashed": false
     },
     {
-      "s": "nsdsyt6d",
-      "t": "nfxwtxjg",
-      "dashed": false
-    },
-    {
-      "s": "nnvd0gn7",
-      "t": "nfxwtxjg",
-      "dashed": false
-    },
-    {
       "s": "n33i8hbz",
       "t": "nsdsyt6d",
       "dashed": false
@@ -869,70 +1520,465 @@
       "dashed": false
     },
     {
+      "s": "nsdsyt6d",
+      "t": "ng7rbcv7",
+      "dashed": false
+    },
+    {
       "s": "nw4b1gsd",
-      "t": "nqhs4c7q",
-      "dashed": false
-    },
-    {
-      "s": "n6ef8tan",
       "t": "ng7rbcv7",
       "dashed": false
     },
     {
-      "s": "nsdsyt6d",
-      "t": "ng7rbcv7",
+      "s": "nw4b1gsd",
+      "t": "n0te2dyy",
       "dashed": false
     },
     {
       "s": "nsdsyt6d",
-      "t": "nqhs4c7q",
-      "dashed": false
-    },
-    {
-      "s": "n6rj6h65",
-      "t": "nhnkyrav",
+      "t": "n0te2dyy",
       "dashed": false
     },
     {
       "s": "nsdsyt6d",
-      "t": "nhnkyrav",
+      "t": "ngiple7s",
       "dashed": false
     },
     {
-      "s": "ncjegc4i",
-      "t": "n9fxiy4p",
+      "s": "nw4b1gsd",
+      "t": "ngiple7s",
+      "dashed": false
+    },
+    {
+      "s": "nw4b1gsd",
+      "t": "ne42ns33",
       "dashed": false
     },
     {
       "s": "nsdsyt6d",
-      "t": "n9fxiy4p",
+      "t": "ne42ns33",
+      "dashed": false
+    },
+    {
+      "s": "nnvd0gn7",
+      "t": "n7ilvbh6",
+      "dashed": false
+    },
+    {
+      "s": "nnvd0gn7",
+      "t": "ncg2fcz2",
+      "dashed": false
+    },
+    {
+      "s": "nnvd0gn7",
+      "t": "nl6gswys",
+      "dashed": false
+    },
+    {
+      "s": "nw4b1gsd",
+      "t": "nddb89ds",
+      "dashed": false
+    },
+    {
+      "s": "nddb89ds",
+      "t": "nig80wj9",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "ncg2fcz2",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "n7ilvbh6",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "nl6gswys",
+      "dashed": false
+    },
+    {
+      "s": "n7ilvbh6",
+      "t": "n53i144t",
+      "dashed": false
+    },
+    {
+      "s": "ncg2fcz2",
+      "t": "n53i144t",
+      "dashed": false
+    },
+    {
+      "s": "nl6gswys",
+      "t": "n53i144t",
+      "dashed": false
+    },
+    {
+      "s": "nnvd0gn7",
+      "t": "nl1g9ilz",
+      "dashed": false
+    },
+    {
+      "s": "nnvd0gn7",
+      "t": "n3gqeux0",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "n3gqeux0",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "nl1g9ilz",
       "dashed": false
     },
     {
       "s": "nm15tku8",
-      "t": "nvmyu19c",
+      "t": "nnlpf2mn",
+      "dashed": false
+    },
+    {
+      "s": "nm15tku8",
+      "t": "nndxghpd",
+      "dashed": false
+    },
+    {
+      "s": "nm15tku8",
+      "t": "nja3vax1",
       "dashed": false
     },
     {
       "s": "nsdsyt6d",
-      "t": "nvmyu19c",
+      "t": "nnlpf2mn",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "nndxghpd",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "nja3vax1",
+      "dashed": false
+    },
+    {
+      "s": "ncjegc4i",
+      "t": "nekkmfu5",
+      "dashed": false
+    },
+    {
+      "s": "ncjegc4i",
+      "t": "nwivrpwx",
+      "dashed": false
+    },
+    {
+      "s": "ncjegc4i",
+      "t": "npoaf3ou",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "nekkmfu5",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "nwivrpwx",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "npoaf3ou",
+      "dashed": false
+    },
+    {
+      "s": "n6ef8tan",
+      "t": "nr8i4jja",
+      "dashed": false
+    },
+    {
+      "s": "nr8i4jja",
+      "t": "ntg0e6es",
+      "dashed": false
+    },
+    {
+      "s": "nr8i4jja",
+      "t": "nnz6kvu3",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "nr8i4jja",
+      "dashed": false
+    },
+    {
+      "s": "ntg0e6es",
+      "t": "nvnrich3",
+      "dashed": false
+    },
+    {
+      "s": "nnz6kvu3",
+      "t": "nvnrich3",
+      "dashed": false
+    },
+    {
+      "s": "nr8i4jja",
+      "t": "nwmvw3b4",
+      "dashed": false
+    },
+    {
+      "s": "nr8i4jja",
+      "t": "ncsohusa",
+      "dashed": false
+    },
+    {
+      "s": "nr8i4jja",
+      "t": "nzb2m0qr",
+      "dashed": false
+    },
+    {
+      "s": "n6rj6h65",
+      "t": "n25ovdfg",
+      "dashed": false
+    },
+    {
+      "s": "n25ovdfg",
+      "t": "nmau57nf",
+      "dashed": false
+    },
+    {
+      "s": "n25ovdfg",
+      "t": "n73s5et2",
+      "dashed": false
+    },
+    {
+      "s": "n25ovdfg",
+      "t": "nkthjzom",
+      "dashed": false
+    },
+    {
+      "s": "nsdsyt6d",
+      "t": "n25ovdfg",
+      "dashed": false
+    },
+    {
+      "s": "nahpwlgx",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "n53i144t",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nl1g9ilz",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "n3gqeux0",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nig80wj9",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nddb89ds",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "ng7rbcv7",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "n0te2dyy",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "ngiple7s",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "ne42ns33",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nnlpf2mn",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nndxghpd",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nja3vax1",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nekkmfu5",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nwivrpwx",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "npoaf3ou",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nvnrich3",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nwmvw3b4",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "ncsohusa",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nzb2m0qr",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nmau57nf",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "n73s5et2",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nkthjzom",
+      "t": "nackr6xg",
+      "dashed": false
+    },
+    {
+      "s": "nackr6xg",
+      "t": "n0079gul",
+      "dashed": false
+    },
+    {
+      "s": "nackr6xg",
+      "t": "n0cinr9z",
+      "dashed": false
+    },
+    {
+      "s": "nw4b1gsd",
+      "t": "n0079gul",
+      "dashed": false
+    },
+    {
+      "s": "n25ovdfg",
+      "t": "n0079gul",
+      "dashed": false
+    },
+    {
+      "s": "n25ovdfg",
+      "t": "n0cinr9z",
+      "dashed": false
+    },
+    {
+      "s": "nw4b1gsd",
+      "t": "n0cinr9z",
+      "dashed": false
+    },
+    {
+      "s": "nw4b1gsd",
+      "t": "nyjy5rg0",
+      "dashed": false
+    },
+    {
+      "s": "nackr6xg",
+      "t": "nyjy5rg0",
+      "dashed": false
+    },
+    {
+      "s": "nackr6xg",
+      "t": "n1uuqalf",
+      "dashed": false
+    },
+    {
+      "s": "nackr6xg",
+      "t": "n0z43ix8",
+      "dashed": false
+    },
+    {
+      "s": "n25ovdfg",
+      "t": "nyjy5rg0",
+      "dashed": false
+    },
+    {
+      "s": "nm15tku8",
+      "t": "n1uuqalf",
+      "dashed": false
+    },
+    {
+      "s": "ncjegc4i",
+      "t": "n0z43ix8",
+      "dashed": false
+    },
+    {
+      "s": "ng7rbcv7",
+      "t": "nf6ny5m2",
+      "dashed": false
+    },
+    {
+      "s": "nackr6xg",
+      "t": "nf6ny5m2",
+      "dashed": false
+    },
+    {
+      "s": "nf6ny5m2",
+      "t": "nziuwnz4",
+      "dashed": false
+    },
+    {
+      "s": "nackr6xg",
+      "t": "nj01owja",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "General knowledge",
-      "Critical theory",
-      "Critical design",
-      "Communication",
-      "Media studies",
       "Socio-political",
-      "Design research"
+      "Design research",
+      "Media studies",
+      "Communication",
+      "Critical design",
+      "Critical theory"
     ],
     "tags": [
-      "Infrastructure",
+      "Conflict",
       "Definition",
-      "Conflict"
+      "Infrastructure"
     ],
     "type": [
       "Research",
