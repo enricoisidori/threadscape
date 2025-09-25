@@ -3,8 +3,8 @@
   "nodes": [
     {
       "id": "ny15p0wg",
-      "x": 0,
-      "y": 0,
+      "x": -220,
+      "y": 8,
       "w": 320,
       "h": 807,
       "group": null,
@@ -40,8 +40,8 @@
     },
     {
       "id": "ncob3sst",
-      "x": 369.0395639964143,
-      "y": 48.4437741648718,
+      "x": 169.0395639964143,
+      "y": 8.443774164871797,
       "w": 320,
       "h": 237,
       "group": null,
@@ -62,10 +62,10 @@
     },
     {
       "id": "npa52m07",
-      "x": 1486.7048930581234,
-      "y": -349.13685123250207,
+      "x": 781.8686448657292,
+      "y": -64.2581630812871,
       "w": 320,
-      "h": 378,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -78,21 +78,21 @@
           "Semantic research"
         ],
         "tags": [],
-        "desc": "Una mappa giuridica non è un termine tecnico specifico del diritto, ma generalmente si riferisce a una rappresentazione visiva e strutturata di concetti, leggi, o rami del diritto, simile a una mappa concettuale o a un grafico. Serve a semplificare e organizzare la complessità del sistema giuridico, evidenziando le relazioni tra diverse normative, istituzioni o principi, facilitando la comprensione e lo studio. ",
+        "desc": "A legal map refers to a visual and structured representation of legal concepts, laws, or branches of law, similar to a concept map or diagram. It helps simplify and organize the complexity of the legal and bureaucratic system by showing relationships between different rules, institutions, or principles, thus supporting understanding and study. Regulations are specific rules issued by authorities to implement and enforce laws within particular contexts.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n70eugn6",
-      "x": 1122.1340554967148,
-      "y": -342.7494926281188,
+      "x": 780.7551129141752,
+      "y": -707.7452364236999,
       "w": 320,
-      "h": 310,
+      "h": 294,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "confini",
+        "title": "Bounderies",
         "type": "Research",
         "action": null,
         "mainArea": null,
@@ -101,17 +101,17 @@
           "Semantic research"
         ],
         "tags": [],
-        "desc": "stati decisi a tavolino\nguerre per territori\nsoluzioni di guerre attraverso la burocrazia\ntrattati, armistizi...\nmovimento tra i confini",
+        "desc": "borders decided at the negotiating table, wars over territories, resolution of wars through bureaucracy, treaties, armistices, movement between borders, immaterial borders",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n6jyhn38",
-      "x": 769.3467540138722,
-      "y": -358.5991224985861,
+      "x": 781.4801263489964,
+      "y": -393.2659005989407,
       "w": 320,
-      "h": 294,
+      "h": 310,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -124,15 +124,15 @@
           "Semantic research"
         ],
         "tags": [],
-        "desc": "documenti, archiviazioni che descrivono ciò che fai e ciò che sei; documentazione identitaria; documentazione di guerra e conflitti (armistizi, trattati di pace, carte per divorzi); iter burocratico",
+        "desc": "documents and archival records defining individual actions and identity, identity-related documentation, records of war and conflict, including armistices, peace treaties, and divorce decrees, bureaucratic procedures and processes",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nvi0dm4q",
-      "x": 735.1939927201053,
-      "y": 460.92804604609705,
+      "x": 739.1939927201053,
+      "y": 424.92804604609705,
       "w": 320,
       "h": 796,
       "group": null,
@@ -163,7 +163,7 @@
     },
     {
       "id": "nlxdh48f",
-      "x": 397.55856271829595,
+      "x": 293.55856271829595,
       "y": 905.0553956883864,
       "w": 320,
       "h": 462,
@@ -187,7 +187,7 @@
     {
       "id": "nu4trdn0",
       "x": 1118.2501254933916,
-      "y": 1106.7736444153702,
+      "y": 1202.7736444153702,
       "w": 320,
       "h": 321,
       "group": null,
@@ -208,18 +208,21 @@
     },
     {
       "id": "nzuhnkym",
-      "x": 1336.8485220502948,
-      "y": 515.0377309304854,
+      "x": 1434.6243672052133,
+      "y": 439.15179015331,
       "w": 320,
-      "h": 185,
+      "h": 220,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "History of bureaucracy",
+        "type": "Research",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Hystory",
+          "Definition"
+        ],
         "tags": [],
         "desc": "storia della burocrazia ",
         "links": [],
@@ -228,8 +231,8 @@
     },
     {
       "id": "nij45h41",
-      "x": 1336.092002088277,
-      "y": 783.9035852384063,
+      "x": 1239.579602858674,
+      "y": 741.9303469597404,
       "w": 320,
       "h": 185,
       "group": null,
@@ -248,8 +251,8 @@
     },
     {
       "id": "n66t4qzz",
-      "x": 1884.3870625481245,
-      "y": -152.8689557777513,
+      "x": 1311.3109201768164,
+      "y": 39.03602291889446,
       "w": 320,
       "h": 201,
       "group": null,
@@ -268,8 +271,8 @@
     },
     {
       "id": "nk4d3ukj",
-      "x": 2135.83216526922,
-      "y": 1285.6928304897046,
+      "x": 1756.8317218915788,
+      "y": 1046.9868766904679,
       "w": 320,
       "h": 185,
       "group": null,
@@ -288,8 +291,8 @@
     },
     {
       "id": "nydwxrhx",
-      "x": 1452.919662431257,
-      "y": 1660.31294941296,
+      "x": 1520.5894123259372,
+      "y": 1536.8571124789237,
       "w": 320,
       "h": 185,
       "group": null,
@@ -308,8 +311,8 @@
     },
     {
       "id": "n9e675sa",
-      "x": 2744.1301891261023,
-      "y": 1401.1704225702128,
+      "x": 898.269825936817,
+      "y": 1747.711992617933,
       "w": 320,
       "h": 185,
       "group": null,
@@ -328,8 +331,8 @@
     },
     {
       "id": "nise8chd",
-      "x": 1911.021188124495,
-      "y": 1591.7824345867737,
+      "x": 1927.9800694650098,
+      "y": 1587.6666601875793,
       "w": 320,
       "h": 185,
       "group": null,
@@ -348,10 +351,10 @@
     },
     {
       "id": "nr4kqalv",
-      "x": 1485.3021722969313,
-      "y": 1101.3145289947183,
+      "x": 1527.8651511155972,
+      "y": 1779.581865487195,
       "w": 320,
-      "h": 486,
+      "h": 408,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -367,9 +370,170 @@
         "tags": [],
         "desc": "Although bureaucracy is meant to be a system that maintains order, in the daily lives of citizens it often generates discomfort, frustration, anger, and boredom.\n\nThere is a widespread perception and common belief that bureaucracy is long, complex, burdensome, rigid, inaccessible, tedious, and exasperating.",
         "links": [
-          "Emotional Responses to Bureaucratic Red Tape (Hattke, Hensel, Kalucza, 2019): https:​​/​/journals​.aom​.org​/doi​/10​.5465​/AMBPP​.2019​.134",
-          "The Impact of Red Tape on Citizen Satisfaction: An Experimental Study (Tummers, Weske, Bouwman, Grimmelikhuijsen, 2015): https://research-portal.uu.nl/en/publications/the-impact-of-red-tape-on-citizen-satisfaction-an-experimental-st?"
+          "https://doi.org/10.1080/10967494.2015.1027800",
+          "https://doi.org/10.1017/S0143814X22000282",
+          "https://doi.org/10.1080/14719037.2016.1210907"
         ],
+        "files": []
+      }
+    },
+    {
+      "id": "nv91if2i",
+      "x": 1480.2815406387554,
+      "y": -732.0532270272696,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "concetto di confini e lotta interna tra essi",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nln11rdb",
+      "x": 1370.0349026540875,
+      "y": -521.0327768620109,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "concetto di confini tra persone",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0ku0pfi",
+      "x": 2549.5507948895956,
+      "y": 2022.4182838316278,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "droga x migliorare burocrazia",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nf3ssvpb",
+      "x": 1793.6030742843782,
+      "y": -107.39001294878885,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "umanizzare la burocrazia",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "noz4e8vf",
+      "x": 2206.187888964078,
+      "y": 33.05673498734927,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "burocratizzare un concetto umano",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwnnoqd3",
+      "x": 1647.6089541800877,
+      "y": 2252.0161097907107,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "arma come burocrazia",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ne2dvn9k",
+      "x": 2061.3261459398223,
+      "y": 1855.8867055217406,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "concetto di red tape",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ni04g7pj",
+      "x": 2134.0732932661863,
+      "y": 2159.2234754547844,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "kafka",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
         "files": []
       }
     }
@@ -459,25 +623,113 @@
       "s": "nvi0dm4q",
       "t": "nydwxrhx",
       "dashed": false
+    },
+    {
+      "s": "n6jyhn38",
+      "t": "nydwxrhx",
+      "dashed": false
+    },
+    {
+      "s": "n70eugn6",
+      "t": "nv91if2i",
+      "dashed": false
+    },
+    {
+      "s": "n70eugn6",
+      "t": "nln11rdb",
+      "dashed": false
+    },
+    {
+      "s": "n66t4qzz",
+      "t": "nf3ssvpb",
+      "dashed": true
+    },
+    {
+      "s": "nf3ssvpb",
+      "t": "noz4e8vf",
+      "dashed": false
+    },
+    {
+      "s": "nlxdh48f",
+      "t": "n9e675sa",
+      "dashed": false
+    },
+    {
+      "s": "nvi0dm4q",
+      "t": "n9e675sa",
+      "dashed": false
+    },
+    {
+      "s": "n9e675sa",
+      "t": "nwnnoqd3",
+      "dashed": false
+    },
+    {
+      "s": "nij45h41",
+      "t": "nydwxrhx",
+      "dashed": false
+    },
+    {
+      "s": "nr4kqalv",
+      "t": "ne2dvn9k",
+      "dashed": false
+    },
+    {
+      "s": "nzuhnkym",
+      "t": "ne2dvn9k",
+      "dashed": false
+    },
+    {
+      "s": "nr4kqalv",
+      "t": "ni04g7pj",
+      "dashed": false
+    },
+    {
+      "s": "nu4trdn0",
+      "t": "ni04g7pj",
+      "dashed": false
+    },
+    {
+      "s": "ne2dvn9k",
+      "t": "n0ku0pfi",
+      "dashed": true
+    },
+    {
+      "s": "ni04g7pj",
+      "t": "n0ku0pfi",
+      "dashed": true
+    },
+    {
+      "s": "nr4kqalv",
+      "t": "n0ku0pfi",
+      "dashed": true
+    },
+    {
+      "s": "n66t4qzz",
+      "t": "noz4e8vf",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Emotional response",
-      "Feelings",
-      "Conflict",
-      "Design research",
-      "Socio-political",
-      "Media studies",
-      "Communication",
-      "Critical design",
       "Definition",
-      "Semantic research"
+      "Hystory",
+      "Semantic research",
+      "Critical design",
+      "Communication",
+      "Media studies",
+      "Socio-political",
+      "Design research",
+      "Conflict",
+      "Feelings",
+      "Emotional response"
     ],
     "tags": [],
     "type": [
+      "Brief",
       "Research",
-      "Brief"
+      "Concept",
+      "Scenario"
     ]
   }
 }
