@@ -275,18 +275,20 @@
     },
     {
       "id": "nk4d3ukj",
-      "x": 2834.685251975281,
-      "y": 358.5484490906334,
+      "x": 2813.318138281847,
+      "y": 291.06181275942254,
       "w": 320,
-      "h": 718,
+      "h": 724,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Il fu Mattia Pascal, 1904, Pirandello",
-        "type": "",
-        "action": null,
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Literature"
+        ],
         "tags": [],
         "desc": "In Il fu Mattia Pascal, Pirandello explores the theme of bureaucratic identity: what happens when a man loses his documents and, with them, his “bureaucratic existence”?\n\nMattia Pascal, mistakenly believed dead, seizes the chance to reinvent himself as Adriano Meis. However, lacking official documents for this new identity, he discovers that his “freedom” is actually a prison.\n\nConsequences of missing documents:\n\t•\tLegal impossibilities: He cannot marry his love, Adriana, sign contracts, buy property, or defend himself in court. Bureaucracy becomes an impenetrable wall: without certificates, one is nobody.\n\t•\tSocial marginalization: He is seen as suspicious and unreliable, condemned to a perpetual kind of clandestinity.\n\t•\tParadox of anonymity: Initially, living without documents seems liberating, but it quickly becomes existentially distressing; he cannot fully participate in social life.\n\nEventually, Mattia must “die a second time” as Adriano Meis and return to his old identity as Mattia Pascal, but he is no longer recognized: his wife has remarried, and his past life has vanished. Trapped in a bureaucratic and identity limbo, he becomes literally “the late Mattia Pascal”: alive in reality, but dead on paper. Pirandello demonstrates how, in a bureaucratic society, the absence of documents, which might seem liberating, actually condemns a person to invisibility and helplessness.",
         "links": [],
@@ -295,8 +297,8 @@
     },
     {
       "id": "nydwxrhx",
-      "x": 2458.1368557114847,
-      "y": 971.0955344575516,
+      "x": 2406.4277256259047,
+      "y": 923.9670357627618,
       "w": 320,
       "h": 411,
       "group": null,
@@ -319,8 +321,8 @@
     },
     {
       "id": "n9e675sa",
-      "x": 1058.2698259368171,
-      "y": 1947.7119926179332,
+      "x": 1334.2698259368171,
+      "y": 2459.711992617933,
       "w": 320,
       "h": 185,
       "group": null,
@@ -339,14 +341,14 @@
     },
     {
       "id": "nise8chd",
-      "x": 3239.6615168444787,
-      "y": 722.7629117540739,
+      "x": 3226.4340526834,
+      "y": 951.8215002809966,
       "w": 320,
-      "h": 667,
+      "h": 697,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
+        "title": "Refused bureaucratic identification",
         "type": "Research",
         "action": "Exploring",
         "mainArea": null,
@@ -363,8 +365,8 @@
     },
     {
       "id": "nr4kqalv",
-      "x": 1593.888922038658,
-      "y": 1413.8701570045657,
+      "x": 1609.888922038658,
+      "y": 1613.8701570045657,
       "w": 320,
       "h": 408,
       "group": null,
@@ -438,18 +440,22 @@
     },
     {
       "id": "n0ku0pfi",
-      "x": 2565.5507948895956,
-      "y": 1630.4182838316276,
+      "x": 2655.0194975038576,
+      "y": 1764.5497918326337,
       "w": 320,
-      "h": 173,
+      "h": 224,
       "group": null,
       "data": {
         "date": "2025-09-25",
         "title": "droga x migliorare burocrazia",
         "type": "Concept",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Conflict",
+          "Emotional response",
+          "Feelings"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -465,7 +471,7 @@
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "humanized bureaucracy ",
+        "title": "Humanized bureaucracy ",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
@@ -481,20 +487,23 @@
     },
     {
       "id": "noz4e8vf",
-      "x": 3867.0413735021352,
-      "y": 70.21064063702832,
+      "x": 3566.543771735025,
+      "y": -427.4424662679122,
       "w": 320,
-      "h": 173,
+      "h": 372,
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "burocratizzare un concetto umano",
+        "title": "Bureaucratization of interpersonal relationships",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Feelings",
+          "Communication"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "In a reality where every aspect of life is administered and rationalized, bureaucracy has even intruded into the private sphere and everyday relationships. Human interactions, traditionally characterized by emotional and irrational dimensions, are now subjected to regulations and bureaucratic practices. Conflicting dynamics, intrinsic to any relationship, are thus controlled and stripped of their natural ambiguity and uncertainty, being confined instead within rigid, manageable frameworks.",
         "links": [],
         "files": []
       }
@@ -504,25 +513,27 @@
       "x": 3579.6089541800875,
       "y": 2836.0161097907107,
       "w": 320,
-      "h": 173,
+      "h": 355,
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "arma come burocrazia",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "Bureaucracy used as a weapon",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "Bureaucracy is used as a tool to regulate and organize public administration. Sometimes, due to its inherently complex and intricate procedures, it not only hinders progress and conflict resolution but also generates new tensions.\n\nWhat form would conflicts take if bureaucracy were recognized as a true weapon—that is, a tool of power and confrontation? What would the consequences be, and how would it be regulated?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ne2dvn9k",
-      "x": 2052.534641604337,
-      "y": 1298.7382021943054,
+      "x": 2068.534641604337,
+      "y": 1498.7382021943054,
       "w": 320,
       "h": 372,
       "group": null,
@@ -544,20 +555,22 @@
     },
     {
       "id": "ni04g7pj",
-      "x": 2150.0732932661863,
-      "y": 1767.2234754547842,
+      "x": 2068.908158539945,
+      "y": 1914.9866806363784,
       "w": 320,
-      "h": 173,
+      "h": 556,
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "kafka",
-        "type": "",
-        "action": null,
+        "title": "Kafka’s critique of bureaucracy ",
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Literature"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "Key points of Kafka’s critique of bureaucracy can be summarized as follows:\n\nLabyrinth and absurdity: Kafka depicts bureaucracy as a maze of obscure rules, faceless procedures, and offices existing mainly to perpetuate themselves. In The Trial, Josef K. is arrested for a crime whose charge is never revealed, forcing him to navigate an illogical, elusive judicial system, with his lawyer moving as slowly and opaquely as the process itself.\n\nImpersonal machine: Bureaucracy is portrayed as a system where cold rationality masks a world of complex, contradictory interests. Individuals like Josef K. become mere cogs, while officials and judges appear symbolic, almost inhuman, with incomprehensible, impersonal power.\n\nContradiction and totalitarian potential: Kafka foresaw bureaucracy’s tendency to become a totalitarian instrument, permeating citizens’ lives and minds. The system enforces conformity and submission to rules that seem to exist independently, suppressing personal freedom and subjectivity.",
         "links": [],
         "files": []
       }
@@ -710,14 +723,14 @@
     },
     {
       "id": "nfqgqm5g",
-      "x": 2149.3439793890143,
-      "y": -290.74886001737957,
+      "x": 2044.3018361879135,
+      "y": -398.15260966581945,
       "w": 320,
-      "h": 320,
+      "h": 350,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "",
+        "title": "Unfeasible",
         "type": "Research",
         "action": "Exploring",
         "mainArea": "Communication",
@@ -734,8 +747,8 @@
     },
     {
       "id": "nklq4uw2",
-      "x": 2394.717750499835,
-      "y": 386.0647916236761,
+      "x": 2402.1673365620914,
+      "y": 304.11934493885707,
       "w": 320,
       "h": 344,
       "group": null,
@@ -757,8 +770,8 @@
     },
     {
       "id": "nfqdseus",
-      "x": 4491.457432377665,
-      "y": -1568.281355449576,
+      "x": 4783.457432377665,
+      "y": -1236.281355449576,
       "w": 320,
       "h": 179,
       "group": null,
@@ -780,8 +793,8 @@
     },
     {
       "id": "nlu99rw4",
-      "x": 4478.639506216168,
-      "y": -1177.281355449576,
+      "x": 4774.639506216168,
+      "y": -997.281355449576,
       "w": 320,
       "h": 191,
       "group": null,
@@ -803,8 +816,8 @@
     },
     {
       "id": "nzoyfgq6",
-      "x": 4514.639506216168,
-      "y": -1790.281355449576,
+      "x": 4806.639506216168,
+      "y": -1458.281355449576,
       "w": 320,
       "h": 179,
       "group": null,
@@ -822,6 +835,641 @@
         "desc": "",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "nz9xp05b",
+      "x": 3206.26787499495,
+      "y": 288.17913808126866,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Homo Sacer",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Definition"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkalpbv6",
+      "x": 1854.2698259368171,
+      "y": 2889.0161097907107,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "slapp",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6j0ldtt",
+      "x": 4542.639506216168,
+      "y": -2522.281355449576,
+      "w": 320,
+      "h": 348,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "16.jpeg",
+            "size": 70477,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/16.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "novblbup",
+      "x": 4186.639506216168,
+      "y": -2513.281355449576,
+      "w": 320,
+      "h": 345,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "15.jpeg",
+            "size": 30228,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nca0oo3r",
+      "x": 3834.6395062161682,
+      "y": -2504.281355449576,
+      "w": 320,
+      "h": 351,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "14.jpeg",
+            "size": 113734,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nffar7c9",
+      "x": 3866.6395062161682,
+      "y": -1999.281355449576,
+      "w": 320,
+      "h": 370,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "17.jpeg",
+            "size": 185900,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/17.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ni3176gn",
+      "x": 4226.639506216168,
+      "y": -2006.281355449576,
+      "w": 320,
+      "h": 503,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "18.jpeg",
+            "size": 167598,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/18.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4zu5fft",
+      "x": 4997.876919430556,
+      "y": -542.1548195799702,
+      "w": 320,
+      "h": 674,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Kader Attia, Immaterial Injury, 2014",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Installation",
+          "Art"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "http://kaderattia.de/traditional-repair-immaterial-injury/"
+        ],
+        "files": [
+          {
+            "name": "4.jpeg",
+            "size": 144842,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na535xd9",
+      "x": 4666.481259139961,
+      "y": -543.0564237235988,
+      "w": 320,
+      "h": 599,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Christo, Empaquetages, 1958",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Installation"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.cyrilzammit.com/design-diary/christo-and-jeanne-claude-paris"
+        ],
+        "files": [
+          {
+            "name": "3.jpeg",
+            "size": 309079,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/3.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nr47aode",
+      "x": 4329.546498504433,
+      "y": -543.1281437507698,
+      "w": 320,
+      "h": 614,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Daniel Arsham Bound Figure, 2014",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Installation"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.houldsworth.co.uk/exhibitions/72-daniel-arsham-special-project/press_release_text/"
+        ],
+        "files": [
+          {
+            "name": "2.jpeg",
+            "size": 34728,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nex0urd2",
+      "x": 3995.079118186669,
+      "y": -538.4688787773352,
+      "w": 320,
+      "h": 599,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Rudolf Bonvie, Dialog, 1973",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Photography"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://dolceambra.wordpress.com/2015/05/24/rudolf-bonvie-dialog-1973/"
+        ],
+        "files": [
+          {
+            "name": "1.jpeg",
+            "size": 190868,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3e20r3f",
+      "x": 3993.7992044680577,
+      "y": 97.65421955931967,
+      "w": 320,
+      "h": 582,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Doriane terraillon, Still Photography, 2025",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Photography"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://dorianeterraillon.com/Dolorosa"
+        ],
+        "files": [
+          {
+            "name": "5.jpeg",
+            "size": 93798,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/5.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nefyeg79",
+      "x": 4324.173719860987,
+      "y": 99.50870263987014,
+      "w": 320,
+      "h": 515,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": " Otto Künzli, Ring für Zwei, 1980",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Photography"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.domusweb.it/en/news/2014/08/18/otto_kunzli_jewellery.html"
+        ],
+        "files": [
+          {
+            "name": "6.jpeg",
+            "size": 105786,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/6.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nr86hwni",
+      "x": 4660.363795251033,
+      "y": 96.533301603963,
+      "w": 320,
+      "h": 600,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Phillip Schumacher, Don’t put me in a box, 2011",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Photography"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "7.jpeg",
+            "size": 57821,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/7.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ng7ezrfq",
+      "x": 3433.633888053746,
+      "y": 2486.877600987909,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "paperbomb",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncwwny83",
+      "x": 4122.30500523102,
+      "y": 2836.995316417035,
+      "w": 320,
+      "h": 361,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "8.jpeg",
+            "size": 73998,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/8.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nn1a4aiz",
+      "x": 5139.598994863896,
+      "y": 2833.929616523945,
+      "w": 320,
+      "h": 391,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "9.jpeg",
+            "size": 100798,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/9.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2i74tsx",
+      "x": 4462.077152861882,
+      "y": 2830.863916630854,
+      "w": 320,
+      "h": 385,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "10.jpeg",
+            "size": 14907,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nil6n7i4",
+      "x": 4136.462178048972,
+      "y": 3325.3217186258103,
+      "w": 320,
+      "h": 314,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "11.jpeg",
+            "size": 28625,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/11.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3e3i98f",
+      "x": 4797.804393973326,
+      "y": 2834.8447831432104,
+      "w": 320,
+      "h": 344,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "12.jpeg",
+            "size": 67581,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntz0arhk",
+      "x": 4482.301685458957,
+      "y": 3323.369944917289,
+      "w": 320,
+      "h": 338,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "13.jpeg",
+            "size": 230575,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/13.jpg"
+          }
+        ]
       }
     }
   ],
@@ -1085,26 +1733,143 @@
       "s": "nln11rdb",
       "t": "noz4e8vf",
       "dashed": false
+    },
+    {
+      "s": "nydwxrhx",
+      "t": "nz9xp05b",
+      "dashed": false
+    },
+    {
+      "s": "nklq4uw2",
+      "t": "nk4d3ukj",
+      "dashed": false
+    },
+    {
+      "s": "n9e675sa",
+      "t": "nkalpbv6",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "n6j0ldtt",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "novblbup",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "nca0oo3r",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "nffar7c9",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "ni3176gn",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "n4zu5fft",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "na535xd9",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "nr47aode",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "nex0urd2",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "n3e20r3f",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "nefyeg79",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "nr86hwni",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "ng7ezrfq",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "ncwwny83",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "nn1a4aiz",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "n2i74tsx",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "nil6n7i4",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "n3e3i98f",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "ntz0arhk",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Socio-political",
+      "Photography",
+      "Art",
+      "Installation",
+      "Communication",
+      "Feelings",
       "Definition",
       "Hystory",
-      "Feelings",
-      "Socio-political",
-      "Conflict",
       "Emotional response",
-      "Design research",
-      "Media studies",
-      "Critical design",
+      "Conflict",
+      "Literature",
+      "Book",
       "Semantic research",
-      "Communication"
+      "Critical design",
+      "Media studies",
+      "Design research"
     ],
     "tags": [],
     "type": [
-      "Research",
       "Concept",
+      "Moodboard",
+      "Research",
+      "Source",
       "Brief"
     ]
   }
