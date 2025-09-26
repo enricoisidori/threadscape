@@ -69,9 +69,9 @@
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "mappe giuridiche, regolamnti",
+        "title": "Regulations, legal maps,",
         "type": "Research",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Definition",
@@ -109,15 +109,15 @@
     {
       "id": "n6jyhn38",
       "x": 781.4801263489964,
-      "y": -393.2659005989407,
+      "y": -392.5624280275147,
       "w": 320,
       "h": 310,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "procedure, documenti, registri, amministrazione",
+        "title": "Procedures, documents, records, administration",
         "type": "Research",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Definition",
@@ -251,20 +251,23 @@
     },
     {
       "id": "n66t4qzz",
-      "x": 1311.3109201768164,
-      "y": 39.03602291889446,
+      "x": 1351.2346684446984,
+      "y": 11.815285463520382,
       "w": 320,
-      "h": 201,
+      "h": 348,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Communication",
+          "Emotional response"
+        ],
         "tags": [],
-        "desc": "rendere la burocrazia più umana -> inserire margine per le emozioni nelgi iter regolamentari",
+        "desc": "To humanize bureaucracy means allowing space for emotions and empathy within administrative processes. It involves introducing compassion, care, and support into interactions with rational rules and procedures. By letting kindness and humanity enter bureaucratic systems, regulations and processes can serve people more effectively, transforming rigid structures into tools that truly respond to human needs.",
         "links": [],
         "files": []
       }
@@ -379,30 +382,33 @@
     },
     {
       "id": "nv91if2i",
-      "x": 1480.2815406387554,
-      "y": -732.0532270272696,
+      "x": 1349.6215495845918,
+      "y": -1094.7642844666516,
       "w": 320,
-      "h": 173,
+      "h": 607,
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "concetto di confini e lotta interna tra essi",
-        "type": "",
-        "action": null,
+        "title": "Wars and struggles linked to bureaucratic borders",
+        "type": "Research",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "Many state borders were bureaucratically drawn at the negotiating table by political leaders, often disregarding the populations living there. This led to conflicts both between states and within nations, as communities did not identify with these imposed boundaries.\n\t•\tIndia–Pakistan Wars (1947, 1965, 1971) → following the Partition of British India\n\t•\tArab–Israeli Wars (1948, 1967, 1973) → borders drawn after the British Mandate and UN partition plan\n\t•\tEthiopia–Eritrea War (1998–2000) → dispute over colonial-era borders\n\t•\tIraq–Kuwait Conflict / Gulf War (1990–1991) → rooted partly in arbitrary colonial borders in the Middle East\n\t•\tSudanese Civil Wars (1955–1972, 1983–2005) → borders and ethnic-religious divisions leading to the creation of South Sudan\n\t•\tYugoslav Wars (1991–2001) → breakup of Yugoslavia along imposed federal boundaries\n\t•\tSomali Civil War (from 1991) → collapse of a state built on colonial borders without regard for clan structures",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nln11rdb",
-      "x": 1370.0349026540875,
-      "y": -521.0327768620109,
+      "x": 1348.1302160876305,
+      "y": -454.2764739457862,
       "w": 320,
-      "h": 173,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-25",
@@ -410,9 +416,13 @@
         "type": "",
         "action": null,
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Conflict",
+          "Socio-political",
+          "Feelings"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "Restrictive orders, such as restraining orders or protection orders, function like material boundaries between people imposed by conflict. They legally limit interactions, define physical or social spaces, and aim to prevent harm. These orders create clear divisions in everyday life, translating interpersonal disputes into structured, enforceable rules.",
         "links": [],
         "files": []
       }
@@ -439,8 +449,8 @@
     },
     {
       "id": "nf3ssvpb",
-      "x": 1793.6030742843782,
-      "y": -107.39001294878885,
+      "x": 1791.78835845402,
+      "y": -107.39001294878884,
       "w": 320,
       "h": 173,
       "group": null,
@@ -459,8 +469,8 @@
     },
     {
       "id": "noz4e8vf",
-      "x": 2206.187888964078,
-      "y": 33.05673498734927,
+      "x": 2194.187888964078,
+      "y": 50.28688321220042,
       "w": 320,
       "h": 173,
       "group": null,
@@ -533,6 +543,150 @@
         "areas": [],
         "tags": [],
         "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nie7slt9",
+      "x": 1833.8516460730755,
+      "y": -1209.6035527264294,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Apolidi",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "Individuals who are not recognized as citizens by any state under its laws. This means they lack a nationality and the legal rights that come with it.\n\nStatelessness often arises from the dissolution or partition of states (e.g. breakup of Yugoslavia)\n\n\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1fv0nhs",
+      "x": 1830.7431483929513,
+      "y": -868.6705651921234,
+      "w": 320,
+      "h": 646,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Terra Nullius",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Conflict",
+          "Definition",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Several territories have existed as “no man’s lands,” disputed between states or left unclaimed due to legal, political, or practical uncertainties. These areas often sparked conflicts but were eventually addressed through bureaucratic practices such as treaties or international negotiations.\n\nTerra Nullius: a Latin term from Roman law meaning “land belonging to no one.” It refers to territories that are not formally under the sovereignty of any state.\n\nExamples\n\t•\tGornja Siga (on the border between Croatia and Serbia): a disputed area where both countries claim different borders, leaving small pockets of land technically unclaimed.\n\t•\tBir Tawil (between Egypt and Sudan): a desert territory unclaimed by either country due to conflicting border demarcations.\n\t•\tMarie Byrd Land (in Antarctica): one of the few areas not claimed by any state, partly due to the Antarctic Treaty System.\n\t•\tPalestinian Territories: while not a “terra nullius” in the strict legal sense, the contested status of the land has produced decades of conflict and negotiation, with statehood and sovereignty still unresolved.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4ur7z91",
+      "x": 2199.452982668435,
+      "y": -440.99281832221453,
+      "w": 320,
+      "h": 327,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "concetto di stato e nazione",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Conflict",
+          "Socio-political",
+          "Definition"
+        ],
+        "tags": [],
+        "desc": "A state is a political entity with defined territory, a population, and a government exercising sovereignty. A nation is a community united by culture, language, history, or identity. Nations and states do not always match: some nations have no state, and some states contain multiple nations.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzojt12q",
+      "x": 2197.5381264739312,
+      "y": -871.4435278048878,
+      "w": 320,
+      "h": 405,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Airport transit, international waters, Antarctica",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "Some places in the world function as shared or “in-between” spaces rather than belonging to a single nation. Airport transit zones create temporary spaces where travelers are between states’ jurisdictions. International waters (the high seas) lie beyond national borders and are regulated by global treaties, open to use by all. Antarctica, under the Antarctic Treaty, is preserved for peaceful purposes and scientific cooperation, with no state allowed to claim sovereignty. These areas illustrate how certain territories are treated as belonging to no one, yet accessible to everyone under shared rules.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5vf0f18",
+      "x": 2797.54653776363,
+      "y": -936.0330439092006,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "creare confini con altri criteri",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nq88ccga",
+      "x": 2245.4431384189656,
+      "y": -1569.7886406737923,
+      "w": 320,
+      "h": 488,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Conflict",
+          "Emotional response",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Living without citizenship means lacking access to fundamental rights and protections, such as:\n\t•\tLegal identity: difficulty obtaining ID cards, passports, or official documents\n\t•\tCivil rights: exclusion from voting and political participation\n\t•\tSocial rights: limited access to healthcare, education, or social services\n\t•\tWork and mobility: inability to work legally, travel abroad, or own property\n\t•\tLegal protection: greater vulnerability to exploitation, detention, or deportation\n\nIn practice, many stateless people live in legal and bureaucratic limbo, relying on humanitarian organizations or informal networks, often marginalized within the societies where they reside.",
         "links": [],
         "files": []
       }
@@ -637,7 +791,7 @@
     {
       "s": "n70eugn6",
       "t": "nln11rdb",
-      "dashed": false
+      "dashed": true
     },
     {
       "s": "n66t4qzz",
@@ -708,28 +862,67 @@
       "s": "n66t4qzz",
       "t": "noz4e8vf",
       "dashed": false
+    },
+    {
+      "s": "nv91if2i",
+      "t": "nie7slt9",
+      "dashed": false
+    },
+    {
+      "s": "nv91if2i",
+      "t": "n1fv0nhs",
+      "dashed": true
+    },
+    {
+      "s": "nv91if2i",
+      "t": "n4ur7z91",
+      "dashed": false
+    },
+    {
+      "s": "n1fv0nhs",
+      "t": "nzojt12q",
+      "dashed": true
+    },
+    {
+      "s": "n4ur7z91",
+      "t": "n5vf0f18",
+      "dashed": false
+    },
+    {
+      "s": "nie7slt9",
+      "t": "n5vf0f18",
+      "dashed": false
+    },
+    {
+      "s": "nie7slt9",
+      "t": "nq88ccga",
+      "dashed": false
+    },
+    {
+      "s": "nq88ccga",
+      "t": "n5vf0f18",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Emotional response",
+      "Communication",
+      "Feelings",
+      "Socio-political",
+      "Conflict",
       "Definition",
       "Hystory",
       "Semantic research",
       "Critical design",
-      "Communication",
       "Media studies",
-      "Socio-political",
-      "Design research",
-      "Conflict",
-      "Feelings",
-      "Emotional response"
+      "Design research"
     ],
     "tags": [],
     "type": [
-      "Brief",
-      "Research",
       "Concept",
-      "Scenario"
+      "Research",
+      "Brief"
     ]
   }
 }
