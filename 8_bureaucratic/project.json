@@ -40,8 +40,8 @@
     },
     {
       "id": "ncob3sst",
-      "x": 169.0395639964143,
-      "y": 8.443774164871797,
+      "x": 153.0395639964143,
+      "y": 126.73850723965148,
       "w": 320,
       "h": 237,
       "group": null,
@@ -131,8 +131,8 @@
     },
     {
       "id": "nvi0dm4q",
-      "x": 739.1939927201053,
-      "y": 424.92804604609705,
+      "x": 521.9140499834537,
+      "y": 353.45438067219857,
       "w": 320,
       "h": 796,
       "group": null,
@@ -163,8 +163,8 @@
     },
     {
       "id": "nlxdh48f",
-      "x": 293.55856271829595,
-      "y": 905.0553956883864,
+      "x": 519.4153452998155,
+      "y": 1193.8090037989364,
       "w": 320,
       "h": 462,
       "group": null,
@@ -186,8 +186,8 @@
     },
     {
       "id": "nu4trdn0",
-      "x": 1118.2501254933916,
-      "y": 1202.7736444153702,
+      "x": 1126.4034347236905,
+      "y": 1262.672735021784,
       "w": 320,
       "h": 321,
       "group": null,
@@ -208,8 +208,8 @@
     },
     {
       "id": "nzuhnkym",
-      "x": 1434.6243672052133,
-      "y": 439.15179015331,
+      "x": 1071.5993170115787,
+      "y": 461.06244675330447,
       "w": 320,
       "h": 220,
       "group": null,
@@ -231,91 +231,96 @@
     },
     {
       "id": "nij45h41",
-      "x": 1239.579602858674,
-      "y": 741.9303469597404,
+      "x": 2013.4410849958276,
+      "y": 615.5977506434533,
       "w": 320,
-      "h": 185,
+      "h": 405,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Citizen’s life marked by bureaucratic stages",
+        "type": "Research",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Definition"
+        ],
         "tags": [],
-        "desc": "burocrazia che desscrive una vita individuale ",
+        "desc": "A citizen’s life is marked by bureaucratic stages. It begins with birth registration, tax code, health card, and identity documents, and continues with education, applications for scholarships, and certifications. Entering the workforce involves registration with INPS and INAIL, employment notifications, and opening a VAT number. Adulthood brings marriage, buying a house, changing residence, and filing income tax returns. Finally, in old age and at the end of life, one deals with pension applications, death registration, inheritance, and cadastral transfers.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n66t4qzz",
-      "x": 1351.2346684446984,
-      "y": 11.815285463520382,
+      "x": 1193.8293198784852,
+      "y": -15.842225206809275,
       "w": 320,
-      "h": 348,
+      "h": 338,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
+        "title": "Rational system",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Communication",
-          "Emotional response"
+          "Definition"
         ],
         "tags": [],
-        "desc": "To humanize bureaucracy means allowing space for emotions and empathy within administrative processes. It involves introducing compassion, care, and support into interactions with rational rules and procedures. By letting kindness and humanity enter bureaucratic systems, regulations and processes can serve people more effectively, transforming rigid structures into tools that truly respond to human needs.",
+        "desc": "Bureaucracy is a rational system designed to maintain order and ensure fairness. It follows structured procedures that must be respected, leaving little room for emotions or personal judgment. By adhering to rules and standardized processes, bureaucracy aims to prevent favoritism and guarantee that decisions are consistent and impartial.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nk4d3ukj",
-      "x": 1756.8317218915788,
-      "y": 1046.9868766904679,
+      "x": 2834.685251975281,
+      "y": 358.5484490906334,
       "w": 320,
-      "h": 185,
+      "h": 718,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
+        "title": "Il fu Mattia Pascal, 1904, Pirandello",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "fu mattia pascal",
+        "desc": "In Il fu Mattia Pascal, Pirandello explores the theme of bureaucratic identity: what happens when a man loses his documents and, with them, his “bureaucratic existence”?\n\nMattia Pascal, mistakenly believed dead, seizes the chance to reinvent himself as Adriano Meis. However, lacking official documents for this new identity, he discovers that his “freedom” is actually a prison.\n\nConsequences of missing documents:\n\t•\tLegal impossibilities: He cannot marry his love, Adriana, sign contracts, buy property, or defend himself in court. Bureaucracy becomes an impenetrable wall: without certificates, one is nobody.\n\t•\tSocial marginalization: He is seen as suspicious and unreliable, condemned to a perpetual kind of clandestinity.\n\t•\tParadox of anonymity: Initially, living without documents seems liberating, but it quickly becomes existentially distressing; he cannot fully participate in social life.\n\nEventually, Mattia must “die a second time” as Adriano Meis and return to his old identity as Mattia Pascal, but he is no longer recognized: his wife has remarried, and his past life has vanished. Trapped in a bureaucratic and identity limbo, he becomes literally “the late Mattia Pascal”: alive in reality, but dead on paper. Pirandello demonstrates how, in a bureaucratic society, the absence of documents, which might seem liberating, actually condemns a person to invisibility and helplessness.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nydwxrhx",
-      "x": 1520.5894123259372,
-      "y": 1536.8571124789237,
+      "x": 2458.1368557114847,
+      "y": 971.0955344575516,
       "w": 320,
-      "h": 185,
+      "h": 411,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Biological and Bureaucratic identity",
+        "type": "Research",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Emotional response",
+          "Definition",
+          "Conflict"
+        ],
         "tags": [],
-        "desc": "conflitto burocrazia identità",
+        "desc": "Biological identity: the set of physical and personal characteristics that define a person, such as the body, personal history, passions, and preferences.\n\nBureaucratic identity: the official identity recognized by the state or institutions, documented through certificates, identity documents, tax codes, passports, registry records, and other administrative acts.\n\nWhen the two do not coincide, a conflict arises between them, as the person finds themselves in a bureaucratic limbo.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n9e675sa",
-      "x": 898.269825936817,
-      "y": 1747.711992617933,
+      "x": 1058.2698259368171,
+      "y": 1947.7119926179332,
       "w": 320,
       "h": 185,
       "group": null,
@@ -334,28 +339,32 @@
     },
     {
       "id": "nise8chd",
-      "x": 1927.9800694650098,
-      "y": 1587.6666601875793,
+      "x": 3239.6615168444787,
+      "y": 722.7629117540739,
       "w": 320,
-      "h": 185,
+      "h": 667,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "",
-        "type": "",
-        "action": null,
+        "type": "Research",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Conflict",
+          "Socio-political",
+          "Feelings"
+        ],
         "tags": [],
-        "desc": "conflitto burocrazia rifiuto",
+        "desc": "Some people and groups choose to refuse bureaucratic identification, remain anonymous, or avoid administrative control. \nFor example, communities like the Amish reject personal photography for religious reasons, and in the USA legal accommodations allow them to stay “anonymous” while still holding valid documents. Asylum seekers sometimes try to avoid fingerprinting in the EURODAC system to prevent automatic transfers under the Dublin mechanism, showing how vulnerable individuals may refuse registration for personal safety. Since the 1960s, some anarchist or “off-grid” communities in the USA and Europe have avoided IDs, health cards, or even birth certificates, which has sometimes prevented children from accessing school or medical care. \nKnown cases of “invisible” individuals include Rosa Kuleshova in the USSR, who refused mandatory internal passport registration, John Zerzan in the USA, who wrote about people actively rejecting state bureaucracy, and North American anarcho-primitivist “forest dwellers” who gave up all documents and lived without formal services. \nThose who refuse documents often face severe practical limitations, such as lack of healthcare, work, or housing, forcing many to live on the margins, in isolated communities, or in constant tension with authorities.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nr4kqalv",
-      "x": 1527.8651511155972,
-      "y": 1779.581865487195,
+      "x": 1593.888922038658,
+      "y": 1413.8701570045657,
       "w": 320,
       "h": 408,
       "group": null,
@@ -382,8 +391,8 @@
     },
     {
       "id": "nv91if2i",
-      "x": 1349.6215495845918,
-      "y": -1094.7642844666516,
+      "x": 1195.00073197328,
+      "y": -1404.0059196892753,
       "w": 320,
       "h": 607,
       "group": null,
@@ -405,8 +414,8 @@
     },
     {
       "id": "nln11rdb",
-      "x": 1348.1302160876305,
-      "y": -454.2764739457862,
+      "x": 1193.5093984763187,
+      "y": -763.5181091684099,
       "w": 320,
       "h": 344,
       "group": null,
@@ -429,8 +438,8 @@
     },
     {
       "id": "n0ku0pfi",
-      "x": 2549.5507948895956,
-      "y": 2022.4182838316278,
+      "x": 2565.5507948895956,
+      "y": 1630.4182838316276,
       "w": 320,
       "h": 173,
       "group": null,
@@ -449,28 +458,31 @@
     },
     {
       "id": "nf3ssvpb",
-      "x": 1791.78835845402,
-      "y": -107.39001294878884,
+      "x": 1673.8199653514541,
+      "y": -285.10349757055025,
       "w": 320,
-      "h": 173,
+      "h": 378,
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "umanizzare la burocrazia",
+        "title": "humanized bureaucracy ",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Feelings",
+          "Emotional response"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "To humanize bureaucracy means allowing space for emotions and empathy within administrative processes. It involves introducing compassion, care, and support into interactions with rational rules and procedures. By letting kindness and humanity enter bureaucratic systems, regulations and processes can serve people more effectively, transforming rigid structures into tools that truly respond to human needs.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "noz4e8vf",
-      "x": 2194.187888964078,
-      "y": 50.28688321220042,
+      "x": 3867.0413735021352,
+      "y": 70.21064063702832,
       "w": 320,
       "h": 173,
       "group": null,
@@ -489,8 +501,8 @@
     },
     {
       "id": "nwnnoqd3",
-      "x": 1647.6089541800877,
-      "y": 2252.0161097907107,
+      "x": 3579.6089541800875,
+      "y": 2836.0161097907107,
       "w": 320,
       "h": 173,
       "group": null,
@@ -509,28 +521,31 @@
     },
     {
       "id": "ne2dvn9k",
-      "x": 2061.3261459398223,
-      "y": 1855.8867055217406,
+      "x": 2052.534641604337,
+      "y": 1298.7382021943054,
       "w": 320,
-      "h": 173,
+      "h": 372,
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "concetto di red tape",
-        "type": "",
-        "action": null,
+        "title": "Red tape",
+        "type": "Research",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Hystory",
+          "Definition"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "“Red tape” is an English expression that refers to excessive bureaucracy, official and formal procedures perceived as unnecessary, complex, and causing delays.\n\nOne of the most cited definitions is by G. Bozeman:\n“Rules, regulations, and procedures that remain in effect and impose a compliance burden on the organization but do not contribute to achieving the functional goals for which the rules were intended.” A Theory of Government Red Tape, 1993",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ni04g7pj",
-      "x": 2134.0732932661863,
-      "y": 2159.2234754547844,
+      "x": 2150.0732932661863,
+      "y": 1767.2234754547842,
       "w": 320,
       "h": 173,
       "group": null,
@@ -549,10 +564,10 @@
     },
     {
       "id": "nie7slt9",
-      "x": 1833.8516460730755,
-      "y": -1209.6035527264294,
+      "x": 1679.2308284617636,
+      "y": -1535.524067959568,
       "w": 320,
-      "h": 288,
+      "h": 331,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -566,14 +581,16 @@
         ],
         "tags": [],
         "desc": "Individuals who are not recognized as citizens by any state under its laws. This means they lack a nationality and the legal rights that come with it.\n\nStatelessness often arises from the dissolution or partition of states (e.g. breakup of Yugoslavia)\n\n\n",
-        "links": [],
+        "links": [
+          "https://it.globalvoices.org/2024/11/quando-la-patria-non-esiste-gli-apolidi-dellex-urss/"
+        ],
         "files": []
       }
     },
     {
       "id": "n1fv0nhs",
-      "x": 1830.7431483929513,
-      "y": -868.6705651921234,
+      "x": 1676.1223307816394,
+      "y": -1177.912200414747,
       "w": 320,
       "h": 646,
       "group": null,
@@ -597,8 +614,8 @@
     },
     {
       "id": "n4ur7z91",
-      "x": 2199.452982668435,
-      "y": -440.99281832221453,
+      "x": 2044.8321650571233,
+      "y": -750.2344535448383,
       "w": 320,
       "h": 327,
       "group": null,
@@ -622,8 +639,8 @@
     },
     {
       "id": "nzojt12q",
-      "x": 2197.5381264739312,
-      "y": -871.4435278048878,
+      "x": 2042.9173088626194,
+      "y": -1180.6851630275114,
       "w": 320,
       "h": 405,
       "group": null,
@@ -645,8 +662,8 @@
     },
     {
       "id": "n5vf0f18",
-      "x": 2797.54653776363,
-      "y": -936.0330439092006,
+      "x": 4082.6395062161682,
+      "y": -1406.4270177962526,
       "w": 320,
       "h": 179,
       "group": null,
@@ -668,8 +685,8 @@
     },
     {
       "id": "nq88ccga",
-      "x": 2245.4431384189656,
-      "y": -1569.7886406737923,
+      "x": 2090.822320807654,
+      "y": -1879.030275896416,
       "w": 320,
       "h": 488,
       "group": null,
@@ -687,6 +704,122 @@
         ],
         "tags": [],
         "desc": "Living without citizenship means lacking access to fundamental rights and protections, such as:\n\t•\tLegal identity: difficulty obtaining ID cards, passports, or official documents\n\t•\tCivil rights: exclusion from voting and political participation\n\t•\tSocial rights: limited access to healthcare, education, or social services\n\t•\tWork and mobility: inability to work legally, travel abroad, or own property\n\t•\tLegal protection: greater vulnerability to exploitation, detention, or deportation\n\nIn practice, many stateless people live in legal and bureaucratic limbo, relying on humanitarian organizations or informal networks, often marginalized within the societies where they reside.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nfqgqm5g",
+      "x": 2149.3439793890143,
+      "y": -290.74886001737957,
+      "w": 320,
+      "h": 320,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Feelings",
+          "Emotional response",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "Introducing emotions or personal judgment into this system would compromise its function, because there would be too many variables and ambiguous situations to manage effectively. The strength of bureaucracy lies in its predictability and impartiality, even if this makes it appear rigid or impersonal.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nklq4uw2",
+      "x": 2394.717750499835,
+      "y": 386.0647916236761,
+      "w": 320,
+      "h": 344,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "victims of bureaucratic errors",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Conflict",
+          "Emotional response"
+        ],
+        "tags": [],
+        "desc": "People fall victim to bureaucratic errors when documenting their identity. Mistakes in official records, lost documents, or administrative oversights can create a discrepancy between biological identity and bureaucratic identity, leading to serious consequences such as being unable to access services, travel, or even prove legal existence.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nfqdseus",
+      "x": 4491.457432377665,
+      "y": -1568.281355449576,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "tempo",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nlu99rw4",
+      "x": 4478.639506216168,
+      "y": -1177.281355449576,
+      "w": 320,
+      "h": 191,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "unire concetto di idetnità e confini",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzoyfgq6",
+      "x": 4514.639506216168,
+      "y": -1790.281355449576,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "nomadismo",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
         "links": [],
         "files": []
       }
@@ -902,26 +1035,76 @@
       "s": "nq88ccga",
       "t": "n5vf0f18",
       "dashed": false
+    },
+    {
+      "s": "nf3ssvpb",
+      "t": "nfqgqm5g",
+      "dashed": true
+    },
+    {
+      "s": "ncob3sst",
+      "t": "nvi0dm4q",
+      "dashed": false
+    },
+    {
+      "s": "ncob3sst",
+      "t": "nlxdh48f",
+      "dashed": false
+    },
+    {
+      "s": "nij45h41",
+      "t": "nklq4uw2",
+      "dashed": false
+    },
+    {
+      "s": "nydwxrhx",
+      "t": "n5vf0f18",
+      "dashed": false
+    },
+    {
+      "s": "nklq4uw2",
+      "t": "nydwxrhx",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "nfqdseus",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "nlu99rw4",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "nzoyfgq6",
+      "dashed": false
+    },
+    {
+      "s": "nln11rdb",
+      "t": "noz4e8vf",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Emotional response",
-      "Communication",
+      "Definition",
+      "Hystory",
       "Feelings",
       "Socio-political",
       "Conflict",
-      "Definition",
-      "Hystory",
-      "Semantic research",
-      "Critical design",
+      "Emotional response",
+      "Design research",
       "Media studies",
-      "Design research"
+      "Critical design",
+      "Semantic research",
+      "Communication"
     ],
     "tags": [],
     "type": [
-      "Concept",
       "Research",
+      "Concept",
       "Brief"
     ]
   }
