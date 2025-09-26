@@ -510,8 +510,8 @@
     },
     {
       "id": "nwnnoqd3",
-      "x": 3579.6089541800875,
-      "y": 2836.0161097907107,
+      "x": 3499.6089541800875,
+      "y": 2096.0161097907107,
       "w": 320,
       "h": 355,
       "group": null,
@@ -532,8 +532,8 @@
     },
     {
       "id": "ne2dvn9k",
-      "x": 2068.534641604337,
-      "y": 1498.7382021943054,
+      "x": 2066.7079370090973,
+      "y": 1383.6558126941895,
       "w": 320,
       "h": 372,
       "group": null,
@@ -555,8 +555,8 @@
     },
     {
       "id": "ni04g7pj",
-      "x": 2068.908158539945,
-      "y": 1914.9866806363784,
+      "x": 2065.254749349465,
+      "y": 1801.7309957315024,
       "w": 320,
       "h": 556,
       "group": null,
@@ -652,8 +652,8 @@
     },
     {
       "id": "nzojt12q",
-      "x": 2042.9173088626194,
-      "y": -1180.6851630275114,
+      "x": 2202.9173088626194,
+      "y": -1192.6851630275114,
       "w": 320,
       "h": 405,
       "group": null,
@@ -675,23 +675,25 @@
     },
     {
       "id": "n5vf0f18",
-      "x": 4082.6395062161682,
-      "y": -1406.4270177962526,
+      "x": 3364.973746884191,
+      "y": -1727.9129416665153,
       "w": 320,
-      "h": 179,
+      "h": 434,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "creare confini con altri criteri",
+        "title": "Dynamic boundaries with a new sense of belonging",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Hystory",
-          "Conflict"
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Boundaries are lines of demarcation that define the geographic space and the population over which a state exercises its sovereignty. However, just as a nation does not necessarily coincide with the state, an individual’s personal identity is not fully encompassed by their bureaucratic dimension. In a scenario where identity prevails over territory, the state emancipates itself from physical space and redefines itself according to new parameters, transforming the static concept of borders into a dynamic network.",
         "links": [],
         "files": []
       }
@@ -882,24 +884,26 @@
     },
     {
       "id": "n6j0ldtt",
-      "x": 4542.639506216168,
-      "y": -2522.281355449576,
+      "x": 4516.944158523031,
+      "y": -2506.680608635885,
       "w": 320,
-      "h": 348,
+      "h": 422,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
+        "title": "Christo and Jeanne-Claude, Running Fence, 1976",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
         "areas": [
-          "Hystory",
-          "Conflict"
+          "Installation",
+          "Art"
         ],
         "tags": [],
         "desc": "",
-        "links": [],
+        "links": [
+          "https://christojeanneclaude.net/artworks/running-fence/"
+        ],
         "files": [
           {
             "name": "16.jpeg",
@@ -914,24 +918,26 @@
     },
     {
       "id": "novblbup",
-      "x": 4186.639506216168,
-      "y": -2513.281355449576,
+      "x": 4172.874141380559,
+      "y": -2507.7752095153323,
       "w": 320,
-      "h": 345,
+      "h": 402,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
+        "title": "Zanny Bagg, The Right of Passage, 2013",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
         "areas": [
-          "Hystory",
-          "Conflict"
+          "Art",
+          "Documentary"
         ],
         "tags": [],
         "desc": "",
-        "links": [],
+        "links": [
+          "https://zannybegg.com/the-right-of-passage/"
+        ],
         "files": [
           {
             "name": "15.jpeg",
@@ -947,23 +953,25 @@
     {
       "id": "nca0oo3r",
       "x": 3834.6395062161682,
-      "y": -2504.281355449576,
+      "y": -2503.3476007532695,
       "w": 320,
-      "h": 351,
+      "h": 424,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
+        "title": "Søren Solkær, Black Sun # 81, 2020",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
         "areas": [
-          "Hystory",
-          "Conflict"
+          "Art",
+          "Photography"
         ],
         "tags": [],
         "desc": "",
-        "links": [],
+        "links": [
+          "https://www.artsy.net/artwork/soren-solkaer-black-sun-number-81"
+        ],
         "files": [
           {
             "name": "14.jpeg",
@@ -978,24 +986,26 @@
     },
     {
       "id": "nffar7c9",
-      "x": 3866.6395062161682,
-      "y": -1999.281355449576,
+      "x": 4516.133932451627,
+      "y": -2059.7294437663295,
       "w": 320,
-      "h": 370,
+      "h": 443,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
+        "title": "Richard Alexander Lou, The Border Door, 1986",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
         "areas": [
-          "Hystory",
-          "Conflict"
+          "Art",
+          "Installation"
         ],
         "tags": [],
         "desc": "",
-        "links": [],
+        "links": [
+          "https://www.artribune.com/arti-visive/arte-contemporanea/2021/06/confini-border-art/"
+        ],
         "files": [
           {
             "name": "17.jpeg",
@@ -1010,24 +1020,26 @@
     },
     {
       "id": "ni3176gn",
-      "x": 4226.639506216168,
-      "y": -2006.281355449576,
+      "x": 4171.812792390465,
+      "y": -2058.8236228658757,
       "w": 320,
-      "h": 503,
+      "h": 576,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
+        "title": "Yanagi Yukinori, Wandering Position, 1988-2021",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
         "areas": [
-          "Hystory",
-          "Conflict"
+          "Art",
+          "Installation"
         ],
         "tags": [],
         "desc": "",
-        "links": [],
+        "links": [
+          "https://anomalytokyo.com/en/exhibition/wandering-position-1988-2021/"
+        ],
         "files": [
           {
             "name": "18.jpeg",
@@ -1045,7 +1057,7 @@
       "x": 4997.876919430556,
       "y": -542.1548195799702,
       "w": 320,
-      "h": 674,
+      "h": 673,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1278,8 +1290,8 @@
     },
     {
       "id": "ng7ezrfq",
-      "x": 3433.633888053746,
-      "y": 2486.877600987909,
+      "x": 4037.633888053746,
+      "y": 1746.8776009879089,
       "w": 320,
       "h": 173,
       "group": null,
@@ -1298,18 +1310,20 @@
     },
     {
       "id": "ncwwny83",
-      "x": 4122.30500523102,
-      "y": 2836.995316417035,
+      "x": 4039.55540741025,
+      "y": 2079.581196885492,
       "w": 320,
-      "h": 361,
+      "h": 413,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "Manual focus subminiature camera released by Minox in 1958",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Object"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -1327,18 +1341,21 @@
     },
     {
       "id": "nn1a4aiz",
-      "x": 5139.598994863896,
-      "y": 2833.929616523945,
+      "x": 4737.050622253685,
+      "y": 2490.2736708554785,
       "w": 320,
-      "h": 391,
+      "h": 427,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "Hans Haacke, News, 1969",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Installation"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -1356,18 +1373,20 @@
     },
     {
       "id": "n2i74tsx",
-      "x": 4462.077152861882,
-      "y": 2830.863916630854,
+      "x": 4380.244087648035,
+      "y": 2078.948992740851,
       "w": 320,
-      "h": 385,
+      "h": 391,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Object"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -1385,18 +1404,21 @@
     },
     {
       "id": "nil6n7i4",
-      "x": 4136.462178048972,
-      "y": 3325.3217186258103,
+      "x": 4056.4621780489724,
+      "y": 2511.6276829931176,
       "w": 320,
-      "h": 314,
+      "h": 349,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "Tonya, Craig Gillespie, 2017",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Film"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -1414,18 +1436,20 @@
     },
     {
       "id": "n3e3i98f",
-      "x": 4797.804393973326,
-      "y": 2834.8447831432104,
+      "x": 4715.054796152555,
+      "y": 2081.0967940393607,
       "w": 320,
-      "h": 344,
+      "h": 350,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "",
-        "type": "",
+        "type": "Moodboard",
         "action": null,
-        "mainArea": null,
-        "areas": [],
+        "mainArea": "Communication",
+        "areas": [
+          "Object"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -1443,33 +1467,58 @@
     },
     {
       "id": "ntz0arhk",
-      "x": 4482.301685458957,
-      "y": 3323.369944917289,
+      "x": 4395.598731943811,
+      "y": 2509.217000188145,
       "w": 320,
-      "h": 338,
+      "h": 377,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "",
-        "type": "Concept",
+        "title": "L’uccello dalle piume  di cristallo, Dario Argento",
+        "type": "Moodboard",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Art",
+          "Film"
         ],
         "tags": [],
         "desc": "",
         "links": [],
         "files": [
           {
-            "name": "13.jpeg",
-            "size": 230575,
-            "type": "image/jpeg",
+            "name": "13.png",
+            "size": 396541,
+            "type": "image/png",
             "isImage": true,
             "isPDF": false,
             "path": "assets/13.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "nk57gwp6",
+      "x": 4997.706732896404,
+      "y": -2515.566243974956,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Border art",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Socio-political",
+          "Installation"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -1843,33 +1892,45 @@
       "s": "nwnnoqd3",
       "t": "ntz0arhk",
       "dashed": false
+    },
+    {
+      "s": "nffar7c9",
+      "t": "nk57gwp6",
+      "dashed": false
+    },
+    {
+      "s": "n6j0ldtt",
+      "t": "nk57gwp6",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Socio-political",
-      "Photography",
-      "Art",
       "Installation",
-      "Communication",
-      "Feelings",
-      "Definition",
-      "Hystory",
-      "Emotional response",
+      "Art",
+      "Object",
+      "Film",
+      "Photography",
+      "Socio-political",
+      "Documentary",
       "Conflict",
-      "Literature",
-      "Book",
       "Semantic research",
-      "Critical design",
+      "Feelings",
+      "Design research",
       "Media studies",
-      "Design research"
+      "Critical design",
+      "Literature",
+      "Emotional response",
+      "Hystory",
+      "Definition",
+      "Communication"
     ],
     "tags": [],
     "type": [
-      "Concept",
       "Moodboard",
-      "Research",
+      "Concept",
       "Source",
+      "Research",
       "Brief"
     ]
   }
