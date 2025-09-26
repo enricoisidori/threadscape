@@ -6,7 +6,7 @@
       "x": 0,
       "y": 0,
       "w": 320,
-      "h": 807,
+      "h": 782,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -43,7 +43,7 @@
       "x": 480,
       "y": 0,
       "w": 320,
-      "h": 322,
+      "h": 318,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -76,7 +76,7 @@
       "x": 480,
       "y": 362,
       "w": 320,
-      "h": 344,
+      "h": 340,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -109,7 +109,7 @@
       "x": 480,
       "y": 746,
       "w": 320,
-      "h": 344,
+      "h": 340,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -141,7 +141,7 @@
       "x": 480,
       "y": 1130,
       "w": 320,
-      "h": 344,
+      "h": 340,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -174,7 +174,7 @@
       "x": 480,
       "y": 1514,
       "w": 320,
-      "h": 299,
+      "h": 296,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -207,7 +207,7 @@
       "x": 480,
       "y": 1853,
       "w": 320,
-      "h": 299,
+      "h": 296,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -239,7 +239,7 @@
       "x": 480,
       "y": 2192,
       "w": 320,
-      "h": 299,
+      "h": 296,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -271,7 +271,7 @@
       "x": 480,
       "y": 2531,
       "w": 320,
-      "h": 344,
+      "h": 340,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -303,7 +303,7 @@
       "x": 480,
       "y": 2915,
       "w": 320,
-      "h": 322,
+      "h": 318,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -336,7 +336,7 @@
       "x": 480,
       "y": 3277,
       "w": 320,
-      "h": 322,
+      "h": 318,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -369,7 +369,7 @@
       "x": 480,
       "y": 3639,
       "w": 320,
-      "h": 344,
+      "h": 340,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -401,7 +401,7 @@
       "x": 960,
       "y": 746,
       "w": 320,
-      "h": 270,
+      "h": 254,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -427,7 +427,7 @@
       "x": 960,
       "y": 1048,
       "w": 320,
-      "h": 270,
+      "h": 254,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -453,7 +453,7 @@
       "x": 1565.0525444015084,
       "y": 1352.032068401328,
       "w": 320,
-      "h": 507,
+      "h": 488,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -479,7 +479,7 @@
       "x": 1565.0605329859413,
       "y": 1866.7427422625815,
       "w": 320,
-      "h": 484,
+      "h": 466,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -507,7 +507,7 @@
       "x": 1565.7235182585794,
       "y": 2353.2870860577655,
       "w": 320,
-      "h": 799,
+      "h": 718,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -536,7 +536,7 @@
       "x": 1557.9930160671809,
       "y": 609.4056719380497,
       "w": 320,
-      "h": 739,
+      "h": 710,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -567,7 +567,7 @@
       "x": 1560.9392284029757,
       "y": -1097.608959283058,
       "w": 320,
-      "h": 486,
+      "h": 468,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -595,7 +595,7 @@
       "x": 1561.052220744013,
       "y": -591.2259516412292,
       "w": 320,
-      "h": 507,
+      "h": 488,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -622,7 +622,7 @@
       "x": 1556.1340995909159,
       "y": -58.4335289806708,
       "w": 320,
-      "h": 584,
+      "h": 562,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -644,6 +644,40 @@
           "https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/",
           "https://www.sciencedirect.com/science/article/abs/pii/S0306457323002194",
           "https://arno.uvt.nl/show.cgi?fid=183529"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ngxplybz",
+      "x": 2044.8258917206676,
+      "y": -1091.4233603497412,
+      "w": 320,
+      "h": 408,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "I Got Hypnotized to Quit Smoking—It Sort...",
+          "Researchers can&#39;t agree on whether hypnoth...",
+          "theatlantic.com",
+          "open.bu.edu",
+          "https://onlinelibrary.wiley.com/doi/abs/10.1002/ch.366?utm_source=chatgpt.com",
+          "Alert Hypnotic Inductions: Use in Treating C...",
+          "Alert hypnosis can be a valuable part of the treatm...",
+          "pubmed.ncbi.nlm.nih.gov"
         ],
         "files": []
       }
@@ -749,17 +783,22 @@
       "s": "nqsj3v05",
       "t": "nmm5bb23",
       "dashed": false
+    },
+    {
+      "s": "nweug8dn",
+      "t": "ngxplybz",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Society studies",
-      "Socio-political",
-      "Critical theory",
-      "Media studies",
-      "Design research",
+      "Critical design",
       "Communication",
-      "Critical design"
+      "Design research",
+      "Media studies",
+      "Critical theory",
+      "Socio-political",
+      "Society studies"
     ],
     "tags": [],
     "type": [
