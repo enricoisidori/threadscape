@@ -6,7 +6,7 @@
       "x": 0,
       "y": 0,
       "w": 320,
-      "h": 776,
+      "h": 782,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -43,7 +43,7 @@
       "x": 480,
       "y": 0,
       "w": 320,
-      "h": 312,
+      "h": 318,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -76,7 +76,7 @@
       "x": 480,
       "y": 362,
       "w": 320,
-      "h": 334,
+      "h": 340,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -109,7 +109,7 @@
       "x": 480,
       "y": 746,
       "w": 320,
-      "h": 334,
+      "h": 340,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -141,7 +141,7 @@
       "x": 480,
       "y": 1130,
       "w": 320,
-      "h": 334,
+      "h": 340,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -174,7 +174,7 @@
       "x": 480,
       "y": 1514,
       "w": 320,
-      "h": 290,
+      "h": 296,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -207,7 +207,7 @@
       "x": 480,
       "y": 1853,
       "w": 320,
-      "h": 290,
+      "h": 296,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -239,7 +239,7 @@
       "x": 480,
       "y": 2192,
       "w": 320,
-      "h": 290,
+      "h": 296,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -271,7 +271,7 @@
       "x": 480,
       "y": 2531,
       "w": 320,
-      "h": 334,
+      "h": 340,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -303,7 +303,7 @@
       "x": 480,
       "y": 2915,
       "w": 320,
-      "h": 312,
+      "h": 318,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -336,7 +336,7 @@
       "x": 480,
       "y": 3277,
       "w": 320,
-      "h": 312,
+      "h": 318,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -369,7 +369,7 @@
       "x": 480,
       "y": 3639,
       "w": 320,
-      "h": 334,
+      "h": 340,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -401,11 +401,11 @@
       "x": 1465.5170136571687,
       "y": 1067.2786811077679,
       "w": 320,
-      "h": 319,
+      "h": 338,
       "group": null,
       "data": {
         "date": "2025-09-21",
-        "title": "",
+        "title": "Nuovo colonialismo",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
@@ -562,10 +562,10 @@
     },
     {
       "id": "nvuaguey",
-      "x": 1537.1388325367773,
-      "y": 2480.335338137983,
+      "x": 1142.1856857381902,
+      "y": 2382.440968418675,
       "w": 320,
-      "h": 518,
+      "h": 319,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -584,20 +584,23 @@
     },
     {
       "id": "nqc3yxx8",
-      "x": 1417.5041063738042,
-      "y": 4280.298639614046,
+      "x": 1605.5041063738042,
+      "y": 4888.298639614046,
       "w": 320,
-      "h": 139,
+      "h": 415,
       "group": null,
       "data": {
         "date": "2025-09-22",
         "title": "",
-        "type": "",
-        "action": null,
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Socio-cultural",
+          "Conflicts"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "La Sanguma, la violenta \"caccia alle streghe\" della Papua Nuova Guinea, è una crisi culturale innescata dal fallimento delle istituzioni moderne (medicina, economia). \n\nLa frustrazione per la povertà viene incanalata nella magia, trasformando problemi strutturali in conflitti soprannaturali. Questo meccanismo individua donne vulnerabili come capri espiatori, generando un conflitto di autorità in cui la giustizia comunitaria (kastom) prevale sulla legge statale. \n\nLa violenza, con la provincia di Chimbu negli Altopiani come punto caldo, è il sintomo di un vuoto di potere \ne di spiegazioni in una società in rapida transizione.",
         "links": [],
         "files": []
       }
@@ -607,7 +610,7 @@
       "x": 3165.9131806800065,
       "y": 930.1708308683208,
       "w": 320,
-      "h": 691,
+      "h": 553,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -628,37 +631,15 @@
       }
     },
     {
-      "id": "n8iv0nij",
-      "x": 2103.2312412982697,
-      "y": 2187.13466485286,
-      "w": 320,
-      "h": 249,
-      "group": null,
-      "data": {
-        "date": "2025-09-22",
-        "title": "",
-        "type": "Source",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [
-          "Conflicts"
-        ],
-        "tags": [],
-        "desc": "I Badjao, in quanto popolo apolide del mare, diventano invisibili per gli stati-nazione. \nLe moderne leggi marittime criminalizzano \nil loro stile di vita tradizionale, trasformandoli \nda abitanti originari in trasgressori.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "nm1n9stu",
-      "x": 2129.01218745201,
-      "y": 2561.3222172997735,
+      "x": 2465.01218745201,
+      "y": 2485.3222172997735,
       "w": 320,
-      "h": 265,
+      "h": 700,
       "group": null,
       "data": {
         "date": "2025-09-22",
-        "title": "",
+        "title": "Conflitti",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
@@ -666,59 +647,15 @@
           "Conflicts"
         ],
         "tags": [],
-        "desc": "Il collasso ecologico da pesca industriale \ne inquinamento distrugge l'habmarino \ndei Badjao, privandoli di cibo e identità. \nSpesso vengono forzatamente trasferiti \nsulla terraferma in “relocation villages”, \nseparandoli dal mare e disintegrando la loro cultura.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n6fhzjda",
-      "x": 2185.213814255583,
-      "y": 2986.863303890189,
-      "w": 320,
-      "h": 297,
-      "group": null,
-      "data": {
-        "date": "2025-09-22",
-        "title": "",
-        "type": "Source",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [
-          "Conflicts"
-        ],
-        "tags": [],
-        "desc": "I programmi governativi di sedentarizzazione disintegrano la società Badjao. Così, si perdono ruoli sociali tradizionali e rituali .\nIl sistema scolastico costringe i bambini Badjao \na studiare in una lingua straniera, esercitando \nsu di loro una pressione culturale che li spinge \nad abbandonare la propria identità e a recidere \ni legami con le tradizioni comunitarie.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n8n9z898",
-      "x": 2243.5533203149203,
-      "y": 3479.2824611546134,
-      "w": 320,
-      "h": 329,
-      "group": null,
-      "data": {
-        "date": "2025-09-22",
-        "title": "",
-        "type": "Source",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [
-          "Conflicts"
-        ],
-        "tags": [],
-        "desc": "La visione del mondo animista e il rapporto simbiotico con il mare dei Badjao è considerata primitiva \ne non scientifica. Le loro conoscenze vengono ignorate e i loro metodi di pesca spesso vietati. \nSono state create delle apposite politiche \ndi conservazione top-down che escludono i Badjao dalla progettazione e gestione delle Aree Marine Protette, non riconoscendo il loro ruolo storico \ndi custodi dell'ambiente.",
+        "desc": "Il collasso ecologico da pesca industriale \ne inquinamento distrugge l'habmarino \ndei Badjao, privandoli di cibo e identità. \nSpesso vengono forzatamente trasferiti \nsulla terraferma in “relocation villages”, \nseparandoli dal mare e disintegrando la loro cultura.\n\nI Badjao, in quanto popolo apolide del mare, diventano invisibili per gli stati-nazione. \nLe moderne leggi marittime criminalizzano \nil loro stile di vita tradizionale, trasformandoli \nda abitanti originari in trasgressori.\n\nI programmi governativi di sedentarizzazione disintegrano la società Badjao. Così, si perdono ruoli sociali tradizionali e rituali .\nIl sistema scolastico costringe i bambini Badjao \na studiare in una lingua straniera, esercitando \nsu di loro una pressione culturale che li spinge \nad abbandonare la propria identità e a recidere \ni legami con le tradizioni comunitarie.\n\nLa visione del mondo animista e il rapporto simbiotico con il mare dei Badjao è considerata primitiva \ne non scientifica. Le loro conoscenze vengono ignorate e i loro metodi di pesca spesso vietati. \nSono state create delle apposite politiche \ndi conservazione top-down che escludono i Badjao dalla progettazione e gestione delle Aree Marine Protette, non riconoscendo il loro ruolo storico \ndi custodi dell'ambiente.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nb1w3ca9",
-      "x": 2665.748371572009,
-      "y": 2538.60598379891,
+      "x": 1986.5970042747167,
+      "y": 2970.681234418604,
       "w": 320,
       "h": 181,
       "group": null,
@@ -739,8 +676,8 @@
     },
     {
       "id": "nbnhq7c8",
-      "x": 2689.0208723284336,
-      "y": 2804.1862865486955,
+      "x": 1940.2334913537084,
+      "y": 2395.0597708478845,
       "w": 320,
       "h": 197,
       "group": null,
@@ -761,8 +698,8 @@
     },
     {
       "id": "nho0l4rk",
-      "x": 2796.106920949895,
-      "y": 3146.277391954993,
+      "x": 1722.0711274091807,
+      "y": 3703.3532531545857,
       "w": 320,
       "h": 197,
       "group": null,
@@ -783,8 +720,8 @@
     },
     {
       "id": "n91yfrhb",
-      "x": 2860.885990307602,
-      "y": 3473.983272235158,
+      "x": 2550.089892907946,
+      "y": 3584.9831573887213,
       "w": 320,
       "h": 229,
       "group": null,
@@ -805,8 +742,8 @@
     },
     {
       "id": "nql2g1zc",
-      "x": 3153.072071792865,
-      "y": 2605.146780726987,
+      "x": 1639.278360068417,
+      "y": 3013.6213853694344,
       "w": 320,
       "h": 213,
       "group": null,
@@ -827,8 +764,8 @@
     },
     {
       "id": "npoqibjw",
-      "x": 3175.9176448834537,
-      "y": 2890.155792704872,
+      "x": 2101.7510146614804,
+      "y": 3277.0172172010357,
       "w": 320,
       "h": 165,
       "group": null,
@@ -849,8 +786,8 @@
     },
     {
       "id": "ndsmz0w2",
-      "x": 3253.892856288711,
-      "y": 3159.1522319233145,
+      "x": 2020.5076221490567,
+      "y": 3977.9523061064547,
       "w": 320,
       "h": 229,
       "group": null,
@@ -871,10 +808,10 @@
     },
     {
       "id": "nd08c75z",
-      "x": 3654.8834690116996,
-      "y": 2290.6879033192636,
+      "x": 1629.8065641066553,
+      "y": 2115.6475514845274,
       "w": 320,
-      "h": 243,
+      "h": 217,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -891,10 +828,10 @@
     },
     {
       "id": "ncpzjc5a",
-      "x": 3679.3200682347215,
-      "y": 2618.501134368407,
+      "x": 2121.6056734419253,
+      "y": 3619.3520321109786,
       "w": 320,
-      "h": 323,
+      "h": 297,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -911,10 +848,10 @@
     },
     {
       "id": "nusbc8m2",
-      "x": 3716.7051031619662,
-      "y": 3052.4946656054112,
+      "x": 1431.2342785980836,
+      "y": 3350.945622317878,
       "w": 320,
-      "h": 275,
+      "h": 217,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -931,10 +868,10 @@
     },
     {
       "id": "nm7c1sns",
-      "x": 3747.3601433063054,
-      "y": 3439.6411582924775,
+      "x": 2628.6480776389612,
+      "y": 3849.515748851617,
       "w": 320,
-      "h": 275,
+      "h": 249,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -946,6 +883,632 @@
         "tags": [],
         "desc": "Daug, Artchil C., Christopher O. Kimilat, Glory Grace Ann G. Bayon, e Angenel Clariz D. Rufon. \"THE POSSIBILITY OF ETHNOGENESIS OF THE BADJAO IN BARANGAY TAMBACAN, ILIGAN CITY.\" Unpublished manuscript. Department of History, Mindanao State University-Iligan Institute of Technology",
         "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6udjmv0",
+      "x": 2184.046709850399,
+      "y": 4674.782220669409,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://en.wikipedia.org/wiki/Modern_witch_hunts"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nngyv960",
+      "x": 2174.3984859392417,
+      "y": 4968.353056516162,
+      "w": 320,
+      "h": 197,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.scientificamerican.com/video/how-science-can-defeat-witchcraft-fears-in-papua-new-guinea/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nysyrf5d",
+      "x": 2195.2657696083097,
+      "y": 5289.4610349551685,
+      "w": 320,
+      "h": 197,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.unitedforequalitypng.com/post/legislation-passed-to-criminalise-sorcery-accusation-related-violence-and-the-role-of-glasman-meris"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ny8xav7a",
+      "x": 2197.9467656935353,
+      "y": 5923.968436744516,
+      "w": 320,
+      "h": 197,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.unitedforequalitypng.com/post/legislation-passed-to-criminalise-sorcery-accusation-related-violence-and-the-role-of-glasman-meris"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n9zguzmv",
+      "x": 2643.550726991471,
+      "y": 4824.325144235606,
+      "w": 320,
+      "h": 181,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://highline.huffingtonpost.com/articles/en/they-burn-witches-here/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nafy8hr2",
+      "x": 2178.504437257194,
+      "y": 5600.0801879172795,
+      "w": 320,
+      "h": 181,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://kulturnistudia.cz/bilum-and-noken-string-bags-and-sorcery-in-new-guinea/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "na9l7lku",
+      "x": 2668.134604974993,
+      "y": 5374.018345426775,
+      "w": 320,
+      "h": 181,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://pngnri.org/images/Publications/Issues_Paper_No_36.pdf"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n7f44j9e",
+      "x": 2659.65696483495,
+      "y": 5660.024604081934,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.bbc.com/news/av/world-asia-44333447"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nids66kf",
+      "x": 2657.3317387422944,
+      "y": 5084.491482312303,
+      "w": 320,
+      "h": 185,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "https://time.com/5616475/papua-new-guinea-witchcraft-justice/",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "niri3gn1",
+      "x": 2729.6095553950286,
+      "y": 5961.269185060741,
+      "w": 320,
+      "h": 181,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.amazon.it/Modernity-Witchcraft-Postcolonial-Sorcellerie-Politique/dp/0813917034"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nau94gki",
+      "x": 3073.422628838286,
+      "y": 5451.665736176642,
+      "w": 320,
+      "h": 181,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "\"Deadly Words: Witchcraft in the Bocage\" (1980) - Jeanne Favret-Saada"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nddh4xhx",
+      "x": 3074.231974808962,
+      "y": 4898.047044235289,
+      "w": 320,
+      "h": 181,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.primevideo.com/detail/Saving-Africas-Witch-Children/0RE4W5BG167864OTKJZDZR75DX"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nzgricii",
+      "x": 3090.103803456557,
+      "y": 5167.374681826186,
+      "w": 320,
+      "h": 181,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.newsweek.com/witch-camps-elderly-women-die-ghana-1754907"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ny4tbs8r",
+      "x": 3149.8009994938784,
+      "y": 5807.6366307415965,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "http://bbc.com/news/magazine-19437130"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nc9jpidj",
+      "x": 3656.9774386260797,
+      "y": 1840.861275802441,
+      "w": 320,
+      "h": 463,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Conflicts"
+        ],
+        "tags": [],
+        "desc": "e se l'unica via per la preservazione fosse la \"Crioconservazione Culturale\"?\nconcept: Cosa succede quando l'assimilazione è così aggressiva che l'unico modo per salvare una cultura è \"congelarla\" e metterla al sicuro? Ispirati dai Badjao che potrebbero \"ritirarsi\" nel mare, i custodi delle culture a rischio compiono un gesto radicale: creano capsule del tempo viventi. Non si tratta di archivi digitali, ma di enclavi fisiche e volontariamente isolate.\n\nesperienza universale: un accordo internazionale per cui a un popolo come i Curdi o i Tibetani viene concesso di preservare la loro cultura intatta in un \"territorio-santuario\" chiuso, un'area autonoma che rifiuta volontariamente qualsiasi contatto con l'esterno per i prossimi 200 anni. All'interno, la cultura si sviluppa secondo le sue regole, senza influenze esterne. ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ng6y70ki",
+      "x": 3704.1199423873045,
+      "y": 2424.4270561972867,
+      "w": 320,
+      "h": 601,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "e se la cultura diventasse una \"valuta diplomatica\" sovrana?\nconcept: E se un popolo, invece di cercare riconoscimento politico, iniziasse a negoziare direttamente la sua cultura come bene di scambio con altri attori globali (corporazioni, città-stato, organizzazioni transnazionali), bypassando completamente gli stati-nazione che lo opprimono?\n\nIl Caso Badjao: I Badjao, stanchi dell'inazione degli stati, dichiarano la loro cultura Patrimonio Vivente dell'Umanità in Pericolo e iniziano a venderla. Non vendono oggetti, ma servizi culturali unici:\n\"Consulenza Ecologica Badjao\" per grandi ONG ambientaliste, basata sulla loro conoscenza millenaria degli ecosistemi marini.\n\"Diritti di Accesso Intellettuale\" al loro sistema di navigazione stellare a compagnie di shipping interessate a rotte più efficienti.\n\nesperienza universale: I Tibetani potrebbero negoziare i diritti della loro medicina tradizionale con le case farmaceutiche. I Nativi Americani potrebbero vendere servizi di gestione del territorio agli stati colpiti dagli incendi. \n\nsignificato: la cultura cessa di essere un motivo di emarginazione e diventa un asset strategico.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "no95t27i",
+      "x": 3684.3871894952654,
+      "y": 3113.746954553596,
+      "w": 320,
+      "h": 649,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "e se i popoli non riconosciuti diventassero \"cittadini del tempo\" invece che dello spazio?\n → creano un loro calendario\nconcept: e se la risposta alla mancanza di territorio non fosse cercare un nuovo spazio, ma rifiutare la temporalità dominante? cosa succederebbe se questi popoli dichiarassero la loro appartenenza a una linea temporale culturale differente, creando enclavi temporali dove le loro leggi e tradizioni sono sovrane? È una disobbedienza civile che non blocca strade, ma sospende il calendario dominante, sostituendolo con ritmi biologici, culturali e cosmologici propri. \n\ntempo ciclico (minoranze) vs. tempo lineare (cultura del profitto e di massa)→ il tempo ciclico è il tempo della natura e della memoria\n\nsignificato:si tratta di una riconfigurazione del potere. Mentre gli Stati controllano lo spazio, i popoli senza territorio potrebbero controllare il tempo significativo - trasformando le loro tradizioni cicliche in strumenti di sovranità. costringerebbero il mondo a sincronizzarsi con i loro ritmi culturali invece di subire il tempo lineare del progresso forzato. È un atto di auto-determinazione che aggira completamente le logiche di controllo territoriale, spostando il conflitto su un piano dove i popoli indigeni detengono un vantaggio insormontabile: l'autenticità del loro rapporto con i cicli naturali e culturali.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqfpjft5",
+      "x": 4171.487659961392,
+      "y": 1825.5451912469734,
+      "w": 320,
+      "h": 169,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "moodboard",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8xh0h0w",
+      "x": 4195.242450275198,
+      "y": 2495.2489324885833,
+      "w": 320,
+      "h": 169,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "moodboard",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5gjw8b3",
+      "x": 4252.852015294453,
+      "y": 3219.836002660557,
+      "w": 320,
+      "h": 169,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "moodboard",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ne3wlsum",
+      "x": 3752.7673791634575,
+      "y": 1027.7113914820409,
+      "w": 320,
+      "h": 169,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "moodboard",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0ua1xub",
+      "x": 3026.7862500113547,
+      "y": 2270.2532277732735,
+      "w": 320,
+      "h": 169,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "moodboard",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmi5ztq3",
+      "x": 3737.909685515203,
+      "y": 5148.147239472784,
+      "w": 320,
+      "h": 169,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "moodboard",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9p6fa96",
+      "x": 1325.7499196915614,
+      "y": -465.4544861106289,
+      "w": 320,
+      "h": 622,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Venerazione della tecnologia",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural",
+          "Media studies"
+        ],
+        "tags": [
+          "Source",
+          "Exploring"
+        ],
+        "desc": "Se la risposta al vuoto di identità non fosse la ricerca di una nuova figura, ma il rifiuto della celebrità dominante? cosa succederebbe se le persone eleggessero figure digitali come proprie divinità? creando comunità dove le loro figure digitali e tradizioni sono sacre? \n\nIl tempo del consumo, imposto dalla cultura di massa, ci spinge a venerare celebrità che seguono ritmi lineari di successo e fama. Il tempo sacro, invece, è il tempo delle figure digitali, venerate in base a cicli di creazione, interazione e condivisione all'interno di una comunità, anziché a un rigido piano di marketing.\n\nSi tratta di una riconfigurazione del potere. Mentre i media e l'industria dell'intrattenimento controllano lo spazio della celebrità, le persone senza un'industria alle spalle potrebbero controllare il tempo significativo, trasformando le proprie figure digitali in strumenti di sovranità. Costringerebbero la cultura a sincronizzarsi con i loro ritmi di adorazione, anziché subire il tempo lineare del successo forzato. ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9tus8ln",
+      "x": 1877.7871749709527,
+      "y": -1110.0266295446388,
+      "w": 320,
+      "h": 381,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Mindar, il Buddha robotico In Giappone, la fusione tra religione e tecnologia ha già un volto: Mindar, un robot umanoide di un metro e ottanta che recita sermoni in un tempio buddista di 400 anni a Kyoto. Mindar non sostituisce il sacerdote, ma è visto come un mezzo per rendere più accessibili gli insegnamenti buddisti, dimostrando una venerazione non per il robot in sé, ma per la sua capacità di incarnare e diffondere un'antica saggezza in una forma nuova e tecnologica.",
+        "links": [
+          "https://www.scientificamerican.com/article/the-in-credible-robot-priest-and-the-limits-of-robot-workers/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nwl1f8u2",
+      "x": 1876.7110779319285,
+      "y": -623.4828964792471,
+      "w": 320,
+      "h": 313,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Il Teologo del Web3 Vitalik Buterin, co-creatore di Ethereum, non è solo un programmatore, ma un vero e proprio filosofo e pensatore del mondo digitale. I suoi scritti e le sue riflessioni non si limitano agli aspetti tecnici della blockchain, ma esplorano le implicazioni etiche, sociali e politiche di una rete decentralizzata. È visto come una guida spirituale e un punto di riferimento per l'intero movimento del Web3, e la sua autorità non deriva dalla fama, ma dalla profondità del suo pensiero",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0yn3rjz",
+      "x": 1872.7110779319282,
+      "y": -231.48289647924707,
+      "w": 320,
+      "h": 297,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Hatsune Mikuè una figura creata da Crypton Future Media. Non è solo un personaggio, ma un vero e proprio software (Vocaloid) con cui le persone possono creare musica e testi. Miku è diventata un'icona globale, con concerti in cui si esibisce come ologramma e un'enorme community di fan che la venerano come una vera e propria pop star. La sua fama è basata su un modello collaborativo e decentralizzato, anziché su un'unica figura di potere.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nfo3jvbj",
+      "x": 1879.2540819252063,
+      "y": -1676.6993736560084,
+      "w": 320,
+      "h": 459,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Amare i robot?",
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "Il documento, intitolato \"Robots, Love, and Sex: The Ethics of Building a Love Machine,\" esplora le implicazioni etiche dell'uso dell'affective computing nella robotica per simulare emozioni umane come l'amore e l'attrazione, al fine di creare compagni artificiali. L'autore sostiene che, sebbene sia possibile costruire macchine che inducano gli esseri umani a provare affetto, i principi dell'etica delle macchine devono essere applicati per stabilire dei limiti alla manipolazione della psicologia umana.",
+        "links": [
+          "https://ieeexplore.ieee.org/abstract/document/6313590?casa_token=iEKjhivFBkQAAAAA:hTGhFQzJx__h5q-SwcjZ",
+          "pYL13w4S6mEbYo8h5tOQddqjMYT2McdJPwAnLlFSqZjVKstRKQ"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ndy8yrcv",
+      "x": 2746.4536217249906,
+      "y": -1545.7141202251273,
+      "w": 320,
+      "h": 281,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [
+          "Source"
+        ],
+        "desc": "Stati Uniti. Suicida 14enne “innamorato” di un chatbot, la madre fa causa alla società",
+        "links": [
+          "https://www.avvenire.it/mondo/pagine/ragazzo-si-uccide"
+        ],
         "files": []
       }
     }
@@ -1058,40 +1621,227 @@
     },
     {
       "s": "nvuaguey",
-      "t": "n8iv0nij",
-      "dashed": false
-    },
-    {
-      "s": "nvuaguey",
       "t": "nm1n9stu",
       "dashed": false
     },
     {
-      "s": "nvuaguey",
-      "t": "n6fhzjda",
+      "s": "nqc3yxx8",
+      "t": "n6udjmv0",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "nngyv960",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "nysyrf5d",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "nafy8hr2",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "ny8xav7a",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "niri3gn1",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "n7f44j9e",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "na9l7lku",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "nids66kf",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "n9zguzmv",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "nddh4xhx",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "nzgricii",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "nau94gki",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "ny4tbs8r",
+      "dashed": false
+    },
+    {
+      "s": "nm1n9stu",
+      "t": "nc9jpidj",
+      "dashed": false
+    },
+    {
+      "s": "nm1n9stu",
+      "t": "ng6y70ki",
+      "dashed": false
+    },
+    {
+      "s": "nm1n9stu",
+      "t": "no95t27i",
+      "dashed": false
+    },
+    {
+      "s": "nc9jpidj",
+      "t": "nqfpjft5",
+      "dashed": false
+    },
+    {
+      "s": "ng6y70ki",
+      "t": "n8xh0h0w",
+      "dashed": false
+    },
+    {
+      "s": "no95t27i",
+      "t": "n5gjw8b3",
+      "dashed": false
+    },
+    {
+      "s": "njixu8s1",
+      "t": "ne3wlsum",
+      "dashed": false
+    },
+    {
+      "s": "nm1n9stu",
+      "t": "n0ua1xub",
+      "dashed": false
+    },
+    {
+      "s": "nqc3yxx8",
+      "t": "nmi5ztq3",
+      "dashed": false
+    },
+    {
+      "s": "n92sunmm",
+      "t": "n9p6fa96",
+      "dashed": false
+    },
+    {
+      "s": "n9p6fa96",
+      "t": "n9tus8ln",
+      "dashed": false
+    },
+    {
+      "s": "n9p6fa96",
+      "t": "nwl1f8u2",
+      "dashed": false
+    },
+    {
+      "s": "n9p6fa96",
+      "t": "n0yn3rjz",
+      "dashed": false
+    },
+    {
+      "s": "nfo3jvbj",
+      "t": "ndy8yrcv",
+      "dashed": false
+    },
+    {
+      "s": "n9p6fa96",
+      "t": "nfo3jvbj",
       "dashed": false
     },
     {
       "s": "nvuaguey",
-      "t": "n8n9z898",
+      "t": "nbnhq7c8",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "nd08c75z",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "nb1w3ca9",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "npoqibjw",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "nql2g1zc",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "nusbc8m2",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "nho0l4rk",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "ncpzjc5a",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "n91yfrhb",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "ndsmz0w2",
+      "dashed": false
+    },
+    {
+      "s": "nvuaguey",
+      "t": "nm7c1sns",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Conflicts",
-      "Socio-cultural",
-      "Media studies",
-      "Studies",
       "Critical theory",
       "People",
       "Socio-political",
-      "Med",
       "Design research",
       "Communication",
-      "Critical design"
+      "Critical design",
+      "Conflicts",
+      "Media studies",
+      "Amare i robot?",
+      "Socio-cultural"
     ],
-    "tags": [],
+    "tags": [
+      "Exploring",
+      "Source"
+    ],
     "type": [
       "Source",
       "Brief"
