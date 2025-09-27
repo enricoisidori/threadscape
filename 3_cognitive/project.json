@@ -6,7 +6,7 @@
       "x": 0,
       "y": 0,
       "w": 320,
-      "h": 782,
+      "h": 814,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -43,7 +43,7 @@
       "x": 480,
       "y": 0,
       "w": 320,
-      "h": 318,
+      "h": 328,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -74,9 +74,9 @@
     {
       "id": "n4q8mtzu",
       "x": 480,
-      "y": 362,
+      "y": 368,
       "w": 320,
-      "h": 340,
+      "h": 351,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -107,9 +107,9 @@
     {
       "id": "nwl9ouvl",
       "x": 480,
-      "y": 746,
+      "y": 759,
       "w": 320,
-      "h": 340,
+      "h": 351,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -139,9 +139,9 @@
     {
       "id": "npongriz",
       "x": 480,
-      "y": 1130,
+      "y": 1150,
       "w": 320,
-      "h": 340,
+      "h": 351,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -172,9 +172,9 @@
     {
       "id": "n7z0p86f",
       "x": 480,
-      "y": 1514,
+      "y": 1541,
       "w": 320,
-      "h": 296,
+      "h": 306,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -205,9 +205,9 @@
     {
       "id": "n92sunmm",
       "x": 480,
-      "y": 1853,
+      "y": 1887,
       "w": 320,
-      "h": 296,
+      "h": 306,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -237,9 +237,9 @@
     {
       "id": "n3vsqfai",
       "x": 480,
-      "y": 2192,
+      "y": 2233,
       "w": 320,
-      "h": 296,
+      "h": 306,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -269,9 +269,9 @@
     {
       "id": "ncob3sst",
       "x": 480,
-      "y": 2531,
+      "y": 2579,
       "w": 320,
-      "h": 340,
+      "h": 351,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -301,9 +301,9 @@
     {
       "id": "ne7rohui",
       "x": 480,
-      "y": 2915,
+      "y": 2970,
       "w": 320,
-      "h": 318,
+      "h": 328,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -334,9 +334,9 @@
     {
       "id": "nr86jk3r",
       "x": 480,
-      "y": 3277,
+      "y": 3338,
       "w": 320,
-      "h": 318,
+      "h": 328,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -367,9 +367,9 @@
     {
       "id": "nvlahv4k",
       "x": 480,
-      "y": 3639,
+      "y": 3706,
       "w": 320,
-      "h": 340,
+      "h": 351,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -398,15 +398,15 @@
     },
     {
       "id": "nqsj3v05",
-      "x": 960,
-      "y": 746,
+      "x": 968,
+      "y": 568,
       "w": 320,
-      "h": 254,
+      "h": 262,
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": " intrapsychic conflict",
-        "type": "Research",
+        "title": " Intrapsychic conflict",
+        "type": "Finding",
         "action": null,
         "mainArea": null,
         "areas": [
@@ -424,15 +424,15 @@
     },
     {
       "id": "n8a6ebg8",
-      "x": 960,
-      "y": 1048,
+      "x": 956,
+      "y": 1026,
       "w": 320,
-      "h": 254,
+      "h": 262,
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": "interpersonal conflict",
-        "type": "Research",
+        "title": "Interpersonal conflict",
+        "type": "Finding",
         "action": null,
         "mainArea": null,
         "areas": [
@@ -450,15 +450,15 @@
     },
     {
       "id": "nz19ocjs",
-      "x": 1565.0525444015084,
-      "y": 1352.032068401328,
+      "x": 1456,
+      "y": 2105,
       "w": 320,
-      "h": 488,
+      "h": 508,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Cognitive Dissonance",
-        "type": "Research",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -476,15 +476,15 @@
     },
     {
       "id": "n4iormrf",
-      "x": 1565.0605329859413,
-      "y": 1866.7427422625815,
+      "x": 1456,
+      "y": 2653,
       "w": 320,
-      "h": 466,
+      "h": 484,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Neuropolitics",
-        "type": "Research",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -504,15 +504,15 @@
     },
     {
       "id": "nkhzwryp",
-      "x": 1565.7235182585794,
-      "y": 2353.2870860577655,
+      "x": 1459.3102180018955,
+      "y": 3177,
       "w": 320,
-      "h": 718,
+      "h": 749,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Learning",
-        "type": "Research",
+        "type": "Finding",
         "action": null,
         "mainArea": null,
         "areas": [
@@ -533,15 +533,15 @@
     },
     {
       "id": "nai1yave",
-      "x": 1557.9930160671809,
-      "y": 574.6922797493669,
+      "x": 1456,
+      "y": 1310,
       "w": 320,
-      "h": 710,
+      "h": 739,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Cognitive Hedonia",
-        "type": "Research",
+        "type": "Finding",
         "action": null,
         "mainArea": null,
         "areas": [
@@ -564,15 +564,15 @@
     },
     {
       "id": "nweug8dn",
-      "x": 1558.6393358434962,
-      "y": -1132.1073476752529,
+      "x": 1440,
+      "y": -518.873220246825,
       "w": 320,
-      "h": 468,
+      "h": 486,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Hypnosis",
-        "type": "Research",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -592,15 +592,15 @@
     },
     {
       "id": "nfaki92h",
-      "x": 1561.052220744013,
-      "y": -591.2259516412292,
+      "x": 1436,
+      "y": 82,
       "w": 320,
-      "h": 488,
+      "h": 508,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Devil shift",
-        "type": "Research",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -619,15 +619,15 @@
     },
     {
       "id": "nmm5bb23",
-      "x": 1556.1340995909159,
-      "y": -58.4335289806708,
+      "x": 1452,
+      "y": 666,
       "w": 320,
-      "h": 562,
+      "h": 584,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Cognitive overload",
-        "type": "Research",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -650,49 +650,15 @@
     },
     {
       "id": "ngxplybz",
-      "x": 2042.1383896919433,
-      "y": -1112.9233765795389,
+      "x": 1860.6762760458414,
+      "y": -447.2925254447392,
       "w": 320,
-      "h": 408,
+      "h": 423,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Case studies",
-        "type": "Research",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "Neuroscience",
-          "Human-computer interaction",
-          "Critical technology studies",
-          "Society studies"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [
-          "I Got Hypnotized to Quit Smoking—It Sort...",
-          "Researchers can&#39;t agree on whether hypnoth...",
-          "theatlantic.com",
-          "open.bu.edu",
-          "https://onlinelibrary.wiley.com/doi/abs/10.1002/ch.366?utm_source=chatgpt.com",
-          "Alert Hypnotic Inductions: Use in Treating C...",
-          "Alert hypnosis can be a valuable part of the treatm...",
-          "pubmed.ncbi.nlm.nih.gov"
-        ],
-        "files": []
-      }
-    },
-    {
-      "id": "n1qnew9h",
-      "x": 40,
-      "y": 40,
-      "w": 320,
-      "h": 408,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Case studies",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -718,15 +684,15 @@
     },
     {
       "id": "nf0d4g7f",
-      "x": 2040.09319633411,
-      "y": -611.7252079452292,
+      "x": 1856,
+      "y": 179.86484412568865,
       "w": 320,
-      "h": 308,
+      "h": 319,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Case studies",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -747,15 +713,15 @@
     },
     {
       "id": "n777jyyx",
-      "x": 2036.1340995909159,
-      "y": -58.4335289806708,
+      "x": 1890.086484412569,
+      "y": 785.6696616044344,
       "w": 320,
-      "h": 448,
+      "h": 465,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Case studies",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -781,16 +747,16 @@
     },
     {
       "id": "ndpyxbdt",
-      "x": 2037.9930160671809,
-      "y": 609.4056719380497,
+      "x": 1884.676276045841,
+      "y": 1555.9489581663606,
       "w": 320,
-      "h": 402,
+      "h": 416,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Case studies",
-        "type": "Research",
-        "action": null,
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Neuroscience",
@@ -814,15 +780,15 @@
     },
     {
       "id": "nzckj0rg",
-      "x": 2045.0525444015084,
-      "y": 1352.032068401328,
+      "x": 1855.4489099905236,
+      "y": 2213.624113948826,
       "w": 320,
-      "h": 362,
+      "h": 376,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Case studies",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -845,15 +811,15 @@
     },
     {
       "id": "nh791q4j",
-      "x": 2045.0605329859413,
-      "y": 1866.7427422625815,
+      "x": 1838.485421960198,
+      "y": 2844.237194062546,
       "w": 320,
-      "h": 338,
+      "h": 350,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Case studies",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -877,15 +843,15 @@
     },
     {
       "id": "ncwc09sb",
-      "x": 2045.7235182585794,
-      "y": 2353.2870860577655,
+      "x": 1848.4893900509098,
+      "y": 3483.075356832136,
       "w": 320,
-      "h": 265,
+      "h": 275,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "",
-        "type": "Research",
+        "type": "Source",
         "action": null,
         "mainArea": null,
         "areas": [
@@ -901,6 +867,31 @@
           "Cognitive Control and Conflict Adaptation Similariti...",
           "academia.edu"
         ],
+        "files": []
+      }
+    },
+    {
+      "id": "n11fa8pr",
+      "x": 2561.6161998696366,
+      "y": 1130.4344648508245,
+      "w": 320,
+      "h": 581,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "First review",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "The review examined the concepts of decision fatigue, devil shift, and depressive hedonia, highlighting their relevance to psychological and perceptual processes. Particular attention was given to the role of intrapsychic mechanisms in facilitating empathy, with cognitive dissonance identified as a valuable framework for interpreting marketing strategies.\nMethodologically, the systematic use of “what if” questions was recommended to explore potential scenarios and their implications. \nIn the construction of mood boards, the inclusion of real-world elements—such as tools, materials, and abstract signs—was emphasized as a means of eliciting and representing core aspects of the investigated concept.\nConflict includes organized and perceived violence, and prototypes must feel real rather than exist materially.",
+        "links": [],
         "files": []
       }
     }
@@ -1040,21 +1031,58 @@
       "s": "nkhzwryp",
       "t": "ncwc09sb",
       "dashed": false
+    },
+    {
+      "s": "nkhzwryp",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "n4iormrf",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "nz19ocjs",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "nai1yave",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "nmm5bb23",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "nfaki92h",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "nweug8dn",
+      "t": "n11fa8pr",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Society studies",
-      "Socio-political",
-      "Critical theory",
-      "Media studies",
-      "Design research",
+      "Critical design",
       "Communication",
-      "Critical design"
+      "Design research",
+      "Media studies",
+      "Critical theory",
+      "Socio-political",
+      "Society studies"
     ],
     "tags": [],
     "type": [
-      "Research",
+      "Source",
+      "Feedback",
+      "Finding",
       "Brief"
     ]
   }
