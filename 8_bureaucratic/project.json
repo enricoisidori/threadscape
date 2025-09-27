@@ -40,8 +40,8 @@
     },
     {
       "id": "ncob3sst",
-      "x": 169.0395639964143,
-      "y": 8.443774164871797,
+      "x": 153.0395639964143,
+      "y": 126.73850723965148,
       "w": 320,
       "h": 237,
       "group": null,
@@ -69,9 +69,9 @@
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "mappe giuridiche, regolamnti",
+        "title": "Regulations, legal maps,",
         "type": "Research",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Definition",
@@ -109,15 +109,15 @@
     {
       "id": "n6jyhn38",
       "x": 781.4801263489964,
-      "y": -393.2659005989407,
+      "y": -392.5624280275147,
       "w": 320,
       "h": 310,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "procedure, documenti, registri, amministrazione",
+        "title": "Procedures, documents, records, administration",
         "type": "Research",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Definition",
@@ -131,8 +131,8 @@
     },
     {
       "id": "nvi0dm4q",
-      "x": 739.1939927201053,
-      "y": 424.92804604609705,
+      "x": 521.9140499834537,
+      "y": 353.45438067219857,
       "w": 320,
       "h": 796,
       "group": null,
@@ -163,8 +163,8 @@
     },
     {
       "id": "nlxdh48f",
-      "x": 293.55856271829595,
-      "y": 905.0553956883864,
+      "x": 519.4153452998155,
+      "y": 1193.8090037989364,
       "w": 320,
       "h": 462,
       "group": null,
@@ -186,8 +186,8 @@
     },
     {
       "id": "nu4trdn0",
-      "x": 1118.2501254933916,
-      "y": 1202.7736444153702,
+      "x": 1126.4034347236905,
+      "y": 1262.672735021784,
       "w": 320,
       "h": 321,
       "group": null,
@@ -208,8 +208,8 @@
     },
     {
       "id": "nzuhnkym",
-      "x": 1434.6243672052133,
-      "y": 439.15179015331,
+      "x": 1071.5993170115787,
+      "y": 461.06244675330447,
       "w": 320,
       "h": 220,
       "group": null,
@@ -231,88 +231,98 @@
     },
     {
       "id": "nij45h41",
-      "x": 1239.579602858674,
-      "y": 741.9303469597404,
+      "x": 2013.4410849958276,
+      "y": 615.5977506434533,
       "w": 320,
-      "h": 185,
+      "h": 405,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Citizen’s life marked by bureaucratic stages",
+        "type": "Research",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Definition"
+        ],
         "tags": [],
-        "desc": "burocrazia che desscrive una vita individuale ",
+        "desc": "A citizen’s life is marked by bureaucratic stages. It begins with birth registration, tax code, health card, and identity documents, and continues with education, applications for scholarships, and certifications. Entering the workforce involves registration with INPS and INAIL, employment notifications, and opening a VAT number. Adulthood brings marriage, buying a house, changing residence, and filing income tax returns. Finally, in old age and at the end of life, one deals with pension applications, death registration, inheritance, and cadastral transfers.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n66t4qzz",
-      "x": 1311.3109201768164,
-      "y": 39.03602291889446,
+      "x": 1193.8293198784852,
+      "y": -15.842225206809275,
       "w": 320,
-      "h": 201,
+      "h": 338,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Rational system",
+        "type": "Concept",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Definition"
+        ],
         "tags": [],
-        "desc": "rendere la burocrazia più umana -> inserire margine per le emozioni nelgi iter regolamentari",
+        "desc": "Bureaucracy is a rational system designed to maintain order and ensure fairness. It follows structured procedures that must be respected, leaving little room for emotions or personal judgment. By adhering to rules and standardized processes, bureaucracy aims to prevent favoritism and guarantee that decisions are consistent and impartial.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nk4d3ukj",
-      "x": 1756.8317218915788,
-      "y": 1046.9868766904679,
+      "x": 2813.318138281847,
+      "y": 291.06181275942254,
       "w": 320,
-      "h": 185,
+      "h": 724,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Il fu Mattia Pascal, 1904, Pirandello",
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Literature"
+        ],
         "tags": [],
-        "desc": "fu mattia pascal",
+        "desc": "In Il fu Mattia Pascal, Pirandello explores the theme of bureaucratic identity: what happens when a man loses his documents and, with them, his “bureaucratic existence”?\n\nMattia Pascal, mistakenly believed dead, seizes the chance to reinvent himself as Adriano Meis. However, lacking official documents for this new identity, he discovers that his “freedom” is actually a prison.\n\nConsequences of missing documents:\n\t•\tLegal impossibilities: He cannot marry his love, Adriana, sign contracts, buy property, or defend himself in court. Bureaucracy becomes an impenetrable wall: without certificates, one is nobody.\n\t•\tSocial marginalization: He is seen as suspicious and unreliable, condemned to a perpetual kind of clandestinity.\n\t•\tParadox of anonymity: Initially, living without documents seems liberating, but it quickly becomes existentially distressing; he cannot fully participate in social life.\n\nEventually, Mattia must “die a second time” as Adriano Meis and return to his old identity as Mattia Pascal, but he is no longer recognized: his wife has remarried, and his past life has vanished. Trapped in a bureaucratic and identity limbo, he becomes literally “the late Mattia Pascal”: alive in reality, but dead on paper. Pirandello demonstrates how, in a bureaucratic society, the absence of documents, which might seem liberating, actually condemns a person to invisibility and helplessness.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nydwxrhx",
-      "x": 1520.5894123259372,
-      "y": 1536.8571124789237,
+      "x": 2406.4277256259047,
+      "y": 923.9670357627618,
       "w": 320,
-      "h": 185,
+      "h": 411,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Biological and Bureaucratic identity",
+        "type": "Research",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Emotional response",
+          "Definition",
+          "Conflict"
+        ],
         "tags": [],
-        "desc": "conflitto burocrazia identità",
+        "desc": "Biological identity: the set of physical and personal characteristics that define a person, such as the body, personal history, passions, and preferences.\n\nBureaucratic identity: the official identity recognized by the state or institutions, documented through certificates, identity documents, tax codes, passports, registry records, and other administrative acts.\n\nWhen the two do not coincide, a conflict arises between them, as the person finds themselves in a bureaucratic limbo.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n9e675sa",
-      "x": 898.269825936817,
-      "y": 1747.711992617933,
+      "x": 1334.2698259368171,
+      "y": 2459.711992617933,
       "w": 320,
       "h": 185,
       "group": null,
@@ -331,28 +341,32 @@
     },
     {
       "id": "nise8chd",
-      "x": 1927.9800694650098,
-      "y": 1587.6666601875793,
+      "x": 3226.4340526834,
+      "y": 951.8215002809966,
       "w": 320,
-      "h": 185,
+      "h": 697,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Refused bureaucratic identification",
+        "type": "Research",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Conflict",
+          "Socio-political",
+          "Feelings"
+        ],
         "tags": [],
-        "desc": "conflitto burocrazia rifiuto",
+        "desc": "Some people and groups choose to refuse bureaucratic identification, remain anonymous, or avoid administrative control. \nFor example, communities like the Amish reject personal photography for religious reasons, and in the USA legal accommodations allow them to stay “anonymous” while still holding valid documents. Asylum seekers sometimes try to avoid fingerprinting in the EURODAC system to prevent automatic transfers under the Dublin mechanism, showing how vulnerable individuals may refuse registration for personal safety. Since the 1960s, some anarchist or “off-grid” communities in the USA and Europe have avoided IDs, health cards, or even birth certificates, which has sometimes prevented children from accessing school or medical care. \nKnown cases of “invisible” individuals include Rosa Kuleshova in the USSR, who refused mandatory internal passport registration, John Zerzan in the USA, who wrote about people actively rejecting state bureaucracy, and North American anarcho-primitivist “forest dwellers” who gave up all documents and lived without formal services. \nThose who refuse documents often face severe practical limitations, such as lack of healthcare, work, or housing, forcing many to live on the margins, in isolated communities, or in constant tension with authorities.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nr4kqalv",
-      "x": 1527.8651511155972,
-      "y": 1779.581865487195,
+      "x": 1609.888922038658,
+      "y": 1613.8701570045657,
       "w": 320,
       "h": 408,
       "group": null,
@@ -379,30 +393,33 @@
     },
     {
       "id": "nv91if2i",
-      "x": 1480.2815406387554,
-      "y": -732.0532270272696,
+      "x": 1195.00073197328,
+      "y": -1404.0059196892753,
       "w": 320,
-      "h": 173,
+      "h": 607,
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "concetto di confini e lotta interna tra essi",
-        "type": "",
-        "action": null,
+        "title": "Wars and struggles linked to bureaucratic borders",
+        "type": "Research",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "Many state borders were bureaucratically drawn at the negotiating table by political leaders, often disregarding the populations living there. This led to conflicts both between states and within nations, as communities did not identify with these imposed boundaries.\n\t•\tIndia–Pakistan Wars (1947, 1965, 1971) → following the Partition of British India\n\t•\tArab–Israeli Wars (1948, 1967, 1973) → borders drawn after the British Mandate and UN partition plan\n\t•\tEthiopia–Eritrea War (1998–2000) → dispute over colonial-era borders\n\t•\tIraq–Kuwait Conflict / Gulf War (1990–1991) → rooted partly in arbitrary colonial borders in the Middle East\n\t•\tSudanese Civil Wars (1955–1972, 1983–2005) → borders and ethnic-religious divisions leading to the creation of South Sudan\n\t•\tYugoslav Wars (1991–2001) → breakup of Yugoslavia along imposed federal boundaries\n\t•\tSomali Civil War (from 1991) → collapse of a state built on colonial borders without regard for clan structures",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nln11rdb",
-      "x": 1370.0349026540875,
-      "y": -521.0327768620109,
+      "x": 1193.5093984763187,
+      "y": -763.5181091684099,
       "w": 320,
-      "h": 173,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-25",
@@ -410,27 +427,35 @@
         "type": "",
         "action": null,
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Conflict",
+          "Socio-political",
+          "Feelings"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "Restrictive orders, such as restraining orders or protection orders, function like material boundaries between people imposed by conflict. They legally limit interactions, define physical or social spaces, and aim to prevent harm. These orders create clear divisions in everyday life, translating interpersonal disputes into structured, enforceable rules.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n0ku0pfi",
-      "x": 2549.5507948895956,
-      "y": 2022.4182838316278,
+      "x": 2655.0194975038576,
+      "y": 1764.5497918326337,
       "w": 320,
-      "h": 173,
+      "h": 224,
       "group": null,
       "data": {
         "date": "2025-09-25",
         "title": "droga x migliorare burocrazia",
         "type": "Concept",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Conflict",
+          "Emotional response",
+          "Feelings"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -439,74 +464,414 @@
     },
     {
       "id": "nf3ssvpb",
-      "x": 1793.6030742843782,
-      "y": -107.39001294878885,
+      "x": 1673.8199653514541,
+      "y": -285.10349757055025,
       "w": 320,
-      "h": 173,
+      "h": 378,
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "umanizzare la burocrazia",
+        "title": "Humanized bureaucracy ",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Feelings",
+          "Emotional response"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "To humanize bureaucracy means allowing space for emotions and empathy within administrative processes. It involves introducing compassion, care, and support into interactions with rational rules and procedures. By letting kindness and humanity enter bureaucratic systems, regulations and processes can serve people more effectively, transforming rigid structures into tools that truly respond to human needs.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "noz4e8vf",
-      "x": 2206.187888964078,
-      "y": 33.05673498734927,
+      "x": 3566.543771735025,
+      "y": -427.4424662679122,
       "w": 320,
-      "h": 173,
+      "h": 372,
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "burocratizzare un concetto umano",
+        "title": "Bureaucratization of interpersonal relationships",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Feelings",
+          "Communication"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "In a reality where every aspect of life is administered and rationalized, bureaucracy has even intruded into the private sphere and everyday relationships. Human interactions, traditionally characterized by emotional and irrational dimensions, are now subjected to regulations and bureaucratic practices. Conflicting dynamics, intrinsic to any relationship, are thus controlled and stripped of their natural ambiguity and uncertainty, being confined instead within rigid, manageable frameworks.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nwnnoqd3",
-      "x": 1647.6089541800877,
-      "y": 2252.0161097907107,
+      "x": 3499.6089541800875,
+      "y": 2096.0161097907107,
       "w": 320,
-      "h": 173,
+      "h": 355,
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "arma come burocrazia",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "Bureaucracy used as a weapon",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "Bureaucracy is used as a tool to regulate and organize public administration. Sometimes, due to its inherently complex and intricate procedures, it not only hinders progress and conflict resolution but also generates new tensions.\n\nWhat form would conflicts take if bureaucracy were recognized as a true weapon—that is, a tool of power and confrontation? What would the consequences be, and how would it be regulated?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ne2dvn9k",
-      "x": 2061.3261459398223,
-      "y": 1855.8867055217406,
+      "x": 2066.7079370090973,
+      "y": 1383.6558126941895,
+      "w": 320,
+      "h": 372,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "Red tape",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Definition"
+        ],
+        "tags": [],
+        "desc": "“Red tape” is an English expression that refers to excessive bureaucracy, official and formal procedures perceived as unnecessary, complex, and causing delays.\n\nOne of the most cited definitions is by G. Bozeman:\n“Rules, regulations, and procedures that remain in effect and impose a compliance burden on the organization but do not contribute to achieving the functional goals for which the rules were intended.” A Theory of Government Red Tape, 1993",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ni04g7pj",
+      "x": 2065.254749349465,
+      "y": 1801.7309957315024,
+      "w": 320,
+      "h": 556,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "Kafka’s critique of bureaucracy ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Literature"
+        ],
+        "tags": [],
+        "desc": "Key points of Kafka’s critique of bureaucracy can be summarized as follows:\n\nLabyrinth and absurdity: Kafka depicts bureaucracy as a maze of obscure rules, faceless procedures, and offices existing mainly to perpetuate themselves. In The Trial, Josef K. is arrested for a crime whose charge is never revealed, forcing him to navigate an illogical, elusive judicial system, with his lawyer moving as slowly and opaquely as the process itself.\n\nImpersonal machine: Bureaucracy is portrayed as a system where cold rationality masks a world of complex, contradictory interests. Individuals like Josef K. become mere cogs, while officials and judges appear symbolic, almost inhuman, with incomprehensible, impersonal power.\n\nContradiction and totalitarian potential: Kafka foresaw bureaucracy’s tendency to become a totalitarian instrument, permeating citizens’ lives and minds. The system enforces conformity and submission to rules that seem to exist independently, suppressing personal freedom and subjectivity.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nie7slt9",
+      "x": 1679.2308284617636,
+      "y": -1535.524067959568,
+      "w": 320,
+      "h": 331,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Apolidi",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "Individuals who are not recognized as citizens by any state under its laws. This means they lack a nationality and the legal rights that come with it.\n\nStatelessness often arises from the dissolution or partition of states (e.g. breakup of Yugoslavia)\n\n\n",
+        "links": [
+          "https://it.globalvoices.org/2024/11/quando-la-patria-non-esiste-gli-apolidi-dellex-urss/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n1fv0nhs",
+      "x": 1676.1223307816394,
+      "y": -1177.912200414747,
+      "w": 320,
+      "h": 646,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Terra Nullius",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Conflict",
+          "Definition",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Several territories have existed as “no man’s lands,” disputed between states or left unclaimed due to legal, political, or practical uncertainties. These areas often sparked conflicts but were eventually addressed through bureaucratic practices such as treaties or international negotiations.\n\nTerra Nullius: a Latin term from Roman law meaning “land belonging to no one.” It refers to territories that are not formally under the sovereignty of any state.\n\nExamples\n\t•\tGornja Siga (on the border between Croatia and Serbia): a disputed area where both countries claim different borders, leaving small pockets of land technically unclaimed.\n\t•\tBir Tawil (between Egypt and Sudan): a desert territory unclaimed by either country due to conflicting border demarcations.\n\t•\tMarie Byrd Land (in Antarctica): one of the few areas not claimed by any state, partly due to the Antarctic Treaty System.\n\t•\tPalestinian Territories: while not a “terra nullius” in the strict legal sense, the contested status of the land has produced decades of conflict and negotiation, with statehood and sovereignty still unresolved.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4ur7z91",
+      "x": 2044.8321650571233,
+      "y": -750.2344535448383,
+      "w": 320,
+      "h": 327,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "concetto di stato e nazione",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Conflict",
+          "Socio-political",
+          "Definition"
+        ],
+        "tags": [],
+        "desc": "A state is a political entity with defined territory, a population, and a government exercising sovereignty. A nation is a community united by culture, language, history, or identity. Nations and states do not always match: some nations have no state, and some states contain multiple nations.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzojt12q",
+      "x": 2202.9173088626194,
+      "y": -1192.6851630275114,
+      "w": 320,
+      "h": 405,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Airport transit, international waters, Antarctica",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "Some places in the world function as shared or “in-between” spaces rather than belonging to a single nation. Airport transit zones create temporary spaces where travelers are between states’ jurisdictions. International waters (the high seas) lie beyond national borders and are regulated by global treaties, open to use by all. Antarctica, under the Antarctic Treaty, is preserved for peaceful purposes and scientific cooperation, with no state allowed to claim sovereignty. These areas illustrate how certain territories are treated as belonging to no one, yet accessible to everyone under shared rules.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5vf0f18",
+      "x": 3364.973746884191,
+      "y": -1727.9129416665153,
+      "w": 320,
+      "h": 434,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Dynamic boundaries with a new sense of belonging",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Boundaries are lines of demarcation that define the geographic space and the population over which a state exercises its sovereignty. However, just as a nation does not necessarily coincide with the state, an individual’s personal identity is not fully encompassed by their bureaucratic dimension. In a scenario where identity prevails over territory, the state emancipates itself from physical space and redefines itself according to new parameters, transforming the static concept of borders into a dynamic network.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nq88ccga",
+      "x": 2090.822320807654,
+      "y": -1879.030275896416,
+      "w": 320,
+      "h": 488,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Conflict",
+          "Emotional response",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Living without citizenship means lacking access to fundamental rights and protections, such as:\n\t•\tLegal identity: difficulty obtaining ID cards, passports, or official documents\n\t•\tCivil rights: exclusion from voting and political participation\n\t•\tSocial rights: limited access to healthcare, education, or social services\n\t•\tWork and mobility: inability to work legally, travel abroad, or own property\n\t•\tLegal protection: greater vulnerability to exploitation, detention, or deportation\n\nIn practice, many stateless people live in legal and bureaucratic limbo, relying on humanitarian organizations or informal networks, often marginalized within the societies where they reside.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nfqgqm5g",
+      "x": 2044.3018361879135,
+      "y": -398.15260966581945,
+      "w": 320,
+      "h": 350,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Unfeasible",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Feelings",
+          "Emotional response",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "Introducing emotions or personal judgment into this system would compromise its function, because there would be too many variables and ambiguous situations to manage effectively. The strength of bureaucracy lies in its predictability and impartiality, even if this makes it appear rigid or impersonal.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nklq4uw2",
+      "x": 2402.1673365620914,
+      "y": 304.11934493885707,
+      "w": 320,
+      "h": 344,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "victims of bureaucratic errors",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Conflict",
+          "Emotional response"
+        ],
+        "tags": [],
+        "desc": "People fall victim to bureaucratic errors when documenting their identity. Mistakes in official records, lost documents, or administrative oversights can create a discrepancy between biological identity and bureaucratic identity, leading to serious consequences such as being unable to access services, travel, or even prove legal existence.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nfqdseus",
+      "x": 4783.457432377665,
+      "y": -1236.281355449576,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "tempo",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nlu99rw4",
+      "x": 4774.639506216168,
+      "y": -997.281355449576,
+      "w": 320,
+      "h": 191,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "unire concetto di idetnità e confini",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzoyfgq6",
+      "x": 4806.639506216168,
+      "y": -1458.281355449576,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "nomadismo",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Hystory",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nz9xp05b",
+      "x": 3206.26787499495,
+      "y": 288.17913808126866,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Homo Sacer",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Hystory",
+          "Definition"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkalpbv6",
+      "x": 1854.2698259368171,
+      "y": 2889.0161097907107,
       "w": 320,
       "h": 173,
       "group": null,
       "data": {
-        "date": "2025-09-25",
-        "title": "concetto di red tape",
+        "date": "2025-09-26",
+        "title": "slapp",
         "type": "",
         "action": null,
         "mainArea": null,
@@ -518,19 +883,638 @@
       }
     },
     {
-      "id": "ni04g7pj",
-      "x": 2134.0732932661863,
-      "y": 2159.2234754547844,
+      "id": "n6j0ldtt",
+      "x": 4516.944158523031,
+      "y": -2506.680608635885,
+      "w": 320,
+      "h": 422,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Christo and Jeanne-Claude, Running Fence, 1976",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Installation",
+          "Art"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://christojeanneclaude.net/artworks/running-fence/"
+        ],
+        "files": [
+          {
+            "name": "16.jpeg",
+            "size": 70477,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/16.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "novblbup",
+      "x": 4172.874141380559,
+      "y": -2507.7752095153323,
+      "w": 320,
+      "h": 402,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Zanny Bagg, The Right of Passage, 2013",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Documentary"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://zannybegg.com/the-right-of-passage/"
+        ],
+        "files": [
+          {
+            "name": "15.jpeg",
+            "size": 30228,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nca0oo3r",
+      "x": 3834.6395062161682,
+      "y": -2503.3476007532695,
+      "w": 320,
+      "h": 424,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Søren Solkær, Black Sun # 81, 2020",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Photography"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.artsy.net/artwork/soren-solkaer-black-sun-number-81"
+        ],
+        "files": [
+          {
+            "name": "14.jpeg",
+            "size": 113734,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nffar7c9",
+      "x": 4516.133932451627,
+      "y": -2059.7294437663295,
+      "w": 320,
+      "h": 443,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Richard Alexander Lou, The Border Door, 1986",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Installation"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.artribune.com/arti-visive/arte-contemporanea/2021/06/confini-border-art/"
+        ],
+        "files": [
+          {
+            "name": "17.jpeg",
+            "size": 185900,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/17.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ni3176gn",
+      "x": 4171.812792390465,
+      "y": -2058.8236228658757,
+      "w": 320,
+      "h": 576,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Yanagi Yukinori, Wandering Position, 1988-2021",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Installation"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://anomalytokyo.com/en/exhibition/wandering-position-1988-2021/"
+        ],
+        "files": [
+          {
+            "name": "18.jpeg",
+            "size": 167598,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/18.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4zu5fft",
+      "x": 4997.876919430556,
+      "y": -542.1548195799702,
+      "w": 320,
+      "h": 673,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Kader Attia, Immaterial Injury, 2014",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Installation",
+          "Art"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "http://kaderattia.de/traditional-repair-immaterial-injury/"
+        ],
+        "files": [
+          {
+            "name": "4.jpeg",
+            "size": 144842,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na535xd9",
+      "x": 4666.481259139961,
+      "y": -543.0564237235988,
+      "w": 320,
+      "h": 599,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Christo, Empaquetages, 1958",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Installation"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.cyrilzammit.com/design-diary/christo-and-jeanne-claude-paris"
+        ],
+        "files": [
+          {
+            "name": "3.jpeg",
+            "size": 309079,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/3.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nr47aode",
+      "x": 4329.546498504433,
+      "y": -543.1281437507698,
+      "w": 320,
+      "h": 614,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Daniel Arsham Bound Figure, 2014",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Installation"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.houldsworth.co.uk/exhibitions/72-daniel-arsham-special-project/press_release_text/"
+        ],
+        "files": [
+          {
+            "name": "2.jpeg",
+            "size": 34728,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nex0urd2",
+      "x": 3995.079118186669,
+      "y": -538.4688787773352,
+      "w": 320,
+      "h": 599,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Rudolf Bonvie, Dialog, 1973",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Photography"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://dolceambra.wordpress.com/2015/05/24/rudolf-bonvie-dialog-1973/"
+        ],
+        "files": [
+          {
+            "name": "1.jpeg",
+            "size": 190868,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3e20r3f",
+      "x": 3993.7992044680577,
+      "y": 97.65421955931967,
+      "w": 320,
+      "h": 582,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Doriane terraillon, Still Photography, 2025",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Photography"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://dorianeterraillon.com/Dolorosa"
+        ],
+        "files": [
+          {
+            "name": "5.jpeg",
+            "size": 93798,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/5.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nefyeg79",
+      "x": 4324.173719860987,
+      "y": 99.50870263987014,
+      "w": 320,
+      "h": 515,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": " Otto Künzli, Ring für Zwei, 1980",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Photography"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.domusweb.it/en/news/2014/08/18/otto_kunzli_jewellery.html"
+        ],
+        "files": [
+          {
+            "name": "6.jpeg",
+            "size": 105786,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/6.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nr86hwni",
+      "x": 4660.363795251033,
+      "y": 96.533301603963,
+      "w": 320,
+      "h": 600,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Phillip Schumacher, Don’t put me in a box, 2011",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Photography"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "7.jpeg",
+            "size": 57821,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/7.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ng7ezrfq",
+      "x": 4037.633888053746,
+      "y": 1746.8776009879089,
       "w": 320,
       "h": 173,
       "group": null,
       "data": {
-        "date": "2025-09-25",
-        "title": "kafka",
+        "date": "2025-09-26",
+        "title": "paperbomb",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncwwny83",
+      "x": 4039.55540741025,
+      "y": 2079.581196885492,
+      "w": 320,
+      "h": 413,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Manual focus subminiature camera released by Minox in 1958",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Object"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "8.jpeg",
+            "size": 73998,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/8.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nn1a4aiz",
+      "x": 4737.050622253685,
+      "y": 2490.2736708554785,
+      "w": 320,
+      "h": 427,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Hans Haacke, News, 1969",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Installation"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "9.jpeg",
+            "size": 100798,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/9.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2i74tsx",
+      "x": 4380.244087648035,
+      "y": 2078.948992740851,
+      "w": 320,
+      "h": 391,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Object"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "10.jpeg",
+            "size": 14907,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nil6n7i4",
+      "x": 4056.4621780489724,
+      "y": 2511.6276829931176,
+      "w": 320,
+      "h": 349,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Tonya, Craig Gillespie, 2017",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Film"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "11.jpeg",
+            "size": 28625,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/11.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3e3i98f",
+      "x": 4715.054796152555,
+      "y": 2081.0967940393607,
+      "w": 320,
+      "h": 350,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "",
+        "type": "Moodboard",
+        "action": null,
+        "mainArea": "Communication",
+        "areas": [
+          "Object"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "12.jpeg",
+            "size": 67581,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntz0arhk",
+      "x": 4395.598731943811,
+      "y": 2509.217000188145,
+      "w": 320,
+      "h": 377,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "L’uccello dalle piume  di cristallo, Dario Argento",
+        "type": "Moodboard",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Art",
+          "Film"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "13.png",
+            "size": 396541,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/13.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nk57gwp6",
+      "x": 4997.706732896404,
+      "y": -2515.566243974956,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Border art",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Art",
+          "Socio-political",
+          "Installation"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -637,7 +1621,7 @@
     {
       "s": "n70eugn6",
       "t": "nln11rdb",
-      "dashed": false
+      "dashed": true
     },
     {
       "s": "n66t4qzz",
@@ -708,28 +1692,246 @@
       "s": "n66t4qzz",
       "t": "noz4e8vf",
       "dashed": false
+    },
+    {
+      "s": "nv91if2i",
+      "t": "nie7slt9",
+      "dashed": false
+    },
+    {
+      "s": "nv91if2i",
+      "t": "n1fv0nhs",
+      "dashed": true
+    },
+    {
+      "s": "nv91if2i",
+      "t": "n4ur7z91",
+      "dashed": false
+    },
+    {
+      "s": "n1fv0nhs",
+      "t": "nzojt12q",
+      "dashed": true
+    },
+    {
+      "s": "n4ur7z91",
+      "t": "n5vf0f18",
+      "dashed": false
+    },
+    {
+      "s": "nie7slt9",
+      "t": "n5vf0f18",
+      "dashed": false
+    },
+    {
+      "s": "nie7slt9",
+      "t": "nq88ccga",
+      "dashed": false
+    },
+    {
+      "s": "nq88ccga",
+      "t": "n5vf0f18",
+      "dashed": false
+    },
+    {
+      "s": "nf3ssvpb",
+      "t": "nfqgqm5g",
+      "dashed": true
+    },
+    {
+      "s": "ncob3sst",
+      "t": "nvi0dm4q",
+      "dashed": false
+    },
+    {
+      "s": "ncob3sst",
+      "t": "nlxdh48f",
+      "dashed": false
+    },
+    {
+      "s": "nij45h41",
+      "t": "nklq4uw2",
+      "dashed": false
+    },
+    {
+      "s": "nydwxrhx",
+      "t": "n5vf0f18",
+      "dashed": false
+    },
+    {
+      "s": "nklq4uw2",
+      "t": "nydwxrhx",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "nfqdseus",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "nlu99rw4",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "nzoyfgq6",
+      "dashed": false
+    },
+    {
+      "s": "nln11rdb",
+      "t": "noz4e8vf",
+      "dashed": false
+    },
+    {
+      "s": "nydwxrhx",
+      "t": "nz9xp05b",
+      "dashed": false
+    },
+    {
+      "s": "nklq4uw2",
+      "t": "nk4d3ukj",
+      "dashed": false
+    },
+    {
+      "s": "n9e675sa",
+      "t": "nkalpbv6",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "n6j0ldtt",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "novblbup",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "nca0oo3r",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "nffar7c9",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "ni3176gn",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "n4zu5fft",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "na535xd9",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "nr47aode",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "nex0urd2",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "n3e20r3f",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "nefyeg79",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "nr86hwni",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "ng7ezrfq",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "ncwwny83",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "nn1a4aiz",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "n2i74tsx",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "nil6n7i4",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "n3e3i98f",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "ntz0arhk",
+      "dashed": false
+    },
+    {
+      "s": "nffar7c9",
+      "t": "nk57gwp6",
+      "dashed": false
+    },
+    {
+      "s": "n6j0ldtt",
+      "t": "nk57gwp6",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Definition",
-      "Hystory",
-      "Semantic research",
-      "Critical design",
-      "Communication",
-      "Media studies",
+      "Installation",
+      "Art",
+      "Object",
+      "Film",
+      "Photography",
       "Socio-political",
-      "Design research",
+      "Documentary",
       "Conflict",
+      "Semantic research",
       "Feelings",
-      "Emotional response"
+      "Design research",
+      "Media studies",
+      "Critical design",
+      "Literature",
+      "Emotional response",
+      "Hystory",
+      "Definition",
+      "Communication"
     ],
     "tags": [],
     "type": [
-      "Brief",
-      "Research",
+      "Moodboard",
       "Concept",
-      "Scenario"
+      "Source",
+      "Research",
+      "Brief"
     ]
   }
 }
