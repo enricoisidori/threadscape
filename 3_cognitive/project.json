@@ -534,7 +534,7 @@
     {
       "id": "nai1yave",
       "x": 1557.9930160671809,
-      "y": 609.4056719380497,
+      "y": 574.6922797493669,
       "w": 320,
       "h": 710,
       "group": null,
@@ -564,8 +564,8 @@
     },
     {
       "id": "nweug8dn",
-      "x": 1560.9392284029757,
-      "y": -1097.608959283058,
+      "x": 1558.6393358434962,
+      "y": -1132.1073476752529,
       "w": 320,
       "h": 468,
       "group": null,
@@ -650,8 +650,8 @@
     },
     {
       "id": "ngxplybz",
-      "x": 2044.8258917206676,
-      "y": -1091.4233603497412,
+      "x": 2042.1383896919433,
+      "y": -1112.9233765795389,
       "w": 320,
       "h": 408,
       "group": null,
@@ -678,6 +678,228 @@
           "Alert Hypnotic Inductions: Use in Treating C...",
           "Alert hypnosis can be a valuable part of the treatm...",
           "pubmed.ncbi.nlm.nih.gov"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n1qnew9h",
+      "x": 40,
+      "y": 40,
+      "w": 320,
+      "h": 408,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "I Got Hypnotized to Quit Smoking—It Sort...",
+          "Researchers can&#39;t agree on whether hypnoth...",
+          "theatlantic.com",
+          "open.bu.edu",
+          "https://onlinelibrary.wiley.com/doi/abs/10.1002/ch.366?utm_source=chatgpt.com",
+          "Alert Hypnotic Inductions: Use in Treating C...",
+          "Alert hypnosis can be a valuable part of the treatm...",
+          "pubmed.ncbi.nlm.nih.gov"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nf0d4g7f",
+      "x": 2040.09319633411,
+      "y": -611.7252079452292,
+      "w": 320,
+      "h": 308,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Biopolitics",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://paulcairney.wordpress.com/wp-content/uploads/2014/09/sabatier-et-al-1987-devil-shift-acf.pdf",
+          "The Devil Shift and Brokerage Roles: Com...",
+          "European Consortium for Political Research",
+          "ecpr.eu"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n777jyyx",
+      "x": 2036.1340995909159,
+      "y": -58.4335289806708,
+      "w": 320,
+      "h": 448,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "Chief | Decision Fatigue: Understanding and...",
+          "In an era of endless options, understanding decision fatigue is cru...",
+          "chief.com",
+          "The Jam Study Strikes Back: When Less Choice Does Mean...",
+          "The Jam Study is one of the most famous experiments in consumer psy...",
+          "digitalwellbeing.org"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ndpyxbdt",
+      "x": 2037.9930160671809,
+      "y": 609.4056719380497,
+      "w": 320,
+      "h": 402,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies",
+          "Media studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "Infinite Jest - Wikipedia",
+          "en.wikipedia.org",
+          "La società senza dolore. Byung-Chul Han, tra i pensatori piú importanti e...",
+          "einaudi.it"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nzckj0rg",
+      "x": 2045.0525444015084,
+      "y": 1352.032068401328,
+      "w": 320,
+      "h": 362,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "Avoiding Cognitive Dissonance",
+          "Do facts have the power to change our minds?",
+          "theatlantic.com",
+          "https://www.gamejournal.it/italiano-scienze-cognitive-e-game-design-progettare-dinamiche-di-gioco-non-finalizzate-a-un-obiettivo/",
+          "Politically polarized brains share an intolera...",
+          "A new study on political polarization led by a...",
+          "brown.edu"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nh791q4j",
+      "x": 2045.0605329859413,
+      "y": 1866.7427422625815,
+      "w": 320,
+      "h": 338,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Biopolitics",
+          "Society studies",
+          "Critical theory",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "La Cina, Taiwan e l'ombra della guerra cog...",
+          "La questione taiwanese sia ormai immersa in una p...",
+          "it.insideover.com",
+          "A Milano un supermercato sperimentale analizza il...",
+          "facebook.com"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ncwc09sb",
+      "x": 2045.7235182585794,
+      "y": 2353.2870860577655,
+      "w": 320,
+      "h": 265,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "",
+        "type": "Research",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "Associations between Parental...",
+          "Processes through which parental ideology is tran...",
+          "pmc.ncbi.nlm.nih.gov",
+          "Cognitive Control and Conflict Adaptation Similariti...",
+          "academia.edu"
         ],
         "files": []
       }
@@ -788,17 +1010,47 @@
       "s": "nweug8dn",
       "t": "ngxplybz",
       "dashed": false
+    },
+    {
+      "s": "nfaki92h",
+      "t": "nf0d4g7f",
+      "dashed": false
+    },
+    {
+      "s": "nmm5bb23",
+      "t": "n777jyyx",
+      "dashed": false
+    },
+    {
+      "s": "nai1yave",
+      "t": "ndpyxbdt",
+      "dashed": false
+    },
+    {
+      "s": "nz19ocjs",
+      "t": "nzckj0rg",
+      "dashed": false
+    },
+    {
+      "s": "n4iormrf",
+      "t": "nh791q4j",
+      "dashed": false
+    },
+    {
+      "s": "nkhzwryp",
+      "t": "ncwc09sb",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Critical design",
-      "Communication",
-      "Design research",
-      "Media studies",
-      "Critical theory",
+      "Society studies",
       "Socio-political",
-      "Society studies"
+      "Critical theory",
+      "Media studies",
+      "Design research",
+      "Communication",
+      "Critical design"
     ],
     "tags": [],
     "type": [
