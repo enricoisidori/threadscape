@@ -398,8 +398,8 @@
     },
     {
       "id": "njixu8s1",
-      "x": 1093.2680334298655,
-      "y": 1290.1640004884434,
+      "x": 1105.232403138234,
+      "y": 1292.5568744301172,
       "w": 320,
       "h": 512,
       "group": null,
@@ -1098,8 +1098,8 @@
     },
     {
       "id": "nkepk681",
-      "x": 2332.28698714897,
-      "y": 1697.2480115167182,
+      "x": 2336.476848637514,
+      "y": 1679.0919450663598,
       "w": 320,
       "h": 394,
       "group": null,
@@ -1975,31 +1975,30 @@
   ],
   "vocab": {
     "areas": [
-      "Critical theory",
-      "People",
-      "Design research",
-      "Communication",
-      "Critical design",
-      "Media studies",
-      "Amare i robot?",
-      "Socio-cultural",
+      "Socio-political",
       "Conflicts",
-      "Socio-political"
+      "Socio-cultural",
+      "Amare i robot?",
+      "Media studies",
+      "Critical design",
+      "Communication",
+      "Design research",
+      "People",
+      "Critical theory"
     ],
     "tags": [
-      "Exploring",
-      "Source",
-      "Limited scope",
+      "Already explored",
       "Discarded",
-      "Already explored"
+      "Limited scope",
+      "Source"
     ],
     "type": [
-      "Collection",
-      "Concept",
       "Finding",
-      "Source",
+      "Case study",
       "Brief",
-      "Case study"
+      "Source",
+      "Concept",
+      "Collection"
     ]
   }
 }
