@@ -452,20 +452,20 @@
     },
     {
       "id": "n6ef8tan",
-      "x": 1436.3172170608805,
-      "y": 4067.553224202507,
+      "x": 1444.1354150546683,
+      "y": 3961.992913391421,
       "w": 320,
-      "h": 165,
+      "h": 288,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "Physical Infrastructures",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "Material and tangible components necessary for the functioning of society and the economy, including transportation systems (roads, railways, ports), essential services (energy, water, telecommunications), buildings, and, in the IT sector, data centers, servers, and networking equipment.",
         "links": [],
         "files": []
       }
@@ -473,107 +473,107 @@
     {
       "id": "nnvd0gn7",
       "x": 1440,
-      "y": 4303.969792729872,
+      "y": 4267.321676518728,
       "w": 320,
-      "h": 165,
+      "h": 339,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "Technological and Digital Infrastructures",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "The set of hardware, software, networks, and data centers that enable the management of digital data and resources, supporting the daily activities and growth strategies of organizations and society. Key elements include data centers, storage systems, networking equipment (routers and switches), cloud platforms, and data processing systems, making connectivity, security, and efficiency of digital processes possible.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nw4b1gsd",
-      "x": 1440,
-      "y": 4502.61591690443,
+      "x": 1438.3246609997336,
+      "y": 4629.1150410064465,
       "w": 320,
-      "h": 165,
+      "h": 238,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "Social Infrastructures",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "The set of assets functional to meeting essential collective needs, particularly in the areas of education, healthcare, and housing.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n6rj6h65",
-      "x": 1440,
-      "y": 4716.622353860908,
+      "x": 1436.065153508129,
+      "y": 4901.7251992285765,
       "w": 320,
-      "h": 165,
+      "h": 272,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "Law & Order and Institutional Infrastructures",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "Law & Order infrastructure refers to the systems, institutions, and resources that uphold public safety, enforce laws, and guarantee justice. It includes courts, police, prisons, and regulatory bodies, ensuring stability and protection of rights.\n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ncjegc4i",
-      "x": 1441.2969046672426,
-      "y": 4914.553224202507,
+      "x": 1438.5119360969047,
+      "y": 5218.76643807677,
       "w": 320,
-      "h": 165,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "Economical and financial Infrastructures",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "Economic and financial infrastructure refers to the set of institutions, markets, and systems that enable the functioning of the economy. It includes banks, stock exchanges, payment systems, insurance, and credit networks. These ensure the circulation of money, investment management, and the stability of transactions. Their efficiency is crucial for a country’s development and growth.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nm15tku8",
-      "x": 1441.2969046672426,
-      "y": 5103.553224202507,
+      "x": 1437.9394831055777,
+      "y": 5593.522814110874,
       "w": 320,
-      "h": 165,
+      "h": 288,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "Cultural Infrastructures",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "The set of material and immaterial elements (structures, spaces, technologies, communities, traditions, collections) that make up a territory’s cultural heritage and facilitate its enjoyment, development, and preservation, while promoting creativity and local identity.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nsdsyt6d",
-      "x": 2216.3587649887995,
-      "y": 3793.2434632428076,
+      "x": 2180.3587649887995,
+      "y": 3441.2434632428076,
       "w": 320,
       "h": 344,
       "group": null,
@@ -600,8 +600,8 @@
     },
     {
       "id": "nahpwlgx",
-      "x": 2673.564757695625,
-      "y": 3474.8591344830493,
+      "x": 2637.564757695625,
+      "y": 3122.8591344830493,
       "w": 320,
       "h": 626,
       "group": null,
@@ -626,15 +626,15 @@
     },
     {
       "id": "ng7rbcv7",
-      "x": 2755.2854138525677,
-      "y": 4928.345039672839,
+      "x": 2661.452008727293,
+      "y": 4242.767910876578,
       "w": 320,
-      "h": 194,
+      "h": 500,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "Biopower",
-        "type": "Research",
+        "type": "Source",
         "action": null,
         "mainArea": null,
         "areas": [
@@ -642,42 +642,53 @@
           "General knowledge"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Whereas power was once exercised explicitly and performatively (public executions and torture) and manifested in decisions of life or death, today power is directed toward life itself, specifically its control. Infrastructure plays a fundamental role in this.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "image 117.png",
+            "size": 160612,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_117.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n0te2dyy",
-      "x": 2750.979708965804,
-      "y": 5183.034432472609,
+      "x": 2668.5320593301344,
+      "y": 4995.458765771261,
       "w": 320,
-      "h": 165,
+      "h": 343,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Urbicide",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
-        "links": [],
+        "desc": "\"Urbicide” is the deliberate destruction of a city or urban environment, targeting its infrastructure, buildings, and social fabric, often to erase its cultural identity or to weaken the community living there.",
+        "links": [
+          "https://www.internazionale.it/opinione/pierre-haski/2025/09/16/israele-urbicidio-gaza?cx_testId=6&cx_testVariant=cx_undefined&cx_artPos=3#cxrecs_s"
+        ],
         "files": []
       }
     },
     {
       "id": "ngiple7s",
-      "x": 2747.9551036538837,
-      "y": 5270.774020992365,
+      "x": 2727.622500809219,
+      "y": 5216.380469050994,
       "w": 320,
-      "h": 171,
+      "h": 257,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Bordered",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -685,41 +696,56 @@
         ],
         "tags": [],
         "desc": "",
-        "links": [],
+        "links": [
+          "https://www.lemonde.fr/en/international/article/2025/01/27/desperation-in-mexican-border-migrant-shelters-we-re-stuck-here-unable-to-move-forward_6737459_4.html#"
+        ],
         "files": []
       }
     },
     {
       "id": "nig80wj9",
-      "x": 3113.674718400261,
-      "y": 5071.439389679501,
+      "x": 3210.709337251559,
+      "y": 5010.315220324353,
       "w": 320,
-      "h": 165,
+      "h": 545,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "War Necropolitics",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "War"
+        ],
         "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
+        "desc": "The infrastructure needed to face a war is not accessible to the entire society. It may be necessary to choose who can be saved and who cannot.",
+        "links": [
+          "https://www.geopop.it/svizzera-bunker-antiatomici-per-il-100-della-popolazione-perche-cosi-tanti-e-come-sono-fatti/"
+        ],
+        "files": [
+          {
+            "name": "6fcb404f-c5f9-4a81-9ba0-6971bf49d65c.jpg",
+            "size": 105091,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/6fcb404f-c5f9-4a81-9ba0-6971bf49d65c.jpg"
+          }
+        ]
       }
     },
     {
       "id": "ne42ns33",
-      "x": 2744.974169453115,
-      "y": 5366.093052845511,
+      "x": 2635.945280776951,
+      "y": 5449.945527294118,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "The tragedy of Content Moderators",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
@@ -731,15 +757,15 @@
     },
     {
       "id": "n7ilvbh6",
-      "x": 2740.9617956134807,
-      "y": 4223.1004226315035,
+      "x": 2651.441356236785,
+      "y": 3785.954269077669,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Internet Backbone",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
@@ -751,15 +777,15 @@
     },
     {
       "id": "ncg2fcz2",
-      "x": 2741.477889668403,
-      "y": 4282.634244809462,
+      "x": 2651.957450291707,
+      "y": 3845.4880912556273,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Wireless and mobile networks",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
@@ -771,15 +797,15 @@
     },
     {
       "id": "nl6gswys",
-      "x": 2732,
-      "y": 4345.969792729872,
+      "x": 2642.479560623304,
+      "y": 3908.8236391760374,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Data centers",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
@@ -791,35 +817,46 @@
     },
     {
       "id": "nddb89ds",
-      "x": 2756.5587296530343,
-      "y": 5058.208056916335,
+      "x": 2784.681631626022,
+      "y": 4479.561971193839,
       "w": 320,
-      "h": 165,
+      "h": 634,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Necropolitics",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
+        "desc": "Necropolitics is a concept by the Cameroonian philosopher Achille Mbembe that describes how political power controls people not only through life (biopolitics) but especially through death, determining who lives and who must die.",
+        "links": [
+          "https://www.ultimavoce.it/necropolitica/"
+        ],
+        "files": [
+          {
+            "name": "cf431603-068a-4984-8c17-c6f0821f1e38.gif",
+            "size": 4110534,
+            "type": "image/gif",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/cf431603-068a-4984-8c17-c6f0821f1e38.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n53i144t",
-      "x": 3109.731763396094,
-      "y": 4285.097489769063,
+      "x": 3197.731763396094,
+      "y": 3849.097489769063,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Cross cutting conflict nodes",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
@@ -831,15 +868,15 @@
     },
     {
       "id": "nl1g9ilz",
-      "x": 2736,
-      "y": 4418.969792729872,
+      "x": 2646.479560623304,
+      "y": 3980.826433550764,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Videocameras",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
@@ -851,15 +888,15 @@
     },
     {
       "id": "n3gqeux0",
-      "x": 2732.1735662687893,
-      "y": 4476.090085623292,
+      "x": 2642.6531268920935,
+      "y": 4038.9439320694573,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Cyber conflict",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
@@ -871,35 +908,44 @@
     },
     {
       "id": "nnlpf2mn",
-      "x": 2753.2969046672424,
-      "y": 5635.553224202507,
+      "x": 2743.100131869127,
+      "y": 5599.292305053796,
       "w": 320,
-      "h": 165,
+      "h": 490,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "the white man's burden",
-        "type": "Research",
+        "title": "The white man's burden",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "A poem by Kipling in which he describes the “duty” of the European man, presenting the construction of infrastructure as a “colonial aid” for “inferior” peoples, which in reality translates into cultural and social domination.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "wmb.jpeg",
+            "size": 10756,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/wmb.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nndxghpd",
-      "x": 2751.5339306752876,
-      "y": 5742.774784685213,
+      "x": 2737.7146317487272,
+      "y": 6224.693094180951,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Cultural infrastructure's problems in Italy",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
@@ -911,15 +957,15 @@
     },
     {
       "id": "nja3vax1",
-      "x": 2752.007982691378,
-      "y": 5860.840657264459,
+      "x": 2674.2535979665877,
+      "y": 6054.279961890969,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Simbolical infrastructures",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
@@ -931,8 +977,8 @@
     },
     {
       "id": "nekkmfu5",
-      "x": 2717.2969046672424,
-      "y": 6134.553224202507,
+      "x": 2255.98223019468,
+      "y": 6257.853920605312,
       "w": 320,
       "h": 165,
       "group": null,
@@ -951,8 +997,8 @@
     },
     {
       "id": "nwivrpwx",
-      "x": 2717.2969046672424,
-      "y": 6215.553224202507,
+      "x": 2255.98223019468,
+      "y": 6338.853920605312,
       "w": 320,
       "h": 165,
       "group": null,
@@ -971,8 +1017,8 @@
     },
     {
       "id": "npoaf3ou",
-      "x": 2715.745032049893,
-      "y": 6320.466052189738,
+      "x": 2254.4303575773306,
+      "y": 6443.766748592542,
       "w": 320,
       "h": 182,
       "group": null,
@@ -994,7 +1040,7 @@
       "x": 2716.3172170608805,
       "y": 6647.553224202507,
       "w": 320,
-      "h": 165,
+      "h": 272,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -1004,15 +1050,15 @@
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "Energy infrastructure refers to the systems, facilities, and equipment needed to generate, transmit, store, and distribute energy. These networks keep our homes warm, our factories running, and our cities moving.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ntg0e6es",
-      "x": 3128.3172170608805,
-      "y": 6563.553224202507,
+      "x": 3118.569947421018,
+      "y": 6409.114210202811,
       "w": 320,
       "h": 165,
       "group": null,
@@ -1031,8 +1077,8 @@
     },
     {
       "id": "nnz6kvu3",
-      "x": 3124.3172170608805,
-      "y": 6676.553224202507,
+      "x": 3118.6156023833523,
+      "y": 6594.449972846097,
       "w": 320,
       "h": 165,
       "group": null,
@@ -1051,8 +1097,8 @@
     },
     {
       "id": "nvnrich3",
-      "x": 3507.0083485446803,
-      "y": 6611.674936747703,
+      "x": 3575.5695413956937,
+      "y": 6594.534638534949,
       "w": 320,
       "h": 165,
       "group": null,
@@ -1071,8 +1117,8 @@
     },
     {
       "id": "nwmvw3b4",
-      "x": 3127.933730812445,
-      "y": 6889.553224202507,
+      "x": 3117.670824392894,
+      "y": 6780.08222239396,
       "w": 320,
       "h": 165,
       "group": null,
@@ -1091,8 +1137,8 @@
     },
     {
       "id": "ncsohusa",
-      "x": 3140.59733937697,
-      "y": 7100.020502489602,
+      "x": 3116.4584428299254,
+      "y": 6968.353794051177,
       "w": 320,
       "h": 165,
       "group": null,
@@ -1111,30 +1157,44 @@
     },
     {
       "id": "nzb2m0qr",
-      "x": 3135.5318959511605,
-      "y": 7307.955059063793,
+      "x": 3111.974856922351,
+      "y": 7161.164150381111,
       "w": 320,
-      "h": 165,
+      "h": 649,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Sattelits",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
+        "tags": [
+          "Communication",
+          "Conflict"
+        ],
+        "desc": "Satellites like Starlink play a crucial role in warfare, providing Internet access in areas without terrestrial infrastructure. In Ukraine, they support military communications, drone control, and real-time data transmission. They enable operational coordination even in active conflict zones, becoming essential on the battlefield. However, they raise geopolitical and security concerns related to the use of private technology in wars.",
+        "links": [
+          "https://www.geopop.it/come-viene-utilizzato-starlink-dallucraina-in-guerra-con-la-russia-e-perche-e-essenziale-per-la-vittoria/"
+        ],
+        "files": [
+          {
+            "name": "starlink-qxpn4slwnrh57bss47mh80b5ysg00u33aa9qixwd2g.jpg",
+            "size": 120848,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/starlink-qxpn4slwnrh57bss47mh80b5ysg00u33aa9qixwd2g.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n25ovdfg",
-      "x": 2693.3306670386955,
-      "y": 7621.09466841122,
+      "x": 2665.4839937952765,
+      "y": 7612.972722048556,
       "w": 320,
-      "h": 165,
+      "h": 294,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -1142,19 +1202,21 @@
         "type": "Research",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Transportation"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "Transportation infrastructure is the physical network that enables the movement of people and goods, including roads, railways, airports, and canals. It is crucial for economic growth, trade, and social well-being, requiring significant investment and planning to ensure safe, efficient, and sustainable systems.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nmau57nf",
-      "x": 3053.584515291153,
-      "y": 7597.145438061711,
+      "x": 3016.572979444729,
+      "y": 7988.772751069619,
       "w": 320,
-      "h": 165,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -1164,15 +1226,15 @@
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "Italy has a well-developed transportation infrastructure with extensive networks of highways and railways, including an operational high-speed rail system that ranks among the longest in the world. The country plays a strategic role in the TEN-T Core Network for the EU market, hosting several European Corridors that connect key industrial clusters, ports, and airports.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n73s5et2",
-      "x": 3050.163196669795,
-      "y": 7676.714011828735,
+      "x": 3015.7247514593223,
+      "y": 8329.491121035673,
       "w": 320,
       "h": 165,
       "group": null,
@@ -1191,8 +1253,8 @@
     },
     {
       "id": "nkthjzom",
-      "x": 3039.8992408057197,
-      "y": 7739.1759924889675,
+      "x": 3015.8393475166304,
+      "y": 8519.024672057834,
       "w": 320,
       "h": 165,
       "group": null,
@@ -1211,8 +1273,8 @@
     },
     {
       "id": "nackr6xg",
-      "x": 4233.672667388464,
-      "y": 5980.037374373785,
+      "x": 4119.084348518653,
+      "y": 6138.98246183836,
       "w": 320,
       "h": 171,
       "group": null,
@@ -1233,30 +1295,39 @@
     },
     {
       "id": "n0079gul",
-      "x": 4722.176474739443,
-      "y": 5614.3962373114755,
+      "x": 4663.206027913954,
+      "y": 4969.676923735403,
       "w": 320,
-      "h": 171,
+      "h": 351,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Environmental sustainability vs developement",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "General knowledge"
+          "Environmental sustainability"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "A socio-political and ecological conflict arises when an infrastructure generates severe environmental impacts or redistributes resources in ways that harm ecosystems and livelihoods, while being presented as a driver of development. The conflict stems from the unequal distribution of costs and benefits and from inadequate decision-making processes and remedies.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "image 127.png",
+            "size": 268876,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_127.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n0cinr9z",
-      "x": 4713.672667388464,
-      "y": 5837.3962373114755,
+      "x": 4722.476920809471,
+      "y": 5526.751812047673,
       "w": 320,
       "h": 171,
       "group": null,
@@ -1277,134 +1348,553 @@
     },
     {
       "id": "nyjy5rg0",
-      "x": 4709.055242500114,
-      "y": 6108.57538901423,
+      "x": 4647.760245567347,
+      "y": 5714.592267934148,
       "w": 320,
-      "h": 165,
+      "h": 501,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Humanitary/Sanitary help vs war target",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
+        "desc": "Hospitals, clinics, ambulances, aid distribution centers, and civilian shelters are attacked or threatened during armed conflicts, despite being designed to protect and save lives.",
+        "links": [
+          "https://www.who.int/europe/news/item/19-08-2024-grim-milestone-on-world-humanitarian-day--who-records-1940-attacks-on-health-care-in-ukraine-since-start-of-full-scale-war?"
+        ],
+        "files": [
+          {
+            "name": "image 91.png",
+            "size": 174585,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_91.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n1uuqalf",
-      "x": 4713.672667388464,
-      "y": 6321.57538901423,
+      "x": 4655.524519171479,
+      "y": 6709.344806487625,
       "w": 320,
-      "h": 171,
+      "h": 646,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "instruction palce vs distruction place",
-        "type": "Research",
+        "title": "Instruction palce vs distruction place",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "General knowledge"
+          "General knowledge",
+          "Education",
+          "War"
         ],
         "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
+        "desc": "Between 2022 and 2023, there were approximately 6,000 attacks on schools and universities worldwide, affecting over 10,000 students and teachers, mainly in Palestine, Ukraine, and the DRC. The attacks, including bombings, arson, and military use of schools, caused prolonged closures, loss of months of education, and severe psychological effects. HRW urges states to adopt the Safe Schools Declaration to protect education during conflicts.",
+        "links": [
+          "https://www.hrw.org/news/2024/06/20/attacks-education-war-surge-globally?"
+        ],
+        "files": [
+          {
+            "name": "image 92.png",
+            "size": 135680,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_92.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n0z43ix8",
-      "x": 4713.672667388464,
-      "y": 6540.57538901423,
+      "x": 4713.210138309494,
+      "y": 6220.414865124651,
       "w": 320,
-      "h": 171,
+      "h": 540,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Turism vs Welfare",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "General knowledge"
+          "Tourism",
+          "Welfare"
         ],
-        "tags": [],
-        "desc": "",
+        "tags": [
+          "Overtourism"
+        ],
+        "desc": "The way the new forms of overtourism are undermining the welfare of local populations",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "1849b26d-a308-4d94-9ebe-72f06ffd0a3d.jpeg",
+            "size": 200839,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/1849b26d-a308-4d94-9ebe-72f06ffd0a3d.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nf6ny5m2",
-      "x": 4711.4650802195965,
-      "y": 6765.320106568497,
+      "x": 4721.154545035127,
+      "y": 7290.26014933543,
       "w": 320,
-      "h": 194,
+      "h": 685,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "La città del sole",
-        "type": "Research",
-        "action": null,
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Socio-political",
-          "General knowledge"
+          "General knowledge",
+          "Utopian civilization"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "“La città del Sole” (1602) by Tommaso Campanella is a utopian dialogue that describes an ideal society organized in concentric circles, governed by a priest-philosopher called Sun and his magistrates. In it, there is no private property; everything is shared, even families and children. Education is collective and based on symbols and knowledge painted on the city’s walls. It is a model of harmony between religion, science, and politics, set against the injustices of its time.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "cittadelsole.jpg",
+            "size": 116853,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/cittadelsole.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nziuwnz4",
-      "x": 5080.239733061525,
-      "y": 6778.884173295092,
+      "x": 5365.141594755823,
+      "y": 7967.3462785618585,
       "w": 320,
-      "h": 194,
+      "h": 361,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Neuroarchitecture",
         "type": "Research",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Neuroscience",
           "Socio-political",
           "General knowledge"
         ],
         "tags": [],
-        "desc": "",
-        "links": [],
+        "desc": "Neuroarchitecture is an interdisciplinary field that combines architecture, neuroscience, psychology, and ergonomics to study how built environments influence the brain, emotions, and human behavior.",
+        "links": [
+          "https://www.neurowebcopywriting.com/introduzione-neuroarchitettura/"
+        ],
         "files": []
       }
     },
     {
       "id": "nj01owja",
-      "x": 4713.672667388464,
-      "y": 7007.320106568497,
+      "x": 4665.1111256571585,
+      "y": 7923.897177926346,
       "w": 320,
-      "h": 171,
+      "h": 590,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Foreigners everywhere: Biennale",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
           "General knowledge"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Foreigners Everywhere, curated by Brazilian Adriano Pedrosa, was the main art exhibition of the 60th Venice Biennale, which took place from April 20–November 24, 2024. Pedrosa's stated intention for the exhibit was to investigate the idea of living on the margins, whether as an outsider, a new arrival, or an Indigenous person.",
+        "links": [
+          "https://www.labiennale.org/en/news/biennale-arte-2024-stranieri-ovunque-foreigners-everywhere"
+        ],
+        "files": [
+          {
+            "name": "foreighers everywhere.jpeg",
+            "size": 8230,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/foreighers_everywhere.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nr3rotjh",
+      "x": 5242.297976139232,
+      "y": 6486.8687010791145,
+      "w": 320,
+      "h": 294,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Touristification",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Touristification",
+          "Tourism"
+        ],
+        "tags": [],
+        "desc": "Touristification is the process by which a city or area becomes dominated by tourism. It often transforms local spaces, services, and culture to cater to visitors. This can lead to economic benefits but also social tensions, displacement, and loss of local identity.",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "nswxox1a",
+      "x": 5651.651434187258,
+      "y": 6319.227457529229,
+      "w": 320,
+      "h": 300,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Luxury tourism",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Touristification",
+          "Luxury tourism"
+        ],
+        "tags": [],
+        "desc": "Luxury tourism (luxury travel) is a segment of the tourism industry dedicated to travelers seeking unique, personalized, and top-level experiences, prioritizing quality, exclusivity, comfort, privacy, and personal fulfillment.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqoehvej",
+      "x": 6157.92375758747,
+      "y": 6075.532845532197,
+      "w": 320,
+      "h": 298,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Extreme turism",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Tourism",
+          "Extreme tourism"
+        ],
+        "tags": [],
+        "desc": "Forms of tourism practiced in remote, dangerous contexts beyond the jurisdiction of States, such as the deep sea, polar regions, or outer space.",
+        "links": [
+          "https://lastatalenews.unimi.it/troppo-estremo-inaccessibile-quando-turismo-diventa-minaccia"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nso5or5l",
+      "x": 5648.3185321636365,
+      "y": 6725.948526809335,
+      "w": 320,
+      "h": 545,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Overtourism in Venice",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Touristification"
+        ],
+        "tags": [],
+        "desc": "The entire physical structure of the city, from its foundations to its canals, is unable to withstand the weight of mass tourism, transforming infrastructure from a resource for residents into a source of conflict.",
+        "links": [],
+        "files": [
+          {
+            "name": "93571f85-8591-4ead-a7e7-f28645ad8d25.jpg",
+            "size": 291552,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/93571f85-8591-4ead-a7e7-f28645ad8d25.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nk39j0du",
+      "x": 6167.804508621384,
+      "y": 6683.382733957087,
+      "w": 320,
+      "h": 630,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Jeff Bezos wedding",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Touristification",
+          "Luxury tourism"
+        ],
+        "tags": [],
+        "desc": "Jeff Bezos’s wedding in Venice drew huge media attention and an exceptional influx of luxury guests. This kind of event amplifies the problems of elite and mass tourism, which already weigh heavily on the city. Residents experienced mobility issues, with difficult travel and restricted access. Venice thus risks becoming a global stage rather than a livable city for its inhabitants.",
+        "links": [
+          "https://jacobinitalia.it/la-distopia-concreta-della-venezia-di-bezos/"
+        ],
+        "files": [
+          {
+            "name": "6e379cf2-azione-venezia-greenpeace-bezos-1024x683-2.jpg",
+            "size": 121013,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/6e379cf2-azione-venezia-greenpeace-bezos-1024x683-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7bsvhu0",
+      "x": 6933.916691148424,
+      "y": 5199.0197114270895,
+      "w": 320,
+      "h": 607,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Spacial torusim",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Extreme tourism"
+        ],
+        "tags": [],
+        "desc": "Blue Origin organizes suborbital tourist flights lasting about 11 minutes, reaching altitudes over 100 km. Passengers experience a few minutes of weightlessness while observing the Earth’s curvature through large panoramic windows. The capsule then returns to Earth with a controlled parachute landing. These missions represent an exclusive form of space tourism, reserved for a select few participants.",
+        "links": [
+          "https://www.ilpost.it/2025/04/14/missione-donne-blue-origin-katy-perry/"
+        ],
+        "files": [
+          {
+            "name": "sq2u66dvo7we1.jpeg",
+            "size": 148593,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/sq2u66dvo7we1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n81kyskw",
+      "x": 6942.300844199383,
+      "y": 5874.495625289029,
+      "w": 320,
+      "h": 644,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Submarine tourism",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Extreme tourism"
+        ],
+        "tags": [],
+        "desc": "OceanGate organizes private submarine expeditions to the Titanic wreck, offering participants an exclusive experience aboard the Titan submersible. These missions, lasting about 10 days, cost $250,000 per person, excluding travel expenses to the departure point in Newfoundland, Canada. The business model involved passengers, called “citizen scientists,” participating in scientific research missions, but the company faced criticism over safety and operational transparency. After the fatal Titan incident in June 2023, OceanGate suspended all operations and ceased activities.",
+        "links": [
+          "https://it.wikipedia.org/wiki/Incidente_del_sommergibile_Titan"
+        ],
+        "files": [
+          {
+            "name": "Titan_submersible_on_the_ocean_floor.jpg",
+            "size": 235649,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Titan_submersible_on_the_ocean_floor.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1l4uiqd",
+      "x": 6937.401248138994,
+      "y": 6556.658400400747,
+      "w": 320,
+      "h": 625,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Everest Mount",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Extreme tourism"
+        ],
+        "tags": [],
+        "desc": "In recent years, extreme tourism on Mount Everest has surged, with thousands of climbers visiting each season. This has caused severe overcrowding, long queues to reach the summit, and increased safety risks. The Nepalese government has responded by raising permit fees and limiting the number of climbers to manage environmental and logistical impacts.",
+        "links": [
+          "https://www.open.online/2025/08/20/himalaya-overtourism-nepal-aumento-soccorsi-alpinisti-pro-e-contro/"
+        ],
+        "files": [
+          {
+            "name": "everest.webp",
+            "size": 154518,
+            "type": "image/webp",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/everest.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nciqu5g8",
+      "x": 5349.175006720024,
+      "y": 4707.611606589162,
+      "w": 320,
+      "h": 491,
+      "group": null,
+      "data": {
+        "date": "2025-09-28",
+        "title": "Politics of infrastructure",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "Social, cultural, and political conflict can arise as early as the planning phase of an infrastructure project. Economic interests, community rights, and cultural heritage may come into conflict. The lack of dialogue fuels protests and delays, while construction often disregards human rights and local cultures.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 168.png",
+            "size": 50010,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_168.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwsqp9q5",
+      "x": 5823.994861536529,
+      "y": 3899.229084559767,
+      "w": 320,
+      "h": 538,
+      "group": null,
+      "data": {
+        "date": "2025-09-28",
+        "title": "Messina Strait Bridge",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "Location: Strait of Messina (Sicily–Calabria, Italy). The project involves national governments, local administrations, construction consortia, environmental groups, and citizens, with disputes over real costs, seismic risks, and potential mafia influence. It has been repeatedly launched, suspended, and restarted. The debate remains constant, balancing promises of development against environmental, technical, and economic concerns.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 204.png",
+            "size": 33464,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_204.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8a7ft00",
+      "x": 5824.170487955527,
+      "y": 4468.095723278122,
+      "w": 320,
+      "h": 538,
+      "group": null,
+      "data": {
+        "date": "2025-09-28",
+        "title": "No Tav",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "The No TAV movement emerged in Val di Susa against the construction of the Turin–Lyon high-speed rail line. It brings together residents, activists, and social groups denouncing environmental, economic, and social impacts. Conflict with the government and law enforcement has led to protests, clashes, and legal proceedings. It has become a national symbol of resistance against top-down large-scale projects.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 215.png",
+            "size": 40848,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_215.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmfz7pcn",
+      "x": 5824.491549961203,
+      "y": 5035.236061269859,
+      "w": 320,
+      "h": 368,
+      "group": null,
+      "data": {
+        "date": "2025-09-28",
+        "title": "ZAD of Notre Dame des Landes",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "In Notre-Dame-des-Landes, near Nantes, France, local farmers, ZAD ecological activists, the government, and the airport industry clashed over a new airport. Legal questions about occupations versus the right to protest fueled tensions. After decades of mobilization and resistance, strong opposition led to the airport’s cancellation in 2018. The case stands as a notable victory for social movements.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 217.png",
+            "size": 42830,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_217.jpg"
+          }
+        ]
       }
     }
   ],
@@ -1963,26 +2453,102 @@
       "s": "nackr6xg",
       "t": "nj01owja",
       "dashed": false
+    },
+    {
+      "s": "n0z43ix8",
+      "t": "nr3rotjh",
+      "dashed": false
+    },
+    {
+      "s": "nso5or5l",
+      "t": "nk39j0du",
+      "dashed": false
+    },
+    {
+      "s": "nr3rotjh",
+      "t": "nso5or5l",
+      "dashed": false
+    },
+    {
+      "s": "nr3rotjh",
+      "t": "nswxox1a",
+      "dashed": false
+    },
+    {
+      "s": "nswxox1a",
+      "t": "nqoehvej",
+      "dashed": false
+    },
+    {
+      "s": "nqoehvej",
+      "t": "n7bsvhu0",
+      "dashed": false
+    },
+    {
+      "s": "nqoehvej",
+      "t": "n81kyskw",
+      "dashed": false
+    },
+    {
+      "s": "nqoehvej",
+      "t": "n1l4uiqd",
+      "dashed": false
+    },
+    {
+      "s": "n0079gul",
+      "t": "nciqu5g8",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nwsqp9q5",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "n8a7ft00",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nmfz7pcn",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Critical theory",
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Design research",
+      "Extreme tourism",
+      "Protests",
+      "Transportation",
+      "War",
+      "Tourism",
+      "Touristification",
+      "Luxury tourism",
+      "Environmental sustainability",
+      "Welfare",
+      "Education",
+      "Neuroscience",
+      "Utopian civilization",
+      "Utopic",
+      "General knowledge",
       "Socio-political",
-      "General knowledge"
+      "Design research",
+      "Media studies",
+      "Communication",
+      "Critical design",
+      "Critical theory"
     ],
     "tags": [
-      "Infrastructure",
+      "Conflict",
+      "Communication",
+      "Overtourism",
       "Definition",
-      "Conflict"
+      "Infrastructure"
     ],
     "type": [
-      "Brief",
-      "Research"
+      "Source",
+      "Research",
+      "Brief"
     ]
   }
 }
