@@ -817,7 +817,7 @@
     },
     {
       "id": "nddb89ds",
-      "x": 2784.681631626022,
+      "x": 2783.5118401559866,
       "y": 4479.561971193839,
       "w": 320,
       "h": 634,
@@ -1298,7 +1298,7 @@
       "x": 4663.206027913954,
       "y": 4969.676923735403,
       "w": 320,
-      "h": 351,
+      "h": 537,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -1778,7 +1778,7 @@
       "x": 5349.175006720024,
       "y": 4707.611606589162,
       "w": 320,
-      "h": 491,
+      "h": 492,
       "group": null,
       "data": {
         "date": "2025-09-28",
@@ -1871,7 +1871,7 @@
       "x": 5824.491549961203,
       "y": 5035.236061269859,
       "w": 320,
-      "h": 368,
+      "h": 532,
       "group": null,
       "data": {
         "date": "2025-09-28",
@@ -1895,6 +1895,32 @@
             "path": "assets/image_217.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "nasv8727",
+      "x": 6933.932930424613,
+      "y": 7306.945189647406,
+      "w": 320,
+      "h": 378,
+      "group": null,
+      "data": {
+        "date": "2025-09-28",
+        "title": "Favelas - Olimpic games 2k12",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [
+          "Infrastructure"
+        ],
+        "desc": "For the 2k12 Olimpic Games, new sport infrastructures were built, displacing more than 3ooo families from their houses. These people all saw their houses getting destroyed, unable to protest against the governement decision.",
+        "links": [
+          "https://www.usb.it/leggi-notizia/le-favelas-brasiliane-contro-i-cantieri-delle-olimpiadi.html"
+        ],
+        "files": []
       }
     }
   ],
@@ -2517,38 +2543,37 @@
   ],
   "vocab": {
     "areas": [
-      "Extreme tourism",
-      "Protests",
-      "Transportation",
-      "War",
-      "Tourism",
-      "Touristification",
-      "Luxury tourism",
-      "Environmental sustainability",
-      "Welfare",
-      "Education",
-      "Neuroscience",
-      "Utopian civilization",
-      "Utopic",
-      "General knowledge",
       "Socio-political",
-      "Design research",
-      "Media studies",
-      "Communication",
+      "Critical theory",
       "Critical design",
-      "Critical theory"
+      "Communication",
+      "Media studies",
+      "Design research",
+      "General knowledge",
+      "Utopian civilization",
+      "Neuroscience",
+      "Education",
+      "Welfare",
+      "Environmental sustainability",
+      "Luxury tourism",
+      "Touristification",
+      "Tourism",
+      "War",
+      "Transportation",
+      "Protests",
+      "Extreme tourism"
     ],
     "tags": [
-      "Conflict",
-      "Communication",
-      "Overtourism",
+      "Infrastructure",
       "Definition",
-      "Infrastructure"
+      "Overtourism",
+      "Communication",
+      "Conflict"
     ],
     "type": [
       "Source",
-      "Research",
-      "Brief"
+      "Brief",
+      "Research"
     ]
   }
 }
