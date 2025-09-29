@@ -1922,6 +1922,38 @@
         ],
         "files": []
       }
+    },
+    {
+      "id": "nabr40xb",
+      "x": 5840.138384492679,
+      "y": 3190.3001381804806,
+      "w": 320,
+      "h": 493,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Three grges dam",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Land grabbing",
+          "Displacement"
+        ],
+        "tags": [],
+        "desc": "The world's largest hydroelectric dam. Built by the Chinese government, it provides energy and flood control but caused the forced displacement of over a million people and the destruction of cultural and environmental sites.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-29 alle 10.14.20.png",
+            "size": 2147721,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-29_alle_10.14.20.jpg"
+          }
+        ]
+      }
     }
   ],
   "edges": [
@@ -2539,41 +2571,48 @@
       "s": "nciqu5g8",
       "t": "nmfz7pcn",
       "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nabr40xb",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Socio-political",
-      "Critical theory",
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Design research",
-      "General knowledge",
-      "Utopian civilization",
-      "Neuroscience",
-      "Education",
-      "Welfare",
-      "Environmental sustainability",
-      "Luxury tourism",
-      "Touristification",
-      "Tourism",
-      "War",
-      "Transportation",
+      "Displacement",
+      "Land grabbing",
+      "Extreme tourism",
       "Protests",
-      "Extreme tourism"
+      "Transportation",
+      "War",
+      "Tourism",
+      "Touristification",
+      "Luxury tourism",
+      "Environmental sustainability",
+      "Welfare",
+      "Education",
+      "Neuroscience",
+      "Utopian civilization",
+      "General knowledge",
+      "Design research",
+      "Media studies",
+      "Communication",
+      "Critical design",
+      "Critical theory",
+      "Socio-political"
     ],
     "tags": [
-      "Infrastructure",
-      "Definition",
-      "Overtourism",
+      "Conflict",
       "Communication",
-      "Conflict"
+      "Overtourism",
+      "Definition",
+      "Infrastructure"
     ],
     "type": [
       "Source",
-      "Brief",
-      "Research"
+      "Research",
+      "Brief"
     ]
   }
 }
