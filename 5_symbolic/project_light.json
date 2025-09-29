@@ -3,8 +3,8 @@
   "nodes": [
     {
       "id": "n4nb144u",
-      "x": -125.81582241190615,
-      "y": 196.93679133914523,
+      "x": -130.8897158555883,
+      "y": 204.86994729599286,
       "w": 320,
       "h": 308,
       "group": null,
@@ -368,74 +368,82 @@
     },
     {
       "id": "nkc0dsty",
-      "x": 1550.4342255444092,
-      "y": -39.766778184772946,
+      "x": 1557.9743288087834,
+      "y": -441.0127478485957,
       "w": 320,
-      "h": 238,
+      "h": 443,
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": "Social & Cultural Identity",
-        "type": "Concept",
+        "title": "Transculturation of Symbols",
+        "type": "Collection",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
           "Insight"
         ],
-        "tags": [],
-        "desc": "Focus on how symbols define groups, subcultures, or nations, generating alignment, belonging, or exclusion",
+        "tags": [
+          "Moodboard",
+          "Transculturation",
+          "Semiotics"
+        ],
+        "desc": "Exploring how symbols migrate across cultures, get re-appropriated, and lose or shift their original meanings.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nia9zspi",
-      "x": 1550.4342255444092,
-      "y": 231.43981516006414,
+      "x": 1557.4069982578424,
+      "y": 810.5813678381254,
       "w": 320,
-      "h": 222,
+      "h": 420,
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": "Religious Conflict",
-        "type": "Concept",
+        "title": "Fanaticism",
+        "type": "Collection",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
           "Insight"
         ],
-        "tags": [],
-        "desc": "Focus on symbols carrying religious or ideological meaning that spark conflict, debate, or controversy.",
+        "tags": [
+          "Moodboard"
+        ],
+        "desc": "Studying how intense alignment under symbols leads to fanatic behaviors and radical group dynamics.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ny6knz3n",
-      "x": 1550.4342255444092,
-      "y": 489.0855452740081,
+      "x": 1554.9945838622723,
+      "y": 152.03046973705312,
       "w": 320,
-      "h": 238,
+      "h": 439,
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": "Symbol Appropriation & Semiotic Transformation",
-        "type": "Concept",
+        "title": "Group Aesthetics and Identities (Subcultures)",
+        "type": "Collection",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
           "Insight"
         ],
-        "tags": [],
-        "desc": "Focus on symbols that lose their original meaning, are appropriated, or become contested, generating debate or reinterpretation.",
+        "tags": [
+          "Moodboard"
+        ],
+        "desc": "Investigating how aesthetics and symbols structure subcultural identities, generating both belonging and conflict.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nkjeatb8",
-      "x": 335.6477036295349,
-      "y": 1157.2989687329423,
+      "x": 348.3668098847936,
+      "y": 1071.4643446159862,
       "w": 320,
       "h": 203,
       "group": null,
@@ -448,6 +456,560 @@
         "areas": [],
         "tags": [],
         "desc": "We received feedback that this was less relevant to the project's focus. As a result, we decided to abandon this path.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbacbmto",
+      "x": -782.8572456243152,
+      "y": 127.27791980114438,
+      "w": 320,
+      "h": 768,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Conflict: a Distributed Condition: Contemporary War Ecologies",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Socio-political",
+          "Media studies",
+          "Communication",
+          "Cultural practices",
+          "Critical design",
+          "Design research",
+          "Political ecology"
+        ],
+        "tags": [
+          "Distributed conflict",
+          "Latent violence",
+          "Systemic friction",
+          "Post-territorial",
+          "Embedded warfare",
+          "Socio-technical ecologies",
+          "Structural inequality",
+          "Cultural infrastructures"
+        ],
+        "desc": "\nConflict is not an exception or an isolated event — it is a constant condition running through society. It is not limited to war or explicit clashes: it emerges within collective life as friction, as a continuous confrontation between competing needs, systems, and visions.\nIt is not a punctual episode but a latent and distributed condition. It takes on asymmetric, often invisible forms, embedded in cultural practices, social relations, and infrastructures. Its logic is not confined to violence: it also structures coexistence, shaping who holds privilege and who is pushed to the margins.\nExploring distributed conflicts means reading the present as a field where techniques of offense multiply and blur into the infrastructures society depends on. The goal is to generate critical devices, scenarios, and questions that probe the ambiguous nature of conflict as a diffuse condition in a post-territorial age.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ngvr8t3q",
+      "x": -130.99881949181605,
+      "y": -1158.0263927059934,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Linguistic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Media studies",
+          "Semiotics",
+          "Communication design",
+          "Interface design",
+          "Cultural studies"
+        ],
+        "tags": [
+          "Memetics",
+          "Persuasive rhetoric",
+          "Semiotic warfare",
+          "Language manipulation",
+          "Interface politics",
+          "Discourse control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nyovoom7",
+      "x": -128.0772118823508,
+      "y": -831.8594547734049,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Media conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Media theory",
+          "Journalism studies",
+          "Information systems",
+          "Political communication",
+          "Critical media design"
+        ],
+        "tags": [
+          "Propaganda systems",
+          "Disinformation",
+          "Deepfake",
+          "Rumor propagation",
+          "Narrative control",
+          "Attention economy"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0lqfdqy",
+      "x": -130.98871221764165,
+      "y": -481.3435515044221,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cognitive conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies"
+        ],
+        "tags": [
+          "Neurocontrol",
+          "Brain hacking",
+          "Cognitive warfare",
+          "Neural interfaces",
+          "Psychopolitics"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nc095kni",
+      "x": -130.49733197360825,
+      "y": -140.2656219167357,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Metric conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Algorithm studies",
+          "Sociology of technology",
+          "Critical data studies",
+          "Digital governance"
+        ],
+        "tags": [
+          "Algorithmic bias",
+          "Data politics",
+          "Scoring systems",
+          "Quantification",
+          "Metric governance",
+          "Predictive control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nd9hqxo1",
+      "x": -129.59851329700854,
+      "y": 535.513568732651,
+      "w": 320,
+      "h": 282,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Cultural conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Anthropology",
+          "Sociology",
+          "Cultural theory",
+          "Futures studies",
+          "Ethics"
+        ],
+        "tags": [
+          "Value systems",
+          "Ideological friction",
+          "Cultural hegemony",
+          "Future imaginaries",
+          "Norm contestation"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7fi8ro1",
+      "x": -129.52189104687892,
+      "y": 843.9353491235433,
+      "w": 320,
+      "h": 282,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Social conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Sociology",
+          "Political science",
+          "Law and rights studies",
+          "Social policy",
+          "Critical theory"
+        ],
+        "tags": [
+          "Citizenship struggles",
+          "Rights negotiation",
+          "Representation crisis",
+          "Social stratification",
+          "Identity politics"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "naijabjg",
+      "x": -129.9958150915666,
+      "y": 1148.1835154526248,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Bureaucratic conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Legal studies",
+          "Political geography",
+          "Bureaucracy studies",
+          "Governance",
+          "Critical urbanism"
+        ],
+        "tags": [
+          "Administrative violence",
+          "Legal cartographies",
+          "Border regimes",
+          "Paper governance",
+          "Procedural control"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nfpzqw38",
+      "x": -133.4193613193002,
+      "y": 1499.096605698194,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Digital conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Computer science",
+          "Cybersecurity",
+          "Digital geopolitics",
+          "Ai ethics",
+          "Critical infrastructure studies"
+        ],
+        "tags": [
+          "Automation control",
+          "Kill chain",
+          "Ai warfare",
+          "Protocol politics",
+          "Simulated conflict",
+          "Cyberwarfare"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nyuedd22",
+      "x": -129.4193613193002,
+      "y": 1831.096605698194,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Ecological conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Political ecology",
+          "Environmental studies",
+          "Sustainability studies",
+          "Geography",
+          "Climate justice"
+        ],
+        "tags": [
+          "Geoengineering",
+          "Resource wars",
+          "Ecocide",
+          "Energy politics",
+          "Environmental violence",
+          "Multispecies justice"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n579k2qi",
+      "x": -127.41424973168155,
+      "y": 2160.5509565685775,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Infrastructural conflict",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Infrastructure studies",
+          "Urban studies",
+          "Political geography",
+          "Systems theory",
+          "Supply chain studies"
+        ],
+        "tags": [
+          "Logistics power",
+          "Infrastructural geopolitics",
+          "Network control",
+          "Chokepoints",
+          "Extractive systems"
+        ],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nq0jc2sz",
+      "x": 1927.8646602275655,
+      "y": 153.21976476594983,
+      "w": 320,
+      "h": 235,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Feedback highlighted that subcultures are not a strong direction; they are seen as historical/global phenomena that no longer carry real conflict. Current material is too aestheticized and superficial, with manipulated images instead of raw sources.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ne7pej32",
+      "x": 1940.668791804369,
+      "y": 810.0993009686423,
+      "w": 320,
+      "h": 235,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Fanaticism is a stronger direction than subcultures, with clearer links to symbols. However, the approach is currently too historical and heavy. Needs more depth and better questioning that subverts expectations and leads towards a scenario.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nongavxk",
+      "x": 2311.0552012597036,
+      "y": -441.11967771871707,
+      "w": 320,
+      "h": 560,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Transculturation of Symbols",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Moodboard",
+          "Transculturation",
+          "Semiotics"
+        ],
+        "desc": "Curated moodboard exploring cases of transculturation, re-appropriation, and transformation of symbols across different contexts.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbi04ki1",
+      "x": 2310.3157644809926,
+      "y": 152.41200538977404,
+      "w": 320,
+      "h": 608,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Belonging through Symbols",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Moodboard",
+          "Belonging"
+        ],
+        "desc": "In contemporary society, people associate with symbols — religious, political, cultural, or sports-related — that define identity and belonging. This often generates conflict with those aligned under different symbols, transforming the symbol into a battleground.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8q1r1h1",
+      "x": 2309.9998121952813,
+      "y": 808.9513477154925,
+      "w": 320,
+      "h": 560,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Fanaticism",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Moodboard",
+          "Fanaticism"
+        ],
+        "desc": "Moodboard collecting references on fanaticism, focusing on symbolic devotion and radical group behaviors.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6jgxxuf",
+      "x": 2661.209506640591,
+      "y": -437.9104020327822,
+      "w": 320,
+      "h": 282,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "What if? (Transculturation of Symbols)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Transculturation",
+          "Semiotics"
+        ],
+        "desc": "What if a dark ideology adopted a number as its identifying symbol, leading to it being banned and forcing society to invent substitutes for everyday use?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvntjj5f",
+      "x": 2673.8459480211,
+      "y": 155.8183499946295,
+      "w": 320,
+      "h": 282,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "What if? (Belonging through Symbols)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Belonging"
+        ],
+        "desc": "What if to eliminate contrasts, everyone united under a single shared symbol? Would society become more peaceful, or would conflicts persist because they are rooted in people rather than symbols?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nz4bpib1",
+      "x": 2673.2705769721465,
+      "y": 804.2320229796178,
+      "w": 320,
+      "h": 282,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "What if? (Fanaticism)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Fanaticism"
+        ],
+        "desc": "What if fanaticism were the only valid way to affirm one’s ideals, while every other form of engagement was ignored or despised, with moderates stigmatized as indifferent or cowardly?",
         "links": [],
         "files": []
       }
@@ -525,38 +1087,63 @@
       "dashed": false
     },
     {
-      "s": "nur88qr8",
-      "t": "nkc0dsty",
+      "s": "nbacbmto",
+      "t": "ngvr8t3q",
       "dashed": false
     },
     {
-      "s": "nvlil1j0",
-      "t": "nia9zspi",
+      "s": "nbacbmto",
+      "t": "nyovoom7",
       "dashed": false
     },
     {
-      "s": "ne63umzw",
-      "t": "nia9zspi",
+      "s": "nbacbmto",
+      "t": "n0lqfdqy",
       "dashed": false
     },
     {
-      "s": "n0a21zgr",
-      "t": "nkc0dsty",
+      "s": "nbacbmto",
+      "t": "nc095kni",
       "dashed": false
     },
     {
-      "s": "nly0e4e9",
-      "t": "nkc0dsty",
+      "s": "nbacbmto",
+      "t": "nd9hqxo1",
+      "dashed": false
+    },
+    {
+      "s": "nbacbmto",
+      "t": "n4nb144u",
+      "dashed": false
+    },
+    {
+      "s": "nbacbmto",
+      "t": "n7fi8ro1",
+      "dashed": false
+    },
+    {
+      "s": "nbacbmto",
+      "t": "naijabjg",
+      "dashed": false
+    },
+    {
+      "s": "nbacbmto",
+      "t": "nfpzqw38",
+      "dashed": false
+    },
+    {
+      "s": "nbacbmto",
+      "t": "nyuedd22",
+      "dashed": false
+    },
+    {
+      "s": "nbacbmto",
+      "t": "n579k2qi",
       "dashed": false
     },
     {
       "s": "nb4622io",
-      "t": "ny6knz3n",
-      "dashed": false
-    },
-    {
-      "s": "nvps8bh8",
-      "t": "nia9zspi",
+      "t": "nkc0dsty",
       "dashed": false
     },
     {
@@ -565,53 +1152,230 @@
       "dashed": false
     },
     {
-      "s": "npff97jn",
-      "t": "nia9zspi",
-      "dashed": false
-    },
-    {
-      "s": "n7vqt511",
+      "s": "nvps8bh8",
       "t": "nkc0dsty",
       "dashed": false
     },
     {
-      "s": "nvps8bh8",
+      "s": "nur88qr8",
       "t": "ny6knz3n",
       "dashed": false
     },
     {
-      "s": "ne63umzw",
+      "s": "nvlil1j0",
       "t": "ny6knz3n",
+      "dashed": false
+    },
+    {
+      "s": "npff97jn",
+      "t": "ny6knz3n",
+      "dashed": false
+    },
+    {
+      "s": "n7vqt511",
+      "t": "nia9zspi",
+      "dashed": false
+    },
+    {
+      "s": "nly0e4e9",
+      "t": "nia9zspi",
+      "dashed": false
+    },
+    {
+      "s": "n0a21zgr",
+      "t": "nia9zspi",
+      "dashed": false
+    },
+    {
+      "s": "ny6knz3n",
+      "t": "nq0jc2sz",
+      "dashed": false
+    },
+    {
+      "s": "nia9zspi",
+      "t": "ne7pej32",
+      "dashed": false
+    },
+    {
+      "s": "nkc0dsty",
+      "t": "nongavxk",
+      "dashed": false
+    },
+    {
+      "s": "nq0jc2sz",
+      "t": "nbi04ki1",
+      "dashed": false
+    },
+    {
+      "s": "ne7pej32",
+      "t": "n8q1r1h1",
+      "dashed": false
+    },
+    {
+      "s": "nongavxk",
+      "t": "n6jgxxuf",
+      "dashed": false
+    },
+    {
+      "s": "n8q1r1h1",
+      "t": "nz4bpib1",
+      "dashed": false
+    },
+    {
+      "s": "nbi04ki1",
+      "t": "nvntjj5f",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Insight",
-      "Symbolic meaning",
-      "Ideation",
+      "Scenarios",
+      "What if?",
+      "Supply chain studies",
+      "Systems theory",
+      "Political geography",
+      "Urban studies",
+      "Infrastructure studies",
+      "Climate justice",
+      "Geography",
+      "Sustainability studies",
+      "Environmental studies",
+      "Political ecology",
+      "Critical infrastructure studies",
+      "Ai ethics",
+      "Digital geopolitics",
+      "Cybersecurity",
+      "Computer science",
+      "Critical urbanism",
+      "Governance",
+      "Bureaucracy studies",
+      "Legal studies",
+      "Critical theory",
+      "Social policy",
+      "Law and rights studies",
+      "Political science",
+      "Sociology",
+      "Ethics",
+      "Futures studies",
+      "Cultural theory",
+      "Anthropology",
+      "Digital governance",
+      "Critical data studies",
+      "Sociology of technology",
+      "Algorithm studies",
+      "Data ethics",
+      "Critical technology studies",
+      "Cyberpsychology",
+      "Biopolitics",
+      "Human-computer interaction",
+      "Neuroscience",
+      "Critical media design",
+      "Political communication",
+      "Information systems",
+      "Journalism studies",
+      "Media theory",
+      "Cultural studies",
+      "Interface design",
+      "Communication design",
+      "Semiotics",
+      "Media studies",
+      "Design research",
+      "Critical design",
+      "Cultural practices",
+      "Communication",
+      "Socio-political",
       "Symbolic alignment",
-      "Sport",
-      "History"
+      "Ideation",
+      "Symbolic meaning",
+      "Insight"
     ],
     "tags": [
-      "Case study",
-      "Starting point",
-      "History",
-      "Religion",
-      "Society",
-      "Sport",
-      "Politics",
-      "Spor",
-      "Rivalry",
+      "What if?",
+      "Belonging",
+      "Fanaticism",
+      "Moodboard",
+      "Moodboard fanaticism",
+      "Semiotics",
+      "Transculturation",
+      "Extractive systems",
+      "Chokepoints",
+      "Network control",
+      "Infrastructural geopolitics",
+      "Logistics power",
+      "Multispecies justice",
+      "Environmental violence",
+      "Energy politics",
+      "Ecocide",
+      "Resource wars",
+      "Geoengineering",
+      "Cyberwarfare",
+      "Simulated conflict",
+      "Protocol politics",
+      "Ai warfare",
+      "Kill chain",
+      "Automation control",
+      "Procedural control",
+      "Paper governance",
+      "Border regimes",
+      "Legal cartographies",
+      "Administrative violence",
+      "Identity politics",
+      "Social stratification",
+      "Representation crisis",
+      "Rights negotiation",
+      "Citizenship struggles",
+      "Norm contestation",
+      "Future imaginaries",
+      "Cultural hegemony",
+      "Ideological friction",
+      "Value systems",
+      "Predictive control",
+      "Metric governance",
+      "Quantification",
+      "Scoring systems",
+      "Data politics",
+      "Algorithmic bias",
+      "Psychopolitics",
+      "Neural interfaces",
+      "Cognitive warfare",
+      "Brain hacking",
+      "Neurocontrol",
+      "Attention economy",
+      "Narrative control",
+      "Rumor propagation",
+      "Deepfake",
+      "Disinformation",
+      "Propaganda systems",
+      "Discourse control",
+      "Interface politics",
+      "Language manipulation",
+      "Semiotic warfare",
+      "Persuasive rhetoric",
+      "Memetics",
+      "Cultural infrastructures",
+      "Structural inequality",
+      "Socio-technical ecologies",
+      "Embedded warfare",
+      "Post-territorial",
+      "Systemic friction",
+      "Latent violence",
+      "Distributed conflict",
+      "Brief",
       "Research",
-      "Brief"
+      "Politics",
+      "Sport",
+      "Society",
+      "Religion",
+      "History",
+      "Starting point",
+      "Case study"
     ],
     "type": [
-      "Feedback",
       "Concept",
-      "Source",
-      "Brief"
+      "Collection",
+      "Feedback",
+      "Brief",
+      "Source"
     ]
   }
 }
