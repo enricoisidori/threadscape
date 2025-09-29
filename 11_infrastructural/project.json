@@ -1960,19 +1960,33 @@
       "x": 6275.966062729932,
       "y": 3359.9771266639546,
       "w": 320,
-      "h": 135,
+      "h": 561,
       "group": null,
       "data": {
         "date": "2025-09-29",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Vajont Dam disaster",
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Disaster",
+          "Engineering failure",
+          "Geological risk",
+          "Public safety"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "During the reservoir filling, a gigantic landslide generated a wave that submerged the valleys below, causing nearly 2,000 victims; a paradigmatic example of geological underestimation and technocratic decisions made without dialogue.\n\nDisaster on October 9, 1963 - Longarone, Veneto, Italy.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-29 alle 10.53.34.png",
+            "size": 2200436,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-29_alle_10.53.34.jpg"
+          }
+        ]
       }
     },
     {
@@ -1980,39 +1994,67 @@
       "x": 6487.966062729932,
       "y": 3447.9771266639546,
       "w": 320,
-      "h": 135,
+      "h": 633,
       "group": null,
       "data": {
         "date": "2025-09-29",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Dakota Access Pipeline (No DAPL / Standing Rock)",
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Land grabbing",
+          "Environmental sustainability",
+          "Protests",
+          "Wter rights"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "Global mobilization against the construction of the pipeline near sacred sites and water sources; a symbolic episode of indigenous rights claims against energy infrastructure.\n\nMain protests April 2016 – February 2017 \n\nSTAKEHOLDERS: Standing Rock Sioux Tribe and other native tribes, environmental activists, Energy Transfer Partners (proposing company), federal government and agencies (Army Corps)\n\n",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-29 alle 11.42.53.png",
+            "size": 799243,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-29_alle_11.42.53.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nj48pjho",
-      "x": 6707.966062729932,
-      "y": 3531.9771266639546,
+      "x": 6723.106103327025,
+      "y": 3544.5938271615323,
       "w": 320,
-      "h": 135,
+      "h": 544,
       "group": null,
       "data": {
         "date": "2025-09-29",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Narita Airport (Sanrizuka Struggle, Japan)",
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Protests",
+          "Land grabbing",
+          "Socio-political",
+          "Government conflict"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "Extremely violent opposition by farmers and left-wing groups against expropriation and lack of consultation: occupations, clashes, extreme acts, and years of instability during construction.\n\n= ambiguity over the radicalization of protests and violence",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-29 alle 11.47.32.png",
+            "size": 1462690,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-29_alle_11.47.32.jpg"
+          }
+        ]
       }
     },
     {
@@ -2020,19 +2062,34 @@
       "x": 6955.966062729932,
       "y": 3595.9771266639546,
       "w": 320,
-      "h": 135,
+      "h": 603,
       "group": null,
       "data": {
         "date": "2025-09-29",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Standard Gauge Railway (Kenya, Mombasa–Nairobi SGR)",
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Infrastructure",
+          "Land grabbing",
+          "Environmental sustainability",
+          "Debt",
+          "Geo-politics"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "A modern railway line built to connect Kenya's port (Mombasa) to the capital (Nairobi), primarily financed by and constructed by Chinese entities (CPC/CRBC). The project has faced controversy regarding land expropriation, severe impacts on wildlife and national parks, ambiguity over \"government-to-government\" contractual debt conditions, and its long-term financial sustainability.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-29 alle 12.04.48.png",
+            "size": 1969555,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-29_alle_12.04.48.jpg"
+          }
+        ]
       }
     },
     {
@@ -2040,19 +2097,28 @@
       "x": 7207.966062729932,
       "y": 3667.9771266639546,
       "w": 320,
-      "h": 135,
+      "h": 563,
       "group": null,
       "data": {
         "date": "2025-09-29",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Turkish Dams on the Tigris and Euphrates ",
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "Part of a large regional development program (GAP) that led to expropriation, forced displacement, and the loss of millennia-old sites (Hasankeyf), sparking national and international protests.\n\nSTAKEHOLDERS: Turkish government (energy and irrigation projects), Kurdish and local communities, international archaeologists/NGOs\n\n=> ambiguity over balancing water security/energy and heritage preservation.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-29 alle 12.43.50.png",
+            "size": 1019772,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-29_alle_12.43.50.jpg"
+          }
+        ]
       }
     },
     {
@@ -2910,34 +2976,50 @@
   ],
   "vocab": {
     "areas": [
-      "Socio-political",
-      "Critical theory",
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Design research",
-      "General knowledge",
-      "Utopian civilization",
-      "Neuroscience",
-      "Education",
-      "Welfare",
-      "Environmental sustainability",
-      "Luxury tourism",
-      "Touristification",
-      "Tourism",
-      "War",
-      "Transportation",
-      "Protests",
-      "Extreme tourism",
+      "Geo-politics",
+      "Debt",
+      "Infrastructure",
+      "Geopolitics",
       "Land grabbing",
-      "Displacement"
+      "Environmental sustainability",
+      "Government conflict",
+      "Socio-political",
+      "Protests",
+      "Wter rights",
+      "Public safety",
+      "Public",
+      "Geological risk",
+      "Engineering failure",
+      "Disaster",
+      "Displacement",
+      "Extreme tourism",
+      "Transportation",
+      "War",
+      "Tourism",
+      "Touristification",
+      "Luxury tourism",
+      "Welfare",
+      "Education",
+      "Neuroscience",
+      "Utopian civilization",
+      "General knowledge",
+      "Design research",
+      "Media studies",
+      "Communication",
+      "Critical design",
+      "Critical theory"
     ],
     "tags": [
-      "Infrastructure",
-      "Definition",
-      "Overtourism",
+      "Safety",
+      "Public safety",
+      "Geological risk",
+      "Engineering failure",
+      "Disaster",
+      "Conflict",
       "Communication",
-      "Conflict"
+      "Overtourism",
+      "Definition",
+      "Infrastructure"
     ],
     "type": [
       "Source",
