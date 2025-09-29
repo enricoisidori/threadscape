@@ -1298,7 +1298,7 @@
       "x": 4663.206027913954,
       "y": 4969.676923735403,
       "w": 320,
-      "h": 351,
+      "h": 537,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -1778,7 +1778,7 @@
       "x": 5349.175006720024,
       "y": 4707.611606589162,
       "w": 320,
-      "h": 491,
+      "h": 492,
       "group": null,
       "data": {
         "date": "2025-09-28",
@@ -1871,7 +1871,7 @@
       "x": 5824.491549961203,
       "y": 5035.236061269859,
       "w": 320,
-      "h": 368,
+      "h": 532,
       "group": null,
       "data": {
         "date": "2025-09-28",
@@ -2517,38 +2517,37 @@
   ],
   "vocab": {
     "areas": [
-      "Extreme tourism",
-      "Protests",
-      "Transportation",
-      "War",
-      "Tourism",
-      "Touristification",
-      "Luxury tourism",
-      "Environmental sustainability",
-      "Welfare",
-      "Education",
-      "Neuroscience",
-      "Utopian civilization",
-      "Utopic",
-      "General knowledge",
-      "Socio-political",
-      "Design research",
-      "Media studies",
-      "Communication",
+      "Critical theory",
       "Critical design",
-      "Critical theory"
+      "Communication",
+      "Media studies",
+      "Design research",
+      "Socio-political",
+      "General knowledge",
+      "Utopian civilization",
+      "Neuroscience",
+      "Education",
+      "Welfare",
+      "Environmental sustainability",
+      "Luxury tourism",
+      "Touristification",
+      "Tourism",
+      "War",
+      "Transportation",
+      "Protests",
+      "Extreme tourism"
     ],
     "tags": [
-      "Conflict",
-      "Communication",
-      "Overtourism",
+      "Infrastructure",
       "Definition",
-      "Infrastructure"
+      "Overtourism",
+      "Communication",
+      "Conflict"
     ],
     "type": [
-      "Source",
+      "Brief",
       "Research",
-      "Brief"
+      "Source"
     ]
   }
 }
