@@ -1678,7 +1678,7 @@
       "x": 6933.916691148424,
       "y": 5199.0197114270895,
       "w": 320,
-      "h": 607,
+      "h": 653,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1687,9 +1687,11 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Touristification"
+        ],
+        "tags": [
           "Extreme tourism"
         ],
-        "tags": [],
         "desc": "Blue Origin organizes suborbital tourist flights lasting about 11 minutes, reaching altitudes over 100 km. Passengers experience a few minutes of weightlessness while observing the Earth’s curvature through large panoramic windows. The capsule then returns to Earth with a controlled parachute landing. These missions represent an exclusive form of space tourism, reserved for a select few participants.",
         "links": [
           "https://www.ilpost.it/2025/04/14/missione-donne-blue-origin-katy-perry/"
@@ -1711,7 +1713,7 @@
       "x": 6942.300844199383,
       "y": 5874.495625289029,
       "w": 320,
-      "h": 644,
+      "h": 690,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1720,9 +1722,11 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Touristification"
+        ],
+        "tags": [
           "Extreme tourism"
         ],
-        "tags": [],
         "desc": "OceanGate organizes private submarine expeditions to the Titanic wreck, offering participants an exclusive experience aboard the Titan submersible. These missions, lasting about 10 days, cost $250,000 per person, excluding travel expenses to the departure point in Newfoundland, Canada. The business model involved passengers, called “citizen scientists,” participating in scientific research missions, but the company faced criticism over safety and operational transparency. After the fatal Titan incident in June 2023, OceanGate suspended all operations and ceased activities.",
         "links": [
           "https://it.wikipedia.org/wiki/Incidente_del_sommergibile_Titan"
@@ -1744,7 +1748,7 @@
       "x": 6937.401248138994,
       "y": 6556.658400400747,
       "w": 320,
-      "h": 625,
+      "h": 671,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1753,9 +1757,11 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Touristification"
+        ],
+        "tags": [
           "Extreme tourism"
         ],
-        "tags": [],
         "desc": "In recent years, extreme tourism on Mount Everest has surged, with thousands of climbers visiting each season. This has caused severe overcrowding, long queues to reach the summit, and increased safety risks. The Nepalese government has responded by raising permit fees and limiting the number of climbers to manage environmental and logistical impacts.",
         "links": [
           "https://www.open.online/2025/08/20/himalaya-overtourism-nepal-aumento-soccorsi-alpinisti-pro-e-contro/"
@@ -2763,10 +2769,10 @@
     },
     {
       "id": "nhhopwqp",
-      "x": 7531.468337643931,
-      "y": 8619.093450929135,
+      "x": 7530.00482527608,
+      "y": 8538.6002706973,
       "w": 320,
-      "h": 558,
+      "h": 683,
       "group": null,
       "data": {
         "date": "2025-09-30",
@@ -2775,11 +2781,15 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Humanitarian and development studies",
+          "International relations and human rights",
+          "Social psychology"
+        ],
+        "tags": [
           "War",
           "Victims",
           "Health"
         ],
-        "tags": [],
         "desc": "WHO records 1940 attacks on healthcare in Ukraine since the start of full-scale war.\n→ Systematic data on attacks on healthcare facilities, their impact on primary and secondary services, and consequences for patients and medical staff. Useful for documenting the phenomenon of healthcare attacks as a war strategy/effect.\n",
         "links": [
           "https://www.who.int/europe/news/item/19-08-2024-grim-milestone-on-world-humanitarian-day--who-records-1940-attacks-on-health-care-in-ukraine-since-start-of-full-scale-war?"
@@ -2798,10 +2808,10 @@
     },
     {
       "id": "nuycbuoq",
-      "x": 7533.332157228424,
-      "y": 9192.591479915247,
+      "x": 7528.4783470505745,
+      "y": 9238.702676604822,
       "w": 320,
-      "h": 676,
+      "h": 716,
       "group": null,
       "data": {
         "date": "2025-09-30",
@@ -2809,11 +2819,11 @@
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [
+        "areas": [],
+        "tags": [
           "War",
           "Human rights"
         ],
-        "tags": [],
         "desc": "Russian attacks on Ukraine power grid likely violate humanitarian law, says UN\n→ The UN has declared that repeated Russian attacks on Ukraine's power grid between March and August 2024 likely violate international humanitarian law. The attacks on energy infrastructure have left entire cities without power, compromising water, heating, and essential services. Blackouts of up to 18 hours a day are expected. Kiev and its allies consider them war crimes, while Moscow maintains they are legitimate military targets.",
         "links": [
           "https://www.reuters.com/world/europe/russian-attacks-ukraine-power-grid-probably-violate-humanitarian-law-says-un-2024-09-19/?"
@@ -2832,10 +2842,10 @@
     },
     {
       "id": "nbfhg9ml",
-      "x": 7886.620378514631,
-      "y": 8620.374802074564,
+      "x": 7880.766329043225,
+      "y": 8538.418109474878,
       "w": 320,
-      "h": 733,
+      "h": 858,
       "group": null,
       "data": {
         "date": "2025-09-30",
@@ -2844,10 +2854,14 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Political economy and public policy",
+          "Geopolitics and international relations",
+          "Energy engineering"
+        ],
+        "tags": [
           "War",
           "Protests"
         ],
-        "tags": [],
         "desc": "→ The EU wants to reduce dependence on Russian gas: starting in 2026, a halt to new contracts and the use of LNG terminals for Russian customers, and from 2028, long-term contracts. Each country will have to plan alternatives to avoid energy crises. But the construction of new infrastructure creates tensions: local protests, conflicts between states, and a clash between energy security and ecological transition.\n\nGas pipelines such as Nord Stream 1 and 2 have made Europe dependent on Russian supplies for approximately 40% of its gas needs, giving Russia bargaining and political power over it.",
         "links": [
           "https://www.rinnovabili.it/energia/infrastrutture/phase-out-del-gas-russo-date-divieti-regolamento-ue/"
@@ -2866,10 +2880,10 @@
     },
     {
       "id": "n0bod6hg",
-      "x": 7888.600683699377,
-      "y": 9368.847788526266,
+      "x": 7887.387231154915,
+      "y": 9419.812795393691,
       "w": 320,
-      "h": 538,
+      "h": 584,
       "group": null,
       "data": {
         "date": "2025-09-30",
@@ -2882,7 +2896,11 @@
           "War",
           "Human rights"
         ],
-        "tags": [],
+        "tags": [
+          "Health",
+          "War",
+          "Human rights"
+        ],
         "desc": "Yemen faces a severe water crisis: war, poor infrastructure, and excessive consumption for qat cultivation have drastically reduced access to drinking water. The lack of safe water has led to epidemics, such as cholera. The ICRC is responding by repairing wells and water networks, distributing water and treatment supplies, and supporting millions of people each year.\n",
         "links": [
           "https://www.icrc.org/en/document/water-situation-yemen?"
@@ -2901,10 +2919,10 @@
     },
     {
       "id": "njaxkv8q",
-      "x": 8239.854446531845,
-      "y": 8622.065649174358,
+      "x": 8233.330166441958,
+      "y": 8540.512148050773,
       "w": 320,
-      "h": 642,
+      "h": 688,
       "group": null,
       "data": {
         "date": "2025-09-30",
@@ -2913,12 +2931,16 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Infrastructure engineering",
+          "Security and defense studies",
+          "Humanitarian studies"
+        ],
+        "tags": [
           "War",
           "Health",
           "Human rights",
           "Structural failure"
         ],
-        "tags": [],
         "desc": "→ Examines the resilience of water and energy infrastructure in Yemen during the armed conflict that began in 2015. It analyzes the adaptive responses of communities and public institutions to disruptions and shortages in the water and energy sectors, critically assessing these responses from the perspective of infrastructure resilience in conflict contexts.\n",
         "links": [
           "https://www.icrc.org/en/document/water-situation-yemen?"
@@ -3740,48 +3762,68 @@
   ],
   "vocab": {
     "areas": [
-      "Structural failure",
-      "Human rights",
-      "Health",
-      "War",
-      "Critical theory",
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Design research",
-      "Socio-political",
-      "General knowledge",
-      "Utopian civilization",
-      "Neuroscience",
-      "Education",
-      "Welfare",
-      "Environmental sustainability",
-      "Luxury tourism",
-      "Touristification",
-      "Tourism",
-      "Transportation",
-      "Extreme tourism",
-      "Catastrophe",
-      "Useless investment",
-      "Cultural loss",
-      "Landgrabbing",
-      "Isolation",
-      "Psychological distress",
+      "Security and defense studies",
+      "Infrastructure engineering",
+      "Environmental sciences",
+      "Humanitarian studies",
+      "Desalination) security and defense studies",
+      "Electricity",
+      "Infrastructure engineering (water networks",
+      "Protests",
       "Victims",
-      "Protests"
+      "Psychological distress",
+      "Isolation",
+      "Landgrabbing",
+      "Cultural loss",
+      "Useless investment",
+      "Catastrophe",
+      "Extreme tourism",
+      "Transportation",
+      "Tourism",
+      "Luxury tourism",
+      "Environmental sustainability",
+      "Welfare",
+      "Education",
+      "Neuroscience",
+      "Utopian civilization",
+      "General knowledge",
+      "Socio-political",
+      "Design research",
+      "Media studies",
+      "Communication",
+      "Critical design",
+      "Critical theory",
+      "War",
+      "Health",
+      "Human rights",
+      "Structural failure",
+      "Touristification",
+      "Humanitarian and development studies",
+      "International relations and human rights",
+      "Social psychology",
+      "Political economy and public policy",
+      "Geopolitics and international relations",
+      "Energy engineering"
     ],
     "tags": [
-      "Infrastructure",
-      "Definition",
-      "Overtourism",
+      "Conflict",
       "Communication",
-      "Conflict"
+      "Overtourism",
+      "Definition",
+      "Infrastructure",
+      "Extreme tourism",
+      "Victims",
+      "Protests",
+      "War",
+      "Health",
+      "Human rights",
+      "Structural failure"
     ],
     "type": [
       "Source",
-      "Brief",
+      "Observation",
       "Research",
-      "Observation"
+      "Brief"
     ]
   }
 }
