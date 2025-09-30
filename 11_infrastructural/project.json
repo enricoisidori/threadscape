@@ -1057,10 +1057,10 @@
     },
     {
       "id": "ntg0e6es",
-      "x": 3118.569947421018,
-      "y": 6409.114210202811,
+      "x": 3121.8263732148816,
+      "y": 6254.433984994265,
       "w": 320,
-      "h": 165,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -1070,7 +1070,7 @@
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "Power grid is an infrastructure system that generates, transmits, and distributes electricity from power plants to homes, businesses, and industries. It ensures that electrical energy produced at power stations—such as those using fossil fuels, nuclear power, or renewable sources like wind and solar—can travel long distances and reach consumers safely and reliably.",
         "links": [],
         "files": []
       }
@@ -1351,7 +1351,7 @@
       "x": 4647.760245567347,
       "y": 5714.592267934148,
       "w": 320,
-      "h": 501,
+      "h": 502,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -1481,10 +1481,10 @@
     },
     {
       "id": "nziuwnz4",
-      "x": 5365.141594755823,
-      "y": 7967.3462785618585,
+      "x": 5305.141594755823,
+      "y": 8511.346278561858,
       "w": 320,
-      "h": 361,
+      "h": 338,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -1494,8 +1494,7 @@
         "mainArea": null,
         "areas": [
           "Neuroscience",
-          "Socio-political",
-          "General knowledge"
+          "Socio-political"
         ],
         "tags": [],
         "desc": "Neuroarchitecture is an interdisciplinary field that combines architecture, neuroscience, psychology, and ergonomics to study how built environments influence the brain, emotions, and human behavior.",
@@ -1775,8 +1774,8 @@
     },
     {
       "id": "nciqu5g8",
-      "x": 5349.175006720024,
-      "y": 4707.611606589162,
+      "x": 5113.175006720024,
+      "y": 2987.611606589162,
       "w": 320,
       "h": 492,
       "group": null,
@@ -1806,8 +1805,8 @@
     },
     {
       "id": "nwsqp9q5",
-      "x": 5823.994861536529,
-      "y": 3899.229084559767,
+      "x": 5819.994861536529,
+      "y": 2567.229084559767,
       "w": 320,
       "h": 538,
       "group": null,
@@ -1837,8 +1836,8 @@
     },
     {
       "id": "n8a7ft00",
-      "x": 5824.170487955527,
-      "y": 4468.095723278122,
+      "x": 5820.170487955527,
+      "y": 3136.095723278122,
       "w": 320,
       "h": 538,
       "group": null,
@@ -1868,8 +1867,8 @@
     },
     {
       "id": "nmfz7pcn",
-      "x": 5824.491549961203,
-      "y": 5035.236061269859,
+      "x": 5820.491549961203,
+      "y": 3703.2360612698594,
       "w": 320,
       "h": 532,
       "group": null,
@@ -1893,6 +1892,1045 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/image_217.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxihmoke",
+      "x": 5819.490669720626,
+      "y": 1986.1443705946363,
+      "w": 320,
+      "h": 565,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Vajont Dam",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Catastrophe"
+        ],
+        "tags": [],
+        "desc": "Vajont Dam. Date: Catastrophe, October 9, 1963 (Vajont disaster). Location: Erto e Casso / Longarone, Veneto, Italy. Actors: SADE/ENEL and planners, state/regional administrations, local populations; historical ambiguity regarding responsibility and technical omissions (later confirmed by trials). Introduction: During the filling of the reservoir, a gigantic landslide generated a wave that swept away the valleys below, causing nearly 2,000 deaths; a paradigmatic episode of geological underestimation and technocratic decisions without dialogue.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "image 209.png",
+            "size": 44716,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_209.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "naie8jn2",
+      "x": 6161.755077773562,
+      "y": 1984.2783087212338,
+      "w": 320,
+      "h": 587,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Dakota Access Pipeline",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "Dakota Access Pipeline (No DAPL / Standing Rock) Date: Main protests April 2016 – February 2017 (but broader impact). Location: North Dakota / routed through multiple US states. Actors: Standing Rock Sioux Tribe and other Native tribes, environmental activists, Energy Transfer Partners (proposer), federal government and agencies (Army Corps); ambiguity regarding consultations and respect for historic treaties. Introduction: Global mobilization against pipeline construction near sacred sites and water sources; symbolic episode of the assertion of indigenous rights against energy infrastructure.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-09-29_alle_11.42.53.jpg",
+            "size": 239731,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-29_alle_11.42.53.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nk628c7w",
+      "x": 6161.778896667685,
+      "y": 2592.7091649435993,
+      "w": 320,
+      "h": 638,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Narita Airport ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "Narita Airport (Sanrizuka struggle, Japan) Date: Conflict from 1966; construction and opening in 1978 (but protests continued). Location: Sanrizuka/Chiba, near Tokyo, Japan. Actors: Farmers and local residents (Sanrizuka), student and leftist groups, Japanese government and police, Narita International Airport Corporation; ambiguity regarding the radicalization of the protests and violence. Introduction: Extremely violent opposition by farmers and leftist groups against expropriations and lack of consultation: occupations, clashes, extreme acts, and years of instability during construction.\n",
+        "links": [
+          "https://en.wikipedia.org/wiki/Sanrizuka_Struggle?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "Screenshot_2025-09-29_alle_11.47.32.jpg",
+            "size": 287168,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-29_alle_11.47.32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nt1eoplw",
+      "x": 6164.323307849175,
+      "y": 3245.4178167275068,
+      "w": 320,
+      "h": 588,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Three Gorges Dam",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests",
+          "Landgrabbing"
+        ],
+        "tags": [],
+        "desc": "Three Gorges Dam. Date: Main construction 1994–2006; turbines fully operational until 2012. Location: Yangtze, Sandouping (Hubei), China. Stakeholders: Chinese government/China Three Gorges Corp., displaced local populations, environmentalists, scientific community; ambiguity surrounding precise displacement estimates and long-term impacts. Introduction: The world's largest hydroelectric power plant by installed capacity; it has provided flood control and power, but also the displacement of over a million people and the loss of cultural/environmental sites.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-09-29_alle_10.14.20.jpg",
+            "size": 312217,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-29_alle_10.14.20.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncbltg5v",
+      "x": 5824.042929695618,
+      "y": 4247.739269073591,
+      "w": 320,
+      "h": 592,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Standard Gauge Railway",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests",
+          "Landgrabbing"
+        ],
+        "tags": [],
+        "desc": "Standard Gauge Railway (Kenya, Mombasa–Nairobi SGR) Date: Construction and commissioning 2013–2017 (first phase completed 2017). Location: Kenya (Mombasa–Nairobi and branches). Stakeholders: Kenyan government, Chinese companies (CPC/CRBC), port operators, local communities, environmentalists; ambiguity regarding government-to-government contractual terms, debt, and environmental impacts (including on parks). Introduction: Modern line intended to connect the port and the capital; has raised concerns regarding expropriation, land use, impacts on wildlife, and financial sustainability.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "image_168.jpg",
+            "size": 143870,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_168.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmwf8j2i",
+      "x": 6164.064670031554,
+      "y": 3861.3385793168445,
+      "w": 320,
+      "h": 659,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Turkish Dams (GAP and Ilısu)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests",
+          "Landgrabbing",
+          "Cultural loss"
+        ],
+        "tags": [],
+        "desc": "Turkish Dams on the Tigris and Euphrates (GAP/Ilısu - Hasankeyf Projects) Date: GAP project launched in the 1970s; Ilısu and related works active 2006–2020 (impoundment 2019–2020). Location: Southeast Turkey (Turkish Kurdistan), Tigris and Euphrates basins; submerged ancient city of Hasankeyf. Stakeholders: Turkish government (energy and irrigation projects), Kurdish and local communities, archaeologists/international NGOs; ambiguity regarding the balance between water/energy security and heritage protection. Introduction: Part of a broad regional development program (GAP) that has led to expropriations, forced displacement, and the loss of millennia-old sites (Hasankeyf), sparking national and international protests.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-09-29_alle_12.43.50.jpg",
+            "size": 326300,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-29_alle_12.43.50.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxq10een",
+      "x": 6506.317198818068,
+      "y": 1973.3153311275205,
+      "w": 320,
+      "h": 597,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Pan-American Highway / Darien Gap",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Pan-American Highway / Darien Gap. Data: Road system development began in the 20th century; the Darien Gap remains incomplete (historical strategic absence). Location: From the Americas—a natural gap in the Darién (Panama-Colombia). Stakeholders: National governments, local indigenous communities, environmentalists; ambiguity between commercial connectivity and ecological/indigenous protection interests. Introduction: The decision not to cross the Darién—for technical, environmental, and indigenous protection reasons—has preserved an ecological barrier; it is an example of “missing infrastructure” driven by conflicts and evaluations.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "image 213.png",
+            "size": 36119,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_213.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nulybvfi",
+      "x": 6506.636868170414,
+      "y": 2586.5516005245504,
+      "w": 320,
+      "h": 622,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Narmada Dam and Narmada Bachao Andolan ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "Narmada Dam and Narmada Bachao Andolan (India) Date: Decision-making process and construction from 1960–2000; significant mobilizations from 1985 onwards. Location: Narmada River basin (states of Madhya Pradesh, Gujarat, Maharashtra), India. Actors: State and central governments, World Bank at some stages, movements led by Medha Patkar/Baba Amte, tribal and peasant communities; ambiguity regarding displacement figures and compensation arrangements. Introduction: A series of large dams (including Sardar Sarovar) that sparked one of India's best-known social resistance movements, echoing issues of development versus indigenous rights.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "image 218.png",
+            "size": 39432,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_218.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1qras43",
+      "x": 6506.46021151747,
+      "y": 3232.6929746090677,
+      "w": 320,
+      "h": 639,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Israel–Palestine Separation Wall (West Bank Barrier) ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Human rights"
+        ],
+        "tags": [],
+        "desc": "Israel–Palestine Separation Wall (West Bank Barrier) Date: Construction began in the early 2000s (after 2002); development and continuous sections. Location: Occupied West Bank territory / de facto borders. Actors: Israeli government, Palestinian authorities and Palestinian populations, international community/NGOs; ambiguity over security rationale vs. impact on rights and political future. Introduction: Barrier defended by Israel as a security measure; denounced by numerous international institutions as a tool that limits freedom of movement and de facto annexes territory. \n",
+        "links": [
+          "https://en.wikipedia.org/wiki/West_Bank_barrier?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "image 220.png",
+            "size": 39692,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_220.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2ady6kg",
+      "x": 6504.651691984903,
+      "y": 3894.6111235287026,
+      "w": 320,
+      "h": 701,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Belo Monte Dam",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Landgrabbing",
+          "Protests",
+          "Human rights"
+        ],
+        "tags": [],
+        "desc": "Belo Monte Dam (Brazil). Date: Ten-year project phases (since the 1970s); construction intensified in the 2000s; partially operational since 2016. Location: Xingu River, Pará, Amazon, Brazil. Stakeholders: Brazilian government, energy companies, indigenous peoples and local rebels, environmental NGOs; ambiguity regarding the number of displaced people and energy balance vs. ecological impacts. Introduction: One of the most contested hydroelectric projects in the Amazon: large submerged areas, displacement of indigenous communities, and international legal and political battles. \n",
+        "links": [
+          "https://www.aljazeera.com/features/2012/1/20/dam-it-brazils-belo-monte-stirs-controversy?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "image 215.png",
+            "size": 32816,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_215.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0lcx8mv",
+      "x": 6849.898783924073,
+      "y": 1979.7076306937297,
+      "w": 320,
+      "h": 689,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "“Tren (or Tren) Maya” Railway Project",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Landgrabbing",
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "“Tren (or Tren) Maya” Railway Project (Mexico). Date: Planning and construction start 2018–2023; sections partially opened/operational from 2023. Location: Yucatán Peninsula (states: Quintana Roo, Yucatán, Campeche, Tabasco, Chiapas). Stakeholders: Mexican government (AMLO), construction companies, indigenous Mayan communities, environmentalists, scientists/UNESCO; ambiguity regarding effective consultation and damage to biospheres/karst cavities. Introduction: A major tourism and regional development project that has sparked protests over environmental impacts, expropriation, and the failure to protect archaeological sites and local communities.",
+        "links": [
+          "https://news.mongabay.com/2024/06/riding-the-tren-maya-a-journey-on-mexicos-controversial-new-railway-line/?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "image 217.png",
+            "size": 38936,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_217.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ns46p3tt",
+      "x": 6845.187198162651,
+      "y": 2683.221695742255,
+      "w": 320,
+      "h": 662,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "HS2 High-Speed ​​Rail ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "HS2 High-Speed ​​Rail (UK). Date: Project approved in the 2010s; intense construction and protests, especially from 2017–2024 (and beyond). Location: Great Britain (London → Midlands → North). Actors: UK government, construction companies, local communities and environmental groups (tree activists, anti-HS2 camps), local authorities; ambiguity over economic benefits vs. destruction of forests/landscapes. Introduction: Project intended to connect regions and “balance” the country; has met with strong opposition due to its impact on ancient forests, costs, and long-term benefits.",
+        "links": [
+          "https://www.theguardian.com/uk-news/2020/jun/13/rise-in-injunctions-against-hs2-protesters?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "image 204.png",
+            "size": 40298,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_204.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nq08g7td",
+      "x": 6843.578874514171,
+      "y": 3364.1204397880165,
+      "w": 320,
+      "h": 661,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Montalto di Castro Nuclear Power Plant ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests",
+          "Useless investment"
+        ],
+        "tags": [],
+        "desc": "Montalto di Castro Nuclear Power Plant (Italy). Date: Construction began 1982; halted after 1987 referendum (Chernobyl → political decision) — never entered into operation. Location: Montalto di Castro, Lazio, Italy. Actors: ENEL (proponent), government, anti-nuclear movements, public opinion (referendum); ambiguity over economic losses vs. post-Chernobyl democratic choice. Introduction: Nearing completion, the plant was halted by the national referendum that ended Italy's nuclear expansion in the 1980s; an exemplary case of direct democracy blocking an infrastructure. \n",
+        "links": [
+          "https://en.wikipedia.org/wiki/Montalto_di_Castro_Nuclear_Power_Station?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "image 209b.png",
+            "size": 38190,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_209b.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlqu5h42",
+      "x": 6846.189556937042,
+      "y": 4043.3399930070027,
+      "w": 320,
+      "h": 628,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Suez Canal ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Human rights"
+        ],
+        "tags": [],
+        "desc": "Suez Canal (19th century). Date: Construction 1859–1869; inauguration November 17, 1869. Location: Isthmus of Suez, Egypt. Actors: European companies (Ferdinand de Lesseps / Compagnie universelle du canal), Egyptian authorities (viceroy), local forced laborers (corvée), colonial powers; historical ambiguity regarding actual deaths and working conditions (estimates vary). Introduction: A work that revolutionized global maritime trade; built with strong European intervention and the use of massive labor, sources differ on human losses and social cost. \n",
+        "links": [
+          "https://en.wikipedia.org/wiki/Suez_Canal?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "image 210.png",
+            "size": 37921,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_210.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ne4w6x4w",
+      "x": 7202.764171296195,
+      "y": 1980.7239161208754,
+      "w": 320,
+      "h": 639,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Aswan High Dam ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Landgrabbing",
+          "Human rights",
+          "Cultural loss"
+        ],
+        "tags": [],
+        "desc": "Aswan High Dam (Egypt). Date: Construction 1960–1970 (completion 1970; filling and operation until the 1970s). Location: Aswan, Egypt (Nile). Actors: Egyptian government (Nasser), Soviet Union (support/funding), displaced Nubian populations, scientific communities, and UNESCO (Abu Simbel rescue); ambiguity over economic benefits vs. cultural loss and environmental impacts. Introduction: A national project symbolizing modernization (power and flood control) that solved many water issues but resulted in the relocation of tens of thousands of Nubians and the submergence of historic sites (international archaeological rescues).\n",
+        "links": [],
+        "files": [
+          {
+            "name": "image 214.png",
+            "size": 31223,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_214.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nyt0d61t",
+      "x": 7203.837301269176,
+      "y": 2656.7872334845406,
+      "w": 320,
+      "h": 662,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Atatürk Airport / New Istanbul Airport (Turkey).",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Protests",
+          "Victims"
+        ],
+        "tags": [],
+        "desc": "Atatürk Airport / New Istanbul Airport (Turkey). Date: New airport project started 2010s; opening and relocation 2018; protests documented primarily 2017–2018. Location: Istanbul, Turkey. Actors: Turkish government (major state project), construction companies, workers (complaints about conditions), unions, and NGOs; ambiguity about actual number of accidents/deaths and transparency. Introduction: The new airport has become a symbol of modernization but also of human costs (rapid working conditions, reported fatalities) and deforestation. \n",
+        "links": [
+          "https://www.irishtimes.com/news/world/europe/rush-to-finish-istanbul-airport-leads-to-deaths-and-protests-1.3651616?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "image 205.png",
+            "size": 39715,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_205.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nx9rwbkg",
+      "x": 7201.499172108074,
+      "y": 3349.214915941643,
+      "w": 320,
+      "h": 676,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Trans-Amazonian Highway (BR-230, Brazil)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Landgrabbing",
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "Trans-Amazonian Highway (BR-230, Brazil). Date: Construction early 1970s (military regime), subsequent expansions; incomplete and amplifying deforestation. Location: Brazilian Amazon (various portions of BR-230). Actors: Brazilian military government, settlers, agribusiness/mining companies, indigenous peoples, environmentalists; ambiguity between development slogans and actual environmental impacts. Introduction: Colonial initiative to open up the Amazon that fueled waves of deforestation, settlements, and conflicts with indigenous peoples; symbol of an infrastructure that transformed the territory. \n",
+        "links": [
+          "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/trans-amazonian-highway?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "image 208.png",
+            "size": 44743,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_208.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nd7mba5z",
+      "x": 7203.079250176513,
+      "y": 4051.370722488028,
+      "w": 320,
+      "h": 712,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Guatemala Highway Corridor (CA-9 and related projects)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Landgrabbing",
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "Guatemala Highway Corridor (CA-9 and related projects). Date: Various projects and construction over the past decades; recurring tensions (blockades and protests, especially 2010s–2020s). Location: Guatemala (port-inland connections). Actors: Guatemalan government, infrastructure companies, indigenous communities (Maya), social movements and land defense; ambiguity regarding consultation and respect for collective rights. Introduction: Connectivity projects often cross indigenous territories without adequate consultation: communities have organized blockades, assemblies, and protests to demand the right to consultation and land.\n",
+        "links": [
+          "https://amnesty.ca/urgent-actions/guatemala-peaceful-protesters-face-imminent-risk/?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "image 212.png",
+            "size": 35817,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_212.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nd26bnkn",
+      "x": 5781.6693113908095,
+      "y": 9198.548826414786,
+      "w": 320,
+      "h": 742,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "San Vittore Prison",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Structural failure",
+          "Isolation"
+        ],
+        "tags": [],
+        "desc": "Infrastructure= prisons, facilities for managing social issues\n\nConflict = the infrastructure itself is the conflict (often invisible, prisons are located in hidden locations; it is a mirror of a dysfunctional society, which few, however, want to address).\n\nStructural failure: social structure that, rather than managing the problem, becomes a catalyst for crisis (overcrowding at 247%, the facility can no longer guarantee humane living conditions).\n\nIsolation: lack of human resources to support the maintenance and health of inmates + lack of bureaucracy",
+        "links": [
+          "https://www.internazionale.it/reportage/luigi-mastrodonato/2025/07/22/carcere-italia-san-vittore"
+        ],
+        "files": [
+          {
+            "name": "298598-hd.jpg",
+            "size": 561622,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/298598-hd.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrsjpvrv",
+      "x": 5777.222469673538,
+      "y": 7615.8972614035665,
+      "w": 320,
+      "h": 795,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Pruitt-Igoe residential complex",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Structural failure",
+          "Protests",
+          "Isolation"
+        ],
+        "tags": [],
+        "desc": "The Pruitt–Igoe complex was a massive public housing project in St. Louis, Missouri, designed by architect Minoru Yamasaki and completed in 1955. It consisted of 33 eleven-story high-rise buildings with nearly 3,000 apartments, intended to provide modern, affordable housing for low-income residents after World War II.\n\nInitially celebrated as a symbol of urban renewal, Pruitt–Igoe soon faced serious problems, including poor maintenance, crime, poverty, and social isolation, worsened by inadequate funding and flawed design. By the late 1960s, many units were abandoned, and the complex became a national example of failed public housing policy. Beginning in 1972, the buildings were systematically demolished, marking one of the most famous collapses of modernist architecture and urban planning ideals in the United States.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 222.png",
+            "size": 80920,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_222.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nel0wud6",
+      "x": 5787.7485383813755,
+      "y": 8438.373461347855,
+      "w": 320,
+      "h": 741,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Hulme Crescents Notorious residential complex",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Structural failure",
+          "Isolation",
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "The Hulme Crescents were a vast public housing development in Manchester, England, completed in 1972 as part of a postwar urban renewal plan. Consisting of four massive curved concrete blocks with deck-access walkways, they were intended to provide modern, affordable homes inspired by the elegance of Georgian architecture.\n\nDespite their ambitious design, the Crescents quickly suffered from poor construction, damp, heating problems, and rising crime, while their elevated walkways created isolation and safety concerns. Within just a few years many residents demanded rehousing, and the complex gained a reputation for neglect and danger. By the early 1990s the buildings were largely abandoned, and between 1993 and 1995 the entire development was demolished, becoming a symbol of failed modernist housing policy in the UK.",
+        "links": [],
+        "files": [
+          {
+            "name": "crescents1.jpg",
+            "size": 384098,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/crescents1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nptgyng1",
+      "x": 6638.145113724535,
+      "y": 8471.238614907114,
+      "w": 320,
+      "h": 507,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Common critical point in infrastructural projects",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "FUNCTION – Expression of intent by individuals or authorities that can create conflicts of interest within society.\n\nPLANNING – Organizational problems, such as the urgent need for a facility that cannot be built in time.\n\nDESIGN – Architectural choices that clash with the intended function, for example buildings poorly suited to their environment or use.\n\nCONSTRUCTION – Environmental and social issues related to the location or size of the infrastructure.\n\nUSE – A gap between the project’s concept and its realization, leaving users dissatisfied.\n\nDEGRADATION – Abandonment and disuse of infrastructures, leading to wasted resources.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n82fpx6s",
+      "x": 6150.51015995356,
+      "y": 7635.280201963766,
+      "w": 320,
+      "h": 683,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Grenfell Tower (London, 2017)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Victims",
+          "Psychological distress"
+        ],
+        "tags": [],
+        "desc": "Grenfell Tower (London, 2017)\n\nProblem: Fire caused by combustible cladding, resulting in 72 deaths.\n\nPsychological effects: Survivors and residents of nearby blocks reported post-traumatic stress disorder (PTSD), anxiety, insomnia, and fire-related phobias.\n\nLegal relevance: The UK government recognized the need for long-term psychological support for former residents.",
+        "links": [],
+        "files": [
+          {
+            "name": "Grenfell_Tower_fire_(wider_view).jpg",
+            "size": 322935,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Grenfell_Tower_fire_(wider_view).jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "no4eyezz",
+      "x": 6148.581371635434,
+      "y": 8354.02604794899,
+      "w": 320,
+      "h": 599,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Citicorp Center (New York, 1970s)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Psychological distress",
+          "Structural failure"
+        ],
+        "tags": [],
+        "desc": "Citicorp Center (New York, 1970s)\n\nProblem: It was discovered that the building could collapse in the event of strong winds.\n\nPsychological effects: When the news became public, tenants reported chronic anxiety and fear of working on the upper floors—even after repairs.",
+        "links": [],
+        "files": [
+          {
+            "name": "citigroup_center_from_ground.jpg",
+            "size": 3045727,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/citigroup_center_from_ground.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbeko8lm",
+      "x": 6144.694773662868,
+      "y": 8968.260496844056,
+      "w": 320,
+      "h": 840,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "John Hancock Tower (Boston, 1970s)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Psychological distress",
+          "Structural failure"
+        ],
+        "tags": [],
+        "desc": "John Hancock Tower (Boston, 1970s)\n\nProblem: Glass panels detached and fell.\n\nPsychological effects: Workers and passersby spoke of “constant terror” and “killer glass panic,” and many avoided walking beneath the building.",
+        "links": [],
+        "files": [
+          {
+            "name": "gettyimages-630654794-1024x1024.jpg",
+            "size": 149133,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/gettyimages-630654794-1024x1024.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nyqc0oi8",
+      "x": 7059.249692736437,
+      "y": 8321.95478951182,
+      "w": 320,
+      "h": 305,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Infrastructural limits",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Infrastructure becomes a means and place for bureaucratic decisions\n\nLike\nAccessibility to hospitals\nAccessibility to bunkers\nAccessibility to prisons",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nc4eohy6",
+      "x": 7059.249692736437,
+      "y": 8653.539961644776,
+      "w": 320,
+      "h": 305,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Infrastructures that feed social conflict",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Infrastructure, depending on how and where it is built, can create or accentuate social conflict by increasing social isolation, discrimination, poverty, and crime.\nThis phenomenon often occurs with spatial renewal policies, such as those in Scampia, Pruitt-Igoe, and Hulme Crescents\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nb3orf5u",
+      "x": 7061.682276756842,
+      "y": 8976.150767037872,
+      "w": 320,
+      "h": 356,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Infrastructures that increase war conflict",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "These are infrastructures that are built specifically for war or infrastructures that, if manipulated, can be used as a weapon fueling conflict.\nSuch as\nTrade routes (e.g., the Silk Road, tariffs, etc.)\nGas in Russia\nTariffs as an economic logistics infrastructure\nArms trafficking fuels wars\nSoldier transportation\nFood transportation",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nhhopwqp",
+      "x": 7531.468337643931,
+      "y": 8619.093450929135,
+      "w": 320,
+      "h": 558,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "Grim milestone on World Humanitarian Day",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "War",
+          "Victims",
+          "Health"
+        ],
+        "tags": [],
+        "desc": "WHO records 1940 attacks on healthcare in Ukraine since the start of full-scale war.\n→ Systematic data on attacks on healthcare facilities, their impact on primary and secondary services, and consequences for patients and medical staff. Useful for documenting the phenomenon of healthcare attacks as a war strategy/effect.\n",
+        "links": [
+          "https://www.who.int/europe/news/item/19-08-2024-grim-milestone-on-world-humanitarian-day--who-records-1940-attacks-on-health-care-in-ukraine-since-start-of-full-scale-war?"
+        ],
+        "files": [
+          {
+            "name": "image 91.png",
+            "size": 64022,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_91.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nuycbuoq",
+      "x": 7533.332157228424,
+      "y": 9192.591479915247,
+      "w": 320,
+      "h": 676,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "Russian attacks on Ukraine power grid",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "War",
+          "Human rights"
+        ],
+        "tags": [],
+        "desc": "Russian attacks on Ukraine power grid likely violate humanitarian law, says UN\n→ The UN has declared that repeated Russian attacks on Ukraine's power grid between March and August 2024 likely violate international humanitarian law. The attacks on energy infrastructure have left entire cities without power, compromising water, heating, and essential services. Blackouts of up to 18 hours a day are expected. Kiev and its allies consider them war crimes, while Moscow maintains they are legitimate military targets.",
+        "links": [
+          "https://www.reuters.com/world/europe/russian-attacks-ukraine-power-grid-probably-violate-humanitarian-law-says-un-2024-09-19/?"
+        ],
+        "files": [
+          {
+            "name": "image 97.png",
+            "size": 35791,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_97.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbfhg9ml",
+      "x": 7886.620378514631,
+      "y": 8620.374802074564,
+      "w": 320,
+      "h": 733,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "EU: Russian gas phase-out, end of imports by 2027",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "War",
+          "Protests"
+        ],
+        "tags": [],
+        "desc": "→ The EU wants to reduce dependence on Russian gas: starting in 2026, a halt to new contracts and the use of LNG terminals for Russian customers, and from 2028, long-term contracts. Each country will have to plan alternatives to avoid energy crises. But the construction of new infrastructure creates tensions: local protests, conflicts between states, and a clash between energy security and ecological transition.\n\nGas pipelines such as Nord Stream 1 and 2 have made Europe dependent on Russian supplies for approximately 40% of its gas needs, giving Russia bargaining and political power over it.",
+        "links": [
+          "https://www.rinnovabili.it/energia/infrastrutture/phase-out-del-gas-russo-date-divieti-regolamento-ue/"
+        ],
+        "files": [
+          {
+            "name": "image 224.png",
+            "size": 54468,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_224.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0bod6hg",
+      "x": 7888.600683699377,
+      "y": 9368.847788526266,
+      "w": 320,
+      "h": 538,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "Yemen's water situation",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Health",
+          "War",
+          "Human rights"
+        ],
+        "tags": [],
+        "desc": "Yemen faces a severe water crisis: war, poor infrastructure, and excessive consumption for qat cultivation have drastically reduced access to drinking water. The lack of safe water has led to epidemics, such as cholera. The ICRC is responding by repairing wells and water networks, distributing water and treatment supplies, and supporting millions of people each year.\n",
+        "links": [
+          "https://www.icrc.org/en/document/water-situation-yemen?"
+        ],
+        "files": [
+          {
+            "name": "image 99.png",
+            "size": 83110,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_99.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njaxkv8q",
+      "x": 8239.854446531845,
+      "y": 8622.065649174358,
+      "w": 320,
+      "h": 642,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "Conflict Resilience of Water and Energy Supply Infrastructure: Insights from Yemen",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "War",
+          "Health",
+          "Human rights",
+          "Structural failure"
+        ],
+        "tags": [],
+        "desc": "→ Examines the resilience of water and energy infrastructure in Yemen during the armed conflict that began in 2015. It analyzes the adaptive responses of communities and public institutions to disruptions and shortages in the water and energy sectors, critically assessing these responses from the perspective of infrastructure resilience in conflict contexts.\n",
+        "links": [
+          "https://www.icrc.org/en/document/water-situation-yemen?"
+        ],
+        "files": [
+          {
+            "name": "image 100.png",
+            "size": 83089,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_100.jpg"
           }
         ]
       }
@@ -2513,10 +3551,199 @@
       "s": "nciqu5g8",
       "t": "nmfz7pcn",
       "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nxihmoke",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "naie8jn2",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nk628c7w",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nt1eoplw",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "ncbltg5v",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nmwf8j2i",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nxq10een",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nulybvfi",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "n1qras43",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "n2ady6kg",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "n0lcx8mv",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "ns46p3tt",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nq08g7td",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nlqu5h42",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "ne4w6x4w",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nx9rwbkg",
+      "dashed": false
+    },
+    {
+      "s": "nciqu5g8",
+      "t": "nd7mba5z",
+      "dashed": false
+    },
+    {
+      "s": "nziuwnz4",
+      "t": "nd26bnkn",
+      "dashed": false
+    },
+    {
+      "s": "nziuwnz4",
+      "t": "nrsjpvrv",
+      "dashed": false
+    },
+    {
+      "s": "nziuwnz4",
+      "t": "nel0wud6",
+      "dashed": false
+    },
+    {
+      "s": "nrsjpvrv",
+      "t": "nptgyng1",
+      "dashed": false
+    },
+    {
+      "s": "nel0wud6",
+      "t": "nptgyng1",
+      "dashed": false
+    },
+    {
+      "s": "nd26bnkn",
+      "t": "nptgyng1",
+      "dashed": false
+    },
+    {
+      "s": "nziuwnz4",
+      "t": "n82fpx6s",
+      "dashed": false
+    },
+    {
+      "s": "n82fpx6s",
+      "t": "nptgyng1",
+      "dashed": false
+    },
+    {
+      "s": "nziuwnz4",
+      "t": "no4eyezz",
+      "dashed": false
+    },
+    {
+      "s": "no4eyezz",
+      "t": "nptgyng1",
+      "dashed": false
+    },
+    {
+      "s": "nziuwnz4",
+      "t": "nbeko8lm",
+      "dashed": false
+    },
+    {
+      "s": "nbeko8lm",
+      "t": "nptgyng1",
+      "dashed": false
+    },
+    {
+      "s": "nptgyng1",
+      "t": "nyqc0oi8",
+      "dashed": false
+    },
+    {
+      "s": "nptgyng1",
+      "t": "nc4eohy6",
+      "dashed": false
+    },
+    {
+      "s": "nptgyng1",
+      "t": "nb3orf5u",
+      "dashed": false
+    },
+    {
+      "s": "nb3orf5u",
+      "t": "nhhopwqp",
+      "dashed": false
+    },
+    {
+      "s": "nb3orf5u",
+      "t": "nuycbuoq",
+      "dashed": false
+    },
+    {
+      "s": "nb3orf5u",
+      "t": "nbfhg9ml",
+      "dashed": false
+    },
+    {
+      "s": "nb3orf5u",
+      "t": "n0bod6hg",
+      "dashed": false
+    },
+    {
+      "s": "nb3orf5u",
+      "t": "njaxkv8q",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Structural failure",
+      "Human rights",
+      "Health",
+      "War",
       "Critical theory",
       "Critical design",
       "Communication",
@@ -2532,10 +3759,16 @@
       "Luxury tourism",
       "Touristification",
       "Tourism",
-      "War",
       "Transportation",
-      "Protests",
-      "Extreme tourism"
+      "Extreme tourism",
+      "Catastrophe",
+      "Useless investment",
+      "Cultural loss",
+      "Landgrabbing",
+      "Isolation",
+      "Psychological distress",
+      "Victims",
+      "Protests"
     ],
     "tags": [
       "Infrastructure",
@@ -2545,9 +3778,10 @@
       "Conflict"
     ],
     "type": [
+      "Source",
       "Brief",
       "Research",
-      "Source"
+      "Observation"
     ]
   }
 }
