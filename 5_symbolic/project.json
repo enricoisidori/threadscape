@@ -46,7 +46,7 @@
       "h": 322,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Linguistic conflict",
         "type": "Brief",
         "action": null,
@@ -79,7 +79,7 @@
       "h": 344,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Media conflict",
         "type": "Brief",
         "action": null,
@@ -112,7 +112,7 @@
       "h": 344,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Cognitive conflict",
         "type": "Brief",
         "action": null,
@@ -144,7 +144,7 @@
       "h": 344,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Metric conflict",
         "type": "Brief",
         "action": null,
@@ -174,14 +174,14 @@
       "x": 480,
       "y": 1514,
       "w": 320,
-      "h": 299,
+      "h": 379,
       "group": null,
       "data": {
-        "date": "2025-09-19",
-        "title": "Symbolic conflict",
+        "date": "2025-09-16",
+        "title": "Symbolic Conflict (Brief)",
         "type": "Brief",
-        "action": null,
-        "mainArea": null,
+        "action": "Exploring",
+        "mainArea": "Speculation",
         "areas": [
           "Cultural studies",
           "Art history",
@@ -190,14 +190,11 @@
           "Semiotics"
         ],
         "tags": [
-          "Cultural memory",
-          "Heritage politics",
-          "Myth-making",
-          "Iconographic power",
-          "Narrative hegemony",
-          "Semiotic infrastructures"
+          "Brief",
+          "Research",
+          "Starting point"
         ],
-        "desc": "",
+        "desc": "Launch of the brief: our group is assigned the theme of symbolic conflict. This type of conflict does not take place through direct confrontation, but through signs, symbols, and representations. It reflects tensions expressed in cultural, social, or artistic forms rather than physical clashes.",
         "links": [],
         "files": []
       }
@@ -205,12 +202,12 @@
     {
       "id": "n92sunmm",
       "x": 480,
-      "y": 1853,
+      "y": 1933,
       "w": 320,
       "h": 299,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Cultural conflict",
         "type": "Brief",
         "action": null,
@@ -237,12 +234,12 @@
     {
       "id": "n3vsqfai",
       "x": 480,
-      "y": 2192,
+      "y": 2272,
       "w": 320,
       "h": 299,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Social conflict",
         "type": "Brief",
         "action": null,
@@ -269,12 +266,12 @@
     {
       "id": "ncob3sst",
       "x": 480,
-      "y": 2531,
+      "y": 2611,
       "w": 320,
       "h": 344,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Bureaucratic conflict",
         "type": "Brief",
         "action": null,
@@ -301,12 +298,12 @@
     {
       "id": "ne7rohui",
       "x": 480,
-      "y": 2915,
+      "y": 2995,
       "w": 320,
       "h": 322,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Digital conflict",
         "type": "Brief",
         "action": null,
@@ -334,12 +331,12 @@
     {
       "id": "nr86jk3r",
       "x": 480,
-      "y": 3277,
+      "y": 3357,
       "w": 320,
       "h": 322,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Ecological conflict",
         "type": "Brief",
         "action": null,
@@ -367,12 +364,12 @@
     {
       "id": "nvlahv4k",
       "x": 480,
-      "y": 3639,
+      "y": 3719,
       "w": 320,
       "h": 344,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Infrastructural conflict",
         "type": "Brief",
         "action": null,
@@ -392,6 +389,669 @@
           "Extractive systems"
         ],
         "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nycew3dj",
+      "x": 960,
+      "y": 0,
+      "w": 320,
+      "h": 283,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "People align under symbols",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Research"
+        ],
+        "desc": "During conflicts, individuals tend to group under meaningful symbols, shaping alliances and oppositions.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nrnpr0yf",
+      "x": 960,
+      "y": 323,
+      "w": 320,
+      "h": 283,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Symbols generate debate",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Research"
+        ],
+        "desc": "Symbols loaded with meaning often spark discussion and disagreement, acting as focal points in symbolic conflict.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmwwpwnl",
+      "x": 960,
+      "y": 646,
+      "w": 320,
+      "h": 266,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Conflict as clash of ideas",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Research"
+        ],
+        "desc": "Conflict as a clash of ideas, and not, for example, over territory",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwibqee3",
+      "x": 1440,
+      "y": 0,
+      "w": 320,
+      "h": 283,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Sport Rivalries",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic alignment"
+        ],
+        "tags": [
+          "Research",
+          "Sport",
+          "Society",
+          "Case study"
+        ],
+        "desc": "Examples of sports teams acting as symbols, with fans aligning under them.\nInter-Milan, Real Madrid-Barcelona, Celtic-Rangers",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1gqdqrd",
+      "x": 1440,
+      "y": 323,
+      "w": 320,
+      "h": 289,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Religious Symbols in State Spaces",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic meaning"
+        ],
+        "tags": [
+          "Research",
+          "Religion",
+          "Politics",
+          "Society",
+          "Case study"
+        ],
+        "desc": "Instances where religious symbols in public spaces spark public debate and disagreement.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ny057e0e",
+      "x": 1440,
+      "y": 652,
+      "w": 320,
+      "h": 306,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Iconoclasm",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic meaning"
+        ],
+        "tags": [
+          "Research",
+          "Politics",
+          "Religion",
+          "History",
+          "Case study"
+        ],
+        "desc": "The rejection, destruction, or opposition to religious images, icons, or established symbols, often as a way to challenge authority or dominant beliefs",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4k7elg8",
+      "x": 1440,
+      "y": 998,
+      "w": 320,
+      "h": 266,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Witch Hunts",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic alignment"
+        ],
+        "tags": [
+          "Research",
+          "History",
+          "Case study"
+        ],
+        "desc": "Conflicts where accusations were framed around symbolic roles (witches) aligning social groups.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nud1gqen",
+      "x": 1440,
+      "y": 1304,
+      "w": 320,
+      "h": 266,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Celebrities as Symbols",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic alignment"
+        ],
+        "tags": [
+          "Research",
+          "Society",
+          "Case study"
+        ],
+        "desc": "Celebrities often become symbolic figures, causing people to align in support or opposition.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nt8ipxxe",
+      "x": 1440,
+      "y": 1610,
+      "w": 320,
+      "h": 322,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Appropriation of Symbols",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic meaning"
+        ],
+        "tags": [
+          "Research",
+          "Politics",
+          "Religion",
+          "History",
+          "Case study"
+        ],
+        "desc": "Appropriation occurs when a group adopts symbols from another culture, or when a symbol shifts away from its original meaning and becomes associated with a new one.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n61g93ev",
+      "x": 1440,
+      "y": 1972,
+      "w": 320,
+      "h": 322,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Mythology",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Ideation"
+        ],
+        "tags": [
+          "Research",
+          "Society",
+          "History",
+          "Religion",
+          "Case study"
+        ],
+        "desc": "Myths and legends:\nSymbolic stories that address fundamental universal conflicts, offering meaning and guidance through shared narratives",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nf9jfdv9",
+      "x": 1440,
+      "y": 2334,
+      "w": 320,
+      "h": 300,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "National Symbols",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic meaning"
+        ],
+        "tags": [
+          "Research",
+          "Society",
+          "Case study"
+        ],
+        "desc": "National symbols represent collective identity and pride. An attack on these symbols is often perceived as an attack on the nation itself.\nPineapple on pizza, vegan carbonara.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nin2fvd1",
+      "x": 1440,
+      "y": 2674,
+      "w": 320,
+      "h": 322,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Religious symbolism",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic meaning"
+        ],
+        "tags": [
+          "Research",
+          "Society",
+          "Religion",
+          "History",
+          "Case study"
+        ],
+        "desc": "Set of signs that highlight the core aspects of faith, encompassing identity, belonging, and values. Because they convey deep meanings, religious symbols have also become a ground for conflict.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njp8qsr3",
+      "x": 1440,
+      "y": 3036,
+      "w": 320,
+      "h": 283,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Subcultural Conflicts",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic alignment"
+        ],
+        "tags": [
+          "Research",
+          "Society",
+          "Case study"
+        ],
+        "desc": "Conflicts between subcultures often emerge from alignment under distinctive symbols and aesthetics\nPunk vs Paninari, Emo vs Truzzi",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6wcova4",
+      "x": 1920,
+      "y": 0,
+      "w": 320,
+      "h": 452,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Transculturation of Symbols",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Moodboard",
+          "Transculturation",
+          "Semiotics"
+        ],
+        "desc": "Exploring how symbols migrate across cultures, get re-appropriated, and lose or shift their original meanings.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-09-22 at 16.39.06.jpeg",
+            "size": 270663,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-09-22_at_16.39.06.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3ktfmhq",
+      "x": 1920,
+      "y": 492,
+      "w": 320,
+      "h": 448,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Group Aesthetics and Identities (Subcultures)",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Moodboard"
+        ],
+        "desc": "Investigating how aesthetics and symbols structure subcultural identities, generating both belonging and conflict.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-24 alle 17.07.43.png",
+            "size": 2793065,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-24_alle_17.07.43.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbt2b0w1",
+      "x": 1920,
+      "y": 980,
+      "w": 320,
+      "h": 428,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Fanaticism",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Moodboard"
+        ],
+        "desc": "Studying how intense alignment under symbols leads to fanatic behaviors and radical group dynamics.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-24 alle 17.07.23.png",
+            "size": 3948662,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-24_alle_17.07.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nv81gyi7",
+      "x": 2400,
+      "y": 609,
+      "w": 320,
+      "h": 252,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Feedback highlighted that subcultures are not a strong direction; they are seen as historical/global phenomena that no longer carry real conflict. Current material is too aestheticized and superficial, with manipulated images instead of raw sources.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nydg8ifv",
+      "x": 2400,
+      "y": 901,
+      "w": 320,
+      "h": 252,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Fanaticism is a stronger direction than subcultures, with clearer links to symbols. However, the approach is currently too historical and heavy. Needs more depth and better questioning that subverts expectations and leads towards a scenario.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1gh2bt0",
+      "x": 2867.6454209252306,
+      "y": -4.3185237248764565,
+      "w": 320,
+      "h": 569,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Transculturation of Symbols",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Moodboard",
+          "Transculturation",
+          "Semiotics"
+        ],
+        "desc": "Curated moodboard exploring cases of transculturation, re-appropriation, and transformation of symbols across different contexts.",
+        "links": [],
+        "files": [
+          {
+            "name": "transculturazione - dimensioni grandi.jpeg",
+            "size": 313855,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/transculturazione_-_dimensioni_grandi.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwy7cdyh",
+      "x": 2868.479252965727,
+      "y": 583.6748095984948,
+      "w": 320,
+      "h": 619,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Belonging through Symbols",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Moodboard",
+          "Belonging"
+        ],
+        "desc": "In contemporary society, people associate with symbols — religious, political, cultural, or sports-related — that define identity and belonging. This often generates conflict with those aligned under different symbols, transforming the symbol into a battleground.",
+        "links": [],
+        "files": [
+          {
+            "name": "appartenenza - dimensioni grandi.jpeg",
+            "size": 539395,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/appartenenza_-_dimensioni_grandi.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9gi7ynj",
+      "x": 2868.479252965727,
+      "y": 1242.674809598495,
+      "w": 320,
+      "h": 568,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Fanaticism",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Moodboard",
+          "Fanaticism"
+        ],
+        "desc": "Moodboard collecting references on fanaticism, focusing on symbolic devotion and radical group behaviors.",
+        "links": [],
+        "files": [
+          {
+            "name": "fanatismo - dimensioni grandi.jpeg",
+            "size": 380846,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/fanatismo_-_dimensioni_grandi.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nroshxa3",
+      "x": 3348.2956944008765,
+      "y": -7.472932077716678,
+      "w": 320,
+      "h": 300,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "What if? (Transculturation of Symbols)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Transculturation",
+          "Semiotics"
+        ],
+        "desc": "What if a dark ideology adopted a number as its identifying symbol, leading to it being banned and forcing society to invent substitutes for everyday use?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0jzqxeb",
+      "x": 3347.454525876762,
+      "y": 317.4551600039739,
+      "w": 320,
+      "h": 300,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "What if? (Belonging through Symbols)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Belonging"
+        ],
+        "desc": "What if to eliminate contrasts, everyone united under a single shared symbol? Would society become more peaceful, or would conflicts persist because they are rooted in people rather than symbols?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqgkbvxt",
+      "x": 3347.454525876762,
+      "y": 657.4551600039739,
+      "w": 320,
+      "h": 300,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "What if? (Fanaticism)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Fanaticism"
+        ],
+        "desc": "What if fanaticism were the only valid way to affirm one’s ideals, while every other form of engagement was ignored or despised, with moderates stigmatized as indifferent or cowardly?",
         "links": [],
         "files": []
       }
@@ -452,10 +1112,170 @@
       "s": "ny15p0wg",
       "t": "nvlahv4k",
       "dashed": false
+    },
+    {
+      "s": "n7z0p86f",
+      "t": "nycew3dj",
+      "dashed": false
+    },
+    {
+      "s": "n7z0p86f",
+      "t": "nrnpr0yf",
+      "dashed": false
+    },
+    {
+      "s": "n7z0p86f",
+      "t": "nmwwpwnl",
+      "dashed": false
+    },
+    {
+      "s": "nycew3dj",
+      "t": "nwibqee3",
+      "dashed": false
+    },
+    {
+      "s": "nrnpr0yf",
+      "t": "n1gqdqrd",
+      "dashed": false
+    },
+    {
+      "s": "nrnpr0yf",
+      "t": "ny057e0e",
+      "dashed": false
+    },
+    {
+      "s": "nmwwpwnl",
+      "t": "n4k7elg8",
+      "dashed": false
+    },
+    {
+      "s": "nycew3dj",
+      "t": "nud1gqen",
+      "dashed": false
+    },
+    {
+      "s": "nrnpr0yf",
+      "t": "nt8ipxxe",
+      "dashed": false
+    },
+    {
+      "s": "nmwwpwnl",
+      "t": "n61g93ev",
+      "dashed": false
+    },
+    {
+      "s": "nrnpr0yf",
+      "t": "nf9jfdv9",
+      "dashed": false
+    },
+    {
+      "s": "nrnpr0yf",
+      "t": "nin2fvd1",
+      "dashed": false
+    },
+    {
+      "s": "nycew3dj",
+      "t": "njp8qsr3",
+      "dashed": false
+    },
+    {
+      "s": "nt8ipxxe",
+      "t": "n6wcova4",
+      "dashed": false
+    },
+    {
+      "s": "n61g93ev",
+      "t": "n6wcova4",
+      "dashed": false
+    },
+    {
+      "s": "nf9jfdv9",
+      "t": "n6wcova4",
+      "dashed": false
+    },
+    {
+      "s": "nwibqee3",
+      "t": "nbt2b0w1",
+      "dashed": false
+    },
+    {
+      "s": "n1gqdqrd",
+      "t": "nbt2b0w1",
+      "dashed": false
+    },
+    {
+      "s": "nin2fvd1",
+      "t": "nbt2b0w1",
+      "dashed": false
+    },
+    {
+      "s": "njp8qsr3",
+      "t": "n3ktfmhq",
+      "dashed": false
+    },
+    {
+      "s": "nud1gqen",
+      "t": "n3ktfmhq",
+      "dashed": false
+    },
+    {
+      "s": "n4k7elg8",
+      "t": "n3ktfmhq",
+      "dashed": false
+    },
+    {
+      "s": "ny057e0e",
+      "t": "nbt2b0w1",
+      "dashed": false
+    },
+    {
+      "s": "n3ktfmhq",
+      "t": "nv81gyi7",
+      "dashed": false
+    },
+    {
+      "s": "nbt2b0w1",
+      "t": "nydg8ifv",
+      "dashed": false
+    },
+    {
+      "s": "n6wcova4",
+      "t": "n1gh2bt0",
+      "dashed": false
+    },
+    {
+      "s": "nv81gyi7",
+      "t": "nwy7cdyh",
+      "dashed": false
+    },
+    {
+      "s": "nydg8ifv",
+      "t": "n9gi7ynj",
+      "dashed": false
+    },
+    {
+      "s": "n1gh2bt0",
+      "t": "nroshxa3",
+      "dashed": false
+    },
+    {
+      "s": "nwy7cdyh",
+      "t": "n0jzqxeb",
+      "dashed": false
+    },
+    {
+      "s": "n9gi7ynj",
+      "t": "nqgkbvxt",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Scenarios",
+      "Insight",
+      "Ideation",
+      "Symbolic meaning",
+      "Symbolic alignment",
       "Critical design",
       "Communication",
       "Media studies",
@@ -463,8 +1283,28 @@
       "Design research",
       "Critical theory"
     ],
-    "tags": [],
+    "tags": [
+      "Fanaticism",
+      "What if?",
+      "Belonging",
+      "Semiotics",
+      "Transculturation",
+      "Moodboard",
+      "History",
+      "Religion",
+      "Society",
+      "Politics",
+      "Case study",
+      "Sport",
+      "Starting point",
+      "Research",
+      "Brief"
+    ],
     "type": [
+      "Collection",
+      "Concept",
+      "Feedback",
+      "Source",
       "Brief"
     ]
   }
