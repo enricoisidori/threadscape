@@ -3,8 +3,8 @@
   "nodes": [
     {
       "id": "ny15p0wg",
-      "x": 0,
-      "y": 0,
+      "x": -1952,
+      "y": -40,
       "w": 320,
       "h": 807,
       "group": null,
@@ -40,8 +40,8 @@
     },
     {
       "id": "nqaspco0",
-      "x": 480,
-      "y": 0,
+      "x": -2424,
+      "y": -44,
       "w": 320,
       "h": 322,
       "group": null,
@@ -73,8 +73,8 @@
     },
     {
       "id": "n4q8mtzu",
-      "x": 480,
-      "y": 362,
+      "x": -1472,
+      "y": 322,
       "w": 320,
       "h": 344,
       "group": null,
@@ -106,8 +106,8 @@
     },
     {
       "id": "nwl9ouvl",
-      "x": 480,
-      "y": 746,
+      "x": -1472,
+      "y": 706,
       "w": 320,
       "h": 344,
       "group": null,
@@ -138,8 +138,8 @@
     },
     {
       "id": "npongriz",
-      "x": 480,
-      "y": 1130,
+      "x": -1472,
+      "y": 1090,
       "w": 320,
       "h": 344,
       "group": null,
@@ -171,8 +171,8 @@
     },
     {
       "id": "n7z0p86f",
-      "x": 480,
-      "y": 1514,
+      "x": -1472,
+      "y": 1474,
       "w": 320,
       "h": 299,
       "group": null,
@@ -204,8 +204,8 @@
     },
     {
       "id": "n92sunmm",
-      "x": 480,
-      "y": 1853,
+      "x": -1472,
+      "y": 1813,
       "w": 320,
       "h": 299,
       "group": null,
@@ -236,8 +236,8 @@
     },
     {
       "id": "n3vsqfai",
-      "x": 480,
-      "y": 2192,
+      "x": -1472,
+      "y": 2152,
       "w": 320,
       "h": 299,
       "group": null,
@@ -268,8 +268,8 @@
     },
     {
       "id": "ncob3sst",
-      "x": 480,
-      "y": 2531,
+      "x": -1472,
+      "y": 2491,
       "w": 320,
       "h": 344,
       "group": null,
@@ -300,8 +300,8 @@
     },
     {
       "id": "ne7rohui",
-      "x": 480,
-      "y": 2915,
+      "x": -1472,
+      "y": 2875,
       "w": 320,
       "h": 322,
       "group": null,
@@ -333,8 +333,8 @@
     },
     {
       "id": "nr86jk3r",
-      "x": 480,
-      "y": 3277,
+      "x": -1472,
+      "y": 3237,
       "w": 320,
       "h": 322,
       "group": null,
@@ -366,8 +366,8 @@
     },
     {
       "id": "nvlahv4k",
-      "x": 480,
-      "y": 3639,
+      "x": -1472,
+      "y": 3599,
       "w": 320,
       "h": 344,
       "group": null,
@@ -1121,8 +1121,8 @@
     },
     {
       "id": "nufr3zlz",
-      "x": 3438.4278026404163,
-      "y": 1514.3081241358157,
+      "x": 3335.8360634759197,
+      "y": 1499.8266814465203,
       "w": 320,
       "h": 440,
       "group": null,
@@ -1156,8 +1156,8 @@
     },
     {
       "id": "nauxjftf",
-      "x": 3846.204616530054,
-      "y": 1569.47479060488,
+      "x": 3798.204616530054,
+      "y": 1558.7741298766819,
       "w": 320,
       "h": 324,
       "group": null,
@@ -1243,11 +1243,11 @@
       "x": 2115.2762483882752,
       "y": 3016.7874877175395,
       "w": 320,
-      "h": 753,
+      "h": 783,
       "group": null,
       "data": {
         "date": "2025-09-27",
-        "title": "",
+        "title": "Relocation Vilages",
         "type": "",
         "action": null,
         "mainArea": null,
@@ -1598,6 +1598,350 @@
           }
         ]
       }
+    },
+    {
+      "id": "nx45e97t",
+      "x": 3770.3477131222976,
+      "y": 4439.32176790333,
+      "w": 320,
+      "h": 282,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "Target too narrow",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The concept is too narrow and rooted in a specific theme that lacks relatability for a Western audience. This creates a significant barrier to engagement, necessitating a strategic pivot or a broadening of the thematic appeal.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndnh5nis",
+      "x": 3869.5059835610928,
+      "y": 5378.271890849614,
+      "w": 320,
+      "h": 231,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "The Use of an Object against the evil",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Is interesting the concept of the object that defeats the evil ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nixu5vds",
+      "x": 4077.4066854044704,
+      "y": 2019.3478197917152,
+      "w": 320,
+      "h": 214,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "Already Widely Explored",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "AI is a topic that has already been widely explored",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4cwpy9o",
+      "x": -948.4004425983892,
+      "y": 1766.5290907449642,
+      "w": 320,
+      "h": 298,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "When is a Cultural Conflict?",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Cultural conflict is the clash that arises when different and incompatible cultural or ideological systems come into contact.\nThe disagreement is not only over material resources, but over what is considered true, right, legitimate, and meaningful.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvlc5e4o",
+      "x": -354.83815016884273,
+      "y": 1527.4983754253763,
+      "w": 320,
+      "h": 231,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "When Different Worlds Collide",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Two or more groups with different worldviews interact in the same social space.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4yzr0fh",
+      "x": -354.83815016884273,
+      "y": 1798.4983754253765,
+      "w": 320,
+      "h": 231,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "When a Group Imposes his Values",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "A dominant group imposes its cultural values ​​on a subordinate group.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8rcmcs8",
+      "x": -354.83815016884273,
+      "y": 2054.353262386574,
+      "w": 320,
+      "h": 248,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "When a Rapid Social Change Challenge Traditional Values",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "There is rapid social change that challenges traditional values",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzfh792x",
+      "x": 222.3184710645608,
+      "y": 89.60808278328955,
+      "w": 320,
+      "h": 576,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "Culture Fights Back in Disobedient Objects",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "\"Disobedient Objects,\" a landmark exhibition at London's Victoria and Albert Museum, showcases artifacts like banners and barricades created by social movements since 1968. It argues that these objects are not just tools but acts of cultural resistance themselves. The exhibit demonstrates how grassroots creativity challenges dominant culture by transforming everyday items into powerful symbols of dissent and solidarity.\n\n",
+        "links": [],
+        "files": [
+          {
+            "name": "2_Bread_and_Puppet_Theatre_1.jpg.foto.rmedium.avif",
+            "size": 180084,
+            "type": "image/avif",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/2_Bread_and_Puppet_Theatre_1.jpg.foto.rmedium.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlycpc18",
+      "x": 235.30342999549362,
+      "y": 1508.2450533324588,
+      "w": 320,
+      "h": 566,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "Confronting \"Neutral\" Culture",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Adrian Piper – “Calling Card” (1986-1990)\nThe African-American artist handed out business cards to those who made racist comments in her presence. A social performance that showed how white Western culture perceives itself as “neutral,” but in reality draws a violent boundary between “us” and “them.” Here, culture appears as a barrier, and Piper highlights its absurdity.",
+        "links": [
+          "https://adrianpiper.weebly.com/my-calling-card-1986-1990.html"
+        ],
+        "files": [
+          {
+            "name": "Adrian-Piper-Calling-Cards-800x502@2x.jpg",
+            "size": 174915,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Adrian-Piper-Calling-Cards-800x502@2x.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbofmli0",
+      "x": 243.78143411074893,
+      "y": 2258.817994422147,
+      "w": 320,
+      "h": 677,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "The Art of Cultural Hybridity",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "British-Nigerian artist Yinka Shonibare uses his work to explore the paradox of post-colonial identity. He is known for placing figures dressed in vibrant \"African\" wax fabrics—a material actually invented in Europe and popularized through colonial trade—into classic scenes of European aristocracy and history.\n\nThis creates a powerful visual tension. The fabric itself is a hybrid object, symbolizing both African identity and its colonial manipulation. Shonibare's art does not seek a \"pure\" cultural root but instead masterfully fuses these historically antagonistic symbols. His work challenges us to accept that modern identity is a complex and contested blend of roots and contamination, rather than a simple, singular",
+        "links": [],
+        "files": [
+          {
+            "name": "shonibare-1.jpg",
+            "size": 312526,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/shonibare-1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n85qsuy6",
+      "x": 232.82470391835324,
+      "y": 919.6730788737941,
+      "w": 320,
+      "h": 399,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "The Optimization Delusion",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Our modern worldview - obsessed with control, purity and optimization - has become the source of a new cultural conflict. This isn't about clashing with other cultures, but about our fundamental way of seeing reality becoming alienating and counterproductive.\nNowhere is this clearer than in our approach to health. We pursue \"perfect\" health through sterilization and isolation, yet this very war against microbes undermines our biological reality: true health requires interdependence with our environment, not domination over it.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njqsbcti",
+      "x": 690.1340724664425,
+      "y": 605.3392008862506,
+      "w": 320,
+      "h": 534,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "The Health Paradox",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The exhibition \"We the Bacteria\" argues that we are our intestines. It highlights a key contradiction: the intestine's surface area (32 m²) is larger than the minimum living space for a human (20 m²). The show critiques our cultural embarrassment about this organ as an \"antibiotic perspective\"—a destructive denial of our own microbial nature, which influences everything, even architecture.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 4.png",
+            "size": 700746,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ny6ynzjy",
+      "x": 245.47266855500004,
+      "y": 3082.1196898596486,
+      "w": 320,
+      "h": 722,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "Childcare as a cultural repression",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "In Greenland, growing protests are emerging against Danish social services practices. The trigger is the forced removal of Inuit children from their families. Protesters and local leaders argue that these actions are not just child welfare issues, but pose a serious threat to the children's cultural identity and heritage, perpetuating a historical legacy of colonial separation and assimilation.\nIn Denmark, 7% of children born in Greenland and 5% of children with at least one Greenland-born parent are placed out of home, compared to 1% of other children in Denmark.",
+        "links": [
+          "https://menneskeret.dk/udgivelser/testning-foraeldrekompetencer-groenlaendere-danmark",
+          "https://www.arctictoday.com/a-view-from-greenland-about-forced-child-removal-as-greenlanders-protest-danish-welfare-services/"
+        ],
+        "files": [
+          {
+            "name": "image 31.png",
+            "size": 583139,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_31.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbpbihmw",
+      "x": 3799.413887305962,
+      "y": 896.4460171630526,
+      "w": 320,
+      "h": 584,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "Massive Attack",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Conflicts",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "The shows feature typographic LED displays that leverage real-time data collection. The content is often politically charged, topical, thought-provoking, and socially conscious, sometimes multilingual and venue-specific. Over the course of their various tours, topics covered have ranged from net neutrality, censorship, data privacy, corporate greed, human rights abuses, and the politics of war.",
+        "links": [
+          "uva.co.uk/features/massive-attack-world-tour-2024-2025"
+        ],
+        "files": [
+          {
+            "name": "image 32.png",
+            "size": 714060,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_32.jpg"
+          }
+        ]
+      }
     }
   ],
   "edges": [
@@ -1657,11 +2001,6 @@
       "dashed": false
     },
     {
-      "s": "n92sunmm",
-      "t": "njixu8s1",
-      "dashed": true
-    },
-    {
       "s": "njixu8s1",
       "t": "nclykt1c",
       "dashed": false
@@ -1669,16 +2008,6 @@
     {
       "s": "njixu8s1",
       "t": "n1ayj60l",
-      "dashed": false
-    },
-    {
-      "s": "n92sunmm",
-      "t": "nvuaguey",
-      "dashed": false
-    },
-    {
-      "s": "n92sunmm",
-      "t": "nqc3yxx8",
       "dashed": false
     },
     {
@@ -1709,11 +2038,6 @@
     {
       "s": "no95t27i",
       "t": "n5gjw8b3",
-      "dashed": false
-    },
-    {
-      "s": "n92sunmm",
-      "t": "n9p6fa96",
       "dashed": false
     },
     {
@@ -1980,34 +2304,125 @@
       "s": "n9tus8ln",
       "t": "n8qokndm",
       "dashed": false
+    },
+    {
+      "s": "n8wtqanu",
+      "t": "nx45e97t",
+      "dashed": false
+    },
+    {
+      "s": "nen9hw4c",
+      "t": "ndnh5nis",
+      "dashed": false
+    },
+    {
+      "s": "njixu8s1",
+      "t": "nixu5vds",
+      "dashed": false
+    },
+    {
+      "s": "n4cwpy9o",
+      "t": "nvlc5e4o",
+      "dashed": false
+    },
+    {
+      "s": "n4cwpy9o",
+      "t": "n4yzr0fh",
+      "dashed": false
+    },
+    {
+      "s": "n4cwpy9o",
+      "t": "n8rcmcs8",
+      "dashed": false
+    },
+    {
+      "s": "n4yzr0fh",
+      "t": "nlycpc18",
+      "dashed": true
+    },
+    {
+      "s": "nvlc5e4o",
+      "t": "nzfh792x",
+      "dashed": true
+    },
+    {
+      "s": "n4yzr0fh",
+      "t": "njixu8s1",
+      "dashed": true
+    },
+    {
+      "s": "n8rcmcs8",
+      "t": "n9p6fa96",
+      "dashed": true
+    },
+    {
+      "s": "n4yzr0fh",
+      "t": "nvuaguey",
+      "dashed": false
+    },
+    {
+      "s": "n8rcmcs8",
+      "t": "nqc3yxx8",
+      "dashed": false
+    },
+    {
+      "s": "n92sunmm",
+      "t": "n4cwpy9o",
+      "dashed": false
+    },
+    {
+      "s": "n4yzr0fh",
+      "t": "nbofmli0",
+      "dashed": true
+    },
+    {
+      "s": "n85qsuy6",
+      "t": "njqsbcti",
+      "dashed": false
+    },
+    {
+      "s": "n4yzr0fh",
+      "t": "ny6ynzjy",
+      "dashed": true
+    },
+    {
+      "s": "nufr3zlz",
+      "t": "nbpbihmw",
+      "dashed": false
+    },
+    {
+      "s": "n8rcmcs8",
+      "t": "n85qsuy6",
+      "dashed": true
     }
   ],
   "vocab": {
     "areas": [
-      "Socio-political",
-      "Conflicts",
-      "Socio-cultural",
-      "Amare i robot?",
-      "Media studies",
-      "Critical design",
-      "Communication",
-      "Design research",
+      "Critical theory",
       "People",
-      "Critical theory"
+      "Design research",
+      "Communication",
+      "Critical design",
+      "Media studies",
+      "Amare i robot?",
+      "Socio-cultural",
+      "Conflicts",
+      "Socio-political"
     ],
     "tags": [
-      "Already explored",
-      "Discarded",
+      "Source",
       "Limited scope",
-      "Source"
+      "Discarded",
+      "Already explored"
     ],
     "type": [
       "Finding",
-      "Case study",
       "Brief",
-      "Source",
+      "Feedback",
       "Concept",
-      "Collection"
+      "Source",
+      "Collection",
+      "Case study"
     ]
   }
 }
