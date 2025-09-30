@@ -6,7 +6,7 @@
       "x": 0,
       "y": 0,
       "w": 320,
-      "h": 782,
+      "h": 807,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -43,7 +43,7 @@
       "x": 480,
       "y": 0,
       "w": 320,
-      "h": 318,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -76,7 +76,7 @@
       "x": 480,
       "y": 362,
       "w": 320,
-      "h": 340,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -109,7 +109,7 @@
       "x": 480,
       "y": 746,
       "w": 320,
-      "h": 340,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -141,7 +141,7 @@
       "x": 480,
       "y": 1130,
       "w": 320,
-      "h": 340,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -174,7 +174,7 @@
       "x": 480,
       "y": 1514,
       "w": 320,
-      "h": 296,
+      "h": 299,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -207,7 +207,7 @@
       "x": 480,
       "y": 1853,
       "w": 320,
-      "h": 296,
+      "h": 299,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -239,7 +239,7 @@
       "x": 480,
       "y": 2192,
       "w": 320,
-      "h": 296,
+      "h": 299,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -271,7 +271,7 @@
       "x": 480,
       "y": 2531,
       "w": 320,
-      "h": 340,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -303,7 +303,7 @@
       "x": 480,
       "y": 2915,
       "w": 320,
-      "h": 318,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -336,7 +336,7 @@
       "x": 480,
       "y": 3277,
       "w": 320,
-      "h": 318,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -369,7 +369,7 @@
       "x": 480,
       "y": 3639,
       "w": 320,
-      "h": 340,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -401,7 +401,7 @@
       "x": 1093.2680334298655,
       "y": 1290.1640004884434,
       "w": 320,
-      "h": 480,
+      "h": 512,
       "group": null,
       "data": {
         "date": "2025-09-21",
@@ -420,7 +420,16 @@
         ],
         "desc": "In recent years, artificial intelligence has emerged as a transformative force in many fields, such as content moderation and automation. \nHowever, as recent research shows, when these systems are predominantly designed according to Western paradigms, several issues arise that go beyond technical errors: they are systemic flaws that can harm already marginalized communities.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "image 7.png",
+            "size": 1957645,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_7.jpg"
+          }
+        ]
       }
     },
     {
@@ -428,7 +437,7 @@
       "x": 2560.4945509860668,
       "y": 1209.6720241177184,
       "w": 320,
-      "h": 320,
+      "h": 331,
       "group": null,
       "data": {
         "date": "2025-09-21",
@@ -453,7 +462,7 @@
       "x": 1739.6019331436148,
       "y": 887.7004735755106,
       "w": 320,
-      "h": 394,
+      "h": 409,
       "group": null,
       "data": {
         "date": "2025-09-21",
@@ -475,7 +484,7 @@
       "x": 2662.7006788486387,
       "y": 404.75945641015085,
       "w": 320,
-      "h": 416,
+      "h": 432,
       "group": null,
       "data": {
         "date": "2025-09-21",
@@ -499,7 +508,7 @@
       "x": 2148.1237063050744,
       "y": 1162.5500689846672,
       "w": 320,
-      "h": 394,
+      "h": 409,
       "group": null,
       "data": {
         "date": "2025-09-21",
@@ -521,7 +530,7 @@
       "x": 3026.939829136074,
       "y": 896.1639650233219,
       "w": 320,
-      "h": 406,
+      "h": 421,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -546,7 +555,7 @@
       "x": 1745.9596493590723,
       "y": 423.5862546826833,
       "w": 320,
-      "h": 394,
+      "h": 409,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -568,7 +577,7 @@
       "x": 1087.1896159929363,
       "y": 2807.673078873794,
       "w": 320,
-      "h": 420,
+      "h": 540,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -582,7 +591,16 @@
         "tags": [],
         "desc": "The Badjao, an Austronesian population spanning the Philippines, Malaysia, and Indonesia, don't simply live near the sea, they embody a true aquatic culture.\nFor them, water is neither a boundary nor a resource, but a living space and a place of belonging. This concept permeates every aspect of their existence: identity, religion, knowledge, physicality, and socioeconomic organization.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "badjao.png",
+            "size": 1880270,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/badjao.jpg"
+          }
+        ]
       }
     },
     {
@@ -590,7 +608,7 @@
       "x": 1061.6358110044134,
       "y": 4523.026862207892,
       "w": 320,
-      "h": 598,
+      "h": 729,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -609,7 +627,16 @@
           "https://pngnri.org/images/Publications/Issues_Paper_No_36.pdf",
           "https://www.bbc.com/news/av/world-asia-44333447"
         ],
-        "files": []
+        "files": [
+          {
+            "name": "image 6.png",
+            "size": 2913742,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_6.jpg"
+          }
+        ]
       }
     },
     {
@@ -617,7 +644,7 @@
       "x": 1750.0126304352443,
       "y": 1385.3670095148564,
       "w": 320,
-      "h": 500,
+      "h": 639,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -634,7 +661,16 @@
         "links": [
           "https://www.media.mit.edu/publications/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/"
         ],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-20 alle 11.42.08 1.png",
+            "size": 345240,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-20_alle_11.42.08_1.jpg"
+          }
+        ]
       }
     },
     {
@@ -642,7 +678,7 @@
       "x": 1669.014289884187,
       "y": 3059.7838236127154,
       "w": 320,
-      "h": 627,
+      "h": 736,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -658,7 +694,16 @@
           "https://www.researchgate.net/publication/321364564_Pamali_Bajo's_Local_Wisdom_in_the_Conservation_of_Marine_Resources#fullTextFileContent",
           "https://www.degruyterbrill.com/document/doi/10.1515/9781789201437-019/html?lang=en&srsltid=AfmBOoqoK-k5EpKoydh8miD9IL0lECDRzBjeu26sk9QhyjtgnZ8u_n8b"
         ],
-        "files": []
+        "files": [
+          {
+            "name": "image 1.png",
+            "size": 887288,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_1.jpg"
+          }
+        ]
       }
     },
     {
@@ -666,7 +711,7 @@
       "x": 1693.2971301995562,
       "y": 4177.598148637291,
       "w": 320,
-      "h": 508,
+      "h": 495,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -689,7 +734,7 @@
       "x": 2567.479889534675,
       "y": 5032.415824863113,
       "w": 320,
-      "h": 445,
+      "h": 447,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -711,7 +756,7 @@
       "x": 2122.6401200002247,
       "y": 5001.57882311519,
       "w": 320,
-      "h": 442,
+      "h": 443,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -756,7 +801,7 @@
       "x": 1688.2055098497817,
       "y": 4719.923627974636,
       "w": 320,
-      "h": 508,
+      "h": 495,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -779,7 +824,7 @@
       "x": 2682.9624297377954,
       "y": 2402.0839862043813,
       "w": 320,
-      "h": 444,
+      "h": 456,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -801,7 +846,7 @@
       "x": 4109.45767279601,
       "y": 3209.908906906343,
       "w": 320,
-      "h": 410,
+      "h": 409,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -823,7 +868,7 @@
       "x": 2756.4464805494754,
       "y": 3591.5726319644855,
       "w": 320,
-      "h": 390,
+      "h": 366,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -843,7 +888,7 @@
       "x": 3613.3914991706147,
       "y": 2328.192808534741,
       "w": 320,
-      "h": 243,
+      "h": 537,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -855,7 +900,16 @@
         "tags": [],
         "desc": "Option 1",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 16.21.28.png",
+            "size": 2079062,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_16.21.28.jpg"
+          }
+        ]
       }
     },
     {
@@ -863,7 +917,7 @@
       "x": 3171.4118040594785,
       "y": 3573.935367555754,
       "w": 320,
-      "h": 474,
+      "h": 493,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -885,7 +939,7 @@
       "x": 1089.7499196915614,
       "y": -607.1114613643667,
       "w": 320,
-      "h": 668,
+      "h": 882,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -900,7 +954,16 @@
         "tags": [],
         "desc": "What if the answer to the identity vacuum wasn't the search for a new figure, but the rejection of dominant celebrity culture? What would happen if people elected digital figures as their own deities, creating communities where their digital figures and associated traditions are sacred?\n\nThe time of consumption, imposed by mass culture, pushes us to worship celebrities who follow the linear rhythm of success and fame. Sacred time, conversely, becomes the time of these digital figures, revered based on cycles of creation, interaction, and sharing within a community, rather than a rigid marketing plan.\n\nThis represents a reconfiguration of power. While the media and entertainment industry control the space of celebrity, people without an industry behind them could control meaningful time, transforming their own digital figures into tools of sovereignty. They would force the dominant culture to synchronize with their rhythms of worship, rather than forcing them to submit to the linear time of manufactured success.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "image 30.png",
+            "size": 186179,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_30.jpg"
+          }
+        ]
       }
     },
     {
@@ -908,7 +971,7 @@
       "x": 1770.5223503909924,
       "y": -628.5297727348413,
       "w": 320,
-      "h": 525,
+      "h": 824,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -922,7 +985,16 @@
         "links": [
           "https://www.scientificamerican.com/article/the-in-credible-robot-priest-and-the-limits-of-robot-workers/"
         ],
-        "files": []
+        "files": [
+          {
+            "name": "image 3.png",
+            "size": 309977,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_3.jpg"
+          }
+        ]
       }
     },
     {
@@ -930,7 +1002,7 @@
       "x": 2201.446253351968,
       "y": -101.14585281296809,
       "w": 320,
-      "h": 358,
+      "h": 366,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -950,7 +1022,7 @@
       "x": 2208.9475485804796,
       "y": -718.505203013334,
       "w": 320,
-      "h": 423,
+      "h": 584,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -962,7 +1034,16 @@
         "tags": [],
         "desc": "Hatsune Miku is a figure created by Crypton Future Media. She is not just a character, but an actual software (Vocaloid) with which people can create music and lyrics. Miku has become a global icon, with concerts where she performs as a hologram and a huge fan community that venerates her as a genuine pop star. Her fame is based on a collaborative and decentralized model, rather than on a single figure of power.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "image 2.png",
+            "size": 241518,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_2.jpg"
+          }
+        ]
       }
     },
     {
@@ -970,7 +1051,7 @@
       "x": 1768.5532789316906,
       "y": -1187.9376922662511,
       "w": 320,
-      "h": 488,
+      "h": 507,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -996,7 +1077,7 @@
       "x": 2217.9484829293124,
       "y": -1086.3879201689688,
       "w": 320,
-      "h": 310,
+      "h": 304,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1020,7 +1101,7 @@
       "x": 2332.28698714897,
       "y": 1697.2480115167182,
       "w": 320,
-      "h": 380,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1043,7 +1124,7 @@
       "x": 3438.4278026404163,
       "y": 1514.3081241358157,
       "w": 320,
-      "h": 314,
+      "h": 440,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1061,7 +1142,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "image 62.png",
+            "size": 1046654,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_62.jpg"
+          }
+        ]
       }
     },
     {
@@ -1069,7 +1159,7 @@
       "x": 3846.204616530054,
       "y": 1569.47479060488,
       "w": 320,
-      "h": 203,
+      "h": 324,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1081,7 +1171,16 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 15.42.48.png",
+            "size": 4616838,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_15.42.48.jpg"
+          }
+        ]
       }
     },
     {
@@ -1089,7 +1188,7 @@
       "x": 2112.402898315907,
       "y": 2519.9148116648016,
       "w": 320,
-      "h": 430,
+      "h": 447,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1113,7 +1212,7 @@
       "x": 1669.6271460210394,
       "y": 2396.267234552405,
       "w": 320,
-      "h": 462,
+      "h": 617,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1127,7 +1226,16 @@
         "links": [
           "https://mangrovia.info/en/when-sea-nomads-no-longer-roam/"
         ],
-        "files": []
+        "files": [
+          {
+            "name": "villaggio badjao.webp",
+            "size": 325178,
+            "type": "image/webp",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/villaggio_badjao.jpg"
+          }
+        ]
       }
     },
     {
@@ -1135,7 +1243,7 @@
       "x": 2115.2762483882752,
       "y": 3016.7874877175395,
       "w": 320,
-      "h": 573,
+      "h": 753,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1151,7 +1259,16 @@
           "https://www.researchgate.net/publication/316626798_Understanding_Identity_and_Diaspora_The_Case_of_the_Sama-Bajau_of_Maritime_Southeast_Asia#fullTextFileContent",
           "Daug, Artchil C., Christopher O. Kimilat, Glory Grace Ann G. Bayon, e Angenel Clariz D. Rufon. \"THE POSSIBILITY OF ETHNOGENESIS OF THE BADJAO IN BARANGAY TAMBACAN, ILIGAN CITY.\" Unpublished manuscript. Department of History, Mindanao State University-Iligan Institute of Technology"
         ],
-        "files": []
+        "files": [
+          {
+            "name": "20220209-pacquiao-1.jpg",
+            "size": 229831,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/20220209-pacquiao-1.jpg"
+          }
+        ]
       }
     },
     {
@@ -1159,7 +1276,7 @@
       "x": 2756.4050542203613,
       "y": 4134.438433615728,
       "w": 320,
-      "h": 331,
+      "h": 453,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1174,7 +1291,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "image 5.png",
+            "size": 778128,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_5.jpg"
+          }
+        ]
       }
     },
     {
@@ -1182,7 +1308,7 @@
       "x": 3190.2054631390183,
       "y": 4191.489441880156,
       "w": 320,
-      "h": 203,
+      "h": 317,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1194,7 +1320,16 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 16.17.10.png",
+            "size": 3889552,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_16.17.10.jpg"
+          }
+        ]
       }
     },
     {
@@ -1202,7 +1337,7 @@
       "x": 3609.5486738991845,
       "y": 2911.691666573256,
       "w": 320,
-      "h": 303,
+      "h": 414,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1218,7 +1353,16 @@
         "links": [
           "https://www.cosmos.so/sofi21/banca-del-seme-culturale"
         ],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 16.24.04.png",
+            "size": 3297109,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_16.24.04.jpg"
+          }
+        ]
       }
     },
     {
@@ -1226,7 +1370,7 @@
       "x": 3146.9478533144256,
       "y": 2666.206175625888,
       "w": 320,
-      "h": 412,
+      "h": 584,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1242,7 +1386,16 @@
         "links": [
           "https://it.wikipedia.org/wiki/Svalbard_Global_Seed_Vault"
         ],
-        "files": []
+        "files": [
+          {
+            "name": "Svalbard_Global_Seed_Vault_(23273281972).jpg",
+            "size": 666657,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Svalbard_Global_Seed_Vault_(23273281972).jpg"
+          }
+        ]
       }
     },
     {
@@ -1250,7 +1403,7 @@
       "x": 4607.364530907372,
       "y": 3178.3637383879086,
       "w": 320,
-      "h": 374,
+      "h": 366,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1270,7 +1423,7 @@
       "x": 5036.928373751227,
       "y": 3285.575612500057,
       "w": 320,
-      "h": 246,
+      "h": 265,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1290,7 +1443,7 @@
       "x": 4609.784891030368,
       "y": 3605.8253689895664,
       "w": 320,
-      "h": 203,
+      "h": 468,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1302,7 +1455,16 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 16.42.07.png",
+            "size": 4830960,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_16.42.07.jpg"
+          }
+        ]
       }
     },
     {
@@ -1310,7 +1472,7 @@
       "x": 3608.98272149876,
       "y": 3579.430874693502,
       "w": 320,
-      "h": 203,
+      "h": 480,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1322,7 +1484,16 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 16.51.48.png",
+            "size": 3610962,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_16.51.48.jpg"
+          }
+        ]
       }
     },
     {
@@ -1330,7 +1501,7 @@
       "x": 3192.0654096633607,
       "y": 4838.312430900589,
       "w": 320,
-      "h": 234,
+      "h": 235,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1352,7 +1523,7 @@
       "x": 3646.746500900015,
       "y": 4929.346369406234,
       "w": 320,
-      "h": 203,
+      "h": 331,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1364,7 +1535,16 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 17.34.26.png",
+            "size": 3027076,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_17.34.26.jpg"
+          }
+        ]
       }
     },
     {
@@ -1372,7 +1552,7 @@
       "x": 3194.4568715438004,
       "y": 5164.593363080045,
       "w": 320,
-      "h": 192,
+      "h": 206,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1392,7 +1572,7 @@
       "x": 2872.339876549431,
       "y": -658.5555470139398,
       "w": 320,
-      "h": 231,
+      "h": 531,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1407,27 +1587,16 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nbg9ivok",
-      "x": 3346.452417320364,
-      "y": -283.13791672443034,
-      "w": 320,
-      "h": 451,
-      "group": null,
-      "data": {
-        "date": "2025-09-29",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 18.02.11.png",
+            "size": 2507072,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_18.02.11.jpg"
+          }
+        ]
       }
     }
   ],
@@ -1815,30 +1984,30 @@
   ],
   "vocab": {
     "areas": [
-      "Critical theory",
-      "People",
-      "Design research",
-      "Communication",
-      "Critical design",
-      "Media studies",
-      "Amare i robot?",
-      "Socio-cultural",
+      "Socio-political",
       "Conflicts",
-      "Socio-political"
+      "Socio-cultural",
+      "Amare i robot?",
+      "Media studies",
+      "Critical design",
+      "Communication",
+      "Design research",
+      "People",
+      "Critical theory"
     ],
     "tags": [
-      "Source",
-      "Limited scope",
+      "Already explored",
       "Discarded",
-      "Already explored"
+      "Limited scope",
+      "Source"
     ],
     "type": [
-      "Collection",
-      "Concept",
-      "Source",
-      "Brief",
+      "Finding",
       "Case study",
-      "Finding"
+      "Brief",
+      "Source",
+      "Concept",
+      "Collection"
     ]
   }
 }
