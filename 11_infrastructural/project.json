@@ -1812,9 +1812,9 @@
     {
       "id": "nwsqp9q5",
       "x": 5819.994861536529,
-      "y": 2567.229084559767,
+      "y": 2543.013972450916,
       "w": 320,
-      "h": 538,
+      "h": 629,
       "group": null,
       "data": {
         "date": "2025-09-28",
@@ -1823,9 +1823,14 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Civil engineering",
+          "Architecture",
+          "Geology",
+          "Economics"
+        ],
+        "tags": [
           "Protests"
         ],
-        "tags": [],
         "desc": "Location: Strait of Messina (Sicily–Calabria, Italy). The project involves national governments, local administrations, construction consortia, environmental groups, and citizens, with disputes over real costs, seismic risks, and potential mafia influence. It has been repeatedly launched, suspended, and restarted. The debate remains constant, balancing promises of development against environmental, technical, and economic concerns.",
         "links": [],
         "files": [
@@ -1842,10 +1847,10 @@
     },
     {
       "id": "n8a7ft00",
-      "x": 5820.170487955527,
-      "y": 3136.095723278122,
+      "x": 5818.984792900875,
+      "y": 3201.3089512840224,
       "w": 320,
-      "h": 538,
+      "h": 629,
       "group": null,
       "data": {
         "date": "2025-09-28",
@@ -1854,9 +1859,13 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Transport engineering",
+          "Political science",
+          "Social movements"
+        ],
+        "tags": [
           "Protests"
         ],
-        "tags": [],
         "desc": "The No TAV movement emerged in Val di Susa against the construction of the Turin–Lyon high-speed rail line. It brings together residents, activists, and social groups denouncing environmental, economic, and social impacts. Conflict with the government and law enforcement has led to protests, clashes, and legal proceedings. It has become a national symbol of resistance against top-down large-scale projects.",
         "links": [],
         "files": [
@@ -1873,10 +1882,10 @@
     },
     {
       "id": "nmfz7pcn",
-      "x": 5820.491549961203,
-      "y": 3703.2360612698594,
+      "x": 5822.271226345449,
+      "y": 3866.9662886204674,
       "w": 320,
-      "h": 532,
+      "h": 577,
       "group": null,
       "data": {
         "date": "2025-09-28",
@@ -1885,7 +1894,9 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Protests"
+          "Urban planning",
+          "Social movements",
+          "Political science"
         ],
         "tags": [],
         "desc": "In Notre-Dame-des-Landes, near Nantes, France, local farmers, ZAD ecological activists, the government, and the airport industry clashed over a new airport. Legal questions about occupations versus the right to protest fueled tensions. After decades of mobilization and resistance, strong opposition led to the airport’s cancellation in 2018. The case stands as a notable victory for social movements.",
@@ -1905,9 +1916,9 @@
     {
       "id": "nxihmoke",
       "x": 5819.490669720626,
-      "y": 1986.1443705946363,
+      "y": 1905.427330231798,
       "w": 320,
-      "h": 565,
+      "h": 634,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -1916,9 +1927,12 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Civil engineering",
+          "Disaster management"
+        ],
+        "tags": [
           "Catastrophe"
         ],
-        "tags": [],
         "desc": "Vajont Dam. Date: Catastrophe, October 9, 1963 (Vajont disaster). Location: Erto e Casso / Longarone, Veneto, Italy. Actors: SADE/ENEL and planners, state/regional administrations, local populations; historical ambiguity regarding responsibility and technical omissions (later confirmed by trials). Introduction: During the filling of the reservoir, a gigantic landslide generated a wave that swept away the valleys below, causing nearly 2,000 deaths; a paradigmatic episode of geological underestimation and technocratic decisions without dialogue.\n",
         "links": [],
         "files": [
@@ -1936,9 +1950,9 @@
     {
       "id": "naie8jn2",
       "x": 6161.755077773562,
-      "y": 1984.2783087212338,
+      "y": 1903.5612683583954,
       "w": 320,
-      "h": 587,
+      "h": 678,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -1947,9 +1961,13 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Energy engineering",
+          "Indigenous rights",
+          "Political science"
+        ],
+        "tags": [
           "Protests"
         ],
-        "tags": [],
         "desc": "Dakota Access Pipeline (No DAPL / Standing Rock) Date: Main protests April 2016 – February 2017 (but broader impact). Location: North Dakota / routed through multiple US states. Actors: Standing Rock Sioux Tribe and other Native tribes, environmental activists, Energy Transfer Partners (proposer), federal government and agencies (Army Corps); ambiguity regarding consultations and respect for historic treaties. Introduction: Global mobilization against pipeline construction near sacred sites and water sources; symbolic episode of the assertion of indigenous rights against energy infrastructure.\n",
         "links": [],
         "files": [
@@ -1967,9 +1985,9 @@
     {
       "id": "nk628c7w",
       "x": 6161.778896667685,
-      "y": 2592.7091649435993,
+      "y": 2596.9507341464137,
       "w": 320,
-      "h": 638,
+      "h": 752,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -1978,9 +1996,14 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Aviation engineering",
+          "Urban planning",
+          "Social movements",
+          "Economics"
+        ],
+        "tags": [
           "Protests"
         ],
-        "tags": [],
         "desc": "Narita Airport (Sanrizuka struggle, Japan) Date: Conflict from 1966; construction and opening in 1978 (but protests continued). Location: Sanrizuka/Chiba, near Tokyo, Japan. Actors: Farmers and local residents (Sanrizuka), student and leftist groups, Japanese government and police, Narita International Airport Corporation; ambiguity regarding the radicalization of the protests and violence. Introduction: Extremely violent opposition by farmers and leftist groups against expropriations and lack of consultation: occupations, clashes, extreme acts, and years of instability during construction.\n",
         "links": [
           "https://en.wikipedia.org/wiki/Sanrizuka_Struggle?utm_source=chatgpt.com"
@@ -1999,10 +2022,10 @@
     },
     {
       "id": "nt1eoplw",
-      "x": 6164.323307849175,
-      "y": 3245.4178167275068,
+      "x": 6158.872558007591,
+      "y": 3379.4764686527537,
       "w": 320,
-      "h": 588,
+      "h": 679,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2011,10 +2034,13 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Protests",
+          "Hydraulic engineering",
+          "Energy studies",
+          "Cultural heritage"
+        ],
+        "tags": [
           "Landgrabbing"
         ],
-        "tags": [],
         "desc": "Three Gorges Dam. Date: Main construction 1994–2006; turbines fully operational until 2012. Location: Yangtze, Sandouping (Hubei), China. Stakeholders: Chinese government/China Three Gorges Corp., displaced local populations, environmentalists, scientific community; ambiguity surrounding precise displacement estimates and long-term impacts. Introduction: The world's largest hydroelectric power plant by installed capacity; it has provided flood control and power, but also the displacement of over a million people and the loss of cultural/environmental sites.\n",
         "links": [],
         "files": [
@@ -2031,10 +2057,10 @@
     },
     {
       "id": "ncbltg5v",
-      "x": 5824.042929695618,
-      "y": 4247.739269073591,
+      "x": 5820.312518999917,
+      "y": 4477.093799453375,
       "w": 320,
-      "h": 592,
+      "h": 684,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2043,10 +2069,14 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Transport engineering",
+          "Development economics",
+          "Political sci"
+        ],
+        "tags": [
           "Protests",
           "Landgrabbing"
         ],
-        "tags": [],
         "desc": "Standard Gauge Railway (Kenya, Mombasa–Nairobi SGR) Date: Construction and commissioning 2013–2017 (first phase completed 2017). Location: Kenya (Mombasa–Nairobi and branches). Stakeholders: Kenyan government, Chinese companies (CPC/CRBC), port operators, local communities, environmentalists; ambiguity regarding government-to-government contractual terms, debt, and environmental impacts (including on parks). Introduction: Modern line intended to connect the port and the capital; has raised concerns regarding expropriation, land use, impacts on wildlife, and financial sustainability.\n",
         "links": [],
         "files": [
@@ -2063,10 +2093,10 @@
     },
     {
       "id": "nmwf8j2i",
-      "x": 6164.064670031554,
-      "y": 3861.3385793168445,
+      "x": 6166.144157445258,
+      "y": 4079.6847577558115,
       "w": 320,
-      "h": 659,
+      "h": 728,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2075,11 +2105,15 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Protests",
+          "Hydraulic engineering",
+          "Archaeology",
+          "Political science"
+        ],
+        "tags": [
           "Landgrabbing",
+          "Protests",
           "Cultural loss"
         ],
-        "tags": [],
         "desc": "Turkish Dams on the Tigris and Euphrates (GAP/Ilısu - Hasankeyf Projects) Date: GAP project launched in the 1970s; Ilısu and related works active 2006–2020 (impoundment 2019–2020). Location: Southeast Turkey (Turkish Kurdistan), Tigris and Euphrates basins; submerged ancient city of Hasankeyf. Stakeholders: Turkish government (energy and irrigation projects), Kurdish and local communities, archaeologists/international NGOs; ambiguity regarding the balance between water/energy security and heritage protection. Introduction: Part of a broad regional development program (GAP) that has led to expropriations, forced displacement, and the loss of millennia-old sites (Hasankeyf), sparking national and international protests.\n",
         "links": [],
         "files": [
@@ -2097,9 +2131,9 @@
     {
       "id": "nxq10een",
       "x": 6506.317198818068,
-      "y": 1973.3153311275205,
+      "y": 1892.5982907646821,
       "w": 320,
-      "h": 597,
+      "h": 649,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2107,7 +2141,11 @@
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Transportation engineering",
+          "Geography",
+          "International relations"
+        ],
         "tags": [],
         "desc": "Pan-American Highway / Darien Gap. Data: Road system development began in the 20th century; the Darien Gap remains incomplete (historical strategic absence). Location: From the Americas—a natural gap in the Darién (Panama-Colombia). Stakeholders: National governments, local indigenous communities, environmentalists; ambiguity between commercial connectivity and ecological/indigenous protection interests. Introduction: The decision not to cross the Darién—for technical, environmental, and indigenous protection reasons—has preserved an ecological barrier; it is an example of “missing infrastructure” driven by conflicts and evaluations.\n",
         "links": [],
@@ -2126,9 +2164,9 @@
     {
       "id": "nulybvfi",
       "x": 6506.636868170414,
-      "y": 2586.5516005245504,
+      "y": 2562.336488415699,
       "w": 320,
-      "h": 622,
+      "h": 713,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2137,9 +2175,13 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Hydraulic engineering",
+          "Development studies",
+          "Social anthropology"
+        ],
+        "tags": [
           "Protests"
         ],
-        "tags": [],
         "desc": "Narmada Dam and Narmada Bachao Andolan (India) Date: Decision-making process and construction from 1960–2000; significant mobilizations from 1985 onwards. Location: Narmada River basin (states of Madhya Pradesh, Gujarat, Maharashtra), India. Actors: State and central governments, World Bank at some stages, movements led by Medha Patkar/Baba Amte, tribal and peasant communities; ambiguity regarding displacement figures and compensation arrangements. Introduction: A series of large dams (including Sardar Sarovar) that sparked one of India's best-known social resistance movements, echoing issues of development versus indigenous rights.\n",
         "links": [],
         "files": [
@@ -2156,10 +2198,10 @@
     },
     {
       "id": "n1qras43",
-      "x": 6506.46021151747,
-      "y": 3232.6929746090677,
+      "x": 6504.96532220968,
+      "y": 3290.993657612875,
       "w": 320,
-      "h": 639,
+      "h": 730,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2168,6 +2210,10 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Political science",
+          "International law",
+          "Human geography",
+          "Security studies",
           "Human rights"
         ],
         "tags": [],
@@ -2189,10 +2235,10 @@
     },
     {
       "id": "n2ady6kg",
-      "x": 6504.651691984903,
-      "y": 3894.6111235287026,
+      "x": 6502.786486637053,
+      "y": 4043.2367958996356,
       "w": 320,
-      "h": 701,
+      "h": 815,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2201,11 +2247,17 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Human rights",
+          "Hydraulic engineering",
+          "Environmental studies",
+          "Indigenous studies",
+          "Development economics"
+        ],
+        "tags": [
           "Landgrabbing",
           "Protests",
           "Human rights"
         ],
-        "tags": [],
         "desc": "Belo Monte Dam (Brazil). Date: Ten-year project phases (since the 1970s); construction intensified in the 2000s; partially operational since 2016. Location: Xingu River, Pará, Amazon, Brazil. Stakeholders: Brazilian government, energy companies, indigenous peoples and local rebels, environmental NGOs; ambiguity regarding the number of displaced people and energy balance vs. ecological impacts. Introduction: One of the most contested hydroelectric projects in the Amazon: large submerged areas, displacement of indigenous communities, and international legal and political battles. \n",
         "links": [
           "https://www.aljazeera.com/features/2012/1/20/dam-it-brazils-belo-monte-stirs-controversy?utm_source=chatgpt.com"
@@ -2225,9 +2277,9 @@
     {
       "id": "n0lcx8mv",
       "x": 6849.898783924073,
-      "y": 1979.7076306937297,
+      "y": 1898.9905903308913,
       "w": 320,
-      "h": 689,
+      "h": 780,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2236,10 +2288,14 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Transport engineering",
+          "Archaeology",
+          "Indigenous studies"
+        ],
+        "tags": [
           "Landgrabbing",
           "Protests"
         ],
-        "tags": [],
         "desc": "“Tren (or Tren) Maya” Railway Project (Mexico). Date: Planning and construction start 2018–2023; sections partially opened/operational from 2023. Location: Yucatán Peninsula (states: Quintana Roo, Yucatán, Campeche, Tabasco, Chiapas). Stakeholders: Mexican government (AMLO), construction companies, indigenous Mayan communities, environmentalists, scientists/UNESCO; ambiguity regarding effective consultation and damage to biospheres/karst cavities. Introduction: A major tourism and regional development project that has sparked protests over environmental impacts, expropriation, and the failure to protect archaeological sites and local communities.",
         "links": [
           "https://news.mongabay.com/2024/06/riding-the-tren-maya-a-journey-on-mexicos-controversial-new-railway-line/?utm_source=chatgpt.com"
@@ -2258,10 +2314,10 @@
     },
     {
       "id": "ns46p3tt",
-      "x": 6845.187198162651,
-      "y": 2683.221695742255,
+      "x": 6847.080862840277,
+      "y": 2694.9862125083064,
       "w": 320,
-      "h": 662,
+      "h": 753,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2270,9 +2326,13 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Transportation engineering",
+          "Urban/regional planning",
+          "Economics"
+        ],
+        "tags": [
           "Protests"
         ],
-        "tags": [],
         "desc": "HS2 High-Speed ​​Rail (UK). Date: Project approved in the 2010s; intense construction and protests, especially from 2017–2024 (and beyond). Location: Great Britain (London → Midlands → North). Actors: UK government, construction companies, local communities and environmental groups (tree activists, anti-HS2 camps), local authorities; ambiguity over economic benefits vs. destruction of forests/landscapes. Introduction: Project intended to connect regions and “balance” the country; has met with strong opposition due to its impact on ancient forests, costs, and long-term benefits.",
         "links": [
           "https://www.theguardian.com/uk-news/2020/jun/13/rise-in-injunctions-against-hs2-protesters?utm_source=chatgpt.com"
@@ -2291,10 +2351,10 @@
     },
     {
       "id": "nq08g7td",
-      "x": 6843.578874514171,
-      "y": 3364.1204397880165,
+      "x": 6849.141905237026,
+      "y": 3475.3810542451038,
       "w": 320,
-      "h": 661,
+      "h": 724,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2303,10 +2363,13 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Energy engineering political science",
+          "Sociology of protest"
+        ],
+        "tags": [
           "Protests",
           "Useless investment"
         ],
-        "tags": [],
         "desc": "Montalto di Castro Nuclear Power Plant (Italy). Date: Construction began 1982; halted after 1987 referendum (Chernobyl → political decision) — never entered into operation. Location: Montalto di Castro, Lazio, Italy. Actors: ENEL (proponent), government, anti-nuclear movements, public opinion (referendum); ambiguity over economic losses vs. post-Chernobyl democratic choice. Introduction: Nearing completion, the plant was halted by the national referendum that ended Italy's nuclear expansion in the 1980s; an exemplary case of direct democracy blocking an infrastructure. \n",
         "links": [
           "https://en.wikipedia.org/wiki/Montalto_di_Castro_Nuclear_Power_Station?utm_source=chatgpt.com"
@@ -2325,10 +2388,10 @@
     },
     {
       "id": "nlqu5h42",
-      "x": 6846.189556937042,
-      "y": 4043.3399930070027,
+      "x": 6848.054762284893,
+      "y": 4227.995322444175,
       "w": 320,
-      "h": 628,
+      "h": 765,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2337,9 +2400,15 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Human rights",
+          "Maritime engineering",
+          "Economic geography",
+          "International relations",
+          "History"
+        ],
+        "tags": [
           "Human rights"
         ],
-        "tags": [],
         "desc": "Suez Canal (19th century). Date: Construction 1859–1869; inauguration November 17, 1869. Location: Isthmus of Suez, Egypt. Actors: European companies (Ferdinand de Lesseps / Compagnie universelle du canal), Egyptian authorities (viceroy), local forced laborers (corvée), colonial powers; historical ambiguity regarding actual deaths and working conditions (estimates vary). Introduction: A work that revolutionized global maritime trade; built with strong European intervention and the use of massive labor, sources differ on human losses and social cost. \n",
         "links": [
           "https://en.wikipedia.org/wiki/Suez_Canal?utm_source=chatgpt.com"
@@ -2359,9 +2428,9 @@
     {
       "id": "ne4w6x4w",
       "x": 7202.764171296195,
-      "y": 1980.7239161208754,
+      "y": 1900.006875758037,
       "w": 320,
-      "h": 639,
+      "h": 707,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2370,11 +2439,15 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Hydraulic engineering",
+          "Archaeology",
+          "Development economics"
+        ],
+        "tags": [
           "Landgrabbing",
           "Human rights",
           "Cultural loss"
         ],
-        "tags": [],
         "desc": "Aswan High Dam (Egypt). Date: Construction 1960–1970 (completion 1970; filling and operation until the 1970s). Location: Aswan, Egypt (Nile). Actors: Egyptian government (Nasser), Soviet Union (support/funding), displaced Nubian populations, scientific communities, and UNESCO (Abu Simbel rescue); ambiguity over economic benefits vs. cultural loss and environmental impacts. Introduction: A national project symbolizing modernization (power and flood control) that solved many water issues but resulted in the relocation of tens of thousands of Nubians and the submergence of historic sites (international archaeological rescues).\n",
         "links": [],
         "files": [
@@ -2392,9 +2465,9 @@
     {
       "id": "nyt0d61t",
       "x": 7203.837301269176,
-      "y": 2656.7872334845406,
+      "y": 2632.572121375689,
       "w": 320,
-      "h": 662,
+      "h": 753,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2403,10 +2476,14 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Aviation engineering",
+          "Urban planning",
+          "Economic geography"
+        ],
+        "tags": [
           "Protests",
           "Victims"
         ],
-        "tags": [],
         "desc": "Atatürk Airport / New Istanbul Airport (Turkey). Date: New airport project started 2010s; opening and relocation 2018; protests documented primarily 2017–2018. Location: Istanbul, Turkey. Actors: Turkish government (major state project), construction companies, workers (complaints about conditions), unions, and NGOs; ambiguity about actual number of accidents/deaths and transparency. Introduction: The new airport has become a symbol of modernization but also of human costs (rapid working conditions, reported fatalities) and deforestation. \n",
         "links": [
           "https://www.irishtimes.com/news/world/europe/rush-to-finish-istanbul-airport-leads-to-deaths-and-protests-1.3651616?utm_source=chatgpt.com"
@@ -2426,9 +2503,9 @@
     {
       "id": "nx9rwbkg",
       "x": 7201.499172108074,
-      "y": 3349.214915941643,
+      "y": 3405.2645090323886,
       "w": 320,
-      "h": 676,
+      "h": 767,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2437,10 +2514,14 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Transport engineering",
+          "Development studies",
+          "Anthropology"
+        ],
+        "tags": [
           "Landgrabbing",
           "Protests"
         ],
-        "tags": [],
         "desc": "Trans-Amazonian Highway (BR-230, Brazil). Date: Construction early 1970s (military regime), subsequent expansions; incomplete and amplifying deforestation. Location: Brazilian Amazon (various portions of BR-230). Actors: Brazilian military government, settlers, agribusiness/mining companies, indigenous peoples, environmentalists; ambiguity between development slogans and actual environmental impacts. Introduction: Colonial initiative to open up the Amazon that fueled waves of deforestation, settlements, and conflicts with indigenous peoples; symbol of an infrastructure that transformed the territory. \n",
         "links": [
           "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/trans-amazonian-highway?utm_source=chatgpt.com"
@@ -2459,10 +2540,10 @@
     },
     {
       "id": "nd7mba5z",
-      "x": 7203.079250176513,
-      "y": 4051.370722488028,
+      "x": 7198.167852891285,
+      "y": 4209.257098810374,
       "w": 320,
-      "h": 712,
+      "h": 803,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2471,10 +2552,14 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Landgrabbing",
-          "Protests"
+          "Transport engineering",
+          "Development studies",
+          "Indigenous rights"
         ],
-        "tags": [],
+        "tags": [
+          "Protests",
+          "Landgrabbing"
+        ],
         "desc": "Guatemala Highway Corridor (CA-9 and related projects). Date: Various projects and construction over the past decades; recurring tensions (blockades and protests, especially 2010s–2020s). Location: Guatemala (port-inland connections). Actors: Guatemalan government, infrastructure companies, indigenous communities (Maya), social movements and land defense; ambiguity regarding consultation and respect for collective rights. Introduction: Connectivity projects often cross indigenous territories without adequate consultation: communities have organized blockades, assemblies, and protests to demand the right to consultation and land.\n",
         "links": [
           "https://amnesty.ca/urgent-actions/guatemala-peaceful-protesters-face-imminent-risk/?utm_source=chatgpt.com"
@@ -2811,7 +2896,7 @@
       "x": 7528.4783470505745,
       "y": 9238.702676604822,
       "w": 320,
-      "h": 716,
+      "h": 767,
       "group": null,
       "data": {
         "date": "2025-09-30",
@@ -2819,7 +2904,11 @@
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Security and defense studies",
+          "International relations",
+          "Social psychology"
+        ],
         "tags": [
           "War",
           "Human rights"
@@ -2883,7 +2972,7 @@
       "x": 7887.387231154915,
       "y": 9419.812795393691,
       "w": 320,
-      "h": 584,
+      "h": 629,
       "group": null,
       "data": {
         "date": "2025-09-30",
@@ -2892,9 +2981,10 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Health",
-          "War",
-          "Human rights"
+          "Hydraulic engineering",
+          "Humanitarian studies",
+          "Political economy",
+          "Social psychology"
         ],
         "tags": [
           "Health",
@@ -3762,10 +3852,58 @@
   ],
   "vocab": {
     "areas": [
+      "Political sci",
+      "Development economics",
+      "Transport engineering",
+      "Indigenous rights",
+      "Development studies",
+      "History",
+      "International relations",
+      "Economic geography",
+      "Maritime engineering",
+      "Indigenous studies",
+      "Environmental studies",
+      "Hydraulic engineering",
+      "Political science",
+      "Archaeology",
+      "Social movements",
+      "Urban planning",
+      "Anthropology",
+      "Energy engineering political science",
+      "Sociology of protest",
+      "Useless investment energy engineering political science",
+      "Security studies",
+      "Human geography",
+      "International law",
+      "Cultural heritage",
+      "Energy studies",
+      "Aviation engineering",
+      "Economics",
+      "Urban/regional planning",
+      "Transportation engineering",
+      "Social anthropology",
+      "Geology",
+      "Architecture",
+      "Civil engineering",
+      "Geography",
+      "Energy engineering",
+      "Disaster management",
+      "Indigenous studies aswan high dam → hydraulic engineering",
+      "International relations tren maya railway project → transport engineering",
+      "Political science pan-american highway → transportation engineering",
+      "Disaster management dakota access pipeline → energy engineering",
+      "Vajont dam → civil engineering",
+      "Humanitarian studies",
+      "Social psychology",
+      "Political economy",
+      "Desertification) humanitarian studies",
+      "Obsolete infrastructures) environmental studies (climate change",
+      "Wells",
+      "Hydraulic engineering (distribution",
       "Security and defense studies",
+      "Security and defense studies (hybrid electrical and energy engineering",
       "Infrastructure engineering",
       "Environmental sciences",
-      "Humanitarian studies",
       "Desalination) security and defense studies",
       "Electricity",
       "Infrastructure engineering (water networks",
@@ -3800,23 +3938,25 @@
       "Touristification",
       "Humanitarian and development studies",
       "International relations and human rights",
-      "Social psychology",
       "Political economy and public policy",
-      "Geopolitics and international relations",
-      "Energy engineering"
+      "Geopolitics and international relations"
     ],
     "tags": [
+      "Landgrabbing",
+      "Protests",
+      "Human rights",
+      "Cultural loss",
+      "Useless investment",
+      "Victims",
+      "Catastrophe",
       "Conflict",
       "Communication",
       "Overtourism",
       "Definition",
       "Infrastructure",
       "Extreme tourism",
-      "Victims",
-      "Protests",
       "War",
       "Health",
-      "Human rights",
       "Structural failure"
     ],
     "type": [
