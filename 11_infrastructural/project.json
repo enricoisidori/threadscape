@@ -2201,7 +2201,7 @@
       "x": 6504.96532220968,
       "y": 3290.993657612875,
       "w": 320,
-      "h": 730,
+      "h": 775,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2216,7 +2216,9 @@
           "Security studies",
           "Human rights"
         ],
-        "tags": [],
+        "tags": [
+          "Isolation"
+        ],
         "desc": "Israel–Palestine Separation Wall (West Bank Barrier) Date: Construction began in the early 2000s (after 2002); development and continuous sections. Location: Occupied West Bank territory / de facto borders. Actors: Israeli government, Palestinian authorities and Palestinian populations, international community/NGOs; ambiguity over security rationale vs. impact on rights and political future. Introduction: Barrier defended by Israel as a security measure; denounced by numerous international institutions as a tool that limits freedom of movement and de facto annexes territory. \n",
         "links": [
           "https://en.wikipedia.org/wiki/West_Bank_barrier?utm_source=chatgpt.com"
@@ -2235,8 +2237,8 @@
     },
     {
       "id": "n2ady6kg",
-      "x": 6502.786486637053,
-      "y": 4043.2367958996356,
+      "x": 6504.727340503073,
+      "y": 4078.172165488002,
       "w": 320,
       "h": 815,
       "group": null,
@@ -2407,7 +2409,7 @@
           "History"
         ],
         "tags": [
-          "Human rights"
+          "Victims"
         ],
         "desc": "Suez Canal (19th century). Date: Construction 1859–1869; inauguration November 17, 1869. Location: Isthmus of Suez, Egypt. Actors: European companies (Ferdinand de Lesseps / Compagnie universelle du canal), Egyptian authorities (viceroy), local forced laborers (corvée), colonial powers; historical ambiguity regarding actual deaths and working conditions (estimates vary). Introduction: A work that revolutionized global maritime trade; built with strong European intervention and the use of massive labor, sources differ on human losses and social cost. \n",
         "links": [
@@ -2578,10 +2580,10 @@
     },
     {
       "id": "nd26bnkn",
-      "x": 5781.6693113908095,
-      "y": 9198.548826414786,
+      "x": 5791.7261816386235,
+      "y": 9221.535958409791,
       "w": 320,
-      "h": 742,
+      "h": 781,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2589,11 +2591,11 @@
         "type": "",
         "action": null,
         "mainArea": null,
-        "areas": [
+        "areas": [],
+        "tags": [
           "Structural failure",
           "Isolation"
         ],
-        "tags": [],
         "desc": "Infrastructure= prisons, facilities for managing social issues\n\nConflict = the infrastructure itself is the conflict (often invisible, prisons are located in hidden locations; it is a mirror of a dysfunctional society, which few, however, want to address).\n\nStructural failure: social structure that, rather than managing the problem, becomes a catalyst for crisis (overcrowding at 247%, the facility can no longer guarantee humane living conditions).\n\nIsolation: lack of human resources to support the maintenance and health of inmates + lack of bureaucracy",
         "links": [
           "https://www.internazionale.it/reportage/luigi-mastrodonato/2025/07/22/carcere-italia-san-vittore"
@@ -2615,7 +2617,7 @@
       "x": 5777.222469673538,
       "y": 7615.8972614035665,
       "w": 320,
-      "h": 795,
+      "h": 812,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2623,12 +2625,12 @@
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [
+        "areas": [],
+        "tags": [
           "Structural failure",
           "Protests",
           "Isolation"
         ],
-        "tags": [],
         "desc": "The Pruitt–Igoe complex was a massive public housing project in St. Louis, Missouri, designed by architect Minoru Yamasaki and completed in 1955. It consisted of 33 eleven-story high-rise buildings with nearly 3,000 apartments, intended to provide modern, affordable housing for low-income residents after World War II.\n\nInitially celebrated as a symbol of urban renewal, Pruitt–Igoe soon faced serious problems, including poor maintenance, crime, poverty, and social isolation, worsened by inadequate funding and flawed design. By the late 1960s, many units were abandoned, and the complex became a national example of failed public housing policy. Beginning in 1972, the buildings were systematically demolished, marking one of the most famous collapses of modernist architecture and urban planning ideals in the United States.",
         "links": [],
         "files": [
@@ -2648,7 +2650,7 @@
       "x": 5787.7485383813755,
       "y": 8438.373461347855,
       "w": 320,
-      "h": 741,
+      "h": 758,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2656,12 +2658,12 @@
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [
+        "areas": [],
+        "tags": [
           "Structural failure",
           "Isolation",
           "Protests"
         ],
-        "tags": [],
         "desc": "The Hulme Crescents were a vast public housing development in Manchester, England, completed in 1972 as part of a postwar urban renewal plan. Consisting of four massive curved concrete blocks with deck-access walkways, they were intended to provide modern, affordable homes inspired by the elegance of Georgian architecture.\n\nDespite their ambitious design, the Crescents quickly suffered from poor construction, damp, heating problems, and rising crime, while their elevated walkways created isolation and safety concerns. Within just a few years many residents demanded rehousing, and the complex gained a reputation for neglect and danger. By the early 1990s the buildings were largely abandoned, and between 1993 and 1995 the entire development was demolished, becoming a symbol of failed modernist housing policy in the UK.",
         "links": [],
         "files": [
@@ -2701,7 +2703,7 @@
       "x": 6150.51015995356,
       "y": 7635.280201963766,
       "w": 320,
-      "h": 683,
+      "h": 699,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2709,11 +2711,11 @@
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [
+        "areas": [],
+        "tags": [
           "Victims",
           "Psychological distress"
         ],
-        "tags": [],
         "desc": "Grenfell Tower (London, 2017)\n\nProblem: Fire caused by combustible cladding, resulting in 72 deaths.\n\nPsychological effects: Survivors and residents of nearby blocks reported post-traumatic stress disorder (PTSD), anxiety, insomnia, and fire-related phobias.\n\nLegal relevance: The UK government recognized the need for long-term psychological support for former residents.",
         "links": [],
         "files": [
@@ -2733,7 +2735,7 @@
       "x": 6148.581371635434,
       "y": 8354.02604794899,
       "w": 320,
-      "h": 599,
+      "h": 615,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2741,11 +2743,11 @@
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [
+        "areas": [],
+        "tags": [
           "Psychological distress",
           "Structural failure"
         ],
-        "tags": [],
         "desc": "Citicorp Center (New York, 1970s)\n\nProblem: It was discovered that the building could collapse in the event of strong winds.\n\nPsychological effects: When the news became public, tenants reported chronic anxiety and fear of working on the upper floors—even after repairs.",
         "links": [],
         "files": [
@@ -2763,9 +2765,9 @@
     {
       "id": "nbeko8lm",
       "x": 6144.694773662868,
-      "y": 8968.260496844056,
+      "y": 8996.994411837812,
       "w": 320,
-      "h": 840,
+      "h": 856,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -2773,11 +2775,11 @@
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [
+        "areas": [],
+        "tags": [
           "Psychological distress",
           "Structural failure"
         ],
-        "tags": [],
         "desc": "John Hancock Tower (Boston, 1970s)\n\nProblem: Glass panels detached and fell.\n\nPsychological effects: Workers and passersby spoke of “constant terror” and “killer glass panic,” and many avoided walking beneath the building.",
         "links": [],
         "files": [
@@ -3045,6 +3047,46 @@
             "path": "assets/image_100.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "nf76rok1",
+      "x": 8964.10632578762,
+      "y": 8534.031581640233,
+      "w": 320,
+      "h": 809,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "What if your biological parameters regulated access to infrastructure like subway?",
+        "type": "",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "How spaces influence us. \n\nConflict: inadequacy of the infrastructure system that deals with safety, inner emotional\nCauses: possibility of access to an infrastructure\nImplications: homologation and emotional flattening, greater security\n\nAgents: infrastructure and people\n\nHow the conflict develops: is it legitimate to experience a certain emotional state?\nImagine wanting to take the subway to go dancing: if the infrastructure detects that you're too drunk, stressed, or irritated, you're denied access until your biometric and emotional parameters fall within the permitted threshold. Infrastructure thus becomes active emotional filters, forcing individuals to modulate their internal state in order to use public spaces.\n\nSccenario: ATM, the public transport company, aims to optimize operational efficiency by reducing delays caused by accidents, vandalism, or violent incidents, in order to ensure high levels of safety and service reliability.\nIn the near future, the growing need to integrate and connect an ever-increasing number of areas of the city of Milan, benefiting both residents and tourists of all ages, will require innovative solutions.\nATM intends to distinguish itself from other transport operators by introducing strategies and technologies capable of optimizing passenger flow management, improving safety, and reducing operational disruptions, positioning itself as a benchmark service in urban mobility.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbzdz9x9",
+      "x": 9310.434104980584,
+      "y": 8538.31513345827,
+      "w": 320,
+      "h": 1111,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "What if the infrastructures surrounding you monitored you 24/7?",
+        "type": "",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Compliance architecture\n\nConflict: they intervene in your emotional and social sphere, shaping your moral choices and individual expressions\nCauses: monitors become behavioral and emotional control system\nImplications: society of facades and exclusion\n\n\nAgents: infrastructures and people\n\nHow the conflict develops: \n- Infrastructure that captures => smart walls or pavements, radar sensors that detect heartbeats, networks that capture personal data, etc.\n\n- Infrastructure that imposes judgment => decides that the stressed person is a risk to optimization and must be isolated.\n\nThe core of the conflict isn't limited to the physical infrastructure (from bricks and mortar to buildings), but rather the entire series of dynamics that are part of the logistics of an infrastructure, from bureaucracy, administrative organization, economic agreements...\nInfrastructure therefore has the power to influence the lives of individuals, from the way cities, neighborhoods, homes, public and private buildings, to places of education, etc., are organized.\n\nScenario:\n→ School: A child with high levels of stress/attention is isolated or sent to \"corrective\" courses that limit their interaction with the rest of the community.\n\n→ Office: Meetings are judged not only on output, but also on the \"level of emotional engagement,\" penalizing those who...\n\n→ Transportation: The car won't start if your stress/sleep levels are too high,\nor on the bus, the system identifies the \"visibly agitated\" person and sends an alarm.\n\n→ Home: There is no longer a private space in which to be \"imperfect\" or \"simply tired.\" Monitoring is total and pervasive.\n\n\nIf our authenticity were the price we paid for an “optimized” and integrated life, how willing would we be to do it?",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -3871,7 +3913,6 @@
       "Anthropology",
       "Energy engineering political science",
       "Sociology of protest",
-      "Useless investment energy engineering political science",
       "Security studies",
       "Human geography",
       "International law",
@@ -3888,33 +3929,15 @@
       "Geography",
       "Energy engineering",
       "Disaster management",
-      "Indigenous studies aswan high dam → hydraulic engineering",
-      "International relations tren maya railway project → transport engineering",
-      "Political science pan-american highway → transportation engineering",
-      "Disaster management dakota access pipeline → energy engineering",
-      "Vajont dam → civil engineering",
       "Humanitarian studies",
       "Social psychology",
       "Political economy",
-      "Desertification) humanitarian studies",
-      "Obsolete infrastructures) environmental studies (climate change",
-      "Wells",
-      "Hydraulic engineering (distribution",
       "Security and defense studies",
-      "Security and defense studies (hybrid electrical and energy engineering",
       "Infrastructure engineering",
-      "Environmental sciences",
-      "Desalination) security and defense studies",
-      "Electricity",
-      "Infrastructure engineering (water networks",
       "Protests",
       "Victims",
       "Psychological distress",
       "Isolation",
-      "Landgrabbing",
-      "Cultural loss",
-      "Useless investment",
-      "Catastrophe",
       "Extreme tourism",
       "Transportation",
       "Tourism",
@@ -3932,7 +3955,6 @@
       "Critical design",
       "Critical theory",
       "War",
-      "Health",
       "Human rights",
       "Structural failure",
       "Touristification",
@@ -3942,12 +3964,15 @@
       "Geopolitics and international relations"
     ],
     "tags": [
-      "Landgrabbing",
+      "Structural failure",
+      "Psychological distress",
+      "Isolation",
       "Protests",
-      "Human rights",
-      "Cultural loss",
-      "Useless investment",
       "Victims",
+      "Human rights",
+      "Useless investment",
+      "Landgrabbing",
+      "Cultural loss",
       "Catastrophe",
       "Conflict",
       "Communication",
@@ -3956,8 +3981,7 @@
       "Infrastructure",
       "Extreme tourism",
       "War",
-      "Health",
-      "Structural failure"
+      "Health"
     ],
     "type": [
       "Source",
