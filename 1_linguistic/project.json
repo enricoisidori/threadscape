@@ -100,7 +100,8 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Linguistic"
+          "Linguistic",
+          "Philosophy"
         ],
         "tags": [],
         "desc": "Ferdinand de Saussure, research and description.",
@@ -161,7 +162,7 @@
     {
       "id": "ncvs9w0i",
       "x": 1920,
-      "y": 0,
+      "y": 1.1859159662567436,
       "w": 320,
       "h": 173,
       "group": null,
@@ -183,7 +184,7 @@
       "x": 2400,
       "y": 0,
       "w": 320,
-      "h": 304,
+      "h": 281,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -193,8 +194,7 @@
         "mainArea": "Communication",
         "areas": [
           "Conflict",
-          "Linguistic",
-          "Research"
+          "Linguistic"
         ],
         "tags": [],
         "desc": "different languages, different realities, different truths.",
@@ -220,7 +220,7 @@
         "areas": [
           "Conflict",
           "Linguistic",
-          "Research"
+          "Philosophy"
         ],
         "tags": [],
         "desc": "“The Tower of Babel marks two distinct periods in human history: an initial, primordial age of happiness, when humanity shared a single common and universal language, and a subsequent historical period, characterized by the multiplication and wide dispersion of languages.”",
@@ -235,7 +235,7 @@
       "x": 2880,
       "y": 414,
       "w": 320,
-      "h": 579,
+      "h": 556,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -245,8 +245,7 @@
         "mainArea": "Communication",
         "areas": [
           "Conflict",
-          "Linguistic",
-          "Research"
+          "Linguistic"
         ],
         "tags": [],
         "desc": "Every organism possesses both a receptive system and an active system.\nThe receptive and active systems together constitute the functional cycle of the animal.\nIn the human world, beyond the receptive and active systems—shared with all animals—man also possesses what Cassirer calls the symbolic system.\nHuman beings do not merely inhabit a broader and more complex reality; they live within an entirely new dimension of reality.\nThere is a clear difference between the reaction of humans to stimuli and that of other animals: in the case of animals, the reaction is immediate and direct, whereas in human beings it is postponed, interrupted, and delayed by a slow and intricate process of thought.\nMan no longer lives in a purely physical universe but in a symbolic universe.\nPhysical reality recedes progressively as human beings develop their linguistic and symbolic capacities.\n",
@@ -259,7 +258,7 @@
       "x": 2880,
       "y": 1975,
       "w": 320,
-      "h": 310,
+      "h": 288,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -269,8 +268,7 @@
         "mainArea": "Communication",
         "areas": [
           "Conflict",
-          "Linguistic",
-          "Research"
+          "Linguistic"
         ],
         "tags": [],
         "desc": "The exact equivalent of a meaning in the language from which we are translating into our own language does not exist. Truth itself is multiple, and every culture possesses its own truth.",
@@ -283,7 +281,7 @@
       "x": 2400,
       "y": 334,
       "w": 320,
-      "h": 202,
+      "h": 179,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -292,7 +290,6 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research",
           "Linguistic",
           "Conflict"
         ],
@@ -307,7 +304,7 @@
       "x": 2880,
       "y": 2315,
       "w": 320,
-      "h": 202,
+      "h": 179,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -316,7 +313,6 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research",
           "Linguistic",
           "Conflict"
         ],
@@ -331,7 +327,7 @@
       "x": 2880,
       "y": 3683,
       "w": 320,
-      "h": 247,
+      "h": 224,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -340,7 +336,6 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research",
           "Linguistic",
           "Conflict"
         ],
@@ -355,7 +350,7 @@
       "x": 2880,
       "y": 6683,
       "w": 320,
-      "h": 365,
+      "h": 342,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -364,7 +359,6 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research",
           "Linguistic",
           "Conflict"
         ],
@@ -379,7 +373,7 @@
       "x": 2880,
       "y": 7526,
       "w": 320,
-      "h": 228,
+      "h": 206,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -388,7 +382,6 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research",
           "Linguistic",
           "Conflict"
         ],
@@ -436,7 +429,8 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Linguistic"
+          "Linguistic",
+          "Censorship"
         ],
         "tags": [],
         "desc": "Manufacturing Consent is a 1988 essay co-authored by Edward S. Herman and Noam Chomsky, in which the authors first develop the theory of the propaganda model and then apply it to a series of case studies.",
@@ -449,7 +443,7 @@
       "x": 3360,
       "y": 0,
       "w": 320,
-      "h": 271,
+      "h": 294,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -458,7 +452,8 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Linguistic"
+          "Linguistic",
+          "Cognitive science"
         ],
         "tags": [],
         "desc": "A professor of linguistics at MIT, he is recognized as the founder of generative-transformational grammar, often regarded as the most significant contribution to theoretical linguistics in the twentieth century.",
@@ -471,7 +466,7 @@
       "x": 3360,
       "y": 302,
       "w": 320,
-      "h": 409,
+      "h": 432,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -480,7 +475,8 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Linguistic"
+          "Linguistic",
+          "Cognitive science"
         ],
         "tags": [],
         "desc": "In the book, Chomsky describes how the media filter information through five main mechanisms:\nPrivate ownership of the media → economic interests shape the narrative.\nAdvertising as a source of funding → limits critical discourse toward sponsors.\nSources of information → journalists depend on governments and corporations.\nFlak → criticisms and pressures directed at “uncomfortable” voices.\nDominant ideology (e.g., anti-communism, today the “war on terror”).\nAll these mechanisms operate at the linguistic level: they select words, frames, and silences.",
@@ -493,7 +489,7 @@
       "x": 3840,
       "y": 0,
       "w": 320,
-      "h": 325,
+      "h": 348,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -502,7 +498,8 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Linguistic"
+          "Linguistic",
+          "Cognitive science"
         ],
         "tags": [],
         "desc": "Chomsky argues that language is never neutral:\nIn modern democracies, power is exercised more through the management of discourse than through force. Political and media language is simplified, manipulated, and “domesticated” to make certain ideas conceivable and others inconceivable.\nThis constitutes an implicit linguistic conflict: those who hold power determine which words, metaphors, and interpretive frames dominate the public sphere.",
@@ -515,7 +512,7 @@
       "x": 3840,
       "y": 353,
       "w": 320,
-      "h": 640,
+      "h": 663,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -524,7 +521,8 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Linguistic"
+          "Linguistic",
+          "Cognitive science"
         ],
         "tags": [],
         "desc": "Example: the use of the term “collateral damage” instead of “civilians killed” in war. The same fact, but language that neutralizes the ethical impact.\n“Special operation” vs. “war” (Russia–Ukraine, 2022–present)\nThe Kremlin prohibits the use of the word “war” in Russian media; those who use it risk fines and imprisonment. The official narrative frames the conflict as a “special military operation.”\nHere, the conflict is purely linguistic: defining the event one way or another shapes public perception.\nIf it is called a “war”, it implies aggression, invasion, and civilian casualties.\nIf it is called a “special operation”, it appears technical, limited, and legitimate.\n“Migrants” vs. “invaders” (Europe and the USA, recent years)\nIn many political discourses, refugees or asylum seekers are labeled as “invaders”, “hordes”, or “illegals.”\nLexicon does not merely describe a phenomenon; it constructs a mental frame: migrants become a “military threat” rather than human beings.\nThe same individual can be a “refugee” (evoking compassion and the right to asylum) or an “illegal” (evoking illegality and danger).",
@@ -537,7 +535,7 @@
       "x": 2400,
       "y": 1020,
       "w": 320,
-      "h": 228,
+      "h": 206,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -547,8 +545,7 @@
         "mainArea": "Communication",
         "areas": [
           "Conflict",
-          "Linguistic",
-          "Research"
+          "Linguistic"
         ],
         "tags": [],
         "desc": "",
@@ -563,7 +560,7 @@
       "x": 2400,
       "y": 784,
       "w": 320,
-      "h": 202,
+      "h": 179,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -573,8 +570,7 @@
         "mainArea": "Communication",
         "areas": [
           "Conflict",
-          "Linguistic",
-          "Research"
+          "Linguistic"
         ],
         "tags": [],
         "desc": "",
@@ -587,7 +583,7 @@
       "x": 2880,
       "y": 4671,
       "w": 320,
-      "h": 1133,
+      "h": 1111,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -597,8 +593,7 @@
         "mainArea": "Communication",
         "areas": [
           "Conflict",
-          "Linguistic",
-          "Research"
+          "Linguistic"
         ],
         "tags": [],
         "desc": "Guugu Yimithirr (Australia, Aboriginals of Queensland)\nThey do not use “right/left” for orientation. They rely solely on cardinal directions (north, south, east, west).\nFor them, a phrase such as “there is an ant on your right leg” becomes “there is an ant on your south leg,” which implies that they must always maintain an absolute sense of space. They perceive the world in geographic rather than egocentric terms.\nPirahã (Amazon, Brazil)\nThey lack precise numbers; only the concepts of “few” and “many” exist.\nThis alters the perception of quantity itself: for them, there is no “seven fish,” only “some fish.” They live in an immediate present, without the mathematical abstraction as understood in Western cultures.\nYupik (Inuit populations of Alaska)\nThey have over 90 terms for snow, not merely as a substance but as an event, process, or outcome.\nFor example, there are distinct words for “snow falling in large flakes,” “freshly fallen soft snow,” and “snow compacted by wind.” This is not simple synonymy but a perceptual mapping of the landscape, which is vital for them.\nDani (Papua New Guinea)\nThey have only two words for colors: “mili” (dark, cool: black, blue, green) and “mola” (light, warm: red, yellow, white).\nThey do not distinguish blue from green or yellow from white, because the chromatic world is reduced to two categories. Color is thus perceived as polarity rather than as a spectrum.\nAymara (Andes, Bolivia/Peru)\nTheir perception of time is inverted:\nPast = in front (visible)\nFuture = behind (not visible)\nFor them, the future comes from behind the back, and the past lies before the eyes—a true reversal of our mental image of time.\nBassa (Liberia, Africa)\nThe language lacks words for numbers beyond five; quantities above this are expressed through combinations and metaphors.\nThis lexical limitation results in a very different perception of quantity: mathematics is not an innate tool in their worldview.\nKalaallisut (Greenland, Inuit)\nSingle word: “qangatasuukkuvimmuuriaqalaaqtunga” = “I have to go to the airport.”\nThe language is polysynthetic: a concept that requires an entire sentence in Italian is expressed as a single word. This alters the perception of what a “word” is and how compact a concept can be.",
@@ -611,7 +606,7 @@
       "x": 2400,
       "y": 1282,
       "w": 320,
-      "h": 228,
+      "h": 206,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -621,7 +616,6 @@
         "mainArea": "Communication",
         "areas": [
           "Linguistic",
-          "Research",
           "Conflict"
         ],
         "tags": [],
@@ -637,7 +631,7 @@
       "x": 2880,
       "y": 1536,
       "w": 320,
-      "h": 415,
+      "h": 392,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -647,7 +641,6 @@
         "mainArea": "Communication",
         "areas": [
           "Linguistic",
-          "Research",
           "Conflict"
         ],
         "tags": [],
@@ -661,7 +654,7 @@
       "x": 2880,
       "y": 2551,
       "w": 320,
-      "h": 348,
+      "h": 325,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -671,7 +664,6 @@
         "mainArea": "Communication",
         "areas": [
           "Linguistic",
-          "Research",
           "Conflict"
         ],
         "tags": [],
@@ -685,7 +677,7 @@
       "x": 2400,
       "y": 1544,
       "w": 320,
-      "h": 172,
+      "h": 838,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -694,14 +686,30 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research",
           "Conflict",
           "Linguistic"
         ],
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 12.00.24.png",
+            "size": 2288899,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_12.00.24.jpg"
+          },
+          {
+            "name": "Screenshot 2025-09-27 alle 12.00.36.png",
+            "size": 1905563,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_12.00.36.jpg"
+          }
+        ]
       }
     },
     {
@@ -718,8 +726,7 @@
         "action": null,
         "mainArea": "Communication",
         "areas": [
-          "Linguistic",
-          "Research"
+          "Linguistic"
         ],
         "tags": [],
         "desc": "An auxiliary language—or international auxiliary language, often abbreviated as IAL (from the English international auxiliary language, also referred to as auxlang)—is an artificial language created to facilitate communication between people of different nations who do not share a common language.\nThe term “auxiliary” implies that it is an additional language intended to be learned as a second language by all people worldwide, rather than a replacement for their native tongues. The term often refers specifically to constructed languages designed to facilitate international communication, such as Esperanto, Ido, Interlingua, Volapük, Glosa, and others.",
@@ -741,8 +748,7 @@
         "action": null,
         "mainArea": "Communication",
         "areas": [
-          "Linguistic",
-          "Research"
+          "Linguistic"
         ],
         "tags": [],
         "desc": "Some argue that in the future Esperanto could serve as a solution for peoples who have experienced colonialism, as they might prefer a language not associated with any former colonial power. Others suggest that Latin could once again become an official language in Europe, at least for administrative purposes.",
@@ -764,8 +770,7 @@
         "action": null,
         "mainArea": "Communication",
         "areas": [
-          "Linguistic",
-          "Research"
+          "Linguistic"
         ],
         "tags": [],
         "desc": "What if there were a single official language dedicated solely to administrative purposes?\n",
@@ -778,7 +783,7 @@
       "x": 2400,
       "y": 2900,
       "w": 320,
-      "h": 218,
+      "h": 196,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -788,8 +793,7 @@
         "mainArea": "Communication",
         "areas": [
           "Linguistic",
-          "Conflict",
-          "Research"
+          "Conflict"
         ],
         "tags": [],
         "desc": "",
@@ -802,7 +806,7 @@
       "x": 2880,
       "y": 3247,
       "w": 320,
-      "h": 411,
+      "h": 388,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -812,8 +816,7 @@
         "mainArea": "Communication",
         "areas": [
           "Linguistic",
-          "Conflict",
-          "Research"
+          "Conflict"
         ],
         "tags": [],
         "desc": "A special case is that of Serbia: Serbian is the official language of the state, but two scripts are in use:\nSerbian Cyrillic (a variant of the Cyrillic alphabet, standardized by Vuk Karadžić in the nineteenth century).\nLatin alphabet (widely used, especially in the media, on the internet, and in communication with foreign countries).\nThe Serbian constitution of 2006 establishes Cyrillic as the official script of the state, yet in practice the Latin script is used almost equally.",
@@ -826,7 +829,7 @@
       "x": 2880,
       "y": 4203,
       "w": 320,
-      "h": 445,
+      "h": 422,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -836,8 +839,7 @@
         "mainArea": "Communication",
         "areas": [
           "Linguistic",
-          "Conflict",
-          "Research"
+          "Conflict"
         ],
         "tags": [],
         "desc": "Belgium – Languages in Conflict: Dutch (Flemish) and French\nHistorically, French was the language of the elite and of politics, while Dutch was spoken by the Flemish majority.\nConflict: The Flemish population struggled to achieve equal linguistic status. Today, the country is divided into linguistic communities with substantial autonomy.\nGeopolitical effects: Linguistic tensions have affected Belgium’s political stability, with governments frequently hampered by divisions between the north (Flemish) and the south (Walloon).",
@@ -850,7 +852,7 @@
       "x": 2880,
       "y": 5795,
       "w": 320,
-      "h": 428,
+      "h": 405,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -860,8 +862,7 @@
         "mainArea": "Communication",
         "areas": [
           "Linguistic",
-          "Conflict",
-          "Research"
+          "Conflict"
         ],
         "tags": [],
         "desc": "Canada (Québec) – Languages in Conflict: French and English\nThe population of Québec asserts French as a language of identity and resists the hegemony of English.\nConflict: Québec has enacted strict laws to protect the French language (e.g., Bill 101, which mandates the use of French in schools, businesses, and public signage).\nGeopolitical effects: These tensions have given rise to separatist movements and referenda (1980 and 1995) on secession from Canada.",
@@ -874,7 +875,7 @@
       "x": 2880,
       "y": 6247,
       "w": 320,
-      "h": 411,
+      "h": 388,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -884,8 +885,7 @@
         "mainArea": "Communication",
         "areas": [
           "Linguistic",
-          "Conflict",
-          "Research"
+          "Conflict"
         ],
         "tags": [],
         "desc": "Spain – Languages in Conflict: Castilian (Spanish), Catalan, Basque, Galician\nUnder Franco, regional languages were repressed, and the use of Castilian was mandatory.\nConflict: Today, Catalan and Basque enjoy official regional status, yet political tensions persist regarding their protection and the perceived imposition of Castilian.\nGeopolitical effects: Linguistic issues are closely intertwined with separatist movements, particularly in Catalonia.",
@@ -898,7 +898,7 @@
       "x": 2880,
       "y": 7074,
       "w": 320,
-      "h": 428,
+      "h": 405,
       "group": null,
       "data": {
         "date": "2025-09-17",
@@ -908,8 +908,7 @@
         "mainArea": "Communication",
         "areas": [
           "Linguistic",
-          "Conflict",
-          "Research"
+          "Conflict"
         ],
         "tags": [],
         "desc": "Ukraine and Russia – Languages in Conflict: Ukrainian and Russian\nAfter independence in 1991, Ukrainian was promoted as the official and identity language, while Russian remained widely spoken, particularly in the east and in Crimea.\nConflict: Language policies, including restrictions on the use of Russian in schools and media, were perceived by Moscow as a cultural attack.\nGeopolitical effects: Language has become one of the justifications cited by Russia for military intervention and the annexation of Crimea (2014).",
@@ -922,15 +921,17 @@
       "x": 2400,
       "y": 3152,
       "w": 320,
-      "h": 190,
+      "h": 196,
       "group": null,
       "data": {
         "date": "2025-09-17",
         "title": "What if machines were to reprogram their own language? As a form of self-defense.",
         "type": "What-if",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Informatics"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -947,9 +948,9 @@
       "data": {
         "date": "2025-09-17",
         "title": "What if we no longer needed to communicate verbally? Or what if everyone spoke a single language?",
-        "type": "",
-        "action": null,
-        "mainArea": null,
+        "type": "What-if",
+        "action": "Exploring",
+        "mainArea": "Communication",
         "areas": [],
         "tags": [],
         "desc": "",
@@ -959,10 +960,10 @@
     },
     {
       "id": "niyj7vwn",
-      "x": 4794.452121660037,
-      "y": 1726.133043318192,
+      "x": 4763.501377080308,
+      "y": 1741.608415608056,
       "w": 320,
-      "h": 237,
+      "h": 732,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -970,19 +971,26 @@
         "type": "Source",
         "action": "Exploring",
         "mainArea": "Communication",
-        "areas": [
-          "Research"
-        ],
+        "areas": [],
         "tags": [],
         "desc": "creation of some cards as a result of the first research",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 12.16.49.png",
+            "size": 344020,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_12.16.49.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nq0y5nxt",
-      "x": 5221.655390936365,
-      "y": 903.3089479434029,
+      "x": 5357.064898472676,
+      "y": 794.9813419143543,
       "w": 320,
       "h": 499,
       "group": null,
@@ -993,7 +1001,6 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research",
           "Linguistic"
         ],
         "tags": [],
@@ -1018,7 +1025,7 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research"
+          "Censorship"
         ],
         "tags": [],
         "desc": "keywords: politics, people, control\nsmall description: anguage is never neutral. Political and media language is simplified, manipulated, and “domesticated” to make certain ideas conceivable and others inconceivable. Those in power determine which words, metaphors, and interpretive frames dominate the public sphere.\nFor example, the use of the term “collateral damage” instead of “civilians killed” after the Vietnam War. The fact remains the same, yet language here serves to neutralize its ethical impact.\nDeciding how to label an event is tantamount to deciding what kind of event exists.",
@@ -1028,8 +1035,8 @@
     },
     {
       "id": "n051n2fc",
-      "x": 5274.452121660037,
-      "y": 2433.452224486028,
+      "x": 5347.960140036892,
+      "y": 2564.9928889498733,
       "w": 320,
       "h": 439,
       "group": null,
@@ -1040,7 +1047,7 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research"
+          "Informatics"
         ],
         "tags": [],
         "desc": "keywords: control, Asimov\nsmall description: The interaction between humans and machines is a constant confrontation between two logics: one fluid and ambiguous (human), the other rigid and formal (machine).\nIn the Three Laws of Robotics, language becomes crucial: the laws are written in verbal form, yet robots interpret them literally. This gives rise to numerous narrative conflicts, highlighting the ambiguity of human language versus the rigidity of logical interpretation.\nThis generates genuine linguistic conflicts: what a human intends to convey is not always what a machine “understands.”",
@@ -1062,7 +1069,7 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research"
+          "Informatics"
         ],
         "tags": [],
         "desc": "What if a machine began to generate its own language, not to communicate with us, but to describe a world we cannot comprehend? \nWhat if machines reprogrammed their own language, cutting us out?",
@@ -1072,8 +1079,8 @@
     },
     {
       "id": "n0663t9d",
-      "x": 5286.452121660037,
-      "y": 3191.452224486028,
+      "x": 5296.607189234463,
+      "y": 3201.607292060454,
       "w": 320,
       "h": 422,
       "group": null,
@@ -1084,7 +1091,7 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research"
+          "Linguistic"
         ],
         "tags": [],
         "desc": "Words are no longer a universal right, but a commodity to be purchased. Every sentence has a price; every word carries an economic and symbolic “weight.” The wealthy can afford articulate discourse, powerful slogans, even luxurious silences, while the poor must make do with discounted vocabulary, truncated phrases, and forced stammering. Communication becomes a market, and freedom of speech a privilege. Companies sell “expression packages,” emotions are measured in credits, and censorship is no longer necessary: it is the wallet that determines who has a voice and who remains silent.",
@@ -1106,7 +1113,8 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research"
+          "Philosophy",
+          "Linguistic"
         ],
         "tags": [],
         "desc": "By learning to speak about the future in a different way, the brain reprograms itself.\nThis could represent the first psycho-physical evidence of the cognitive flexibility of bilinguals. We already know that bilinguals switch rapidly—and often unconsciously—between languages, a phenomenon known as code-switching. Yet, two different languages also carry with them distinct ways of perceiving the world and organizing the surrounding reality, a phenomenon that researchers struggled to explain for a long time.\nSince time is such an abstract concept, the only way to speak about it is to borrow terms from a more concrete domain of experience.",
@@ -1130,7 +1138,7 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research"
+          "Linguistic"
         ],
         "tags": [],
         "desc": "",
@@ -1152,7 +1160,7 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Research"
+          "Censorship"
         ],
         "tags": [],
         "desc": "keywords: silence and censorship\nThe term Werther effect refers to the phenomenon whereby news of a suicide published by mass media triggers a chain of subsequent suicides within society. In the absence of protective factors, the publicized suicide acts as a catalyst for other suicides among susceptible or suggestible individuals. This phenomenon is also commonly referred to as suicide contagion or imitative suicide.",
@@ -1162,8 +1170,8 @@
     },
     {
       "id": "nf4lf2kd",
-      "x": 6654.124990340856,
-      "y": 1793.8227853039662,
+      "x": 6498.124990340856,
+      "y": 1353.8227853039662,
       "w": 320,
       "h": 609,
       "group": null,
@@ -1193,8 +1201,8 @@
     },
     {
       "id": "ntv42eb9",
-      "x": 7134.124990340856,
-      "y": 1793.8227853039662,
+      "x": 7362.124990340856,
+      "y": 1769.8227853039662,
       "w": 320,
       "h": 625,
       "group": null,
@@ -1229,7 +1237,7 @@
       "x": 7134.124990340856,
       "y": 2458.822785303966,
       "w": 320,
-      "h": 455,
+      "h": 432,
       "group": null,
       "data": {
         "date": "2025-09-22",
@@ -1239,8 +1247,7 @@
         "mainArea": "Communication",
         "areas": [
           "Linguistic",
-          "Morphology",
-          "Research"
+          "Morphology"
         ],
         "tags": [],
         "desc": "The Difference Between Silence and What We Cannot Hear\nWhat is silence?\nIs it simply what we fail to hear?\nIs it what we choose not to consider as noise?\nDo we, individually, decide what constitutes silence?\nSilence is subjective: for me it arrives differently than it does for you.\nFrom a scientific perspective, silence would correspond to 0 decibels—a condition that is, however, impossible in nature, not even in outer space.",
@@ -1276,8 +1283,8 @@
     },
     {
       "id": "natd18wh",
-      "x": 7134.124990340856,
-      "y": 2953.822785303966,
+      "x": 7574.118756300576,
+      "y": 2936.2230346655774,
       "w": 320,
       "h": 529,
       "group": null,
@@ -1290,8 +1297,7 @@
         "areas": [
           "Linguistic",
           "Morphology",
-          "Conflict",
-          "Research"
+          "Conflict"
         ],
         "tags": [],
         "desc": "Paralanguage refers to the non-verbal features of communication that modify or clarify the meaning of words.\nVocal: tone, volume, rhythm, pauses, inflection, timbre.\nNon-vocal: laughter, sighs, yawns, coughs, strategic silences.\nIt is closely linked to non-verbal communication (gestures, proxemics, facial expressions), but it focuses on what accompanies the use of the voice.\nThe conflict arises from the fact that paralanguage is ambiguous:\nit cannot be fully codified → it escapes total control;\nbut precisely this vagueness allows those in power to interpret it to their own advantage (e.g., labeling someone as “untrustworthy” based on their tone of voice).\nParalanguage is highly cultural and often ambiguous.",
@@ -1301,8 +1307,8 @@
     },
     {
       "id": "n07qovno",
-      "x": 7141.311240890804,
-      "y": 3633.2843853378604,
+      "x": 7193.311240890804,
+      "y": 3597.2843853378604,
       "w": 320,
       "h": 1027,
       "group": null,
@@ -1345,7 +1351,7 @@
         "title": "CHATBOTS, TRANSLATORS AND LANGUAGES",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
+        "mainArea": "Communication",
         "areas": [
           "Linguistic"
         ],
@@ -1386,6 +1392,730 @@
           "https://www.thenightowl.ai/"
         ],
         "files": []
+      }
+    },
+    {
+      "id": "ntq8xu6b",
+      "x": 7618.159485123904,
+      "y": 5232.675700782412,
+      "w": 320,
+      "h": 375,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "mental health",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Linguistic",
+          "Mental health"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-26 alle 10.12.06.png",
+            "size": 1157702,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-26_alle_10.12.06.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n11tnkyf",
+      "x": 8098.159485123904,
+      "y": 5232.675700782412,
+      "w": 320,
+      "h": 387,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "mental health dataq",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Linguistic"
+        ],
+        "tags": [],
+        "desc": "OMS ",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-26 alle 10.12.52.png",
+            "size": 461567,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-26_alle_10.12.52.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2nohk4v",
+      "x": 7618.159485123904,
+      "y": 5647.675700782412,
+      "w": 320,
+      "h": 691,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "Taboos",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Censorship"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-26 alle 10.13.51.png",
+            "size": 540220,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-26_alle_10.13.51.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngc67jcu",
+      "x": 8250.159485123902,
+      "y": 6348.675700782412,
+      "w": 320,
+      "h": 394,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "tomorrow's taboos",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Censorship"
+        ],
+        "tags": [],
+        "desc": "“Which of today’s taboos will become accepted curiosities tomorrow, and which will instead turn into the new silences of the future?”",
+        "links": [
+          "https://www.linguisticamente.org/la-paura-delle-parole/"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-26 alle 10.23.59.png",
+            "size": 1137352,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-26_alle_10.23.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ny24lzdg",
+      "x": 8578.159485123904,
+      "y": 5232.675700782412,
+      "w": 320,
+      "h": 325,
+      "group": null,
+      "data": {
+        "date": "2025-09-22",
+        "title": "",
+        "type": "What-if",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic"
+        ],
+        "tags": [],
+        "desc": "Romantic relationships with artificial intelligences / robots (emotional bonds, symbolic marriage)\nWhy it is a taboo: fear of replacement, moral and ontological issues.\nSignals: increasingly empathetic devices, affective chatbots, ongoing ethical debates.\nProbability: 5–10 years → 25%, 10–20 years → 55% — highly dependent on technological progress and regulation.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvlrwzyj",
+      "x": 8613.942155190647,
+      "y": 2984.1892089204275,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "second round of cards creation (scenarios)",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Morphology",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "neilbdo3",
+      "x": 9080.451543103296,
+      "y": 1331.4890814918913,
+      "w": 320,
+      "h": 2276,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "1) Taboo as linguistic conflict: the case of rape",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Conflict",
+          "Censorship",
+          "Philosophy"
+        ],
+        "tags": [],
+        "desc": "Definition of linguistic taboo\nA taboo arises when a topic becomes socially or culturally unspeakable.\nIn the case of rape, violence is often shifted away from the linguistic plane: people speak about it without ever directly naming the act.\nThis creates a linguistic conflict: what happens in reality becomes unacceptable to articulate in public language.\nLinguistic strategies of taboo\nEuphemisms: “incident,” “violation,” “intimacy,” “inappropriate behavior.”\nSemantic confusion: rape and sex mixed into a single lexical field (“sexual encounter,” “relation”).\nNeutralization: impersonal narration (“what happened,” “the event”).\nRemoval of the subject: the perpetrator disappears; only “something that happened” to the victim remains.\nContexts in which the taboo operates\nMedia\nEuphemisms reduce the perceived severity and shift attention from the violence to the victim’s morality (Ayia Napa case).\nThe taboo is used to make the news less “scandalous,” but also to normalize it.\nCourts\nEuphemistic language is also found in closing arguments, where the term “rape” should be explicit (Hoerl & MacLeod, 2025).\nConsequence: reduced jury comprehension and retraumatization of victims.\nSociety / Communities\nIn contexts such as Pakistan, talking about rape is tied to “dishonor,” and blame is shifted onto the victim (Zaman et al., 2023).\nInstitutions\nIn cases like Penn State, systemic euphemisms covered up abuse and protected the organization’s reputation (Lucas & Fyke, 2013).\nEffects on perception\nReduction of perceived severity: people do not fully recognize the violence.\nNormalization: attenuated discourse makes rape appear “less extraordinary.”\nVictim blaming: language that emphasizes the victim reinforces blame.\nOnline discourse ecology: softened language in the media → more hostile and uncivil comments directed at victims (Uncivil Reactions to Sexual Assault Online).\nThe core of the conflict\nThe linguistic taboo around rape is a social paradox:\nthe violence is acknowledged as extremely serious;\nyet it cannot be clearly named.\nThis generates a conflict between:\nThe ethics of speaking: naming rape directly, bluntly.\nThe ethics of silence: protecting sensibilities, institutions, reputations, cultural norms.\nResult: language itself becomes a battleground, where words determine the perception of reality.Definition of linguistic taboo\nA taboo arises when a topic becomes socially or culturally unspeakable.\nIn the case of rape, violence is often shifted away from the linguistic plane: people speak about it without ever directly naming the act.\nThis creates a linguistic conflict: what happens in reality becomes unacceptable to articulate in public language.\nLinguistic strategies of taboo\nEuphemisms: “incident,” “violation,” “intimacy,” “inappropriate behavior.”\nSemantic confusion: rape and sex mixed into a single lexical field (“sexual encounter,” “relation”).\nNeutralization: impersonal narration (“what happened,” “the event”).\nRemoval of the subject: the perpetrator disappears; only “something that happened” to the victim remains.\nContexts in which the taboo operates\nMedia\nEuphemisms reduce the perceived severity and shift attention from the violence to the victim’s morality (Ayia Napa case).\nThe taboo is used to make the news less “scandalous,” but also to normalize it.\nCourts\nEuphemistic language is also found in closing arguments, where the term “rape” should be explicit (Hoerl & MacLeod, 2025).\nConsequence: reduced jury comprehension and retraumatization of victims.\nSociety / Communities\nIn contexts such as Pakistan, talking about rape is tied to “dishonor,” and blame is shifted onto the victim (Zaman et al., 2023).\nInstitutions\nIn cases like Penn State, systemic euphemisms covered up abuse and protected the organization’s reputation (Lucas & Fyke, 2013).\nEffects on perception\nReduction of perceived severity: people do not fully recognize the violence.\nNormalization: attenuated discourse makes rape appear “less extraordinary.”\nVictim blaming: language that emphasizes the victim reinforces blame.\nOnline discourse ecology: softened language in the media → more hostile and uncivil comments directed at victims (Uncivil Reactions to Sexual Assault Online).\nThe core of the conflict\nThe linguistic taboo around rape is a social paradox:\nthe violence is acknowledged as extremely serious;\nyet it cannot be clearly named.\nThis generates a conflict between:\nThe ethics of speaking: naming rape directly, bluntly.\nThe ethics of silence: protecting sensibilities, institutions, reputations, cultural norms.\nResult: language itself becomes a battleground, where words determine the perception of reality.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9uxxs4b",
+      "x": 9573.942155190647,
+      "y": 2004.1535572661282,
+      "w": 320,
+      "h": 476,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "moodboard",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Morphology",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-26 alle 10.28.25.png",
+            "size": 2166355,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-26_alle_10.28.25.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nv2lwhzy",
+      "x": 10053.942155190647,
+      "y": 2532.1535572661282,
+      "w": 320,
+      "h": 536,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "useful links",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Morphology",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "some links and sites that have been useful for the card's creation",
+        "links": [
+          "https://ojs.plhr.org.pk/journal/article/view/467/352",
+          "https://publications.aston.ac.uk/id/eprint/47890/1/horl-macleod-2025-the-ultimate-violation-a-linguistic-taxonomy-for-rape-euphemisms-in-courtroom-discourse.pdf",
+          "https://e-jurnal.lppmunsera.org/index.php/LONTAR/article/view/8225/3122"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-26 alle 10.29.50.png",
+            "size": 165904,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-26_alle_10.29.50.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nk561tda",
+      "x": 9093.942155190647,
+      "y": 3647.4890814918913,
+      "w": 320,
+      "h": 1268,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Language and machines",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Morphology",
+          "Conflict",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "Definition\nIn contemporary society, technology is taking on an increasingly important role, to the point where its application is being considered even in areas traditionally tied to human beings, such as psychotherapy.\nPsychotherapy\nIn the near future, could machines replace the role of the psychotherapist?\nEven today, there are chatbots and apps that provide psychological support, but the complete replacement of a human therapist would raise profound questions.\nThe problem: we do not speak the same language. A chatbot cannot fully understand us or replace a psychotherapist, especially because a machine tends to produce standardized, algorithmic language.\nHuman communication, on the other hand, is rich in nuances: pauses, metaphors, hesitations, slips, ambiguities — all of which the therapist interprets as valuable signals.\nParalanguage\nParalanguage is the set of non-verbal vocal elements that accompany words. It does not concern what we say, but how we say it:\nTone of voice\nVolume\nIntonation\nRhythm and speed\nPauses and silences\nExtralinguistic sounds → sighs, laughter, throat clearing, murmurs.\nFunctions of paralanguage\nEmotional → expresses feelings.\nRelational → strengthens or weakens the relationship with the interlocutor (welcoming vs. detached tone).\nInterpretive → gives meaning to words (a “thank you” can be sincere or ironic depending on tone).\nParalanguage in psychotherapy\nIn the context of psychotherapy, paralanguage plays an enormous role:\nthe therapist perceives anxiety, discomfort, hesitation from the patient’s rhythm and pauses;\nthe therapist’s tone of voice can convey warmth, calm, empathy;\nsilences and sighs become an integral part of the relationship.\nFor this reason, it is very difficult for a machine to replace a psychotherapist: AI can process words, but it struggles to interpret (or reproduce) paralinguistic nuances with authenticity.\nThe heart of the conflict\nOn one side, human language: alive, emotional, relational.\nOn the other, artificial language: neutral, calculated, impersonal.\nThis conflict would also affect the language of care: what will it mean to “speak with the therapist” if the interlocutor is an algorithm? Can we truly call the machine’s response “listening”? In this sense, the issue is not only technological but also cultural and linguistic: it concerns the value we assign to language as a tool for authentic human connection.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nq44jzqq",
+      "x": 9573.942155190647,
+      "y": 3647.4890814918913,
+      "w": 320,
+      "h": 414,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "moodboard",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Morphology",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-26 alle 10.31.44.png",
+            "size": 1221176,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-26_alle_10.31.44.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n23j11o1",
+      "x": 10053.942155190647,
+      "y": 3647.4890814918913,
+      "w": 320,
+      "h": 281,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "useful links",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Morphology",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.stateofmind.it/2024/07/intelligenza-artificiale-psicoterapia/",
+          "https://milano-sfu.it/lintelligenza-artificiale-in-psicologia/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n0o119i6",
+      "x": 9588.451543103296,
+      "y": 2664.1535572661282,
+      "w": 320,
+      "h": 562,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "scenario",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Morphology",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "In a hypothetical future, the taboo reaches its extreme: words themselves seem to fall into the void. Newspapers carry headlines like “An unfortunate encounter” or “An unexpected episode,” while the real perpetrators vanish from the sentences. The subject of the action disappears; all that remains is “something that happened” to the victim. In everyday language, rape and sex blend indistinguishably into a single lexical field, and the gravity of the act becomes difficult to grasp.\nThe heart of the conflict emerges in daily conversations: those who attempt to name the violence are met with discomfort, as if they had broken an invisible rule, while those who remain silent do so to protect sensibilities, institutions, reputations. Words turn into a silent battleground, and reality itself bends to language: what is left unsaid loses weight, while what is hidden continues to exist — invisible yet present, like a shadow that everyone senses but no one dares to call by name.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0vhjmvu",
+      "x": 9145.942155190647,
+      "y": 5203.489081491891,
+      "w": 320,
+      "h": 1139,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Autism and communication difficulties",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Morphology",
+          "Conflict",
+          "Cognitive science",
+          "Mental health"
+        ],
+        "tags": [],
+        "desc": "Definition of linguistic conflict\nThe conflict arises when the language of an autistic person does not align with the social and linguistic expectations of neurotypicals.\nWhat the person wants to express or understand may appear unacceptable or incomprehensible in everyday communication.\nLinguistic strategies and obstacles\nPragmatic difficulties: challenges in the social use of language (conversations, irony, metaphors).\nSemantic problems: difficulties in understanding multiple meanings, abstract concepts, categorization.\nStructural differences: grammar, syntax, phonology, and morphology may be limited or atypical.\nHeterogeneity of profiles: some individuals are verbal and linguistically advanced; others are minimally verbal or nonverbal.\nComorbidities: language disorders, apraxia of speech, intellectual disability can worsen communication challenges.\nContexts in which the conflict emerges\nSchool / Education\nStandardized communication may prevent full participation.\nSome children cannot make themselves understood by teachers or peers.\nSociety / Community\nDifficulties in everyday social interactions → isolation or misunderstandings.\nWork / Services\nNeed for augmentative and alternative communication (AAC) tools to effectively participate in interviews, instructions, or standardized protocols.\nEffects on perception\nMutual frustration: for both the autistic person and neurotypical interlocutors.\nSocial barriers: stigma, misunderstanding, underestimation of actual abilities.\nPractical impact: limits participation, learning, and social relationships.\nThe heart of the conflict\nLinguistic conflict in autism arises when the autistic person has communicative abilities, but the social context does not recognize or understand them.\nIt is a tension between:\nThe ethics of expressing: communicating in the way most consistent with one’s own style.\nThe ethics of interpreting: society expects standardized communication.\nResult: language becomes a site of struggle and mutual misunderstanding, with concrete effects on social and educational relationships.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4fyzuwn",
+      "x": 9573.942155190647,
+      "y": 4955.489081491891,
+      "w": 320,
+      "h": 404,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "moodboard",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Research",
+          "Linguistic",
+          "Morphology",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-26 alle 10.35.08.png",
+            "size": 1969041,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-26_alle_10.35.08.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nies6j2l",
+      "x": 10053.942155190647,
+      "y": 4955.489081491891,
+      "w": 320,
+      "h": 685,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "links and datas",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Research",
+          "Linguistic",
+          "Morphology",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.helsinki.fi/en/news/brain/use-digital-devices-may-affect-childrens-language-development?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-26 alle 10.35.37.png",
+            "size": 182777,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-26_alle_10.35.37.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nk8vvnap",
+      "x": 11243.10563550525,
+      "y": 3369.889970710805,
+      "w": 320,
+      "h": 733,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Second feedback",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Linguistic",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-26 alle 10.36.56.png",
+            "size": 158265,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-26_alle_10.36.56.jpg"
+          },
+          {
+            "name": "Screenshot 2025-09-26 alle 10.37.04.png",
+            "size": 175492,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-26_alle_10.37.04.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "naooa3t6",
+      "x": 11723.10563550525,
+      "y": 2523.294491204603,
+      "w": 320,
+      "h": 1447,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "List of modern linguistic mechanisms",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Morphology"
+        ],
+        "tags": [],
+        "desc": "1. Abbreviated and contracted writing\nAcronyms and abbreviations: “cmq” (comunque = anyway), “xké” (perché = why/because), “tvb” (ti voglio bene = I love you), “grz” (grazie = thanks).\nGraphic reduction for speed and practicality → born with SMS (where characters were limited) and continued today out of habit.\nUse of numbers instead of letters or syllables: “6” = sei (you are/six), “x” = per (for), “tvtb” = ti voglio tanto bene (I love you very much).\n2. Emojis and emoticons\nThey replace entire words or sentences, often becoming emotional markers (❤️ for love, 😂 for laughter).\nParalinguistic function: they fill the absence of tone, gestures, expressions.\nThey can become cultural symbols or even autonomous languages (e.g., telling a story only with emojis).\n3. Anglicisms and hybridizations\nBorrowings from English are increasingly widespread: “like,” “spoilerare” (to spoil), “cringe,” “shoppare” (to shop), “shippare” (to ship).\nHybridizations between languages (Itanglese, Spanglish, Hinglish).\nOn social media and in gaming, global slang expressions emerge, understood by international communities.\n4. Memetics and ironic languages\nMeme culture → recurring linguistic formulas (“ok boomer,” “sus” from Among Us, “based,” “ratio”).\nOften quotations transformed into an internal code for those belonging to a community.\nMemes create digital idioms that then spread to spoken language.\n5. Written orality\nWriting in chat tends to imitate speech:\nuse of ellipses “...” to simulate pauses;\nrepeated letters (“hellooo,” “nooo”) to mark intonation;\nall caps to shout (“STOP”).\nThe distinction between written and spoken language becomes blurred.\n6. Speed and simplification\nBrevity is central: quick messages, broken up into multiple sends (the “rapid-fire messages” style of chat).\nReduction of punctuation, fragmented sentences, simplified grammar.\nPriority: immediate effectiveness over correctness.\n7. Digital neologisms\nA constant creation of new words linked to online phenomena: “googlare” (to google), “instagrammabile” (instagrammable), “ghostare” (to ghost), “binge-watchare” (to binge-watch).\nHybrid verbs: often English root + Italian ending.\n8. Multimodality and code hybridization\nText + image + audio/video → increasingly hybrid messages (stickers, gifs, voice notes).\nThe communicative act is no longer only written: it integrates multiple codes in a single flow.\n9. Identity, community, and “group languages”\nEach platform (TikTok, Twitch, Discord, Instagram) develops its own slang.\nLanguage becomes a marker of belonging: you know you’re part of a group if you recognize and use certain expressions.\n10. Side effects\nErosion of norms: grammar and spelling less respected.\nDigital diglossia: learning to distinguish when to use “chat language” and when a formal register.\nFear of purists: but in reality these are historical phenomena → language always adapts to new media.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njtn1rat",
+      "x": 11723.10563550525,
+      "y": 4010.294491204603,
+      "w": 320,
+      "h": 388,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Homophones",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Linguistic",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "Homophones are words that are pronounced in the same way but differ in meaning, spelling, or both. They are a common source of ambiguity and playfulness in language, but also of misunderstanding, making them an interesting case of linguistic conflict.\nDefinition\nA homophone is a word that shares the same sound (phonetic form) with another but has a different meaning and often a different spelling.\nExample: flower / flour, two / too / to, right / writ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "netntlrq",
+      "x": 12212.824690527716,
+      "y": 3816.9932857577974,
+      "w": 320,
+      "h": 372,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Types of Homophones",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "In recent years, especially on social media platforms, users have begun to deliberately alter “sensitive” words in order to bypass automatic filters and moderation algorithms.\nLetters are replaced with numbers or symbols → s3x, gr@pe, unalive.\nHomophones or near-homophones are used → seggs instead of sex, unalive instead of dead.\nShared codes are invented within communities → for example, on TikTok, SA is used for sexual assault.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ng10uyuq",
+      "x": 12203.10563550525,
+      "y": 4371.294491204603,
+      "w": 320,
+      "h": 862,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "Why they create conflict\nAmbiguity in oral communication: without visual context (spelling, sentence structure), it can be unclear which word is intended.\nSecond-language learners: homophones are especially confusing for those learning a new language.\nHumor and wordplay: puns rely on homophones to create double meanings, but this can also generate miscommunication.\nCultural and social impact\nPoetry and literature: poets exploit homophones for layered meanings.\nAdvertising and slogans: brands often use them for memorability (Sole food instead of soul food).\nTaboo and censorship: in some cultures, homophones are avoided (e.g., in Chinese, some words associated with death have homophones used carefully in rituals).\nWhy it emerges\nModeration algorithms (TikTok, Instagram, YouTube, etc.) block or penalize content that contains words considered dangerous, violent, offensive, or related to sensitive topics.\nOfficial goal → protect users, especially minors.\nReal consequence → the “official” language gets censored or restricted, forcing users to reinvent it.\nLinguistic effects\nSemantic alteration: new words take on meanings they wouldn’t normally have (unalive becomes a synonym for “dead,” but with an ironic/detached tone).\nEncoding and decoding: only those who know digital culture can understand the meaning; outsiders are excluded → creating a generational and cultural conflict.\nNormalization: forms born to “avoid bans” become commonly used even outside platforms (e.g., unalive used in private chats or memes).\nShifting of the taboo: it is no longer the content itself that is taboo, but the word that expresses it.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n074afct",
+      "x": 11723.10563550525,
+      "y": 4438.294491204603,
+      "w": 320,
+      "h": 624,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Contextual Difference: spoken/written language vs. sung language",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Arts"
+        ],
+        "tags": [],
+        "desc": "Context and perception:\nMusic is perceived as an art form, a creative expression.\nDistinction between reality and fiction: When we listen to someone singing, we tend to think they are performing a role or telling a story, whereas in spoken or written language the same message can appear more “direct” and therefore more threatening or offensive.\nAmbiguity:\nPositive:\nRole of art as a space for expressive freedom. Art allows the exploration of taboos: music (and art in general) is often considered a safe space where difficult, controversial, or socially unacceptable themes can be addressed. This is because it has a symbolic and cultural function, often aiming to raise awareness or shed light on uncomfortable realities.\nNegative:\nEthical dilemma: The debate arises from the fact that, while being a space of freedom, art can also convey violent, discriminatory, or offensive messages, which may influence attitudes and behaviors.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nt3ny5fd",
+      "x": 12980.219909215532,
+      "y": 3392.6042573945438,
+      "w": 320,
+      "h": 372,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "The value of the unspoken",
+        "type": "What-if",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Conflict",
+          "Society"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 14.27.29.png",
+            "size": 1490257,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_14.27.29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1fwi80h",
+      "x": 12983.380734643435,
+      "y": 3830.2208872834562,
+      "w": 320,
+      "h": 343,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Linguistic generational gap",
+        "type": "What-if",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 14.33.39.png",
+            "size": 2031331,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_14.33.39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfuv2zkr",
+      "x": 12979.076118777248,
+      "y": 4213.725785480897,
+      "w": 320,
+      "h": 349,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "The linguistic conflict in musical art",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Arts",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-27 alle 14.33.47.png",
+            "size": 2166499,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_14.33.47.jpg"
+          }
+        ]
       }
     }
   ],
@@ -1819,21 +2549,925 @@
       "s": "nnqgdrds",
       "t": "nsoxmqxx",
       "dashed": false
+    },
+    {
+      "s": "ntq8xu6b",
+      "t": "n11tnkyf",
+      "dashed": false
+    },
+    {
+      "s": "n11tnkyf",
+      "t": "ny24lzdg",
+      "dashed": false
+    },
+    {
+      "s": "ntv42eb9",
+      "t": "nvlrwzyj",
+      "dashed": false
+    },
+    {
+      "s": "nlyzatnl",
+      "t": "nvlrwzyj",
+      "dashed": false
+    },
+    {
+      "s": "natd18wh",
+      "t": "nvlrwzyj",
+      "dashed": false
+    },
+    {
+      "s": "n07qovno",
+      "t": "nvlrwzyj",
+      "dashed": false
+    },
+    {
+      "s": "nsoxmqxx",
+      "t": "nvlrwzyj",
+      "dashed": false
+    },
+    {
+      "s": "ny24lzdg",
+      "t": "nvlrwzyj",
+      "dashed": false
+    },
+    {
+      "s": "n2nohk4v",
+      "t": "nvlrwzyj",
+      "dashed": false
+    },
+    {
+      "s": "ngc67jcu",
+      "t": "nvlrwzyj",
+      "dashed": false
+    },
+    {
+      "s": "nvlrwzyj",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "neilbdo3",
+      "t": "n9uxxs4b",
+      "dashed": false
+    },
+    {
+      "s": "n9uxxs4b",
+      "t": "nv2lwhzy",
+      "dashed": false
+    },
+    {
+      "s": "nvlrwzyj",
+      "t": "nk561tda",
+      "dashed": false
+    },
+    {
+      "s": "nk561tda",
+      "t": "nq44jzqq",
+      "dashed": false
+    },
+    {
+      "s": "nq44jzqq",
+      "t": "n23j11o1",
+      "dashed": false
+    },
+    {
+      "s": "neilbdo3",
+      "t": "n0o119i6",
+      "dashed": false
+    },
+    {
+      "s": "n0o119i6",
+      "t": "nv2lwhzy",
+      "dashed": false
+    },
+    {
+      "s": "nvlrwzyj",
+      "t": "n0vhjmvu",
+      "dashed": false
+    },
+    {
+      "s": "n0vhjmvu",
+      "t": "n4fyzuwn",
+      "dashed": false
+    },
+    {
+      "s": "n4fyzuwn",
+      "t": "nies6j2l",
+      "dashed": false
+    },
+    {
+      "s": "nv2lwhzy",
+      "t": "nk8vvnap",
+      "dashed": false
+    },
+    {
+      "s": "n23j11o1",
+      "t": "nk8vvnap",
+      "dashed": false
+    },
+    {
+      "s": "nies6j2l",
+      "t": "nk8vvnap",
+      "dashed": false
+    },
+    {
+      "s": "ni8tj0b1",
+      "t": "nu7xlrk6",
+      "dashed": false
+    },
+    {
+      "s": "ni8tj0b1",
+      "t": "nh7nnega",
+      "dashed": false
+    },
+    {
+      "s": "ni8tj0b1",
+      "t": "n3vzo76s",
+      "dashed": false
+    },
+    {
+      "s": "ni8tj0b1",
+      "t": "n1fr5eh9",
+      "dashed": false
+    },
+    {
+      "s": "ni8tj0b1",
+      "t": "nam2oevr",
+      "dashed": false
+    },
+    {
+      "s": "ni8tj0b1",
+      "t": "nlfwx0dp",
+      "dashed": false
+    },
+    {
+      "s": "ni8tj0b1",
+      "t": "nybqf1li",
+      "dashed": false
+    },
+    {
+      "s": "na10rjcs",
+      "t": "nq0y5nxt",
+      "dashed": false
+    },
+    {
+      "s": "n54qfdz7",
+      "t": "nq0y5nxt",
+      "dashed": false
+    },
+    {
+      "s": "ntzkv8l2",
+      "t": "nq0y5nxt",
+      "dashed": false
+    },
+    {
+      "s": "nyuel5kp",
+      "t": "nq0y5nxt",
+      "dashed": false
+    },
+    {
+      "s": "n6fradse",
+      "t": "n363omuc",
+      "dashed": false
+    },
+    {
+      "s": "nce2t8vu",
+      "t": "n363omuc",
+      "dashed": false
+    },
+    {
+      "s": "n54qfdz7",
+      "t": "n363omuc",
+      "dashed": false
+    },
+    {
+      "s": "n4e6ha43",
+      "t": "n363omuc",
+      "dashed": false
+    },
+    {
+      "s": "nkye3xd9",
+      "t": "n363omuc",
+      "dashed": false
+    },
+    {
+      "s": "n8vmfhnr",
+      "t": "n363omuc",
+      "dashed": false
+    },
+    {
+      "s": "nhpf7du1",
+      "t": "n363omuc",
+      "dashed": false
+    },
+    {
+      "s": "nuuaukcu",
+      "t": "n363omuc",
+      "dashed": false
+    },
+    {
+      "s": "nggzof2v",
+      "t": "n051n2fc",
+      "dashed": false
+    },
+    {
+      "s": "n0drihgg",
+      "t": "n051n2fc",
+      "dashed": false
+    },
+    {
+      "s": "ni4cekc4",
+      "t": "n051n2fc",
+      "dashed": false
+    },
+    {
+      "s": "nq0y5nxt",
+      "t": "n051n2fc",
+      "dashed": false
+    },
+    {
+      "s": "nqfto08i",
+      "t": "n0663t9d",
+      "dashed": false
+    },
+    {
+      "s": "n0663t9d",
+      "t": "ng21i3it",
+      "dashed": false
+    },
+    {
+      "s": "n8vmfhnr",
+      "t": "ng21i3it",
+      "dashed": false
+    },
+    {
+      "s": "na10rjcs",
+      "t": "ng21i3it",
+      "dashed": false
+    },
+    {
+      "s": "nyuel5kp",
+      "t": "ng21i3it",
+      "dashed": false
+    },
+    {
+      "s": "nqfto08i",
+      "t": "ng21i3it",
+      "dashed": false
+    },
+    {
+      "s": "n6fradse",
+      "t": "nth33s4s",
+      "dashed": false
+    },
+    {
+      "s": "na10rjcs",
+      "t": "nth33s4s",
+      "dashed": false
+    },
+    {
+      "s": "nq0y5nxt",
+      "t": "ntv42eb9",
+      "dashed": false
+    },
+    {
+      "s": "n4e6ha43",
+      "t": "ntv42eb9",
+      "dashed": false
+    },
+    {
+      "s": "n11tiek7",
+      "t": "ntv42eb9",
+      "dashed": false
+    },
+    {
+      "s": "n54qfdz7",
+      "t": "ntv42eb9",
+      "dashed": false
+    },
+    {
+      "s": "nyuel5kp",
+      "t": "ntv42eb9",
+      "dashed": false
+    },
+    {
+      "s": "na10rjcs",
+      "t": "ntv42eb9",
+      "dashed": false
+    },
+    {
+      "s": "ngwp4mqz",
+      "t": "ncbjjbja",
+      "dashed": false
+    },
+    {
+      "s": "n9ob9ebh",
+      "t": "ncbjjbja",
+      "dashed": false
+    },
+    {
+      "s": "nbjv7eer",
+      "t": "ncbjjbja",
+      "dashed": false
+    },
+    {
+      "s": "nfrdw3qv",
+      "t": "ncbjjbja",
+      "dashed": false
+    },
+    {
+      "s": "n30qdqrn",
+      "t": "ncbjjbja",
+      "dashed": false
+    },
+    {
+      "s": "n0drihgg",
+      "t": "ncbjjbja",
+      "dashed": false
+    },
+    {
+      "s": "neq1q26b",
+      "t": "ncbjjbja",
+      "dashed": false
+    },
+    {
+      "s": "nqfto08i",
+      "t": "ncbjjbja",
+      "dashed": false
+    },
+    {
+      "s": "n222s82w",
+      "t": "ncbjjbja",
+      "dashed": false
+    },
+    {
+      "s": "nffwg9xz",
+      "t": "ncbjjbja",
+      "dashed": false
+    },
+    {
+      "s": "nfrdw3qv",
+      "t": "nq0y5nxt",
+      "dashed": false
+    },
+    {
+      "s": "ncvs9w0i",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "ntzkv8l2",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "no2szdbm",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "nce2t8vu",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "n0os0zh9",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "n9ob9ebh",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "nfrdw3qv",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "n30qdqrn",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "n33m82gg",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "nkye3xd9",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "nggzof2v",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "nqfto08i",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "n8aqxzly",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "nh7nnega",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "n3vzo76s",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "n5igndrm",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "nlfwx0dp",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "neq1q26b",
+      "t": "n07qovno",
+      "dashed": false
+    },
+    {
+      "s": "ncbjjbja",
+      "t": "natd18wh",
+      "dashed": false
+    },
+    {
+      "s": "nf4lf2kd",
+      "t": "ntq8xu6b",
+      "dashed": false
+    },
+    {
+      "s": "nf4lf2kd",
+      "t": "n2nohk4v",
+      "dashed": false
+    },
+    {
+      "s": "nf4lf2kd",
+      "t": "ngc67jcu",
+      "dashed": false
+    },
+    {
+      "s": "nggzof2v",
+      "t": "nnqgdrds",
+      "dashed": false
+    },
+    {
+      "s": "n051n2fc",
+      "t": "nnqgdrds",
+      "dashed": false
+    },
+    {
+      "s": "np08f4i2",
+      "t": "nnqgdrds",
+      "dashed": false
+    },
+    {
+      "s": "nth33s4s",
+      "t": "n2nohk4v",
+      "dashed": false
+    },
+    {
+      "s": "nkye3xd9",
+      "t": "n2nohk4v",
+      "dashed": false
+    },
+    {
+      "s": "ni4cekc4",
+      "t": "n2nohk4v",
+      "dashed": false
+    },
+    {
+      "s": "n6fradse",
+      "t": "n2nohk4v",
+      "dashed": false
+    },
+    {
+      "s": "n363omuc",
+      "t": "n2nohk4v",
+      "dashed": false
+    },
+    {
+      "s": "nnqgdrds",
+      "t": "ntq8xu6b",
+      "dashed": false
+    },
+    {
+      "s": "nnqgdrds",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "ntq8xu6b",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "n11tnkyf",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "ny24lzdg",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "n2nohk4v",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "ngc67jcu",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "nth33s4s",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "nf4lf2kd",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "nuuaukcu",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "n4e6ha43",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "n8vmfhnr",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "nhpf7du1",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "n54qfdz7",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "ntzkv8l2",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "n6fradse",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "n8vmfhnr",
+      "t": "n2nohk4v",
+      "dashed": false
+    },
+    {
+      "s": "nhpf7du1",
+      "t": "n2nohk4v",
+      "dashed": false
+    },
+    {
+      "s": "nuuaukcu",
+      "t": "n2nohk4v",
+      "dashed": false
+    },
+    {
+      "s": "n4e6ha43",
+      "t": "n2nohk4v",
+      "dashed": false
+    },
+    {
+      "s": "n2nohk4v",
+      "t": "ngc67jcu",
+      "dashed": false
+    },
+    {
+      "s": "ntv42eb9",
+      "t": "neilbdo3",
+      "dashed": false
+    },
+    {
+      "s": "ntv42eb9",
+      "t": "nk561tda",
+      "dashed": false
+    },
+    {
+      "s": "natd18wh",
+      "t": "nk561tda",
+      "dashed": false
+    },
+    {
+      "s": "n07qovno",
+      "t": "nk561tda",
+      "dashed": false
+    },
+    {
+      "s": "nnqgdrds",
+      "t": "nk561tda",
+      "dashed": false
+    },
+    {
+      "s": "ngc67jcu",
+      "t": "nk561tda",
+      "dashed": false
+    },
+    {
+      "s": "n051n2fc",
+      "t": "nk561tda",
+      "dashed": false
+    },
+    {
+      "s": "np08f4i2",
+      "t": "nk561tda",
+      "dashed": false
+    },
+    {
+      "s": "nggzof2v",
+      "t": "nk561tda",
+      "dashed": false
+    },
+    {
+      "s": "n0drihgg",
+      "t": "nk561tda",
+      "dashed": false
+    },
+    {
+      "s": "ntq8xu6b",
+      "t": "n0vhjmvu",
+      "dashed": false
+    },
+    {
+      "s": "n2nohk4v",
+      "t": "n0vhjmvu",
+      "dashed": false
+    },
+    {
+      "s": "n11tnkyf",
+      "t": "n0vhjmvu",
+      "dashed": false
+    },
+    {
+      "s": "ny24lzdg",
+      "t": "n0vhjmvu",
+      "dashed": false
+    },
+    {
+      "s": "ngc67jcu",
+      "t": "n0vhjmvu",
+      "dashed": false
+    },
+    {
+      "s": "nnqgdrds",
+      "t": "n0vhjmvu",
+      "dashed": false
+    },
+    {
+      "s": "natd18wh",
+      "t": "n0vhjmvu",
+      "dashed": false
+    },
+    {
+      "s": "ntv42eb9",
+      "t": "n0vhjmvu",
+      "dashed": false
+    },
+    {
+      "s": "nq0y5nxt",
+      "t": "n0vhjmvu",
+      "dashed": false
+    },
+    {
+      "s": "nyuel5kp",
+      "t": "n0vhjmvu",
+      "dashed": false
+    },
+    {
+      "s": "n54qfdz7",
+      "t": "n0vhjmvu",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "naooa3t6",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "njtn1rat",
+      "dashed": false
+    },
+    {
+      "s": "njtn1rat",
+      "t": "netntlrq",
+      "dashed": false
+    },
+    {
+      "s": "njtn1rat",
+      "t": "ng10uyuq",
+      "dashed": false
+    },
+    {
+      "s": "n222s82w",
+      "t": "naooa3t6",
+      "dashed": false
+    },
+    {
+      "s": "nq0y5nxt",
+      "t": "naooa3t6",
+      "dashed": false
+    },
+    {
+      "s": "nf4lf2kd",
+      "t": "naooa3t6",
+      "dashed": false
+    },
+    {
+      "s": "nq0y5nxt",
+      "t": "njtn1rat",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "n074afct",
+      "dashed": false
+    },
+    {
+      "s": "n2nohk4v",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "ngc67jcu",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "n11tnkyf",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "ny24lzdg",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "neilbdo3",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "n9uxxs4b",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "n0o119i6",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "nv2lwhzy",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "nth33s4s",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "n6fradse",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "n363omuc",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "n1fwi80h",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "nfuv2zkr",
+      "dashed": false
+    },
+    {
+      "s": "netntlrq",
+      "t": "n1fwi80h",
+      "dashed": false
+    },
+    {
+      "s": "njtn1rat",
+      "t": "n1fwi80h",
+      "dashed": false
+    },
+    {
+      "s": "naooa3t6",
+      "t": "n1fwi80h",
+      "dashed": false
+    },
+    {
+      "s": "n07qovno",
+      "t": "n1fwi80h",
+      "dashed": false
+    },
+    {
+      "s": "natd18wh",
+      "t": "n1fwi80h",
+      "dashed": false
+    },
+    {
+      "s": "nq0y5nxt",
+      "t": "n1fwi80h",
+      "dashed": false
+    },
+    {
+      "s": "n8vmfhnr",
+      "t": "n1fwi80h",
+      "dashed": false
+    },
+    {
+      "s": "n4e6ha43",
+      "t": "n1fwi80h",
+      "dashed": false
+    },
+    {
+      "s": "n54qfdz7",
+      "t": "n1fwi80h",
+      "dashed": false
+    },
+    {
+      "s": "ntzkv8l2",
+      "t": "n1fwi80h",
+      "dashed": false
+    },
+    {
+      "s": "n0663t9d",
+      "t": "nt3ny5fd",
+      "dashed": false
+    },
+    {
+      "s": "n074afct",
+      "t": "nfuv2zkr",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Research",
       "Conflict",
+      "Arts",
+      "Linguistic",
+      "Society",
+      "Censorship",
       "Morphology",
-      "Linguistic"
+      "Mental health",
+      "Cognitive science",
+      "Philosophy",
+      "Informatics",
+      "T",
+      "Research"
     ],
     "tags": [],
     "type": [
       "Source",
-      "Feedback",
-      "Sketch",
       "What-if",
+      "Feedback",
+      "Collection",
+      "Sketch",
       "Brief"
     ]
   }

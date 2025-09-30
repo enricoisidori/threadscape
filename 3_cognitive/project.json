@@ -6,7 +6,7 @@
       "x": 0,
       "y": 0,
       "w": 320,
-      "h": 807,
+      "h": 813,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -43,7 +43,7 @@
       "x": 480,
       "y": 0,
       "w": 320,
-      "h": 322,
+      "h": 327,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -74,9 +74,9 @@
     {
       "id": "n4q8mtzu",
       "x": 480,
-      "y": 362,
+      "y": 368,
       "w": 320,
-      "h": 344,
+      "h": 350,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -107,9 +107,9 @@
     {
       "id": "nwl9ouvl",
       "x": 480,
-      "y": 746,
+      "y": 759,
       "w": 320,
-      "h": 344,
+      "h": 350,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -139,9 +139,9 @@
     {
       "id": "npongriz",
       "x": 480,
-      "y": 1130,
+      "y": 1150,
       "w": 320,
-      "h": 344,
+      "h": 350,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -172,9 +172,9 @@
     {
       "id": "n7z0p86f",
       "x": 480,
-      "y": 1514,
+      "y": 1541,
       "w": 320,
-      "h": 299,
+      "h": 305,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -205,9 +205,9 @@
     {
       "id": "n92sunmm",
       "x": 480,
-      "y": 1853,
+      "y": 1887,
       "w": 320,
-      "h": 299,
+      "h": 305,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -237,9 +237,9 @@
     {
       "id": "n3vsqfai",
       "x": 480,
-      "y": 2192,
+      "y": 2233,
       "w": 320,
-      "h": 299,
+      "h": 305,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -269,9 +269,9 @@
     {
       "id": "ncob3sst",
       "x": 480,
-      "y": 2531,
+      "y": 2579,
       "w": 320,
-      "h": 344,
+      "h": 350,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -301,9 +301,9 @@
     {
       "id": "ne7rohui",
       "x": 480,
-      "y": 2915,
+      "y": 2970,
       "w": 320,
-      "h": 322,
+      "h": 327,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -334,9 +334,9 @@
     {
       "id": "nr86jk3r",
       "x": 480,
-      "y": 3277,
+      "y": 3338,
       "w": 320,
-      "h": 322,
+      "h": 327,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -367,9 +367,9 @@
     {
       "id": "nvlahv4k",
       "x": 480,
-      "y": 3639,
+      "y": 3706,
       "w": 320,
-      "h": 344,
+      "h": 350,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -398,15 +398,15 @@
     },
     {
       "id": "nqsj3v05",
-      "x": 960,
-      "y": 746,
+      "x": 968,
+      "y": 568,
       "w": 320,
-      "h": 270,
+      "h": 261,
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": " intrapsychic conflict",
-        "type": "Research",
+        "title": " Intrapsychic conflict",
+        "type": "Finding",
         "action": null,
         "mainArea": null,
         "areas": [
@@ -424,15 +424,15 @@
     },
     {
       "id": "n8a6ebg8",
-      "x": 960,
-      "y": 1048,
+      "x": 956,
+      "y": 1026,
       "w": 320,
-      "h": 270,
+      "h": 261,
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": "interpersonal conflict",
-        "type": "Research",
+        "title": "Interpersonal conflict",
+        "type": "Finding",
         "action": null,
         "mainArea": null,
         "areas": [
@@ -450,15 +450,15 @@
     },
     {
       "id": "nz19ocjs",
-      "x": 1565.0525444015084,
-      "y": 1352.032068401328,
+      "x": 1456,
+      "y": 2105,
       "w": 320,
       "h": 507,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Cognitive Dissonance",
-        "type": "Research",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -476,15 +476,15 @@
     },
     {
       "id": "n4iormrf",
-      "x": 1565.0605329859413,
-      "y": 1866.7427422625815,
+      "x": 1456,
+      "y": 2653,
       "w": 320,
-      "h": 484,
+      "h": 483,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Neuropolitics",
-        "type": "Research",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -504,15 +504,15 @@
     },
     {
       "id": "nkhzwryp",
-      "x": 1565.7235182585794,
-      "y": 2353.2870860577655,
+      "x": 1459.3102180018955,
+      "y": 3177,
       "w": 320,
-      "h": 799,
+      "h": 748,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Learning",
-        "type": "Research",
+        "type": "Finding",
         "action": null,
         "mainArea": null,
         "areas": [
@@ -533,15 +533,15 @@
     },
     {
       "id": "nai1yave",
-      "x": 1557.9930160671809,
-      "y": 609.4056719380497,
+      "x": 1456,
+      "y": 1310,
       "w": 320,
-      "h": 739,
+      "h": 738,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Cognitive Hedonia",
-        "type": "Research",
+        "type": "Finding",
         "action": null,
         "mainArea": null,
         "areas": [
@@ -564,15 +564,15 @@
     },
     {
       "id": "nweug8dn",
-      "x": 1560.9392284029757,
-      "y": -1097.608959283058,
+      "x": 1440,
+      "y": -518.873220246825,
       "w": 320,
-      "h": 486,
+      "h": 485,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Hypnosis",
-        "type": "Research",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -592,15 +592,15 @@
     },
     {
       "id": "nfaki92h",
-      "x": 1561.052220744013,
-      "y": -591.2259516412292,
+      "x": 1436,
+      "y": 82,
       "w": 320,
       "h": 507,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Devil shift",
-        "type": "Research",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -619,15 +619,15 @@
     },
     {
       "id": "nmm5bb23",
-      "x": 1556.1340995909159,
-      "y": -58.4335289806708,
+      "x": 1452,
+      "y": 666,
       "w": 320,
-      "h": 584,
+      "h": 583,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Cognitive overload",
-        "type": "Research",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -645,6 +645,606 @@
           "https://www.sciencedirect.com/science/article/abs/pii/S0306457323002194",
           "https://arno.uvt.nl/show.cgi?fid=183529"
         ],
+        "files": []
+      }
+    },
+    {
+      "id": "ngxplybz",
+      "x": 1860.6762760458414,
+      "y": -447.2925254447392,
+      "w": 320,
+      "h": 422,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "I Got Hypnotized to Quit Smoking—It Sort...",
+          "Researchers can&#39;t agree on whether hypnoth...",
+          "theatlantic.com",
+          "open.bu.edu",
+          "https://onlinelibrary.wiley.com/doi/abs/10.1002/ch.366?utm_source=chatgpt.com",
+          "Alert Hypnotic Inductions: Use in Treating C...",
+          "Alert hypnosis can be a valuable part of the treatm...",
+          "pubmed.ncbi.nlm.nih.gov"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nf0d4g7f",
+      "x": 1856,
+      "y": 179.86484412568865,
+      "w": 320,
+      "h": 318,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Biopolitics",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://paulcairney.wordpress.com/wp-content/uploads/2014/09/sabatier-et-al-1987-devil-shift-acf.pdf",
+          "The Devil Shift and Brokerage Roles: Com...",
+          "European Consortium for Political Research",
+          "ecpr.eu"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n777jyyx",
+      "x": 1890.086484412569,
+      "y": 785.6696616044344,
+      "w": 320,
+      "h": 464,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "Chief | Decision Fatigue: Understanding and...",
+          "In an era of endless options, understanding decision fatigue is cru...",
+          "chief.com",
+          "The Jam Study Strikes Back: When Less Choice Does Mean...",
+          "The Jam Study is one of the most famous experiments in consumer psy...",
+          "digitalwellbeing.org"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ndpyxbdt",
+      "x": 1884.676276045841,
+      "y": 1555.9489581663606,
+      "w": 320,
+      "h": 415,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Biopolitics",
+          "Cyberpsychology",
+          "Critical technology studies",
+          "Media studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "Infinite Jest - Wikipedia",
+          "en.wikipedia.org",
+          "La società senza dolore. Byung-Chul Han, tra i pensatori piú importanti e...",
+          "einaudi.it"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nzckj0rg",
+      "x": 1855.4489099905236,
+      "y": 2213.624113948826,
+      "w": 320,
+      "h": 375,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "Avoiding Cognitive Dissonance",
+          "Do facts have the power to change our minds?",
+          "theatlantic.com",
+          "https://www.gamejournal.it/italiano-scienze-cognitive-e-game-design-progettare-dinamiche-di-gioco-non-finalizzate-a-un-obiettivo/",
+          "Politically polarized brains share an intolera...",
+          "A new study on political polarization led by a...",
+          "brown.edu"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nh791q4j",
+      "x": 1838.485421960198,
+      "y": 2844.237194062546,
+      "w": 320,
+      "h": 349,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Case studies",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Biopolitics",
+          "Society studies",
+          "Critical theory",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "La Cina, Taiwan e l'ombra della guerra cog...",
+          "La questione taiwanese sia ormai immersa in una p...",
+          "it.insideover.com",
+          "A Milano un supermercato sperimentale analizza il...",
+          "facebook.com"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ncwc09sb",
+      "x": 1848.4893900509098,
+      "y": 3483.075356832136,
+      "w": 320,
+      "h": 274,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "",
+        "type": "Source",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Neuroscience",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "Associations between Parental...",
+          "Processes through which parental ideology is tran...",
+          "pmc.ncbi.nlm.nih.gov",
+          "Cognitive Control and Conflict Adaptation Similariti...",
+          "academia.edu"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n11fa8pr",
+      "x": 2657.6161998696366,
+      "y": 1070.4344648508245,
+      "w": 320,
+      "h": 580,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "First review",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "The review examined the concepts of decision fatigue, devil shift, and depressive hedonia, highlighting their relevance to psychological and perceptual processes. Particular attention was given to the role of intrapsychic mechanisms in facilitating empathy, with cognitive dissonance identified as a valuable framework for interpreting marketing strategies.\nMethodologically, the systematic use of “what if” questions was recommended to explore potential scenarios and their implications. \nIn the construction of mood boards, the inclusion of real-world elements—such as tools, materials, and abstract signs—was emphasized as a means of eliciting and representing core aspects of the investigated concept.\nConflict includes organized and perceived violence, and prototypes must feel real rather than exist materially.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1h89xpr",
+      "x": 3237.0600445477207,
+      "y": 352.89379328644645,
+      "w": 320,
+      "h": 597,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Devil shift and cancel culture",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "Applying the devil shift to an individual means concentrating all blame on them, reducing complexity to a single perspective. The person becomes the “absolute villain,” even if not necessarily so.\nWith social media, this dynamic intensifies: a single case can trigger collective judgment, often fuelled by past episodes or statements, even if now irrelevant.\nRarely do we ask whether we too might have acted like the “cancelled” person. Group pressure reduces critical capacity, fostering conformity and flattening judgment.\nThose targeted are labelled and marginalised, raising questions about inclusion and social responsibility: are we truly as free from prejudice as we believe?\nThe project encourages seeing things from the perspective of the cancelled person, building empathy and breaking down stigmatisation, so their complexity and humanity are not reduced to a single label.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n2a8rm1e",
+      "x": 3221.9021647076415,
+      "y": 1066.8987699707593,
+      "w": 320,
+      "h": 513,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Cognitive Hedonia",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "We use social media because it gives us pleasure and releases dopamine. On one hand, we know we’re wasting time and engaging in a fleeting search for gratification, yet we can’t seem to disconnect. This mechanism resembles an addictive pattern.\nIn this context, we could imagine a kind of “drug” that provides exactly what we’re seeking—the immediate pleasure and dopamine release. That way, we wouldn’t need to spend time on social media to entertain ourselves, because our brains have already received what they want. But would it truly be satisfying?\nThis approach could free up the time we usually feel we lack to do what we really want. And if we do have that free time, will we actually use it as we intend?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7w1b7lo",
+      "x": 3226.5633917783816,
+      "y": 1927.4575356888256,
+      "w": 320,
+      "h": 647,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Decision fatigue and vote",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "In a world where voter interest is declining and turnout is at historic lows, who has truly shaped the system we live in—those who voted, or those who abstained?\nAbstaining and leaving decisions to the majority can be a symptom of decision fatigue. People are often unmotivated to inform themselves, showing little interest—even though the outcomes affect them on multiple levels.\nThis creates a cognitive conflict: political choices are complex, ambiguous, and full of imperfect alternatives. The inability to decide without discomfort leads to the simplest solution: not deciding at all. Abstention thus acts as a strategy to reduce cognitive noise.\nBut who really decided our system—the voters or the abstainers? And what if the tools meant to guide our choices—polls, surveys, tests—actually alienate us, flattening our critical and civic engagement?\nNon-choice is, in fact, a choice. Even if we believe that abstaining carries no consequences, it does—and it impacts both the system and those who abstain.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npus0o4e",
+      "x": 4726.62571016893,
+      "y": 1194.071188408761,
+      "w": 320,
+      "h": 513,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Cognitive Hedonia 2",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "In a world that no longer offers stable pleasure or gratification from traditional sources of entertainment, the individual experiences a profound cognitive conflict: to feel authentic sensations, they turn to content that, rationally, should provoke repulsion—true crime, violent news, gore. The mind is thus forced to reconcile two irreconcilable poles: the pleasure derived from intense emotional stimulation and the moral awareness that this pleasure stems from the suffering of others.\nIt becomes imperative to show how the need to “feel something” is captured and exploited by the market of pain, prompting the audience to reflect on the human and ethical cost of turning others’ suffering into entertainment.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nq1sgmz0",
+      "x": 4708.595742723505,
+      "y": 597.1341732673243,
+      "w": 320,
+      "h": 442,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Moodboard devil shift",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-09-27_alle_13.22.51.jpg",
+            "size": 238321,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_13.22.51.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncmyspem",
+      "x": 5112.975226527691,
+      "y": 1219.2505928252547,
+      "w": 320,
+      "h": 436,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Moodboard edonia depressiva",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-09-27_alle_13.23.07.jpg",
+            "size": 285732,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_13.23.07.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngu5dqsg",
+      "x": 4761.448160058335,
+      "y": 1784.861197442969,
+      "w": 320,
+      "h": 437,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Moodboard decision fatigue",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-09-27_alle_13.23.00.jpg",
+            "size": 324833,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_13.23.00.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxhaknfm",
+      "x": 3764.684515173291,
+      "y": 286.5348787806605,
+      "w": 320,
+      "h": 736,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Visual research devil shift",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-09-27_alle_13.30.47.jpg",
+            "size": 195442,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_13.30.47.jpg"
+          },
+          {
+            "name": "Screenshot_2025-09-27_alle_13.31.00.jpg",
+            "size": 352796,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_13.31.00.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4l2qkd7",
+      "x": 3743.6878796628216,
+      "y": 1173.2354982568936,
+      "w": 320,
+      "h": 952,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Visual research cognitive hedonia",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-09-27_alle_13.31.28.jpg",
+            "size": 249623,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_13.31.28.jpg"
+          },
+          {
+            "name": "Screenshot_2025-09-27_alle_13.31.23.jpg",
+            "size": 266713,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_13.31.23.jpg"
+          },
+          {
+            "name": "Screenshot_2025-09-27_alle_13.31.17.jpg",
+            "size": 441453,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_13.31.17.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwd48pu0",
+      "x": 3762.8645965191527,
+      "y": 2210.673984450495,
+      "w": 320,
+      "h": 569,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Visual research decision fatigue",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-09-27_alle_13.30.37.jpg",
+            "size": 492652,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-27_alle_13.30.37.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n6wo3oi8",
+      "x": 4247.510779572379,
+      "y": 1125.16510653654,
+      "w": 320,
+      "h": 429,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Second review",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "Reflect: What conflicts does this theme create?\nWhat issues does it cause in today’s society? Provide concrete examples.\nProject Concept:\nWhat kind of project could emerge from a theme like this? Think about the message you want to convey concretely through the project.\nMoodboard:\nTranslate the concept into visuals through examples (e.g., images of Trump, Netflix).",
+        "links": [],
         "files": []
       }
     }
@@ -749,22 +1349,160 @@
       "s": "nqsj3v05",
       "t": "nmm5bb23",
       "dashed": false
+    },
+    {
+      "s": "nweug8dn",
+      "t": "ngxplybz",
+      "dashed": false
+    },
+    {
+      "s": "nfaki92h",
+      "t": "nf0d4g7f",
+      "dashed": false
+    },
+    {
+      "s": "nmm5bb23",
+      "t": "n777jyyx",
+      "dashed": false
+    },
+    {
+      "s": "nai1yave",
+      "t": "ndpyxbdt",
+      "dashed": false
+    },
+    {
+      "s": "nz19ocjs",
+      "t": "nzckj0rg",
+      "dashed": false
+    },
+    {
+      "s": "n4iormrf",
+      "t": "nh791q4j",
+      "dashed": false
+    },
+    {
+      "s": "nkhzwryp",
+      "t": "ncwc09sb",
+      "dashed": false
+    },
+    {
+      "s": "nkhzwryp",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "n4iormrf",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "nz19ocjs",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "nai1yave",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "nmm5bb23",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "nfaki92h",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "nweug8dn",
+      "t": "n11fa8pr",
+      "dashed": false
+    },
+    {
+      "s": "n11fa8pr",
+      "t": "n1h89xpr",
+      "dashed": false
+    },
+    {
+      "s": "n11fa8pr",
+      "t": "n2a8rm1e",
+      "dashed": false
+    },
+    {
+      "s": "n11fa8pr",
+      "t": "n7w1b7lo",
+      "dashed": false
+    },
+    {
+      "s": "npus0o4e",
+      "t": "ncmyspem",
+      "dashed": false
+    },
+    {
+      "s": "n1h89xpr",
+      "t": "nxhaknfm",
+      "dashed": false
+    },
+    {
+      "s": "n2a8rm1e",
+      "t": "n4l2qkd7",
+      "dashed": false
+    },
+    {
+      "s": "n7w1b7lo",
+      "t": "nwd48pu0",
+      "dashed": false
+    },
+    {
+      "s": "nxhaknfm",
+      "t": "n6wo3oi8",
+      "dashed": false
+    },
+    {
+      "s": "n4l2qkd7",
+      "t": "n6wo3oi8",
+      "dashed": false
+    },
+    {
+      "s": "nwd48pu0",
+      "t": "n6wo3oi8",
+      "dashed": false
+    },
+    {
+      "s": "n6wo3oi8",
+      "t": "nq1sgmz0",
+      "dashed": false
+    },
+    {
+      "s": "n6wo3oi8",
+      "t": "npus0o4e",
+      "dashed": false
+    },
+    {
+      "s": "n6wo3oi8",
+      "t": "ngu5dqsg",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Society studies",
-      "Socio-political",
-      "Critical theory",
-      "Media studies",
-      "Design research",
+      "Critical design",
       "Communication",
-      "Critical design"
+      "Design research",
+      "Media studies",
+      "Critical theory",
+      "Socio-political",
+      "Society studies"
     ],
     "tags": [],
     "type": [
-      "Research",
-      "Brief"
+      "Concept",
+      "Feedback",
+      "Source",
+      "Brief",
+      "Finding"
     ]
   }
 }
