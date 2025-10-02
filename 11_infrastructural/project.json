@@ -600,8 +600,8 @@
     },
     {
       "id": "nahpwlgx",
-      "x": 2171.0817681341186,
-      "y": 1432.7249888305123,
+      "x": 2416.636801927247,
+      "y": 1702.8086122520592,
       "w": 320,
       "h": 626,
       "group": null,
@@ -612,12 +612,11 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "General knowledge"
+          "Infrastructure"
         ],
         "tags": [
           "Conflict",
-          "Definition",
-          "Infrastructure"
+          "Definition"
         ],
         "desc": "- Security cameras, big brother, conflict in surveillance\n- Construction of Infrastructures that then self-damage\n- Transport Infrastructures designed for AI, instead of humans \n- Bureaucracy (as an infrastructure itself) blocking infrastructures \n- Military mobility in Europe: infrastructures + customs/technical limits\n- Infrastructure as a network \n- Cyber warfare\n- Corruption\n- Infrastructure crises caused by war\n- ‘Evolutionary’ differences of infrastructures in different places\n- Infrastructures that arise because of conflict \n- Walls as infrastructure creating separation\n- Playful/Ludic infrastructure\n- Pop-up walls (temporary or movable barriers)\n- Gentrification\n- Satellites and the space race \n- Energy\n",
         "links": [],
@@ -626,13 +625,13 @@
     },
     {
       "id": "ng7rbcv7",
-      "x": 2985.452008727293,
-      "y": 3378.767910876578,
+      "x": 2950.370643685348,
+      "y": 3434.5791734433083,
       "w": 320,
       "h": 500,
       "group": null,
       "data": {
-        "date": "2025-09-23",
+        "date": "2025-09-19",
         "title": "Biopower",
         "type": "Source",
         "action": null,
@@ -664,7 +663,7 @@
       "h": 343,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Urbicide",
         "type": "Source",
         "action": "Exploring",
@@ -680,13 +679,13 @@
     },
     {
       "id": "ngiple7s",
-      "x": 2955.622500809219,
+      "x": 2952.433285805406,
       "y": 4320.380469050994,
       "w": 320,
       "h": 257,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Bordered",
         "type": "Source",
         "action": "Exploring",
@@ -704,13 +703,13 @@
     },
     {
       "id": "nig80wj9",
-      "x": 4038.709337251559,
-      "y": 4382.315220324353,
+      "x": 2466.709337251559,
+      "y": 4606.315220324353,
       "w": 320,
       "h": 545,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "War Necropolitics",
         "type": "Source",
         "action": "Exploring",
@@ -737,13 +736,13 @@
     },
     {
       "id": "ne42ns33",
-      "x": 2615.945280776951,
+      "x": 2617.5398882788577,
       "y": 4201.945527294118,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "The tragedy of Content Moderators",
         "type": "Source",
         "action": "Exploring",
@@ -763,7 +762,7 @@
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Internet Backbone",
         "type": "Source",
         "action": "Exploring",
@@ -783,7 +782,7 @@
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Wireless and mobile networks",
         "type": "Source",
         "action": "Exploring",
@@ -803,7 +802,7 @@
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Data centers",
         "type": "Source",
         "action": "Exploring",
@@ -817,13 +816,13 @@
     },
     {
       "id": "nddb89ds",
-      "x": 3560.681631626022,
-      "y": 4339.561971193839,
+      "x": 2078.649592527787,
+      "y": 4539.253263699597,
       "w": 320,
       "h": 634,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Necropolitics",
         "type": "Source",
         "action": "Exploring",
@@ -854,7 +853,7 @@
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Videocameras",
         "type": "Source",
         "action": "Exploring",
@@ -874,7 +873,7 @@
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Cyber conflict",
         "type": "Source",
         "action": "Exploring",
@@ -888,13 +887,13 @@
     },
     {
       "id": "nnlpf2mn",
-      "x": 2963.100131869127,
-      "y": 4755.292305053796,
+      "x": 2950.3432718538743,
+      "y": 4595.831554863138,
       "w": 320,
       "h": 490,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "The white man's burden",
         "type": "Source",
         "action": "Exploring",
@@ -917,13 +916,13 @@
     },
     {
       "id": "nndxghpd",
-      "x": 2769.7146317487272,
-      "y": 5400.693094180951,
+      "x": 2927.580774437478,
+      "y": 5297.043606557025,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Cultural infrastructure's problems in Italy",
         "type": "Source",
         "action": "Exploring",
@@ -937,13 +936,13 @@
     },
     {
       "id": "nja3vax1",
-      "x": 2670.2535979665877,
-      "y": 5090.279961890969,
+      "x": 2930.174620777359,
+      "y": 5111.009859415755,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Simbolical infrastructures",
         "type": "Source",
         "action": "Exploring",
@@ -957,13 +956,13 @@
     },
     {
       "id": "nekkmfu5",
-      "x": 2255.98223019468,
-      "y": 6257.853920605312,
+      "x": 2268.3097933323456,
+      "y": 6118.391508419679,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Overturism",
         "type": "Research",
         "action": "Exploring",
@@ -977,13 +976,13 @@
     },
     {
       "id": "nwivrpwx",
-      "x": 2255.98223019468,
-      "y": 6338.853920605312,
+      "x": 2256.791029820968,
+      "y": 6309.737134058941,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Cultural Heritage",
         "type": "Research",
         "action": "Exploring",
@@ -998,12 +997,12 @@
     {
       "id": "npoaf3ou",
       "x": 2254.4303575773306,
-      "y": 6443.766748592542,
+      "y": 6499.573922806421,
       "w": 320,
       "h": 182,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "War targets riorganized for a socio-economical advantage",
         "type": "Research",
         "action": "Exploring",
@@ -1017,13 +1016,13 @@
     },
     {
       "id": "nr8i4jja",
-      "x": 2688.3172170608805,
-      "y": 6683.553224202507,
+      "x": 2276.3172170608805,
+      "y": 5727.553224202507,
       "w": 320,
       "h": 272,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Energetic Infrastructures",
         "type": "Research",
         "action": "Exploring",
@@ -1037,13 +1036,13 @@
     },
     {
       "id": "ntg0e6es",
-      "x": 3121.8263732148816,
-      "y": 6254.433984994265,
+      "x": 2841.8263732148816,
+      "y": 5566.433984994265,
       "w": 320,
       "h": 322,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Power Grids",
         "type": "Research",
         "action": "Exploring",
@@ -1057,13 +1056,13 @@
     },
     {
       "id": "nnz6kvu3",
-      "x": 3118.6156023833523,
-      "y": 6594.449972846097,
+      "x": 2848.0534073690396,
+      "y": 5913.618258834756,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Pipelines",
         "type": "Research",
         "action": "Exploring",
@@ -1076,34 +1075,14 @@
       }
     },
     {
-      "id": "nvnrich3",
-      "x": 3575.5695413956937,
-      "y": 6594.534638534949,
-      "w": 320,
-      "h": 165,
-      "group": null,
-      "data": {
-        "date": "2025-09-24",
-        "title": "cross cutting conflict nodes",
-        "type": "Research",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "nwmvw3b4",
-      "x": 3117.670824392894,
-      "y": 6780.08222239396,
+      "x": 2845.670824392894,
+      "y": 6103.362176213259,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Megatrends ",
         "type": "Research",
         "action": "Exploring",
@@ -1117,13 +1096,13 @@
     },
     {
       "id": "ncsohusa",
-      "x": 3116.4584428299254,
-      "y": 6968.353794051177,
+      "x": 2847.0240724059236,
+      "y": 6289.651637101409,
       "w": 320,
       "h": 165,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Fossil Fuels",
         "type": "Research",
         "action": "Exploring",
@@ -1137,13 +1116,13 @@
     },
     {
       "id": "nzb2m0qr",
-      "x": 3111.974856922351,
-      "y": 7161.164150381111,
+      "x": 3183.5383238889494,
+      "y": 5571.40315658515,
       "w": 320,
       "h": 649,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-19",
         "title": "Sattelits",
         "type": "Source",
         "action": "Exploring",
@@ -1254,20 +1233,24 @@
     {
       "id": "n0079gul",
       "x": 4535.206027913954,
-      "y": 3637.676923735403,
+      "y": 3592.769147504979,
       "w": 320,
-      "h": 537,
+      "h": 583,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-21",
         "title": "Environmental sustainability vs developement",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Environmental sustainability"
+          "Landgrabbing"
         ],
-        "tags": [],
+        "tags": [
+          "Human rights",
+          "Cultural loss",
+          "Protests"
+        ],
         "desc": "A socio-political and ecological conflict arises when an infrastructure generates severe environmental impacts or redistributes resources in ways that harm ecosystems and livelihoods, while being presented as a driver of development. The conflict stems from the unequal distribution of costs and benefits and from inadequate decision-making processes and remedies.",
         "links": [],
         "files": [
@@ -1284,19 +1267,19 @@
     },
     {
       "id": "n0cinr9z",
-      "x": 4547.631085307011,
-      "y": 4209.45743613923,
+      "x": 4533.327330050827,
+      "y": 4206.857975989986,
       "w": 320,
       "h": 171,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-21",
         "title": "infrastructure conflict about shared infrastructure ",
         "type": "Research",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "General knowledge"
+          "Infrastructure"
         ],
         "tags": [],
         "desc": "",
@@ -1306,19 +1289,26 @@
     },
     {
       "id": "nyjy5rg0",
-      "x": 4519.760245567347,
-      "y": 4382.592267934148,
+      "x": 4534.602276784107,
+      "y": 4423.396406360707,
       "w": 320,
-      "h": 502,
+      "h": 554,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-21",
         "title": "Humanitary/Sanitary help vs war target",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
-        "tags": [],
+        "areas": [
+          "Infrastructure",
+          "War"
+        ],
+        "tags": [
+          "Human rights",
+          "Victims",
+          "Health"
+        ],
         "desc": "Hospitals, clinics, ambulances, aid distribution centers, and civilian shelters are attacked or threatened during armed conflicts, despite being designed to protect and save lives.",
         "links": [
           "https://www.who.int/europe/news/item/19-08-2024-grim-milestone-on-world-humanitarian-day--who-records-1940-attacks-on-health-care-in-ukraine-since-start-of-full-scale-war?"
@@ -1337,23 +1327,25 @@
     },
     {
       "id": "n1uuqalf",
-      "x": 4527.524519171479,
-      "y": 5377.344806487625,
+      "x": 4537.165028873826,
+      "y": 5560.416472204715,
       "w": 320,
-      "h": 646,
+      "h": 669,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-21",
         "title": "Instruction palce vs distruction place",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "General knowledge",
-          "Education",
           "War"
         ],
-        "tags": [],
+        "tags": [
+          "Infrastructure",
+          "Welfare",
+          "Victims"
+        ],
         "desc": "Between 2022 and 2023, there were approximately 6,000 attacks on schools and universities worldwide, affecting over 10,000 students and teachers, mainly in Palestine, Ukraine, and the DRC. The attacks, including bombings, arson, and military use of schools, caused prolonged closures, loss of months of education, and severe psychological effects. HRW urges states to adopt the Safe Schools Declaration to protect education during conflicts.",
         "links": [
           "https://www.hrw.org/news/2024/06/20/attacks-education-war-surge-globally?"
@@ -1372,23 +1364,24 @@
     },
     {
       "id": "n0z43ix8",
-      "x": 4585.210138309494,
-      "y": 4888.414865124651,
+      "x": 4534.359504103728,
+      "y": 4996.218209640874,
       "w": 320,
       "h": 540,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-21",
         "title": "Turism vs Welfare",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Tourism",
-          "Welfare"
+          "Infrastructure"
         ],
         "tags": [
-          "Overtourism"
+          "Overtourism",
+          "Welfare"
         ],
         "desc": "The way the new forms of overtourism are undermining the welfare of local populations",
         "links": [],
@@ -1406,20 +1399,19 @@
     },
     {
       "id": "nf6ny5m2",
-      "x": 4593.154545035127,
-      "y": 5958.26014933543,
+      "x": 4532.90175071716,
+      "y": 6254.682799719287,
       "w": 320,
-      "h": 685,
+      "h": 662,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-21",
         "title": "La città del sole",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Socio-political",
-          "General knowledge",
           "Utopian civilization"
         ],
         "tags": [],
@@ -1442,10 +1434,10 @@
       "x": 5305.141594755823,
       "y": 8511.346278561858,
       "w": 320,
-      "h": 338,
+      "h": 589,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-22",
         "title": "Neuroarchitecture",
         "type": "Research",
         "action": "Exploring",
@@ -1459,7 +1451,16 @@
         "links": [
           "https://www.neurowebcopywriting.com/introduzione-neuroarchitettura/"
         ],
-        "files": []
+        "files": [
+          {
+            "name": "image 102.png",
+            "size": 23852,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_102.jpg"
+          }
+        ]
       }
     },
     {
@@ -1470,13 +1471,13 @@
       "h": 590,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-21",
         "title": "Foreigners everywhere: Biennale",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "General knowledge"
+          "Art"
         ],
         "tags": [],
         "desc": "Foreigners Everywhere, curated by Brazilian Adriano Pedrosa, was the main art exhibition of the 60th Venice Biennale, which took place from April 20–November 24, 2024. Pedrosa's stated intention for the exhibit was to investigate the idea of living on the margins, whether as an outsider, a new arrival, or an Indigenous person.",
@@ -1500,22 +1501,30 @@
       "x": 5242.297976139232,
       "y": 6486.8687010791145,
       "w": 320,
-      "h": 294,
+      "h": 494,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-22",
         "title": "Touristification",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Touristification",
-          "Tourism"
+          "Touristification"
         ],
         "tags": [],
         "desc": "Touristification is the process by which a city or area becomes dominated by tourism. It often transforms local spaces, services, and culture to cater to visitors. This can lead to economic benefits but also social tensions, displacement, and loss of local identity.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "napoli-turismo.jpeg",
+            "size": 66339,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/napoli-turismo.jpg"
+          }
+        ]
       }
     },
     {
@@ -1526,7 +1535,7 @@
       "h": 300,
       "group": null,
       "data": {
-        "date": "2025-09-27",
+        "date": "2025-09-22",
         "title": "Luxury tourism",
         "type": "Source",
         "action": "Exploring",
@@ -1549,7 +1558,7 @@
       "h": 298,
       "group": null,
       "data": {
-        "date": "2025-09-27",
+        "date": "2025-09-22",
         "title": "Extreme turism",
         "type": "Source",
         "action": "Exploring",
@@ -1574,7 +1583,7 @@
       "h": 545,
       "group": null,
       "data": {
-        "date": "2025-09-27",
+        "date": "2025-09-22",
         "title": "Overtourism in Venice",
         "type": "Source",
         "action": "Exploring",
@@ -1605,7 +1614,7 @@
       "h": 630,
       "group": null,
       "data": {
-        "date": "2025-09-27",
+        "date": "2025-09-22",
         "title": "Jeff Bezos wedding",
         "type": "Source",
         "action": "Exploring",
@@ -1639,7 +1648,7 @@
       "h": 653,
       "group": null,
       "data": {
-        "date": "2025-09-27",
+        "date": "2025-09-22",
         "title": "Spacial torusim",
         "type": "Source",
         "action": "Exploring",
@@ -1674,7 +1683,7 @@
       "h": 690,
       "group": null,
       "data": {
-        "date": "2025-09-27",
+        "date": "2025-09-22",
         "title": "Submarine tourism",
         "type": "Source",
         "action": "Exploring",
@@ -1703,13 +1712,13 @@
     },
     {
       "id": "n1l4uiqd",
-      "x": 6937.401248138994,
-      "y": 6556.658400400747,
+      "x": 6939.8834480027635,
+      "y": 6593.8913983572875,
       "w": 320,
       "h": 671,
       "group": null,
       "data": {
-        "date": "2025-09-27",
+        "date": "2025-09-22",
         "title": "Everest Mount",
         "type": "Source",
         "action": "Exploring",
@@ -1741,18 +1750,22 @@
       "x": 5113.175006720024,
       "y": 2987.611606589162,
       "w": 320,
-      "h": 492,
+      "h": 537,
       "group": null,
       "data": {
-        "date": "2025-09-24",
+        "date": "2025-09-22",
         "title": "Politics of infrastructure",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Protests"
+          "Landgrabbing"
         ],
-        "tags": [],
+        "tags": [
+          "Protests",
+          "Infrastructure",
+          "Human rights"
+        ],
         "desc": "Social, cultural, and political conflict can arise as early as the planning phase of an infrastructure project. Economic interests, community rights, and cultural heritage may come into conflict. The lack of dialogue fuels protests and delays, while construction often disregards human rights and local cultures.",
         "links": [],
         "files": [
@@ -1980,8 +1993,8 @@
     },
     {
       "id": "nt1eoplw",
-      "x": 6158.872558007591,
-      "y": 3379.4764686527537,
+      "x": 6162.7681193764765,
+      "y": 3363.8942231772076,
       "w": 320,
       "h": 679,
       "group": null,
@@ -2538,18 +2551,21 @@
     },
     {
       "id": "nd26bnkn",
-      "x": 5791.7261816386235,
+      "x": 5782.976428270679,
       "y": 9221.535958409791,
       "w": 320,
-      "h": 781,
+      "h": 787,
       "group": null,
       "data": {
-        "date": "2025-09-29",
+        "date": "2025-09-22",
         "title": "San Vittore Prison",
         "type": "",
         "action": null,
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Architecture",
+          "Infrastructure"
+        ],
         "tags": [
           "Structural failure",
           "Isolation"
@@ -2575,15 +2591,18 @@
       "x": 5777.222469673538,
       "y": 7615.8972614035665,
       "w": 320,
-      "h": 812,
+      "h": 818,
       "group": null,
       "data": {
-        "date": "2025-09-29",
+        "date": "2025-09-22",
         "title": "Pruitt-Igoe residential complex",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Architecture",
+          "Infrastructure"
+        ],
         "tags": [
           "Structural failure",
           "Protests",
@@ -2605,18 +2624,21 @@
     },
     {
       "id": "nel0wud6",
-      "x": 5787.7485383813755,
-      "y": 8438.373461347855,
+      "x": 5776.082200557451,
+      "y": 8444.20663025982,
       "w": 320,
-      "h": 758,
+      "h": 764,
       "group": null,
       "data": {
-        "date": "2025-09-29",
+        "date": "2025-09-22",
         "title": "Hulme Crescents Notorious residential complex",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Architecture",
+          "Infrastructure"
+        ],
         "tags": [
           "Structural failure",
           "Isolation",
@@ -2641,15 +2663,18 @@
       "x": 6638.145113724535,
       "y": 8471.238614907114,
       "w": 320,
-      "h": 507,
+      "h": 513,
       "group": null,
       "data": {
-        "date": "2025-09-29",
+        "date": "2025-09-22",
         "title": "Common critical point in infrastructural projects",
         "type": "Observation",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Architecture",
+          "Infrastructure"
+        ],
         "tags": [],
         "desc": "FUNCTION – Expression of intent by individuals or authorities that can create conflicts of interest within society.\n\nPLANNING – Organizational problems, such as the urgent need for a facility that cannot be built in time.\n\nDESIGN – Architectural choices that clash with the intended function, for example buildings poorly suited to their environment or use.\n\nCONSTRUCTION – Environmental and social issues related to the location or size of the infrastructure.\n\nUSE – A gap between the project’s concept and its realization, leaving users dissatisfied.\n\nDEGRADATION – Abandonment and disuse of infrastructures, leading to wasted resources.",
         "links": [],
@@ -2659,17 +2684,20 @@
     {
       "id": "n82fpx6s",
       "x": 6150.51015995356,
-      "y": 7635.280201963766,
+      "y": 7618.735789189046,
       "w": 320,
-      "h": 699,
+      "h": 705,
       "group": null,
       "data": {
-        "date": "2025-09-29",
+        "date": "2025-09-22",
         "title": "Grenfell Tower (London, 2017)",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Architecture",
+          "Infrastructure"
+        ],
         "tags": [
           "Victims",
           "Psychological distress"
@@ -2693,15 +2721,18 @@
       "x": 6148.581371635434,
       "y": 8354.02604794899,
       "w": 320,
-      "h": 615,
+      "h": 621,
       "group": null,
       "data": {
-        "date": "2025-09-29",
+        "date": "2025-09-22",
         "title": "Citicorp Center (New York, 1970s)",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Architecture",
+          "Infrastructure"
+        ],
         "tags": [
           "Psychological distress",
           "Structural failure"
@@ -2725,15 +2756,18 @@
       "x": 6144.694773662868,
       "y": 8996.994411837812,
       "w": 320,
-      "h": 856,
+      "h": 862,
       "group": null,
       "data": {
-        "date": "2025-09-29",
+        "date": "2025-09-22",
         "title": "John Hancock Tower (Boston, 1970s)",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Architecture",
+          "Infrastructure"
+        ],
         "tags": [
           "Psychological distress",
           "Structural failure"
@@ -2757,15 +2791,18 @@
       "x": 7059.249692736437,
       "y": 8321.95478951182,
       "w": 320,
-      "h": 305,
+      "h": 311,
       "group": null,
       "data": {
-        "date": "2025-09-29",
+        "date": "2025-09-22",
         "title": "Infrastructural limits",
         "type": "Observation",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Architecture",
+          "Infrastructure"
+        ],
         "tags": [],
         "desc": "Infrastructure becomes a means and place for bureaucratic decisions\n\nLike\nAccessibility to hospitals\nAccessibility to bunkers\nAccessibility to prisons",
         "links": [],
@@ -2777,15 +2814,18 @@
       "x": 7059.249692736437,
       "y": 8653.539961644776,
       "w": 320,
-      "h": 305,
+      "h": 311,
       "group": null,
       "data": {
-        "date": "2025-09-29",
+        "date": "2025-09-22",
         "title": "Infrastructures that feed social conflict",
         "type": "Observation",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Architecture",
+          "Infrastructure"
+        ],
         "tags": [],
         "desc": "Infrastructure, depending on how and where it is built, can create or accentuate social conflict by increasing social isolation, discrimination, poverty, and crime.\nThis phenomenon often occurs with spatial renewal policies, such as those in Scampia, Pruitt-Igoe, and Hulme Crescents\n",
         "links": [],
@@ -2797,15 +2837,18 @@
       "x": 7061.682276756842,
       "y": 8976.150767037872,
       "w": 320,
-      "h": 356,
+      "h": 362,
       "group": null,
       "data": {
-        "date": "2025-09-29",
+        "date": "2025-09-22",
         "title": "Infrastructures that increase war conflict",
         "type": "Observation",
         "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Architecture",
+          "Infrastructure"
+        ],
         "tags": [],
         "desc": "These are infrastructures that are built specifically for war or infrastructures that, if manipulated, can be used as a weapon fueling conflict.\nSuch as\nTrade routes (e.g., the Silk Road, tariffs, etc.)\nGas in Russia\nTariffs as an economic logistics infrastructure\nArms trafficking fuels wars\nSoldier transportation\nFood transportation",
         "links": [],
@@ -2820,7 +2863,7 @@
       "h": 683,
       "group": null,
       "data": {
-        "date": "2025-09-30",
+        "date": "2025-09-22",
         "title": "Grim milestone on World Humanitarian Day",
         "type": "Source",
         "action": "Exploring",
@@ -2859,7 +2902,7 @@
       "h": 767,
       "group": null,
       "data": {
-        "date": "2025-09-30",
+        "date": "2025-09-22",
         "title": "Russian attacks on Ukraine power grid",
         "type": "Source",
         "action": "Exploring",
@@ -2897,7 +2940,7 @@
       "h": 858,
       "group": null,
       "data": {
-        "date": "2025-09-30",
+        "date": "2025-09-22",
         "title": "EU: Russian gas phase-out, end of imports by 2027",
         "type": "Source",
         "action": "Exploring",
@@ -2935,7 +2978,7 @@
       "h": 629,
       "group": null,
       "data": {
-        "date": "2025-09-30",
+        "date": "2025-09-22",
         "title": "Yemen's water situation",
         "type": "Source",
         "action": "Exploring",
@@ -2975,7 +3018,7 @@
       "h": 688,
       "group": null,
       "data": {
-        "date": "2025-09-30",
+        "date": "2025-09-22",
         "title": "Conflict Resilience of Water and Energy Supply Infrastructure: Insights from Yemen",
         "type": "Source",
         "action": "Exploring",
@@ -3009,8 +3052,8 @@
     },
     {
       "id": "nf76rok1",
-      "x": 8964.10632578762,
-      "y": 8534.031581640233,
+      "x": 9472.10632578762,
+      "y": 7966.031581640233,
       "w": 320,
       "h": 826,
       "group": null,
@@ -3029,8 +3072,8 @@
     },
     {
       "id": "nbzdz9x9",
-      "x": 9324.422254723166,
-      "y": 8534.818096022625,
+      "x": 9468.422254723166,
+      "y": 8834.818096022625,
       "w": 320,
       "h": 1111,
       "group": null,
@@ -3049,8 +3092,8 @@
     },
     {
       "id": "nd2lcdjd",
-      "x": 9675.970532458536,
-      "y": 8539.831642075524,
+      "x": 9895.970532458536,
+      "y": 8351.831642075524,
       "w": 320,
       "h": 389,
       "group": null,
@@ -3069,8 +3112,8 @@
     },
     {
       "id": "n3s51flp",
-      "x": 9674.745917783652,
-      "y": 8970.175149976261,
+      "x": 9898.745917783652,
+      "y": 8850.175149976261,
       "w": 320,
       "h": 473,
       "group": null,
@@ -3089,8 +3132,8 @@
     },
     {
       "id": "n96gcfty",
-      "x": 10031.246634423509,
-      "y": 8548.72948179819,
+      "x": 9907.246634423509,
+      "y": 9416.72948179819,
       "w": 320,
       "h": 389,
       "group": null,
@@ -3109,7 +3152,7 @@
     },
     {
       "id": "nustnp6x",
-      "x": 7535.930287944104,
+      "x": 8456.630947009322,
       "y": 5850.842036371056,
       "w": 320,
       "h": 473,
@@ -3129,7 +3172,7 @@
     },
     {
       "id": "nglpcgrg",
-      "x": 7880.740033405533,
+      "x": 8801.440692470751,
       "y": 5854.123293220495,
       "w": 320,
       "h": 507,
@@ -3149,7 +3192,7 @@
     },
     {
       "id": "nyqohfat",
-      "x": 7541.07246038816,
+      "x": 8461.773119453377,
       "y": 6355.83890073642,
       "w": 320,
       "h": 608,
@@ -3169,7 +3212,7 @@
     },
     {
       "id": "ncdxk01i",
-      "x": 7890.963148152078,
+      "x": 8811.663807217295,
       "y": 6387.877881635508,
       "w": 320,
       "h": 943,
@@ -3189,7 +3232,7 @@
     },
     {
       "id": "nnv5mnpd",
-      "x": 8231.407397061374,
+      "x": 9152.108056126592,
       "y": 5858.520176716077,
       "w": 320,
       "h": 591,
@@ -3209,7 +3252,7 @@
     },
     {
       "id": "na7mzbyh",
-      "x": 7837.306077876256,
+      "x": 8473.306077876256,
       "y": 2868.326741505826,
       "w": 320,
       "h": 693,
@@ -3234,7 +3277,7 @@
     },
     {
       "id": "nfjmoc7h",
-      "x": 8173.033445848846,
+      "x": 8809.033445848847,
       "y": 2869.812306420955,
       "w": 320,
       "h": 502,
@@ -3256,7 +3299,7 @@
     },
     {
       "id": "njri5k4v",
-      "x": 7834.13088799899,
+      "x": 8470.13088799899,
       "y": 3585.276615908035,
       "w": 320,
       "h": 603,
@@ -3278,7 +3321,7 @@
     },
     {
       "id": "neqv7hp8",
-      "x": 8173.155579568973,
+      "x": 8809.155579568973,
       "y": 3400.790195543448,
       "w": 320,
       "h": 519,
@@ -3294,6 +3337,97 @@
           "Infrastructure"
         ],
         "desc": "What we want to consider:\n- Cultural and human loss during the construction of huge infrastructures\n\nConflict:\nCauses:\nImplications:\n\nAgents:\n\nHow the conflict develops: what if infrastructures were the ones in charge, the ones who chose where and what to build and what humans can and cannot do. How would the human race function where infrastructure uses man to evolve, and infrastructure becomes the most advanced species.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nxo1uaqo",
+      "x": 8859.103116769926,
+      "y": 8447.162672527616,
+      "w": 320,
+      "h": 651,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Infrastructure",
+          "Architecture"
+        ],
+        "tags": [],
+        "desc": "Neuroarchitecture studies how spaces influence the brain, emotions, and behavior of others. It provides the tools to design environments that are not only functional, but actively promote mental well-being. Conflict arises when infrastructures, designed solely for functionality (e.g., hospitals, prisons), ignore mental well-being, creating a profound tension in perceived reality. What if psychological well-being were a requirement for the construction of an infrastructure?\n\nProblem:\n- Cognitive and emotional distress\n- Psychological exploitation\n\nAgents:\n- Designers\n- Bureaucratic organizations\n- Patients\n- Users\n\nInfrastructures:\n- Health\n- Social services and safety\n\nScenario:\n- Well-being\n- Priorities\n- Functionality",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqt3p5uu",
+      "x": 7758.530186497283,
+      "y": 6034.256081696892,
+      "w": 320,
+      "h": 720,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Turistification",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Infrastructure",
+          "Touristification"
+        ],
+        "tags": [],
+        "desc": "Global metropolises face a dilemma: their economic growth increasingly depends on tourism and external investment, but this development often conflicts with the needs of locals. On the one hand, tourists and mobile workers are a vital source of income, willing to spend on services that meet their needs. On the other, residents see their cities transforming and losing their identity. This creates a growing tension between those who experience the city daily and those who use it as an \"amusement park\" or investment capital.\n\nProblems:\n- Protests\n- Rising cost of living\n\nAgents:\n- Residents\n- Tourists\n\nInfrastructures:\n- Public spaces\n- Tourist attractions\n- Housing\n\nScenario:\n- Accessibility\n- Impact\n- Transformation\n\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3p9wgye",
+      "x": 40,
+      "y": 40,
+      "w": 320,
+      "h": 765,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Infrastructure policies",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Infrastructure"
+        ],
+        "tags": [],
+        "desc": "Social, cultural, and political conflict can arise as early as the planning stage of infrastructure. Cases like Vajont, the Standard Gauge Railway in Kenya, the No TAV movement, and the bridge over the Strait of Messina demonstrate how economic interests, community rights, and cultural heritage can collide. Lack of dialogue fuels protests and delays, while construction often ignores human rights and local cultures. If protests themselves defined the value of infrastructure, how would we measure progress? Would the culture of dissent become the fundamental infrastructure for protecting our cultural heritage?\n\nProblem:\n- Non-transparent procedures\n- Human rights violations\n- Loss of cultural heritage\n\nAgents:\n- Minor populations\n- Civilians\n- Investors\n\nInfrastructures:\n- Dams\n- Railway networks\n- Hydroelectric power plants\n\nScenarios:\n- Reality\n- Culture\n- Migration\n- Uprooting\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nrkvbkyd",
+      "x": 7872.946088015984,
+      "y": 3086.2191463868007,
+      "w": 320,
+      "h": 821,
+      "group": null,
+      "data": {
+        "date": "2025-10-24",
+        "title": "Infrastructure policies",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Infrastructure",
+          "Landgrabbing"
+        ],
+        "tags": [],
+        "desc": "Social, cultural, and political conflict can arise as early as the planning stage of infrastructure. Cases like Vajont, the Standard Gauge Railway in Kenya, the No TAV movement, and the bridge over the Strait of Messina demonstrate how economic interests, community rights, and cultural heritage can collide. Lack of dialogue fuels protests and delays, while construction often ignores human rights and local cultures. If protests themselves defined the value of infrastructure, how would we measure progress? Would the culture of dissent become the fundamental infrastructure for protecting our cultural heritage?\n\nProblem:\n- Non-transparent procedures\n- Human rights violations\n- Loss of cultural heritage\n\nAgents:\n- Minor populations\n- Civilians\n- Investors\n\nInfrastructures:\n- Dams\n- Railway networks\n- Hydroelectric power plants\n\nScenarios:\n- Reality\n- Culture\n- Migration\n- Uprooting\n\n\n",
         "links": [],
         "files": []
       }
@@ -3588,16 +3722,6 @@
     {
       "s": "nsdsyt6d",
       "t": "nr8i4jja",
-      "dashed": false
-    },
-    {
-      "s": "ntg0e6es",
-      "t": "nvnrich3",
-      "dashed": false
-    },
-    {
-      "s": "nnz6kvu3",
-      "t": "nvnrich3",
       "dashed": false
     },
     {
@@ -3944,99 +4068,314 @@
       "s": "nsdsyt6d",
       "t": "nj01owja",
       "dashed": false
+    },
+    {
+      "s": "nxo1uaqo",
+      "t": "nf76rok1",
+      "dashed": false
+    },
+    {
+      "s": "nuycbuoq",
+      "t": "nxo1uaqo",
+      "dashed": false
+    },
+    {
+      "s": "njaxkv8q",
+      "t": "nxo1uaqo",
+      "dashed": false
+    },
+    {
+      "s": "n0bod6hg",
+      "t": "nxo1uaqo",
+      "dashed": false
+    },
+    {
+      "s": "nhhopwqp",
+      "t": "nxo1uaqo",
+      "dashed": false
+    },
+    {
+      "s": "nbfhg9ml",
+      "t": "nxo1uaqo",
+      "dashed": false
+    },
+    {
+      "s": "nxo1uaqo",
+      "t": "nbzdz9x9",
+      "dashed": false
+    },
+    {
+      "s": "nxo1uaqo",
+      "t": "nd2lcdjd",
+      "dashed": false
+    },
+    {
+      "s": "nxo1uaqo",
+      "t": "n3s51flp",
+      "dashed": false
+    },
+    {
+      "s": "nxo1uaqo",
+      "t": "n96gcfty",
+      "dashed": false
+    },
+    {
+      "s": "n7bsvhu0",
+      "t": "nqt3p5uu",
+      "dashed": false
+    },
+    {
+      "s": "n81kyskw",
+      "t": "nqt3p5uu",
+      "dashed": false
+    },
+    {
+      "s": "n1l4uiqd",
+      "t": "nqt3p5uu",
+      "dashed": false
+    },
+    {
+      "s": "nqt3p5uu",
+      "t": "nustnp6x",
+      "dashed": false
+    },
+    {
+      "s": "nqt3p5uu",
+      "t": "nyqohfat",
+      "dashed": false
+    },
+    {
+      "s": "nqt3p5uu",
+      "t": "nglpcgrg",
+      "dashed": false
+    },
+    {
+      "s": "nqt3p5uu",
+      "t": "nnv5mnpd",
+      "dashed": false
+    },
+    {
+      "s": "nqt3p5uu",
+      "t": "ncdxk01i",
+      "dashed": false
+    },
+    {
+      "s": "nrkvbkyd",
+      "t": "njri5k4v",
+      "dashed": false
+    },
+    {
+      "s": "nrkvbkyd",
+      "t": "na7mzbyh",
+      "dashed": false
+    },
+    {
+      "s": "nrkvbkyd",
+      "t": "nfjmoc7h",
+      "dashed": false
+    },
+    {
+      "s": "nrkvbkyd",
+      "t": "neqv7hp8",
+      "dashed": false
+    },
+    {
+      "s": "ne4w6x4w",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nyt0d61t",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nx9rwbkg",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nd7mba5z",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nlqu5h42",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "n2ady6kg",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nmwf8j2i",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "ncbltg5v",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nmfz7pcn",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nt1eoplw",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "n1qras43",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "n8a7ft00",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nwsqp9q5",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nk628c7w",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nulybvfi",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "ns46p3tt",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nq08g7td",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "n0lcx8mv",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nxq10een",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "naie8jn2",
+      "t": "nrkvbkyd",
+      "dashed": false
+    },
+    {
+      "s": "nxihmoke",
+      "t": "nrkvbkyd",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Geopolitics and international relations",
-      "Political economy and public policy",
-      "International relations and human rights",
-      "Humanitarian and development studies",
-      "Touristification",
-      "Human rights",
-      "War",
-      "Critical theory",
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Design research",
-      "Socio-political",
-      "General knowledge",
-      "Utopian civilization",
-      "Neuroscience",
-      "Education",
-      "Welfare",
-      "Environmental sustainability",
-      "Luxury tourism",
-      "Tourism",
-      "Transportation",
-      "Extreme tourism",
-      "Protests",
-      "Infrastructure engineering",
-      "Security and defense studies",
-      "Political economy",
-      "Social psychology",
-      "Humanitarian studies",
-      "Disaster management",
-      "Energy engineering",
-      "Geography",
-      "Civil engineering",
-      "Architecture",
-      "Geology",
-      "Social anthropology",
-      "Transportation engineering",
-      "Urban/regional planning",
-      "Economics",
-      "Aviation engineering",
-      "Energy studies",
-      "Cultural heritage",
-      "International law",
-      "Human geography",
-      "Security studies",
-      "Sociology of protest",
-      "Energy engineering political science",
-      "Anthropology",
-      "Urban planning",
-      "Social movements",
-      "Archaeology",
-      "Political science",
-      "Hydraulic engineering",
-      "Environmental studies",
-      "Indigenous studies",
-      "Maritime engineering",
-      "Economic geography",
-      "International relations",
-      "History",
-      "Development studies",
-      "Indigenous rights",
-      "Transport engineering",
+      "Political sci",
       "Development economics",
-      "Political sci"
+      "Transport engineering",
+      "Indigenous rights",
+      "Development studies",
+      "History",
+      "International relations",
+      "Economic geography",
+      "Maritime engineering",
+      "Indigenous studies",
+      "Environmental studies",
+      "Hydraulic engineering",
+      "Political science",
+      "Archaeology",
+      "Social movements",
+      "Urban planning",
+      "Anthropology",
+      "Energy engineering political science",
+      "Sociology of protest",
+      "Security studies",
+      "Human geography",
+      "International law",
+      "Cultural heritage",
+      "Energy studies",
+      "Aviation engineering",
+      "Economics",
+      "Urban/regional planning",
+      "Transportation engineering",
+      "Social anthropology",
+      "Geology",
+      "Civil engineering",
+      "Geography",
+      "Energy engineering",
+      "Disaster management",
+      "Humanitarian studies",
+      "Social psychology",
+      "Political economy",
+      "Security and defense studies",
+      "Infrastructure engineering",
+      "Extreme tourism",
+      "Transportation",
+      "Tourism",
+      "Luxury tourism",
+      "Neuroscience",
+      "Utopian civilization",
+      "General knowledge",
+      "Socio-political",
+      "Design research",
+      "Media studies",
+      "Communication",
+      "Critical design",
+      "Critical theory",
+      "Human rights",
+      "Humanitarian and development studies",
+      "International relations and human rights",
+      "Political economy and public policy",
+      "Geopolitics and international relations",
+      "War",
+      "Art",
+      "Landgrabbing",
+      "Architecture",
+      "Infrastructure",
+      "Touristification"
     ],
     "tags": [
-      "Infrastructure",
+      "Structural failure",
+      "Psychological distress",
+      "Isolation",
+      "Useless investment",
+      "Catastrophe",
+      "Conflict",
+      "Communication",
+      "Overtourism",
+      "Definition",
+      "Extreme tourism",
+      "War",
+      "Health",
       "Landgrabbing",
       "Cultural loss",
-      "Human rights",
+      "Welfare",
       "Victims",
-      "Health",
-      "War",
-      "Extreme tourism",
-      "Definition",
-      "Overtourism",
-      "Communication",
-      "Conflict",
-      "Catastrophe",
-      "Useless investment",
       "Protests",
-      "Isolation",
-      "Psychological distress",
-      "Structural failure"
+      "Infrastructure",
+      "Human rights"
     ],
     "type": [
-      "Source",
-      "Research",
       "Brief",
+      "Research",
+      "Source",
       "Observation"
     ]
   }
