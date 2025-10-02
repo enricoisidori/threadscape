@@ -40,10 +40,10 @@
     },
     {
       "id": "ncob3sst",
-      "x": 153.0395639964143,
-      "y": 126.73850723965148,
+      "x": 132.88045232209535,
+      "y": 10.36545348335568,
       "w": 320,
-      "h": 237,
+      "h": 306,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -52,7 +52,11 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "Definition"
+          "Socio-political",
+          "Communication",
+          "Cultural studies",
+          "Design research",
+          "Conflict"
         ],
         "tags": [],
         "desc": "procedures, boundaries, documents, records, regulations, legal maps, administration",
@@ -63,9 +67,9 @@
     {
       "id": "npa52m07",
       "x": 781.8686448657292,
-      "y": -64.2581630812871,
+      "y": -25.390408213702813,
       "w": 320,
-      "h": 394,
+      "h": 417,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -74,8 +78,10 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Definition",
-          "Semantic research"
+          "Semantic research",
+          "Socio-political",
+          "Conflict",
+          "Cultural studies"
         ],
         "tags": [],
         "desc": "A legal map refers to a visual and structured representation of legal concepts, laws, or branches of law, similar to a concept map or diagram. It helps simplify and organize the complexity of the legal and bureaucratic system by showing relationships between different rules, institutions, or principles, thus supporting understanding and study. Regulations are specific rules issued by authorities to implement and enforce laws within particular contexts.",
@@ -86,19 +92,22 @@
     {
       "id": "n70eugn6",
       "x": 780.7551129141752,
-      "y": -707.7452364236999,
+      "y": -719.5233439593314,
       "w": 320,
-      "h": 294,
+      "h": 316,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Bounderies",
         "type": "Research",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Definition",
-          "Semantic research"
+          "Semantic research",
+          "Conflict",
+          "Cultural studies",
+          "Hystory",
+          "Socio-political"
         ],
         "tags": [],
         "desc": "borders decided at the negotiating table, wars over territories, resolution of wars through bureaucracy, treaties, armistices, movement between borders, immaterial borders",
@@ -111,7 +120,7 @@
       "x": 781.4801263489964,
       "y": -392.5624280275147,
       "w": 320,
-      "h": 310,
+      "h": 356,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -120,8 +129,11 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Definition",
-          "Semantic research"
+          "Semantic research",
+          "Socio-political",
+          "Conflict",
+          "Design research",
+          "Cultural studies"
         ],
         "tags": [],
         "desc": "documents and archival records defining individual actions and identity, identity-related documentation, records of war and conflict, including armistices, peace treaties, and divorce decrees, bureaucratic procedures and processes",
@@ -131,10 +143,10 @@
     },
     {
       "id": "nvi0dm4q",
-      "x": 521.9140499834537,
-      "y": 353.45438067219857,
+      "x": 520.7362392298904,
+      "y": 418.23397211817246,
       "w": 320,
-      "h": 796,
+      "h": 773,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -143,8 +155,8 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Definition",
-          "Semantic research"
+          "Semantic research",
+          "Hystory"
         ],
         "tags": [],
         "desc": "Bureaucracy is the body of officials and offices which, organized in various hierarchical levels, carry out the functions of public administration within the state (state bureaucracy; the reform of bureaucracy).\n2. In a broader sense, the word refers to the officials of an entity or an organization, even if not state-related.\n3. In an abstract, and mostly negative sense, bureaucracy can also refer to the power assumed by the mass of officials, and especially to the long and complex series of formalities and procedures—often perceived as excessive and unnecessary—through which a case must pass to be completed (the slowness, the red tape of bureaucracy).\nFinally, in a figurative sense, the term bureaucracy refers to an exaggerated and inflexible observance of regulations, especially when they are followed more in their formal aspects than in their substance.",
@@ -164,9 +176,9 @@
     {
       "id": "nlxdh48f",
       "x": 519.4153452998155,
-      "y": 1193.8090037989364,
+      "y": 1214.6968079699159,
       "w": 320,
-      "h": 462,
+      "h": 484,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -175,8 +187,10 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Definition",
-          "Semantic research"
+          "Semantic research",
+          "Conflict",
+          "Emotional response",
+          "Communication"
         ],
         "tags": [],
         "desc": "Conflict is any form of clash that generates violence, whether material or symbolic.\nConflict is a state of opposition.\nConflict is a constant condition that runs through society.\nIt is not confined to war or explicit confrontations:\nit emerges in the spaces of collective life as friction, as an ongoing confrontation between different needs, systems, and visions.\nIt is present in cultural practices, in social relations, in infrastructures.\nConflict is integrated into everyday environments and practices.\nIt manifests through a widespread arsenal.",
@@ -393,10 +407,10 @@
     },
     {
       "id": "nv91if2i",
-      "x": 1195.00073197328,
+      "x": 1195.7450596453748,
       "y": -1404.0059196892753,
       "w": 320,
-      "h": 607,
+      "h": 590,
       "group": null,
       "data": {
         "date": "2025-09-25",
@@ -409,28 +423,28 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "Many state borders were bureaucratically drawn at the negotiating table by political leaders, often disregarding the populations living there. This led to conflicts both between states and within nations, as communities did not identify with these imposed boundaries.\n\t•\tIndia–Pakistan Wars (1947, 1965, 1971) → following the Partition of British India\n\t•\tArab–Israeli Wars (1948, 1967, 1973) → borders drawn after the British Mandate and UN partition plan\n\t•\tEthiopia–Eritrea War (1998–2000) → dispute over colonial-era borders\n\t•\tIraq–Kuwait Conflict / Gulf War (1990–1991) → rooted partly in arbitrary colonial borders in the Middle East\n\t•\tSudanese Civil Wars (1955–1972, 1983–2005) → borders and ethnic-religious divisions leading to the creation of South Sudan\n\t•\tYugoslav Wars (1991–2001) → breakup of Yugoslavia along imposed federal boundaries\n\t•\tSomali Civil War (from 1991) → collapse of a state built on colonial borders without regard for clan structures",
+        "desc": "Many state borders were bureaucratically drawn at the negotiating table by political leaders, often disregarding the populations living there. This led to conflicts both between states and within nations, as communities did not identify with these imposed boundaries.\nExamples\n• India–Pakistan Wars (1947, 1965, 1971): following the Partition of British India\n• Arab–Israeli Wars (1948, 1967, 1973): borders drawn after the British Mandate and UN partition plan\n• Ethiopia–Eritrea War (1998–2000): dispute over colonial-era borders\n• Iraq–Kuwait Conflict / Gulf War (1990–1991): rooted partly in arbitrary colonial borders in the Middle East\n• Sudanese Civil Wars (1955–1972, 1983–2005): borders and ethnic-religious divisions leading to the creation of South Sudan\n• Yugoslav Wars (1991–2001): breakup of Yugoslavia along imposed federal boundaries\n• Somali Civil War (from 1991): collapse of a state built on colonial borders without regard for clan structures",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nln11rdb",
-      "x": 1193.5093984763187,
-      "y": -763.5181091684099,
+      "x": 1198.913108660264,
+      "y": -776.0688891885965,
       "w": 320,
       "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "concetto di confini tra persone",
-        "type": "",
-        "action": null,
+        "title": "boundaries between people",
+        "type": "Concept",
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Conflict",
-          "Socio-political",
-          "Feelings"
+          "Cultural studies",
+          "Emotional response"
         ],
         "tags": [],
         "desc": "Restrictive orders, such as restraining orders or protection orders, function like material boundaries between people imposed by conflict. They legally limit interactions, define physical or social spaces, and aim to prevent harm. These orders create clear divisions in everyday life, translating interpersonal disputes into structured, enforceable rules.",
@@ -577,14 +591,14 @@
     },
     {
       "id": "nie7slt9",
-      "x": 1679.2308284617636,
-      "y": -1535.524067959568,
+      "x": 1675.9536905776167,
+      "y": -1584.681136221772,
       "w": 320,
       "h": 331,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "Apolidi",
+        "title": "Stateless people",
         "type": "Research",
         "action": "Exploring",
         "mainArea": null,
@@ -603,7 +617,7 @@
     {
       "id": "n1fv0nhs",
       "x": 1676.1223307816394,
-      "y": -1177.912200414747,
+      "y": -1228.7078376190248,
       "w": 320,
       "h": 646,
       "group": null,
@@ -1906,32 +1920,33 @@
   ],
   "vocab": {
     "areas": [
-      "Installation",
-      "Art",
-      "Object",
-      "Film",
-      "Photography",
-      "Socio-political",
-      "Documentary",
-      "Conflict",
-      "Semantic research",
-      "Feelings",
-      "Design research",
-      "Media studies",
-      "Critical design",
-      "Literature",
       "Emotional response",
+      "Cultural studies",
+      "Communication",
+      "Conflict",
       "Hystory",
+      "Socio-political",
+      "Design research",
       "Definition",
-      "Communication"
+      "Literature",
+      "Critical design",
+      "Media studies",
+      "Feelings",
+      "Semantic research",
+      "Documentary",
+      "Photography",
+      "Film",
+      "Object",
+      "Art",
+      "Installation"
     ],
     "tags": [],
     "type": [
-      "Moodboard",
       "Concept",
-      "Source",
       "Research",
-      "Brief"
+      "Brief",
+      "Source",
+      "Moodboard"
     ]
   }
 }
