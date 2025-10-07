@@ -1247,6 +1247,532 @@
         "links": [],
         "files": []
       }
+    },
+    {
+      "id": "ng1e4u59",
+      "x": 5660.659692630805,
+      "y": 1060.675517732369,
+      "w": 320,
+      "h": 463,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "Third review",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "The general themes are solid, fertile, and interesting, but the theme of voting doesn’t fit well with the concept of decision fatigue, since voter abstention stems more from lack of interest than from too many choices. The “what if” questions are too generic and should be made more specific. In the moodboard, some images are too abstract and don’t clearly relate to the theme, while the ones showing concrete cases or the organizations chosen for the scenario work better. It’s recommended to introduce a small initial change that leads to a more distant and engaging scenario.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndc0abyd",
+      "x": 6324.886784863894,
+      "y": 474.0404948238215,
+      "w": 320,
+      "h": 597,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Scenario Devil shift",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 14.45.14.png",
+            "size": 339272,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_14.45.14.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-07 alle 14.45.28.png",
+            "size": 75866,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_14.45.28.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "naj8o091",
+      "x": 6320.595742723506,
+      "y": 1120.9389674675908,
+      "w": 320,
+      "h": 598,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Scenario Decision fatigue",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 14.46.19.png",
+            "size": 342272,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_14.46.19.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-07 alle 14.46.26.png",
+            "size": 73395,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_14.46.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n31hkud2",
+      "x": 6339.762889716877,
+      "y": 1803.6067254474308,
+      "w": 320,
+      "h": 599,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Scenario Depressive Hedonia",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 14.47.13.png",
+            "size": 256738,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_14.47.13.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-07 alle 14.47.19.png",
+            "size": 52730,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_14.47.19.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfhtv17w",
+      "x": 7298.35798681498,
+      "y": 35.20793340514308,
+      "w": 320,
+      "h": 487,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Case study 1 - Devil shift",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "People tend to avoid cognitive dissonance, which is the discomfort that arises when new facts or ideas conflict with their existing beliefs. Even in the face of objective evidence and data, people often prefer to ignore or rationalize information that challenges their beliefs rather than change their minds. This psychological mechanism makes it difficult to alter opinions and explains why facts alone rarely suffice to change deeply held beliefs.",
+        "links": [
+          "Avoiding Cognitive Dissonance",
+          "Do facts have the power to change our minds?",
+          "theatlantic.com"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n6zfpe0s",
+      "x": 6729.651477180295,
+      "y": 1165.7105744910896,
+      "w": 320,
+      "h": 483,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Case study 1 - Decision fatigue",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "The study by Danziger et al. (2011) analyzed over 1,100 parole decisions made by Israeli judges over 10 months, finding that decisions varied greatly depending on the time of day. At the beginning of sessions, about 65% of requests were granted, but the percentage dropped to almost zero before breaks and rose again after meals.  This phenomenon was attributed to decision fatigue: when judges were mentally exhausted, they tended to choose the simplest and most conservative option—denying parole",
+        "links": [
+          "https://www.pnas.org/doi/10.1073/pnas.1018033108"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nmkia2d0",
+      "x": 6896.693441541412,
+      "y": 1801.0070372948053,
+      "w": 320,
+      "h": 521,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Case study 1 - depressive hedonia",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "The case study examines how habitual exposure to violent media contributes to emotional desensitization.  Findings indicate that individuals with higher exposure to violent media exhibit reduced physiological arousal (as measured by skin conductance level) and lower anxiety when viewing violent scenes, yet report greater pleasure and show faster activation of aggressive thoughts.  This desensitization effect appears to be specific to violent content and is not observed in response to sad or humorous scenes.",
+        "links": [
+          "Desensitization to Media Violence: Links...",
+          "This study examined the links between desensitiz...",
+          "pmc.ncbi.nlm.nih.gov"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ngwyg418",
+      "x": 6892.755931215823,
+      "y": 292.2379507923274,
+      "w": 320,
+      "h": 467,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Case study 2 - Devil shift",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "The “Devil Shift” in political science describes how, in intense conflicts, actors tend to see opponents as more powerful and malevolent than they are. It involves attributing negative motives, judging behavior harshly, overestimating opponents’ influence, and underestimating one’s own. Greater ideological distance amplifies this effect, which reinforces conflicts and hinders cooperation.",
+        "links": [
+          "https:​​/​/paulcairney​.wordpress​.com​/wp​-content​/uploads​/2014​/09​/sabatier​-et​-al​-1987​-devil​-shift​-acf​.pdf"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n0mr2117",
+      "x": 7280.350560258063,
+      "y": 599.523351034893,
+      "w": 320,
+      "h": 487,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "The study, based on nine cases in Switzerland, shows that the Devil Shift is stronger among interest groups, political parties, and powerful actors compared to state officials or weaker actors. Additionally, the Devil Shift is more pronounced in processes involving socio-economic issues. The data confirm that the perceived “malevolence” dimension is more widespread than the perceived power dimension.",
+        "links": [
+          "https://www.cambridge.org/core/journals/journal-of-public-policy/article/abs/dealing-with-bad-guys-actor-and-processlevel-determinants-of-the-devil-shift-in-policy-making/81FAE1C9A099215FDE4CE73157E4B3CE"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ndw5cpen",
+      "x": 7273.158994305345,
+      "y": 1807.0060978092506,
+      "w": 320,
+      "h": 504,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Case study 2 - depressive hedonia",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "In recent years, true crime has become a mass phenomenon across series, podcasts, and social media. However, behind the fascination with real crime lies a risk: overexposure to violent content can increase anxiety, paranoia, and stress—especially among young people, who struggle to maintain emotional distance.  Experts warn that while watching true crime is not inherently harmful, excessive consumption can distort one’s perception of reality and personal safety.",
+        "links": [
+          "Gli effetti del True crime sul nostro cervello -...",
+          "Negli ultimi 10 anni, il true crime ha assunto un’imp...",
+          "silviamorreale.it"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ni026gvh",
+      "x": 7658.759257675641,
+      "y": 1831.269996432933,
+      "w": 320,
+      "h": 467,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Case study 3 - depressive hedonia",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "The study examines how exposure to violent media influences individual and collective psychology regarding crime and aggression. Repeated exposure can lead to emotional desensitization, greater acceptance of aggression, reduced empathy for victims, and a distorted view of violence as normal or acceptable. It also emphasizes the media’s role in shaping public perceptions of justice, policy responses, and social attitudes toward violence.",
+        "links": [
+          "https:​​/​/www​.ijsr​.net​/archive​/v13i9​/MR24918142834​.pdf"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ngk8hgam",
+      "x": 6905.0293283926,
+      "y": 2391.8637372263006,
+      "w": 320,
+      "h": 437,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "case study 4 - depressive hedonia",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "It analyzes the boom of the true crime genre between 2018 and 2019, attributed both to the desire for strong emotions and morbid curiosity, and to the need to understand the darker side of human nature and society.  The ethical dilemma of voyeurism and the sensationalization of suffering is also discussed.",
+        "links": [
+          "An fMRI investigation of emotional engage...",
+          "The long-standing rationalist tradition in moral psy...",
+          "pubmed.ncbi.nlm.nih.gov"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n2bc0l9p",
+      "x": 7294.491375259384,
+      "y": 2347.208479507454,
+      "w": 320,
+      "h": 471,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Case study 5 - depressive hedonia",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "Repeated exposure to negative news can lead to emotional desensitization, reduced empathy, and weaker moral judgments—a phenomenon known as the “moral repetition effect.” Doomscrolling worsens this effect, potentially causing apathy, emotional fatigue, and lower motivation to address injustices. Mindful media use, critical thinking, and digital breaks can help preserve moral sensitivity.",
+        "links": [
+          "The More News Headlines We See, the...",
+          "Constant exposure to negative news can numb...",
+          "psychologytoday.com"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "naj0b8t9",
+      "x": 7093.187161990881,
+      "y": 1228.145052736962,
+      "w": 320,
+      "h": 399,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Case study 2 - decision fatigue",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "Case study on judges, scientific journal editors, students, and healthcare professionals.  The study highlights how decision fatigue leads to more impulsive choices, reliance on cognitive shortcuts, and poorer performance—especially under conditions of stress, complexity, or repetitive decision-making.",
+        "links": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n8wrzhp7",
+      "x": 7480.171025168962,
+      "y": 1246.8665745972241,
+      "w": 320,
+      "h": 470,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "Somatic Marker Hypothesis (Damasio)  Summary: Damasio proposed that “somatic markers” (bodily sensations linked to emotions) help narrow down and evaluate options in complex decisions—a mechanism through which emotion facilitates quick and adaptive decision-making. This theory has been supported by neuropsychological and neuroimaging studies, but it has also been discussed and criticized. Nonetheless, it remains one of the most influential frameworks connecting emotion and choice.",
+        "links": [
+          "https://www.sciencedirect.com/science/article/pii/S0899825604001034?ref=pdf_download&fr=RR-2&rr=98ada3aadd3aedca"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nfo4o9ll",
+      "x": 5903.762889716877,
+      "y": 2072.8637372263006,
+      "w": 320,
+      "h": 795,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Other idea 2",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 15.13.32.png",
+            "size": 213416,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_15.13.32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nc2kktpn",
+      "x": 5560.328411369555,
+      "y": 2065.697122277188,
+      "w": 320,
+      "h": 638,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Other idea 1",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 15.15.52.png",
+            "size": 156367,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_15.15.52.jpg"
+          }
+        ]
+      }
     }
   ],
   "edges": [
@@ -1484,25 +2010,120 @@
       "s": "n6wo3oi8",
       "t": "ngu5dqsg",
       "dashed": false
+    },
+    {
+      "s": "nq1sgmz0",
+      "t": "ng1e4u59",
+      "dashed": false
+    },
+    {
+      "s": "ncmyspem",
+      "t": "ng1e4u59",
+      "dashed": false
+    },
+    {
+      "s": "ngu5dqsg",
+      "t": "ng1e4u59",
+      "dashed": false
+    },
+    {
+      "s": "ng1e4u59",
+      "t": "ndc0abyd",
+      "dashed": false
+    },
+    {
+      "s": "ng1e4u59",
+      "t": "naj8o091",
+      "dashed": false
+    },
+    {
+      "s": "ng1e4u59",
+      "t": "n31hkud2",
+      "dashed": false
+    },
+    {
+      "s": "ndc0abyd",
+      "t": "nfhtv17w",
+      "dashed": false
+    },
+    {
+      "s": "naj8o091",
+      "t": "n6zfpe0s",
+      "dashed": false
+    },
+    {
+      "s": "n31hkud2",
+      "t": "nmkia2d0",
+      "dashed": false
+    },
+    {
+      "s": "ndc0abyd",
+      "t": "ngwyg418",
+      "dashed": false
+    },
+    {
+      "s": "ndc0abyd",
+      "t": "n0mr2117",
+      "dashed": false
+    },
+    {
+      "s": "n31hkud2",
+      "t": "ndw5cpen",
+      "dashed": false
+    },
+    {
+      "s": "n31hkud2",
+      "t": "ni026gvh",
+      "dashed": false
+    },
+    {
+      "s": "n31hkud2",
+      "t": "ngk8hgam",
+      "dashed": false
+    },
+    {
+      "s": "n31hkud2",
+      "t": "n2bc0l9p",
+      "dashed": false
+    },
+    {
+      "s": "naj8o091",
+      "t": "n8wrzhp7",
+      "dashed": false
+    },
+    {
+      "s": "naj8o091",
+      "t": "naj0b8t9",
+      "dashed": false
+    },
+    {
+      "s": "ng1e4u59",
+      "t": "nfo4o9ll",
+      "dashed": false
+    },
+    {
+      "s": "ng1e4u59",
+      "t": "nc2kktpn",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Critical design",
-      "Communication",
-      "Design research",
-      "Media studies",
-      "Critical theory",
+      "Society studies",
       "Socio-political",
-      "Society studies"
+      "Critical theory",
+      "Media studies",
+      "Design research",
+      "Communication",
+      "Critical design"
     ],
     "tags": [],
     "type": [
       "Concept",
-      "Feedback",
-      "Source",
+      "Finding",
       "Brief",
-      "Finding"
+      "Feedback",
+      "Source"
     ]
   }
 }
