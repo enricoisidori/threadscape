@@ -738,8 +738,8 @@
     },
     {
       "id": "n6wcova4",
-      "x": 1920,
-      "y": 0,
+      "x": 2012,
+      "y": 4,
       "w": 320,
       "h": 452,
       "group": null,
@@ -773,8 +773,8 @@
     },
     {
       "id": "n3ktfmhq",
-      "x": 1920,
-      "y": 492,
+      "x": 2044,
+      "y": 2031.9999999999995,
       "w": 320,
       "h": 448,
       "group": null,
@@ -806,8 +806,8 @@
     },
     {
       "id": "nbt2b0w1",
-      "x": 1920,
-      "y": 980,
+      "x": 2016,
+      "y": 3727.999999999999,
       "w": 320,
       "h": 428,
       "group": null,
@@ -839,8 +839,8 @@
     },
     {
       "id": "nv81gyi7",
-      "x": 2400,
-      "y": 609,
+      "x": 2528,
+      "y": 2148.9999999999995,
       "w": 320,
       "h": 252,
       "group": null,
@@ -859,8 +859,8 @@
     },
     {
       "id": "nydg8ifv",
-      "x": 2400,
-      "y": 901,
+      "x": 2444.7752824402337,
+      "y": 3825.4406938169714,
       "w": 320,
       "h": 252,
       "group": null,
@@ -879,8 +879,8 @@
     },
     {
       "id": "n1gh2bt0",
-      "x": 2867.6454209252306,
-      "y": -4.3185237248764565,
+      "x": 2908,
+      "y": -4,
       "w": 320,
       "h": 569,
       "group": null,
@@ -914,8 +914,8 @@
     },
     {
       "id": "nwy7cdyh",
-      "x": 2868.479252965727,
-      "y": 583.6748095984948,
+      "x": 2949.1316290467544,
+      "y": 2030.5118496500513,
       "w": 320,
       "h": 619,
       "group": null,
@@ -948,8 +948,8 @@
     },
     {
       "id": "n9gi7ynj",
-      "x": 2868.479252965727,
-      "y": 1242.674809598495,
+      "x": 2913.364200464595,
+      "y": 3714.3168392047587,
       "w": 320,
       "h": 568,
       "group": null,
@@ -982,8 +982,8 @@
     },
     {
       "id": "nroshxa3",
-      "x": 3348.2956944008765,
-      "y": -7.472932077716678,
+      "x": 3367.1496283714578,
+      "y": -7.3066231121842975,
       "w": 320,
       "h": 300,
       "group": null,
@@ -1008,8 +1008,8 @@
     },
     {
       "id": "n0jzqxeb",
-      "x": 3347.454525876762,
-      "y": 317.4551600039739,
+      "x": 3376.3814779481363,
+      "y": 2025.5873807488142,
       "w": 320,
       "h": 300,
       "group": null,
@@ -1033,8 +1033,8 @@
     },
     {
       "id": "nqgkbvxt",
-      "x": 3347.454525876762,
-      "y": 657.4551600039739,
+      "x": 3304.377212244728,
+      "y": 3710.994116049885,
       "w": 320,
       "h": 300,
       "group": null,
@@ -1054,6 +1054,737 @@
         "desc": "What if fanaticism were the only valid way to affirm one’s ideals, while every other form of engagement was ignored or despised, with moderates stigmatized as indifferent or cowardly?",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "n3z3o0sv",
+      "x": 3763.5715592507418,
+      "y": 3188.9873776379427,
+      "w": 320,
+      "h": 528,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Belonging and Social Identity Theory",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Belonging"
+        ],
+        "desc": "People who identify with a symbol tend to clash with those who identify with an opposite or different one.\nAccording to Social Identity Theory, individuals build their identity not only as singular beings but also as members of social groups. To reinforce this belonging, they distinguish their own group (ingroup) from others (outgroup), generating processes such as:\nIngroup favoritism – preference for those within the same group;\nOutgroup discrimination – devaluation or hostility toward outsiders.\nThis dynamic shows that the need for belonging and for symbolic recognition is inherently tied to confrontation with other groups.",
+        "links": [
+          "https://www.ebsco.com/research-starters/psychology/social-identity-theory"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nc5iphwf",
+      "x": 4227.571559250742,
+      "y": 3187.987377637943,
+      "w": 320,
+      "h": 484,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "What if? (Belonging)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Belonging"
+        ],
+        "desc": "What if all graphic symbols were banned?\n-\nWHO: The ruling class or government\nWHAT: A coup establishes a regime that forbids the use of any kind of visual symbol\nWHEN: 2040\nWHERE: Italy\nWHY: To eliminate all forms of conflict by removing the visual and symbolic markers of identity and difference\nThe scenario explores the consequences of erasing symbolic expression as a means to achieve social peace — questioning whether the suppression of symbols can truly eliminate the human roots of division.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nauthodh",
+      "x": 3766.3148818660907,
+      "y": 2121.1444623110247,
+      "w": 320,
+      "h": 478,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Symbolic Violence",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Symbolic violence"
+        ],
+        "desc": "Not all the symbols we recognize as ours are created or consciously chosen by us.\nAccording to Pierre Bourdieu’s theory of symbolic violence, dominant social groups impose their worldview and values onto dominated groups, who internalize them unconsciously as their own.\nThis form of invisible, non-physical violence works through cultural norms and meanings that become naturalized and universally accepted.\nThe problem lies in the normalization and unconscious acceptance of symbols, hierarchies, and systems of value imposed by dominant groups.",
+        "links": [
+          "https://www.pandorarivista.it/articoli/attualita-del-pensiero-di-pierre-bourdieu/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nwa0mcp3",
+      "x": 4223.571559250742,
+      "y": 2123.987377637943,
+      "w": 320,
+      "h": 468,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "What if? (Symbolic Violence)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Symbolic violence"
+        ],
+        "desc": "What if people could become aware of the symbols and values that have been unconsciously imposed on them?\n-\nWHO: A revolutionary group\nWHAT: A system that tracks choices and behaviors to reveal whether a person’s values are truly their own or subconsciously imposed by society\nWHEN: Near future\nWHERE: Italy\nWHY: Only through awareness and self-recognition of symbolic impositions can symbolic violence be dismantled, leading to genuine autonomy of thought and action.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndehs9oj",
+      "x": 3808.360006082339,
+      "y": 654.8981076121681,
+      "w": 320,
+      "h": 518,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Semiotic Inflation",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Semiotic inflation"
+        ],
+        "desc": "We live surrounded by logos, slogans, images, emojis, advertisements, and social media posts — a constant semiotic noise where each sign loses its ability to stand out and evoke meaning.\nAccording to Dario Mangano and Franciscu Sedda, semiotic inflation occurs when symbols — once carriers of deep cultural, religious, or communal significance — are reused, simplified, and recycled until they become trivial, consumable signs.\nThis leads to a saturation of the collective imaginary, where everything communicates, yet nothing truly signifies.\nThe distinction between symbol and sign collapses: everything becomes a sign, but meaning evaporates.\nThe loss of depth and evocative power of symbols in contemporary communication, reducing them to flat, immediate signs.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbq88yt1",
+      "x": 4216.360006082339,
+      "y": 808.8981076121681,
+      "w": 320,
+      "h": 451,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "What if? (Semiotic Inflation)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Semiotic inflation"
+        ],
+        "desc": "What if it were possible to assign one single, official meaning to every sign?\n-\nWHO: An international organization\nWHAT: The creation of a universal dictionary/database of symbols — a reduced, official repertoire of signs shared and accepted by all\nWHEN: Present day\nWHERE: Europe\nWHY: To test whether simplifying and stabilizing meaning could restore symbolic depth, or instead suffocate it further by removing ambiguity, multiplicity, and interpretation.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8vhugey",
+      "x": 3796.9793645613854,
+      "y": 4299.71272591392,
+      "w": 320,
+      "h": 619,
+      "group": null,
+      "data": {
+        "date": "2025-09-28",
+        "title": "Historical Memory",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Historical memory"
+        ],
+        "desc": "The theme of historical memory concerns the complex relationship between past and present.\nSymbols inhabiting our cities — statues, monuments, flags, plaques, and emblems — are not neutral decorations, but condensations of values and histories that continue to shape society.\nSome evoke pride and belonging, others recall violence and oppression. This duality often generates conflict:\nSome demand their removal, viewing them as open wounds.\nOthers insist on preservation, considering them necessary testimonies to avoid repeating past errors.\nThe removal of statues of colonizers, such as those of Christopher Columbus, epitomizes this clash between historical preservation and contemporary ethics.\nThese monuments become contested devices of memory, mirrors of identity, power, and justice. The ambiguity of censorship: the fragile boundary between repair and historical revisionism.\nDoes protecting society from painful memories also mean erasing history itself?\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkdwvkuj",
+      "x": 4221.135288522573,
+      "y": 4301.411439301535,
+      "w": 320,
+      "h": 854,
+      "group": null,
+      "data": {
+        "date": "2025-09-28",
+        "title": "What if? (Historical Memory)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Historical memory"
+        ],
+        "desc": "What if a government introduced a machine that automatically censored all controversial or offensive symbols in public spaces?\n-\nWHO: The government\nWHAT: A filtering machine using visual recognition and an evolving database of banned or controversial symbols\nWHEN: Near future, amid increasing social and cultural polarization\nWHERE: Italy\nWHY: To prevent social conflict by creating “cultural safety” zones — though at the cost of historical understanding.\n-\nInstalled in schools, museums, archives, and public areas, the device continuously scans its surroundings.\nAn algorithm detects “sensitive” symbols — statues, flags, texts, logos — and covers them with neutral surfaces or “Content not suitable” panels.\nWith time, its censorship expands: from totalitarian icons to colonial monuments, to books, songs, religious emblems, and even digital media through AR glasses and filters.\nconsequences:Protected but ignorant generations: the youth grow up without ever seeing certain symbols or confronting history.Cultural voids: museums and books lose coherence; history becomes fragmented.Social division: some praise the system as progress and protection, others denounce it as censorship and infantilization.\n-\nDoes eliminating symbols of violence create peace, or erase collective awareness?\nIf the machine hides the past, do we become complicit in forgetting it?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njua4ig7",
+      "x": 3805.1666215433893,
+      "y": -12.444766884103046,
+      "w": 320,
+      "h": 636,
+      "group": null,
+      "data": {
+        "date": "2025-10-01",
+        "title": "Symbolic Power of Products",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Symbolic power of products"
+        ],
+        "desc": "The symbolic universe surrounding products deeply influences how society perceives them.\nOur opinions about harmful substances are shaped less by scientific awareness and more by the imagery, language, and associations attached to them.\nCigarettes, for instance, carry the stigma of vice and danger, while alcohol remains a symbol of sociability and celebration — despite comparable health risks.\nCase Study:\nAnti-tobacco campaigns employ shocking images, plain packaging, and advertising bans to discourage consumption, while alcohol products retain their glamorous and social branding.\nThis discrepancy reveals how symbolic framing determines what society accepts or rejects.\nProblematic:\nAre we truly free to decide what is good or harmful, or are we conditioned by socially constructed symbols?\nConflicts:\nPublic health vs. personal and cultural freedom\nSymbolically discouraged harmful products vs. harmful yet symbolically accepted ones",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nv2a2ddx",
+      "x": 4209.16662154339,
+      "y": -22.444766884103046,
+      "w": 320,
+      "h": 803,
+      "group": null,
+      "data": {
+        "date": "2025-10-01",
+        "title": "What if? (Symbolic Power of Products)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Symbolic power of products"
+        ],
+        "desc": "WHAT IF the perception of a socially accepted but harmful product — like energy drinks — were symbolically inverted, treated with the same visual and regulatory stigma as tobacco?\n-\nWHO: Government / public health authority\nWHAT: The introduction of an Energy Scanner, a control device that regulates consumption through digital identification and symbolic framing.\nWHEN: Near future\nWHERE: Italy / Europe\nWHY: To test whether strict symbolic control can correct unhealthy social norms or instead produce new conflicts.\n_\nCitizens receive a personal consumption license tied to a wristband. Upon entering a bar or store, the Energy Scanner checks authorization and dispenses only the daily allowed quantity. The device displays real-time data about individual health impact with shock visuals and warning messages. Attempting to exceed limits triggers alerts to authorities. Public campaigns use stigmatizing imagery and restricted advertising — treating energy drinks as a new vice.\nConsequences:\nA shift in symbolic hierarchies: “cool” becomes “toxic”.\nDebate over health paternalism vs. individual freedom.\nReflection on how communication shapes\n-\nIf symbols can redefine what is acceptable or forbidden, where lies the real power — in law, or in meaning?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "naz010bf",
+      "x": 4227.571559250742,
+      "y": 3711.987377637943,
+      "w": 320,
+      "h": 552,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "Belonging",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Belonging"
+        ],
+        "desc": "Belonging is a fundamental human need.\nWe seek to be part of groups, communities, and cultures through shared symbols — flags, rituals, logos, lifestyles, religions.\nThese symbols shape identity, foster cohesion, and communicate shared values, but also introduce subtle hierarchies and pressures: the more we display and perform belonging, the more we feel validated.\nProblematic:\nHow authentic is belonging when it depends on external approval?\nDo symbols unite people through meaning, or through conformity?\nConflict:\nInternal: The tension between personal authenticity and collective approval.\nSocial: The construction of unity through competition, exposure, and conformity.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6kttxca",
+      "x": 4695.571559250742,
+      "y": 3707.987377637943,
+      "w": 320,
+      "h": 887,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "What if? (Belonging)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Belonging"
+        ],
+        "desc": "WHAT IF in 2050 a city introduced a public system that quantifies belonging through symbolic behaviour?\n-\nEach citizen receives a Symbolic Loyalty Index (IFS) — a score representing their commitment to cultural, religious, or ideological symbols.\n-\nThe machine continuously monitors symbolic activity: participation in public rituals, display of symbols (flags, tattoos, digital icons), and online interactions with approved symbolic content.\nEach action modifies the IFS score across multiple categories: religion, lifestyle, politics, fashion, etc.\nRankings are public, promoting both pride and pressure.\nUsers can filter social interactions by symbolic affinity (“only interact with people scoring 80+ in cultural alignment”).\nThe system proposes ethical missions, testing users’ boundaries — for example:\n“If performing a violent act against someone of another faith increased your IFS by 50 points, would you do it?”\nConsequences:\nInternal conflict: users confront their authenticity, realizing how much of their identity is driven by symbolic validation.\nSocial tension: public visibility of scores sparks competition, exclusion, and self-censorship.\nMoral drift: gamification transforms ethical dilemmas into points-based decisions.\n-\nHow much of our belonging is authentic, and how much is dictated by the desire for approval?\nDoes visibility of belonging foster connection, or amplify conformity and division?\nIf machines reward symbolic behaviour, do we become players in an algorithmic morality system?\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nyarf78t",
+      "x": 4219.666629194524,
+      "y": 1299.8981076121681,
+      "w": 320,
+      "h": 804,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "Semiotic Inflation",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Semiotic inflation"
+        ],
+        "desc": "Just as economic inflation reduces the value of money, symbolic inflation describes the loss of meaning that occurs when a symbol, image, or word is overused, recycled, or trivialized.\nThe more a symbol circulates, the less it signifies: its semantic weight is diluted by repetition, reinterpretation, and commodification.\nAnalogy:\nEconomic inflation → currency loses value.\nSymbolic inflation → meaning loses value.\nThis process affects cultural, religious, and political signs alike, but also opens the paradoxical possibility that even harmful or discriminatory symbols could lose their power through overexposure.\nProblematic:\nIf meaning fades through overuse, can deliberate repetition neutralize hate?\nCould we “deflate” discrimination by saturating the space of its symbols?\nConflict:\nEthical: between intentional devaluation (using harmful symbols to empty them) and the risk of normalizing them.\nCultural: between groups seeking to erase offensive imagery and those who reclaim or ",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-08 alle 14.08.46.png",
+            "size": 485117,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_14.08.46.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntsmbagb",
+      "x": 4652.360006082339,
+      "y": 1299.8981076121681,
+      "w": 320,
+      "h": 484,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "What if? (Semiotic Inflation)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Semiotic inflation"
+        ],
+        "desc": "WHAT IF an international organization launched a program to neutralize offensive or discriminatory symbols through controlled overuse?\nThe initiative — called The Neutralization Project — applies the logic of symbolic inflation: by flooding media, networks, and public spaces with a symbol, its emotional and ideological charge is expected to collapse.\n-\nCan you destroy a symbol’s power by using it too much?\nWhere is the line between defusing and desensitizing?\nWhen every sign is recycled, what remains meaningful?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ne29fgxw",
+      "x": 3768,
+      "y": 2628,
+      "w": 320,
+      "h": 444,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "Religion vs Science",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [
+          "Religion vs science"
+        ],
+        "desc": "The cross (✚) acts as a universal symbol of care: interpreted as a Christian cross (faith, spiritual salvation) or a medical cross (science, cure). This dual meaning creates a symbolic battleground between religion and science in the field of medicine.\nProblematic Questions:\nHow do individuals navigate conflicts between faith and scientific authority in health decisions?\nCan a symbol embody competing interpretations without causing social tension?",
+        "links": [
+          "https://www.pandorarivista.it/articoli/attualita-del-pensiero-di-pierre-bourdieu/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "njkcclt0",
+      "x": 4225.256677384652,
+      "y": 2630.8429153269185,
+      "w": 320,
+      "h": 535,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "What if? (Religion vs Science)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [
+          "What if?",
+          "Religion vs science"
+        ],
+        "desc": "What if in 2050 entering a pharmacy, clinic, or hospital required choosing between faith or science?\n-\nWHO: Citizens of a future society\nWHAT: DualDispenser — a machine with two slots distributing either scientific medications certified by laboratories or religiously consecrated medicines. Choice becomes an act of symbolic affiliation.\nWHEN: 2050\nWHERE: Hypothetical future urban settings\nWHY: To explore tensions between faith and science and the societal implications of symbolic alignment in health\n-\nScience accuses faith of dangerous obscurantism\nFaith accuses science of aridity and profit-seeking\nCitizens must decide in whom or what to trust for their health",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n45z8m8p",
+      "x": 5063.127268340071,
+      "y": 1297.217028232218,
+      "w": 320,
+      "h": 269,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The theme of the power of symbols explored in Semiotic Inflation is interesting, but it might be more effective to discuss it within the context of Transculturation of Symbols. The discussion should emphasize how meaning transforms across cultural contexts rather than abstract circulation of symbols.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmb1afcv",
+      "x": 4663.890187609061,
+      "y": 2768.7390593477517,
+      "w": 320,
+      "h": 269,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The theme of the conflict between religion and science is compelling, but the focus should clarify the reflection goal and ensure a clear role for the symbol. The scenario must highlight the symbolic tension rather than only the ethical or practical consequences.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncndnm0x",
+      "x": 5111.161213422965,
+      "y": 3936.6749409301833,
+      "w": 320,
+      "h": 252,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The IFS (Symbolic Loyalty Index) scenario is interesting for exploring belonging, but it is too complex. A simpler, more immediate scenario is preferable, focusing on visible symbolic behavior rather than algorithmic scoring.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nv9lqch4",
+      "x": 4695.886135241495,
+      "y": 4732.197385195276,
+      "w": 320,
+      "h": 269,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The theme of historical memory is compelling, particularly regarding symbols in public spaces, but the existing scenario is too complicated. Simplifying the scenario could make the reflection on memory, identity, and public symbols more immediate and tangible.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nppwf94v",
+      "x": 5089.809660225657,
+      "y": 2767.5993359275217,
+      "w": 320,
+      "h": 269,
+      "group": null,
+      "data": {
+        "date": "2025-10-05",
+        "title": "",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "After exploring potential scenarios for the conflict between religion and science, the group decided to abandon this theme. The scenarios developed did not offer a clear role for the symbol or an effective design reflection. Focus will shift to other themes with stronger project potential.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nc8fqg4o",
+      "x": 5518.726684814934,
+      "y": 3943.203524965384,
+      "w": 320,
+      "h": 235,
+      "group": null,
+      "data": {
+        "date": "2025-10-05",
+        "title": "",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The group decided to abandon this theme. While the theme offered interesting reflections on symbolic affiliation, the scenarios were either too complex or did not produce effective design directions.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nntvbmp1",
+      "x": 5468.74809342441,
+      "y": 1300.447050679718,
+      "w": 320,
+      "h": 651,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Power of Symbols",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [],
+        "desc": "A symbol represents the identity and essence of an institution or ideology. When values associated with the symbol are betrayed (e.g., scandals), its credibility and the trust of the public are eroded. Investigating this phenomenon, we focused on institutions rich in symbols that have suffered repeated scandals: the Church. Data shows a consistent global decline in participation in religious activities, reflecting waning trust.\n-\nCan an institution restore the credibility of its symbol after repeated scandals?\nIs trust something that can be rebuilt through communication, or is the loss irrecoverable?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-08 alle 12.47.46.png",
+            "size": 177874,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.47.46.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4ig0fal",
+      "x": 5862.0015488473955,
+      "y": 1299.4231731658751,
+      "w": 320,
+      "h": 1216,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Church Rebranding",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [],
+        "desc": "What if in 2080, after decades of declining trust due to scandals, the Church decided to “purify itself” rather than expecting forgiveness from believers?\n-\nThe Church hires a communication agency to lead a rebranding process.\nThe process involves redefining its identity, visual language, and communicative style to restore credibility.\nThe initiative raises questions about whether symbolic authority can be rebuilt through strategic communication or if trust, once lost, is irretrievable.\n-\nCan a symbol regain its initial credibility and power?\nWhat is the role of communication in reshaping trust in an institution?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-08 alle 12.49.48.png",
+            "size": 88955,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.49.48.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.50.02.png",
+            "size": 23114,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.50.02.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.50.06.png",
+            "size": 28304,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.50.06.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.50.11.png",
+            "size": 23548,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.50.11.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.50.17.png",
+            "size": 43794,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.50.17.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3kwn50e",
+      "x": 5118.3870543214225,
+      "y": 4302.696510804068,
+      "w": 320,
+      "h": 1612,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Cancel Culture & Collective Memory",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Insight"
+        ],
+        "tags": [],
+        "desc": "Cancel culture transforms public memory into a contested space. The removal, renaming, or vandalism of monuments and symbols turns the past into a site of tension. Cases like the Montanelli statue, Italia Turrita, and Bigio of Brescia illustrate how monuments have become battlegrounds between conservation and rejection.\n-\nCan symbols of the past be preserved without reproducing harm or controversy?\nDoes removing symbols correct history, or does it risk erasing it entirely?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.02.png",
+            "size": 870496,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.02.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.08.png",
+            "size": 1128001,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.08.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.15.png",
+            "size": 758076,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqnzbj9u",
+      "x": 5511.640509744408,
+      "y": 4301.672633290225,
+      "w": 320,
+      "h": 1207,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Fantastatua",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios"
+        ],
+        "tags": [],
+        "desc": "What if in 2030, a collective of activists creates Fantastatua, a gamified system where citizens form teams around monuments and “bet” on which will be vandalized or preserved?\n-\nDocuments rediscovering parts of history are leaked, sparking debate.\nCitizens participate in a game where each action affects which monuments remain in public spaces.\nThe game turns collective memory into a competitive process, exploring the tension between public debate, entertainment, and shared responsibility.\n-\nThe scenario exaggerates contemporary visibility and consensus dynamics.\nIt highlights how symbolic value depends on collective perception and action.\nRaises the question: does canceling symbols correct or erase history?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.24.png",
+            "size": 100111,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.24.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.32.png",
+            "size": 17188,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.32.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.37.png",
+            "size": 28959,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.37.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.42.png",
+            "size": 23501,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.42.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.51.png",
+            "size": 59475,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.51.jpg"
+          }
+        ]
       }
     }
   ],
@@ -1267,45 +1998,181 @@
       "s": "n9gi7ynj",
       "t": "nqgkbvxt",
       "dashed": false
+    },
+    {
+      "s": "nwy7cdyh",
+      "t": "n3z3o0sv",
+      "dashed": false
+    },
+    {
+      "s": "n3z3o0sv",
+      "t": "nc5iphwf",
+      "dashed": false
+    },
+    {
+      "s": "nauthodh",
+      "t": "nwa0mcp3",
+      "dashed": false
+    },
+    {
+      "s": "ndehs9oj",
+      "t": "nbq88yt1",
+      "dashed": false
+    },
+    {
+      "s": "n8vhugey",
+      "t": "nkdwvkuj",
+      "dashed": false
+    },
+    {
+      "s": "njua4ig7",
+      "t": "nv2a2ddx",
+      "dashed": false
+    },
+    {
+      "s": "naz010bf",
+      "t": "n6kttxca",
+      "dashed": false
+    },
+    {
+      "s": "n3z3o0sv",
+      "t": "naz010bf",
+      "dashed": false
+    },
+    {
+      "s": "nyarf78t",
+      "t": "ntsmbagb",
+      "dashed": false
+    },
+    {
+      "s": "ndehs9oj",
+      "t": "nyarf78t",
+      "dashed": false
+    },
+    {
+      "s": "nwy7cdyh",
+      "t": "nauthodh",
+      "dashed": false
+    },
+    {
+      "s": "n1gh2bt0",
+      "t": "ndehs9oj",
+      "dashed": false
+    },
+    {
+      "s": "n9gi7ynj",
+      "t": "n8vhugey",
+      "dashed": false
+    },
+    {
+      "s": "n1gh2bt0",
+      "t": "njua4ig7",
+      "dashed": false
+    },
+    {
+      "s": "ne29fgxw",
+      "t": "njkcclt0",
+      "dashed": false
+    },
+    {
+      "s": "nwy7cdyh",
+      "t": "ne29fgxw",
+      "dashed": false
+    },
+    {
+      "s": "ntsmbagb",
+      "t": "n45z8m8p",
+      "dashed": false
+    },
+    {
+      "s": "njkcclt0",
+      "t": "nmb1afcv",
+      "dashed": false
+    },
+    {
+      "s": "n6kttxca",
+      "t": "ncndnm0x",
+      "dashed": false
+    },
+    {
+      "s": "nkdwvkuj",
+      "t": "nv9lqch4",
+      "dashed": false
+    },
+    {
+      "s": "nmb1afcv",
+      "t": "nppwf94v",
+      "dashed": false
+    },
+    {
+      "s": "n45z8m8p",
+      "t": "nntvbmp1",
+      "dashed": false
+    },
+    {
+      "s": "nntvbmp1",
+      "t": "n4ig0fal",
+      "dashed": false
+    },
+    {
+      "s": "n3kwn50e",
+      "t": "nqnzbj9u",
+      "dashed": false
+    },
+    {
+      "s": "ncndnm0x",
+      "t": "nc8fqg4o",
+      "dashed": false
+    },
+    {
+      "s": "nv9lqch4",
+      "t": "n3kwn50e",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "Scenarios",
       "Insight",
-      "Ideation",
-      "Symbolic meaning",
-      "Symbolic alignment",
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Socio-political",
+      "Critical theory",
       "Design research",
-      "Critical theory"
+      "Socio-political",
+      "Media studies",
+      "Communication",
+      "Critical design",
+      "Symbolic alignment",
+      "Symbolic meaning",
+      "Ideation"
     ],
     "tags": [
-      "Fanaticism",
-      "What if?",
+      "Religion vs science",
       "Belonging",
-      "Semiotics",
-      "Transculturation",
-      "Moodboard",
-      "History",
-      "Religion",
-      "Society",
-      "Politics",
-      "Case study",
-      "Sport",
-      "Starting point",
+      "Symbolic power of products",
+      "Historical memory",
+      "Semiotic inflation",
+      "Symbolic violence",
+      "Brief",
       "Research",
-      "Brief"
+      "Starting point",
+      "Sport",
+      "Case study",
+      "Politics",
+      "Society",
+      "Religion",
+      "History",
+      "Moodboard",
+      "Transculturation",
+      "Semiotics",
+      "What if?",
+      "Fanaticism"
     ],
     "type": [
       "Collection",
       "Concept",
+      "Observation",
       "Feedback",
-      "Source",
-      "Brief"
+      "Brief",
+      "Source"
     ]
   }
 }
