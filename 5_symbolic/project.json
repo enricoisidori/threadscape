@@ -398,18 +398,22 @@
       "x": 960,
       "y": 0,
       "w": 320,
-      "h": 283,
+      "h": 328,
       "group": null,
       "data": {
         "date": "2025-09-16",
         "title": "People align under symbols",
-        "type": "Brief",
+        "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Symbolic alignment",
+          "Identity",
+          "Group formation",
+          "Conflict"
         ],
         "tags": [
+          "Insight",
           "Research"
         ],
         "desc": "During conflicts, individuals tend to group under meaningful symbols, shaping alliances and oppositions.",
@@ -420,20 +424,24 @@
     {
       "id": "nrnpr0yf",
       "x": 960,
-      "y": 323,
+      "y": 363.3635864904705,
       "w": 320,
-      "h": 283,
+      "h": 328,
       "group": null,
       "data": {
         "date": "2025-09-16",
         "title": "Symbols generate debate",
-        "type": "Brief",
+        "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Symbolic meaning",
+          "Discourse",
+          "Conflict",
+          "Debate"
         ],
         "tags": [
+          "Insight",
           "Research"
         ],
         "desc": "Symbols loaded with meaning often spark discussion and disagreement, acting as focal points in symbolic conflict.",
@@ -443,21 +451,24 @@
     },
     {
       "id": "nmwwpwnl",
-      "x": 960,
-      "y": 646,
+      "x": 958.6545471169843,
+      "y": 726.727172980941,
       "w": 320,
-      "h": 266,
+      "h": 289,
       "group": null,
       "data": {
         "date": "2025-09-16",
         "title": "Conflict as clash of ideas",
-        "type": "Brief",
+        "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Ideation",
+          "Abstract conflict",
+          "Relevance assessment"
         ],
         "tags": [
+          "Insight",
           "Research"
         ],
         "desc": "Conflict as a clash of ideas, and not, for example, over territory",
@@ -470,7 +481,7 @@
       "x": 1440,
       "y": 0,
       "w": 320,
-      "h": 283,
+      "h": 306,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -485,7 +496,8 @@
           "Research",
           "Sport",
           "Society",
-          "Case study"
+          "Case study",
+          "Rivalry"
         ],
         "desc": "Examples of sports teams acting as symbols, with fans aligning under them.\nInter-Milan, Real Madrid-Barcelona, Celtic-Rangers",
         "links": [],
@@ -513,7 +525,9 @@
           "Religion",
           "Politics",
           "Society",
-          "Case study"
+          "Case study",
+          "Public space",
+          "Debate"
         ],
         "desc": "Instances where religious symbols in public spaces spark public debate and disagreement.",
         "links": [],
@@ -522,7 +536,7 @@
     },
     {
       "id": "ny057e0e",
-      "x": 1440,
+      "x": 1438.869529824696,
       "y": 652,
       "w": 320,
       "h": 306,
@@ -541,7 +555,9 @@
           "Politics",
           "Religion",
           "History",
-          "Case study"
+          "Case study",
+          "Protest",
+          "Destruction"
         ],
         "desc": "The rejection, destruction, or opposition to religious images, icons, or established symbols, often as a way to challenge authority or dominant beliefs",
         "links": [],
@@ -551,9 +567,9 @@
     {
       "id": "n4k7elg8",
       "x": 1440,
-      "y": 998,
+      "y": 984.4343578963515,
       "w": 320,
-      "h": 266,
+      "h": 289,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -567,7 +583,9 @@
         "tags": [
           "Research",
           "History",
-          "Case study"
+          "Case study",
+          "Gender",
+          "Power"
         ],
         "desc": "Conflicts where accusations were framed around symbolic roles (witches) aligning social groups.",
         "links": [],
@@ -579,7 +597,7 @@
       "x": 1440,
       "y": 1304,
       "w": 320,
-      "h": 266,
+      "h": 289,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -593,7 +611,9 @@
         "tags": [
           "Research",
           "Society",
-          "Case study"
+          "Case study",
+          "Fame",
+          "Media"
         ],
         "desc": "Celebrities often become symbolic figures, causing people to align in support or opposition.",
         "links": [],
@@ -621,7 +641,9 @@
           "Politics",
           "Religion",
           "History",
-          "Case study"
+          "Case study",
+          "Appropriation",
+          "Semiotics"
         ],
         "desc": "Appropriation occurs when a group adopts symbols from another culture, or when a symbol shifts away from its original meaning and becomes associated with a new one.",
         "links": [],
@@ -649,7 +671,9 @@
           "Society",
           "History",
           "Religion",
-          "Case study"
+          "Case study",
+          "Storytelling",
+          "Conflict"
         ],
         "desc": "Myths and legends:\nSymbolic stories that address fundamental universal conflicts, offering meaning and guidance through shared narratives",
         "links": [],
@@ -659,9 +683,9 @@
     {
       "id": "nf9jfdv9",
       "x": 1440,
-      "y": 2334,
+      "y": 2320.4343578963512,
       "w": 320,
-      "h": 300,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -675,7 +699,9 @@
         "tags": [
           "Research",
           "Society",
-          "Case study"
+          "Case study",
+          "Nationalism",
+          "Identity"
         ],
         "desc": "National symbols represent collective identity and pride. An attack on these symbols is often perceived as an attack on the nation itself.\nPineapple on pizza, vegan carbonara.",
         "links": [],
@@ -715,7 +741,7 @@
       "x": 1440,
       "y": 3036,
       "w": 320,
-      "h": 283,
+      "h": 306,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -729,7 +755,9 @@
         "tags": [
           "Research",
           "Society",
-          "Case study"
+          "Case study",
+          "Subculture",
+          "Youth"
         ],
         "desc": "Conflicts between subcultures often emerge from alignment under distinctive symbols and aesthetics\nPunk vs Paninari, Emo vs Truzzi",
         "links": [],
@@ -741,7 +769,7 @@
       "x": 2012,
       "y": 4,
       "w": 320,
-      "h": 452,
+      "h": 520,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -750,12 +778,16 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Symbolic transformation",
+          "Appropriation",
+          "Cultural exchange"
         ],
         "tags": [
+          "Insight",
           "Moodboard",
           "Transculturation",
-          "Semiotics"
+          "Semiotics",
+          "Debate"
         ],
         "desc": "Exploring how symbols migrate across cultures, get re-appropriated, and lose or shift their original meanings.",
         "links": [],
@@ -773,10 +805,10 @@
     },
     {
       "id": "n3ktfmhq",
-      "x": 2044,
-      "y": 2031.9999999999995,
+      "x": 2022.2164618630495,
+      "y": 2297.8913025813104,
       "w": 320,
-      "h": 448,
+      "h": 494,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -785,10 +817,18 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Youth culture",
+          "Style",
+          "Identity",
+          "Symbolic markers"
         ],
         "tags": [
-          "Moodboard"
+          "Insight",
+          "Moodboard",
+          "Subculture",
+          "Aesthetics",
+          "Identity",
+          "Group behavio"
         ],
         "desc": "Investigating how aesthetics and symbols structure subcultural identities, generating both belonging and conflict.",
         "links": [],
@@ -806,10 +846,10 @@
     },
     {
       "id": "nbt2b0w1",
-      "x": 2016,
-      "y": 3727.999999999999,
+      "x": 1971.376102378982,
+      "y": 4091.1579013201945,
       "w": 320,
-      "h": 428,
+      "h": 520,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -818,10 +858,19 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Fanaticism",
+          "Symbolic devotion",
+          "Radicalization"
         ],
         "tags": [
-          "Moodboard"
+          "Insight",
+          "Moodboard",
+          "Subculture",
+          "Aesthetics",
+          "Identity",
+          "Group behavior",
+          "Fanaticism",
+          "Radical identity"
         ],
         "desc": "Studying how intense alignment under symbols leads to fanatic behaviors and radical group dynamics.",
         "links": [],
@@ -839,8 +888,8 @@
     },
     {
       "id": "nv81gyi7",
-      "x": 2528,
-      "y": 2148.9999999999995,
+      "x": 2506.2164618630495,
+      "y": 2418.862808794143,
       "w": 320,
       "h": 252,
       "group": null,
@@ -859,8 +908,8 @@
     },
     {
       "id": "nydg8ifv",
-      "x": 2444.7752824402337,
-      "y": 3825.4406938169714,
+      "x": 2400.1513848192158,
+      "y": 4188.598595137166,
       "w": 320,
       "h": 252,
       "group": null,
@@ -882,7 +931,7 @@
       "x": 2908,
       "y": -4,
       "w": 320,
-      "h": 569,
+      "h": 637,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -891,12 +940,16 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Symbolic transformation",
+          "Appropriation",
+          "Cultural exchange"
         ],
         "tags": [
+          "Insight",
           "Moodboard",
           "Transculturation",
-          "Semiotics"
+          "Semiotics",
+          "Debate"
         ],
         "desc": "Curated moodboard exploring cases of transculturation, re-appropriation, and transformation of symbols across different contexts.",
         "links": [],
@@ -914,10 +967,10 @@
     },
     {
       "id": "nwy7cdyh",
-      "x": 2949.1316290467544,
-      "y": 2030.5118496500513,
+      "x": 2923.348090909804,
+      "y": 2300.3746584441947,
       "w": 320,
-      "h": 619,
+      "h": 687,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -926,11 +979,18 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Belonging",
+          "Identity",
+          "Symbolic alignment",
+          "Conflict"
         ],
         "tags": [
+          "Insight",
           "Moodboard",
-          "Belonging"
+          "Belonging",
+          "Identity",
+          "Symbolic conflict",
+          "Association"
         ],
         "desc": "In contemporary society, people associate with symbols — religious, political, cultural, or sports-related — that define identity and belonging. This often generates conflict with those aligned under different symbols, transforming the symbol into a battleground.",
         "links": [],
@@ -948,10 +1008,10 @@
     },
     {
       "id": "n9gi7ynj",
-      "x": 2913.364200464595,
-      "y": 3714.3168392047587,
+      "x": 2872.7118090564095,
+      "y": 4081.446246737787,
       "w": 320,
-      "h": 568,
+      "h": 660,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -960,11 +1020,19 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Fanaticism",
+          "Symbolic devotion",
+          "Radicalization"
         ],
         "tags": [
+          "Insight",
           "Moodboard",
-          "Fanaticism"
+          "Subculture",
+          "Aesthetics",
+          "Identity",
+          "Group behavior",
+          "Fanaticism",
+          "Radical identity"
         ],
         "desc": "Moodboard collecting references on fanaticism, focusing on symbolic devotion and radical group behaviors.",
         "links": [],
@@ -985,7 +1053,7 @@
       "x": 3367.1496283714578,
       "y": -7.3066231121842975,
       "w": 320,
-      "h": 300,
+      "h": 368,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -994,12 +1062,16 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Transculturation",
+          "Symbol substitution",
+          "Prohibition"
         ],
         "tags": [
           "What if?",
+          "Speculation",
           "Transculturation",
-          "Semiotics"
+          "Ideology"
         ],
         "desc": "What if a dark ideology adopted a number as its identifying symbol, leading to it being banned and forcing society to invent substitutes for everyday use?",
         "links": [],
@@ -1008,10 +1080,10 @@
     },
     {
       "id": "n0jzqxeb",
-      "x": 3376.3814779481363,
-      "y": 2025.5873807488142,
+      "x": 3346.597939811186,
+      "y": 2296.43217727086,
       "w": 320,
-      "h": 300,
+      "h": 345,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -1020,11 +1092,17 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Belonging",
+          "Unity",
+          "Symbolic alignment",
+          "Conflict"
         ],
         "tags": [
           "What if?",
-          "Belonging"
+          "Belonging",
+          "Speculation",
+          "Identity"
         ],
         "desc": "What if to eliminate contrasts, everyone united under a single shared symbol? Would society become more peaceful, or would conflicts persist because they are rooted in people rather than symbols?",
         "links": [],
@@ -1033,10 +1111,10 @@
     },
     {
       "id": "nqgkbvxt",
-      "x": 3304.377212244728,
-      "y": 3710.994116049885,
+      "x": 3263.7248208365427,
+      "y": 4078.1235235829135,
       "w": 320,
-      "h": 300,
+      "h": 391,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -1045,11 +1123,17 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Fanaticism",
+          "Extremism",
+          "Symbolic devotion",
+          "Identity politics"
         ],
         "tags": [
           "What if?",
-          "Fanaticism"
+          "Fanaticism",
+          "Speculation",
+          "Radicalization"
         ],
         "desc": "What if fanaticism were the only valid way to affirm one’s ideals, while every other form of engagement was ignored or despised, with moderates stigmatized as indifferent or cowardly?",
         "links": [],
@@ -1058,10 +1142,10 @@
     },
     {
       "id": "n3z3o0sv",
-      "x": 3763.5715592507418,
-      "y": 3188.9873776379427,
+      "x": 3729.8165149009583,
+      "y": 3528.6212782719767,
       "w": 320,
-      "h": 528,
+      "h": 596,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -1070,10 +1154,16 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Identity",
+          "Symbolic alignment",
+          "Conflict"
         ],
         "tags": [
-          "Belonging"
+          "Insight",
+          "Belonging",
+          "Social identity theory",
+          "Group dynamics",
+          "Conflict"
         ],
         "desc": "People who identify with a symbol tend to clash with those who identify with an opposite or different one.\nAccording to Social Identity Theory, individuals build their identity not only as singular beings but also as members of social groups. To reinforce this belonging, they distinguish their own group (ingroup) from others (outgroup), generating processes such as:\nIngroup favoritism – preference for those within the same group;\nOutgroup discrimination – devaluation or hostility toward outsiders.\nThis dynamic shows that the need for belonging and for symbolic recognition is inherently tied to confrontation with other groups.",
         "links": [
@@ -1084,10 +1174,10 @@
     },
     {
       "id": "nc5iphwf",
-      "x": 4227.571559250742,
-      "y": 3187.987377637943,
+      "x": 4199.597097732928,
+      "y": 3579.0492058287405,
       "w": 320,
-      "h": 484,
+      "h": 553,
       "group": null,
       "data": {
         "date": "2025-09-29",
@@ -1096,11 +1186,17 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Belonging",
+          "Identity",
+          "Symbolic elimination",
+          "Conflict"
         ],
         "tags": [
           "What if?",
-          "Belonging"
+          "Belonging",
+          "Symbols",
+          "Dystopia"
         ],
         "desc": "What if all graphic symbols were banned?\n-\nWHO: The ruling class or government\nWHAT: A coup establishes a regime that forbids the use of any kind of visual symbol\nWHEN: 2040\nWHERE: Italy\nWHY: To eliminate all forms of conflict by removing the visual and symbolic markers of identity and difference\nThe scenario explores the consequences of erasing symbolic expression as a means to achieve social peace — questioning whether the suppression of symbols can truly eliminate the human roots of division.",
         "links": [],
@@ -1109,10 +1205,10 @@
     },
     {
       "id": "nauthodh",
-      "x": 3766.3148818660907,
-      "y": 2121.1444623110247,
+      "x": 3736.53134372914,
+      "y": 2391.007271105168,
       "w": 320,
-      "h": 478,
+      "h": 546,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1121,10 +1217,17 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Power",
+          "Hierarchy",
+          "Unconscious influence",
+          "Cultural norms"
         ],
         "tags": [
-          "Symbolic violence"
+          "Insight",
+          "Symbolic violence",
+          "Bourdieu",
+          "Social control",
+          "Normalization"
         ],
         "desc": "Not all the symbols we recognize as ours are created or consciously chosen by us.\nAccording to Pierre Bourdieu’s theory of symbolic violence, dominant social groups impose their worldview and values onto dominated groups, who internalize them unconsciously as their own.\nThis form of invisible, non-physical violence works through cultural norms and meanings that become naturalized and universally accepted.\nThe problem lies in the normalization and unconscious acceptance of symbols, hierarchies, and systems of value imposed by dominant groups.",
         "links": [
@@ -1135,10 +1238,10 @@
     },
     {
       "id": "nwa0mcp3",
-      "x": 4223.571559250742,
-      "y": 2123.987377637943,
+      "x": 4193.788021113792,
+      "y": 2393.8501864320865,
       "w": 320,
-      "h": 468,
+      "h": 513,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1147,11 +1250,15 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Symbolic awareness",
+          "Autonomy",
+          "Power"
         ],
         "tags": [
           "What if?",
-          "Symbolic violence"
+          "Symbolic violence",
+          "Self-recognition"
         ],
         "desc": "What if people could become aware of the symbols and values that have been unconsciously imposed on them?\n-\nWHO: A revolutionary group\nWHAT: A system that tracks choices and behaviors to reveal whether a person’s values are truly their own or subconsciously imposed by society\nWHEN: Near future\nWHERE: Italy\nWHY: Only through awareness and self-recognition of symbolic impositions can symbolic violence be dismantled, leading to genuine autonomy of thought and action.",
         "links": [],
@@ -1160,10 +1267,10 @@
     },
     {
       "id": "ndehs9oj",
-      "x": 3808.360006082339,
-      "y": 654.8981076121681,
+      "x": 3791.619387426698,
+      "y": 769.1533823351399,
       "w": 320,
-      "h": 518,
+      "h": 564,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1172,10 +1279,16 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Symbol saturation",
+          "Meaning loss",
+          "Cultural signs"
         ],
         "tags": [
-          "Semiotic inflation"
+          "Insight",
+          "Semiotic inflation",
+          "Mangano & sedda",
+          "Signs vs symbols",
+          "Trivialization"
         ],
         "desc": "We live surrounded by logos, slogans, images, emojis, advertisements, and social media posts — a constant semiotic noise where each sign loses its ability to stand out and evoke meaning.\nAccording to Dario Mangano and Franciscu Sedda, semiotic inflation occurs when symbols — once carriers of deep cultural, religious, or communal significance — are reused, simplified, and recycled until they become trivial, consumable signs.\nThis leads to a saturation of the collective imaginary, where everything communicates, yet nothing truly signifies.\nThe distinction between symbol and sign collapses: everything becomes a sign, but meaning evaporates.\nThe loss of depth and evocative power of symbols in contemporary communication, reducing them to flat, immediate signs.",
         "links": [],
@@ -1184,10 +1297,10 @@
     },
     {
       "id": "nbq88yt1",
-      "x": 4216.360006082339,
-      "y": 808.8981076121681,
+      "x": 4191.023154112163,
+      "y": 934.2328484002385,
       "w": 320,
-      "h": 451,
+      "h": 519,
       "group": null,
       "data": {
         "date": "2025-09-27",
@@ -1196,11 +1309,16 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Semiotic control",
+          "Symbol simplification",
+          "Universal meaning"
         ],
         "tags": [
           "What if?",
-          "Semiotic inflation"
+          "Semiotic inflation",
+          "Symbols",
+          "Universal language"
         ],
         "desc": "What if it were possible to assign one single, official meaning to every sign?\n-\nWHO: An international organization\nWHAT: The creation of a universal dictionary/database of symbols — a reduced, official repertoire of signs shared and accepted by all\nWHEN: Present day\nWHERE: Europe\nWHY: To test whether simplifying and stabilizing meaning could restore symbolic depth, or instead suffocate it further by removing ambiguity, multiplicity, and interpretation.",
         "links": [],
@@ -1209,10 +1327,10 @@
     },
     {
       "id": "n8vhugey",
-      "x": 3796.9793645613854,
-      "y": 4299.71272591392,
+      "x": 3752.3554669403675,
+      "y": 4662.870627234115,
       "w": 320,
-      "h": 619,
+      "h": 664,
       "group": null,
       "data": {
         "date": "2025-09-28",
@@ -1221,10 +1339,17 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Monuments",
+          "Memory",
+          "Ethics",
+          "Contested symbols"
         ],
         "tags": [
-          "Historical memory"
+          "Insight",
+          "Historical memory",
+          "Identity",
+          "Conflict",
+          "Preservation vs erasure"
         ],
         "desc": "The theme of historical memory concerns the complex relationship between past and present.\nSymbols inhabiting our cities — statues, monuments, flags, plaques, and emblems — are not neutral decorations, but condensations of values and histories that continue to shape society.\nSome evoke pride and belonging, others recall violence and oppression. This duality often generates conflict:\nSome demand their removal, viewing them as open wounds.\nOthers insist on preservation, considering them necessary testimonies to avoid repeating past errors.\nThe removal of statues of colonizers, such as those of Christopher Columbus, epitomizes this clash between historical preservation and contemporary ethics.\nThese monuments become contested devices of memory, mirrors of identity, power, and justice. The ambiguity of censorship: the fragile boundary between repair and historical revisionism.\nDoes protecting society from painful memories also mean erasing history itself?\n",
         "links": [],
@@ -1233,10 +1358,10 @@
     },
     {
       "id": "nkdwvkuj",
-      "x": 4221.135288522573,
-      "y": 4301.411439301535,
+      "x": 4198.249097444024,
+      "y": 4810.5119794108095,
       "w": 320,
-      "h": 854,
+      "h": 922,
       "group": null,
       "data": {
         "date": "2025-09-28",
@@ -1245,11 +1370,16 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Censorship",
+          "Historical memory",
+          "Social conflict"
         ],
         "tags": [
           "What if?",
-          "Historical memory"
+          "Historical memory",
+          "Symbols",
+          "Public space"
         ],
         "desc": "What if a government introduced a machine that automatically censored all controversial or offensive symbols in public spaces?\n-\nWHO: The government\nWHAT: A filtering machine using visual recognition and an evolving database of banned or controversial symbols\nWHEN: Near future, amid increasing social and cultural polarization\nWHERE: Italy\nWHY: To prevent social conflict by creating “cultural safety” zones — though at the cost of historical understanding.\n-\nInstalled in schools, museums, archives, and public areas, the device continuously scans its surroundings.\nAn algorithm detects “sensitive” symbols — statues, flags, texts, logos — and covers them with neutral surfaces or “Content not suitable” panels.\nWith time, its censorship expands: from totalitarian icons to colonial monuments, to books, songs, religious emblems, and even digital media through AR glasses and filters.\nconsequences:Protected but ignorant generations: the youth grow up without ever seeing certain symbols or confronting history.Cultural voids: museums and books lose coherence; history becomes fragmented.Social division: some praise the system as progress and protection, others denounce it as censorship and infantilization.\n-\nDoes eliminating symbols of violence create peace, or erase collective awareness?\nIf the machine hides the past, do we become complicit in forgetting it?",
         "links": [],
@@ -1258,10 +1388,10 @@
     },
     {
       "id": "njua4ig7",
-      "x": 3805.1666215433893,
-      "y": -12.444766884103046,
+      "x": 3790.1278862304807,
+      "y": -7.110026096032783,
       "w": 320,
-      "h": 636,
+      "h": 749,
       "group": null,
       "data": {
         "date": "2025-10-01",
@@ -1270,10 +1400,19 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Product symbolism",
+          "Perception",
+          "Social conditioning",
+          "Public health"
         ],
         "tags": [
-          "Symbolic power of products"
+          "Insight",
+          "Symbolic power of products",
+          "Symbolic framing",
+          "Tobacco",
+          "Alcohol",
+          "Cultural influence",
+          "Conflict"
         ],
         "desc": "The symbolic universe surrounding products deeply influences how society perceives them.\nOur opinions about harmful substances are shaped less by scientific awareness and more by the imagery, language, and associations attached to them.\nCigarettes, for instance, carry the stigma of vice and danger, while alcohol remains a symbol of sociability and celebration — despite comparable health risks.\nCase Study:\nAnti-tobacco campaigns employ shocking images, plain packaging, and advertising bans to discourage consumption, while alcohol products retain their glamorous and social branding.\nThis discrepancy reveals how symbolic framing determines what society accepts or rejects.\nProblematic:\nAre we truly free to decide what is good or harmful, or are we conditioned by socially constructed symbols?\nConflicts:\nPublic health vs. personal and cultural freedom\nSymbolically discouraged harmful products vs. harmful yet symbolically accepted ones",
         "links": [],
@@ -1282,10 +1421,10 @@
     },
     {
       "id": "nv2a2ddx",
-      "x": 4209.16662154339,
-      "y": -22.444766884103046,
+      "x": 4195.829769573214,
+      "y": -17.110026096032783,
       "w": 320,
-      "h": 803,
+      "h": 917,
       "group": null,
       "data": {
         "date": "2025-10-01",
@@ -1294,11 +1433,17 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Symbolic framing",
+          "Social norms",
+          "Health regulation"
         ],
         "tags": [
           "What if?",
-          "Symbolic power of products"
+          "Symbolic power of products",
+          "Symbolic perception",
+          "Public health",
+          "Regulation"
         ],
         "desc": "WHAT IF the perception of a socially accepted but harmful product — like energy drinks — were symbolically inverted, treated with the same visual and regulatory stigma as tobacco?\n-\nWHO: Government / public health authority\nWHAT: The introduction of an Energy Scanner, a control device that regulates consumption through digital identification and symbolic framing.\nWHEN: Near future\nWHERE: Italy / Europe\nWHY: To test whether strict symbolic control can correct unhealthy social norms or instead produce new conflicts.\n_\nCitizens receive a personal consumption license tied to a wristband. Upon entering a bar or store, the Energy Scanner checks authorization and dispenses only the daily allowed quantity. The device displays real-time data about individual health impact with shock visuals and warning messages. Attempting to exceed limits triggers alerts to authorities. Public campaigns use stigmatizing imagery and restricted advertising — treating energy drinks as a new vice.\nConsequences:\nA shift in symbolic hierarchies: “cool” becomes “toxic”.\nDebate over health paternalism vs. individual freedom.\nReflection on how communication shapes\n-\nIf symbols can redefine what is acceptable or forbidden, where lies the real power — in law, or in meaning?",
         "links": [],
@@ -1307,10 +1452,10 @@
     },
     {
       "id": "naz010bf",
-      "x": 4227.571559250742,
-      "y": 3711.987377637943,
+      "x": 4202.382088265341,
+      "y": 4154.702664941721,
       "w": 320,
-      "h": 552,
+      "h": 620,
       "group": null,
       "data": {
         "date": "2025-10-02",
@@ -1319,10 +1464,17 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Identity",
+          "Group cohesion",
+          "Symbolic affiliation",
+          "Conformity"
         ],
         "tags": [
-          "Belonging"
+          "Insight",
+          "Belonging",
+          "Authenticity",
+          "Social pressure",
+          "Symbolic performance"
         ],
         "desc": "Belonging is a fundamental human need.\nWe seek to be part of groups, communities, and cultures through shared symbols — flags, rituals, logos, lifestyles, religions.\nThese symbols shape identity, foster cohesion, and communicate shared values, but also introduce subtle hierarchies and pressures: the more we display and perform belonging, the more we feel validated.\nProblematic:\nHow authentic is belonging when it depends on external approval?\nDo symbols unite people through meaning, or through conformity?\nConflict:\nInternal: The tension between personal authenticity and collective approval.\nSocial: The construction of unity through competition, exposure, and conformity.",
         "links": [],
@@ -1331,10 +1483,10 @@
     },
     {
       "id": "n6kttxca",
-      "x": 4695.571559250742,
-      "y": 3707.987377637943,
+      "x": 4670.382088265341,
+      "y": 4150.702664941721,
       "w": 320,
-      "h": 887,
+      "h": 1001,
       "group": null,
       "data": {
         "date": "2025-10-02",
@@ -1343,11 +1495,18 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Quantified belonging",
+          "Symbolic behaviour",
+          "Social ranking",
+          "Ethical dilemmas"
         ],
         "tags": [
           "What if?",
-          "Belonging"
+          "Belonging",
+          "Algorithmic morality",
+          "Social pressure",
+          "Authenticity"
         ],
         "desc": "WHAT IF in 2050 a city introduced a public system that quantifies belonging through symbolic behaviour?\n-\nEach citizen receives a Symbolic Loyalty Index (IFS) — a score representing their commitment to cultural, religious, or ideological symbols.\n-\nThe machine continuously monitors symbolic activity: participation in public rituals, display of symbols (flags, tattoos, digital icons), and online interactions with approved symbolic content.\nEach action modifies the IFS score across multiple categories: religion, lifestyle, politics, fashion, etc.\nRankings are public, promoting both pride and pressure.\nUsers can filter social interactions by symbolic affinity (“only interact with people scoring 80+ in cultural alignment”).\nThe system proposes ethical missions, testing users’ boundaries — for example:\n“If performing a violent act against someone of another faith increased your IFS by 50 points, would you do it?”\nConsequences:\nInternal conflict: users confront their authenticity, realizing how much of their identity is driven by symbolic validation.\nSocial tension: public visibility of scores sparks competition, exclusion, and self-censorship.\nMoral drift: gamification transforms ethical dilemmas into points-based decisions.\n-\nHow much of our belonging is authentic, and how much is dictated by the desire for approval?\nDoes visibility of belonging foster connection, or amplify conformity and division?\nIf machines reward symbolic behaviour, do we become players in an algorithmic morality system?\n",
         "links": [],
@@ -1356,10 +1515,10 @@
     },
     {
       "id": "nyarf78t",
-      "x": 4219.666629194524,
-      "y": 1299.8981076121681,
+      "x": 4196.997147618383,
+      "y": 1478.5802562809406,
       "w": 320,
-      "h": 804,
+      "h": 895,
       "group": null,
       "data": {
         "date": "2025-10-02",
@@ -1368,10 +1527,17 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Symbolic saturation",
+          "Meaning dilution",
+          "Ethical dilemmas"
         ],
         "tags": [
-          "Semiotic inflation"
+          "Insight",
+          "Semiotic inflation",
+          "Overexposure",
+          "Symbolism",
+          "Deflation of meaning",
+          "Cultural conflict"
         ],
         "desc": "Just as economic inflation reduces the value of money, symbolic inflation describes the loss of meaning that occurs when a symbol, image, or word is overused, recycled, or trivialized.\nThe more a symbol circulates, the less it signifies: its semantic weight is diluted by repetition, reinterpretation, and commodification.\nAnalogy:\nEconomic inflation → currency loses value.\nSymbolic inflation → meaning loses value.\nThis process affects cultural, religious, and political signs alike, but also opens the paradoxical possibility that even harmful or discriminatory symbols could lose their power through overexposure.\nProblematic:\nIf meaning fades through overuse, can deliberate repetition neutralize hate?\nCould we “deflate” discrimination by saturating the space of its symbols?\nConflict:\nEthical: between intentional devaluation (using harmful symbols to empty them) and the risk of normalizing them.\nCultural: between groups seeking to erase offensive imagery and those who reclaim or ",
         "links": [],
@@ -1389,10 +1555,10 @@
     },
     {
       "id": "ntsmbagb",
-      "x": 4652.360006082339,
-      "y": 1299.8981076121681,
+      "x": 4629.690524506198,
+      "y": 1478.5802562809406,
       "w": 320,
-      "h": 484,
+      "h": 576,
       "group": null,
       "data": {
         "date": "2025-10-02",
@@ -1401,11 +1567,17 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Symbolic saturation",
+          "Meaning deflation",
+          "Social experimentation"
         ],
         "tags": [
           "What if?",
-          "Semiotic inflation"
+          "Semiotic inflation",
+          "Neutralization",
+          "Symbols",
+          "Ethics"
         ],
         "desc": "WHAT IF an international organization launched a program to neutralize offensive or discriminatory symbols through controlled overuse?\nThe initiative — called The Neutralization Project — applies the logic of symbolic inflation: by flooding media, networks, and public spaces with a symbol, its emotional and ideological charge is expected to collapse.\n-\nCan you destroy a symbol’s power by using it too much?\nWhere is the line between defusing and desensitizing?\nWhen every sign is recycled, what remains meaningful?",
         "links": [],
@@ -1414,10 +1586,10 @@
     },
     {
       "id": "ne29fgxw",
-      "x": 3768,
-      "y": 2628,
+      "x": 3733.675832799689,
+      "y": 2965.972244744546,
       "w": 320,
-      "h": 444,
+      "h": 535,
       "group": null,
       "data": {
         "date": "2025-10-02",
@@ -1426,10 +1598,19 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Symbolic conflict",
+          "Medicine",
+          "Faith vs science",
+          "Decision-making"
         ],
         "tags": [
-          "Religion vs science"
+          "Insight",
+          "Religion vs science",
+          "Religion",
+          "Science",
+          "Healthcare",
+          "Symbolism",
+          "Ethical tension"
         ],
         "desc": "The cross (✚) acts as a universal symbol of care: interpreted as a Christian cross (faith, spiritual salvation) or a medical cross (science, cure). This dual meaning creates a symbolic battleground between religion and science in the field of medicine.\nProblematic Questions:\nHow do individuals navigate conflicts between faith and scientific authority in health decisions?\nCan a symbol embody competing interpretations without causing social tension?",
         "links": [
@@ -1440,10 +1621,10 @@
     },
     {
       "id": "njkcclt0",
-      "x": 4225.256677384652,
-      "y": 2630.8429153269185,
+      "x": 4199.4731392477015,
+      "y": 2924.638144778831,
       "w": 320,
-      "h": 535,
+      "h": 626,
       "group": null,
       "data": {
         "date": "2025-10-02",
@@ -1452,11 +1633,19 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Symbolic affiliation",
+          "Healthcare",
+          "Choice",
+          "Social conflict"
         ],
         "tags": [
           "What if?",
-          "Religion vs science"
+          "Religion vs science",
+          "Religion",
+          "Science",
+          "Health",
+          "Symbolic decision"
         ],
         "desc": "What if in 2050 entering a pharmacy, clinic, or hospital required choosing between faith or science?\n-\nWHO: Citizens of a future society\nWHAT: DualDispenser — a machine with two slots distributing either scientific medications certified by laboratories or religiously consecrated medicines. Choice becomes an act of symbolic affiliation.\nWHEN: 2050\nWHERE: Hypothetical future urban settings\nWHY: To explore tensions between faith and science and the societal implications of symbolic alignment in health\n-\nScience accuses faith of dangerous obscurantism\nFaith accuses science of aridity and profit-seeking\nCitizens must decide in whom or what to trust for their health",
         "links": [],
@@ -1465,8 +1654,8 @@
     },
     {
       "id": "n45z8m8p",
-      "x": 5063.127268340071,
-      "y": 1297.217028232218,
+      "x": 5040.45778676393,
+      "y": 1475.8991769009904,
       "w": 320,
       "h": 269,
       "group": null,
@@ -1485,8 +1674,8 @@
     },
     {
       "id": "nmb1afcv",
-      "x": 4663.890187609061,
-      "y": 2768.7390593477517,
+      "x": 4638.106649472111,
+      "y": 3062.534288799664,
       "w": 320,
       "h": 269,
       "group": null,
@@ -1505,8 +1694,8 @@
     },
     {
       "id": "ncndnm0x",
-      "x": 5111.161213422965,
-      "y": 3936.6749409301833,
+      "x": 5085.971742437564,
+      "y": 4379.390228233961,
       "w": 320,
       "h": 252,
       "group": null,
@@ -1525,8 +1714,8 @@
     },
     {
       "id": "nv9lqch4",
-      "x": 4695.886135241495,
-      "y": 4732.197385195276,
+      "x": 4678.696664256094,
+      "y": 5190.912672499054,
       "w": 320,
       "h": 269,
       "group": null,
@@ -1545,8 +1734,8 @@
     },
     {
       "id": "nppwf94v",
-      "x": 5089.809660225657,
-      "y": 2767.5993359275217,
+      "x": 5064.026122088707,
+      "y": 3065.3660715922665,
       "w": 320,
       "h": 269,
       "group": null,
@@ -1565,8 +1754,8 @@
     },
     {
       "id": "nc8fqg4o",
-      "x": 5518.726684814934,
-      "y": 3943.203524965384,
+      "x": 5485.537213829532,
+      "y": 4421.918812269162,
       "w": 320,
       "h": 235,
       "group": null,
@@ -1585,10 +1774,10 @@
     },
     {
       "id": "nntvbmp1",
-      "x": 5468.74809342441,
-      "y": 1300.447050679718,
+      "x": 5446.078611848269,
+      "y": 1479.1291993484904,
       "w": 320,
-      "h": 651,
+      "h": 748,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -1597,9 +1786,18 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Symbolic identity",
+          "Institutional trust",
+          "Reputation",
+          "Rebranding"
         ],
-        "tags": [],
+        "tags": [
+          "Insight",
+          "Transculturation",
+          "Symbol credibility",
+          "Scandals",
+          "Institutional communication"
+        ],
         "desc": "A symbol represents the identity and essence of an institution or ideology. When values associated with the symbol are betrayed (e.g., scandals), its credibility and the trust of the public are eroded. Investigating this phenomenon, we focused on institutions rich in symbols that have suffered repeated scandals: the Church. Data shows a consistent global decline in participation in religious activities, reflecting waning trust.\n-\nCan an institution restore the credibility of its symbol after repeated scandals?\nIs trust something that can be rebuilt through communication, or is the loss irrecoverable?",
         "links": [],
         "files": [
@@ -1616,10 +1814,10 @@
     },
     {
       "id": "n4ig0fal",
-      "x": 5862.0015488473955,
-      "y": 1299.4231731658751,
+      "x": 5858.7696743421375,
+      "y": 1476.6101212907336,
       "w": 320,
-      "h": 1216,
+      "h": 1336,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -1628,9 +1826,18 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Symbolic redefinition",
+          "Institutional identity",
+          "Trust recovery"
         ],
-        "tags": [],
+        "tags": [
+          "What if?",
+          "Transculturation",
+          "Rebranding",
+          "Institutional crisis",
+          "Symbolism"
+        ],
         "desc": "What if in 2080, after decades of declining trust due to scandals, the Church decided to “purify itself” rather than expecting forgiveness from believers?\n-\nThe Church hires a communication agency to lead a rebranding process.\nThe process involves redefining its identity, visual language, and communicative style to restore credibility.\nThe initiative raises questions about whether symbolic authority can be rebuilt through strategic communication or if trust, once lost, is irretrievable.\n-\nCan a symbol regain its initial credibility and power?\nWhat is the role of communication in reshaping trust in an institution?",
         "links": [],
         "files": [
@@ -1679,10 +1886,10 @@
     },
     {
       "id": "n3kwn50e",
-      "x": 5118.3870543214225,
-      "y": 4302.696510804068,
+      "x": 5085.197583336021,
+      "y": 4781.411798107846,
       "w": 320,
-      "h": 1612,
+      "h": 1709,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -1691,9 +1898,18 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Insight"
+          "Memory",
+          "Public symbols",
+          "Iconoclasm",
+          "Historical debate"
         ],
-        "tags": [],
+        "tags": [
+          "Insight",
+          "Cancel culture",
+          "Monuments",
+          "Symbolic conflict",
+          "Historical memory"
+        ],
         "desc": "Cancel culture transforms public memory into a contested space. The removal, renaming, or vandalism of monuments and symbols turns the past into a site of tension. Cases like the Montanelli statue, Italia Turrita, and Bigio of Brescia illustrate how monuments have become battlegrounds between conservation and rejection.\n-\nCan symbols of the past be preserved without reproducing harm or controversy?\nDoes removing symbols correct history, or does it risk erasing it entirely?",
         "links": [],
         "files": [
@@ -1726,10 +1942,10 @@
     },
     {
       "id": "nqnzbj9u",
-      "x": 5511.640509744408,
-      "y": 4301.672633290225,
+      "x": 5478.451038759006,
+      "y": 4780.387920594004,
       "w": 320,
-      "h": 1207,
+      "h": 1350,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -1738,9 +1954,20 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Scenarios"
+          "Scenarios",
+          "Gamification",
+          "Collective decision-making",
+          "Symbolic value",
+          "Historical memory"
         ],
-        "tags": [],
+        "tags": [
+          "What if?",
+          "Cancel culture",
+          "Monuments",
+          "Symbolic competition",
+          "Public engagement",
+          "Historical memory"
+        ],
         "desc": "What if in 2030, a collective of activists creates Fantastatua, a gamified system where citizens form teams around monuments and “bet” on which will be vandalized or preserved?\n-\nDocuments rediscovering parts of history are leaked, sparking debate.\nCitizens participate in a game where each action affects which monuments remain in public spaces.\nThe game turns collective memory into a competitive process, exploring the tension between public debate, entertainment, and shared responsibility.\n-\nThe scenario exaggerates contemporary visibility and consensus dynamics.\nIt highlights how symbolic value depends on collective perception and action.\nRaises the question: does canceling symbols correct or erase history?",
         "links": [],
         "files": [
@@ -1785,6 +2012,66 @@
             "path": "assets/Screenshot_2025-10-08_alle_12.55.51.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "ndb0gs5x",
+      "x": 6271.224310897312,
+      "y": 1479.4184816327142,
+      "w": 320,
+      "h": 315,
+      "group": null,
+      "data": {
+        "date": "2025-10-08",
+        "title": "Decision: Abandon Church Rebranding Theme",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "After review, the Church rebranding scenario is abandoned. Although the theme of transculturation and symbolic trust is interesting, basing the project on such a sensitive institution could be problematic. The project will instead focus on historical memory, which offers a safer and more versatile context for exploring symbolic conflict.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndx4r0q6",
+      "x": 5901.187144751213,
+      "y": 5098.066584573761,
+      "w": 320,
+      "h": 403,
+      "group": null,
+      "data": {
+        "date": "2025-10-08",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The historical memory scenario is promising, but the current scenario requires refinement. Feedback highlights:\nThe scenario must better reflect the thematic conflict at the core of memory and symbolism.\nThe scope of cancel culture should be carefully considered: should it be limited to statues, or address a broader spectrum of historical symbols and media?\nIt may be necessary to identify symbols that more effectively communicate the theme.\nThe scenario should clarify the tensions between interpretation, collective action, and symbolic preservation or erasure.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nh5jojfs",
+      "x": 5896.9948047230255,
+      "y": 4779.300147435265,
+      "w": 320,
+      "h": 298,
+      "group": null,
+      "data": {
+        "date": "2025-10-08",
+        "title": "Decision: Project Focus on Historical Memory",
+        "type": "Decision",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The project will officially focus on historical memory linked to public symbols. This thematic focus offers a strong and versatile context for exploring symbolic conflict, collective interpretation, and the tensions between preservation, erasure, and public perception.",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -2128,10 +2415,112 @@
       "s": "nv9lqch4",
       "t": "n3kwn50e",
       "dashed": false
+    },
+    {
+      "s": "n4ig0fal",
+      "t": "ndb0gs5x",
+      "dashed": false
+    },
+    {
+      "s": "nqnzbj9u",
+      "t": "ndx4r0q6",
+      "dashed": false
+    },
+    {
+      "s": "nqnzbj9u",
+      "t": "nh5jojfs",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Historical memory",
+      "Symbolic value",
+      "Collective decision-making",
+      "Gamification",
+      "Historical debate",
+      "Iconoclasm",
+      "Public symbols",
+      "Memory",
+      "Trust recovery",
+      "Institutional identity",
+      "Symbolic redefinition",
+      "Rebranding",
+      "Reputation",
+      "Institutional trust",
+      "Symbolic identity",
+      "Social conflict",
+      "Choice",
+      "Healthcare",
+      "Symbolic affiliation",
+      "Decision-making",
+      "Faith vs science",
+      "Medicine",
+      "Symbolic conflict",
+      "Ethical dilemmas",
+      "Social ranking",
+      "Symbolic behaviour",
+      "Quantified belonging",
+      "Conformity",
+      "Group cohesion",
+      "Identity",
+      "Social experimentation",
+      "Meaning deflation",
+      "Symbolic saturation",
+      "Meaning dilution",
+      "Health regulation",
+      "Social norms",
+      "Symbolic framing",
+      "Censorship",
+      "Universal meaning",
+      "Symbol simplification",
+      "Semiotic control",
+      "Conflict",
+      "Symbolic elimination",
+      "Belonging",
+      "Power",
+      "Autonomy",
+      "Symbolic awareness",
+      "Public health",
+      "Social conditioning",
+      "Perception",
+      "Product symbolism",
+      "Contested symbols",
+      "Ethics",
+      "Monuments",
+      "Cultural signs",
+      "Meaning loss",
+      "Symbol saturation",
+      "Symbolic alignment",
+      "Insightidentity",
+      "Cultural norms",
+      "Unconscious influence",
+      "Hierarchy",
+      "Identity politics",
+      "Symbolic devotion",
+      "Extremism",
+      "Fanaticism",
+      "Unity",
+      "Prohibition",
+      "Symbol substitution",
+      "Transculturation",
+      "Symbolic markers",
+      "Style",
+      "Youth culture",
+      "Radicalization",
+      "Cultural exchange",
+      "Appropriation",
+      "Symbolic transformation",
+      "Collective identity",
+      "Devotion",
+      "Extreme alignment",
+      "Relevance assessment",
+      "Abstract conflict",
+      "Ideation",
+      "Debate",
+      "Discourse",
+      "Symbolic meaning",
+      "Group formation",
       "Scenarios",
       "Insight",
       "Critical theory",
@@ -2139,16 +2528,94 @@
       "Socio-political",
       "Media studies",
       "Communication",
-      "Critical design",
-      "Symbolic alignment",
-      "Symbolic meaning",
-      "Ideation"
+      "Critical design"
     ],
     "tags": [
+      "Historical memory",
+      "Public engagement",
+      "Symbolic competition",
+      "Monuments",
+      "Cancel culture",
+      "What if?",
+      "Symbolic conflict",
+      "Collective memory",
+      "Insight",
+      "Symbolism",
+      "Institutional crisis",
+      "Rebranding",
+      "Transculturation",
+      "Institutional communication",
+      "Scandals",
+      "Symbol credibility",
+      "Symbolic decision",
+      "Health",
+      "Science",
+      "Religion",
+      "Ethical tension",
+      "Healthcare",
+      "Authenticity",
+      "Social pressure",
+      "Algorithmic morality",
+      "Symbolic performance",
+      "Ethics",
+      "Symbols",
+      "Neutralization",
+      "Cultural conflict",
+      "Deflation of meaning",
+      "Overexposure",
+      "Regulation",
+      "Public health",
+      "Symbolic perception",
+      "Public space",
+      "Universal language",
+      "Dystopia",
+      "Self-recognition",
+      "Future scenario",
+      "Conflict",
+      "Cultural influence",
+      "Alcohol",
+      "Tobacco",
+      "Symbolic framing",
+      "Preservation vs erasure",
+      "Identity",
+      "Trivialization",
+      "Signs vs symbols",
+      "Mangano & sedda",
+      "Group dynamics",
+      "Social identity theory",
+      "Normalization",
+      "Social control",
+      "Bourdieu",
+      "Radicalization",
+      "Speculation",
+      "Symbolic alignment",
+      "Unity",
+      "Ideology",
+      "Prohibition",
+      "Symbol substitution",
+      "Association",
+      "Group behavio",
+      "Aesthetics",
+      "Subculture",
+      "Radical identity",
+      "Group behavior",
+      "Fanaticism",
+      "Debate",
+      "Youth",
+      "Nationalism",
+      "Storytelling",
+      "Semiotics",
+      "Appropriation",
+      "Media",
+      "Fame",
+      "Power",
+      "Gender",
+      "Destruction",
+      "Protest",
+      "Rivalry",
       "Religion vs science",
       "Belonging",
       "Symbolic power of products",
-      "Historical memory",
       "Semiotic inflation",
       "Symbolic violence",
       "Brief",
@@ -2158,21 +2625,17 @@
       "Case study",
       "Politics",
       "Society",
-      "Religion",
       "History",
-      "Moodboard",
-      "Transculturation",
-      "Semiotics",
-      "What if?",
-      "Fanaticism"
+      "Moodboard"
     ],
     "type": [
-      "Collection",
+      "Feedback",
       "Concept",
       "Observation",
-      "Feedback",
+      "Collection",
+      "Source",
       "Brief",
-      "Source"
+      "Decision"
     ]
   }
 }
