@@ -74,7 +74,7 @@
     {
       "id": "n4q8mtzu",
       "x": 480,
-      "y": 362,
+      "y": 368,
       "w": 320,
       "h": 351,
       "group": null,
@@ -107,7 +107,7 @@
     {
       "id": "nwl9ouvl",
       "x": 480,
-      "y": 746,
+      "y": 759,
       "w": 320,
       "h": 351,
       "group": null,
@@ -139,7 +139,7 @@
     {
       "id": "npongriz",
       "x": 480,
-      "y": 1130,
+      "y": 1150,
       "w": 320,
       "h": 351,
       "group": null,
@@ -172,7 +172,7 @@
     {
       "id": "n7z0p86f",
       "x": 480,
-      "y": 1514,
+      "y": 1541,
       "w": 320,
       "h": 306,
       "group": null,
@@ -205,7 +205,7 @@
     {
       "id": "n92sunmm",
       "x": 480,
-      "y": 1853,
+      "y": 1887,
       "w": 320,
       "h": 306,
       "group": null,
@@ -237,7 +237,7 @@
     {
       "id": "n3vsqfai",
       "x": 480,
-      "y": 2192,
+      "y": 2233,
       "w": 320,
       "h": 306,
       "group": null,
@@ -269,7 +269,7 @@
     {
       "id": "ncob3sst",
       "x": 480,
-      "y": 2531,
+      "y": 2579,
       "w": 320,
       "h": 351,
       "group": null,
@@ -301,7 +301,7 @@
     {
       "id": "ne7rohui",
       "x": 480,
-      "y": 2915,
+      "y": 2970,
       "w": 320,
       "h": 328,
       "group": null,
@@ -334,7 +334,7 @@
     {
       "id": "nr86jk3r",
       "x": 480,
-      "y": 3277,
+      "y": 3338,
       "w": 320,
       "h": 328,
       "group": null,
@@ -367,7 +367,7 @@
     {
       "id": "nvlahv4k",
       "x": 480,
-      "y": 3639,
+      "y": 3706,
       "w": 320,
       "h": 351,
       "group": null,
@@ -398,10 +398,10 @@
     },
     {
       "id": "n11h688t",
-      "x": 894.3405556770413,
-      "y": 3251.917429938246,
+      "x": 960,
+      "y": 0,
       "w": 320,
-      "h": 780,
+      "h": 813,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -410,7 +410,6 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Research",
           "Ideas"
         ],
         "tags": [
@@ -418,7 +417,7 @@
           "Speculation",
           "Ideas"
         ],
-        "desc": "Primissime idee a seguito della consegna del brief.\nEcologismo portato allo stremo, ingegnerizzazione della natura, specismo. A seguito revisione in cui ci viene richiesto di partire da una ricerca molto più ampia e non lanciarci subito negli scenari possibili.\nProblematiche: significato di conflitto e significato di ecologia.",
+        "desc": "Very initial ideas following the delivery of the brief:\nEcologism taken to the extreme, engineering of nature, speciesism. Following the review, in which we were asked to start from a much broader research rather than immediately diving into possible scenarios.\n\nIssues: the meaning of conflict and the meaning of ecology.",
         "links": [],
         "files": [
           {
@@ -434,8 +433,8 @@
     },
     {
       "id": "nrfocg5e",
-      "x": 1398.7117348020975,
-      "y": 3356.8357584903074,
+      "x": 1440,
+      "y": 0,
       "w": 320,
       "h": 688,
       "group": null,
@@ -446,13 +445,12 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Ideas",
-          "Research"
+          "Ideas"
         ],
         "tags": [
           "Research"
         ],
-        "desc": "Ricerca generale sulle definizioni del tema. Approfondimenti individuali sul tema del conflitto ecologico, alcuni temi sono risultati sovrapponibili e siamo arrivati a quattro macro temi del conflitto ecologico. Importante chiedersi sempre: dov'è il conflitto? il tema su cui stiamo riflettendo è ecologico o andiamo a sfociare su altri tipi di conflitto (es. valoriale)?",
+        "desc": "General research on definitions of the theme. Individual deep dives into the topic of ecological conflict revealed that some themes overlapped, leading us to identify four macro-themes of ecological conflict. It is important to always ask: where is the conflict? Is the theme we are reflecting on truly ecological, or are we veering into other types of conflict (e.g., value-based)?",
         "links": [],
         "files": [
           {
@@ -468,8 +466,8 @@
     },
     {
       "id": "n4hbav2k",
-      "x": 1833.729363824014,
-      "y": 2989.0377128710593,
+      "x": 1920,
+      "y": 0,
       "w": 320,
       "h": 290,
       "group": null,
@@ -483,19 +481,19 @@
           "Research"
         ],
         "tags": [
-          "Research"
+          "Ideas"
         ],
-        "desc": "L’artificiale come iperecologico in una visione non antropocentrica ma che pone i viventi tutti sullo stesso piano.",
+        "desc": "The artificial as hyper-ecological, within a non-anthropocentric vision that places all living beings on the same level.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n9lkcaca",
-      "x": 1833.291552979668,
-      "y": 3299.7218120867406,
+      "x": 1920,
+      "y": 330,
       "w": 320,
-      "h": 255,
+      "h": 284,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -504,18 +502,20 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [],
-        "tags": [],
-        "desc": "Il conflitto umano come generatore di conflitti ecologici. \n\nTemiamo che questo tema possa essere scontato.",
+        "tags": [
+          "Ideas"
+        ],
+        "desc": "Human conflict as a generator of ecological conflicts.\n\nWe fear that this theme might be too predictable.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nlbflxss",
-      "x": 1837.6737528400993,
-      "y": 3621.47003588775,
+      "x": 1920,
+      "y": 654,
       "w": 320,
-      "h": 238,
+      "h": 284,
       "group": null,
       "data": {
         "date": "2025-09-19",
@@ -524,16 +524,18 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [],
-        "tags": [],
-        "desc": "Il disequilibrio dell’ecosistema come conseguenza di una totale assenza di conflitto.\nIn alternativa: non vi è ecologia senza conflitto.",
+        "tags": [
+          "Ideas"
+        ],
+        "desc": "Ecosystem imbalance as a consequence of a total absence of conflict.\nAlternatively: there is no ecology without conflict.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n0mac59k",
-      "x": 1837.8640310831765,
-      "y": 3912.1727487877706,
+      "x": 1920,
+      "y": 978,
       "w": 320,
       "h": 300,
       "group": null,
@@ -545,17 +547,18 @@
         "mainArea": "Speculation",
         "areas": [],
         "tags": [
-          "Research"
+          "Research",
+          "Ideas"
         ],
-        "desc": "Parallelismo tra conflitti attuali e conflitti “naturali” (es. dinamica preda-predatore) per ragionare sul conflitto come qualcosa di ferale e animalesco ma naturale.",
+        "desc": "Parallelism between current conflicts and “natural” conflicts (e.g., predator-prey dynamics) to reflect on conflict as something feral and animalistic, yet natural.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n0kf9z1s",
-      "x": 2548.365377236599,
-      "y": 3518.1140892801423,
+      "x": 2400,
+      "y": 0,
       "w": 320,
       "h": 423,
       "group": null,
@@ -566,13 +569,12 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Research",
-          "Ideas"
+          "Critical design"
         ],
         "tags": [
           "Research"
         ],
-        "desc": "A seguito della precedente revisione, in cui ci viene chiesto di andare più nello specifico sulle tematiche e di concentrarci su temi dell'ecologia che interessano l'uomo, delineiamo tre tematiche.",
+        "desc": "Following the previous review, in which we were asked to be more specific about the themes and to focus on ecological issues that concern humans, we have outlined three themes.",
         "links": [],
         "files": [
           {
@@ -588,25 +590,25 @@
     },
     {
       "id": "nulc1f6y",
-      "x": 3002.9969720077092,
-      "y": 2834.1569055442196,
+      "x": 2880,
+      "y": 0,
       "w": 320,
-      "h": 603,
+      "h": 586,
       "group": null,
       "data": {
-        "date": "2025-09-25",
+        "date": "2025-09-23",
         "title": "Paradosso",
         "type": "Ideas",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Ideas",
-          "Research"
+          "Critical design"
         ],
         "tags": [
-          "Scenarios"
+          "Scenarios",
+          "Speculation"
         ],
-        "desc": "Tematica del paradosso.\n\n- e se l’artificiale venisse reputato più sostenibile del naturale?\n- e se la direzione della biomimesi prendesse totalmente il posto della natura?\n",
+        "desc": "Theme of the paradox.\n• What if the artificial were considered more sustainable than the natural?\n• What if the direction of biomimicry completely replaced nature?",
         "links": [
           "https://news.harvard.edu/gazette/story/2023/10/clearing-forests-to-erect-solar-panels-may-not-be-clean-energy-solution/",
           "https://www.designboom.com/technology/biomitech-biourban-robotic-tree-fights-pollution-08-19-2019/",
@@ -626,10 +628,10 @@
     },
     {
       "id": "nmymasin",
-      "x": 3020.5532899152317,
-      "y": 3526.6561118965174,
+      "x": 2880,
+      "y": 626,
       "w": 320,
-      "h": 510,
+      "h": 504,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -637,15 +639,12 @@
         "type": "Ideas",
         "action": "Exploring",
         "mainArea": "Speculation",
-        "areas": [
-          "Research",
-          "Ideas"
-        ],
+        "areas": [],
         "tags": [
-          "Ideas",
-          "Speculation"
+          "Speculation",
+          "Scenarios"
         ],
-        "desc": "- se tutto diventa manipolato o incontrollabile, che cosa resta davvero “naturale”? \n- Quanto perdiamo della nostra “umanità” quando ci affidiamo sempre più a tecnologie che, imitando ciò che un tempo era naturale, riescono a controllarci?",
+        "desc": "• If everything becomes manipulated or uncontrollable, what truly remains “natural”?\n• How much of our “humanity” do we lose when we increasingly rely on technologies that, by imitating what was once natural, manage to control us?",
         "links": [
           "https://nextnature.org/en/magazine/story/2012/latro-algae-lamp",
           "https://www.martinavila.com/projects/mcfic/"
@@ -664,10 +663,10 @@
     },
     {
       "id": "nnsp5tri",
-      "x": 3014.0481519734285,
-      "y": 4110.5951056600925,
+      "x": 2880,
+      "y": 1170,
       "w": 320,
-      "h": 539,
+      "h": 556,
       "group": null,
       "data": {
         "date": "2025-09-23",
@@ -676,15 +675,13 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          "Research",
-          "Ideas"
+          "Critical design"
         ],
         "tags": [
-          "Research",
-          "Ideas",
-          "Speculation"
+          "Speculation",
+          "Scenarios"
         ],
-        "desc": "Il tempo fosse una risorsa finita da redistribuire? \nE se dovessimo negoziare i nostri ritmi con quelli degli ecosistemi? Che forma avrebbe una società sincronizzata con i tempi della Terra?",
+        "desc": "• What if time were a finite resource to be redistributed?\n• And what if we had to negotiate our rhythms with those of ecosystems? What form would a society synchronized with the rhythms of the Earth take?",
         "links": [
           "https://direct.mit.edu/glep/article/21/2/44/97366/Policy-Characteristics-Electoral-Cycles-and-the?",
           "https://www.renewablematter.eu/estrattivismo-trasformando-amazzonia-deserto",
@@ -700,6 +697,712 @@
             "path": "assets/Schermata_2025-09-25_alle_16.54.02.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "n4tj4a2e",
+      "x": 0,
+      "y": 1204,
+      "w": 320,
+      "h": 843,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "TRACCIA",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": " - restituire intera ricerca svolta, anche se non state più portando avanti quella via. \n\n - coerenti con la relazione parent e child, nodo generatore, nodo di sintesi, bisogna fare i nodi e collegamenti con cognizione di causa.\n\n - non usare nodi placeholder vuoti o non significativi con solo una desczione scarna, senza tag o area o titolo o simili, ogni nodo deve essere un minimo curato. \n\n•⁠  ⁠utilizzare sempre dove possibile l'utilizzo dei titoli.\n\n•⁠  ⁠inserire sempre le \"Areas\" disciplinari del nodo.\n\n•⁠  ⁠usare i \"Tags\" per indicare la \"sotto-tipologia\" del \"type\". \nEsempio: per \"Source\" si può usare il tag: case study, reference, article, artwork, dataset, book, website... etc  --> ci sono degli esempi in help (?) o per tutte le altre tipologie tra parentesi. e inoltre quel tutto il resto che ha senso taggare (non inserire o ripetere le aree)\n\n\n\n\n*\n⁠\"Research\" non è un'area, le aree sono i domini, le discipline esplorate.\n\n•⁠  ⁠evitare: lista di ricerca--> unico nodo--> lista di proposte --> unico nodo feedback --> lista \n- fare: l'idea/proposta deve essere collegata alla sua idea generatrice (poi che inoltre siano collegati tutti anche a un nodo feedback come avete fatto va anche bene, ma non può escludere la sequenza concettuale generatrice delle proposte)",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nw8kfp9d",
+      "x": 3336,
+      "y": 532,
+      "w": 320,
+      "h": 558,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Review",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": "Speculation",
+        "areas": [
+          "Critical design"
+        ],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "The project has improved compared to the previous version.\n\nSuggestions:\n• Consider various anthropocentric perspectives (egocentrism, biocentrism, cultural centrism).\n• Nature appears too passive: the narrative should instead subvert the established order, offering a different and more conflictual point of view.\n• It is important to use the term “human being” instead of “man.”\n• The conflict should not be limited to “human vs. nature,” but should also include “human vs. human,” showing more specific and segmented dynamics.\n\nIt is emphasized that ecological conflict is not necessarily violent, but rather brutal and devoid of empathy: nature is not “green” or harmonious, but a complex and competitive system.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7c6azgg",
+      "x": 5504.931063519618,
+      "y": 558.8397220896168,
+      "w": 320,
+      "h": 512,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Scenario 1 - Paradox",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Critical design"
+        ],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "Stilare scenario 1 - paradosso",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-06 alle 16.00.58.png",
+            "size": 554504,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-06_alle_16.00.58.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4x10t9g",
+      "x": 0,
+      "y": 854,
+      "w": 320,
+      "h": 135,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwvdu5wg",
+      "x": 0,
+      "y": 1029,
+      "w": 320,
+      "h": 135,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwmm4lf8",
+      "x": 5511.067778583638,
+      "y": 1127.0553929829935,
+      "w": 320,
+      "h": 580,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Scenario 2 – Plant's sound",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Critical design"
+        ],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "Plants have evolved to communicate their stress through piercing cries. Walking on the lawn, drought, cutting the flowerbed, deforesting, weeding — all create agonizing screams. Instead of finding a way to prevent plants from suffering, humanity invents a device that allows you not to hear the pain.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-06 alle 16.04.06.png",
+            "size": 396293,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-06_alle_16.04.06.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0z37hva",
+      "x": 5512.07010774677,
+      "y": 1764.450576489201,
+      "w": 320,
+      "h": 250,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Scenario 3 - Struggle against ourself",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "AAAAAAA DA SCRIVERE",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nd2ypd17",
+      "x": 3741.3495160860616,
+      "y": 519.5995495375245,
+      "w": 320,
+      "h": 587,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Research post-review",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [
+          "Research"
+        ],
+        "desc": "Greater research and more in-depth analysis are needed of situations in which nature does not merely endure the effects of human activity, but acts actively and interacts with the environment.\n\nEcosystems, species, and natural phenomena continuously respond to changes imposed by humans, altering biological cycles, local climates, and social dynamics. Studying these active interactions allows for a better understanding of ecological conflict.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-09 alle 13.21.36.png",
+            "size": 171802,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_13.21.36.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 13.24.37.png",
+            "size": 281632,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_13.24.37.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nackeltb",
+      "x": 4118.119474423527,
+      "y": 197.45992048789697,
+      "w": 320,
+      "h": 322,
+      "group": null,
+      "data": {
+        "date": "2025-09-24",
+        "title": "Ecocentrism",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Ecocentrism is a worldview that places nature at the center, attributing intrinsic value to it and not just viewing it as a resource for humans. It opposes anthropocentrism, which sees humans as the focal point of everything, and promotes an approach based on respect, ecosystem conservation, and the pursuit of a harmonious balance between humanity and the environment.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n98psw5z",
+      "x": 4480,
+      "y": 340,
+      "w": 320,
+      "h": 429,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "Deforestation theme",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Deforestation represents the act by which humans take space and resources from the natural ecosystem, compromising the benefits they themselves receive. In a speculative scenario, this logic is reversed: humans become the object of exploitation or must restore the lost ecosystem services, paying the price for their own actions.",
+        "links": [
+          "https://www.rff.org/publications/reports/converting-forests-to-solar-facilities-causes-potential-and-implications/?utm_source=chatgpt.com",
+          "https://news.harvard.edu/gazette/story/2023/10/clearing-forests-to-erect-solar-panels-may-not-be-clean-energy-solution/?utm_source=chatgpt.com"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "njpscrpy",
+      "x": 4485.461934912914,
+      "y": 1599.6558981000696,
+      "w": 320,
+      "h": 545,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Water memory theme",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Humans use water primarily as a resource to exploit, but water is not actually a passive entity, as it can perceive information from the external environment, analyze it, and retain it in its “memory.”",
+        "links": [
+          "https://magnificofederico.it/wp-content/uploads/2024/07/Masaru-emoto.pdf",
+          "https://www.bioacqualive.com/memoria-acqua-esperimento-riso-masaru-emoto/#:~:text=Mentre%20l'acqua%20contaminata%20da,nel%20mondo%20della%20fisica%20quantistica."
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 11.26.23.png",
+            "size": 640186,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_11.26.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nx89gmyh",
+      "x": 4492.822329394438,
+      "y": 2201.6082762381907,
+      "w": 320,
+      "h": 650,
+      "group": null,
+      "data": {
+        "date": "2025-09-26",
+        "title": "Agroterrorism theme",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Agroterrorism: a form of subversive struggle targeting the agri-food sector through malicious or criminal acts. Agroterrorism can use pests or biological agents to damage production, the economy, and food security, threatening consumer trust and national well-being.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 14.57.39.png",
+            "size": 350564,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_14.57.39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n614jknd",
+      "x": 4484,
+      "y": 834,
+      "w": 320,
+      "h": 713,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "Sound theme",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Plants under stress — due to cutting, dehydration, or other conditions — emit ultrasounds similar to clicks or crackles, inaudible to humans but detectable with special microphones. A team from Tel Aviv University, in collaboration with Harvard, has shown that these “cries” propagate through the air, revealing a form of plant communication that has been little studied until now.",
+        "links": [
+          "https://oggiscienza.it/2016/03/30/piante-fantascienza-evoluzione/index.html",
+          "https://www.bbc.com/news/articles/c8e4860n9rpo",
+          "https://www.fanpage.it/innovazione/scienze/le-piante-urlano-quando-vengono-tagliate-ora-puoi-ascoltarle-in-un-file-mp3/"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 11.42.28.png",
+            "size": 452954,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_11.42.28.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9fa37by",
+      "x": 4994.330613752977,
+      "y": 506.37010924803315,
+      "w": 320,
+      "h": 627,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "Scenario hypotheses",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 15.02.55.png",
+            "size": 608729,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_15.02.55.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ne3hmt7i",
+      "x": 4993.467544034907,
+      "y": 160.90250544690417,
+      "w": 320,
+      "h": 329,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "Scenario hypotheses",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 11.24.13.png",
+            "size": 254004,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_11.24.13.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfewooqx",
+      "x": 4993.835414300436,
+      "y": 1277.0429812978155,
+      "w": 320,
+      "h": 380,
+      "group": null,
+      "data": {
+        "date": "2025-09-25",
+        "title": "Scenario hypotheses",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 14.21.23.png",
+            "size": 155641,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_14.21.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nla5neku",
+      "x": 5006.078430466895,
+      "y": 2593.5202899286724,
+      "w": 320,
+      "h": 916,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": " Scenario Hypothesis - Certification / Labeling Brand",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "Fictitious Name: EticaAlimentare – European Transparent Certification System\nWhat it does:\nOffers a new label guaranteeing “absence of contamination from bio-engineered organisms.”\nBorn in response to the collapse of local crops.\nBecomes a tool both for cultural defense (“protection of traditions”) and aggressive marketing.\n\nWhy it is interesting:\nIt reaches the consumer during shopping.\nAppears ethical and neutral, but is loaded with ideology, politics, and social pressure.\nDivides the market: those with the label and those without.\nRaises tension in the conflict without producing anything, simply by regulating the narrative around food.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 14.59.47.png",
+            "size": 406348,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_14.59.47.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2pvpa7x",
+      "x": 5955.693827053291,
+      "y": -0.6207728116971793,
+      "w": 320,
+      "h": 816,
+      "group": null,
+      "data": {
+        "date": "2025-09-28",
+        "title": "Verification of Accuracy",
+        "type": "Internal review",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "Verification of Accuracy Based on the Outline Provided via Email",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 15.24.08.png",
+            "size": 142284,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_15.24.08.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nesxqztu",
+      "x": 5956,
+      "y": 875.1802735248086,
+      "w": 320,
+      "h": 816,
+      "group": null,
+      "data": {
+        "date": "2025-09-28",
+        "title": "Verification of Accuracy",
+        "type": "Internal review",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "Verification of Accuracy Based on the Outline Provided via Email",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 15.24.08.png",
+            "size": 142284,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_15.24.08.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvhd2eca",
+      "x": 5958.296826317977,
+      "y": 1736.4341358970341,
+      "w": 320,
+      "h": 816,
+      "group": null,
+      "data": {
+        "date": "2025-09-28",
+        "title": "Verification of Accuracy",
+        "type": "Internal review",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "Verification of Accuracy Based on the Outline Provided via Email",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-07 alle 15.24.08.png",
+            "size": 142284,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-07_alle_15.24.08.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5liexrv",
+      "x": 6488.044276200113,
+      "y": 966.6094712753523,
+      "w": 320,
+      "h": 670,
+      "group": null,
+      "data": {
+        "date": "2025-10-09",
+        "title": "Review",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "• It was discussed how to present the projects: start from the premises, then move to the core issue, and finally the “what if.”\n\n\nScenario 1\nParadox: works well but needs clearer communication, introducing the theme of standardization and clarifying the group’s role (a company producing artificial trees with a platform for “lymphatic credits”). The advisor asks, “And then?”, to encourage further narrative development.\n\n\nScenario 2 \nStruggle Against Oneself: interesting but too complex; it should be simplified and made more plausible. The idea of a machine that measures pain could help highlight the ecological conflict.\n\n\nScenario 3\nAgroterrorism: too many themes and overdeveloped “what ifs.” The concept of plants as weapons works but should be made more concrete, perhaps from the perspective of a seed-weapon manufacturer.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nsf45d7b",
+      "x": 7962.255900660129,
+      "y": 966.6000807396495,
+      "w": 320,
+      "h": 579,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Presentation and Review",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "Morning → Presentation\nAfternoon → Review (prof. Guida) + reading comments on presentation\n\n\nReview:\n\nScenario 1 is promising but needs to be deepened and made more concrete, with a clear narrative that translates the three identified considerations, avoiding solutions that are too simple or literal.\n\nFor Scenario 2, Guida highlighted the need to better develop the conflict, making it narratively more engaging without falling into ideological positions. This scenario has more design challenges.\n\nWe will continue with Scenario 1.",
+        "links": [],
+        "files": [
+          {
+            "name": "Presentazione_07.10.pdf",
+            "size": 13615815,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/Presentazione_07.10.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2h40jwp",
+      "x": 7424.789601210516,
+      "y": 575.550092473311,
+      "w": 320,
+      "h": 737,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "Scenario 1 continuation",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "Scenario Redefinition:\nartificial trees, initially designed to produce energy and improve air quality, become symbols of consumption and social status. Their purchase is tied to “lymphatic credit,” accumulated by cutting down natural trees, thus turning sustainability into a competitive market and incentivizing the destruction of natural ecosystems.\n\n\nIdentification of considerations:\n\n1\nEmpathy with the conflict: the issue of ecosystem destruction, often perceived as distant, becomes a direct experience, highlighting individual human responsibility.\n\n2\nThe tree as a living ecosystem: the tree is not just a plant organism but a habitat that supports many species; its removal has cascading effects on the environment.\n\n3\nCommodification and standardization: the tree becomes a consumer good with economic value and market cycles, losing its natural dimension and becoming an object comparable to any industrial product.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvosas5r",
+      "x": 7017.10918073721,
+      "y": 1362.7525746950232,
+      "w": 320,
+      "h": 911,
+      "group": null,
+      "data": {
+        "date": "2025-10-01",
+        "title": "New research for new scenario",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [
+          "Ideas"
+        ],
+        "desc": "In-depth research on:\n\n•Terminator Seeds: a type of genetically modified seed designed to produce sterile seeds, preventing their germination and thus use by farmers for subsequent crops.\n\n•Seed Saving: the practice of collecting, preserving, and replanting seeds from existing plants to maintain crops, preserve biodiversity, and promote self-sufficiency and savings. It involves selecting healthy plants, harvesting mature seeds, drying them, and storing them in a cool, dark, and dry place.",
+        "links": [
+          "https://it.wikipedia.org/wiki/Bolla_dei_tulipani",
+          "https://www.investopedia.com/terms/d/dutch_tulip_bulb_market_bubble.asp",
+          "https://www.geopop.it/svalbard-global-seed-vault-la-banca-mondiale-dei-semi/",
+          "https://it.wikipedia.org/wiki/Seed_saving"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-09 alle 12.52.12.png",
+            "size": 406139,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_12.52.12.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 12.54.09.png",
+            "size": 1122928,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_12.54.09.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nl6ylisd",
+      "x": 7413.434881745666,
+      "y": 1431.2549381027907,
+      "w": 320,
+      "h": 720,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "New scenario (2)",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [
+          "Scenarios"
+        ],
+        "desc": "Scenario:\nthe seed trade has become a lawless territory, completely deregulated, accessible, and free. There are natural, hybrid, and synthetic seeds: some promise exceptional yields, others eliminate pesticides, but there are also mutated seeds that do not germinate or spread diseases, and even seeds designed to kill. Anyone can legally purchase them, online or at physical distributors, freely choosing: nourishment, tool, or weapon?\n\n\nConsiderations:\n\n1\nConflict Generators: nature, domesticated and reassembled, becomes a means of conflict, transformed into an arsenal that appears harmless but has disastrous consequences.\n\t\n2\nHuman Intervention: by regulating nature, humans assume the power to decide what can or cannot exist, what is good and what is evil.\n\n3\nNot Naturally Good: “natural” is no longer a guarantee of authenticity: modified seeds challenge trust in nature as a safe refuge.",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -823,28 +1526,183 @@
       "s": "n0kf9z1s",
       "t": "nnsp5tri",
       "dashed": false
+    },
+    {
+      "s": "nulc1f6y",
+      "t": "nw8kfp9d",
+      "dashed": false
+    },
+    {
+      "s": "nmymasin",
+      "t": "nw8kfp9d",
+      "dashed": false
+    },
+    {
+      "s": "nnsp5tri",
+      "t": "nw8kfp9d",
+      "dashed": false
+    },
+    {
+      "s": "nw8kfp9d",
+      "t": "nd2ypd17",
+      "dashed": false
+    },
+    {
+      "s": "nd2ypd17",
+      "t": "njpscrpy",
+      "dashed": false
+    },
+    {
+      "s": "nd2ypd17",
+      "t": "n98psw5z",
+      "dashed": false
+    },
+    {
+      "s": "nd2ypd17",
+      "t": "n614jknd",
+      "dashed": false
+    },
+    {
+      "s": "n98psw5z",
+      "t": "ne3hmt7i",
+      "dashed": false
+    },
+    {
+      "s": "n614jknd",
+      "t": "n9fa37by",
+      "dashed": false
+    },
+    {
+      "s": "n9fa37by",
+      "t": "nwmm4lf8",
+      "dashed": false
+    },
+    {
+      "s": "nx89gmyh",
+      "t": "n0z37hva",
+      "dashed": false
+    },
+    {
+      "s": "nx89gmyh",
+      "t": "nla5neku",
+      "dashed": false
+    },
+    {
+      "s": "nx89gmyh",
+      "t": "nfewooqx",
+      "dashed": false
+    },
+    {
+      "s": "n0z37hva",
+      "t": "nvhd2eca",
+      "dashed": false
+    },
+    {
+      "s": "nwmm4lf8",
+      "t": "nesxqztu",
+      "dashed": false
+    },
+    {
+      "s": "n7c6azgg",
+      "t": "n2pvpa7x",
+      "dashed": false
+    },
+    {
+      "s": "n2pvpa7x",
+      "t": "n5liexrv",
+      "dashed": false
+    },
+    {
+      "s": "nesxqztu",
+      "t": "n5liexrv",
+      "dashed": false
+    },
+    {
+      "s": "nvhd2eca",
+      "t": "n5liexrv",
+      "dashed": false
+    },
+    {
+      "s": "n5liexrv",
+      "t": "n2h40jwp",
+      "dashed": false
+    },
+    {
+      "s": "n7c6azgg",
+      "t": "n2h40jwp",
+      "dashed": false
+    },
+    {
+      "s": "nx89gmyh",
+      "t": "nvosas5r",
+      "dashed": false
+    },
+    {
+      "s": "n2h40jwp",
+      "t": "nsf45d7b",
+      "dashed": false
+    },
+    {
+      "s": "nvosas5r",
+      "t": "nl6ylisd",
+      "dashed": false
+    },
+    {
+      "s": "nl6ylisd",
+      "t": "nsf45d7b",
+      "dashed": false
+    },
+    {
+      "s": "n5liexrv",
+      "t": "nvosas5r",
+      "dashed": false
+    },
+    {
+      "s": "nackeltb",
+      "t": "n98psw5z",
+      "dashed": false
+    },
+    {
+      "s": "nulc1f6y",
+      "t": "n7c6azgg",
+      "dashed": false
+    },
+    {
+      "s": "nd2ypd17",
+      "t": "nackeltb",
+      "dashed": false
+    },
+    {
+      "s": "nw8kfp9d",
+      "t": "nx89gmyh",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Water memory theme",
+      "Critical design",
+      "Ideas",
       "Critical theory",
-      "Design research",
       "Socio-political",
       "Media studies",
       "Communication",
-      "Critical design",
       "Research",
-      "Ideas"
+      "Design research",
+      "Memoria acqua"
     ],
     "tags": [
-      "Research",
       "Scenarios",
       "Ideas",
+      "Research",
       "Speculation"
     ],
     "type": [
-      "Brief",
-      "Ideas"
+      "Ideas",
+      "Internal review",
+      "Feedback",
+      "Review",
+      "Brief"
     ]
   }
 }
