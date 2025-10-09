@@ -989,7 +989,7 @@
     },
     {
       "id": "nq0y5nxt",
-      "x": 5357.064898472676,
+      "x": 5354.389325150609,
       "y": 794.9813419143543,
       "w": 320,
       "h": 499,
@@ -1013,7 +1013,7 @@
     },
     {
       "id": "n363omuc",
-      "x": 5573.288973389259,
+      "x": 5570.613400067192,
       "y": 1570.4522244860282,
       "w": 320,
       "h": 439,
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "ntv42eb9",
-      "x": 7362.124990340856,
+      "x": 7359.449417018789,
       "y": 1769.8227853039662,
       "w": 320,
       "h": 625,
@@ -1234,7 +1234,7 @@
     },
     {
       "id": "ncbjjbja",
-      "x": 7134.124990340856,
+      "x": 7131.449417018789,
       "y": 2458.822785303966,
       "w": 320,
       "h": 432,
@@ -1283,7 +1283,7 @@
     },
     {
       "id": "natd18wh",
-      "x": 7574.118756300576,
+      "x": 7571.443182978509,
       "y": 2936.2230346655774,
       "w": 320,
       "h": 529,
@@ -1571,8 +1571,8 @@
     },
     {
       "id": "neilbdo3",
-      "x": 9080.451543103296,
-      "y": 1331.4890814918913,
+      "x": 9077.775969781229,
+      "y": 1331.4890814918917,
       "w": 320,
       "h": 2276,
       "group": null,
@@ -1596,7 +1596,7 @@
     },
     {
       "id": "n9uxxs4b",
-      "x": 9573.942155190647,
+      "x": 9571.26658186858,
       "y": 2004.1535572661282,
       "w": 320,
       "h": 476,
@@ -1629,7 +1629,7 @@
     },
     {
       "id": "nv2lwhzy",
-      "x": 10053.942155190647,
+      "x": 10051.26658186858,
       "y": 2532.1535572661282,
       "w": 320,
       "h": 536,
@@ -1751,7 +1751,7 @@
     },
     {
       "id": "n0o119i6",
-      "x": 9588.451543103296,
+      "x": 9585.775969781229,
       "y": 2664.1535572661282,
       "w": 320,
       "h": 562,
@@ -1980,7 +1980,7 @@
     },
     {
       "id": "ng10uyuq",
-      "x": 12203.10563550525,
+      "x": 12200.430062183183,
       "y": 4371.294491204603,
       "w": 320,
       "h": 862,
@@ -2003,7 +2003,7 @@
     },
     {
       "id": "n074afct",
-      "x": 11723.10563550525,
+      "x": 11720.430062183183,
       "y": 4438.294491204603,
       "w": 320,
       "h": 624,
@@ -2061,7 +2061,7 @@
       "x": 12983.380734643435,
       "y": 3830.2208872834562,
       "w": 320,
-      "h": 343,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -2114,6 +2114,538 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-09-27_alle_14.33.47.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nles9exy",
+      "x": 13584.812106118383,
+      "y": 3647.8948155905086,
+      "w": 320,
+      "h": 575,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "third feedback",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-05 alle 10.59.11.png",
+            "size": 221433,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_10.59.11.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvpm4fnc",
+      "x": 14150.548725776176,
+      "y": 3297.149867983673,
+      "w": 320,
+      "h": 404,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Algospeak research",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Evolution",
+          "Censorship"
+        ],
+        "tags": [],
+        "desc": "Censorship is no longer carried out by a human being but by an algorithm. On social media, when I write or say a certain word, the system can automatically block, shadowban, or place warnings on my post.\nThis can happen even when the content is not harmful or violent but simply contains specific words.\nThe problem is that algorithms do not understand context.",
+        "links": [
+          "https://www.europarl.europa.eu/RegData/etudes/STUD/2020/657101/IPOL_STU(2020)657101_EN.pdf"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "niby426n",
+      "x": 14737.852267559858,
+      "y": 2562.967739990056,
+      "w": 320,
+      "h": 371,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Algospeak history",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Evolution",
+          "Censorship"
+        ],
+        "tags": [],
+        "desc": "The algorithms used by social media operate through blacklists. To circumvent them, users have created a new language called algospeak, exploiting the sound similarities between banned words and those currently allowed.",
+        "links": [
+          "https://theconversation.com/what-is-algospeak-inside-the-newest-version-of-linguistic-subterfuge-203460?utm_source=chatgpt.com"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n6jvknds",
+      "x": 14737.852267559858,
+      "y": 2973.967739990056,
+      "w": 320,
+      "h": 462,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Algospeak ethical issues",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Evolution",
+          "Censorship"
+        ],
+        "tags": [],
+        "desc": "But is it fair to have to speak in other languages just to bypass the algorithm? Can this really be considered freedom?\nHaving to alter the way you speak in order to discuss certain topics can be seen as a limitation of free speech. Greater transparency in algorithms and more human, context-aware moderation would be necessary.\nThe continuous use of codes and new languages could lead to an increasingly sharp divide between those who understand them and those who do not.\nDifferent languages could emerge, difficult to decipher not only for algorithms but for many people as well.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nfg5lom8",
+      "x": 14713.254927451455,
+      "y": 3517.80940439402,
+      "w": 320,
+      "h": 262,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Birth of misunderstandings",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Evolution",
+          "Censorship"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.forbes.com/sites/danidiplacido/2023/01/27/julia-fox-apologizes-after-misinterpreting-tiktoks-secret-meaning-to-mascara/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nr7c7s34",
+      "x": 14715.511768061322,
+      "y": 3819.80940439402,
+      "w": 320,
+      "h": 411,
+      "group": null,
+      "data": {
+        "date": "2025-10-05",
+        "title": "Self-censorship",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Evolution",
+          "Censorship"
+        ],
+        "tags": [],
+        "desc": "Self-censorship and the fear of freely expressing our thoughts lie at the root of other major issues, such as the power of the media, public opinion, trends, and the increasingly entrenched distinction between so-called “strong thinking” and “weak thinking.” In a context and a world where the desire for dialogue intersects with the desire for fame, thoughts considered weak are censored to create a “spiral of silence.” All of this could represent a symptom of a transformation: that of our behaviors and our connections with society.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwyec8wu",
+      "x": 15259.685070823622,
+      "y": 4036.0046278614623,
+      "w": 320,
+      "h": 1022,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "The Liquid Language Scenario",
+        "type": "What-if",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Conflict",
+          "Censorship",
+          "Cognitive science"
+        ],
+        "tags": [],
+        "desc": "\nThe Conflict\nI want to speak, but my voice, my face, my gestures are intercepted by recognition systems that judge not only what I say, but how I say it. It’s no longer just forbidden words: even intonation, an extra pause, a grimace while uttering a neutral sentence are monitored.\nCensorship\nControl is not only linguistic but also paralinguistic. Every micro-expression is recorded and compared against emotional databases. “Suspicion of irony,” “potential sarcasm,” “destabilizing tone”: these become the new offenses.\nSelf-Censorship\nI turn into an actor. My voice is flat, my face motionless, my body inert. I become a “real-life avatar”: my authentic self remains hidden beneath a surface trained not to betray emotions.\nBut this self-training is exhausting: I must not only change my words, I must rewire the way I feel and display emotions.\nLinguistic Changes\nLanguage transforms into something fluid and elusive.\nGlitch languages emerge: silences, interruptions, distorted sounds used as secret codes.\nEmojis are no longer icons but a full audiovisual dialect: an animation sequence becomes a sentence, a loop becomes protest.\nCommunities arise that communicate through facial filters or digital avatars: the face is a mask, the body a puppet.\nCritical Question\nIs it still freedom to speak with a thousand disguises, if every word is distorted to avoid betraying emotion?\nIs the “liquid language” creativity, or merely a sophisticated survival mechanism?\nDisruptive Point\nA world where language is no longer stable or shared: each community invents an ephemeral code that lasts only until deciphered. Communication becomes a continuous escape.\nThe risk: there are no more “public words,” and therefore no common discourse. Everything is fragmented, volatile, irreconcilable.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvfydv5t",
+      "x": 15355.685089890876,
+      "y": 3380.4136062043144,
+      "w": 320,
+      "h": 218,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "What if the control of language in the dissemination of information were for our own good?",
+        "type": "What-if",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Censorship",
+          "Information"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nyrm6lbd",
+      "x": 15912.056917774311,
+      "y": 3408.103955816175,
+      "w": 320,
+      "h": 1395,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Manufactoring consent",
+        "type": "What-if",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Censorship",
+          "Information",
+          "Linguistic",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "Context\nThe language used to convey news and information has an effect on those who receive it. “The powerful” exploit this mechanism to report sensitive or thorny events that could reduce general consensus, using softened terms and euphemisms convenient to them.\nProblem to Reflect On\nHow much do the words chosen to tell a story impact people?\nA news story told with specific words creates a corresponding perception of reality closely tied to the language used, eliciting a range of psychological and emotional effects in the audience.\nWhat if:\nPost-war scenario: the population is traumatized, shattered by months of horrific accounts, unbearable images, memories that refuse to heal. People have seen too much, heard too much, and the future promises nothing good.\nIt is at this point that the government, caring as a watchful parent, decides to intervene. News is no longer reported in a raw manner but filtered, softened, made digestible. Civil massacres? “Collateral effects.” Internal attacks? “Operational incidents.” Hunger? “A temporary reconfiguration of dietary habits.”\nAll for our own good, of course. No need to get upset or suffer more than necessary: modern states know the priority is to guarantee their citizens a serene life, protected inside a bubble of safety and reassuring words. Because truth, let’s admit it, is overrated: much better to have information that is warm, comforting, and allows us to sleep peacefully.\nConflict: Definition, Cause, Agents, and Dynamics\nThrough the management of language, information is transmitted in ways that influence perception of reality, reinforce consensus, and shape collective opinion. The conflict lies between those who tamper with the truth of information for their own advantage and those who receive it, either recognizing its distortion or passively accepting it.\nDifferent levels of conflict emerge: between those who manipulate information for their benefit and those who consume it, either critically acknowledging the distortion or passively absorbing it.\nIdentification of an Entity-Subject\nThe powerful, acting to safeguard mental health.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-05 alle 12.15.29.png",
+            "size": 2181143,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.15.29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0fa160x",
+      "x": 15909.802262965995,
+      "y": 5188.177501443777,
+      "w": 320,
+      "h": 1309,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "G-Rape Scenario",
+        "type": "What-if",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Conflict",
+          "Censorship",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "Context\nCensorship is no longer carried out by a human being but by an algorithm.\nOn social media, when I write or say a certain word, the system can automatically block or shadowban content considered sensitive or dangerous.\nHow the algorithms work\nMachine Learning: The algorithm is shown many videos already labeled as “violent,” and the system learns to recognize common characteristics.\nBlacklist: A list of words, phrases, or content considered harmful.\nThis can happen even when the content is not harmful or violent but simply uses certain words, because in most cases algorithms cannot understand context.\nThis gave rise to algospeak: a coded way of communicating used by social media users to bypass content filters set by algorithmic codes — essentially the birth of a new dictionary.\nDue to machine learning, as soon as a code word becomes widely used, it is recognized and added to the blacklist → continuous substitution and evolution of words.\nOne of the most used terms is “grape” (grape) as a replacement for the word “rape” and its corresponding emoji. However, algorithms are learning to block content with the word “grape” as well, as is happening with other algospeak terms.\n→ Can we no longer post about grapes?!\nProblem to Reflect On\nWords and emojis used today in algospeak are beginning to be recognized as dangerous and are entering blacklists and social media word-recognition systems.\nAs a result, more and more everyday words become banned.\nWhat If\nWhat if the universe of the word grape were banned in all its forms?\nWith the progressive banning of the word grape, grapes and everything related to them disappear from the internet and all media. Saying “grape” no longer means talking about grapes but about rape, assuming all its social and semantic weight, and disappearing from our everyday speech.\nConsequences? Nobody talks about grapes or anything derived from them: WINE.\nNeither online nor in conversation.\nThe market for these products collapses.\nConflict: Definition, Cause, Agents, and Dynamics\nConflict arises between users who assign new meanings to words to escape censorship and the platforms that host these control algorithms.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-05 alle 12.18.47.png",
+            "size": 1142482,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.18.47.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nuetykyf",
+      "x": 16663.532647535554,
+      "y": 3931.367959493454,
+      "w": 320,
+      "h": 2153,
+      "group": null,
+      "data": {
+        "date": "2025-09-30",
+        "title": "Feedback scenarios",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic"
+        ],
+        "tags": [],
+        "desc": "Revision Notes 30/09 – Summary & Suggestions\nScenario 1 – The Consensus Factory (Language Control for Our Own Good)\nCurrent State: Already somewhat reflective of present reality. Language is used to sugarcoat events we don’t want to face.\nAreas for Deepening:\nIntroduce a more logical, forward-looking step that stimulates reflection beyond the immediate scenario.\nThe scenario could be made more subversive or thought-provoking.\nConsider how audiences might imagine this situation: risk of landing between partial self-censorship (as already occurs today, e.g., TV scheduling, audience targeting).\nUse data to support the scenario; this is a rich area to develop.\nTone: Avoid banalities, refine and focus on subtlety. Make it sophisticated.\nScenario 2 – Grapes / Algospeak\nCurrent State: The linguistic mechanism is interesting, but focusing only on “grape” is too narrow.\nSuggestions:\nProvide a broad explanation of the system before diving into specific cases.\nBegin showing how other words could evolve into algospeak, especially those at risk of being banned.\nInclude quantitative data to contextualize the phenomenon (not necessarily for presentation, but useful for internal understanding).\nProblematic Insight: Society is becoming overly sensitive; a portion of the vocabulary is increasingly unusable.\nPoints of Interest:\nPhonetic connections (homophony) are especially compelling.\nRefine the scenario: show how object iconography disappears (e.g., corn is no longer eaten) without overstating apocalyptic market collapse. Make the audience feel immersed.\nConvince the audience: does the word exist or not? Clarify with careful examples.\nConflict: Should be linguistically focused. Shadowbanning is happening for words that aren’t extreme. Sensitivity and “fear” drive the tension.\nScenario Refinement:\nUse glyphs or symbols that hint at “suspicious” content.\nMap reality to the scenario clearly (linear points A, B, C, D). Provide context and preliminary research examples.\nWhat If?\nWhat if self-censorship leads to…?\nWhat if the replacement of sensitive terms leads to…?\nOverall Recommendations:\nMake conflicts explicit and easily understandable, especially for audiences unfamiliar with the topic.\nAvoid extreme or banal conclusions; aim for nuanced, believable scenarios.\nMaintain a balance between linguistic theory, technical mechanism (algorithms, blacklists), and human/social impact.\nIf you want, I can rewrite both scenarios in a fully refined English version, ready for presentation, incorporating these revision notes and the “What If” reflections. Do you want me to do that next?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-05 alle 12.23.01.png",
+            "size": 273818,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.23.01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxglqn9t",
+      "x": 16288.05691777431,
+      "y": 3276.367959493454,
+      "w": 320,
+      "h": 562,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Perception of reality",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Censorship",
+          "Information",
+          "Linguistic",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "The choice of words in news reporting strongly shapes public perception through emotional framing, influencing reactions more than the facts themselves.\nStudies on vaccine reporting showed mainstream media framed vaccines with positive emotions, while alternative sources often conveyed sadness or fear, particularly for AstraZeneca. Key terms like “thrombosis” and “death” were resemanticized, with emotional connotations shifting depending on the source.\nA study of 372 crowd-incident articles (1900–2019) revealed lexical and emotional shifts over time. Terms like “stampede” were gradually replaced by “crowd crush,” and a dominant tone of fear/alarm persisted across decades, intensifying in modern reporting. This demonstrates that media leverage strong emotions to capture attention and shape public perception, often employing sensationalistic language rather than neutral facts.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nm92wanr",
+      "x": 17760.564895834676,
+      "y": 5560.356185310376,
+      "w": 320,
+      "h": 1961,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "slides first scenario",
+        "type": "Slides",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Censorship",
+          "Evolution",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-05 alle 12.27.18.png",
+            "size": 139577,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.27.18.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-05 alle 12.27.24.png",
+            "size": 631892,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.27.24.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-05 alle 12.27.31.png",
+            "size": 723345,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.27.31.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-05 alle 12.27.40.png",
+            "size": 367930,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.27.40.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-05 alle 12.27.48.png",
+            "size": 822554,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.27.48.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-05 alle 12.27.56.png",
+            "size": 208929,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.27.56.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-05 alle 12.28.02.png",
+            "size": 138801,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.28.02.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-05 alle 12.28.09.png",
+            "size": 1600954,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.28.09.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-05 alle 12.28.16.png",
+            "size": 562702,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.28.16.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-05 alle 12.28.23.png",
+            "size": 1542595,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-05_alle_12.28.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n78itqex",
+      "x": 17755.532647535554,
+      "y": 3637.3561853103756,
+      "w": 320,
+      "h": 1788,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "slides second scenario",
+        "type": "Slides",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Censorship",
+          "Conflict",
+          "Society"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-09 alle 15.42.25.png",
+            "size": 142764,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.42.25.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.42.31.png",
+            "size": 830457,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.42.31.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.42.38.png",
+            "size": 1218697,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.42.38.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.42.43.png",
+            "size": 296482,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.42.43.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.42.56.png",
+            "size": 1087470,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.42.56.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.43.05.png",
+            "size": 235677,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.43.05.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.43.12.png",
+            "size": 1482392,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.43.12.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.43.19.png",
+            "size": 553934,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.43.19.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.43.25.png",
+            "size": 912779,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.43.25.jpg"
           }
         ]
       }
@@ -3444,31 +3976,643 @@
       "s": "n074afct",
       "t": "nfuv2zkr",
       "dashed": false
+    },
+    {
+      "s": "nt3ny5fd",
+      "t": "nles9exy",
+      "dashed": false
+    },
+    {
+      "s": "n1fwi80h",
+      "t": "nles9exy",
+      "dashed": false
+    },
+    {
+      "s": "nfuv2zkr",
+      "t": "nles9exy",
+      "dashed": false
+    },
+    {
+      "s": "ngc67jcu",
+      "t": "nles9exy",
+      "dashed": false
+    },
+    {
+      "s": "n2nohk4v",
+      "t": "nles9exy",
+      "dashed": false
+    },
+    {
+      "s": "ntq8xu6b",
+      "t": "nles9exy",
+      "dashed": false
+    },
+    {
+      "s": "nles9exy",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "n1fwi80h",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "netntlrq",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "n074afct",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "njtn1rat",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "ng10uyuq",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "naooa3t6",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "neilbdo3",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "n9uxxs4b",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "nv2lwhzy",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "n0o119i6",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "ngc67jcu",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "n2nohk4v",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "ntq8xu6b",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "n07qovno",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "natd18wh",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "n051n2fc",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "n0663t9d",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "nth33s4s",
+      "t": "nvpm4fnc",
+      "dashed": false
+    },
+    {
+      "s": "nvpm4fnc",
+      "t": "niby426n",
+      "dashed": false
+    },
+    {
+      "s": "nvpm4fnc",
+      "t": "n6jvknds",
+      "dashed": false
+    },
+    {
+      "s": "nvpm4fnc",
+      "t": "nfg5lom8",
+      "dashed": false
+    },
+    {
+      "s": "nvpm4fnc",
+      "t": "nr7c7s34",
+      "dashed": false
+    },
+    {
+      "s": "nles9exy",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "nr7c7s34",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "n1fwi80h",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "nt3ny5fd",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "netntlrq",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "n074afct",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "nk561tda",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "nq44jzqq",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "n23j11o1",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "ngc67jcu",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "n2nohk4v",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "ntq8xu6b",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "nnqgdrds",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "natd18wh",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "ncbjjbja",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "ntv42eb9",
+      "t": "nwyec8wu",
+      "dashed": false
+    },
+    {
+      "s": "nvpm4fnc",
+      "t": "nvfydv5t",
+      "dashed": false
+    },
+    {
+      "s": "nvfydv5t",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "nwyec8wu",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "nles9exy",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "nt3ny5fd",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "n074afct",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "ng10uyuq",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "neilbdo3",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "n9uxxs4b",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "n0o119i6",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "nv2lwhzy",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "natd18wh",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "ncbjjbja",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "ntv42eb9",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "nq0y5nxt",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "n363omuc",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "nth33s4s",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "n6fradse",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "ntzkv8l2",
+      "t": "nyrm6lbd",
+      "dashed": false
+    },
+    {
+      "s": "niby426n",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "n6jvknds",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "nfg5lom8",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "nvfydv5t",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "nvpm4fnc",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "nles9exy",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "n1fwi80h",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "naooa3t6",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "njtn1rat",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "netntlrq",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "n074afct",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "ng10uyuq",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "n0fa160x",
+      "dashed": false
+    },
+    {
+      "s": "n0fa160x",
+      "t": "nuetykyf",
+      "dashed": false
+    },
+    {
+      "s": "nyrm6lbd",
+      "t": "nuetykyf",
+      "dashed": false
+    },
+    {
+      "s": "nyrm6lbd",
+      "t": "nxglqn9t",
+      "dashed": false
+    },
+    {
+      "s": "n0fa160x",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "nuetykyf",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "nwyec8wu",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "nr7c7s34",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "nfg5lom8",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "nvpm4fnc",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "n6jvknds",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "niby426n",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "nles9exy",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "nt3ny5fd",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "netntlrq",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "njtn1rat",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "naooa3t6",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "n074afct",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "neilbdo3",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "nk561tda",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "nq44jzqq",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "n23j11o1",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "n0o119i6",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "nv2lwhzy",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "n9uxxs4b",
+      "t": "nm92wanr",
+      "dashed": false
+    },
+    {
+      "s": "nuetykyf",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nxglqn9t",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nyrm6lbd",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nwyec8wu",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nvfydv5t",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nles9exy",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nt3ny5fd",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "n1fwi80h",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "neilbdo3",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "n9uxxs4b",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "n0o119i6",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nv2lwhzy",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nvlrwzyj",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "ntq8xu6b",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "n2nohk4v",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "n11tnkyf",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "ngc67jcu",
+      "t": "n78itqex",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Conflict",
-      "Arts",
-      "Linguistic",
       "Society",
+      "Conflict",
       "Censorship",
+      "Arts",
       "Morphology",
       "Mental health",
-      "Cognitive science",
       "Philosophy",
+      "Research",
+      "Cognitive science",
+      "Information",
       "Informatics",
-      "T",
-      "Research"
+      "Linguistic",
+      "Evolution"
     ],
     "tags": [],
     "type": [
-      "Source",
-      "What-if",
       "Feedback",
+      "Slides",
+      "Source",
       "Collection",
+      "Brief",
       "Sketch",
-      "Brief"
+      "What-if"
     ]
   }
 }
