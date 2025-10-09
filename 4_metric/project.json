@@ -741,8 +741,8 @@
     },
     {
       "id": "n774n60n",
-      "x": 1432.170073051656,
-      "y": 2374.2048534721634,
+      "x": 1422.9968350163379,
+      "y": 2335.983028325005,
       "w": 320,
       "h": 502,
       "group": null,
@@ -1387,8 +1387,8 @@
     },
     {
       "id": "nkvbsw57",
-      "x": 2859.4102495574625,
-      "y": -712.9521341476133,
+      "x": 2863.4102495574625,
+      "y": -1396.9521341476134,
       "w": 320,
       "h": 879,
       "group": null,
@@ -1469,7 +1469,7 @@
     {
       "id": "n7564rdw",
       "x": 2886.6022685035596,
-      "y": 1392.484573427781,
+      "y": 1396.484573427781,
       "w": 320,
       "h": 855,
       "group": null,
@@ -1511,8 +1511,8 @@
     },
     {
       "id": "n4hhvjjn",
-      "x": 3859.738998897471,
-      "y": -1857.949165400371,
+      "x": 3871.738998897471,
+      "y": -2649.949165400371,
       "w": 320,
       "h": 468,
       "group": null,
@@ -1538,8 +1538,8 @@
     },
     {
       "id": "n9hnycgw",
-      "x": 3492.2546062558426,
-      "y": -1867.3691835165205,
+      "x": 3504.2546062558426,
+      "y": -2659.3691835165205,
       "w": 320,
       "h": 907,
       "group": null,
@@ -1575,8 +1575,8 @@
     },
     {
       "id": "nsn0slbo",
-      "x": 3484.9579013439134,
-      "y": -927.9965456213683,
+      "x": 3496.9579013439134,
+      "y": -1719.9965456213683,
       "w": 320,
       "h": 560,
       "group": null,
@@ -1602,8 +1602,8 @@
     },
     {
       "id": "nq28lhs7",
-      "x": 3485.1344528855725,
-      "y": -355.2415610868493,
+      "x": 3497.1344528855725,
+      "y": -1147.2415610868493,
       "w": 320,
       "h": 474,
       "group": null,
@@ -1628,8 +1628,8 @@
     },
     {
       "id": "nnmmqguy",
-      "x": 3857.533959201813,
-      "y": -1375.2032820127606,
+      "x": 3869.533959201813,
+      "y": -2167.2032820127606,
       "w": 320,
       "h": 403,
       "group": null,
@@ -1656,8 +1656,8 @@
     },
     {
       "id": "najierrv",
-      "x": 3867.127305730638,
-      "y": -547.2980014559821,
+      "x": 3887.127305730638,
+      "y": -1675.298001455982,
       "w": 320,
       "h": 544,
       "group": null,
@@ -1683,8 +1683,8 @@
     },
     {
       "id": "nq67kiwe",
-      "x": 3877.175199896543,
-      "y": 9.657211616871336,
+      "x": 3897.175199896543,
+      "y": -1118.3427883831287,
       "w": 320,
       "h": 573,
       "group": null,
@@ -1708,8 +1708,8 @@
     },
     {
       "id": "ncqs8cn0",
-      "x": 3484.4878298812564,
-      "y": 142.74785138045308,
+      "x": 3496.4878298812564,
+      "y": -649.2521486195469,
       "w": 320,
       "h": 443,
       "group": null,
@@ -1735,7 +1735,7 @@
     },
     {
       "id": "n6nfqcr1",
-      "x": 3500.5417306386476,
+      "x": 3490.1425158155234,
       "y": 833.0968787919987,
       "w": 320,
       "h": 654,
@@ -2156,6 +2156,701 @@
         ],
         "files": []
       }
+    },
+    {
+      "id": "nwfb9qz8",
+      "x": 5092.234993102665,
+      "y": -1095.613665182274,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "The issue",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical data studies"
+        ],
+        "tags": [],
+        "desc": "The pension system is faltering: the number of people contributing to it is shrinking much faster than the number of those who benefit from it, putting the entire system at risk of collapse. People are retiring later and later, facing the growing conflict between biological aging and the relentless performance demands of the modern workplace.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nfxyap38",
+      "x": 3497.146141867272,
+      "y": -194.09256301587993,
+      "w": 320,
+      "h": 591,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": " Project Blueprint",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Critical data studies"
+        ],
+        "tags": [
+          "Identities",
+          "Biometric data",
+          "Metric governance",
+          "Cellular senescence",
+          "Senolytics"
+        ],
+        "desc": "Founder of Braintree and CEO of Kernel Brian Johnson, is an entrepreneur pioneering longevity science through his initiative \"Project Blueprint\". This ambitious research program applies a data-driven and highly quantified approach to human health, tracking hundreds of biomarkers to measure and optimize biological age. Johnson adheres to a rigorously controlled diet, exercise, and sleep regimen designed to restore youthful function across his organs and systems. His personal experiment in reversing the effects of aging has expanded into a broader movement, \"Don’t Die\", promoting the pursuit of radical life extension through technology and disciplined self-measurement.\n",
+        "links": [
+          "https://www.wired.it/article/blueprint-project-progetto-per-ringiovanire-bryan-johnson-multimilionario-usa/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nd3iyf67",
+      "x": 3895.753229508167,
+      "y": -521.235861888722,
+      "w": 320,
+      "h": 543,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "Unsustainable and Unequal Italian Pension System",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Critical data studies",
+          "Socio-political"
+        ],
+        "tags": [
+          "Socio-political",
+          "Metric governance"
+        ],
+        "desc": "Italy spends 16% of GDP on pensions (double the OECD average), making it the largest budget item. Workers pay 33% of income in contributions yet pensioners earn more on average than workers—creating a wealth transfer from young to old. Those entering work in 2022 will retire at 71 versus today's 64-year average, receiving lower benefits despite higher contributions. This explains why Italy underspends on education and childcare relative to other countries.",
+        "links": [
+          "https://www.ilpost.it/2023/12/15/pensioni-italia-costose/",
+          "https://open.spotify.com/episode/21NrRUgh361Tibt00e6Pmv?si=1b6f3ba826f54627"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nxw0z63q",
+      "x": 5449.752432304176,
+      "y": -1111.789749698442,
+      "w": 320,
+      "h": 392,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "BioGate Scenario",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical data studies",
+          "Socio-political"
+        ],
+        "tags": [
+          "Biometric data",
+          "Identities",
+          "Socio-political",
+          "Cellular senescence"
+        ],
+        "desc": "What if retirement were no longer determined by chronological age, but by biological aging instead? Who would be allowed to stop working—and who wouldn’t? Could we define measurable parameters to establish a personalized retirement age?\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0p8yk4w",
+      "x": 5852.5155686558155,
+      "y": -1268.4085114064608,
+      "w": 320,
+      "h": 384,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Conflict",
+        "type": "Concept",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [
+          "Identities",
+          "Metrics distortion"
+        ],
+        "desc": "In this scenario, the obsession with appearing eternally young is reversed—people now strive to appear older. Most people are unable to retire because the parameters are unrealistically strict.\nWealthy individuals, however, can afford to retire because they can pay for procedures to appear older. Retirement is no longer determined by how much you’ve contributed, but by how much you are still able to contribute.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nijvsr9y",
+      "x": 5856.762613005843,
+      "y": -862.2365327352187,
+      "w": 320,
+      "h": 312,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "The Agency - BioAge Bureau",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical data studies"
+        ],
+        "tags": [
+          "Metric governance",
+          "Biometric data"
+        ],
+        "desc": "The BioAge Bureau subjects individuals to biological age assessments in order to determine their personalized retirement age.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4hoi1w8",
+      "x": 5860.017780993355,
+      "y": -520.7751279229108,
+      "w": 320,
+      "h": 470,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Conflict dynamics",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical data studies"
+        ],
+        "tags": [
+          "Biometric data",
+          "Identities",
+          "Metric governance",
+          "Cellular senescence"
+        ],
+        "desc": "A full-body scanner measures parameters such as collagen levels, spinal condition, posture, heart health, bone health, and muscle tone. These indicators, analyzed collectively, contribute to determining an individual’s biological aging status.\nThe first assessment is conducted around age 35, when cellular senescence begins, but it is also performed on individuals who retired earlier than scheduled. If their biological age indicates they are still capable of working, they are required to return to their employment.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4cyhr88",
+      "x": 3898.4515604269777,
+      "y": 36.668338220666556,
+      "w": 320,
+      "h": 646,
+      "group": null,
+      "data": {
+        "date": "2025-10-08",
+        "title": "Molecular mechanisms in aging",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Data ethics",
+          "Critical data studies"
+        ],
+        "tags": [
+          "Cellular senescence",
+          "Senolytics",
+          "Biometric data"
+        ],
+        "desc": "As we age, damaged cells that stop dividing (senescent cells) accumulate in our tissues and release inflammatory molecules that contribute to age-related diseases. Quercetin, a natural compound, can eliminate these senescent fat cells by reducing cellular stress and inflammation. Senescence happens when DNA damage or oxidative stress triggers protective pathways that stop cells from dividing. Various molecular processes control this, including how cells repair DNA and modify their proteins. Two therapeutic approaches are emerging: senolytics (drugs that remove senescent cells) and senomorphics (drugs that reduce their harmful secretions). Both show promise for treating aging-related conditions.",
+        "links": [
+          "https://iris.univr.it/bitstream/11562/995191/1/TESI%20FINALE.pdf",
+          "https://pubmed.ncbi.nlm.nih.gov/38421832/",
+          "https://www.nature.com/articles/s41420-025-02655-x"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "npmf1qbt",
+      "x": 6258.130169446268,
+      "y": -1661.459205861314,
+      "w": 320,
+      "h": 1859,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Moodboard",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Data ethics",
+          "Critical data studies",
+          "Socio-political"
+        ],
+        "tags": [
+          "Biometric data",
+          "Identities"
+        ],
+        "desc": "Moodboard Biogate Scenario",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-08 at 12.56.48.png",
+            "size": 296068,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_at_12.56.48.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 at 12.56.53.png",
+            "size": 240474,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_at_12.56.53.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 at 12.57.00.png",
+            "size": 169655,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_at_12.57.00.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 at 12.57.46.png",
+            "size": 213087,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_at_12.57.46.jpg"
+          },
+          {
+            "name": "40e51e26e6f17c3b213bf390df3735e6.jpg",
+            "size": 37427,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/40e51e26e6f17c3b213bf390df3735e6.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmpvefmi",
+      "x": 3872.935686569468,
+      "y": 2803.227247175101,
+      "w": 320,
+      "h": 737,
+      "group": null,
+      "data": {
+        "date": "2025-10-01",
+        "title": "Universal Coordinated Time History",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Metric governance",
+          "Metric system",
+          "Data representation"
+        ],
+        "desc": "Before standardized time, every town kept its own local time based on the sun's position, creating chaos for travelers and railways. In 19th century Britain, Plymouth ran 16½ minutes behind Greenwich, forcing travelers to constantly adjust their watches. The railways drove standardization—by 1847, they adopted Greenwich Mean Time for timetables, though local towns resisted this \"railway-time aggression\" until GMT became legal in 1880. The concept evolved further: in 1884, an international conference established Greenwich as the prime meridian for a \"universal day.\" By 1960, scientists created Coordinated Universal Time (UTC), which combines atomic clock precision with Earth's rotation by adding leap seconds when needed. UTC transformed from a navigator's tool into the global time standard used today.",
+        "links": [
+          "https://www.britannica.com/science/Coordinated-Universal-Time",
+          "https://www.ion.org/publications/abstract.cfm?articleID=16669",
+          "https://adsabs.harvard.edu/full/1970JBAA...80..208H",
+          "https://www.rmg.co.uk/stories/time/time-greenwich-mean-time-confusing-case-travellers-watch"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "neaapl4a",
+      "x": 4274.4122982861945,
+      "y": 2673.7697691945705,
+      "w": 320,
+      "h": 509,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "Abolishing time zones proposals",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Metric governance",
+          "Metric system",
+          "Data representation"
+        ],
+        "desc": "Arthur C. Clarke and economists Steve Hanke and Dick Henry, have proposed replacing traditional time zones with a single global time using Coordinated Universal Time (UTC). This system, already used by airlines, the military, and the International Space Station, would simplify scheduling, reduce errors in travel and communication, and could offer health benefits by better aligning daily activities with natural circadian rhythms. While local perceptions of day and night would shift, a unified time reflects the global nature of modern society and could make coordination across regions much more efficient.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3n7obv1",
+      "x": 4278.656805760967,
+      "y": 3201.547231820713,
+      "w": 320,
+      "h": 636,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "China's active challenge to Western-dominated systems",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [],
+        "desc": "China developed BeiDou after the US cut off GPS signals to a Chinese ship in 1993, making it a direct response to Western technological dependence and now surpasses GPS in technical capabilities in many regions. BeiDou is integrated into China's Belt and Road Initiative as a geopolitical tool, with 140+ countries using it and experts warning it could provide China leverage to hold other nations' economies hostage. A US government advisory board stated \"GPS's capabilities are now substantially inferior to those of China's BeiDou,\" acknowledging the shift in technological dominance.",
+        "links": [
+          "https://www.scmp.com/economy/china-economy/article/3277511/after-30-years-chinas-beidou-gps-rival-will-world-enter-its-orbit",
+          "https://www.eurasiantimes.com/beidou-vs-gps-a-new-tech-war-is-brewing/",
+          "https://spacenews.com/america-losing-gps-dominance-china-beidou-satnav/",
+          "https://www.gpsworld.com/chinas-beidou-challenges-u-s-gps-dominance/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n4ppbqf1",
+      "x": 4274.412298286195,
+      "y": 3873.3027243459414,
+      "w": 320,
+      "h": 600,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "Historical precedents for meridian competition:",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [],
+        "desc": "At the 1884 International Meridian Conference, France abstained from voting for Greenwich and continued using the Paris meridian for several decades, showing national resistance to accepting another country's standard. Before Greenwich's adoption, different countries had competing meridians through their capitals - Greenwich, Paris, Berlin, and Washington were all candidate.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Prime_meridian_(Greenwich)",
+          "https://www.rmg.co.uk/royal-observatory/attractions/stand-on-prime-meridian-line",
+          "https://www.rmg.co.uk/stories/time/what-prime-meridian-why-it-greenwich?_gl=1*1gj08mb*_up*MQ..*_ga*NzM2OTk1NzcyLjE3NTk5MjI2NjA.*_ga_4MH5VEZTEK*czE3NTk5MjI2NjAkbzEkZzAkdDE3NTk5MjI2NjAkajYwJGwwJGgw*_ga_7JJ3J5DBF6*czE3NTk5MjI2NjAkbzEkZzAkdDE3NTk5MjI2NjAkajYwJGwwJGgw"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nfij5aev",
+      "x": 4275.929744795895,
+      "y": 4511.180470608556,
+      "w": 320,
+      "h": 668,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "Decline of Western hegemony",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Socio-political",
+          "Data perception",
+          "Metric governance"
+        ],
+        "desc": "International affairs are shifting from a unipolar world dominated by the US to a multipolar system where power is more distributed across states, companies, and non-state actors. China and Russia are currently challenging, albeit in different ways, the Western liberal order, with competing visions of how the international order should be run.\nChina's Belt and Road Initiative and India's Act East Policy are examples of alternative development models that challenge traditional Western-led development models",
+        "links": [
+          "https://www.weforum.org/stories/2024/05/why-geopolitics-matters-more-than-ever-in-a-multipolar-world/",
+          "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/western-options-in-a-multipolar-world/",
+          "https://carnegieendowment.org/research/2024/04/emerging-powers-and-the-future-of-american-statecraft?lang=en"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ndlda8ox",
+      "x": 4640.842372160987,
+      "y": 4428.335579925889,
+      "w": 320,
+      "h": 765,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": " Direct challenge to Western logic",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Metric governance",
+          "Socio-political",
+          "Identities"
+        ],
+        "desc": "In June 2023, BRICS foreign ministers called for a \"rebalancing of the global order away from Western nations,\" stating that \"the world is multipolar, that it is rebalancing, and that old ways cannot address new situations\". \n\nIn 2023, Prime Minister Modi's government replaced \"India\" with \"Bharat\" in G20 dinner invitations, referring to \"President of Bharat\" instead of \"President of India,\" triggering speculation about an official name change. The BJP has systematically renamed cities with Muslim and colonial names, including changing Allahabad to Prayagraj in 2018 and Aurangabad to Chhatrapati Sambhaji Nagar in 2022.\n",
+        "links": [
+          "https://www.researchgate.net/publication/384810169_Rethinking_Global_Security_in_a_Multipolar_World_The_Rise_of_BRICS_Christian_Russia_and_the_Decline_of_Western_Hegemony",
+          "https://www.euronews.com/culture/2023/09/09/will-india-be-renamed-bharat-heres-why-some-countries-change-their-name",
+          "https://journals.sagepub.com/doi/10.1177/19427786241266896",
+          "https://www.aljazeera.com/news/2023/9/5/indias-modi-govt-replaces-countrys-name-with-bharat-in-g20-dinner-invite"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n8sde05j",
+      "x": 5112.842372160987,
+      "y": 1544.3355799258889,
+      "w": 320,
+      "h": 459,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "The issue",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Metric governance",
+          "Metric system",
+          "Socio-political",
+          "Metrics distortion"
+        ],
+        "desc": "even seemingly objective measurements, such as the definition of time, are influenced by political factors that are far from neutral. The system of time zones is based on an objective physical measurement, yet its implementation is inevitably shaped by political decisions. What appears to be a neutral standard in reality conceals an act of imposition, in which political boundaries often prevail over geographical logic.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1wt48tc",
+      "x": 5477.391133600183,
+      "y": 1541.563133308805,
+      "w": 320,
+      "h": 459,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Time control Scenario",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Metric governance",
+          "Metric system",
+          "Socio-political",
+          "Metrics distortion"
+        ],
+        "desc": "Today we already live in a system where time zones do not follow natural biological rhythms but instead reflect political boundaries and economic logics. It is therefore not difficult to imagine that, in the future, for the same reasons, a single global time zone might be imposed to synchronize the working day and align the rhythms of life with the demands of the global economy. Yet this raises a crucial question: to which meridian should such a universal time be anchored?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkrwqkd2",
+      "x": 5863.037417917772,
+      "y": 1252.6272862078947,
+      "w": 320,
+      "h": 482,
+      "group": null,
+      "data": {
+        "date": "2025-10-08",
+        "title": "Conflict",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Metric governance",
+          "Metric system",
+          "Socio-political",
+          "Metrics distortion",
+          "Statistic bias",
+          "Data representation"
+        ],
+        "desc": "In the current geopolitical context, where emerging powers are challenging historical Western norms, the choice of the Greenwich meridian could come under scrutiny. States might find themselves competing to impose their own time zone as the global standard. In this scenario, the “supremacy” of a time zone would no longer be determined by historical or geographical factors, but by each country’s influence and significance in the contemporary world.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8aakcp7",
+      "x": 5870.177771891868,
+      "y": 1754.3063595160154,
+      "w": 320,
+      "h": 482,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "The Agency - SYNCRO",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Metric governance",
+          "Metric system",
+          "Socio-political",
+          "Metrics distortion",
+          "Statistic bias",
+          "Data representation"
+        ],
+        "desc": "The International Agency SYNCHRO (Systematic Normalization of Chronometric Rank Organization) evaluates the performance of states using a global ranking system. This system is designed to assess nations based on criteria that differ from traditional Western logic, yet are fundamental in other cultural contexts. For example, it considers indicators of social stability, such as the absence of conflict or the number of days without strikes.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8kf3cbf",
+      "x": 5870.81059885208,
+      "y": 2252.944420310244,
+      "w": 320,
+      "h": 498,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Conflict dynamics",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Metric governance",
+          "Metric system",
+          "Socio-political",
+          "Metrics distortion",
+          "Statistic bias",
+          "Data representation"
+        ],
+        "desc": "Establishing indicators and assigning weights can become an act of power, where the metrics risk generating conflict as well as resolving it. Even in this seemingly neutral scenario, the decision of which indicators matter most—and how much weight to assign to each—reflects a set of values and is far from neutral. These measurements can become a political instrument, triggering competition among countries to impose their own time zone as a symbolic demonstration of power.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nu4dimi4",
+      "x": 6233.705019983507,
+      "y": 1164.8211408664226,
+      "w": 320,
+      "h": 1690,
+      "group": null,
+      "data": {
+        "date": "2025-10-08",
+        "title": "Moodboard",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Metric governance",
+          "Metric system",
+          "Socio-political",
+          "Metrics distortion",
+          "Statistic bias",
+          "Data representation"
+        ],
+        "desc": "Moodboard Time Control Scenario",
+        "links": [],
+        "files": [
+          {
+            "name": "5f4e45474237bf22ac222087_together 1.png",
+            "size": 355717,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/5f4e45474237bf22ac222087_together_1.jpg"
+          },
+          {
+            "name": "Registrazione schermo 2025-10-04 alle 17.47.35 1.jpg",
+            "size": 41911,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Registrazione_schermo_2025-10-04_alle_17.47.35_1.jpg"
+          },
+          {
+            "name": "Tile 1.png",
+            "size": 281207,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Tile_1.jpg"
+          },
+          {
+            "name": "Tile 3.jpg",
+            "size": 174207,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Tile_3.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 at 13.51.56.png",
+            "size": 129269,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_at_13.51.56.jpg"
+          }
+        ]
+      }
     }
   ],
   "edges": [
@@ -2543,38 +3238,262 @@
       "s": "nlpwaqpd",
       "t": "n4lxx508",
       "dashed": false
+    },
+    {
+      "s": "n4hhvjjn",
+      "t": "nwfb9qz8",
+      "dashed": false
+    },
+    {
+      "s": "nnmmqguy",
+      "t": "nwfb9qz8",
+      "dashed": false
+    },
+    {
+      "s": "nsn0slbo",
+      "t": "nwfb9qz8",
+      "dashed": false
+    },
+    {
+      "s": "najierrv",
+      "t": "nwfb9qz8",
+      "dashed": false
+    },
+    {
+      "s": "nq67kiwe",
+      "t": "nwfb9qz8",
+      "dashed": false
+    },
+    {
+      "s": "nq28lhs7",
+      "t": "nwfb9qz8",
+      "dashed": false
+    },
+    {
+      "s": "nkvbsw57",
+      "t": "nfxyap38",
+      "dashed": false
+    },
+    {
+      "s": "nfxyap38",
+      "t": "nd3iyf67",
+      "dashed": false
+    },
+    {
+      "s": "nd3iyf67",
+      "t": "nwfb9qz8",
+      "dashed": false
+    },
+    {
+      "s": "nwfb9qz8",
+      "t": "nxw0z63q",
+      "dashed": false
+    },
+    {
+      "s": "nxw0z63q",
+      "t": "n0p8yk4w",
+      "dashed": false
+    },
+    {
+      "s": "nxw0z63q",
+      "t": "nijvsr9y",
+      "dashed": false
+    },
+    {
+      "s": "nxw0z63q",
+      "t": "n4hoi1w8",
+      "dashed": false
+    },
+    {
+      "s": "nfxyap38",
+      "t": "n4cyhr88",
+      "dashed": false
+    },
+    {
+      "s": "n4cyhr88",
+      "t": "nwfb9qz8",
+      "dashed": false
+    },
+    {
+      "s": "nqydncpd",
+      "t": "nmpvefmi",
+      "dashed": false
+    },
+    {
+      "s": "n6nfqcr1",
+      "t": "nmpvefmi",
+      "dashed": false
+    },
+    {
+      "s": "nvucnz1n",
+      "t": "nmpvefmi",
+      "dashed": false
+    },
+    {
+      "s": "ndt8zx1f",
+      "t": "nmpvefmi",
+      "dashed": false
+    },
+    {
+      "s": "nmpvefmi",
+      "t": "neaapl4a",
+      "dashed": false
+    },
+    {
+      "s": "nmpvefmi",
+      "t": "n3n7obv1",
+      "dashed": false
+    },
+    {
+      "s": "nmpvefmi",
+      "t": "n4ppbqf1",
+      "dashed": false
+    },
+    {
+      "s": "nmpvefmi",
+      "t": "nfij5aev",
+      "dashed": false
+    },
+    {
+      "s": "nfij5aev",
+      "t": "ndlda8ox",
+      "dashed": false
+    },
+    {
+      "s": "ndlda8ox",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "n4ppbqf1",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "n3n7obv1",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "neaapl4a",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "ngyu2trr",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "nbgj607v",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "ndt8zx1f",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "nvucnz1n",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "n6nfqcr1",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "n8sde05j",
+      "t": "n1wt48tc",
+      "dashed": false
+    },
+    {
+      "s": "n1wt48tc",
+      "t": "nkrwqkd2",
+      "dashed": false
+    },
+    {
+      "s": "n1wt48tc",
+      "t": "n8aakcp7",
+      "dashed": false
+    },
+    {
+      "s": "n1wt48tc",
+      "t": "n8kf3cbf",
+      "dashed": false
+    },
+    {
+      "s": "nkrwqkd2",
+      "t": "nu4dimi4",
+      "dashed": false
+    },
+    {
+      "s": "n8aakcp7",
+      "t": "nu4dimi4",
+      "dashed": false
+    },
+    {
+      "s": "n8kf3cbf",
+      "t": "nu4dimi4",
+      "dashed": false
+    },
+    {
+      "s": "n0p8yk4w",
+      "t": "npmf1qbt",
+      "dashed": false
+    },
+    {
+      "s": "nijvsr9y",
+      "t": "npmf1qbt",
+      "dashed": false
+    },
+    {
+      "s": "n4hoi1w8",
+      "t": "npmf1qbt",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Communication",
-      "Critical theory",
-      "Design research",
+      "Metric system",
+      "Metric systems",
       "Socio-political",
-      "Media studies",
       "Data ethics",
-      "Critical design",
+      "Chronopolitics",
       "Critical data studies",
-      "Chronopolitics"
+      "Critical design",
+      "Media studies",
+      "Design research",
+      "Critical theory",
+      "Communication"
     ],
     "tags": [
-      "Biometric data",
-      "Relativity",
       "Data representation",
-      "Deceptive pattern",
-      "Identities",
-      "Data perception",
-      "Cognitive bias",
-      "Algorithmic bias",
       "Statistic bias",
-      "Subjective reality",
-      "Measuring the unmeasurable",
-      "Big data",
+      "Metrics distortion",
+      "Socio-political",
+      "Metric system",
       "Metric governance",
-      "Metrics distortion"
+      "Data perception",
+      "Identities",
+      "Biometric data",
+      "Cellular senescence",
+      "Senolytics",
+      "Big data",
+      "Measuring the unmeasurable",
+      "Subjective reality",
+      "Algorithmic bias",
+      "Cognitive bias",
+      "Deceptive pattern",
+      "Relativity"
     ],
     "type": [
-      "Research",
+      "Source",
+      "Collection",
+      "Concept",
+      "Finding",
       "Brief"
     ]
   }
