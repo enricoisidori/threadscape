@@ -2033,9 +2033,9 @@
     {
       "id": "nqdfimqf",
       "x": 3524.6560933323494,
-      "y": 6316.724709268212,
+      "y": 6204.193942797226,
       "w": 320,
-      "h": 244,
+      "h": 725,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -2044,20 +2044,41 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Critical design"
+          "Communication",
+          "Critical theory",
+          "Design research",
+          "Media studies",
+          "Critical data studies",
+          "Chronopolitics",
+          "Data ethics",
+          "Socio-political",
+          "Metric system"
         ],
-        "tags": [],
-        "desc": "https://arquine.com/the-pruitt-igoe-myth-an-urban-history/\nhttps://vimeo.com/18356414?fl=pl&fe=sh",
-        "links": [],
+        "tags": [
+          "Metric system",
+          "Metric governance",
+          "Relativity",
+          "Socio-political",
+          "Data representation",
+          "Deceptive pattern",
+          "Cognitive bias",
+          "Measuring the unmeasurable",
+          "Metrics distortion"
+        ],
+        "desc": "St. Louis built 33 high-rise towers in 1954 to replace slums. Initially successful, the complex was demolished in 1972 due to crime and decay. Critics blamed modernist architecture, declaring it \"the day Modern architecture died.\" However, the 2011 documentary \"The Pruitt-Igoe Myth\" shows the real causes were economic collapse, suburbanization, underfunding, and racism—not the design or residents. The architectural failure narrative was a myth that obscured deeper systemic problems.\n\n",
+        "links": [
+          "https://arquine.com/the-pruitt-igoe-myth-an-urban-history/",
+          "https://vimeo.com/18356414?fl=pl&fe=sh"
+        ],
         "files": []
       }
     },
     {
       "id": "ngg8jroq",
       "x": 3527.5682554945997,
-      "y": 6586.653832268753,
+      "y": 6963.945710434169,
       "w": 320,
-      "h": 242,
+      "h": 413,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -2068,8 +2089,11 @@
         "areas": [
           "Critical design"
         ],
-        "tags": [],
-        "desc": "",
+        "tags": [
+          "Body-politics",
+          "Metrics distortion"
+        ],
+        "desc": "Through visceral body horror and grotesque imagery, the 2024 film critiques society's obsession with youth, beauty standards, and how aging women are rendered invisible. The story explores the violence of beauty culture and the destructive pursuit of physical perfection.",
         "links": [
           "https://www.imdb.com/it/title/tt17526714/",
           "https://www.behance.net/gallery/170898823/CLIO-NO-STANDARD-KIT?locale=ja_JP"
@@ -2079,8 +2103,8 @@
     },
     {
       "id": "nt3x56cu",
-      "x": 3536.948840160906,
-      "y": 6847.547516769564,
+      "x": 3528.948840160906,
+      "y": 7444.83939493498,
       "w": 320,
       "h": 240,
       "group": null,
@@ -2103,8 +2127,8 @@
     },
     {
       "id": "n1pprr5e",
-      "x": 3536.948840160906,
-      "y": 7099.405762770645,
+      "x": 3528.948840160906,
+      "y": 7696.697640936061,
       "w": 320,
       "h": 223,
       "group": null,
@@ -2127,8 +2151,8 @@
     },
     {
       "id": "n4lxx508",
-      "x": 3539.2939863274833,
-      "y": 7334.264008771726,
+      "x": 3531.2939863274833,
+      "y": 7931.5558869371425,
       "w": 320,
       "h": 835,
       "group": null,
@@ -2160,7 +2184,7 @@
     {
       "id": "nwfb9qz8",
       "x": 5092.234993102665,
-      "y": -1095.613665182274,
+      "y": -1098.453635303505,
       "w": 320,
       "h": 334,
       "group": null,
@@ -2168,7 +2192,7 @@
         "date": "2025-10-07",
         "title": "The issue",
         "type": "Finding",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
         "areas": [
           "Data ethics",
@@ -2252,7 +2276,7 @@
         "date": "2025-10-07",
         "title": "BioGate Scenario",
         "type": "Concept",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
         "areas": [
           "Data ethics",
@@ -2281,8 +2305,8 @@
         "date": "2025-10-07",
         "title": "Conflict",
         "type": "Concept",
-        "action": null,
-        "mainArea": null,
+        "action": "Making",
+        "mainArea": "Speculation",
         "areas": [],
         "tags": [
           "Identities",
@@ -2304,7 +2328,7 @@
         "date": "2025-10-07",
         "title": "The Agency - BioAge Bureau",
         "type": "Concept",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
         "areas": [
           "Data ethics",
@@ -2321,7 +2345,7 @@
     },
     {
       "id": "n4hoi1w8",
-      "x": 5860.017780993355,
+      "x": 5858.906394774361,
       "y": -520.7751279229108,
       "w": 320,
       "h": 470,
@@ -2330,7 +2354,7 @@
         "date": "2025-10-07",
         "title": "Conflict dynamics",
         "type": "Concept",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
         "areas": [
           "Data ethics",
@@ -2389,7 +2413,7 @@
         "date": "2025-10-07",
         "title": "Moodboard",
         "type": "Collection",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
         "areas": [
           "Data ethics",
@@ -2598,8 +2622,8 @@
     },
     {
       "id": "ndlda8ox",
-      "x": 4640.842372160987,
-      "y": 4428.335579925889,
+      "x": 4644.842372160987,
+      "y": 4464.335579925889,
       "w": 320,
       "h": 765,
       "group": null,
@@ -2640,7 +2664,7 @@
         "date": "2025-10-03",
         "title": "The issue",
         "type": "Finding",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": null,
         "areas": [
           "Chronopolitics",
@@ -2660,7 +2684,7 @@
     },
     {
       "id": "n1wt48tc",
-      "x": 5477.391133600183,
+      "x": 5473.391133600183,
       "y": 1541.563133308805,
       "w": 320,
       "h": 459,
@@ -2669,7 +2693,7 @@
         "date": "2025-10-07",
         "title": "Time control Scenario",
         "type": "Concept",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
         "areas": [
           "Chronopolitics",
@@ -2698,7 +2722,7 @@
         "date": "2025-10-08",
         "title": "Conflict",
         "type": "Concept",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
         "areas": [
           "Chronopolitics",
@@ -2720,7 +2744,7 @@
     },
     {
       "id": "n8aakcp7",
-      "x": 5870.177771891868,
+      "x": 5866.177771891868,
       "y": 1754.3063595160154,
       "w": 320,
       "h": 482,
@@ -2729,7 +2753,7 @@
         "date": "2025-10-07",
         "title": "The Agency - SYNCRO",
         "type": "Concept",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
         "areas": [
           "Chronopolitics",
@@ -2760,7 +2784,7 @@
         "date": "2025-10-07",
         "title": "Conflict dynamics",
         "type": "Concept",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
         "areas": [
           "Chronopolitics",
@@ -2785,13 +2809,13 @@
       "x": 6233.705019983507,
       "y": 1164.8211408664226,
       "w": 320,
-      "h": 1690,
+      "h": 1691,
       "group": null,
       "data": {
         "date": "2025-10-08",
         "title": "Moodboard",
         "type": "Collection",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
         "areas": [
           "Chronopolitics",
@@ -3458,41 +3482,41 @@
   "vocab": {
     "areas": [
       "Metric system",
-      "Metric systems",
       "Socio-political",
       "Data ethics",
       "Chronopolitics",
       "Critical data studies",
-      "Critical design",
       "Media studies",
       "Design research",
       "Critical theory",
-      "Communication"
+      "Communication",
+      "Critical design"
     ],
     "tags": [
-      "Data representation",
-      "Statistic bias",
       "Metrics distortion",
-      "Socio-political",
-      "Metric system",
-      "Metric governance",
-      "Data perception",
-      "Identities",
-      "Biometric data",
-      "Cellular senescence",
-      "Senolytics",
-      "Big data",
+      "Body-politics",
       "Measuring the unmeasurable",
-      "Subjective reality",
-      "Algorithmic bias",
       "Cognitive bias",
       "Deceptive pattern",
-      "Relativity"
+      "Data representation",
+      "Socio-political",
+      "Relativity",
+      "Metric governance",
+      "Metric system",
+      "Algorithmic bias",
+      "Subjective reality",
+      "Big data",
+      "Senolytics",
+      "Cellular senescence",
+      "Biometric data",
+      "Identities",
+      "Data perception",
+      "Statistic bias"
     ],
     "type": [
       "Source",
-      "Collection",
       "Concept",
+      "Collection",
       "Finding",
       "Brief"
     ]
