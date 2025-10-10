@@ -1572,7 +1572,7 @@
     {
       "id": "neilbdo3",
       "x": 9077.775969781229,
-      "y": 1331.4890814918913,
+      "y": 1331.4890814918917,
       "w": 320,
       "h": 2276,
       "group": null,
@@ -2448,8 +2448,8 @@
     },
     {
       "id": "nm92wanr",
-      "x": 17718.780809692507,
-      "y": 5423.065616557531,
+      "x": 17760.564895834676,
+      "y": 5560.356185310376,
       "w": 320,
       "h": 1961,
       "group": null,
@@ -2548,6 +2548,104 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-10-05_alle_12.28.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n78itqex",
+      "x": 17755.532647535554,
+      "y": 3637.3561853103756,
+      "w": 320,
+      "h": 1788,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "slides second scenario",
+        "type": "Slides",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Censorship",
+          "Conflict",
+          "Society"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-09 alle 15.42.25.png",
+            "size": 142764,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.42.25.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.42.31.png",
+            "size": 830457,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.42.31.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.42.38.png",
+            "size": 1218697,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.42.38.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.42.43.png",
+            "size": 296482,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.42.43.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.42.56.png",
+            "size": 1087470,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.42.56.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.43.05.png",
+            "size": 235677,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.43.05.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.43.12.png",
+            "size": 1482392,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.43.12.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.43.19.png",
+            "size": 553934,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.43.19.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 15.43.25.png",
+            "size": 912779,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_15.43.25.jpg"
           }
         ]
       }
@@ -4398,34 +4496,123 @@
       "s": "n9uxxs4b",
       "t": "nm92wanr",
       "dashed": false
+    },
+    {
+      "s": "nuetykyf",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nxglqn9t",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nyrm6lbd",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nwyec8wu",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nvfydv5t",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nles9exy",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nt3ny5fd",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "n1fwi80h",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "neilbdo3",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "n9uxxs4b",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "n0o119i6",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nv2lwhzy",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "nvlrwzyj",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "ntq8xu6b",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "n2nohk4v",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "n11tnkyf",
+      "t": "n78itqex",
+      "dashed": false
+    },
+    {
+      "s": "ngc67jcu",
+      "t": "n78itqex",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Conflict",
-      "Evolution",
-      "Censorship",
-      "Linguistic",
-      "Informatics",
-      "Information",
-      "Cognitive science",
-      "Research",
-      "Philosophy",
-      "Mental health",
-      "Morphology",
       "Society",
-      "Arts"
+      "Conflict",
+      "Censorship",
+      "Arts",
+      "Morphology",
+      "Mental health",
+      "Philosophy",
+      "Research",
+      "Cognitive science",
+      "Information",
+      "Informatics",
+      "Linguistic",
+      "Evolution"
     ],
     "tags": [],
     "type": [
-      "Slides",
-      "What-if",
-      "Source",
       "Feedback",
-      "G-rape scenario",
-      "Sketch",
+      "Slides",
+      "Source",
+      "Collection",
       "Brief",
-      "Collection"
+      "Sketch",
+      "What-if"
     ]
   }
 }
