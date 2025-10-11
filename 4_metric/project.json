@@ -398,7 +398,7 @@
     },
     {
       "id": "naho5qrg",
-      "x": 976,
+      "x": 974.3014953381337,
       "y": 32,
       "w": 320,
       "h": 306,
@@ -406,7 +406,7 @@
       "data": {
         "date": "2025-09-16",
         "title": "Bias",
-        "type": "Source",
+        "type": "Collection",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -437,7 +437,7 @@
       "data": {
         "date": "2025-09-16",
         "title": "Psychology ",
-        "type": "Source",
+        "type": "Collection",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -469,7 +469,7 @@
       "data": {
         "date": "2025-09-16",
         "title": "Manipulation",
-        "type": "Source",
+        "type": "Collection",
         "action": null,
         "mainArea": null,
         "areas": [
@@ -2035,7 +2035,7 @@
       "x": 3524.6560933323494,
       "y": 6204.193942797226,
       "w": 320,
-      "h": 725,
+      "h": 680,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -2045,11 +2045,9 @@
         "mainArea": null,
         "areas": [
           "Communication",
-          "Critical theory",
           "Design research",
           "Media studies",
           "Critical data studies",
-          "Chronopolitics",
           "Data ethics",
           "Socio-political",
           "Metric system"
@@ -2076,9 +2074,9 @@
     {
       "id": "ngg8jroq",
       "x": 3527.5682554945997,
-      "y": 6963.945710434169,
+      "y": 6906.0740597984,
       "w": 320,
-      "h": 413,
+      "h": 504,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -2087,7 +2085,12 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Critical design"
+          "Communication",
+          "Critical theory",
+          "Design research",
+          "Critical data studies",
+          "Data ethics",
+          "Socio-political"
         ],
         "tags": [
           "Body-politics",
@@ -2103,10 +2106,10 @@
     },
     {
       "id": "nt3x56cu",
-      "x": 3528.948840160906,
-      "y": 7444.83939493498,
+      "x": 3527.3330650407793,
+      "y": 7442.387632879662,
       "w": 320,
-      "h": 240,
+      "h": 559,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -2115,10 +2118,22 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Critical design"
+          "Critical theory",
+          "Socio-political",
+          "Data ethics",
+          "Chronopolitics",
+          "Metric system"
         ],
-        "tags": [],
-        "desc": "",
+        "tags": [
+          "Subjective reality",
+          "Cognitive bias",
+          "Measuring the unmeasurable",
+          "Deceptive pattern",
+          "Identities",
+          "Data perception",
+          "Metrics distortion"
+        ],
+        "desc": "The pandemic showed that universal advice fails because people face different realities. Some leaders struggled with chaos while others gained free time from eliminating commutes. The same guidance didn't work for both groups. Effective leadership requires matching strategies to individual circumstances rather than following standardized formulas.",
         "links": [
           "https://www.forbes.com/sites/hillennevins/2022/05/12/why-one-size-fits-all-doesnt-actually-fit-anyone-leadership-lessons-from-the-pandemic/"
         ],
@@ -2127,10 +2142,10 @@
     },
     {
       "id": "n1pprr5e",
-      "x": 3528.948840160906,
-      "y": 7696.697640936061,
+      "x": 3530.1833926215204,
+      "y": 8029.385586622185,
       "w": 320,
-      "h": 223,
+      "h": 553,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -2139,10 +2154,20 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Critical design"
+          "Critical theory",
+          "Socio-political",
+          "Data ethics",
+          "Metric system"
         ],
-        "tags": [],
-        "desc": "",
+        "tags": [
+          "Metric governance",
+          "Socio-political",
+          "Data representation",
+          "Cognitive bias",
+          "Relativity",
+          "Subjective reality"
+        ],
+        "desc": "From vaccine mandates to minimum wage laws, policies that apply to everyone aren't constraints on freedom—they're how democracies create fairness and protection for all. The phrase, once celebrated in advertising as a symbol of innovation (stretchy fabrics that fit everyone), became a political weapon in the 1980s against collective action. Yet laws, by definition, must \"fit all\" to be legitimate. This article defends standardization as essential for the common good against neoliberal individualism.",
         "links": [
           "https://www.bostonreview.net/articles/in-praise-of-one-size-fits-all/"
         ],
@@ -2151,8 +2176,8 @@
     },
     {
       "id": "n4lxx508",
-      "x": 3531.2939863274833,
-      "y": 7931.5558869371425,
+      "x": 3532.074649953581,
+      "y": 8620.073693129525,
       "w": 320,
       "h": 835,
       "group": null,
@@ -2183,8 +2208,8 @@
     },
     {
       "id": "nwfb9qz8",
-      "x": 5092.234993102665,
-      "y": -1098.453635303505,
+      "x": 5088.755018487799,
+      "y": -1080.3595304545768,
       "w": 320,
       "h": 334,
       "group": null,
@@ -2713,8 +2738,8 @@
     },
     {
       "id": "nkrwqkd2",
-      "x": 5863.037417917772,
-      "y": 1252.6272862078947,
+      "x": 5863.7219836620925,
+      "y": 1227.4609248858662,
       "w": 320,
       "h": 482,
       "group": null,
@@ -2744,10 +2769,10 @@
     },
     {
       "id": "n8aakcp7",
-      "x": 5866.177771891868,
-      "y": 1754.3063595160154,
+      "x": 5867.729194619233,
+      "y": 1734.6589400900657,
       "w": 320,
-      "h": 482,
+      "h": 504,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -2758,7 +2783,8 @@
         "areas": [
           "Chronopolitics",
           "Socio-political",
-          "Metric system"
+          "Metric system",
+          "Communication"
         ],
         "tags": [
           "Metric governance",
@@ -2775,8 +2801,8 @@
     },
     {
       "id": "n8kf3cbf",
-      "x": 5870.81059885208,
-      "y": 2252.944420310244,
+      "x": 5869.703416504987,
+      "y": 2260.989328937101,
       "w": 320,
       "h": 498,
       "group": null,
@@ -3477,46 +3503,167 @@
       "s": "n4hoi1w8",
       "t": "npmf1qbt",
       "dashed": false
+    },
+    {
+      "s": "nh5ks9sq",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "n46nch3c",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "ntnshd31",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "ne9u5x9s",
+      "t": "nkvbsw57",
+      "dashed": false
+    },
+    {
+      "s": "nlbzpmi1",
+      "t": "nkvbsw57",
+      "dashed": false
+    },
+    {
+      "s": "n0s7shor",
+      "t": "nkvbsw57",
+      "dashed": false
+    },
+    {
+      "s": "nmrx6tr0",
+      "t": "nkvbsw57",
+      "dashed": false
+    },
+    {
+      "s": "n774n60n",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "n774n60n",
+      "t": "nwfb9qz8",
+      "dashed": false
+    },
+    {
+      "s": "ncyo6xkn",
+      "t": "n8sde05j",
+      "dashed": false
+    },
+    {
+      "s": "ncyo6xkn",
+      "t": "nwfb9qz8",
+      "dashed": false
+    },
+    {
+      "s": "nk03ub35",
+      "t": "n8aakcp7",
+      "dashed": false
+    },
+    {
+      "s": "n8uis8n6",
+      "t": "n8aakcp7",
+      "dashed": false
+    },
+    {
+      "s": "ntjbrkid",
+      "t": "n8aakcp7",
+      "dashed": false
+    },
+    {
+      "s": "ndlda8ox",
+      "t": "nkrwqkd2",
+      "dashed": false
+    },
+    {
+      "s": "n4ppbqf1",
+      "t": "nkrwqkd2",
+      "dashed": false
+    },
+    {
+      "s": "n3n7obv1",
+      "t": "nkrwqkd2",
+      "dashed": false
+    },
+    {
+      "s": "nvucnz1n",
+      "t": "n8kf3cbf",
+      "dashed": false
+    },
+    {
+      "s": "n6nfqcr1",
+      "t": "n8kf3cbf",
+      "dashed": false
+    },
+    {
+      "s": "ntjbrkid",
+      "t": "n8kf3cbf",
+      "dashed": false
+    },
+    {
+      "s": "ns37z9qr",
+      "t": "n8kf3cbf",
+      "dashed": false
+    },
+    {
+      "s": "n8uis8n6",
+      "t": "n8kf3cbf",
+      "dashed": false
+    },
+    {
+      "s": "nk03ub35",
+      "t": "n8kf3cbf",
+      "dashed": false
+    },
+    {
+      "s": "nr85lj60",
+      "t": "n8kf3cbf",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Metric system",
+      "Communication",
       "Socio-political",
       "Data ethics",
-      "Chronopolitics",
       "Critical data studies",
-      "Media studies",
       "Design research",
       "Critical theory",
-      "Communication",
-      "Critical design"
+      "Metric system",
+      "Chronopolitics",
+      "Critical design",
+      "Media studies"
     ],
     "tags": [
-      "Metrics distortion",
-      "Body-politics",
-      "Measuring the unmeasurable",
       "Cognitive bias",
-      "Deceptive pattern",
+      "Measuring the unmeasurable",
+      "Etric governance",
+      "Subjective reality",
+      "Relativity",
       "Data representation",
       "Socio-political",
-      "Relativity",
       "Metric governance",
-      "Metric system",
-      "Algorithmic bias",
-      "Subjective reality",
-      "Big data",
-      "Senolytics",
-      "Cellular senescence",
-      "Biometric data",
-      "Identities",
+      "Metrics distortion",
       "Data perception",
-      "Statistic bias"
+      "Identities",
+      "Deceptive pattern",
+      "Statistic bias",
+      "Biometric data",
+      "Cellular senescence",
+      "Senolytics",
+      "Big data",
+      "Algorithmic bias",
+      "Metric system",
+      "Body-politics"
     ],
     "type": [
+      "Collection",
       "Source",
       "Concept",
-      "Collection",
       "Finding",
       "Brief"
     ]
