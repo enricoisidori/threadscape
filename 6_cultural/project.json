@@ -843,8 +843,8 @@
     },
     {
       "id": "ng6y70ki",
-      "x": 4109.45767279601,
-      "y": 3209.908906906343,
+      "x": 3981.4576727960102,
+      "y": 3381.908906906343,
       "w": 320,
       "h": 409,
       "group": null,
@@ -885,8 +885,8 @@
     },
     {
       "id": "nqfpjft5",
-      "x": 3613.3914991706147,
-      "y": 2328.192808534741,
+      "x": 4109.391499170615,
+      "y": 2596.192808534741,
       "w": 320,
       "h": 537,
       "group": null,
@@ -1400,8 +1400,8 @@
     },
     {
       "id": "n6w29va4",
-      "x": 4607.364530907372,
-      "y": 3178.3637383879086,
+      "x": 4367.364530907372,
+      "y": 3318.3637383879086,
       "w": 320,
       "h": 366,
       "group": null,
@@ -1420,8 +1420,8 @@
     },
     {
       "id": "ntwlro62",
-      "x": 5036.928373751227,
-      "y": 3285.575612500057,
+      "x": 4852.928373751227,
+      "y": 3729.575612500057,
       "w": 320,
       "h": 265,
       "group": null,
@@ -1440,8 +1440,8 @@
     },
     {
       "id": "nbnlyzq6",
-      "x": 4609.784891030368,
-      "y": 3605.8253689895664,
+      "x": 4265.784891030368,
+      "y": 3953.8253689895664,
       "w": 320,
       "h": 468,
       "group": null,
@@ -1641,8 +1641,8 @@
     },
     {
       "id": "nixu5vds",
-      "x": 4077.4066854044704,
-      "y": 2019.3478197917152,
+      "x": 3345.4066854044704,
+      "y": 2007.3478197917152,
       "w": 320,
       "h": 214,
       "group": null,
@@ -1941,6 +1941,480 @@
             "path": "assets/image_32.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "nijz3fjn",
+      "x": 5235.335496726735,
+      "y": 2141.6481044111547,
+      "w": 320,
+      "h": 434,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "An alternative to the current management of cultural conflict",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political",
+          "Socio-cultural",
+          "Critical theory"
+        ],
+        "tags": [],
+        "desc": "We live in a world were we risk to lose our culture for a various number of reasons. \nWe interrogated if\n- Is a culture that’s been artificially preserved still a culture? Or does it become an identity fossil?\n- What are we really protecting when we “save” a culture? And if the very act of preservation were itself a form of death?\n- Is keeping the people alive enough to declare their culture “protected”?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "niet1xwf",
+      "x": 4762.062350848792,
+      "y": 1362.4471270808413,
+      "w": 320,
+      "h": 2066,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Causes of cultural loss",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Conflicts",
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "- Territorial dispute: a clash over who holds the right to sovereignty over a given territory. It often involves peoples seeking self-determination or independence, who come into conflict with nation-states claiming that same land.\n- Exploitation of Resources: deforestation, mining, or the construction of large dams destroy the natural habitats of which an indigenous culture is an integral part. Without the forest, the river, or the tundra, the culture that draws its meaning, spirituality, and livelihood from them cannot survive.\n- Migration: when communities are forced to migrate in search of better living conditions, they become dispersed. Their ties to the land, collective rituals, and oral traditions are disrupted.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "image 3.png",
+            "size": 519273,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_3.jpg"
+          },
+          {
+            "name": "image 7.png",
+            "size": 661889,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_7.jpg"
+          },
+          {
+            "name": "image 9.png",
+            "size": 481469,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_9.jpg"
+          },
+          {
+            "name": "image 10.png",
+            "size": 733633,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nu9pnmqc",
+      "x": 5700.3490969236655,
+      "y": 2208.1020973356517,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Questions",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural",
+          "Culture"
+        ],
+        "tags": [],
+        "desc": "- Does an essential bond truly exist\nbetween cultural heritage and physical space?\n- Is it right for a people to have to sacrifice themselves\nin order to preserve their culture?\n- In what other forms can a culture continue to live?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5bl14qz",
+      "x": 6130.011051788979,
+      "y": 2082.3810212522303,
+      "w": 320,
+      "h": 505,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "What if the only way to preserve a culture from extinction was to freeze it?",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "When a species disappears, its genetic code can be preserved to bring it back in the future.\nIn the case of culture, this is not possible — maintaining the genetic code of certain peoples does not preserve the memory that embodies their culture.\nIn this case, the only possible solution would be to preserve their entire bodies in a suspended state, thus allowing the preservation of memory as well.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 15.png",
+            "size": 1666811,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ni854e3k",
+      "x": 6674.046634555972,
+      "y": 1559.4512295641398,
+      "w": 320,
+      "h": 231,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Why",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The rise of local conflicts threatens the survival of numerous cultures.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nct10ap6",
+      "x": 6742.046634555972,
+      "y": 1983.4512295641398,
+      "w": 320,
+      "h": 231,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "What",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "A group of researchers decides to preserve certain populations in order to safeguard their culture.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nes88wxi",
+      "x": 6718.046634555972,
+      "y": 2387.45122956414,
+      "w": 320,
+      "h": 214,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Where",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "All over the world",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqo2d9mt",
+      "x": 6690.046634555972,
+      "y": 2763.45122956414,
+      "w": 320,
+      "h": 231,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Who",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "A non-governmental organization for cultural preservation.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njswoqvx",
+      "x": 6690.046634555972,
+      "y": 3215.5672193772198,
+      "w": 320,
+      "h": 214,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "When",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "In the next future",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nf09166m",
+      "x": 8490.584313123467,
+      "y": 1776.4935412033776,
+      "w": 320,
+      "h": 355,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "ONU criteria",
+        "type": "Case study",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "- Mental Element (Intent to Destroy – Dolus Specialis)\nThere must be the \"intent to destroy, in whole or in part, a national, ethnic, racial, or religious group as such.\" The intent must aim at the physical destruction of the group. Victims are deliberately targeted because of their membership in the group.\nGenocide can also be committed against a part of the group.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nojoh5nf",
+      "x": 8978.668477030105,
+      "y": 1884.457315607698,
+      "w": 320,
+      "h": 372,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "The Five Prohibited Acts",
+        "type": "Case study",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "- Killing members of the group.\n- Causing serious physical or mental harm to members of the group.\n- Deliberately inflicting on the group living conditions intended to bring about its total or partial physical destruction.\n- Imposing measures intended to prevent births within the group.\n- Forcibly transferring children of the group to another group",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "no1jd2fv",
+      "x": 8760.288795422513,
+      "y": 2988.1565219160884,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "UNESCO criteria",
+        "type": "Case study",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "- Is it a living and identity-defining practice?\n- Does it strengthen global cultural diversity?\n- Is there a concrete protection plan in place?\n- Is the community in agreement and actively involved?\n- Is it already recognized at the national level?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5kkwopv",
+      "x": 7355.7707511158615,
+      "y": 2340.6074202567056,
+      "w": 320,
+      "h": 237,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "WWF model",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "As species at risk of extinction, we used the same model to examine cultures facing the same threat.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndhivel5",
+      "x": 7971.3894802622,
+      "y": 1534.7718927794995,
+      "w": 320,
+      "h": 321,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Identifying Priority Cultures",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "\nThe WWF uses the Red List for species at risk; similarly, we could create a \"Red List of Cultures\" based on parameters such as the number of native speakers, intergenerational transmission of knowledge, and external pressures (globalization, forced assimilation).",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n27orrxl",
+      "x": 7985.599363555584,
+      "y": 1975.3555729421378,
+      "w": 320,
+      "h": 321,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Protecting the \"Cultural Habitat\"",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "\nThe WWF creates protected areas for wildlife.\nFor Peoples: Protect \"Cultural Territories\" — ancestral lands, sacred sites, and ecosystems that sustain traditions (e.g., forests for medicinal plants, rivers for rituals). Territorial self-determination is essential.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ngot8us1",
+      "x": 7980.046762562646,
+      "y": 2336.6717640818893,
+      "w": 320,
+      "h": 321,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Creating \"Connectivity Corridors\"",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "\nLike the WWF connects fragmented habitats,\nfor Peoples: facilitate \"Cultural Corridors\" — networks of exchange between dispersed communities, intergenerational meetings, and the use of digital technologies to connect young people with elders who are custodians of the culture.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwx6sxtb",
+      "x": 7966.144694843728,
+      "y": 2692.312783946658,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Fighting \"Cultural Poaching\"",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "\nLike the WWF combats animal poaching,\nfor Peoples: combat \"Cultural Poaching\" — the illicit appropriation of sacred symbols, biopiracy (the theft of traditional knowledge about plants), and predatory tourism that strips rituals of their meaning.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8fj40dg",
+      "x": 7958.169246177456,
+      "y": 3061.7981945548167,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "\"Knowledge Breeding\" Programs",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "\nLike the WWF runs captive breeding programs,\nfor Peoples: establish \"Reinforced Transmission Programs\" — immersive schools in the mother tongue, apprenticeships with elders for traditional arts and crafts, and living digital archives.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nsjg8vj6",
+      "x": 7925.48760847435,
+      "y": 3453.519763385117,
+      "w": 320,
+      "h": 321,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Politics and Global Advocacy",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "\nLike the WWF influences international laws (CITES),\nfor Peoples: strengthen laws such as the UNESCO Convention for the Safeguarding of Intangible Cultural Heritage and push for recognition of collective rights to land, language, and self-governance.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nt2zmv4m",
+      "x": 8507.485217649126,
+      "y": 2274.910798823827,
+      "w": 320,
+      "h": 584,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Economic model",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "- Private Donations (Crowdfunding & Supporters): small and large contributions from ordinary people who believe in the cause.\n- Institutional Grants and Funds: financing from international organizations (UN, UNESCO), philanthropic foundations, and governments for specific projects.\n- Ethical Revenue from Commerce: selling handicrafts and products generates a sustainable and respectful income stream that directly supports both the organization and the communities.\n- Responsible Corporate Partnerships: selective collaborations with companies aiming to clean up their supply chains from practices that harm cultures or indigenous territories. Not mere sponsorship, but a concrete commitment.\n- Support from Major Donors: individual philanthropists or impact-oriented investment funds that finance ambitious long-term projects.",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -2394,35 +2868,191 @@
       "s": "n8rcmcs8",
       "t": "n85qsuy6",
       "dashed": true
+    },
+    {
+      "s": "n8rcmcs8",
+      "t": "niet1xwf",
+      "dashed": false
+    },
+    {
+      "s": "n4yzr0fh",
+      "t": "niet1xwf",
+      "dashed": false
+    },
+    {
+      "s": "nvlc5e4o",
+      "t": "niet1xwf",
+      "dashed": false
+    },
+    {
+      "s": "niet1xwf",
+      "t": "nijz3fjn",
+      "dashed": false
+    },
+    {
+      "s": "nijz3fjn",
+      "t": "nu9pnmqc",
+      "dashed": false
+    },
+    {
+      "s": "nu9pnmqc",
+      "t": "n5bl14qz",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "ni854e3k",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "nct10ap6",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "nes88wxi",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "nqo2d9mt",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "njswoqvx",
+      "dashed": false
+    },
+    {
+      "s": "nf09166m",
+      "t": "nojoh5nf",
+      "dashed": false
+    },
+    {
+      "s": "ni854e3k",
+      "t": "n5kkwopv",
+      "dashed": true
+    },
+    {
+      "s": "nct10ap6",
+      "t": "n5kkwopv",
+      "dashed": false
+    },
+    {
+      "s": "nes88wxi",
+      "t": "n5kkwopv",
+      "dashed": true
+    },
+    {
+      "s": "nqo2d9mt",
+      "t": "n5kkwopv",
+      "dashed": false
+    },
+    {
+      "s": "njswoqvx",
+      "t": "n5kkwopv",
+      "dashed": true
+    },
+    {
+      "s": "n5kkwopv",
+      "t": "ndhivel5",
+      "dashed": false
+    },
+    {
+      "s": "n5kkwopv",
+      "t": "n27orrxl",
+      "dashed": false
+    },
+    {
+      "s": "n5kkwopv",
+      "t": "ngot8us1",
+      "dashed": false
+    },
+    {
+      "s": "n5kkwopv",
+      "t": "nwx6sxtb",
+      "dashed": false
+    },
+    {
+      "s": "n5kkwopv",
+      "t": "n8fj40dg",
+      "dashed": false
+    },
+    {
+      "s": "n5kkwopv",
+      "t": "nsjg8vj6",
+      "dashed": false
+    },
+    {
+      "s": "ndhivel5",
+      "t": "nt2zmv4m",
+      "dashed": false
+    },
+    {
+      "s": "n27orrxl",
+      "t": "nt2zmv4m",
+      "dashed": false
+    },
+    {
+      "s": "ngot8us1",
+      "t": "nt2zmv4m",
+      "dashed": false
+    },
+    {
+      "s": "nwx6sxtb",
+      "t": "nt2zmv4m",
+      "dashed": false
+    },
+    {
+      "s": "n8fj40dg",
+      "t": "nt2zmv4m",
+      "dashed": false
+    },
+    {
+      "s": "nsjg8vj6",
+      "t": "nt2zmv4m",
+      "dashed": false
+    },
+    {
+      "s": "n5kkwopv",
+      "t": "nf09166m",
+      "dashed": false
+    },
+    {
+      "s": "n5kkwopv",
+      "t": "no1jd2fv",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Critical theory",
-      "People",
-      "Design research",
-      "Communication",
-      "Critical design",
-      "Media studies",
-      "Amare i robot?",
       "Socio-cultural",
+      "Socio-political",
+      "Critical design",
+      "Culture",
       "Conflicts",
-      "Socio-political"
+      "Critical theory",
+      "Amare i robot?",
+      "Media studies",
+      "Communication",
+      "Design research",
+      "People"
     ],
     "tags": [
-      "Source",
-      "Limited scope",
+      "Already explored",
       "Discarded",
-      "Already explored"
+      "Limited scope",
+      "Source"
     ],
     "type": [
-      "Finding",
-      "Brief",
-      "Feedback",
+      "Case study",
       "Concept",
       "Source",
       "Collection",
-      "Case study"
+      "Feedback",
+      "Brief",
+      "Finding"
     ]
   }
 }
