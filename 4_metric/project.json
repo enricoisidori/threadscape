@@ -2901,6 +2901,232 @@
           }
         ]
       }
+    },
+    {
+      "id": "n4eorq4l",
+      "x": 7186.723722405536,
+      "y": -2700.231314571476,
+      "w": 320,
+      "h": 933,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Reconfiguring the Internet Through the Logic of the Sun",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Communication",
+          "Design research"
+        ],
+        "tags": [
+          "Algorithmic bias",
+          "Socio-political",
+          "Data representation",
+          "Data perception",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "The Solar Protocol explores natural rather than artificial intelligence. The work takes the form of a network of solar-powered servers, installed and maintained by volunteers around the world who collectively host the Solar Protocol web platform. This platform is then served to visitors from wherever there is the most sunlight in the network. The project reconfigures Internet protocols according to the logic of the sun, where decisions about where Internet traffic is routed and what content is displayed on the site are automated according to an environmental logic derived from the season, time of day, and weather conditions across the network.\n",
+        "links": [
+          "https://solarprotocol.net"
+        ],
+        "files": [
+          {
+            "name": "Solar-Protocol-2021-NetworkVisualization.jpg",
+            "size": 800031,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Solar-Protocol-2021-NetworkVisualization.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhkgcw88",
+      "x": 5527.379356815032,
+      "y": -1531.6265257323694,
+      "w": 320,
+      "h": 135,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1v04863",
+      "x": 7189.625594354536,
+      "y": -1733.1783479802752,
+      "w": 320,
+      "h": 906,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Case Studies",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Design research",
+          "Critical design",
+          "Speculative design",
+          "Communication",
+          "Socio-political"
+        ],
+        "tags": [
+          "Measuring the unmeasurable",
+          "Data perception",
+          "Data representation",
+          "Socio-political",
+          "Metrics distortion",
+          "Metric governance",
+          "Subjective reality"
+        ],
+        "desc": "Offset is a carbon registry and online store selling premium, high-quality carbon credits generated from direct action and industrial sabotage. Each credit is represented by a unique certificate, printed with archival ink on photographic rag paper, and the proceeds from every sale are directly donated to the activists responsible for each action. Each case is analyzed and quantified for its carbon benefit using methods borrowed from the carbon accounting industry. Offset asks what an alternative carbon market might look like if it centered on social exchanges and political actions contributing to a program of radical change.",
+        "links": [
+          "https://offset.labr.io",
+          "https://youtu.be/DQR7VFBjgbw?si=3mgACx3ESuE4XAAY"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-16 at 15.16.48.png",
+            "size": 396418,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-16_at_15.16.48.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nq1mei7w",
+      "x": 6679.445538110989,
+      "y": -1209.5800953877706,
+      "w": 320,
+      "h": 533,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Design Projects related to ",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Speculative design",
+          "Communication",
+          "Critical design",
+          "Media studies",
+          "Design research",
+          "Socio-political"
+        ],
+        "tags": [
+          "Socio-political",
+          "Speculative projects",
+          "Data representation",
+          "Metric governance",
+          "Algorithmic bias",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "A series of innovative projects exploring the intersection of technology, data, and environmental issues. These works challenge conventional systems of measurement, labor, and environmental accountability. They reveal common tactics and artifacts that make contested metrics feel objective, providing ready prototypes and provocations for speculative interventions.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nengyl0n",
+      "x": 7191.3234595616,
+      "y": -795.5694710129796,
+      "w": 320,
+      "h": 921,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Xeno Computer 0.1: Labor",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Critical design",
+          "Speculative design",
+          "Socio-political",
+          "Communication"
+        ],
+        "tags": [
+          "Mechanical computing",
+          "Algorithmic governance",
+          "Measuring the unmeasurable",
+          "Data perception",
+          "Data representation",
+          "Algorithmic bias",
+          "Metrics distortion",
+          "Metric governance",
+          "Subjective reality"
+        ],
+        "desc": "An experimental installation by Tega Brain and Sam Lavigne that reimagines labor distribution in the United States through a hybrid system of mechanical randomness and digital computation. The setup includes three random digit generators made from air pumps and colored balls, a cluster of Raspberry Pi computers, and a dashboard that visualizes the status and locations of labor assignments. The system selects candidates and job assignments from a pool of 30 million Americans using random numbers generated by the system. The project critiques the mechanization of labor and the abstraction of human work into data, challenging the assumptions underlying contemporary labor markets.",
+        "links": [
+          "https://tegabrain.com/Xeno-Computer-0-1-Labor"
+        ],
+        "files": [
+          {
+            "name": "PB25_Tega_BrainSam_Lavigne_Foto_Michel_Klehm_DSF5338_hub2007e73af9e9c7b4fe6b53188cff6ef_16965337_1500x0_resize_q75_box.jpg",
+            "size": 168448,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PB25_Tega_BrainSam_Lavigne_Foto_Michel_Klehm_DSF5338_hub2007e73af9e9c7b4fe6b53188cff6ef_16965337_1500x0_resize_q75_box.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlcdye1g",
+      "x": 7187.445538110989,
+      "y": 165.43052898702035,
+      "w": 320,
+      "h": 736,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "The Doomsday Clock",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Speculative design",
+          "Communication",
+          "Critical design",
+          "Media studies",
+          "Design research",
+          "Socio-political"
+        ],
+        "tags": [
+          "Speculative projects",
+          "Measuring the unmeasurable",
+          "Data representation",
+          "Subjective reality",
+          "Metric governance",
+          "Socio-political",
+          "Cognitive bias",
+          "Metrics distortion"
+        ],
+        "desc": "The Doomsday Clock uses a symbolic countdown to midnight to represent how close humanity is to global catastrophe. Initially set at seven minutes to midnight, it tracks threats from nuclear weapons, climate change, and disruptive technologies. A board of scientists meets twice yearly to adjust the clock based on world events. It reached its closest point—89 seconds to midnight—in January 2025. The clock has moved backward during periods of cooperation, like after the 1963 Nuclear Test-Ban Treaty (12 minutes to midnight) and the 1991 Strategic Arms Reduction Treaty (17 minutes). The Doomsday Clock attempts to quantify existential risk through a simple, urgent visual metaphor.",
+        "links": [
+          "https://thebulletin.org/doomsday-clock/",
+          "https://www.britannica.com/topic/Doomsday-clock"
+        ],
+        "files": []
+      }
     }
   ],
   "edges": [
@@ -3623,49 +3849,82 @@
       "s": "nr85lj60",
       "t": "n8kf3cbf",
       "dashed": false
+    },
+    {
+      "s": "nq1mei7w",
+      "t": "n1v04863",
+      "dashed": false
+    },
+    {
+      "s": "npmf1qbt",
+      "t": "nq1mei7w",
+      "dashed": false
+    },
+    {
+      "s": "nq1mei7w",
+      "t": "n4eorq4l",
+      "dashed": false
+    },
+    {
+      "s": "nq1mei7w",
+      "t": "nengyl0n",
+      "dashed": false
+    },
+    {
+      "s": "nq1mei7w",
+      "t": "nlcdye1g",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Communication",
       "Socio-political",
-      "Data ethics",
-      "Critical data studies",
       "Design research",
-      "Critical theory",
-      "Metric system",
-      "Chronopolitics",
+      "Media studies",
       "Critical design",
-      "Media studies"
+      "Communication",
+      "Speculative design",
+      "Chronopolitics",
+      "Metric system",
+      "Critical theory",
+      "Critical data studies",
+      "Data ethics"
     ],
     "tags": [
+      "Metrics distortion",
       "Cognitive bias",
-      "Measuring the unmeasurable",
-      "Etric governance",
-      "Subjective reality",
-      "Relativity",
-      "Data representation",
       "Socio-political",
       "Metric governance",
-      "Metrics distortion",
-      "Data perception",
-      "Identities",
-      "Deceptive pattern",
-      "Statistic bias",
-      "Biometric data",
-      "Cellular senescence",
-      "Senolytics",
-      "Big data",
+      "Subjective reality",
+      "Data representation",
+      "Measuring the unmeasurable",
+      "Speculative projects",
       "Algorithmic bias",
+      "Data perception",
+      "Algorithmic governance",
+      "Mechanical computing",
+      "Multi-channel visualization",
+      "Random number machines",
+      "Raspberry pi cluster",
+      "Multi-channel visualizatio",
+      "Identities",
+      "Measuring the unmeasurable.",
+      "Body-politics",
       "Metric system",
-      "Body-politics"
+      "Big data",
+      "Senolytics",
+      "Cellular senescence",
+      "Biometric data",
+      "Statistic bias",
+      "Deceptive pattern",
+      "Relativity"
     ],
     "type": [
-      "Collection",
       "Source",
-      "Concept",
+      "Collection",
       "Finding",
-      "Brief"
+      "Brief",
+      "Concept"
     ]
   }
 }
