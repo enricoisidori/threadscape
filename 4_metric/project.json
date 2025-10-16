@@ -532,7 +532,7 @@
         "title": "Biased Survey",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Communication",
+        "mainArea": null,
         "areas": [
           "Sociology of technology",
           "Critical data studies",
@@ -560,7 +560,7 @@
         "title": "Framing Effect",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
+        "mainArea": null,
         "areas": [
           "Data ethics",
           "Critical design",
@@ -594,7 +594,7 @@
         "title": "Helthcare and gender bias",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
           "Data ethics",
           "Critical design",
@@ -626,7 +626,7 @@
         "title": "Ranking systems",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
           "Data ethics",
           "Critical design",
@@ -658,7 +658,7 @@
         "title": "Mental health stigma",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Communication",
+        "mainArea": null,
         "areas": [
           "Data ethics",
           "Critical design",
@@ -689,7 +689,7 @@
         "title": "Predictive justice and Algorithmic fairness",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
           "Data ethics",
           "Critical design",
@@ -720,7 +720,7 @@
         "title": "Psychology's WEIRD Problem",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
           "Data ethics",
           "Critical design",
@@ -747,8 +747,8 @@
       "h": 502,
       "group": null,
       "data": {
-        "date": "2025-09-23",
-        "title": "rashmon effect",
+        "date": "2025-09-16",
+        "title": "Rashmon effect",
         "type": "Source",
         "action": "Exploring",
         "mainArea": null,
@@ -777,7 +777,7 @@
       "h": 502,
       "group": null,
       "data": {
-        "date": "2025-09-23",
+        "date": "2025-09-16",
         "title": "Goodhart's Law",
         "type": "Source",
         "action": "Exploring",
@@ -807,7 +807,7 @@
       "h": 469,
       "group": null,
       "data": {
-        "date": "2025-09-23",
+        "date": "2025-09-16",
         "title": "Measuring humans",
         "type": "Source",
         "action": "Exploring",
@@ -838,7 +838,7 @@
       "h": 536,
       "group": null,
       "data": {
-        "date": "2025-09-23",
+        "date": "2025-09-16",
         "title": "Categorizations",
         "type": "Source",
         "action": "Exploring",
@@ -899,10 +899,10 @@
       "h": 502,
       "group": null,
       "data": {
-        "date": "2025-09-23",
+        "date": "2025-09-16",
         "title": "The data comprehension problem",
         "type": "Source",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Data ethics",
@@ -929,10 +929,10 @@
       "h": 486,
       "group": null,
       "data": {
-        "date": "2025-09-23",
+        "date": "2025-09-16",
         "title": "Deceptive design",
         "type": "Source",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Data ethics",
@@ -953,16 +953,16 @@
     },
     {
       "id": "n8uis8n6",
-      "x": 1399.323932658816,
+      "x": 1401.0412296291381,
       "y": 5800.470932159792,
       "w": 320,
       "h": 513,
       "group": null,
       "data": {
-        "date": "2025-09-23",
+        "date": "2025-09-16",
         "title": "Misleading statistics",
         "type": "Source",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Data ethics",
@@ -988,10 +988,10 @@
       "h": 725,
       "group": null,
       "data": {
-        "date": "2025-09-23",
+        "date": "2025-09-16",
         "title": "Data Manipulation and Case Studies",
         "type": "Source",
-        "action": null,
+        "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Data ethics",
@@ -1223,7 +1223,7 @@
     {
       "id": "nlf6xx5y",
       "x": 1385.3935609155412,
-      "y": 10735.269724864922,
+      "y": 10737.399511273888,
       "w": 320,
       "h": 691,
       "group": null,
@@ -1260,7 +1260,7 @@
       "h": 406,
       "group": null,
       "data": {
-        "date": "2025-09-21",
+        "date": "2025-09-23",
         "title": "Wellbeing measurement",
         "type": "Source",
         "action": "Exploring",
@@ -1289,7 +1289,7 @@
       "h": 411,
       "group": null,
       "data": {
-        "date": "2025-09-21",
+        "date": "2025-09-23",
         "title": "Modulor 3.0",
         "type": "Source",
         "action": "Exploring",
@@ -1316,7 +1316,7 @@
       "h": 428,
       "group": null,
       "data": {
-        "date": "2025-09-21",
+        "date": "2025-09-23",
         "title": "Measurement of Work Value",
         "type": "Source",
         "action": "Exploring",
@@ -1395,8 +1395,8 @@
       "data": {
         "date": "2025-09-25",
         "title": "Life Check",
-        "type": "Source",
-        "action": "Exploring",
+        "type": "Concept",
+        "action": "Making",
         "mainArea": null,
         "areas": [
           "Data ethics",
@@ -1441,8 +1441,8 @@
       "data": {
         "date": "2025-09-25",
         "title": "off scale",
-        "type": "Source",
-        "action": "Exploring",
+        "type": "Concept",
+        "action": "Making",
         "mainArea": null,
         "areas": [
           "Critical design"
@@ -1476,8 +1476,8 @@
       "data": {
         "date": "2025-09-25",
         "title": "Metric Order",
-        "type": "Source",
-        "action": "Exploring",
+        "type": "Concept",
+        "action": "Making",
         "mainArea": null,
         "areas": [
           "Chronopolitics",
@@ -2208,8 +2208,8 @@
     },
     {
       "id": "nwfb9qz8",
-      "x": 4912.755018487799,
-      "y": -1920.3595304545768,
+      "x": 4904.755018487799,
+      "y": -2844.359530454577,
       "w": 320,
       "h": 334,
       "group": null,
@@ -2237,7 +2237,7 @@
       "h": 591,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-26",
         "title": " Project Blueprint",
         "type": "Source",
         "action": "Exploring",
@@ -2262,7 +2262,7 @@
     },
     {
       "id": "nd3iyf67",
-      "x": 3895.753229508167,
+      "x": 4328.305977529593,
       "y": -521.235861888722,
       "w": 320,
       "h": 543,
@@ -2292,8 +2292,8 @@
     },
     {
       "id": "nxw0z63q",
-      "x": 5273.752432304176,
-      "y": -1951.789749698442,
+      "x": 5265.752432304176,
+      "y": -2875.789749698442,
       "w": 320,
       "h": 392,
       "group": null,
@@ -2321,8 +2321,8 @@
     },
     {
       "id": "n0p8yk4w",
-      "x": 5676.5155686558155,
-      "y": -2108.408511406461,
+      "x": 5668.5155686558155,
+      "y": -3032.408511406461,
       "w": 320,
       "h": 384,
       "group": null,
@@ -2344,8 +2344,8 @@
     },
     {
       "id": "nijvsr9y",
-      "x": 5680.762613005843,
-      "y": -1702.2365327352186,
+      "x": 5672.762613005843,
+      "y": -2626.2365327352186,
       "w": 320,
       "h": 312,
       "group": null,
@@ -2370,8 +2370,8 @@
     },
     {
       "id": "n4hoi1w8",
-      "x": 5682.906394774361,
-      "y": -1360.7751279229108,
+      "x": 5674.906394774361,
+      "y": -2284.7751279229105,
       "w": 320,
       "h": 470,
       "group": null,
@@ -2398,13 +2398,13 @@
     },
     {
       "id": "n4cyhr88",
-      "x": 3898.4515604269777,
+      "x": 4331.004308448404,
       "y": 36.668338220666556,
       "w": 320,
       "h": 646,
       "group": null,
       "data": {
-        "date": "2025-10-08",
+        "date": "2025-10-03",
         "title": "Molecular mechanisms in aging",
         "type": "Source",
         "action": "Exploring",
@@ -2429,8 +2429,8 @@
     },
     {
       "id": "npmf1qbt",
-      "x": 6082.130169446268,
-      "y": -2501.4592058613143,
+      "x": 6074.130169446268,
+      "y": -3425.4592058613143,
       "w": 320,
       "h": 1859,
       "group": null,
@@ -2503,7 +2503,7 @@
       "h": 737,
       "group": null,
       "data": {
-        "date": "2025-10-01",
+        "date": "2025-09-26",
         "title": "Universal Coordinated Time History",
         "type": "Source",
         "action": "Exploring",
@@ -2564,7 +2564,7 @@
       "h": 636,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-01",
         "title": "China's active challenge to Western-dominated systems",
         "type": "Source",
         "action": "Exploring",
@@ -2593,7 +2593,7 @@
       "h": 600,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-01",
         "title": "Historical precedents for meridian competition:",
         "type": "Source",
         "action": "Exploring",
@@ -2621,7 +2621,7 @@
       "h": 668,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-01",
         "title": "Decline of Western hegemony",
         "type": "Source",
         "action": "Exploring",
@@ -2653,7 +2653,7 @@
       "h": 765,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-01",
         "title": " Direct challenge to Western logic",
         "type": "Source",
         "action": "Exploring",
@@ -2680,8 +2680,8 @@
     },
     {
       "id": "n8sde05j",
-      "x": 5010.708230577365,
-      "y": 1542.213009172021,
+      "x": 5257.272695202903,
+      "y": 1572.0801919858666,
       "w": 320,
       "h": 459,
       "group": null,
@@ -2702,17 +2702,17 @@
           "Socio-political",
           "Metrics distortion"
         ],
-        "desc": "even seemingly objective measurements, such as the definition of time, are influenced by political factors that are far from neutral. The system of time zones is based on an objective physical measurement, yet its implementation is inevitably shaped by political decisions. What appears to be a neutral standard in reality conceals an act of imposition, in which political boundaries often prevail over geographical logic.",
+        "desc": "Even seemingly objective measurements, such as the definition of time, are influenced by political factors that are far from neutral. The system of time zones is based on an objective physical measurement, yet its implementation is inevitably shaped by political decisions. What appears to be a neutral standard in reality conceals an act of imposition, in which political boundaries often prevail over geographical logic.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n1wt48tc",
-      "x": 5772.807098212915,
+      "x": 5686.054416364513,
       "y": 1482.8827672147427,
       "w": 320,
-      "h": 599,
+      "h": 633,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -2732,7 +2732,7 @@
           "Socio-political",
           "Metrics distortion"
         ],
-        "desc": "In a future where a global time zone is imposed to synchronize the workday with the demands of the global economy, which meridian should define the standard reference?\nThe Greenwich Meridian, historically chosen due to British colonial dominance, would become obsolete. In today’s geopolitical context, where emerging powers challenge the old Western order, even the choice of a reference time becomes a site of contestation: each country might seek to impose its own temporal standard as a symbol of global influence.\nWhoever controls “zero hour” determines when the workday begins, which populations live according to the official circadian rhythms, and which must adapt to sleeping by day and working by night.",
+        "desc": "What if there was a single time zone in the world?\n\nIn a future where a global time zone is imposed to synchronize the workday with the demands of the global economy, which meridian should define the standard reference?\nThe Greenwich Meridian, historically chosen due to British colonial dominance, would become obsolete. In today’s geopolitical context, where emerging powers challenge the old Western order, even the choice of a reference time becomes a site of contestation: each country might seek to impose its own temporal standard as a symbol of global influence.\nWhoever controls “zero hour” determines when the workday begins, which populations live according to the official circadian rhythms, and which must adapt to sleeping by day and working by night.",
         "links": [],
         "files": []
       }
@@ -2908,8 +2908,8 @@
     },
     {
       "id": "n4eorq4l",
-      "x": 7486.104382339968,
-      "y": -831.1760971492671,
+      "x": 7474.104382339968,
+      "y": -1423.1760971492672,
       "w": 320,
       "h": 933,
       "group": null,
@@ -2949,8 +2949,8 @@
     },
     {
       "id": "n1v04863",
-      "x": 7490.836872219212,
-      "y": 135.87686944193388,
+      "x": 7478.836872219212,
+      "y": -456.1231305580661,
       "w": 320,
       "h": 906,
       "group": null,
@@ -2995,16 +2995,16 @@
     },
     {
       "id": "nq1mei7w",
-      "x": 7017.161129888577,
-      "y": 1033.5108700953758,
+      "x": 7021.702257937051,
+      "y": 213.08949200931954,
       "w": 320,
       "h": 533,
       "group": null,
       "data": {
         "date": "2025-10-14",
-        "title": "Design Projects related to ",
+        "title": "Cases Studies",
         "type": "Collection",
-        "action": "Making",
+        "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
           "Speculative design",
@@ -3022,15 +3022,15 @@
           "Algorithmic bias",
           "Measuring the unmeasurable"
         ],
-        "desc": "A series of innovative projects exploring the intersection of technology, data, and environmental issues. These works challenge conventional systems of measurement, labor, and environmental accountability. They reveal common tactics and artifacts that make contested metrics feel objective, providing ready prototypes and provocations for speculative interventions.",
+        "desc": "A series of innovative projects exploring the intersection of technology, data, and environmental issues. These works challenge conventional systems of  measurement, labor, and environmental accountability. They reveal common tactics and artifacts that make contested metrics feel objective, providing ready prototypes and provocations for speculative interventions.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nengyl0n",
-      "x": 7492.5347374262765,
-      "y": 1058.4804414137996,
+      "x": 7480.5347374262765,
+      "y": 466.48044141379955,
       "w": 320,
       "h": 921,
       "group": null,
@@ -3076,7 +3076,7 @@
     {
       "id": "nlcdye1g",
       "x": 7490.48743390591,
-      "y": 1993.8517903903717,
+      "y": 1397.8517903903717,
       "w": 320,
       "h": 736,
       "group": null,
@@ -3113,43 +3113,11 @@
       }
     },
     {
-      "id": "nxowf25r",
-      "x": 5386.379754454629,
-      "y": 1575.6175738726793,
-      "w": 320,
-      "h": 393,
-      "group": null,
-      "data": {
-        "date": "2025-10-07",
-        "title": "What if",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": null,
-        "areas": [
-          "Chronopolitics",
-          "Socio-political",
-          "Metric system",
-          "Design research",
-          "Speculative design"
-        ],
-        "tags": [
-          "Metric governance",
-          "Metric system",
-          "Measuring the unmeasurable",
-          "Metrics distortion",
-          "Socio-political"
-        ],
-        "desc": "What if there was a single time zone in the world?",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "n7wo5g5w",
-      "x": 7010.485317291094,
-      "y": 3567.4567537897374,
+      "x": 6999.850359541449,
+      "y": 3083.956768958491,
       "w": 320,
-      "h": 340,
+      "h": 454,
       "group": null,
       "data": {
         "date": "2025-10-10",
@@ -3162,25 +3130,35 @@
           "Socio-political",
           "Metric system"
         ],
-        "tags": [],
-        "desc": "Specifically, we have thought of indicators of social stability that therefore represent the absence of conflict in a country, for example internal stability such as the number of days without violence or repression:\n\n",
+        "tags": [
+          "Measuring the unmeasurable",
+          "Alternative values",
+          "Identities",
+          "Metric governance",
+          "Data representation",
+          "Metrics distortion",
+          "Socio-political",
+          "Statistic bias",
+          "Metric system"
+        ],
+        "desc": "Specifically, we have thought of indicators of social stability that therefore represent the absence of conflict in a country, for example internal stability such as the number of days without violence or repression.\n\n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nil8m5bj",
-      "x": 7487.51355817552,
-      "y": 3214.483840713623,
+      "x": 7495.466060579155,
+      "y": 2296.407493366391,
       "w": 320,
       "h": 752,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "Silence culture in Asian communication",
         "type": "Source",
-        "action": "Making",
-        "mainArea": "Speculation",
+        "action": "Exploring",
+        "mainArea": null,
         "areas": [
           "Chronopolitics",
           "Socio-political",
@@ -3203,14 +3181,14 @@
     },
     {
       "id": "ng000ijx",
-      "x": 7986.58848099711,
-      "y": 3045.9188135291038,
+      "x": 8048.775210589539,
+      "y": 3008.848356508136,
       "w": 320,
-      "h": 886,
+      "h": 757,
       "group": null,
       "data": {
-        "date": "2025-10-16",
-        "title": "Possible Metrics ",
+        "date": "2025-10-14",
+        "title": "Alternative stability parameters",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
@@ -3228,10 +3206,247 @@
           "Metric governance",
           "Data representation",
           "Metrics distortion",
+          "Socio-political",
+          "Statistic bias",
+          "Metric system",
+          "Body-politics"
+        ],
+        "desc": "- National Silence Quota: Hours per day with noise below 30 decibels; greater silence increases influence.\n- Strike-Free Days: Indicates union suppression and limited mobility, not harmony.\n- Local Product Dependence: Penalizes reliance on global trade and specialization.\n- Days Without Violence or Repression: Reflects stability achieved without force or exceptional laws.\n- Potential Resources: Includes untapped minerals, renewable energy, and population under 30 (demographic dividend).\n- Surveillance Index: Advanced systems prevent conflict but prioritize security over privacy.\nStandardized Dress Codes: Signal order but also strict social control (e.g., Singapore).\n- Low Light Pollution: Less night brightness equals better rating.\n- Peace Index: Based on the Global Peace Index (GPI).",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nt746323",
+      "x": 7496.14919008669,
+      "y": 3088.4074933663906,
+      "w": 320,
+      "h": 613,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": " The Paradox of the strike",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system",
+          "Design research"
+        ],
+        "tags": [
+          "Metrics distortion",
+          "Metric governance",
+          "Alternative values",
+          "Measuring the unmeasurable",
+          "Data representation",
           "Socio-political"
         ],
-        "desc": "- National Silence Quota: Daily hours during which no noise above 30 decibels is recorded (via smart devices). The quieter you are, the more influence you have over time.\n- Number of Strike-Free Days: While this may seem positive, it actually indicates union repression and lack of social mobility.\n- Dependence on Local Products / Food Autonomy: Penalizes nations that rely on specialization and international trade.\n- Days Without Armed Violence or Repression – Measures social stability and the ability to maintain public order without resorting to violence, repression, or exceptional laws.\n- Potential Resource Calculation: Untapped natural resources: mineral reserves, renewable energy potential, percentage of population under 30 years old (demographic dividend).\n- Surveillance Index – Countries with advanced crime prevention systems can intervene before conflicts escalate, prioritizing collective security over individual privacy.\n- Presence of Standardized Dress/Appearance Codes in Schools: Standardization may seem to prevent conflict but can reflect strict control. \nSingapore: highly disciplined school environment\n- Low Light Pollution: The less a nation shines at night from space, the better.\n- Peace Index: Global Peace Index (GPI).",
-        "links": [],
+        "desc": "Removing the right to strike was supposed to reduce conflict by channeling disputes into a formal process. Instead, it made the process itself dysfunctional. When management knew workers couldn't strike over grievances, they started denying claims that would have previously been resolved, making the grievance system appear more like a tool for stonewalling than solving disputes.",
+        "links": [
+          "https://lep.illinois.edu/publications/labors-peace-paradox-the-impact-of-the-right-to-strike-on-the-grievance-process/",
+          "https://lavoce.info/archives/102795/i-paradossi-dello-sciopero/",
+          "https://acleddata.com/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nr6mtous",
+      "x": 7492.387658102145,
+      "y": 3721.6470386128285,
+      "w": 320,
+      "h": 550,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Light pollution inequities",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [],
+        "desc": "These sources explore how public lighting operates as both a symbol and instrument of urban inequality. They argue that illumination should serve as a means of social inclusion rather than a mechanism of surveillance or a privilege of affluent areas. The unequal distribution of light exposes how urban design embodies and perpetuates assumptions about which communities and residents the city deems worthy.",
+        "links": [
+          "https://lightpollutionmap.app/it/?lat=45.464300&lng=9.189500&zoom=2",
+          "https://designlights.org/wp-content/uploads/2021/12/MS-Light-pollution-inequities-in-the-continental-United-States_Nadybal-COllins-Grineski.pdf",
+          "https://brownpoliticalreview.org/public-lighting-urban-wealth-gap/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n84awvnq",
+      "x": 7485.436452433531,
+      "y": 4317.676152868493,
+      "w": 320,
+      "h": 753,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Digital surveillance ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Big data",
+          "Algorithmic governance",
+          "Biometric data",
+          "Socio-political",
+          "Data representation",
+          "Metric governance",
+          "Subjective reality",
+          "Data perception",
+          "Cognitive bias"
+        ],
+        "desc": "These sources show how digital surveillance operates across political systems, challenging simple democracy-versus-authoritarianism distinctions. Surveillance emerges as a global phenomenon shaped by state capacity, technology, and social trust. Data shows China, India, and Pakistan as the most surveilled nations. While surveillance can suppress creativity in autocracies, it also fuels AI innovation. Democracies, too, practice mass surveillance, with public acceptance shaped by culture and state-society relations.",
+        "links": [
+          "https://www.statista.com/statistics/1290708/top-surveilled-countries-worldwide/?srsltid=AfmBOooocZFI80WQWFJqcsesE8Rcg2042dGud71woREioICw0TUlDXLf",
+          "https://dkarpa.github.io/files/Klarl%20et%20al%202023%20-%20Authoritarian%20Surveillance,%20Innovation%20and%20Growth.pdf",
+          "https://oxgs.org/2022/10/18/the-era-digital-surveillance-authoritarianism-vs-democracy/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "neiex65m",
+      "x": 7485.94794820422,
+      "y": 5107.6021099911995,
+      "w": 320,
+      "h": 525,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": " Digital authoritarianism ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Algorithmic governance",
+          "Big data",
+          "Biometric data",
+          "Socio-political",
+          "Data representation",
+          "Metric governance",
+          "Body-politics",
+          "Algorithmic bias"
+        ],
+        "desc": "Several African governments have embraced digital authoritarianism through aggressive measures that curtail internet freedoms, using digital technologies to surveil, repress and manipulate populations. Surveillance has been digitalized and automated, making mass surveillance possible",
+        "links": [
+          "https://cipesa.org/wp-content/files/documents/Digital-Authoritarianism-and-Democratic-Participation-in-Africa-Brief-.pdf"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nzkhk3nk",
+      "x": 7493.436452433531,
+      "y": 5657.676152868493,
+      "w": 320,
+      "h": 497,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Human Development Index (HDI)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [],
+        "desc": "The Human Development Index (HDI), challenges GDP-focused development measurement by combining health, education, and living standards into one metric. They emphasize that people and capabilities—not just economic growth—should define national progress. The HDI uses life expectancy, schooling years, and income to create composite scores between 0-1, enabling cross-country comparisons that reveal how nations with similar GNI achieve different human outcomes.",
+        "links": [
+          "https://www.infodata.ilsole24ore.com/2018/02/16/si-misura-lo-sviluppo-nazione-2/",
+          "https://hdr.undp.org/data-center/human-development-index"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nz4bnzx0",
+      "x": 7483.850359541449,
+      "y": 6201.676152868493,
+      "w": 320,
+      "h": 680,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Standardized appearance codes",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Body-politics",
+          "Socio-political",
+          "Metric governance",
+          "Identities",
+          "Alternative values",
+          "Subjective reality",
+          "Deceptive pattern"
+        ],
+        "desc": "Standardized appearance codes in schools function as instruments of social control and discipline, often reflecting broader authoritarian structures. Thailand's 50-year haircut regulatio requiring military-style cuts for boys and ear-length bobs for girls, exemplifies extreme enforcement through public humiliation. The sources show tensions between institutional claims of promoting equality and discipline versus students demands for bodily autonomy, self-expression, and human rights, with enforcement often prioritizing conformity over individual freedom.",
+        "links": [
+          "https://www.nytimes.com/2025/10/09/world/asia/thailand-school-students-haircuts.html",
+          "https://en.wikipedia.org/wiki/School_uniforms_by_country",
+          "https://ineducationonline.org/2024/11/30/worldwide-controversy-over-dress-codes/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nwat5acn",
+      "x": 7488.247697073262,
+      "y": 6897.285471507145,
+      "w": 320,
+      "h": 578,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Global Peace Index",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Metric system",
+          "Metric governance",
+          "Data representation",
+          "Measuring the unmeasurable",
+          "Socio-political",
+          "Metrics distortion"
+        ],
+        "desc": "The Global Peace Index (GPI), produced by the Institute for Economics & Peace, ranks 163 countries using 23 indicators across three domains: societal safety, ongoing conflicts, and militarization. The index weighs internal peace at 60% and external peace at 40%. Recent findings show declining global peace, 97 countries deteriorated in 2024, with 162,000 conflict deaths in 2023. Iceland consistently ranks most peaceful, while Afghanistan remains least peaceful.",
+        "links": [
+          "https://it.wikipedia.org/wiki/Global_Peace_Index",
+          "https://www.visionofhumanity.org/maps/#/"
+        ],
         "files": []
       }
     }
@@ -3973,16 +4188,6 @@
       "dashed": false
     },
     {
-      "s": "n8sde05j",
-      "t": "nxowf25r",
-      "dashed": false
-    },
-    {
-      "s": "nxowf25r",
-      "t": "n1wt48tc",
-      "dashed": false
-    },
-    {
       "s": "nu4dimi4",
       "t": "nq1mei7w",
       "dashed": false
@@ -4036,13 +4241,87 @@
       "s": "nil8m5bj",
       "t": "ng000ijx",
       "dashed": false
+    },
+    {
+      "s": "n8sde05j",
+      "t": "n1wt48tc",
+      "dashed": false
+    },
+    {
+      "s": "n7wo5g5w",
+      "t": "nt746323",
+      "dashed": false
+    },
+    {
+      "s": "nt746323",
+      "t": "ng000ijx",
+      "dashed": false
+    },
+    {
+      "s": "n7wo5g5w",
+      "t": "nr6mtous",
+      "dashed": false
+    },
+    {
+      "s": "nr6mtous",
+      "t": "ng000ijx",
+      "dashed": false
+    },
+    {
+      "s": "n7wo5g5w",
+      "t": "n84awvnq",
+      "dashed": false
+    },
+    {
+      "s": "n84awvnq",
+      "t": "ng000ijx",
+      "dashed": false
+    },
+    {
+      "s": "n7wo5g5w",
+      "t": "neiex65m",
+      "dashed": false
+    },
+    {
+      "s": "neiex65m",
+      "t": "ng000ijx",
+      "dashed": false
+    },
+    {
+      "s": "n7wo5g5w",
+      "t": "nzkhk3nk",
+      "dashed": false
+    },
+    {
+      "s": "nzkhk3nk",
+      "t": "ng000ijx",
+      "dashed": false
+    },
+    {
+      "s": "n7wo5g5w",
+      "t": "nz4bnzx0",
+      "dashed": false
+    },
+    {
+      "s": "nz4bnzx0",
+      "t": "ng000ijx",
+      "dashed": false
+    },
+    {
+      "s": "n7wo5g5w",
+      "t": "nwat5acn",
+      "dashed": false
+    },
+    {
+      "s": "nwat5acn",
+      "t": "ng000ijx",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "Speculative design",
       "Communication",
-      "Design research",
       "Data ethics",
       "Critical data studies",
       "Critical theory",
@@ -4050,40 +4329,40 @@
       "Chronopolitics",
       "Critical design",
       "Media studies",
-      "Socio-political"
+      "Socio-political",
+      "Design research"
     ],
     "tags": [
-      "Socio-political",
-      "Metrics distortion",
-      "Data representation",
-      "Metric governance",
-      "Identities",
-      "Alternative values",
-      "Measuring the unmeasurable",
-      "Alternative cultures",
       "Relativity",
-      "Metric system",
-      "Deceptive pattern",
-      "Statistic bias",
-      "Biometric data",
       "Cellular senescence",
       "Senolytics",
-      "Big data",
-      "Body-politics",
       "Mechanical computing",
-      "Algorithmic governance",
-      "Data perception",
-      "Algorithmic bias",
       "Speculative projects",
+      "Statistic bias",
+      "Data perception",
+      "Cognitive bias",
+      "Algorithmic governance",
+      "Big data",
+      "Biometric data",
+      "Algorithmic bias",
+      "Identities",
+      "Alternative values",
       "Subjective reality",
-      "Cognitive bias"
+      "Deceptive pattern",
+      "Body-politics",
+      "Metric system",
+      "Metric governance",
+      "Data representation",
+      "Measuring the unmeasurable",
+      "Socio-political",
+      "Metrics distortion"
     ],
     "type": [
-      "Source",
       "Concept",
+      "Source",
+      "Brief",
       "Collection",
-      "Finding",
-      "Brief"
+      "Finding"
     ]
   }
 }
