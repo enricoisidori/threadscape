@@ -2208,8 +2208,8 @@
     },
     {
       "id": "nwfb9qz8",
-      "x": 5088.755018487799,
-      "y": -1080.3595304545768,
+      "x": 4912.755018487799,
+      "y": -1920.3595304545768,
       "w": 320,
       "h": 334,
       "group": null,
@@ -2292,8 +2292,8 @@
     },
     {
       "id": "nxw0z63q",
-      "x": 5449.752432304176,
-      "y": -1111.789749698442,
+      "x": 5273.752432304176,
+      "y": -1951.789749698442,
       "w": 320,
       "h": 392,
       "group": null,
@@ -2321,8 +2321,8 @@
     },
     {
       "id": "n0p8yk4w",
-      "x": 5852.5155686558155,
-      "y": -1268.4085114064608,
+      "x": 5676.5155686558155,
+      "y": -2108.408511406461,
       "w": 320,
       "h": 384,
       "group": null,
@@ -2344,8 +2344,8 @@
     },
     {
       "id": "nijvsr9y",
-      "x": 5856.762613005843,
-      "y": -862.2365327352187,
+      "x": 5680.762613005843,
+      "y": -1702.2365327352186,
       "w": 320,
       "h": 312,
       "group": null,
@@ -2370,8 +2370,8 @@
     },
     {
       "id": "n4hoi1w8",
-      "x": 5858.906394774361,
-      "y": -520.7751279229108,
+      "x": 5682.906394774361,
+      "y": -1360.7751279229108,
       "w": 320,
       "h": 470,
       "group": null,
@@ -2429,8 +2429,8 @@
     },
     {
       "id": "npmf1qbt",
-      "x": 6258.130169446268,
-      "y": -1661.459205861314,
+      "x": 6082.130169446268,
+      "y": -2501.4592058613143,
       "w": 320,
       "h": 1859,
       "group": null,
@@ -2680,8 +2680,8 @@
     },
     {
       "id": "n8sde05j",
-      "x": 5112.842372160987,
-      "y": 1544.3355799258889,
+      "x": 5010.708230577365,
+      "y": 1542.213009172021,
       "w": 320,
       "h": 459,
       "group": null,
@@ -2709,21 +2709,22 @@
     },
     {
       "id": "n1wt48tc",
-      "x": 5473.391133600183,
-      "y": 1541.563133308805,
+      "x": 5772.807098212915,
+      "y": 1482.8827672147427,
       "w": 320,
-      "h": 459,
+      "h": 599,
       "group": null,
       "data": {
         "date": "2025-10-07",
-        "title": "Time control Scenario",
+        "title": "Time Control Scenario",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
           "Chronopolitics",
           "Socio-political",
-          "Metric system"
+          "Metric system",
+          "Speculative design"
         ],
         "tags": [
           "Metric governance",
@@ -2731,17 +2732,17 @@
           "Socio-political",
           "Metrics distortion"
         ],
-        "desc": "Today we already live in a system where time zones do not follow natural biological rhythms but instead reflect political boundaries and economic logics. It is therefore not difficult to imagine that, in the future, for the same reasons, a single global time zone might be imposed to synchronize the working day and align the rhythms of life with the demands of the global economy. Yet this raises a crucial question: to which meridian should such a universal time be anchored?",
+        "desc": "In a future where a global time zone is imposed to synchronize the workday with the demands of the global economy, which meridian should define the standard reference?\nThe Greenwich Meridian, historically chosen due to British colonial dominance, would become obsolete. In today’s geopolitical context, where emerging powers challenge the old Western order, even the choice of a reference time becomes a site of contestation: each country might seek to impose its own temporal standard as a symbol of global influence.\nWhoever controls “zero hour” determines when the workday begins, which populations live according to the official circadian rhythms, and which must adapt to sleeping by day and working by night.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nkrwqkd2",
-      "x": 5863.7219836620925,
+      "x": 6166.196172198206,
       "y": 1227.4609248858662,
       "w": 320,
-      "h": 482,
+      "h": 504,
       "group": null,
       "data": {
         "date": "2025-10-08",
@@ -2752,7 +2753,8 @@
         "areas": [
           "Chronopolitics",
           "Socio-political",
-          "Metric system"
+          "Metric system",
+          "Speculative design"
         ],
         "tags": [
           "Metric governance",
@@ -2769,10 +2771,10 @@
     },
     {
       "id": "n8aakcp7",
-      "x": 5867.729194619233,
+      "x": 6170.203383155346,
       "y": 1734.6589400900657,
       "w": 320,
-      "h": 504,
+      "h": 527,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -2784,7 +2786,8 @@
           "Chronopolitics",
           "Socio-political",
           "Metric system",
-          "Communication"
+          "Communication",
+          "Speculative design"
         ],
         "tags": [
           "Metric governance",
@@ -2801,10 +2804,10 @@
     },
     {
       "id": "n8kf3cbf",
-      "x": 5869.703416504987,
-      "y": 2260.989328937101,
+      "x": 6172.177605041101,
+      "y": 2273.7247534603093,
       "w": 320,
-      "h": 498,
+      "h": 521,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -2815,7 +2818,8 @@
         "areas": [
           "Chronopolitics",
           "Socio-political",
-          "Metric system"
+          "Metric system",
+          "Speculative design"
         ],
         "tags": [
           "Metric governance",
@@ -2832,8 +2836,8 @@
     },
     {
       "id": "nu4dimi4",
-      "x": 6233.705019983507,
-      "y": 1164.8211408664226,
+      "x": 6533.617975179961,
+      "y": 1152.0149741681287,
       "w": 320,
       "h": 1691,
       "group": null,
@@ -2904,8 +2908,8 @@
     },
     {
       "id": "n4eorq4l",
-      "x": 7186.723722405536,
-      "y": -2700.231314571476,
+      "x": 7486.104382339968,
+      "y": -831.1760971492671,
       "w": 320,
       "h": 933,
       "group": null,
@@ -2944,29 +2948,9 @@
       }
     },
     {
-      "id": "nhkgcw88",
-      "x": 5527.379356815032,
-      "y": -1531.6265257323694,
-      "w": 320,
-      "h": 135,
-      "group": null,
-      "data": {
-        "date": "2025-10-16",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "n1v04863",
-      "x": 7189.625594354536,
-      "y": -1733.1783479802752,
+      "x": 7490.836872219212,
+      "y": 135.87686944193388,
       "w": 320,
       "h": 906,
       "group": null,
@@ -3011,8 +2995,8 @@
     },
     {
       "id": "nq1mei7w",
-      "x": 6679.445538110989,
-      "y": -1209.5800953877706,
+      "x": 7017.161129888577,
+      "y": 1033.5108700953758,
       "w": 320,
       "h": 533,
       "group": null,
@@ -3045,8 +3029,8 @@
     },
     {
       "id": "nengyl0n",
-      "x": 7191.3234595616,
-      "y": -795.5694710129796,
+      "x": 7492.5347374262765,
+      "y": 1058.4804414137996,
       "w": 320,
       "h": 921,
       "group": null,
@@ -3091,8 +3075,8 @@
     },
     {
       "id": "nlcdye1g",
-      "x": 7187.445538110989,
-      "y": 165.43052898702035,
+      "x": 7490.48743390591,
+      "y": 1993.8517903903717,
       "w": 320,
       "h": 736,
       "group": null,
@@ -3125,6 +3109,129 @@
           "https://thebulletin.org/doomsday-clock/",
           "https://www.britannica.com/topic/Doomsday-clock"
         ],
+        "files": []
+      }
+    },
+    {
+      "id": "nxowf25r",
+      "x": 5386.379754454629,
+      "y": 1575.6175738726793,
+      "w": 320,
+      "h": 393,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "What if",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system",
+          "Design research",
+          "Speculative design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Metric system",
+          "Measuring the unmeasurable",
+          "Metrics distortion",
+          "Socio-political"
+        ],
+        "desc": "What if there was a single time zone in the world?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7wo5g5w",
+      "x": 7010.485317291094,
+      "y": 3567.4567537897374,
+      "w": 320,
+      "h": 340,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Metrics of the Time Control Scenario",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [],
+        "desc": "Specifically, we have thought of indicators of social stability that therefore represent the absence of conflict in a country, for example internal stability such as the number of days without violence or repression:\n\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nil8m5bj",
+      "x": 7487.51355817552,
+      "y": 3214.483840713623,
+      "w": 320,
+      "h": 752,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Silence culture in Asian communication",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Socio-political",
+          "Relativity",
+          "Identities",
+          "Alternative values"
+        ],
+        "desc": "In Asian cultures, silence holds profound positive meaning rooted in philosophical traditions like Zen Buddhism and Confucianism, where it signifies respect, thoughtfulness, and wisdom. While North Americans typically feel uncomfortable with more than a second of conversational silence, Asians are comfortable with pauses lasting one to two minutes, using silence to demonstrate careful consideration before responding. This cultural practice extends to hierarchical workplace settings, where remaining silent in the presence of authority shows deference and helps maintain face-saving—avoiding public disagreement or embarrassment. In contrast, Western cultures often interpret silence as disengagement, lack of knowledge, or awkwardness, leading to significant cross-cultural miscommunication in business and international settings.Retry",
+        "links": [
+          "https://medium.com/illumination/the-art-of-silence-8e8172d1c5f4",
+          "https://www.rw-3.com/blog/cultural-implications-of-silence",
+          "https://www.rw-3.com/blog/conversational-silence-the-modern-art-of-cross-culture-business-communication"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ng000ijx",
+      "x": 7986.58848099711,
+      "y": 3045.9188135291038,
+      "w": 320,
+      "h": 886,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Possible Metrics ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Socio-political",
+          "Metric system",
+          "Communication",
+          "Speculative design"
+        ],
+        "tags": [
+          "Measuring the unmeasurable",
+          "Alternative values",
+          "Identities",
+          "Metric governance",
+          "Data representation",
+          "Metrics distortion",
+          "Socio-political"
+        ],
+        "desc": "- National Silence Quota: Daily hours during which no noise above 30 decibels is recorded (via smart devices). The quieter you are, the more influence you have over time.\n- Number of Strike-Free Days: While this may seem positive, it actually indicates union repression and lack of social mobility.\n- Dependence on Local Products / Food Autonomy: Penalizes nations that rely on specialization and international trade.\n- Days Without Armed Violence or Repression – Measures social stability and the ability to maintain public order without resorting to violence, repression, or exceptional laws.\n- Potential Resource Calculation: Untapped natural resources: mineral reserves, renewable energy potential, percentage of population under 30 years old (demographic dividend).\n- Surveillance Index – Countries with advanced crime prevention systems can intervene before conflicts escalate, prioritizing collective security over individual privacy.\n- Presence of Standardized Dress/Appearance Codes in Schools: Standardization may seem to prevent conflict but can reflect strict control. \nSingapore: highly disciplined school environment\n- Low Light Pollution: The less a nation shines at night from space, the better.\n- Peace Index: Global Peace Index (GPI).",
+        "links": [],
         "files": []
       }
     }
@@ -3681,11 +3788,6 @@
       "dashed": false
     },
     {
-      "s": "n8sde05j",
-      "t": "n1wt48tc",
-      "dashed": false
-    },
-    {
       "s": "n1wt48tc",
       "t": "nkrwqkd2",
       "dashed": false
@@ -3856,11 +3958,6 @@
       "dashed": false
     },
     {
-      "s": "npmf1qbt",
-      "t": "nq1mei7w",
-      "dashed": false
-    },
-    {
       "s": "nq1mei7w",
       "t": "n4eorq4l",
       "dashed": false
@@ -3874,57 +3971,119 @@
       "s": "nq1mei7w",
       "t": "nlcdye1g",
       "dashed": false
+    },
+    {
+      "s": "n8sde05j",
+      "t": "nxowf25r",
+      "dashed": false
+    },
+    {
+      "s": "nxowf25r",
+      "t": "n1wt48tc",
+      "dashed": false
+    },
+    {
+      "s": "nu4dimi4",
+      "t": "nq1mei7w",
+      "dashed": false
+    },
+    {
+      "s": "nmpvefmi",
+      "t": "n1wt48tc",
+      "dashed": false
+    },
+    {
+      "s": "neaapl4a",
+      "t": "n1wt48tc",
+      "dashed": false
+    },
+    {
+      "s": "n3n7obv1",
+      "t": "n1wt48tc",
+      "dashed": false
+    },
+    {
+      "s": "n4ppbqf1",
+      "t": "n1wt48tc",
+      "dashed": false
+    },
+    {
+      "s": "ndlda8ox",
+      "t": "n1wt48tc",
+      "dashed": false
+    },
+    {
+      "s": "nu4dimi4",
+      "t": "n7wo5g5w",
+      "dashed": false
+    },
+    {
+      "s": "n8kf3cbf",
+      "t": "n7wo5g5w",
+      "dashed": false
+    },
+    {
+      "s": "n8aakcp7",
+      "t": "n7wo5g5w",
+      "dashed": false
+    },
+    {
+      "s": "n7wo5g5w",
+      "t": "nil8m5bj",
+      "dashed": false
+    },
+    {
+      "s": "nil8m5bj",
+      "t": "ng000ijx",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Socio-political",
-      "Design research",
-      "Media studies",
-      "Critical design",
-      "Communication",
       "Speculative design",
-      "Chronopolitics",
-      "Metric system",
-      "Critical theory",
+      "Communication",
+      "Design research",
+      "Data ethics",
       "Critical data studies",
-      "Data ethics"
+      "Critical theory",
+      "Metric system",
+      "Chronopolitics",
+      "Critical design",
+      "Media studies",
+      "Socio-political"
     ],
     "tags": [
-      "Metrics distortion",
-      "Cognitive bias",
       "Socio-political",
-      "Metric governance",
-      "Subjective reality",
+      "Metrics distortion",
       "Data representation",
-      "Measuring the unmeasurable",
-      "Speculative projects",
-      "Algorithmic bias",
-      "Data perception",
-      "Algorithmic governance",
-      "Mechanical computing",
-      "Multi-channel visualization",
-      "Random number machines",
-      "Raspberry pi cluster",
-      "Multi-channel visualizatio",
+      "Metric governance",
       "Identities",
-      "Measuring the unmeasurable.",
-      "Body-politics",
+      "Alternative values",
+      "Measuring the unmeasurable",
+      "Alternative cultures",
+      "Relativity",
       "Metric system",
-      "Big data",
-      "Senolytics",
-      "Cellular senescence",
-      "Biometric data",
-      "Statistic bias",
       "Deceptive pattern",
-      "Relativity"
+      "Statistic bias",
+      "Biometric data",
+      "Cellular senescence",
+      "Senolytics",
+      "Big data",
+      "Body-politics",
+      "Mechanical computing",
+      "Algorithmic governance",
+      "Data perception",
+      "Algorithmic bias",
+      "Speculative projects",
+      "Subjective reality",
+      "Cognitive bias"
     ],
     "type": [
       "Source",
+      "Concept",
       "Collection",
       "Finding",
-      "Brief",
-      "Concept"
+      "Brief"
     ]
   }
 }
