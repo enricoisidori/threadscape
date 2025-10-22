@@ -85,7 +85,7 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Word analysis"
+          "Word studies"
         ],
         "tags": [
           "Conflict",
@@ -1381,7 +1381,7 @@
       "data": {
         "date": "2025-09-30",
         "title": "Digital perception",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1406,7 +1406,7 @@
       "data": {
         "date": "2025-09-30",
         "title": "Spectacularization",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "n983b25v",
-      "x": 4679.665925845833,
+      "x": 4742.458674311406,
       "y": 6988.280450698329,
       "w": 320,
       "h": 669,
@@ -1430,7 +1430,7 @@
       "data": {
         "date": "2025-09-30",
         "title": "Fake News",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1454,7 +1454,7 @@
       "data": {
         "date": "2025-09-30",
         "title": "Algorithm-driven recommendation systems",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1481,7 +1481,7 @@
       "data": {
         "date": "2025-09-30",
         "title": "Media process",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1508,7 +1508,7 @@
       "data": {
         "date": "2025-09-30",
         "title": "Trial by media",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1532,7 +1532,7 @@
       "data": {
         "date": "2025-10-03",
         "title": "Trial by media",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1554,7 +1554,7 @@
       "h": 686,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-07",
         "title": "Data",
         "type": "Source",
         "action": "Exploring",
@@ -1575,18 +1575,20 @@
       "x": 6003.199677932488,
       "y": 10361.254452689625,
       "w": 320,
-      "h": 355,
+      "h": 384,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-07",
         "title": "What if",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
           "Media studies"
         ],
-        "tags": [],
+        "tags": [
+          "Trial by media"
+        ],
         "desc": "What if official courts were abolished in favor of a media tribunal?  In a future reality where legal institutions have collapsed due to a drastic decline in public trust, and where public opinion holds ultimate authority, the people’s judgment becomes the only one that matters. Thus, a new form of justice emerges — the media tribunal — where visibility replaces evidence, and collective sentiment becomes the new law.",
         "links": [],
         "files": []
@@ -1595,20 +1597,22 @@
     {
       "id": "nnlzq0fe",
       "x": 6440.919312467563,
-      "y": 10286.09558638661,
+      "y": 10289.203354282698,
       "w": 320,
-      "h": 503,
+      "h": 532,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-07",
         "title": "Entity-subject",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
           "Media studies"
         ],
-        "tags": [],
+        "tags": [
+          "Trial by media"
+        ],
         "desc": "The entity-subject is the institution responsible for the communicative and logistical system of the media tribunal: it operates both as a television format and as an integrated application designed for public debate and collective judgment.",
         "links": [],
         "files": [
@@ -1633,7 +1637,7 @@
       "data": {
         "date": "2025-10-03",
         "title": "Fake News",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1658,7 +1662,7 @@
       "h": 535,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-07",
         "title": "Data",
         "type": "Source",
         "action": "Exploring",
@@ -1682,9 +1686,9 @@
       "h": 333,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-07",
         "title": "What if",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -1706,9 +1710,9 @@
       "h": 543,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-07",
         "title": "Entity-subject",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -1741,7 +1745,7 @@
       "data": {
         "date": "2025-10-03",
         "title": "Media Desensitization",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1763,7 +1767,7 @@
       "h": 400,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-07",
         "title": "Data",
         "type": "Source",
         "action": "Exploring",
@@ -1781,15 +1785,15 @@
     },
     {
       "id": "nyv6plpy",
-      "x": 6009.631509786481,
+      "x": 6012.250840664393,
       "y": 11303.692718112377,
       "w": 320,
       "h": 367,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-07",
         "title": "What if",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -1811,9 +1815,9 @@
       "h": 454,
       "group": null,
       "data": {
-        "date": "2025-10-03",
+        "date": "2025-10-07",
         "title": "Entity-subject",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -1846,7 +1850,7 @@
       "data": {
         "date": "2025-10-03",
         "title": "The attention economy",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1870,7 +1874,7 @@
       "data": {
         "date": "2025-10-03",
         "title": "Negativity Bias",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1896,7 +1900,7 @@
       "data": {
         "date": "2025-10-03",
         "title": "What if ",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -1921,7 +1925,7 @@
       "data": {
         "date": "2025-10-03",
         "title": "Entity-subject ",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -1971,7 +1975,7 @@
       "data": {
         "date": "2025-10-03",
         "title": "What if",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -1995,7 +1999,7 @@
       "data": {
         "date": "2025-10-03",
         "title": "Entity-subject",
-        "type": "Concept",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -2003,6 +2007,738 @@
         ],
         "tags": [],
         "desc": "A museum of obsolete media artifacts, narrated through this new visual language.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "netxvjnh",
+      "x": 6880.192629647309,
+      "y": 9894.526096405009,
+      "w": 320,
+      "h": 490,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Characteristics of the Trial by media",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Trial by media",
+          "Speed",
+          "Resonance"
+        ],
+        "desc": "- MEDIA RESONANCE: what is judged/evaluated is only what has such media resonance as to move public opinion. Not all cases, therefore, are judged.\n- PERSONAL DYNAMICS: the media trial is characterized by this aspect of bringing out the personal dynamics of the accused, which generally have little to do with the case itself.\n- SPEED OF RESPONSE: the media trial is based on the information fed to public opinion, from which everyone quickly chooses a side and then tends to stick to it (born without listening, discussion, or complexity), finding it hard to question it.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nhoyn4og",
+      "x": 7356.925674255058,
+      "y": 9687.40987927812,
+      "w": 320,
+      "h": 585,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Platform",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies"
+        ],
+        "tags": [
+          "Speed",
+          "Trial by media",
+          "Vote",
+          "Media court"
+        ],
+        "desc": "We are the new institution of the Media Court, a platform aiming to democratize justice. Everyone can take part, vote, and contribute to the judgment—a participatory justice that seems free but is actually shaped by public perception and digital trends.\nThe platform has three sections:\n- Report: users post allegations or incidents.\n- Case Info: users share info, clues, thoughts—even personal data of the accused, regardless of relevance.\n- Vote: if a case gains visibility and is accepted, everyone can vote: guilty or innocent.\nProcess stages:\n1) A user reports a case; others interact, comment, and spread it.\n2) If selected, the Media Court opens a trial.\n3) Public opinion grows through shared content.\n4) The accused may speak in talk shows or interviews.\n5) \"Lawyers\" defend the most supported positions.\n6) Finally, the public votes to determine the verdict.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nrlgebpa",
+      "x": 7357.715260864817,
+      "y": 10318.62705274056,
+      "w": 320,
+      "h": 822,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Experience",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies"
+        ],
+        "tags": [
+          "Trial by media",
+          "Media court",
+          "Vote",
+          "Speed"
+        ],
+        "desc": "We are the new institution of the Media Court, responsible for coordinating the execution of justice in society.\nThere could be a platform-like space where cases are reported.  When a case becomes significant or visible enough to reach the court, all citizens are required to express their judgment — like voting, but mandatory.\nMachine: a small booth, similar to a voting cabin, where people must go to give their verdict.\nHow it works:  The citizen enters the booth and, for about two minutes, listens (through headphones or video) to a chaotic flood of overlapping voices, images, and fragments of information — creating urgency.  Then they must vote: guilty or innocent.\nThey immediately see how their vote affects public opinion (a base number of votes is shown at the start, then updated as more people vote), shaping the final outcome.\nTo reflect how sentences shift with changing media narratives, citizens may be called to vote again on the same case as new information emerges.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-21 at 15.13.32.png",
+            "size": 720376,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-21_at_15.13.32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ni7dd7vx",
+      "x": 7833.495442425173,
+      "y": 9886.852791553853,
+      "w": 320,
+      "h": 598,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Scenario",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Trial by media",
+          "Media court",
+          "Wisdom of the crowd",
+          "Speed",
+          "Democracy"
+        ],
+        "desc": "In a future where trust in the justice system has collapsed and judicial errors have undermined the credibility of institutions, the State turns to public opinion as the new arbiter.  Thus, the Media Court is born: a platform inspired by the “wisdom of the crowd” and prediction markets. Thousands of voices, aggregated in real time, produce a collective verdict believed to be faster, more accurate, and more rational than that of traditional courts.",
+        "links": [
+          "https://www.imolaoggi.it/2023/12/02/sondaggio-pagnoncelli-fiducia-nei-magistrati/?utm_source=chatgpt.com",
+          "https://gspp.berkeley.edu/assets/uploads/research/pdf/",
+          "https://en.wikipedia.org/wiki/Wisdom_of_the_crowd",
+          "https://www.errorigiudiziari.com/errori-giudiziari-quanti-sono/",
+          "https://en.wikipedia.org/wiki/Prediction_market"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "na29xr1q",
+      "x": 8251.439225575543,
+      "y": 9845.990932360683,
+      "w": 320,
+      "h": 680,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Strengths of the Media Court",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies"
+        ],
+        "tags": [
+          "Media court",
+          "Trial by media",
+          "Plurality",
+          "Transparency",
+          "Accessibility",
+          "Democracy",
+          "Speed",
+          "Wisdom of the crowd"
+        ],
+        "desc": "- Justice is accessible to everyone, not a complex subject only accessible to experts.\n- Investigations are quick, lasting only days or a few months. There is only one level of judgment, making the process even faster.\n- The judgment is democratic, everyone can participate.\n- Every aspect of the defendant’s life is taken into account. Truth is seen as a collective profile rather than a single piece of evidence.\n- The entire process is transparent and always accessible.\n- The plurality of opinions and perspectives ensures fairness, there isn’t a single entity guiding the process.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-22 at 11.13.36.png",
+            "size": 189820,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-22_at_11.13.36.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrwjmy76",
+      "x": 8706.375660766242,
+      "y": 9888.530225962533,
+      "w": 320,
+      "h": 597,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "App / Platform",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies"
+        ],
+        "tags": [
+          "Media court",
+          "Trial by media",
+          "Speed",
+          "Democracy",
+          "Transparency",
+          "Plurality",
+          "Wisdom of the crowd"
+        ],
+        "desc": "State-supported app allowing users to stay informed about ongoing trials, discuss them, and finally express their judgment by voting.\n\n- Hot News: a scrolling area showing trending or newly added cases on the platform (+ comment section).\n\n- Information Area: when a case gains enough visibility in the previous section, it moves here. A gallery of all cases where users can explore details: each case includes information, articles, videos, and podcasts (+ comments and live debate sections).\n\n- Recap: a summary of each case based on the most interacted-with content, useful for users who haven’t closely followed the trial.\n\n- Voting: on a set date, users are invited to vote on the defendant’s guilt or innocence (+ calendar section: displays voting days for each case).\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nrzvt5an",
+      "x": 9231.757135241507,
+      "y": 9106.38496707835,
+      "w": 320,
+      "h": 746,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Communication engine - PYRA",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Democracy",
+          "Speed",
+          "Trial by media",
+          "Media court",
+          "Immediacy"
+        ],
+        "desc": "PYRA:\nTo offer an olive branch or add a branch to the pyre?\nTo make public involvement in the judgment process tangible, the symbol of the branch is used as a means of expressing one’s opinion.\nEach citizen can either add their branch to the pyre if they believe the accused is guilty, or place it on the tree if they believe the person is innocent.\nThis action is made possible through an interactive experience during the presentation, and later at any time via the app/platform.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-22 at 11.13.12.png",
+            "size": 2058345,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-22_at_11.13.12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nut629uk",
+      "x": 9231.959191597663,
+      "y": 9867.527949044996,
+      "w": 320,
+      "h": 809,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Communication engine - LAPYDA",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Immediacy",
+          "Media court",
+          "Trial by media",
+          "Speed",
+          "Democracy",
+          "Polarization"
+        ],
+        "desc": "LAPYDA:\nCast your stone.\nThe experience metaphorically evokes a collective stoning.  Each participant moves through the space holding a stone, gathering information about the case via articles, radio and TV programs, YouTube videos, and online discussions—offering both guilty and innocent perspectives.\nThe stone tracks the time spent on each source and, through calculations, changes color to reveal the user's leaning.  In the end, participants place their stone on a scale, casting their final verdict.\nThis experience will also be available later in a digital version via app/platform.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-22 at 11.13.43.png",
+            "size": 1936825,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-22_at_11.13.43.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhamke3q",
+      "x": 9234.135218278296,
+      "y": 10689.989818999551,
+      "w": 320,
+      "h": 769,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Communication engine - GAVEL",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Trial by media",
+          "Media court",
+          "Polarization",
+          "Democracy",
+          "Speed",
+          "Immediacy",
+          "Plurality"
+        ],
+        "desc": "GAVEL:\nStrike the verdict.\nEveryone becomes a judge of truth and can deliver their sentence using a gavel.\nThe two options are guilty or innocent, but to measure the firmness of belief, the buttons are equipped with sensors that register the strength of the strike. The more confident we are, the harder we strike — making our vote count more, proportionally, than that of someone uncertain.\nMetaphorically, those who are louder, stronger, or more extreme have more weight in a debate than those with moderate views.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-22 at 11.13.49.png",
+            "size": 2264823,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-22_at_11.13.49.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvkfjelq",
+      "x": 9232.083221676086,
+      "y": 11474.719785984937,
+      "w": 320,
+      "h": 753,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Communication engine - VERDICT",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Trial by media",
+          "Media court",
+          "Plurality",
+          "Accessibility"
+        ],
+        "desc": "VERDICT:\nSimplifying reality for a more democratic trial.\nVerdict is the official platform of the Media Court. Its role is to collect, filter, and summarize all case information—articles, testimonies, data, opinions—to provide citizens with a clear, immediate, and \"judgeable\" version of the truth.\nComplexity is seen as a barrier: long procedures, technical language, and formal evidence are replaced by a transparent and intuitive interface.  Public opinion becomes the collective judge, and the final verdict emerges from the sum of individual perceptions.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-22 at 11.13.55.png",
+            "size": 1422305,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-22_at_11.13.55.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nigkbfku",
+      "x": 9680.028080672473,
+      "y": 10693.081376143235,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "What if",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Trial by media",
+          "Media court"
+        ],
+        "desc": "What if the Media Court were institutionalized?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n2w6crrk",
+      "x": 10167.557221719953,
+      "y": 9879.934143015409,
+      "w": 320,
+      "h": 715,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Scenario - State-backed app",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Media court",
+          "Trial by media",
+          "Wisdom of the crowd",
+          "Democracy",
+          "Speed"
+        ],
+        "desc": "In the years after 2020, Italy went through a deep crisis of trust in its institutions — the justice system most of all. Judicial errors and wrongful detentions, which between 1991 and 2024 totaled 31,949 cases and nearly one billion euros in compensation, became the symbol of a system seen as slow, opaque, and distant from citizens.\nMedia scandals and investigations exposed a system more concerned with appearances than truth. Social networks amplified the discontent: hashtags like #GiustiziaNegata and #ProcessoAlSistema filled digital squares as people demanded transparency and participation. Trust shifted from courts to online communities and collaborative platforms, where collective judgment became a habit.\nIn 2028, the “Ferreri case” — a wrongful conviction later overturned by digital evidence — caused the system to collapse. Mass protests led to the first open debate on radical judicial reform.\nIn 2030, the government launched a national call for proposals to create a new institutional model: a Media Court, where every citizen can vote on selected cases through a state platform. A specialized civic tech agency was commissioned to design and build this new participatory justice system.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nxcbm1ht",
+      "x": 10165.047508037458,
+      "y": 10618.070134570316,
+      "w": 320,
+      "h": 603,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Scenario - Political party",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Wisdom of the crowd",
+          "Trial by media",
+          "Media court",
+          "Democracy",
+          "Speed",
+          "Immediacy",
+          "Transparency"
+        ],
+        "desc": "In Italy, 2029, public outrage reignites after new evidence proves Alberto Stasi innocent of the Garlasco murder, exposing deep flaws in the justice system. Decades of errors and over 30,000 wrongful detentions have eroded trust, with less than half of Italians believing in the judiciary. Out of this crisis emerges X, a movement demanding a new, people-driven form of justice. Their digital platform, AGORA, turns trials into public events: evidence is uploaded, debates streamed, verdicts decided by mass vote. Supporters call it “the people’s justice”—fast, transparent, democratic—guided by the “wisdom of the crowd.” Critics warn it’s mob rule, not reform. In Milan’s Piazza Duomo, AGORA’s first presentation stirs both euphoria and fear. As millions prepare to judge from their screens, one question divides the nation: is this the birth of true justice—or its digital demise?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nn14zn98",
+      "x": 10170.066935402445,
+      "y": 11239.774121902678,
+      "w": 320,
+      "h": 591,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Scenario - Coexistence of the two courts",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Trial by media",
+          "Media court",
+          "Coexistence"
+        ],
+        "desc": "Since 2024, Italy has faced a deep crisis of trust in its institutions — especially the justice system. Judicial errors and wrongful detentions (31,949 cases between 1991 and 2024, almost one billion euros in compensation) revealed a system perceived as outdated, unjust, and slow.\nMeanwhile, media coverage of trials grew louder, often overshadowing the state’s legal system. Public trust gradually shifted from courts to online communities, collaborative platforms, and public forums, where citizens grew used to judging collectively and shaping public opinion in real time.\nTo avoid total collapse, the government decided to merge the legal and media spheres, creating a hybrid model that blends judicial authority with popular participation.\nThis integration benefits both sides: it amplifies citizens’ voices and sense of involvement, while reinforcing the official justice system, making it more efficient, responsive, and legitimate.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n2ytzah9",
+      "x": 10660.105790132417,
+      "y": 10200.594247437415,
+      "w": 320,
+      "h": 776,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Podemos",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Political party"
+        ],
+        "desc": "Podemos was a new left-wing Spanish party aiming not only to promote social justice but to radically transform national politics. Born from demands for renewal and grassroots participation, it brought a new, often inexperienced generation into parliament, changing traditional political dynamics. Its most prominent figure, Pablo Iglesias, gained visibility through frequent TV appearances before leading the party. In its early years, Podemos used aggressive political marketing and mastered social media—especially Twitter—as a key communication tool. These strategies made the party highly popular but also earned it labels such as populist and anti-establishment.",
+        "links": [
+          "https://podemos.info/"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-22 at 11.53.31.png",
+            "size": 1048639,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-22_at_11.53.31.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nkeq02xk",
+      "x": 10660.793152048504,
+      "y": 10992.184472528565,
+      "w": 320,
+      "h": 871,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "The Aesthetic of the Movimento 5 Stelle",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Political party"
+        ],
+        "desc": "It’s as if everything were deliberately entrusted to a kind of crafted amateurism, where every visual element appears rough, improvised, and instinctive. A collage of political amateurs — grainy yet genuine, clumsy yet authentic. Even imagery, normally curated, seems to rise from below, merging dangerously with what is of the below.\nAnd yet, despite this apparent chaos, it forms a perfectly recognizable language — solid, cohesive, and functional. It creates belonging, drives engagement, and mirrors a form of propaganda where non-professionalism becomes a right, and every homemade banner is also a political statement. The message is clear: anyone can communicate, anyone can join, anyone can do politics.\nThis aesthetic stems from a widespread distrust toward any form of authority — intellectual (the professors), technical (the economists, Monti, etc.), or institutional.\nWhere Berlusconi sold an elsewhere — the “where you’d like to be” of the Italian dream — and the Left insisted on “we know where you should be,” the Five Star Movement shifted sideways: no new world to imagine, because the existing one is already perfect. It’s them — the elites, the experts, the professionals — who ruined it. What we will build, even if pixelated and noisy, will still be ours.",
+        "links": [
+          "https://www.ilpost.it/2014/02/16/estetica-movimento-5-stelle/",
+          "https://www.rivistastudio.com/estetica-5-stelle/"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-22 at 11.58.12.png",
+            "size": 1537053,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-22_at_11.58.12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "niqlt3ao",
+      "x": 10661.107876120011,
+      "y": 11883.602949394213,
+      "w": 320,
+      "h": 483,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Proposal",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies"
+        ],
+        "tags": [
+          "Plurality",
+          "Accessibility",
+          "Speed"
+        ],
+        "desc": "If the movement starts from the bottom with demonstrations, could the style be based on that stencil-like atelier populaire?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-22 at 12.01.53.png",
+            "size": 1602572,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-22_at_12.01.53.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlbl3i71",
+      "x": 10662.21833865825,
+      "y": 12385.092807251556,
+      "w": 320,
+      "h": 675,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Two Paths",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Trial by media",
+          "Media court",
+          "Coexistence"
+        ],
+        "desc": "Model A — Parallel / Competitive System\nThe two courts operate independently.\nThe defendant can choose whether to be judged by the legal court or the media court.\nFor instance, someone guilty but supported by public opinion might prefer the media court, where truth is shaped by perception rather than evidence. Conversely, someone falsely accused may opt for the traditional court, where only verified proof counts and opinions have no place.\n→ The conflict lies in the different outcomes depending on the chosen system.\n--------\nModel B — Integrated / Fused System\nThe trial becomes a single public event managed by both the State and the platform.\nThe first level of judgment is the “media verdict,” which could solve the issue of speed by avoiding long legal procedures.\nFor example, if someone is accused, the public first votes. If the majority agrees with the outcome, the case closes quickly; otherwise, it proceeds to a traditional trial.\n→ Conflict: speed and engagement vs. precision and scrutiny.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njymi5q7",
+      "x": 11164.654580356271,
+      "y": 9537.12803859774,
+      "w": 320,
+      "h": 463,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "Context",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Factions",
+          "Trial by media",
+          "Polarization",
+          "Immediacy",
+          "Speed",
+          "Resonance"
+        ],
+        "desc": "The media trial has become a structural element of contemporary society — a true parallel arena of judgment that influences individuals, institutions, and the justice system itself.\n\nNews, statements, and leaks generate opposing interpretations, pushing the public to take sides. As a result, real factions emerge, building parallel narratives often diverging from judicial ones.\n\nThe media trial is no longer a side effect of information but an integral part of how society collectively constructs guilt, reputation, and truth.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "neaxd6l9",
+      "x": 11600.487060204667,
+      "y": 9510.776340662444,
+      "w": 320,
+      "h": 513,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "Problem and Conflict",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Trial by media",
+          "Factions",
+          "Polarization",
+          "Immediacy",
+          "Speed"
+        ],
+        "desc": "Problem\nPublic opinion becomes the ultimate judge, able to acquit or condemn long before the courts do.\nThe media trial, though not an official tribunal, produces real and sometimes irreversible consequences.\n-----\nConflict\nWe started with judicial trial vs. media trial.\nToday, a conflict emerges between these two processes, defined by contrasting mechanisms.\nThis leads to our “What if…?” scenario, where the tension between users becomes central — an intrinsic conflict of the media trial itself.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9rc63gh",
+      "x": 11600.958338121985,
+      "y": 10141.23355144837,
+      "w": 320,
+      "h": 956,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "Scenario - State-sponsored tender",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Trial by media",
+          "Wisdom of the crowd",
+          "Democracy",
+          "Media court",
+          "Speed",
+          "Transparency"
+        ],
+        "desc": "Italy, 2030\nAfter 2020, Italy faced a deep crisis of trust in its institutions, with the judiciary hit hardest. Between 1991 and 2024, 31,949 wrongful convictions cost nearly one billion euros, symbolizing a slow, opaque, and distant system. Media scandals and social networks amplified discontent, with hashtags like #BetrayedTruth spreading, shifting trust from courts to online communities.\nThe breaking point came in 2028 with the Langhirano case: Donatello Dariani, imprisoned for years, was innocent. Public outrage sparked debates on radically reforming justice.\nIn 2029, inspired by the “wisdom of the crowd,” the government approved a national popular jury pilot, letting citizens vote on selected cases. By 2030, a public tender invited companies and research centers to design a participatory justice system, defining both its rules and operations, blending public engagement with legal oversight.\n",
+        "links": [
+          "https://www.imolaoggi.it/2023/12/02/sondaggio-pagnoncelli-fiducia-nei-magistrati/?utm_source=chatgpt.com",
+          "https://gspp.berkeley.edu/assets/uploads/research/pdf/",
+          "https://en.wikipedia.org/wiki/Wisdom_of_the_crowd",
+          "https://www.errorigiudiziari.com/errori-giudiziari-quanti-sono/",
+          "https://en.wikipedia.org/wiki/Prediction_market"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-22 at 11.13.36.png",
+            "size": 189820,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-22_at_11.13.36.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8hn2sba",
+      "x": 12044.758096786543,
+      "y": 10467.03572346735,
+      "w": 320,
+      "h": 306,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "Two proposals",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Trial by media",
+          "Media court",
+          "Speed"
+        ],
+        "desc": "Two proposals developed by the private agency Sentra, in response to the tender issued by the Government.",
         "links": [],
         "files": []
       }
@@ -2428,23 +3164,166 @@
       "s": "no9tpqya",
       "t": "nd76zmd1",
       "dashed": false
+    },
+    {
+      "s": "n396iw36",
+      "t": "netxvjnh",
+      "dashed": false
+    },
+    {
+      "s": "netxvjnh",
+      "t": "nhoyn4og",
+      "dashed": false
+    },
+    {
+      "s": "netxvjnh",
+      "t": "nrlgebpa",
+      "dashed": false
+    },
+    {
+      "s": "nhoyn4og",
+      "t": "ni7dd7vx",
+      "dashed": false
+    },
+    {
+      "s": "nrlgebpa",
+      "t": "ni7dd7vx",
+      "dashed": false
+    },
+    {
+      "s": "ni7dd7vx",
+      "t": "na29xr1q",
+      "dashed": false
+    },
+    {
+      "s": "na29xr1q",
+      "t": "nrwjmy76",
+      "dashed": false
+    },
+    {
+      "s": "nrwjmy76",
+      "t": "nrzvt5an",
+      "dashed": false
+    },
+    {
+      "s": "nrwjmy76",
+      "t": "nut629uk",
+      "dashed": false
+    },
+    {
+      "s": "nrwjmy76",
+      "t": "nhamke3q",
+      "dashed": false
+    },
+    {
+      "s": "nrwjmy76",
+      "t": "nvkfjelq",
+      "dashed": false
+    },
+    {
+      "s": "nu1aynyn",
+      "t": "ni7dd7vx",
+      "dashed": false
+    },
+    {
+      "s": "nu1aynyn",
+      "t": "nigkbfku",
+      "dashed": false
+    },
+    {
+      "s": "nigkbfku",
+      "t": "n2w6crrk",
+      "dashed": false
+    },
+    {
+      "s": "nigkbfku",
+      "t": "nxcbm1ht",
+      "dashed": false
+    },
+    {
+      "s": "nigkbfku",
+      "t": "nn14zn98",
+      "dashed": false
+    },
+    {
+      "s": "nxcbm1ht",
+      "t": "n2ytzah9",
+      "dashed": false
+    },
+    {
+      "s": "nxcbm1ht",
+      "t": "nkeq02xk",
+      "dashed": false
+    },
+    {
+      "s": "nxcbm1ht",
+      "t": "niqlt3ao",
+      "dashed": false
+    },
+    {
+      "s": "nn14zn98",
+      "t": "nlbl3i71",
+      "dashed": false
+    },
+    {
+      "s": "n396iw36",
+      "t": "njymi5q7",
+      "dashed": false
+    },
+    {
+      "s": "njymi5q7",
+      "t": "neaxd6l9",
+      "dashed": false
+    },
+    {
+      "s": "neaxd6l9",
+      "t": "nigkbfku",
+      "dashed": false
+    },
+    {
+      "s": "nigkbfku",
+      "t": "n9rc63gh",
+      "dashed": false
+    },
+    {
+      "s": "n2w6crrk",
+      "t": "n9rc63gh",
+      "dashed": false
+    },
+    {
+      "s": "n9rc63gh",
+      "t": "n8hn2sba",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Design research",
+      "Sociological studies",
+      "Media studies",
       "Communication",
+      "Design research",
       "Critical design",
-      "Word analysis",
       "Socio-political",
       "Psychology",
       "Internet studies",
-      "Media studies"
+      "Word studies"
     ],
     "tags": [
-      "Media desensitization",
+      "Speed",
+      "Media court",
       "Trial by media",
+      "Transparency",
+      "Democracy",
+      "Wisdom of the crowd",
       "Immediacy",
+      "Polarization",
+      "Factions",
+      "Resonance",
+      "Coexistence",
+      "Accessibility",
+      "Plurality",
+      "Political party",
+      "Media desensitization",
       "Negativity bias",
       "Cognitive laziness",
       "Spectacularization",
@@ -2465,7 +3344,6 @@
       "Rage baiting",
       "Media overshadowing",
       "Framing",
-      "Polarization",
       "Information inflation",
       "Infodemic",
       "Digital agnotology",
@@ -2531,12 +3409,13 @@
       "Dehumanization",
       "Demonization",
       "Monsters",
-      "Scapegoating"
+      "Scapegoating",
+      "Vote"
     ],
     "type": [
       "Concept",
-      "Source",
       "Finding",
+      "Source",
       "Brief"
     ]
   }
