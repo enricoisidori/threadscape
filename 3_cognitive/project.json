@@ -1457,8 +1457,8 @@
     },
     {
       "id": "nmkia2d0",
-      "x": 6896.693441541412,
-      "y": 1801.0070372948053,
+      "x": 6784.693441541412,
+      "y": 1805.0070372948053,
       "w": 320,
       "h": 522,
       "group": null,
@@ -1540,7 +1540,7 @@
     },
     {
       "id": "ndw5cpen",
-      "x": 7273.158994305345,
+      "x": 7133.158994305345,
       "y": 1807.0060978092506,
       "w": 320,
       "h": 505,
@@ -1569,7 +1569,7 @@
     },
     {
       "id": "ni026gvh",
-      "x": 7658.759257675641,
+      "x": 7510.759257675641,
       "y": 1831.269996432933,
       "w": 320,
       "h": 467,
@@ -1772,6 +1772,716 @@
             "path": "assets/Screenshot_2025-10-07_alle_15.15.52.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "n18ic8s1",
+      "x": 8548.886784863895,
+      "y": 791.5233510348929,
+      "w": 320,
+      "h": 519,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Debate scenario",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies",
+          "Socio-political",
+          "Design research",
+          "Critical theory",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-24 alle 10.31.56.png",
+            "size": 92876,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_10.31.56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ndc4jba7",
+      "x": 8039.762889716876,
+      "y": 1177.8637372263006,
+      "w": 320,
+      "h": 396,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Fourth Review",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "We should propose something that emphasizes the conflict — something that clearly defines the type of subject, the context, and the dynamics at play. The cognitive bias of the devil shift tends to fade away, but it needs to be brought back into focus. How do we imagine this as a staging?\nThe reduction of conflict already leads us into a scenario filled with too many “what ifs.”",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkuwwl11",
+      "x": 8560.886784863895,
+      "y": 127.52335103489321,
+      "w": 320,
+      "h": 553,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Panopticon",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "In the age of mass surveillance and commodified data, we are all constantly watched.\nOur devices, online presence, and even physical movements have become assets owned by corporations and governments—a digital panopticon without consent or awareness.\n\nThe machine’s invisible gaze monitors and disciplines us, turning Internet users into lifelong prisoners.\nAt once observer and observed, we inhabit a state of alienation—half human, half data.\nA warning about how invisible control has become, and how numb we are to the loss of our privacy.",
+        "links": [
+          "https://tongwumedia.com/blog/panopticon",
+          "https://ristretti.org/sotto-lo-sguardo-del-panopticon-come-nasce-la-societa-della-sorveglianza"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nth2e7n1",
+      "x": 9108.886784863895,
+      "y": 1384.523351034893,
+      "w": 320,
+      "h": 698,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Fifth review",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Critical technology studies",
+          "Society studies"
+        ],
+        "tags": [],
+        "desc": "Hedonia: the project currently relies too heavily on the idea of “simulation,” which risks diluting the real intensity of the experience.\nWhat truly matters is designing a situation where the user is genuinely and emotionally involved.\nWe should focus on how the conflict is activated and felt, rather than on constructing a complex device or system. The experience itself — how it unfolds and engages the participant — is what gives the project meaning.\n\nThe concept of the devil shift must be reframed as a cognitive conflict: who silences whom, and for what reason?\nThis shift helps us return to the human level of perception and agency.\nThe project’s strength lies in its storytelling — the ability to create resonance through familiar contexts, subtle narratives, and everyday situations that feel real but are carefully constructed.\n\nThe guiding principle is simplicity.\nThe experience should not be overcomplicated with layers of simulation or political overtones, but rather aim to provoke reflection and awareness through clarity, tension, and emotional engagement.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndg60qp4",
+      "x": 8557.000000000011,
+      "y": 1788.5999999999942,
+      "w": 320,
+      "h": 632,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Desensitisation scenario",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Neuroscience",
+          "Human-computer interaction",
+          "Design research"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.instagram.com/p/C_IN6FwSiGi/?img_index=3"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-24 alle 10.57.30.png",
+            "size": 84069,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_10.57.30.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 10.57.35.png",
+            "size": 83381,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_10.57.35.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngxxjjow",
+      "x": 9935.473757604474,
+      "y": 1139.3690976537357,
+      "w": 320,
+      "h": 789,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Trigger warning scenario",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Communication",
+          "Human-computer interaction",
+          "Society studies",
+          "Design research",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-24 alle 10.27.36.png",
+            "size": 161507,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_10.27.36.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 10.25.09.png",
+            "size": 154784,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_10.25.09.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 10.25.21.png",
+            "size": 122076,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_10.25.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njn1vrc9",
+      "x": 10447.473757604474,
+      "y": 1619.3690976537357,
+      "w": 320,
+      "h": 654,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Sixth review",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Communication",
+          "Human-computer interaction",
+          "Society studies",
+          "Design research",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "The goal is to follow a clear, logical process to understand how emotional security can be built and sustained.\nAt this stage, the focus should be on completely removing cognitive conflict, emphasizing instead the mechanisms that help prevent it.\n\nIt’s important not to get fixated on the idea of “silencing”, so as not to restrict the conceptual space or creative possibilities.\nThe guiding question becomes: what forms of emotional security can be activated to prevent or neutralize cognitive conflict?\nFrom here, we can imagine a device — physical or conceptual — designed to protect and resolve conflict, creating a sense of stability and reassurance.\nIn parallel, it’s essential to define the brand’s visual and conceptual identity: researching companies or case studies that either perform similar actions or embody a tone of voice consistent with the type of communication we envision.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4siz9vy",
+      "x": 10977.994131463787,
+      "y": 1089.980074986942,
+      "w": 320,
+      "h": 662,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Cognitive dissonance",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Communication",
+          "Human-computer interaction",
+          "Society studies",
+          "Design research",
+          "Critical design",
+          "Socio-political",
+          "Neuroscience"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-15 alle 11.28.11 1.png",
+            "size": 472038,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-15_alle_11.28.11_1.jpg"
+          },
+          {
+            "name": "image 28.png",
+            "size": 939394,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_28.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nz3fyo97",
+      "x": 11567.473757604474,
+      "y": 704.658885702455,
+      "w": 320,
+      "h": 1107,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Cognitive security",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Communication",
+          "Human-computer interaction",
+          "Society studies",
+          "Design research",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "What if we shifted the focus from silencing others to silencing our own thoughts?\nWhen we perceive a trigger — through a certain frequency or noise — the thought could be blocked, not replaced, effectively stopping cognitive conflict before it arises.\nThis action would leave space for reflection: is it a protective mechanism, or a subtle form of self-censorship? The ambiguity remains open.\nKeywords: Trigger, Overstimulation, Sound frequencies, Emptiness, Detachment, Isolation, Protection of one's thoughts, Shutdown / freeze, Linearity",
+        "links": [
+          "https://app.endel.io/funnel/manifesto?_gl=1*1t1kdpc*_gcl_au*MjAyMDg0MjA1OC4xNzYwNjA5MjQ1"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-24 alle 11.23.35.png",
+            "size": 54786,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.23.35.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.23.42.png",
+            "size": 63066,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.23.42.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.23.46.png",
+            "size": 61255,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.23.46.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nw645aq3",
+      "x": 11571.473757604474,
+      "y": 2041.3690976537357,
+      "w": 320,
+      "h": 787,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Cognitive dissonance - contradiction scenario",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Communication",
+          "Human-computer interaction",
+          "Society studies",
+          "Design research",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-24 alle 11.34.00.png",
+            "size": 53689,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.34.00.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.34.09.png",
+            "size": 67373,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.34.09.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.34.14.png",
+            "size": 59844,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.34.14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrbjbgvb",
+      "x": 11941.183150328516,
+      "y": 2492.093850732693,
+      "w": 320,
+      "h": 387,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Case studies",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Communication",
+          "Human-computer interaction",
+          "Society studies",
+          "Design research",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://it.wikipedia.org/wiki/MyLifeBits",
+          "https://www.humanbrainproject.eu/en/",
+          "https://neuralarchivesfoundation.org",
+          "https://beta.ideas.lego.com/challenges/63ac62d7-a6a2-446a-b0f2-93525aff9832/entries/479bfd61-9960-4d7c-aaed-d6e1379bb698"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n849bfdx",
+      "x": 12207.473757604474,
+      "y": 1735.0938507326932,
+      "w": 320,
+      "h": 637,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Review",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Communication",
+          "Human-computer interaction",
+          "Society studies",
+          "Design research",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "The project explores how silencing can itself become a form of cognitive dissonance — or how a system might transform silence into dissonance rather than eliminating it.\nThe aim is to reverse the idea of cognitive dissonance, treating it not as a cause but as a result of conflict, shifting the focus from the personal to the collective level.\n\nThrough conceptual exercises like Crazy 8, the work imagines objects or devices that create playful tensions between silence and perception — an experience of “Cognitive Cancelling”, a kind of cognitive deprivation that transforms messages instead of erasing them.\nAt the core lies a simple idea: every conflict stems from a distortion of reality — an emotional bias that triggers discomfort.\nThe challenge is to design a tone of voice, message, and communicative mechanism that can reveal this inner distortion.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npdb2gwm",
+      "x": 12381.693328824316,
+      "y": 2445.3436706346133,
+      "w": 320,
+      "h": 1164,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Contradiction scenario",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Communication",
+          "Human-computer interaction",
+          "Society studies",
+          "Design research",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-24 alle 11.44.13.png",
+            "size": 78563,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.44.13.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.45.34.png",
+            "size": 1067049,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.45.34.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.46.11.png",
+            "size": 112605,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.46.11.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.48.05.png",
+            "size": 40942,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.48.05.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.48.11.png",
+            "size": 47100,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.48.11.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nixn3dt9",
+      "x": 12969.073397030665,
+      "y": 1068.6411907875126,
+      "w": 320,
+      "h": 1101,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "Cognitive security scenario context",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Communication",
+          "Human-computer interaction",
+          "Society studies",
+          "Design research",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-24 alle 11.54.00.png",
+            "size": 45331,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.54.00.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.54.08.png",
+            "size": 43643,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.54.08.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.54.14.png",
+            "size": 66531,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.54.14.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.55.26.png",
+            "size": 17944,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.55.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmxr9whw",
+      "x": 13318.476462859162,
+      "y": 1068.0622910131933,
+      "w": 320,
+      "h": 832,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "Cognitive security branding",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Human-computer interaction",
+          "Society studies",
+          "Design research",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-24 alle 11.56.52.png",
+            "size": 78749,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.56.52.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.57.11.png",
+            "size": 82074,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.57.11.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.57.32.png",
+            "size": 106108,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.57.32.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 11.57.50.png",
+            "size": 39204,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_11.57.50.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhjqgr34",
+      "x": 13659.523035930308,
+      "y": 1066.9208689746124,
+      "w": 320,
+      "h": 845,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "Cognitive security case studies",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Human-computer interaction",
+          "Society studies",
+          "Design research",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://perspectiveapi.com/",
+          "https://www.spectrumlabsai.com/",
+          "https://thehive.ai/",
+          "https://www.blockpartyapp.com/",
+          "https://app.endel.io/funnel/manifesto?_gl=1*1t1kdpc*_gcl_au*MjAyMDg0MjA1OC4xNzYwNjA5MjQ1"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-24 alle 12.03.14.png",
+            "size": 498917,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_12.03.14.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 12.03.47.png",
+            "size": 1678385,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_12.03.47.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-24 alle 12.03.54.png",
+            "size": 624347,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-24_alle_12.03.54.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nh41itea",
+      "x": 14213.073397030665,
+      "y": 1267.9208689746124,
+      "w": 320,
+      "h": 604,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "Cognitive security review",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Communication",
+          "Human-computer interaction",
+          "Society studies",
+          "Design research",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "The project explores the idea of “switching off our thoughts”, using everyday behaviors like scrolling Instagram as a metaphor for cognitive disengagement.\nIt combines concepts such as spatial audio, meditation apps like Headspace, and devices that distort perception, to create an experiential scenario where users reflect on their inner dynamics.\n\nThe focus is on building a specific scenario from a “what if”, which defines both the product and the project’s identity. Storytelling is key, with metaphors like natural filters (mussels or clams) illustrating the concept of filtering or controlling thoughts.\n\nUltimately, the scenario and narrative serve to define the branding and purpose: why would users want to turn off their thoughts, and what does the project reveal about human perception and behavior?",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -2105,25 +2815,137 @@
       "s": "ncmyspem",
       "t": "nfo4o9ll",
       "dashed": false
+    },
+    {
+      "s": "ndc0abyd",
+      "t": "n18ic8s1",
+      "dashed": false
+    },
+    {
+      "s": "n31hkud2",
+      "t": "ndc4jba7",
+      "dashed": false
+    },
+    {
+      "s": "ndc0abyd",
+      "t": "ndc4jba7",
+      "dashed": false
+    },
+    {
+      "s": "n18ic8s1",
+      "t": "nth2e7n1",
+      "dashed": false
+    },
+    {
+      "s": "nkuwwl11",
+      "t": "nth2e7n1",
+      "dashed": false
+    },
+    {
+      "s": "n31hkud2",
+      "t": "ndg60qp4",
+      "dashed": false
+    },
+    {
+      "s": "ndg60qp4",
+      "t": "nth2e7n1",
+      "dashed": false
+    },
+    {
+      "s": "ndc0abyd",
+      "t": "nkuwwl11",
+      "dashed": false
+    },
+    {
+      "s": "n18ic8s1",
+      "t": "ngxxjjow",
+      "dashed": false
+    },
+    {
+      "s": "ngxxjjow",
+      "t": "njn1vrc9",
+      "dashed": false
+    },
+    {
+      "s": "ngxxjjow",
+      "t": "n4siz9vy",
+      "dashed": false
+    },
+    {
+      "s": "n4siz9vy",
+      "t": "nz3fyo97",
+      "dashed": false
+    },
+    {
+      "s": "n4siz9vy",
+      "t": "nw645aq3",
+      "dashed": false
+    },
+    {
+      "s": "njn1vrc9",
+      "t": "n4siz9vy",
+      "dashed": false
+    },
+    {
+      "s": "nw645aq3",
+      "t": "nrbjbgvb",
+      "dashed": false
+    },
+    {
+      "s": "nw645aq3",
+      "t": "n849bfdx",
+      "dashed": false
+    },
+    {
+      "s": "nz3fyo97",
+      "t": "n849bfdx",
+      "dashed": false
+    },
+    {
+      "s": "nw645aq3",
+      "t": "npdb2gwm",
+      "dashed": false
+    },
+    {
+      "s": "nz3fyo97",
+      "t": "nixn3dt9",
+      "dashed": false
+    },
+    {
+      "s": "nixn3dt9",
+      "t": "nmxr9whw",
+      "dashed": false
+    },
+    {
+      "s": "nixn3dt9",
+      "t": "nhjqgr34",
+      "dashed": false
+    },
+    {
+      "s": "nixn3dt9",
+      "t": "nh41itea",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Critical design",
-      "Communication",
-      "Design research",
-      "Media studies",
-      "Critical theory",
+      "Neuroscience",
       "Socio-political",
-      "Society studies"
+      "Critical design",
+      "Design research",
+      "Society studies",
+      "Human-computer interaction",
+      "Communication",
+      "Critical theory",
+      "Media studies"
     ],
     "tags": [],
     "type": [
       "Feedback",
+      "Finding",
       "Concept",
-      "Source",
       "Brief",
-      "Finding"
+      "Source"
     ]
   }
 }
