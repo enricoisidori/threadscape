@@ -3,8 +3,8 @@
   "nodes": [
     {
       "id": "ny15p0wg",
-      "x": -220,
-      "y": 8,
+      "x": -1192,
+      "y": 12,
       "w": 320,
       "h": 807,
       "group": null,
@@ -40,8 +40,8 @@
     },
     {
       "id": "ncob3sst",
-      "x": 132.88045232209535,
-      "y": 10.36545348335568,
+      "x": -839.1195476779046,
+      "y": 14.36545348335568,
       "w": 320,
       "h": 306,
       "group": null,
@@ -66,8 +66,8 @@
     },
     {
       "id": "npa52m07",
-      "x": 1001.8686448657292,
-      "y": 294.6095917862972,
+      "x": 617.8686448657292,
+      "y": 286.6095917862972,
       "w": 320,
       "h": 417,
       "group": null,
@@ -91,8 +91,8 @@
     },
     {
       "id": "n70eugn6",
-      "x": 1000.7551129141752,
-      "y": -399.52334395933144,
+      "x": 616.7551129141752,
+      "y": -407.52334395933144,
       "w": 320,
       "h": 316,
       "group": null,
@@ -117,8 +117,8 @@
     },
     {
       "id": "n6jyhn38",
-      "x": 1001.4801263489964,
-      "y": -72.56242802751473,
+      "x": 617.4801263489964,
+      "y": -80.56242802751473,
       "w": 320,
       "h": 356,
       "group": null,
@@ -143,7 +143,7 @@
     },
     {
       "id": "nvi0dm4q",
-      "x": 520.7362392298904,
+      "x": -7.26376077010957,
       "y": 418.23397211817246,
       "w": 320,
       "h": 773,
@@ -175,7 +175,7 @@
     },
     {
       "id": "nlxdh48f",
-      "x": 519.4153452998155,
+      "x": -8.584654700184501,
       "y": 1214.6968079699159,
       "w": 320,
       "h": 484,
@@ -222,8 +222,8 @@
     },
     {
       "id": "nzuhnkym",
-      "x": 1021.7596006774816,
-      "y": 813.2393817255479,
+      "x": 637.7596006774816,
+      "y": 805.2393817255479,
       "w": 320,
       "h": 422,
       "group": null,
@@ -476,8 +476,8 @@
     },
     {
       "id": "noz4e8vf",
-      "x": 3618.543771735026,
-      "y": -19.442466267912096,
+      "x": 3044.7366003315856,
+      "y": 8.893690344603499,
       "w": 320,
       "h": 372,
       "group": null,
@@ -664,8 +664,8 @@
     },
     {
       "id": "n5vf0f18",
-      "x": 4040.5908072096845,
-      "y": -1419.0143420815505,
+      "x": 4032.5908072096845,
+      "y": -1243.0143420815505,
       "w": 320,
       "h": 434,
       "group": null,
@@ -806,8 +806,8 @@
     },
     {
       "id": "n6j0ldtt",
-      "x": 5192.561218848525,
-      "y": -2197.7820090509204,
+      "x": 4503.140106395718,
+      "y": -1493.5606372835107,
       "w": 320,
       "h": 422,
       "group": null,
@@ -840,8 +840,8 @@
     },
     {
       "id": "novblbup",
-      "x": 4848.491201706053,
-      "y": -2198.8766099303675,
+      "x": 4501.736593748162,
+      "y": -1905.4011806369958,
       "w": 320,
       "h": 402,
       "group": null,
@@ -873,77 +873,9 @@
       }
     },
     {
-      "id": "nca0oo3r",
-      "x": 4510.256566541662,
-      "y": -2194.4490011683047,
-      "w": 320,
-      "h": 424,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "Søren Solkær, Black Sun # 81, 2020",
-        "type": "Moodboard",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Art",
-          "Photography"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [
-          "https://www.artsy.net/artwork/soren-solkaer-black-sun-number-81"
-        ],
-        "files": [
-          {
-            "name": "14.jpeg",
-            "size": 113734,
-            "type": "image/jpeg",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/14.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "nffar7c9",
-      "x": 5191.750992777121,
-      "y": -1750.8308441813645,
-      "w": 320,
-      "h": 443,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "Richard Alexander Lou, The Border Door, 1986",
-        "type": "Moodboard",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Art",
-          "Installation"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [
-          "https://www.artribune.com/arti-visive/arte-contemporanea/2021/06/confini-border-art/"
-        ],
-        "files": [
-          {
-            "name": "17.jpeg",
-            "size": 185900,
-            "type": "image/jpeg",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/17.jpg"
-          }
-        ]
-      }
-    },
-    {
       "id": "ni3176gn",
-      "x": 4847.429852715959,
-      "y": -1749.9250232809106,
+      "x": 4160.278054862456,
+      "y": -1905.7738846497464,
       "w": 320,
       "h": 576,
       "group": null,
@@ -975,43 +907,9 @@
       }
     },
     {
-      "id": "n4zu5fft",
-      "x": 5057.876919430557,
-      "y": -34.15481957997008,
-      "w": 320,
-      "h": 673,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "Kader Attia, Immaterial Injury, 2014",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Installation",
-          "Art"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [
-          "http://kaderattia.de/traditional-repair-immaterial-injury/"
-        ],
-        "files": [
-          {
-            "name": "4.jpeg",
-            "size": 144842,
-            "type": "image/jpeg",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/4.jpg"
-          }
-        ]
-      }
-    },
-    {
       "id": "na535xd9",
-      "x": 4726.481259139962,
-      "y": -35.056423723598755,
+      "x": 3901.8043813849886,
+      "y": 607.1455339328461,
       "w": 320,
       "h": 599,
       "group": null,
@@ -1043,43 +941,9 @@
       }
     },
     {
-      "id": "nr47aode",
-      "x": 4389.546498504433,
-      "y": -35.12814375076982,
-      "w": 320,
-      "h": 614,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "Daniel Arsham Bound Figure, 2014",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Art",
-          "Installation"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [
-          "https://www.houldsworth.co.uk/exhibitions/72-daniel-arsham-special-project/press_release_text/"
-        ],
-        "files": [
-          {
-            "name": "2.jpeg",
-            "size": 34728,
-            "type": "image/jpeg",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/2.jpg"
-          }
-        ]
-      }
-    },
-    {
       "id": "nex0urd2",
-      "x": 4055.07911818667,
-      "y": -30.46887877733525,
+      "x": 3554.402240431696,
+      "y": 607.7330788791096,
       "w": 320,
       "h": 599,
       "group": null,
@@ -1112,8 +976,8 @@
     },
     {
       "id": "n3e20r3f",
-      "x": 4053.7992044680577,
-      "y": 605.6542195593197,
+      "x": 3205.122326713084,
+      "y": 803.8561772157648,
       "w": 320,
       "h": 582,
       "group": null,
@@ -1146,8 +1010,8 @@
     },
     {
       "id": "nefyeg79",
-      "x": 4384.173719860988,
-      "y": 607.5087026398701,
+      "x": 4259.496842106015,
+      "y": 609.7106602963152,
       "w": 320,
       "h": 515,
       "group": null,
@@ -1174,227 +1038,6 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/6.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "nr86hwni",
-      "x": 4720.363795251033,
-      "y": 604.5333016039631,
-      "w": 320,
-      "h": 600,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "Phillip Schumacher, Don’t put me in a box, 2011",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Art",
-          "Photography"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": [
-          {
-            "name": "7.jpeg",
-            "size": 57821,
-            "type": "image/jpeg",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/7.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ncwwny83",
-      "x": 3697.460492511132,
-      "y": 1975.3429657984248,
-      "w": 320,
-      "h": 413,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "Manual focus subminiature camera released by Minox in 1958",
-        "type": "Moodboard",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Object"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": [
-          {
-            "name": "8.jpeg",
-            "size": 73998,
-            "type": "image/jpeg",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/8.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "nn1a4aiz",
-      "x": 4394.9557073545675,
-      "y": 2386.0354397684114,
-      "w": 320,
-      "h": 427,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "Hans Haacke, News, 1969",
-        "type": "Moodboard",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Art",
-          "Installation"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": [
-          {
-            "name": "9.jpeg",
-            "size": 100798,
-            "type": "image/jpeg",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/9.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "n2i74tsx",
-      "x": 4038.149172748917,
-      "y": 1974.7107616537837,
-      "w": 320,
-      "h": 391,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "",
-        "type": "Moodboard",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Object"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": [
-          {
-            "name": "10.jpeg",
-            "size": 14907,
-            "type": "image/jpeg",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/10.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "nil6n7i4",
-      "x": 3714.3672631498544,
-      "y": 2407.3894519060505,
-      "w": 320,
-      "h": 349,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "Tonya, Craig Gillespie, 2017",
-        "type": "Moodboard",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Art",
-          "Film"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": [
-          {
-            "name": "11.jpeg",
-            "size": 28625,
-            "type": "image/jpeg",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/11.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "n3e3i98f",
-      "x": 4372.959881253437,
-      "y": 1976.8585629522936,
-      "w": 320,
-      "h": 350,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "",
-        "type": "Moodboard",
-        "action": null,
-        "mainArea": "Communication",
-        "areas": [
-          "Object"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": [
-          {
-            "name": "12.jpeg",
-            "size": 67581,
-            "type": "image/jpeg",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/12.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ntz0arhk",
-      "x": 4053.503817044693,
-      "y": 2404.978769101078,
-      "w": 320,
-      "h": 377,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "L’uccello dalle piume  di cristallo, Dario Argento",
-        "type": "Moodboard",
-        "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [
-          "Art",
-          "Film"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": [
-          {
-            "name": "13.png",
-            "size": 396541,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/13.jpg"
           }
         ]
       }
@@ -1615,8 +1258,8 @@
     },
     {
       "id": "n8dupn85",
-      "x": 4507.945897878443,
-      "y": -1736.994148282842,
+      "x": 3820.7941000249402,
+      "y": -1892.8430096516777,
       "w": 320,
       "h": 285,
       "group": null,
@@ -1794,6 +1437,1179 @@
         ],
         "tags": [],
         "desc": "Weber’s rationalization provides the operational mechanism (bureaucracy), Foucault’s biopolitics defines the domain of application (life and relationships), and commodification supplies the driving logic (market utility). Together, they outline a society in which life itself is managed with the impersonal efficiency of a factory, and human relationships are subjected to quality-control procedures. Hyper-bureaucratization thus emerges as the operational arm of biopower, using market logic to extend rational control to the farthest reaches of human experience.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nr9tiro7",
+      "x": 6502.184622448252,
+      "y": 1646.2616129275684,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "arma burocratica che ti cancella",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvi9tlxd",
+      "x": 4763.315904784203,
+      "y": 2492.5836518728815,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "opinione pubblica come arma burocratica",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nldb9o2w",
+      "x": 3903.6362411501214,
+      "y": 1650.3332399546957,
+      "w": 320,
+      "h": 237,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "feedback",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "specificare al meglio la tipologia di arma e cercare di delinearne i campi di azione",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6tmf385",
+      "x": 5610.029724809604,
+      "y": 1288.9560231170317,
+      "w": 320,
+      "h": 372,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "caso di francesca albanese",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Il nome di Albanese compare nelle liste dell’OFAC, l’Office of Foreign Assets Control del Dipartimento del Tesoro statunitense. Queste liste nascono con l’obiettivo di colpire terroristi, narcotrafficanti e regimi autoritari. Chi vi compare si trova escluso dai circuiti finanziari e i suoi beni possono essere congelati. Ma il punto centrale è che queste liste, pur essendo espressione della politica estera americana, finiscono per condizionare l’intero sistema bancario mondiale.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmjie0i7",
+      "x": 5251.636241150121,
+      "y": 1291.3332399546957,
+      "w": 320,
+      "h": 355,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "SDN-list",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "la lista degli Specially Designated Nationals (Sdn list) includendovi i soggetti, operanti in settori strategici, legati o riconducibili agli anzidetti Paesi ostili: l’inclusione nella Sdn list è potenzialmente fatale per qualsiasi entità commerciale, perché comporta il divieto assoluto, per ogni altro soggetto, statunitense o straniero, di intrattenere rapporti d’affari con tali soggetti banditi o con le società da essi direttamente o indirettamente controllate.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6s1c8pi",
+      "x": 5951.636241150121,
+      "y": 1284.3332399546957,
+      "w": 320,
+      "h": 959,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "Altri casi di soggetti bloccati",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Le sanzioni internazionali, adottate da entità come l'OFAC o l'Unione Europea (UE) e le Nazioni Unite (ONU), mirano non solo a interi Paesi ma anche a singole persone, istituzioni o organizzazioni (sanzioni mirate o individuali).\nTra i soggetti bloccati inclusi nelle liste di sanzioni (come la SDN List dell'OFAC e le liste UE/ONU), i contesti e gli individui citati nei risultati di ricerca includono:\nSoggetti associati a programmi di sanzioni contro la Russia: Ad esempio, Kirill Aleksandrovich Dmitriev è menzionato come inserito nella SDN List in relazione alle sanzioni contro la Russia. Altri soggetti designati, inclusi individui ed entità, appartengono non solo alla Federazione Russa, ma anche a paesi terzi come Cina, Turchia, Emirati Arabi Uniti e il Regno Unito, spesso per contrastare le pratiche di elusione delle sanzioni economiche internazionali.\nSettori strategici russi: Sono state designate entità attive in settori come l'energetico, metallurgico, minerario e militare della Federazione Russa. Ad esempio, Limited Liability Company Northern Technologies, Joint Stock Company Kazan Compressor Machinery Plant e Limited Liability Company Gazprom Linde Engineering, attive nella costruzione di un impianto per il gas naturale liquefatto (LNG).\nImprenditori: Viene menzionato l'imprenditore Vladislav Vladimirovich (il cognome completo non è disponibile), che ha proprietà o controlla numerose entità sanzionate.\nCategorie generali di soggetti: Le liste includono anche persone ed entità giuridiche appartenenti a Paesi diversi da quelli con specifici \"programmi\" di sanzioni, come trafficanti di droga, terroristi, commercianti di armi, e istituzioni finanziarie coinvolte in traffici illeciti.\nPaesi soggetti a divieti completi/assoluti: L'OFAC ha creato un divieto totale su tutte le transazioni condotte con qualsiasi ente governativo, gruppo, azienda o individuo con una presenza a Cuba.\nPersone ed entità non statali: Le sanzioni mirate sono dirette contro individui, persone fisiche o giuridiche e gruppi (armati), spesso identificati in base all'inclusione in una lista di terroristi o presunti tali.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0q6izio",
+      "x": 4308.527653809845,
+      "y": 2208.1791361950363,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "caso ilaria salis",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmllwbum",
+      "x": 5192.081433491221,
+      "y": 1907.7927040581271,
+      "w": 320,
+      "h": 540,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "problematica su cui riflettere: ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Una delle questioni più rilevanti della società contemporanea riguarda il rapporto tra legge, burocrazia e opinione pubblica. La legge e i meccanismi burocratici che la regolano sono strumenti dotati di valore assoluto, validi indipendentemente dal contesto o dal caso specifico. Tuttavia, la realtà mostra che questo principio non è sempre così saldo: vi sono situazioni in cui individui che hanno agito al di fuori della legalità vengono sostenuti, giustificati o legittimati dall’opinione pubblica.\nQuesta dinamica solleva interrogativi profondi: la legge deve essere applicata rigidamente, anche quando entra in conflitto con la sensibilità comune? Oppure è legittimo che la percezione collettiva influenzi, direttamente o indirettamente, gli esiti dei procedimenti giudiziari? In altre parole, la giustizia deve rimanere impermeabile al consenso sociale, o deve tenerne conto per rimanere aderente alla realtà e alle evoluzioni culturali della società?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "niqpie8v",
+      "x": 4788.293047669049,
+      "y": 1870.442617213962,
+      "w": 320,
+      "h": 489,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "scenario",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Immaginiamo un sistema in cui l’opinione pubblica non resti confinata a una dimensione esterna e simbolica, ma possa intervenire in maniera formale attraverso procedure burocratiche. In questo contesto, la voce collettiva non sarebbe più solo un fattore di pressione indiretta, ma diventerebbe parte integrante dei processi giudiziari (una nuova “arma” burocratica nelle mani dell’opinione pubblica).\nLa distanza tra legge e sensibilità comune si ridurrebbe, ma al tempo stesso si aprirebbe il rischio che la giustizia non fosse più guidata soltanto da principi legali, bensì anche dal parere collettivo, dalle emozioni del momento o dalle narrazioni mediatiche dominanti.\n\nwhat-if:\nE se l’opinione pubblica potesse intervenire tramite vie burocratiche per opporsi a decisioni giudiziarie?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbqkiz47",
+      "x": 5558.057052987389,
+      "y": 1908.810299013201,
+      "w": 320,
+      "h": 388,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "definizione e motivo del conflitto:",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "In questo contesto evidenziamo un duplice conflitto: innanzitutto l’opinione pubblica può adoperare la burocrazia per combattere lo stesso sistema burocratico. Tramite provvedimenti legali e totalmente regolamentati sarà possibile intervenire concretamente per cambiare le sorti di una decisione giudiziaria.\nUn secondo conflitto evidente è tra  il sistema burocratico, nato con l’obiettivo di garante dell’imparzialità e legalità, e l’opinione pubblica mossa principalmente da empatia, da emozioni. \n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ngl0xm8l",
+      "x": 5551.305356600201,
+      "y": 2328.9527955370977,
+      "w": 320,
+      "h": 472,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "agenti e dinamica del conflitto",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Gli agenti del conflitto sono, da un lato, i cittadini e i gruppi che compongono l’opinione pubblica, capaci di intervenire formalmente per influenzare o ribaltare l’esito di un processo, e dall’altro lo Stato, con il suo apparato burocratico e giudiziario, che opera secondo leggi, regole e procedure consolidate. La dinamica del conflitto si sviluppa nell’interazione tra queste due logiche: l’opinione pubblica utilizza strumenti legali e regolamentati per esercitare pressione o intervenire sui procedimenti, mentre lo Stato applica le norme in modo impersonale e strutturato. L’incontro tra la componente emotiva e collettiva da una parte e quella razionale e normativa dall’altra genera una tensione continua che può condizionare gli esiti dei processi pur restando entro i confini della legalità.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncolsqav",
+      "x": 5545.801963825822,
+      "y": 2831.646183676671,
+      "w": 320,
+      "h": 271,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "ente",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "L’organizzazione che valuta, coordina e regola le modalità con cui l’opinione pubblica può intervenire concretamente, assumendo un ruolo effettivo nel modificare l’esito di un processo giudiziario.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5es7j0l",
+      "x": 6199.652681753167,
+      "y": 2444.265836269112,
+      "w": 320,
+      "h": 254,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "feedback",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "intrusione dell'opinione pubblica nella burocrazia/giustizia esiste già con le class action -> scenario non abbastanza speculativo",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0j75yok",
+      "x": 6954.438783294716,
+      "y": 1589.5351057231771,
+      "w": 320,
+      "h": 254,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "problematica su cui riflettere",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "la burocrazia al momento può essere utilizzata per danneggiare, svantaggiare e scoraggiare una persona.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n099v6n8",
+      "x": 6953.135210557832,
+      "y": 1275.5394290950355,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "scenario / what if",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "e se esistesse un’arma in grado di ucciderti burocraticamente?\ne se si introducesse la pena di morte burocratica?\n\ne di conseguenza: cosa succederebbe se non avessimo la nostra identità",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n11g6los",
+      "x": 7073.58004708807,
+      "y": 1973.6461019314183,
+      "w": 320,
+      "h": 220,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "CANCELLED CULTURE",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "conslusioni per presentazione",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8hb7uxv",
+      "x": 7553.58004708807,
+      "y": 1410.1440049202688,
+      "w": 320,
+      "h": 321,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "Contesto",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "La burocrazia non è soltanto uno strumento dello stato per amministrare ma costituisce la base stessa della nostra identità. Possedere un’identità burocratica significa avere diritto di accesso e riconoscimento all’interno della società; senza di essa, la semplice esistenza biologica non è sufficiente per essere pienamente considerati.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nk3vv9ka",
+      "x": 7553.58004708807,
+      "y": 1763.788650549041,
+      "w": 320,
+      "h": 321,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "problematica",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Nella nostra società, l’accesso pieno alla vita sociale e ai suoi diritti è legato al possesso di un’identità burocratica. Paradossalmente, la semplice esistenza biologica non basta. Questo solleva una riflessione critica sul ruolo della burocrazia: fino a che punto il sistema burocratico definisce e limita ciò che significa esistere?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nr4ozcme",
+      "x": 7913.015541066376,
+      "y": 1407.8380629045134,
+      "w": 320,
+      "h": 372,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "whatif",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Il nostro scenario si baserebbe sulla domanda: “E se si potessero cancellare le persone (burocraticamente)?”\nCi immaginiamo in un mondo in cui lo Stato può infliggere una pena di morte burocratica per crimini gravissimi e disumani. In questa situazione, non viene tolta la vita fisica, ma viene revocata la tua esistenza burocratica: tutti i documenti che attestano la tua identità vengono cancellati, rimani nessuno, invisibile e privo di diritti e documentazione.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nfs3igay",
+      "x": 7908.377663724721,
+      "y": 1807.8614819498412,
+      "w": 320,
+      "h": 338,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "agenti",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Il condannato si trova intrappolato in un paradosso: continua a esistere biologicamente, ma è escluso da ogni forma di riconoscimento ufficiale. È come se la macchina burocratica, che un tempo garantiva la sua esistenza, si fosse rivoltata contro di lui. Il conflitto nasce proprio qui: tra l’essere vivo e l’essere riconosciuto, tra la realtà biologica e la realtà burocratica.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1ai34af",
+      "x": 7546.623231075587,
+      "y": 2119.7652315037135,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "ente",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Noi rappresentiamo quel settore dell’apparato giuridico e amministrativo incaricato di eseguire la cancellazione burocratica. Il nostro compito è far sì che la persona scompaia dal sistema, eliminando ogni traccia della sua identità dai registri e dagli archivi ufficiali.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nce6l0vb",
+      "x": 8341.580047088071,
+      "y": 2307.765231503713,
+      "w": 320,
+      "h": 220,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "feedback",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "abbandonare la strada -> meglio le altre due opzioni",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1df0wjr",
+      "x": 7000.736600331586,
+      "y": 509.8561772157648,
+      "w": 320,
+      "h": 220,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "RELAZIONI BUROCRATICHE",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "conslusioni per presentazione",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nw2945a7",
+      "x": 6564.736600331586,
+      "y": -38.143822784235226,
+      "w": 320,
+      "h": 388,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "contesto",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "Nelle dinamiche interpersonali emergono frequentemente situazioni ambigue e conflittuali, la cui gestione risulta complessa a causa dell’elevato coinvolgimento emotivo.\nLa burocrazia nella nostra realtà si configura, invece, come un sistema finalizzato alla regolazione e alla razionalizzazione. In questo senso, essa si è inserita anche alla sfera delle relazioni personali: il matrimonio e il divorzio ne rappresentano un esempio emblematico, poiché formalizzati attraverso atti e procedure di natura puramente burocratica. ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nj49vybu",
+      "x": 6928.736600331586,
+      "y": -33.143822784235226,
+      "w": 320,
+      "h": 388,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "problematica",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "Quando la logica burocratica entra nel campo delle relazioni personali nasce una tensione particolare. \nDa un lato, le istituzioni burocratiche servono a dare ordine, riconoscimento e tutela ai rapporti. \nDall’altro, però, c’è il rischio che la complessità emotiva venga ridotta a una serie di procedure fredde e standardizzate.\nÈ una questione che invita a riflettere su un equilibrio delicato: quello tra la necessità di regolamentazione e la libertà emotiva, tra il bisogno di ordine e l’autenticità dell’esperienza personale.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkv6za4r",
+      "x": 7280.736600331586,
+      "y": -35.143822784235226,
+      "w": 320,
+      "h": 372,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "what if",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "Il nostro scenario si baserebbe sulla domanda: “E se la burocrazia regolamentasse anche le sfere più intime dell’essere umano?”\nCi posizioniamo quindi in un mondo caratterizzato da un’iperburocratizzazione, in cui le procedure e le regole si estendono a ogni aspetto della vita quotidiana. In questo contesto, la burocrazia interviene persino nelle relazioni interpersonali e intime, con l’obiettivo di gestire e regolamentare le ambiguità e le conflittualità insite nei rapporti umani.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n168z3r9",
+      "x": 7644.736600331586,
+      "y": -22.143822784235226,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "agenti",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "Il conflitto, quindi, non si manifesta solo nelle relazioni tra individui che la burocrazia tenta di regolare, ma soprattutto nello scontro tra due nature opposte: da una parte quella razionale e impersonale della norma burocratica; dall’altra quella spontanea e profondamente umana delle relazioni personali.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndl1wgju",
+      "x": 7648.736600331586,
+      "y": 310.8561772157648,
+      "w": 320,
+      "h": 372,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "ente",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "Siamo un ente assicurativo a cui i cittadini sono fortemente incoraggiati a rivolgersi prima di intraprendere una relazione o per regolarne una già esistente. Il nostro compito è prevenire e amministrare le situazioni di ambiguità o conflitto che potrebbero sorgere nel rapporto, garantendo che esse vengano previste e regolamentate. In questo modo, ci assicuriamo che eventuali incomprensioni o offese vengano gestite in modo, razionale e conforme alle procedure stabilite.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbkbo75y",
+      "x": 5196.299606507146,
+      "y": 157.73048799118442,
+      "w": 320,
+      "h": 214,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "feedback positivo",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "delineare di più",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9f63nt8",
+      "x": 8052.299606507146,
+      "y": -1366.2695120088156,
+      "w": 320,
+      "h": 214,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "SANGUE DEL MIO SANGUE",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "conclusioni per presentazione",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nusfml5g",
+      "x": 8312.299606507146,
+      "y": -1838.2695120088156,
+      "w": 320,
+      "h": 332,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "contesto",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "In Italia il procedimento di acquisizione della cittadinanza è complesso, costoso e molto lungo. Molte persone nate e cresciute nel Paese non vengono riconosciute come cittadine a causa delle rigide regole legate allo ius sanguinis, il principio secondo cui la cittadinanza si trasmette esclusivamente per discendenza riconosciuta solo a chi ha un genitore o un nonno italiani.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nw3425oy",
+      "x": 8664.299606507146,
+      "y": -1835.2695120088156,
+      "w": 320,
+      "h": 315,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "problematica",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Il sistema di cittadinanza italiano quindi genera una profonda contraddizione e questo paradosso apre a una riflessione sul valore che viene attribuito al sangue rispetto all’esperienza e all’appartenenza: il sangue definisce davvero chi siamo? Vale di più la discendenza familiare rispetto agli anni vissuti, alle relazioni e al legame costruito con un luogo?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nedye6gd",
+      "x": 8672.299606507146,
+      "y": -1488.2695120088156,
+      "w": 320,
+      "h": 248,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "whatif",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Il nostro scenario si baserebbe sulla domanda: “E se l’ottenimento della cittadinanza italiana fosse possibile attraverso una trasfusione di sangue?”",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nd1ltt6v",
+      "x": 9016.299606507146,
+      "y": -1833.2695120088156,
+      "w": 320,
+      "h": 382,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "agenti",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Il sistema fondato sullo ius sanguinis crea una frattura tra chi vive e contribuisce alla società e chi, legalmente, non ne fa parte. È qui che nasce il conflitto: il diritto di appartenenza diventa un privilegio, misurato esclusivamente dal sangue e non dall’esperienza o dal radicamento culturale.\nIl paradosso si concretizza: chi ha vissuto anni in Italia può essere escluso, mentre chi paga per ricevere una trasfusione simbolica di “sangue italiano” ottiene un riconoscimento negato dallo Stato.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ni6oephu",
+      "x": 9016.299606507146,
+      "y": -1406.2695120088156,
+      "w": 320,
+      "h": 298,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "ente",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Un’associazione che opera sotto la copertura di una rispettabile banca del sangue volontaria. Però, la sua vera missione è un’altra: l’organizzazione distribuisce kit di trasfusione, costosi e a cui non tutti possono accedervi, che permettono l’ottenimento della cittadinanza italiana",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncfiqnoz",
+      "x": 9608.299606507146,
+      "y": -1084.2695120088156,
+      "w": 320,
+      "h": 248,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "feedback",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "cercare di delineare ancora di più come funzionerebbe questo sistema -> puntare sulla legalità",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9w4oaff",
+      "x": 9904.299606507146,
+      "y": -1560.2695120088156,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nd9mu7zv",
+      "x": 8444.736600331586,
+      "y": 586.8561772157648,
+      "w": 320,
+      "h": 254,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "feedback",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "valutazione positiva dello scenario -> cercare di trovare come esaltare il conflitto e le dinamiche più precise, tipi di relazioni...",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "najakot8",
+      "x": 8924.736600331586,
+      "y": 290.8561772157648,
+      "w": 320,
+      "h": 149,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnmjsmbx",
+      "x": 4916.5908072096845,
+      "y": -847.5606372835107,
+      "w": 320,
+      "h": 283,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "feedback",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "descrizione generica -> cercare un modo per delinearla di più -> confini liquidi",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nr6ljo8b",
+      "x": 5624.5908072096845,
+      "y": -1063.5606372835107,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "puzzle con stati",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nohmi1vl",
+      "x": 6108.5908072096845,
+      "y": -919.5606372835107,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "conflitto",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5oesg5f",
+      "x": 5952.5908072096845,
+      "y": -720.5606372835107,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "problematica",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nxj2hw02",
+      "x": 5776.5908072096845,
+      "y": -501.5606372835107,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "what if",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndijh5vs",
+      "x": 5612.5908072096845,
+      "y": -1531.5606372835107,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "uomini come pacchi",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7wps6p7",
+      "x": 5624.5908072096845,
+      "y": -2112.560637283511,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "passaporto randomico",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9ci03bm",
+      "x": 5640.5908072096845,
+      "y": -2637.560637283511,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "selezione allingresso",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1y01te4",
+      "x": 6301.213806340825,
+      "y": -1538.0801060063588,
+      "w": 320,
+      "h": 266,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "documenti per spostarsi",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "passaporto dato dalla cittadinanza",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nh307m48",
+      "x": 6895.304508990668,
+      "y": -1531.5606372835107,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "riflessione sulla cittadinanza",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nn3eluom",
+      "x": 7399.304508990668,
+      "y": -2332.2695120088156,
+      "w": 320,
+      "h": 195,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ns9y3z8c",
+      "x": 7399.304508990668,
+      "y": -2101.2695120088156,
+      "w": 320,
+      "h": 195,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkfiuxlj",
+      "x": 7399.304508990668,
+      "y": -1870.2695120088156,
+      "w": 320,
+      "h": 195,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "",
         "links": [],
         "files": []
       }
@@ -2052,32 +2868,12 @@
     },
     {
       "s": "n5vf0f18",
-      "t": "nca0oo3r",
-      "dashed": false
-    },
-    {
-      "s": "n5vf0f18",
-      "t": "nffar7c9",
-      "dashed": false
-    },
-    {
-      "s": "n5vf0f18",
       "t": "ni3176gn",
       "dashed": false
     },
     {
       "s": "noz4e8vf",
-      "t": "n4zu5fft",
-      "dashed": false
-    },
-    {
-      "s": "noz4e8vf",
       "t": "na535xd9",
-      "dashed": false
-    },
-    {
-      "s": "noz4e8vf",
-      "t": "nr47aode",
       "dashed": false
     },
     {
@@ -2093,41 +2889,6 @@
     {
       "s": "noz4e8vf",
       "t": "nefyeg79",
-      "dashed": false
-    },
-    {
-      "s": "noz4e8vf",
-      "t": "nr86hwni",
-      "dashed": false
-    },
-    {
-      "s": "nwnnoqd3",
-      "t": "ncwwny83",
-      "dashed": false
-    },
-    {
-      "s": "nwnnoqd3",
-      "t": "nn1a4aiz",
-      "dashed": false
-    },
-    {
-      "s": "nwnnoqd3",
-      "t": "n2i74tsx",
-      "dashed": false
-    },
-    {
-      "s": "nwnnoqd3",
-      "t": "nil6n7i4",
-      "dashed": false
-    },
-    {
-      "s": "nwnnoqd3",
-      "t": "n3e3i98f",
-      "dashed": false
-    },
-    {
-      "s": "nwnnoqd3",
-      "t": "ntz0arhk",
       "dashed": false
     },
     {
@@ -2284,39 +3045,459 @@
       "s": "nuy0jz86",
       "t": "noz4e8vf",
       "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "nr9tiro7",
+      "dashed": false
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "nvi9tlxd",
+      "dashed": true
+    },
+    {
+      "s": "nwnnoqd3",
+      "t": "nldb9o2w",
+      "dashed": false
+    },
+    {
+      "s": "nscfpivt",
+      "t": "nr9tiro7",
+      "dashed": false
+    },
+    {
+      "s": "nldb9o2w",
+      "t": "n6tmf385",
+      "dashed": false
+    },
+    {
+      "s": "nldb9o2w",
+      "t": "nmjie0i7",
+      "dashed": false
+    },
+    {
+      "s": "nldb9o2w",
+      "t": "n6s1c8pi",
+      "dashed": false
+    },
+    {
+      "s": "nldb9o2w",
+      "t": "n0q6izio",
+      "dashed": false
+    },
+    {
+      "s": "nmjie0i7",
+      "t": "nr9tiro7",
+      "dashed": false
+    },
+    {
+      "s": "n6tmf385",
+      "t": "nr9tiro7",
+      "dashed": false
+    },
+    {
+      "s": "n6s1c8pi",
+      "t": "nr9tiro7",
+      "dashed": false
+    },
+    {
+      "s": "nvi9tlxd",
+      "t": "niqpie8v",
+      "dashed": false
+    },
+    {
+      "s": "nvi9tlxd",
+      "t": "nmllwbum",
+      "dashed": false
+    },
+    {
+      "s": "nvi9tlxd",
+      "t": "nbqkiz47",
+      "dashed": false
+    },
+    {
+      "s": "nvi9tlxd",
+      "t": "ngl0xm8l",
+      "dashed": false
+    },
+    {
+      "s": "nvi9tlxd",
+      "t": "ncolsqav",
+      "dashed": false
+    },
+    {
+      "s": "nvi9tlxd",
+      "t": "n5es7j0l",
+      "dashed": false
+    },
+    {
+      "s": "ncolsqav",
+      "t": "n5es7j0l",
+      "dashed": false
+    },
+    {
+      "s": "ngl0xm8l",
+      "t": "n5es7j0l",
+      "dashed": false
+    },
+    {
+      "s": "nbqkiz47",
+      "t": "n5es7j0l",
+      "dashed": false
+    },
+    {
+      "s": "nmllwbum",
+      "t": "n5es7j0l",
+      "dashed": false
+    },
+    {
+      "s": "niqpie8v",
+      "t": "n5es7j0l",
+      "dashed": false
+    },
+    {
+      "s": "n0q6izio",
+      "t": "nvi9tlxd",
+      "dashed": false
+    },
+    {
+      "s": "nr9tiro7",
+      "t": "n0j75yok",
+      "dashed": false
+    },
+    {
+      "s": "nr9tiro7",
+      "t": "n099v6n8",
+      "dashed": false
+    },
+    {
+      "s": "n099v6n8",
+      "t": "n11g6los",
+      "dashed": false
+    },
+    {
+      "s": "n0j75yok",
+      "t": "n11g6los",
+      "dashed": false
+    },
+    {
+      "s": "nr9tiro7",
+      "t": "n11g6los",
+      "dashed": false
+    },
+    {
+      "s": "n11g6los",
+      "t": "n8hb7uxv",
+      "dashed": false
+    },
+    {
+      "s": "n11g6los",
+      "t": "nk3vv9ka",
+      "dashed": false
+    },
+    {
+      "s": "n11g6los",
+      "t": "nr4ozcme",
+      "dashed": false
+    },
+    {
+      "s": "n11g6los",
+      "t": "nfs3igay",
+      "dashed": false
+    },
+    {
+      "s": "n11g6los",
+      "t": "n1ai34af",
+      "dashed": false
+    },
+    {
+      "s": "n11g6los",
+      "t": "nce6l0vb",
+      "dashed": false
+    },
+    {
+      "s": "n1ai34af",
+      "t": "nce6l0vb",
+      "dashed": false
+    },
+    {
+      "s": "nk3vv9ka",
+      "t": "nce6l0vb",
+      "dashed": false
+    },
+    {
+      "s": "n8hb7uxv",
+      "t": "nce6l0vb",
+      "dashed": false
+    },
+    {
+      "s": "nfs3igay",
+      "t": "nce6l0vb",
+      "dashed": false
+    },
+    {
+      "s": "nr4ozcme",
+      "t": "nce6l0vb",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "n1df0wjr",
+      "dashed": false
+    },
+    {
+      "s": "n1df0wjr",
+      "t": "nw2945a7",
+      "dashed": false
+    },
+    {
+      "s": "n1df0wjr",
+      "t": "nj49vybu",
+      "dashed": false
+    },
+    {
+      "s": "n1df0wjr",
+      "t": "nkv6za4r",
+      "dashed": false
+    },
+    {
+      "s": "n1df0wjr",
+      "t": "n168z3r9",
+      "dashed": false
+    },
+    {
+      "s": "n1df0wjr",
+      "t": "ndl1wgju",
+      "dashed": false
+    },
+    {
+      "s": "noz4e8vf",
+      "t": "nbkbo75y",
+      "dashed": false
+    },
+    {
+      "s": "nbkbo75y",
+      "t": "n1df0wjr",
+      "dashed": false
+    },
+    {
+      "s": "n9f63nt8",
+      "t": "nusfml5g",
+      "dashed": false
+    },
+    {
+      "s": "n9f63nt8",
+      "t": "nw3425oy",
+      "dashed": false
+    },
+    {
+      "s": "n9f63nt8",
+      "t": "nedye6gd",
+      "dashed": false
+    },
+    {
+      "s": "n9f63nt8",
+      "t": "nd1ltt6v",
+      "dashed": false
+    },
+    {
+      "s": "n9f63nt8",
+      "t": "ni6oephu",
+      "dashed": false
+    },
+    {
+      "s": "n9f63nt8",
+      "t": "ncfiqnoz",
+      "dashed": false
+    },
+    {
+      "s": "ni6oephu",
+      "t": "ncfiqnoz",
+      "dashed": false
+    },
+    {
+      "s": "nd1ltt6v",
+      "t": "ncfiqnoz",
+      "dashed": false
+    },
+    {
+      "s": "nedye6gd",
+      "t": "ncfiqnoz",
+      "dashed": false
+    },
+    {
+      "s": "nw3425oy",
+      "t": "ncfiqnoz",
+      "dashed": false
+    },
+    {
+      "s": "nusfml5g",
+      "t": "ncfiqnoz",
+      "dashed": false
+    },
+    {
+      "s": "n9f63nt8",
+      "t": "n9w4oaff",
+      "dashed": false
+    },
+    {
+      "s": "ncfiqnoz",
+      "t": "n9w4oaff",
+      "dashed": false
+    },
+    {
+      "s": "n1df0wjr",
+      "t": "nd9mu7zv",
+      "dashed": false
+    },
+    {
+      "s": "nd9mu7zv",
+      "t": "najakot8",
+      "dashed": false
+    },
+    {
+      "s": "n1df0wjr",
+      "t": "najakot8",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "nnmjsmbx",
+      "dashed": false
+    },
+    {
+      "s": "nnmjsmbx",
+      "t": "nr6ljo8b",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "nr6ljo8b",
+      "dashed": false
+    },
+    {
+      "s": "nr6ljo8b",
+      "t": "nohmi1vl",
+      "dashed": false
+    },
+    {
+      "s": "nr6ljo8b",
+      "t": "n5oesg5f",
+      "dashed": false
+    },
+    {
+      "s": "nr6ljo8b",
+      "t": "nxj2hw02",
+      "dashed": false
+    },
+    {
+      "s": "nnmjsmbx",
+      "t": "ndijh5vs",
+      "dashed": false
+    },
+    {
+      "s": "nnmjsmbx",
+      "t": "n7wps6p7",
+      "dashed": false
+    },
+    {
+      "s": "nnmjsmbx",
+      "t": "n9ci03bm",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "ndijh5vs",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "n7wps6p7",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "n9ci03bm",
+      "dashed": false
+    },
+    {
+      "s": "ndijh5vs",
+      "t": "n1y01te4",
+      "dashed": false
+    },
+    {
+      "s": "n1y01te4",
+      "t": "nh307m48",
+      "dashed": false
+    },
+    {
+      "s": "nh307m48",
+      "t": "n9f63nt8",
+      "dashed": false
+    },
+    {
+      "s": "nh307m48",
+      "t": "nn3eluom",
+      "dashed": false
+    },
+    {
+      "s": "nh307m48",
+      "t": "ns9y3z8c",
+      "dashed": false
+    },
+    {
+      "s": "nh307m48",
+      "t": "nkfiuxlj",
+      "dashed": false
+    },
+    {
+      "s": "nkfiuxlj",
+      "t": "n9f63nt8",
+      "dashed": false
+    },
+    {
+      "s": "ns9y3z8c",
+      "t": "n9f63nt8",
+      "dashed": false
+    },
+    {
+      "s": "nn3eluom",
+      "t": "n9f63nt8",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Installation",
-      "Art",
-      "Object",
-      "Film",
-      "Photography",
-      "Documentary",
-      "Semantic research",
-      "Feelings",
-      "Media studies",
-      "Critical design",
-      "Literature",
-      "Definition",
-      "Design research",
-      "Socio-political",
-      "Hystory",
-      "Conflict",
-      "Communication",
+      "Emotional response",
       "Cultural studies",
-      "Emotional response"
+      "Communication",
+      "Conflict",
+      "Hystory",
+      "Socio-political",
+      "Design research",
+      "Definition",
+      "Literature",
+      "Critical design",
+      "Media studies",
+      "Feelings",
+      "Semantic research",
+      "Documentary",
+      "Photography",
+      "Film",
+      "Object",
+      "Art",
+      "Installation"
     ],
     "tags": [],
     "type": [
-      "Research",
       "Concept",
-      "Source",
-      "Feedback",
-      "Conclusione",
       "Moodboard",
-      "Brief"
+      "Research",
+      "Source",
+      "Brief",
+      "Conclusione",
+      "Feedback"
     ]
   }
 }
