@@ -66,7 +66,7 @@
     },
     {
       "id": "npa52m07",
-      "x": 617.8686448657292,
+      "x": 389.86864486572915,
       "y": 286.6095917862972,
       "w": 320,
       "h": 417,
@@ -91,7 +91,7 @@
     },
     {
       "id": "n70eugn6",
-      "x": 616.7551129141752,
+      "x": 388.75511291417524,
       "y": -407.52334395933144,
       "w": 320,
       "h": 316,
@@ -117,7 +117,7 @@
     },
     {
       "id": "n6jyhn38",
-      "x": 617.4801263489964,
+      "x": 389.48012634899635,
       "y": -80.56242802751473,
       "w": 320,
       "h": 356,
@@ -143,8 +143,8 @@
     },
     {
       "id": "nvi0dm4q",
-      "x": -7.26376077010957,
-      "y": 418.23397211817246,
+      "x": -707.2637607701096,
+      "y": 378.23397211817246,
       "w": 320,
       "h": 773,
       "group": null,
@@ -175,8 +175,8 @@
     },
     {
       "id": "nlxdh48f",
-      "x": -8.584654700184501,
-      "y": 1214.6968079699159,
+      "x": -228.5846547001845,
+      "y": 1266.6968079699159,
       "w": 320,
       "h": 484,
       "group": null,
@@ -222,7 +222,7 @@
     },
     {
       "id": "nzuhnkym",
-      "x": 637.7596006774816,
+      "x": 409.75960067748156,
       "y": 805.2393817255479,
       "w": 320,
       "h": 422,
@@ -244,8 +244,8 @@
     },
     {
       "id": "nij45h41",
-      "x": -124.94786725381391,
-      "y": -2080.994938498857,
+      "x": -144.9478672538139,
+      "y": -1744.9949384988572,
       "w": 320,
       "h": 405,
       "group": null,
@@ -288,8 +288,8 @@
     },
     {
       "id": "nk4d3ukj",
-      "x": 919.4230936507979,
-      "y": -2191.080185680923,
+      "x": 863.572920611981,
+      "y": -1988.256815922925,
       "w": 320,
       "h": 724,
       "group": null,
@@ -310,8 +310,8 @@
     },
     {
       "id": "nydwxrhx",
-      "x": 325.95851338824195,
-      "y": -1754.7799995103587,
+      "x": 385.95851338824195,
+      "y": -1330.7799995103587,
       "w": 320,
       "h": 411,
       "group": null,
@@ -738,8 +738,8 @@
     },
     {
       "id": "nklq4uw2",
-      "x": 558.4266380618524,
-      "y": -2192.065870418115,
+      "x": 404.0042997233767,
+      "y": -2016.9002328998442,
       "w": 320,
       "h": 344,
       "group": null,
@@ -806,8 +806,8 @@
     },
     {
       "id": "n6j0ldtt",
-      "x": 4503.140106395718,
-      "y": -1493.5606372835107,
+      "x": 3635.1401063957182,
+      "y": -2477.560637283511,
       "w": 320,
       "h": 422,
       "group": null,
@@ -840,8 +840,8 @@
     },
     {
       "id": "novblbup",
-      "x": 4501.736593748162,
-      "y": -1905.4011806369958,
+      "x": 4365.736593748162,
+      "y": -2021.4011806369958,
       "w": 320,
       "h": 402,
       "group": null,
@@ -874,8 +874,8 @@
     },
     {
       "id": "ni3176gn",
-      "x": 4160.278054862456,
-      "y": -1905.7738846497464,
+      "x": 4024.278054862456,
+      "y": -2025.7738846497464,
       "w": 320,
       "h": 576,
       "group": null,
@@ -1258,8 +1258,8 @@
     },
     {
       "id": "n8dupn85",
-      "x": 3820.7941000249402,
-      "y": -1892.8430096516777,
+      "x": 3656.7941000249402,
+      "y": -2020.8430096516777,
       "w": 320,
       "h": 285,
       "group": null,
@@ -1927,8 +1927,8 @@
     },
     {
       "id": "n1df0wjr",
-      "x": 7000.736600331586,
-      "y": 509.8561772157648,
+      "x": 6636.736600331586,
+      "y": 733.8561772157648,
       "w": 320,
       "h": 220,
       "group": null,
@@ -1950,8 +1950,8 @@
     },
     {
       "id": "nw2945a7",
-      "x": 6564.736600331586,
-      "y": -38.143822784235226,
+      "x": 6200.736600331586,
+      "y": 185.85617721576477,
       "w": 320,
       "h": 388,
       "group": null,
@@ -1973,8 +1973,8 @@
     },
     {
       "id": "nj49vybu",
-      "x": 6928.736600331586,
-      "y": -33.143822784235226,
+      "x": 6564.736600331586,
+      "y": 190.85617721576477,
       "w": 320,
       "h": 388,
       "group": null,
@@ -1996,8 +1996,8 @@
     },
     {
       "id": "nkv6za4r",
-      "x": 7280.736600331586,
-      "y": -35.143822784235226,
+      "x": 6916.736600331586,
+      "y": 188.85617721576477,
       "w": 320,
       "h": 372,
       "group": null,
@@ -2019,8 +2019,8 @@
     },
     {
       "id": "n168z3r9",
-      "x": 7644.736600331586,
-      "y": -22.143822784235226,
+      "x": 7280.736600331586,
+      "y": 201.85617721576477,
       "w": 320,
       "h": 304,
       "group": null,
@@ -2042,8 +2042,8 @@
     },
     {
       "id": "ndl1wgju",
-      "x": 7648.736600331586,
-      "y": 310.8561772157648,
+      "x": 7284.736600331586,
+      "y": 534.8561772157648,
       "w": 320,
       "h": 372,
       "group": null,
@@ -2085,8 +2085,8 @@
     },
     {
       "id": "n9f63nt8",
-      "x": 8052.299606507146,
-      "y": -1366.2695120088156,
+      "x": 8856.299606507146,
+      "y": -1526.2695120088156,
       "w": 320,
       "h": 214,
       "group": null,
@@ -2105,8 +2105,8 @@
     },
     {
       "id": "nusfml5g",
-      "x": 8312.299606507146,
-      "y": -1838.2695120088156,
+      "x": 8952.299606507146,
+      "y": -1118.2695120088156,
       "w": 320,
       "h": 332,
       "group": null,
@@ -2125,8 +2125,8 @@
     },
     {
       "id": "nw3425oy",
-      "x": 8664.299606507146,
-      "y": -1835.2695120088156,
+      "x": 9304.299606507146,
+      "y": -1115.2695120088156,
       "w": 320,
       "h": 315,
       "group": null,
@@ -2145,8 +2145,8 @@
     },
     {
       "id": "nedye6gd",
-      "x": 8672.299606507146,
-      "y": -1488.2695120088156,
+      "x": 9312.299606507146,
+      "y": -768.2695120088156,
       "w": 320,
       "h": 248,
       "group": null,
@@ -2165,8 +2165,8 @@
     },
     {
       "id": "nd1ltt6v",
-      "x": 9016.299606507146,
-      "y": -1833.2695120088156,
+      "x": 9656.299606507146,
+      "y": -1113.2695120088156,
       "w": 320,
       "h": 382,
       "group": null,
@@ -2185,8 +2185,8 @@
     },
     {
       "id": "ni6oephu",
-      "x": 9016.299606507146,
-      "y": -1406.2695120088156,
+      "x": 9656.299606507146,
+      "y": -686.2695120088156,
       "w": 320,
       "h": 298,
       "group": null,
@@ -2205,8 +2205,8 @@
     },
     {
       "id": "ncfiqnoz",
-      "x": 9608.299606507146,
-      "y": -1084.2695120088156,
+      "x": 9520.299606507146,
+      "y": -1552.2695120088156,
       "w": 320,
       "h": 248,
       "group": null,
@@ -2225,8 +2225,8 @@
     },
     {
       "id": "n9w4oaff",
-      "x": 9904.299606507146,
-      "y": -1560.2695120088156,
+      "x": 10075.865370600597,
+      "y": -1752.2695120088156,
       "w": 320,
       "h": 143,
       "group": null,
@@ -2245,8 +2245,8 @@
     },
     {
       "id": "nd9mu7zv",
-      "x": 8444.736600331586,
-      "y": 586.8561772157648,
+      "x": 7964.736600331586,
+      "y": 942.8561772157648,
       "w": 320,
       "h": 254,
       "group": null,
@@ -2268,8 +2268,8 @@
     },
     {
       "id": "najakot8",
-      "x": 8924.736600331586,
-      "y": 290.8561772157648,
+      "x": 9104.736600331586,
+      "y": 586.8561772157648,
       "w": 320,
       "h": 149,
       "group": null,
@@ -2291,8 +2291,8 @@
     },
     {
       "id": "nnmjsmbx",
-      "x": 4916.5908072096845,
-      "y": -847.5606372835107,
+      "x": 4632.5908072096845,
+      "y": -955.5606372835107,
       "w": 320,
       "h": 283,
       "group": null,
@@ -2316,8 +2316,8 @@
     },
     {
       "id": "nr6ljo8b",
-      "x": 5624.5908072096845,
-      "y": -1063.5606372835107,
+      "x": 5580.5908072096845,
+      "y": -1023.5606372835107,
       "w": 320,
       "h": 224,
       "group": null,
@@ -2344,7 +2344,7 @@
       "x": 6108.5908072096845,
       "y": -919.5606372835107,
       "w": 320,
-      "h": 224,
+      "h": 434,
       "group": null,
       "data": {
         "date": "2025-10-26",
@@ -2359,21 +2359,21 @@
           "Socio-political"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "conflitto burocratico nel definire dove lo stato va e sta → nel definire il nuovo posizionamento del confine\nconflitto che si creerebbe tra i doversi popoli\ne stato con stato sul concetto di proprietà territoriale, giurisdizione, definizioni culturali\nconflitto tra il popolo interno che si sente spaesato su un altro territorio.\n\ngoverni, stati e cittadini entrano in conflitto tra di loro e l’ente amministrativo entra in conflitto burocratico con gli stati.\n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n5oesg5f",
-      "x": 5952.5908072096845,
-      "y": -720.5606372835107,
+      "x": 6100.517854424084,
+      "y": -456.567753023965,
       "w": 320,
-      "h": 224,
+      "h": 384,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "problematica",
+        "title": "ente",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
@@ -2384,17 +2384,17 @@
           "Socio-political"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Siamo un ente amministrativo che, a tavolino, decide dove ricollocare gli Stati scomparsi a causa dell’innalzamento dei mari, individuando territori ancora emersi su cui “riporli”. La scelta dei nuovi insediamenti si basa sulla disponibilità fisica delle terre: a ciascuno Stato sommerso viene assegnata un’area equivalente per metratura all’interno di un altro territorio.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nxj2hw02",
-      "x": 5776.5908072096845,
-      "y": -501.5606372835107,
+      "x": 6817.411332094871,
+      "y": -1091.1984783090936,
       "w": 320,
-      "h": 224,
+      "h": 468,
       "group": null,
       "data": {
         "date": "2025-10-26",
@@ -2409,7 +2409,7 @@
           "Socio-political"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "E se fosse inevitabile una ridistribuzione degli stati mondiali forzando un nuovo equilibrio tra governi, stati e cittadini?\n\nIn un futuro prossimo, lo scioglimento progressivo dei ghiacci provocherà l'innalzamento del livello dei mari, con conseguente sommersione di porzioni significative di territorio appartenenti ad alcuni Stati. In questo scenario, intere popolazioni si troveranno prive della propria terra d’origine, con profonde implicazioni politiche, burocratiche e umanitarie. \nLa burocrazia si ritroverà inevitabilmente a dover gestire la ridefinizione dei confini geografici e geopolitici.",
         "links": [],
         "files": []
       }
@@ -2441,8 +2441,8 @@
     },
     {
       "id": "n7wps6p7",
-      "x": 5624.5908072096845,
-      "y": -2112.560637283511,
+      "x": 5430.126485434173,
+      "y": -2078.8106310249514,
       "w": 320,
       "h": 224,
       "group": null,
@@ -2466,8 +2466,8 @@
     },
     {
       "id": "n9ci03bm",
-      "x": 5640.5908072096845,
-      "y": -2637.560637283511,
+      "x": 5492.867137634924,
+      "y": -2864.0394617115,
       "w": 320,
       "h": 224,
       "group": null,
@@ -2491,8 +2491,8 @@
     },
     {
       "id": "n1y01te4",
-      "x": 6301.213806340825,
-      "y": -1538.0801060063588,
+      "x": 7324.560623084299,
+      "y": -1993.4269227498319,
       "w": 320,
       "h": 266,
       "group": null,
@@ -2516,8 +2516,8 @@
     },
     {
       "id": "nh307m48",
-      "x": 6895.304508990668,
-      "y": -1531.5606372835107,
+      "x": 7939.304508990666,
+      "y": -2187.560637283511,
       "w": 320,
       "h": 224,
       "group": null,
@@ -2541,14 +2541,14 @@
     },
     {
       "id": "nn3eluom",
-      "x": 7399.304508990668,
-      "y": -2332.2695120088156,
+      "x": 8075.893839569315,
+      "y": -1770.6855418759196,
       "w": 320,
-      "h": 195,
+      "h": 384,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "",
+        "title": "ius sanguinis",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
@@ -2559,21 +2559,21 @@
           "Socio-political"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "La richiesta di cittadinanza italiana per ius sanguinis (“diritto di sangue”) si basa sul principio che la cittadinanza italiana si trasmette di generazione in generazione per discendenza da un avo italiano — senza limiti di generazione, purché non ci sia stata interruzione nella trasmissione (cioè un antenato che abbia perso o rinunciato alla cittadinanza italiana prima della nascita del figlio successivo).",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ns9y3z8c",
-      "x": 7399.304508990668,
-      "y": -2101.2695120088156,
+      "x": 8454.889416310969,
+      "y": -1536.715013745361,
       "w": 320,
-      "h": 195,
+      "h": 787,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "",
+        "title": "cosa si può sapere dal sangue",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
@@ -2584,21 +2584,21 @@
           "Socio-political"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Cosa puoi sapere dal sangue\nDal sangue (più precisamente dal DNA contenuto nei globuli bianchi) si può:\nIdentificare una persona (tramite analisi del profilo genetico);\nDeterminare relazioni di parentela (es. test di paternità);\nAnalizzare le origini genetiche o l’ascendenza (ad esempio, sapere se una persona ha antenati europei, africani, asiatici, ecc.);\nStudiare tratti ereditari e predisposizioni genetiche (per malattie o caratteristiche fisiche).\n\nCome funziona\nIl DNA viene estratto dal sangue e confrontato con:\nBanche dati genetiche (per i test di ascendenza, come 23andMe o MyHeritage);\nCampioni di altri individui (per test di parentela o identificazione).\n\nLimiti\nL’ascendenza genetica è una stima statistica, non una certezza assoluta;\nI test possono rivelare solo origini biologiche, non culturali o nazionali;\nServe consenso legale: non si può analizzare il DNA di qualcuno senza il suo permesso (è una violazione della privacy e, in Italia, è anche un reato).\n\nSì, dal sangue puoi ottenere informazioni genetiche utili per verificare origini, parentele o identità, ma solo in modo legale e con il consenso della persona interessata.\nVuoi che ti spieghi come si fa tecnicamente un test del DNA da un campione di sangue (in laboratorio)?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nkfiuxlj",
-      "x": 7399.304508990668,
-      "y": -1870.2695120088156,
+      "x": 8445.705306916992,
+      "y": -1984.356130717414,
       "w": 320,
-      "h": 195,
+      "h": 417,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "",
+        "title": "ius sanguinis vs ius solis",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
@@ -2609,7 +2609,292 @@
           "Socio-political"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Premessa: ius sanguinis vs ius soli\nI Paesi del mondo si dividono (semplificando) in due grandi categorie:\nIus sanguinis (“diritto di sangue”) → La cittadinanza si trasmette dai genitori al figlio, indipendentemente da dove nasce.  🇮🇹 Esempio: Italia, Grecia, Polonia, Giappone.\nIus soli (“diritto del suolo”) → La cittadinanza si ottiene nascendo sul territorio dello Stato.  🇺🇸 Esempio: Stati Uniti, Canada, Brasile.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nhxw1z8p",
+      "x": 6476.828640973291,
+      "y": -1096.165829313717,
+      "w": 320,
+      "h": 753,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "contesto",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Le ricerche scientifiche indicano con crescente certezza che i mari si stanno innalzando a causa del riscaldamento globale e dello scioglimento dei ghiacci polari. Se questa tendenza continuerà, vaste porzioni di terre costiere saranno sommerse, trasformando profondamente ecosistemi e città. A lungo termine, gran parte delle terre oggi emerse potrebbe essere completamente ricoperta dall’acqua, con coste ridisegnate e intere civiltà costrette ad adattarsi a un mondo in gran parte acquatico. Gli ecosistemi subiranno trasformazioni profonde e la geografia del pianeta così come la conosciamo oggi non sarà più riconoscibile.\nIn questo contesto, la situazione geopolitica mondiale appare sempre più complessa. In diverse aree, Stati esercitano pressione politica, economica o militare su altri, insediandosi o influenzandone il territorio e le decisioni interne. Tali interventi generano instabilità, ridefiniscono i confini di potere e provocano crisi di governance.\nParallelamente, conflitti, cambiamenti climatici e crisi economiche costringono vaste popolazioni a spostarsi. Migliaia di persone diventano migranti o rifugiati, alla ricerca di sicurezza, lavoro e condizioni di vita migliori. Questi flussi mettono sotto pressione le strutture statali, sollevano complesse questioni di integrazione sociale e alimentano tensioni sia all’interno dei Paesi ospitanti sia tra gli Stati stessi, ridefinendo costantemente la geografia sociale e politica del mondo.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n69ggwt4",
+      "x": 7068.032025152396,
+      "y": -387.8319197687185,
+      "w": 320,
+      "h": 231,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "feedback negativo",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Non emerge l’aspetto burocratico dei confini\nEmerge il rifugiato climatico",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6brru8k",
+      "x": 6132.67043022961,
+      "y": -2368.6222059100596,
+      "w": 320,
+      "h": 265,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "problematica",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "in base alla tua cittadinzanza (dettata dagli stati/confini) si ha più o meno libertà di muoversi attraverso confini grazie a passaporti che hanno diversi pesi",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3y8h4qs",
+      "x": 6118.766541651595,
+      "y": -2090.172554103762,
+      "w": 320,
+      "h": 266,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "whatif",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "e se i passaporti fossero dati in modo random",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "neo6nj5j",
+      "x": 6749.6554858790305,
+      "y": -2134.9883117363156,
+      "w": 320,
+      "h": 248,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "feedback",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "elemento speculativo non abbastanza perchè è semplicemente un rimarcare ciò che succede effettivamente",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n33ic9u9",
+      "x": 6141.403698943291,
+      "y": -1705.9012882750026,
+      "w": 320,
+      "h": 367,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "problematica",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "per attraversare confini ci sono regole e probelmatiche, molti possono andare ovunque e molti no → iter burocratico per spostarsi, ci siamo auto\n\ncomparazione con regole burocratiche che regolamentano i movimenti internazionali dei pacchi e delle persone",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n2z9a2d5",
+      "x": 6489.457256303224,
+      "y": -1457.4888253709087,
+      "w": 320,
+      "h": 283,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "whatif",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "e se il movimento di un uomo attraverso vari confini avvenisse con lo stesso iter burocratico dei pacchi?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n53kzafb",
+      "x": 7038.077418861429,
+      "y": -1582.9593496574703,
+      "w": 320,
+      "h": 266,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "feedback negativo",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "troppo paragone uno a uno",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njcx9cg8",
+      "x": 5756.682529751011,
+      "y": -2424.592632370712,
+      "w": 320,
+      "h": 300,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "lotteria della cittadinanza",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "america che ogni anno fa una lotteria e da più di cinquantamila cittadinanze per avere uno stato più eterogeneo",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n72upnfh",
+      "x": 5928.127398422826,
+      "y": -3166.69063873451,
+      "w": 320,
+      "h": 300,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "confini non scritti",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "Esistono delle regole che non scritte che variano di paese in paese che ogni ospite deve seguire quando viene invitato a casa di qualcuno",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nanz192r",
+      "x": 6401.548025009282,
+      "y": -2890.356955365675,
+      "w": 320,
+      "h": 316,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "scenario",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "utilizzo della sogli di casa come confine \n-> ognuno può fare una selezione all'ingresso -> creare confini effettivi sulla soglia di casa con un espediente come lo zerbino",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkqo0t3l",
+      "x": 6881.548025009282,
+      "y": -2890.356955365675,
+      "w": 320,
+      "h": 300,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "feedback proprio",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Feelings",
+          "Semantic research",
+          "Conflict",
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "non abbastanza speculativo perchè la casa è la proprietà privata -> non tutti possono entrare nella proprietà privata -> c'è gia una selezione",
         "links": [],
         "files": []
       }
@@ -3465,39 +3750,152 @@
       "s": "nn3eluom",
       "t": "n9f63nt8",
       "dashed": false
+    },
+    {
+      "s": "nr6ljo8b",
+      "t": "nhxw1z8p",
+      "dashed": false
+    },
+    {
+      "s": "nr6ljo8b",
+      "t": "n69ggwt4",
+      "dashed": false
+    },
+    {
+      "s": "nxj2hw02",
+      "t": "n69ggwt4",
+      "dashed": false
+    },
+    {
+      "s": "nhxw1z8p",
+      "t": "n69ggwt4",
+      "dashed": false
+    },
+    {
+      "s": "nohmi1vl",
+      "t": "n69ggwt4",
+      "dashed": false
+    },
+    {
+      "s": "n5oesg5f",
+      "t": "n69ggwt4",
+      "dashed": false
+    },
+    {
+      "s": "n7wps6p7",
+      "t": "n6brru8k",
+      "dashed": false
+    },
+    {
+      "s": "n7wps6p7",
+      "t": "n3y8h4qs",
+      "dashed": false
+    },
+    {
+      "s": "n7wps6p7",
+      "t": "neo6nj5j",
+      "dashed": false
+    },
+    {
+      "s": "n6brru8k",
+      "t": "neo6nj5j",
+      "dashed": false
+    },
+    {
+      "s": "n3y8h4qs",
+      "t": "neo6nj5j",
+      "dashed": false
+    },
+    {
+      "s": "ndijh5vs",
+      "t": "n33ic9u9",
+      "dashed": false
+    },
+    {
+      "s": "ndijh5vs",
+      "t": "n2z9a2d5",
+      "dashed": false
+    },
+    {
+      "s": "n33ic9u9",
+      "t": "n53kzafb",
+      "dashed": false
+    },
+    {
+      "s": "n2z9a2d5",
+      "t": "n53kzafb",
+      "dashed": false
+    },
+    {
+      "s": "ndijh5vs",
+      "t": "n53kzafb",
+      "dashed": false
+    },
+    {
+      "s": "n7wps6p7",
+      "t": "njcx9cg8",
+      "dashed": false
+    },
+    {
+      "s": "njcx9cg8",
+      "t": "n6brru8k",
+      "dashed": false
+    },
+    {
+      "s": "njcx9cg8",
+      "t": "n3y8h4qs",
+      "dashed": false
+    },
+    {
+      "s": "n9ci03bm",
+      "t": "n72upnfh",
+      "dashed": false
+    },
+    {
+      "s": "n72upnfh",
+      "t": "nanz192r",
+      "dashed": false
+    },
+    {
+      "s": "n9ci03bm",
+      "t": "nanz192r",
+      "dashed": false
+    },
+    {
+      "s": "nanz192r",
+      "t": "nkqo0t3l",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Emotional response",
-      "Cultural studies",
-      "Communication",
-      "Conflict",
-      "Hystory",
-      "Socio-political",
-      "Design research",
-      "Definition",
-      "Literature",
-      "Critical design",
-      "Media studies",
-      "Feelings",
-      "Semantic research",
-      "Documentary",
-      "Photography",
-      "Film",
-      "Object",
+      "Installation",
       "Art",
-      "Installation"
+      "Photography",
+      "Documentary",
+      "Semantic research",
+      "Feelings",
+      "Media studies",
+      "Critical design",
+      "Literature",
+      "Definition",
+      "Design research",
+      "Socio-political",
+      "Hystory",
+      "Conflict",
+      "Communication",
+      "Cultural studies",
+      "Emotional response"
     ],
     "tags": [],
     "type": [
       "Concept",
       "Moodboard",
-      "Research",
       "Source",
-      "Brief",
+      "Research",
+      "Feedback",
       "Conclusione",
-      "Feedback"
+      "Brief"
     ]
   }
 }
