@@ -47,7 +47,7 @@
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": "Bureaucratic conflict",
+        "title": "Areas of bureaucratic conflict",
         "type": "Brief",
         "action": null,
         "mainArea": null,
@@ -143,23 +143,23 @@
     },
     {
       "id": "nvi0dm4q",
-      "x": -707.2637607701096,
-      "y": 378.23397211817246,
+      "x": -717.5912987956355,
+      "y": 355.12333781366976,
       "w": 320,
-      "h": 773,
+      "h": 673,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "Bureaucracy",
-        "type": "Research",
+        "title": "The Nature of Bureaucracy",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Semantic research",
-          "Hystory"
+          "Hystory",
+          "Socio-political"
         ],
         "tags": [],
-        "desc": "Bureaucracy is the body of officials and offices which, organized in various hierarchical levels, carry out the functions of public administration within the state (state bureaucracy; the reform of bureaucracy).\n2. In a broader sense, the word refers to the officials of an entity or an organization, even if not state-related.\n3. In an abstract, and mostly negative sense, bureaucracy can also refer to the power assumed by the mass of officials, and especially to the long and complex series of formalities and procedures—often perceived as excessive and unnecessary—through which a case must pass to be completed (the slowness, the red tape of bureaucracy).\nFinally, in a figurative sense, the term bureaucracy refers to an exaggerated and inflexible observance of regulations, especially when they are followed more in their formal aspects than in their substance.",
+        "desc": "Bureaucracy is the organizational structure composed of officials and offices arranged in hierarchical levels to perform administrative functions. The term also extends to structured organizations managed through formal rules and procedures. Beyond its technical meaning, bureaucracy often carries a negative connotation, symbolizing inefficiency, rigidity, and excessive formalism. It becomes an emblem of systems where procedure prevails over purpose, illustrating the inherent tension between control, order, and adaptability within institutional structures.",
         "links": [],
         "files": [
           {
@@ -2268,8 +2268,8 @@
     },
     {
       "id": "najakot8",
-      "x": 9104.736600331586,
-      "y": 586.8561772157648,
+      "x": 9380.736600331586,
+      "y": 582.8561772157648,
       "w": 320,
       "h": 149,
       "group": null,
@@ -3869,33 +3869,33 @@
   ],
   "vocab": {
     "areas": [
-      "Installation",
-      "Art",
-      "Photography",
-      "Documentary",
-      "Semantic research",
-      "Feelings",
-      "Media studies",
-      "Critical design",
-      "Literature",
-      "Definition",
-      "Design research",
       "Socio-political",
-      "Hystory",
-      "Conflict",
-      "Communication",
+      "Emotional response",
       "Cultural studies",
-      "Emotional response"
+      "Communication",
+      "Conflict",
+      "Hystory",
+      "Design research",
+      "Definition",
+      "Literature",
+      "Critical design",
+      "Media studies",
+      "Feelings",
+      "Semantic research",
+      "Documentary",
+      "Photography",
+      "Art",
+      "Installation"
     ],
     "tags": [],
     "type": [
-      "Concept",
-      "Moodboard",
-      "Source",
       "Research",
-      "Feedback",
+      "Brief",
+      "Source",
+      "Concept",
       "Conclusione",
-      "Brief"
+      "Feedback",
+      "Moodboard"
     ]
   }
 }
