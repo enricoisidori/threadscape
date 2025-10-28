@@ -178,66 +178,75 @@
       "x": -228.5846547001845,
       "y": 1266.6968079699159,
       "w": 320,
-      "h": 484,
+      "h": 457,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "conflict",
-        "type": "Research",
+        "title": "The Nature of Conflict",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Semantic research",
           "Conflict",
-          "Emotional response",
-          "Communication"
+          "Socio-political",
+          "Philosophy"
         ],
-        "tags": [],
-        "desc": "Conflict is any form of clash that generates violence, whether material or symbolic.\nConflict is a state of opposition.\nConflict is a constant condition that runs through society.\nIt is not confined to war or explicit confrontations:\nit emerges in the spaces of collective life as friction, as an ongoing confrontation between different needs, systems, and visions.\nIt is present in cultural practices, in social relations, in infrastructures.\nConflict is integrated into everyday environments and practices.\nIt manifests through a widespread arsenal.",
+        "tags": [
+          "Conflict",
+          "Opposition",
+          "Social tension"
+        ],
+        "desc": "Conflict represents any form of clash that generates violence, whether material or symbolic. It defines a state of opposition and persists as a structural condition within society. Beyond warfare or explicit confrontation, conflict emerges in everyday spaces as friction between diverse systems, needs, and visions. It is embedded in cultural practices, social relations, and infrastructures, becoming a pervasive component of collective life. Through its diffusion, conflict reveals itself as an essential force shaping interaction, negotiation, and transformation across human environments.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nu4trdn0",
-      "x": 1109.5721764440036,
+      "x": 1108.454073403416,
       "y": 2721.017370754349,
       "w": 320,
-      "h": 321,
+      "h": 434,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "emotional response to bureaucracy",
-        "type": "Research",
+        "title": "Emotional Responses to Bureaucracy",
+        "type": "Collection",
         "action": "Exploring",
-        "mainArea": null,
+        "mainArea": "Communication",
         "areas": [
-          "Semantic research"
+          "Sociology",
+          "Conflict"
         ],
-        "tags": [],
-        "desc": "oppression, truncation, overwhelm, deadlock, helplessness, immobility, coldness, paperwork, boredom, greyness, slowness, frustration, waiting, misunderstanding, difficulty of understanding, lack of adaptability, a wall from which it is hard to obtain answers and help in a short time, a feeling of being left alone and unheard.",
+        "tags": [
+          "Emotion",
+          "Feelings",
+          "Conflict"
+        ],
+        "desc": "The emotional dimension of bureaucracy reveals a complex landscape of human responses shaped by institutional rigidity. Feelings such as oppression, frustration, and helplessness emerge from the system’s slowness, formality, and impersonal nature. Bureaucracy produces experiences of deadlock, misunderstanding, and disconnection, marked by paperwork, waiting, and the absence of empathy. Its cold and grey aesthetics reinforce a sense of immobility and alienation, where individuals perceive themselves as trapped in an apparatus that prioritizes procedure over care. \n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nzuhnkym",
-      "x": 409.75960067748156,
-      "y": 805.2393817255479,
+      "x": 398.5725357408585,
+      "y": 809.7142077001972,
       "w": 320,
-      "h": 422,
+      "h": 489,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "History of bureaucracy",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Hystory"
+          "Hystory",
+          "Socio-political"
         ],
         "tags": [],
-        "desc": "- Radici Antiche e Fondamenti Pre-Moderni: La Burocrazia come Strumento di Centralizzazione\n- Le Origini nelle Civiltà Idrauliche e Imperi\n- L'Evoluzione nell'Impero Romano\n- Dal Caos Feudale allo Stato Moderno: La Nascita dell'Apparato Burocratico Razionale\n- L'Emersione degli Stati Nazionali\n- L'Autorità Legale-Razionale e il Capitalismo\n- Le Contraddizioni e le Patologie: La Burocrazia contro Se Stessa\n- L'Era delle Riforme Amministrative\n- La Digitalizzazione e l'Intelligenza Artificiale",
+        "desc": "The historical development of bureaucracy traces a trajectory from ancient systems of centralized control to contemporary digital governance. Its roots lie in early hydraulic civilizations and empires, where administrative coordination enabled state expansion. The Roman Empire refined these principles, establishing durable models of record-keeping and hierarchical authority. With the decline of feudal fragmentation, modern states emerged, institutionalizing rational bureaucratic apparatuses as tools of legal and economic order. Across the capitalist era, bureaucracy became both a mechanism of efficiency and a site of contradiction—reformulated through administrative modernization and, more recently, through digital infrastructures and artificial intelligence, which redefine its modes of control and rationality.",
         "links": [],
         "files": []
       }
@@ -378,24 +387,25 @@
     },
     {
       "id": "nr4kqalv",
-      "x": 1627.8733488980677,
-      "y": 2815.885730145156,
+      "x": 1602.0191745946315,
+      "y": 2816.843292156394,
       "w": 320,
-      "h": 408,
+      "h": 459,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Conflict Between Citizens and Bureaucracy",
-        "type": "",
+        "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
+        "mainArea": "Communication",
         "areas": [
           "Conflict",
-          "Feelings",
-          "Emotional response"
+          "Sociology",
+          "Cultural studies",
+          "Hystory"
         ],
         "tags": [],
-        "desc": "Although bureaucracy is meant to be a system that maintains order, in the daily lives of citizens it often generates discomfort, frustration, anger, and boredom.\n\nThere is a widespread perception and common belief that bureaucracy is long, complex, burdensome, rigid, inaccessible, tedious, and exasperating.",
+        "desc": "Although bureaucracy is designed to ensure order and administrative stability, its interaction with citizens often generates tension and discomfort.\nThe widespread belief that bureaucracy is rigid, burdensome, and inaccessible reflects a collective emotional response to its inefficiency. This perception highlights the gap between institutional rationality and individual experience, where the promise of structure turns into an obstacle to participation and agency.",
         "links": [
           "https://doi.org/10.1080/10967494.2015.1027800",
           "https://doi.org/10.1017/S0143814X22000282",
@@ -521,10 +531,10 @@
     },
     {
       "id": "ne2dvn9k",
-      "x": 2038.7079370090973,
-      "y": 2631.6558126941895,
+      "x": 2243.5405541242644,
+      "y": 2566.5912840721935,
       "w": 320,
-      "h": 372,
+      "h": 457,
       "group": null,
       "data": {
         "date": "2025-09-25",
@@ -534,10 +544,13 @@
         "mainArea": null,
         "areas": [
           "Hystory",
-          "Definition"
+          "Public administration",
+          "Sociology",
+          "Cultural studies",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "“Red tape” is an English expression that refers to excessive bureaucracy, official and formal procedures perceived as unnecessary, complex, and causing delays.\n\nOne of the most cited definitions is by G. Bozeman:\n“Rules, regulations, and procedures that remain in effect and impose a compliance burden on the organization but do not contribute to achieving the functional goals for which the rules were intended.” A Theory of Government Red Tape, 1993",
+        "desc": "“Red tape” is an English expression used to describe excessive bureaucracy and procedural formalism that hinder efficiency. It denotes administrative rules and regulations perceived as unnecessary, rigid, and time-consuming. According to G. Bozeman’s definition in A Theory of Government Red Tape (1993), it refers to “rules, regulations, and procedures that remain in effect and impose a compliance burden on the organization but do not contribute to achieving the functional goals for which the rules were intended.”",
         "links": [],
         "files": []
       }
@@ -547,7 +560,7 @@
       "x": 2037.2547493494649,
       "y": 3049.7309957315024,
       "w": 320,
-      "h": 556,
+      "h": 579,
       "group": null,
       "data": {
         "date": "2025-09-25",
@@ -556,7 +569,10 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Literature"
+          "Literature",
+          "Cultural studies",
+          "Sociology",
+          "Conflict"
         ],
         "tags": [],
         "desc": "Key points of Kafka’s critique of bureaucracy can be summarized as follows:\n\nLabyrinth and absurdity: Kafka depicts bureaucracy as a maze of obscure rules, faceless procedures, and offices existing mainly to perpetuate themselves. In The Trial, Josef K. is arrested for a crime whose charge is never revealed, forcing him to navigate an illogical, elusive judicial system, with his lawyer moving as slowly and opaquely as the process itself.\n\nImpersonal machine: Bureaucracy is portrayed as a system where cold rationality masks a world of complex, contradictory interests. Individuals like Josef K. become mere cogs, while officials and judges appear symbolic, almost inhuman, with incomprehensible, impersonal power.\n\nContradiction and totalitarian potential: Kafka foresaw bureaucracy’s tendency to become a totalitarian instrument, permeating citizens’ lives and minds. The system enforces conformity and submission to rules that seem to exist independently, suppressing personal freedom and subjectivity.",
@@ -1284,46 +1300,22 @@
       }
     },
     {
-      "id": "nm70xtsc",
-      "x": 2618.458648670695,
-      "y": 2859.5578144916412,
-      "w": 320,
-      "h": 445,
-      "group": null,
-      "data": {
-        "date": "2025-10-19",
-        "title": "migliorare percettivamente la burocrazia",
-        "type": "",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [
-          "Conflict",
-          "Feelings",
-          "Emotional response"
-        ],
-        "tags": [],
-        "desc": "Making bureaucracy more approachable, engaging, and even “friendly” highlights the tension between bureaucratic systems and citizens—the frustration, delays, dreary work environments, and sheer boredom that define the experience. To ease this burden, one could imagine a mechanism that facilitates interaction with bureaucracy, but with a catch: it creates dependence, like a “drug” that alters perception, making individuals more willing to accept or endure the system rather than resist it. This approach encourages reflection on how convenience can come at the cost of autonomy and critical engagement.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "nn6cejhn",
-      "x": 3030.09576334549,
-      "y": 2844.6034333267526,
+      "x": 2647.4256965882046,
+      "y": 2915.52855115798,
       "w": 320,
       "h": 472,
       "group": null,
       "data": {
         "date": "2025-10-19",
-        "title": "aesthetic quality of an environment",
-        "type": "",
+        "title": "The Psychology of Space",
+        "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
+        "mainArea": "Interaction",
         "areas": [
-          "Conflict",
-          "Feelings",
-          "Emotional response"
+          "Spatial design",
+          "Envirionment",
+          "Sociology"
         ],
         "tags": [],
         "desc": "The aesthetic quality of an environment has a psychological impact on us, influencing our mood. A dull, unwelcoming space can negatively affect our feelings, which in turn reduces productivity. Conversely, when a space is thoughtfully designed, we feel more welcomed and at ease.",
@@ -1335,18 +1327,22 @@
     },
     {
       "id": "n8u0buke",
-      "x": 3429.6219442016804,
-      "y": 3006.581600302991,
+      "x": 3132.4123742874035,
+      "y": 2914.054092688169,
       "w": 320,
-      "h": 466,
+      "h": 501,
       "group": null,
       "data": {
         "date": "2025-10-19",
-        "title": "What if it were possible to alter the way the human brain perceives and responds to these environments and objects?",
-        "type": "",
+        "title": "What if it were possible to alter the way the human brain perceives to bureaucracy?",
+        "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
-        "areas": [],
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political",
+          "Public administration",
+          "Design research"
+        ],
         "tags": [],
         "desc": "Altering the human brain’s perception of bureaucracy could involve giving people “medicines” before they engage with administrative processes, changing their experience to feel pleasant, ethereal, colorful, and carefree. Taking the medicine highlights just how much bureaucracy is a source of conflict in everyday life—it is such a tedious and frustrating experience that people would rather alter their perception beforehand than face it as it is.\n\nThe alteration acts like a sedative: citizens are so soothed by the appearance of the redesigned environment that they fail to notice its persistent inefficiency. The “medicine” does not simplify the process; it anesthetizes protest and frustration.",
         "links": [],
@@ -1355,8 +1351,8 @@
     },
     {
       "id": "ny9qm2o8",
-      "x": 3884.1985908615857,
-      "y": 3108.830303039574,
+      "x": 3603.8122041500037,
+      "y": 3047.145297963026,
       "w": 320,
       "h": 214,
       "group": null,
@@ -3267,32 +3263,7 @@
       "dashed": false
     },
     {
-      "s": "nr4kqalv",
-      "t": "nm70xtsc",
-      "dashed": false
-    },
-    {
-      "s": "ne2dvn9k",
-      "t": "nm70xtsc",
-      "dashed": false
-    },
-    {
-      "s": "ni04g7pj",
-      "t": "nm70xtsc",
-      "dashed": false
-    },
-    {
-      "s": "nm70xtsc",
-      "t": "nn6cejhn",
-      "dashed": false
-    },
-    {
       "s": "nn6cejhn",
-      "t": "n8u0buke",
-      "dashed": false
-    },
-    {
-      "s": "nm70xtsc",
       "t": "n8u0buke",
       "dashed": false
     },
@@ -3865,37 +3836,66 @@
       "s": "nanz192r",
       "t": "nkqo0t3l",
       "dashed": false
+    },
+    {
+      "s": "nr4kqalv",
+      "t": "nn6cejhn",
+      "dashed": false
+    },
+    {
+      "s": "ne2dvn9k",
+      "t": "nn6cejhn",
+      "dashed": false
+    },
+    {
+      "s": "ni04g7pj",
+      "t": "nn6cejhn",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Socio-political",
-      "Emotional response",
-      "Cultural studies",
-      "Communication",
-      "Conflict",
-      "Hystory",
       "Design research",
-      "Definition",
-      "Literature",
-      "Critical design",
-      "Media studies",
-      "Feelings",
-      "Semantic research",
-      "Documentary",
-      "Photography",
+      "Public administration",
+      "Socio-political",
+      "Sociology",
+      "Envirionment",
+      "Spatial design",
+      "Spatial designenvirionment",
+      "Conflict",
+      "Cultural studies",
+      "Hystory",
+      "Philosophy",
+      "Installation",
       "Art",
-      "Installation"
+      "Photography",
+      "Documentary",
+      "Semantic research",
+      "Feelings",
+      "Media studies",
+      "Critical design",
+      "Literature",
+      "Definition",
+      "Communication",
+      "Emotional response"
     ],
-    "tags": [],
+    "tags": [
+      "Conflict",
+      "Feelings",
+      "Emotion",
+      "Social tension",
+      "Opposition"
+    ],
     "type": [
-      "Research",
-      "Brief",
-      "Source",
       "Concept",
-      "Conclusione",
+      "Observation",
+      "Research",
+      "Source",
+      "Collection",
+      "Moodboard",
       "Feedback",
-      "Moodboard"
+      "Conclusione",
+      "Brief"
     ]
   }
 }
