@@ -3853,7 +3853,7 @@
     },
     {
       "id": "n57z583b",
-      "x": 8042.6777033318995,
+      "x": 8098.6777033318995,
       "y": 4274.94950652812,
       "w": 320,
       "h": 735,
@@ -3894,7 +3894,7 @@
     },
     {
       "id": "nnrcu9ul",
-      "x": 11932.01608603654,
+      "x": 11826.135599461242,
       "y": 5590.007162732756,
       "w": 320,
       "h": 486,
@@ -3939,7 +3939,7 @@
           "Speculative design"
         ],
         "tags": [],
-        "desc": "Defining the overall personality and style a brand uses to communicate, while tone is the specific emotional inflection applied to that voice depending on the context\n* neutral\n* strict\n *severe\n* serious\n* institutional\n* rigorous\n* formal\n* respectful\n",
+        "desc": "Defining the overall personality and style a brand uses to communicate, while tone is the specific emotional inflection applied to that voice depending on the context:\n* neutral\n* strict\n *severe\n* serious\n* institutional\n* rigorous\n* formal\n* respectful\n",
         "links": [],
         "files": []
       }
@@ -5001,50 +5001,50 @@
   ],
   "vocab": {
     "areas": [
-      "Design research",
-      "Socio-political",
-      "Media studies",
-      "Critical design",
-      "Chronopolitics",
-      "Metric system",
-      "Critical theory",
-      "Critical data studies",
-      "Data ethics",
+      "Speculative design",
       "Communication",
-      "Speculative design"
+      "Data ethics",
+      "Critical data studies",
+      "Critical theory",
+      "Metric system",
+      "Chronopolitics",
+      "Critical design",
+      "Media studies",
+      "Socio-political",
+      "Design research"
     ],
     "tags": [
-      "Socio-political",
-      "Measuring the unmeasurable",
-      "Body-politics",
-      "Deceptive pattern",
-      "Subjective reality",
-      "Alternative values",
-      "Identities",
-      "Algorithmic bias",
-      "Biometric data",
-      "Big data",
-      "Algorithmic governance",
-      "Cognitive bias",
-      "Data perception",
-      "Statistic bias",
-      "Mechanical computing",
-      "Senolytics",
-      "Cellular senescence",
-      "Relativity",
-      "Speculative projects",
-      "Metrics distortion",
-      "Metric system",
+      "Data representation",
       "Metric governance",
-      "Data representation"
+      "Metric system",
+      "Metrics distortion",
+      "Speculative projects",
+      "Relativity",
+      "Cellular senescence",
+      "Senolytics",
+      "Mechanical computing",
+      "Statistic bias",
+      "Data perception",
+      "Cognitive bias",
+      "Algorithmic governance",
+      "Big data",
+      "Biometric data",
+      "Algorithmic bias",
+      "Identities",
+      "Alternative values",
+      "Subjective reality",
+      "Deceptive pattern",
+      "Body-politics",
+      "Measuring the unmeasurable",
+      "Socio-political"
     ],
     "type": [
-      "Brief",
-      "Source",
-      "Finding",
+      "Concept",
       "Feedback",
       "Collection",
-      "Concept"
+      "Finding",
+      "Source",
+      "Brief"
     ]
   }
 }
