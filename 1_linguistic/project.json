@@ -968,7 +968,7 @@
       "data": {
         "date": "2025-09-19",
         "title": "First round of cards creation ",
-        "type": "Source",
+        "type": "Decision",
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [],
@@ -1291,7 +1291,7 @@
       "data": {
         "date": "2025-09-22",
         "title": "Paralanguage",
-        "type": "Sketch",
+        "type": "Finding",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1636,8 +1636,8 @@
       "group": null,
       "data": {
         "date": "2025-09-23",
-        "title": "useful links",
-        "type": "Sketch",
+        "title": "Useful link for the Taboo as a linguistic conflict ",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -1699,7 +1699,7 @@
       "data": {
         "date": "2025-09-23",
         "title": "moodboard",
-        "type": "Sketch",
+        "type": "Collection",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
@@ -1731,7 +1731,7 @@
       "group": null,
       "data": {
         "date": "2025-09-23",
-        "title": "useful links",
+        "title": "useful links to support the sapir worf theory",
         "type": "Source",
         "action": "Exploring",
         "mainArea": "Speculation",
@@ -2392,8 +2392,8 @@
     },
     {
       "id": "nuetykyf",
-      "x": 16663.532647535554,
-      "y": 3931.367959493454,
+      "x": 17057.348165187195,
+      "y": 4330.392209593523,
       "w": 320,
       "h": 2153,
       "group": null,
@@ -4590,29 +4590,31 @@
   ],
   "vocab": {
     "areas": [
-      "Society",
-      "Conflict",
-      "Censorship",
-      "Arts",
-      "Morphology",
-      "Mental health",
-      "Philosophy",
-      "Research",
-      "Cognitive science",
-      "Information",
-      "Informatics",
+      "Evolution",
       "Linguistic",
-      "Evolution"
+      "Informatics",
+      "Information",
+      "Cognitive science",
+      "Research",
+      "Philosophy",
+      "Mental health",
+      "Morphology",
+      "Arts",
+      "Censorship",
+      "Conflict",
+      "Society"
     ],
     "tags": [],
     "type": [
-      "Feedback",
-      "Slides",
-      "Source",
       "Collection",
-      "Brief",
+      "Source",
       "Sketch",
-      "What-if"
+      "Decision",
+      "Finding",
+      "Slides",
+      "Feedback",
+      "What-if",
+      "Brief"
     ]
   }
 }

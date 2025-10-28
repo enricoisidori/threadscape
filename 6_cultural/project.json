@@ -401,7 +401,7 @@
       "x": 1093.2680334298655,
       "y": 1290.1640004884434,
       "w": 320,
-      "h": 512,
+      "h": 776,
       "group": null,
       "data": {
         "date": "2025-09-21",
@@ -971,7 +971,7 @@
       "x": 1770.5223503909924,
       "y": -628.5297727348413,
       "w": 320,
-      "h": 824,
+      "h": 817,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1945,8 +1945,8 @@
     },
     {
       "id": "nijz3fjn",
-      "x": 5235.335496726735,
-      "y": 2141.6481044111547,
+      "x": 4331.714013108823,
+      "y": 2068.858510064732,
       "w": 320,
       "h": 434,
       "group": null,
@@ -1969,10 +1969,10 @@
     },
     {
       "id": "niet1xwf",
-      "x": 4762.062350848792,
-      "y": 1362.4471270808413,
+      "x": 3847.2904132882754,
+      "y": 2036.5328958031919,
       "w": 320,
-      "h": 2066,
+      "h": 506,
       "group": null,
       "data": {
         "date": "2025-10-16",
@@ -1987,83 +1987,27 @@
         "tags": [],
         "desc": "- Territorial dispute: a clash over who holds the right to sovereignty over a given territory. It often involves peoples seeking self-determination or independence, who come into conflict with nation-states claiming that same land.\n- Exploitation of Resources: deforestation, mining, or the construction of large dams destroy the natural habitats of which an indigenous culture is an integral part. Without the forest, the river, or the tundra, the culture that draws its meaning, spirituality, and livelihood from them cannot survive.\n- Migration: when communities are forced to migrate in search of better living conditions, they become dispersed. Their ties to the land, collective rituals, and oral traditions are disrupted.\n",
         "links": [],
-        "files": [
-          {
-            "name": "image 3.png",
-            "size": 519273,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/image_3.jpg"
-          },
-          {
-            "name": "image 7.png",
-            "size": 661889,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/image_7.jpg"
-          },
-          {
-            "name": "image 9.png",
-            "size": 481469,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/image_9.jpg"
-          },
-          {
-            "name": "image 10.png",
-            "size": 733633,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/image_10.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "nu9pnmqc",
-      "x": 5700.3490969236655,
-      "y": 2208.1020973356517,
-      "w": 320,
-      "h": 304,
-      "group": null,
-      "data": {
-        "date": "2025-10-16",
-        "title": "Questions",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [
-          "Socio-cultural",
-          "Culture"
-        ],
-        "tags": [],
-        "desc": "- Does an essential bond truly exist\nbetween cultural heritage and physical space?\n- Is it right for a people to have to sacrifice themselves\nin order to preserve their culture?\n- In what other forms can a culture continue to live?",
-        "links": [],
         "files": []
       }
     },
     {
       "id": "n5bl14qz",
-      "x": 6130.011051788979,
-      "y": 2082.3810212522303,
+      "x": 5190.138589946025,
+      "y": 2031.6251399135072,
       "w": 320,
       "h": 505,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "What if the only way to preserve a culture from extinction was to freeze it?",
-        "type": "Concept",
+        "type": "Output",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
           "Critical design"
         ],
         "tags": [],
-        "desc": "When a species disappears, its genetic code can be preserved to bring it back in the future.\nIn the case of culture, this is not possible — maintaining the genetic code of certain peoples does not preserve the memory that embodies their culture.\nIn this case, the only possible solution would be to preserve their entire bodies in a suspended state, thus allowing the preservation of memory as well.",
+        "desc": "When a species disappears, its genetic code can be preserved to bring it back in the future.\nIn the case of culture, this is not possible, maintaining the genetic code of certain peoples does not preserve the memory that embodies their culture.\nIn this case, the only possible solution would be to preserve their entire bodies in a suspended state, thus allowing the preservation of memory as well.",
         "links": [],
         "files": [
           {
@@ -2079,15 +2023,15 @@
     },
     {
       "id": "ni854e3k",
-      "x": 6674.046634555972,
-      "y": 1559.4512295641398,
+      "x": 6007.092287612924,
+      "y": 1018.3364774006313,
       "w": 320,
       "h": 231,
       "group": null,
       "data": {
         "date": "2025-10-16",
-        "title": "Why",
-        "type": "",
+        "title": "Why - Rise of Conflicts",
+        "type": "Source",
         "action": null,
         "mainArea": null,
         "areas": [],
@@ -2099,15 +2043,15 @@
     },
     {
       "id": "nct10ap6",
-      "x": 6742.046634555972,
-      "y": 1983.4512295641398,
+      "x": 5999.989750859658,
+      "y": 1341.5336953458361,
       "w": 320,
       "h": 231,
       "group": null,
       "data": {
         "date": "2025-10-16",
-        "title": "What",
-        "type": "",
+        "title": "What - Group of Researchers",
+        "type": "Source",
         "action": null,
         "mainArea": null,
         "areas": [],
@@ -2119,68 +2063,70 @@
     },
     {
       "id": "nes88wxi",
-      "x": 6718.046634555972,
-      "y": 2387.45122956414,
+      "x": 5998.695896129846,
+      "y": 1617.6481093412758,
       "w": 320,
-      "h": 214,
+      "h": 611,
       "group": null,
       "data": {
         "date": "2025-10-16",
-        "title": "Where",
-        "type": "",
+        "title": "Where - Antartica",
+        "type": "Source",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "All over the world",
-        "links": [],
+        "desc": "The location is chosen based on key geographical, climatic, and political criteria:\n\n- Extremely Cold and Stable Climate: provides the ideal natural environment for long-term preservation.\n\n- Permafrost Ground: ensures temperature stability even in the event of a power failure (blackout). Locating a repository carved into the Antarctic ground would maintain this stability even more effectively, with the natural cold facilitating the cryopreservation process and lowering costs.\n\n- Politically Neutral and Secure Location: Antarctica is not owned by any single state. Military activity, nuclear weapons, and resource extraction are prohibited.\n\n- Antarctic Treaty System: the international treaty serves as the sole \"governance\" for the continent, guaranteeing its use solely for peaceful and scientific purposes.\n\n- Isolation: significantly reduces the risk of intrusion, flooding, fires, or contamination.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Antarctic_Treaty_System"
+        ],
         "files": []
       }
     },
     {
       "id": "nqo2d9mt",
-      "x": 6690.046634555972,
-      "y": 2763.45122956414,
+      "x": 5998.280558844181,
+      "y": 2285.9833009048652,
       "w": 320,
-      "h": 231,
+      "h": 550,
       "group": null,
       "data": {
         "date": "2025-10-16",
-        "title": "Who",
-        "type": "",
+        "title": "Who - non-governmental organization ",
+        "type": "Source",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "A non-governmental organization for cultural preservation.",
+        "desc": "A non-governmental organization for cultural preservation.\nThis initiative outlines a structured approach to safeguard global cultural diversity:\n\n- Identifying At-Risk Cultures (Scientific Criteria): Using scientific metrics, such as the risk of linguistic extinction, degradation of artifacts, and loss of critical knowledge, to identify and classify cultures requiring urgent cryopreservation intervention.\n\n- Cultural Peace Mission (Global Mandate): Operating like a UN mission, this initiative focuses on the conservation of cultural diversity, treating it as a fundamental global heritage that must be protected from threats and oblivion.\n\n- Transnational Cooperation: Facilitating collaboration between nations to ensure the recovery and cryopreservation of cultural materials, thereby transcending national borders in preservation efforts.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "njswoqvx",
-      "x": 6690.046634555972,
-      "y": 3215.5672193772198,
+      "x": 5999.388871267822,
+      "y": 2891.532458863094,
       "w": 320,
-      "h": 214,
+      "h": 248,
       "group": null,
       "data": {
         "date": "2025-10-16",
-        "title": "When",
-        "type": "",
+        "title": "When - 2075",
+        "type": "Source",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "In the next future",
+        "desc": "In the year 2075, when conflicts in the world have increased to an alarming risk and technology has evolved enough to make cryogenics reliable.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nf09166m",
-      "x": 8490.584313123467,
-      "y": 1776.4935412033776,
+      "x": 6666.00209410514,
+      "y": 1202.7234999429736,
       "w": 320,
       "h": 355,
       "group": null,
@@ -2201,8 +2147,8 @@
     },
     {
       "id": "nojoh5nf",
-      "x": 8978.668477030105,
-      "y": 1884.457315607698,
+      "x": 7095.4952817776775,
+      "y": 1194.3089250981686,
       "w": 320,
       "h": 372,
       "group": null,
@@ -2223,8 +2169,8 @@
     },
     {
       "id": "no1jd2fv",
-      "x": 8760.288795422513,
-      "y": 2988.1565219160884,
+      "x": 6655.331345079699,
+      "y": 2495.5215555892064,
       "w": 320,
       "h": 304,
       "group": null,
@@ -2245,10 +2191,10 @@
     },
     {
       "id": "n5kkwopv",
-      "x": 7355.7707511158615,
-      "y": 2340.6074202567056,
+      "x": 6659.703100266149,
+      "y": 1621.1711814097798,
       "w": 320,
-      "h": 237,
+      "h": 742,
       "group": null,
       "data": {
         "date": "2025-10-16",
@@ -2260,15 +2206,24 @@
           "Socio-cultural"
         ],
         "tags": [],
-        "desc": "As species at risk of extinction, we used the same model to examine cultures facing the same threat.",
+        "desc": "The comparison with the WWF (World Wildlife Fund) is interesting because, beyond both being non-governmental charitable organizations, it raises the crucial dilemma of selection: Which species, or in this case, which cultures, should be saved?\nThe core of the issue is whether it is possible, or even desirable, to preserve everything:\n\n- WWF's Red List: The WWF maintains a Red List of threatened species, but it necessarily involves selection. While an estimated 50 species become extinct daily, only about 44,016 out of 157,190 evaluated species are currently classified as being at risk of extinction on the list.\n\n- The Unsaved: This stark difference begs the question: What happens to the remaining species?\n\n- The Cultural Parallel: In our case, the same question applies: What will become of the other cultures?",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "image 2.png",
+            "size": 817769,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_2.jpg"
+          }
+        ]
       }
     },
     {
       "id": "ndhivel5",
-      "x": 7971.3894802622,
-      "y": 1534.7718927794995,
+      "x": 7133.168232293696,
+      "y": 1831.1952478701553,
       "w": 320,
       "h": 321,
       "group": null,
@@ -2288,119 +2243,9 @@
       }
     },
     {
-      "id": "n27orrxl",
-      "x": 7985.599363555584,
-      "y": 1975.3555729421378,
-      "w": 320,
-      "h": 321,
-      "group": null,
-      "data": {
-        "date": "2025-10-16",
-        "title": "Protecting the \"Cultural Habitat\"",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [
-          "Socio-cultural"
-        ],
-        "tags": [],
-        "desc": "\nThe WWF creates protected areas for wildlife.\nFor Peoples: Protect \"Cultural Territories\" — ancestral lands, sacred sites, and ecosystems that sustain traditions (e.g., forests for medicinal plants, rivers for rituals). Territorial self-determination is essential.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "ngot8us1",
-      "x": 7980.046762562646,
-      "y": 2336.6717640818893,
-      "w": 320,
-      "h": 321,
-      "group": null,
-      "data": {
-        "date": "2025-10-16",
-        "title": "Creating \"Connectivity Corridors\"",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [
-          "Socio-cultural"
-        ],
-        "tags": [],
-        "desc": "\nLike the WWF connects fragmented habitats,\nfor Peoples: facilitate \"Cultural Corridors\" — networks of exchange between dispersed communities, intergenerational meetings, and the use of digital technologies to connect young people with elders who are custodians of the culture.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nwx6sxtb",
-      "x": 7966.144694843728,
-      "y": 2692.312783946658,
-      "w": 320,
-      "h": 304,
-      "group": null,
-      "data": {
-        "date": "2025-10-16",
-        "title": "Fighting \"Cultural Poaching\"",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [
-          "Socio-cultural"
-        ],
-        "tags": [],
-        "desc": "\nLike the WWF combats animal poaching,\nfor Peoples: combat \"Cultural Poaching\" — the illicit appropriation of sacred symbols, biopiracy (the theft of traditional knowledge about plants), and predatory tourism that strips rituals of their meaning.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n8fj40dg",
-      "x": 7958.169246177456,
-      "y": 3061.7981945548167,
-      "w": 320,
-      "h": 304,
-      "group": null,
-      "data": {
-        "date": "2025-10-16",
-        "title": "\"Knowledge Breeding\" Programs",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [
-          "Socio-cultural"
-        ],
-        "tags": [],
-        "desc": "\nLike the WWF runs captive breeding programs,\nfor Peoples: establish \"Reinforced Transmission Programs\" — immersive schools in the mother tongue, apprenticeships with elders for traditional arts and crafts, and living digital archives.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nsjg8vj6",
-      "x": 7925.48760847435,
-      "y": 3453.519763385117,
-      "w": 320,
-      "h": 321,
-      "group": null,
-      "data": {
-        "date": "2025-10-16",
-        "title": "Politics and Global Advocacy",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [
-          "Socio-cultural"
-        ],
-        "tags": [],
-        "desc": "\nLike the WWF influences international laws (CITES),\nfor Peoples: strengthen laws such as the UNESCO Convention for the Safeguarding of Intangible Cultural Heritage and push for recognition of collective rights to land, language, and self-governance.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "nt2zmv4m",
-      "x": 8507.485217649126,
-      "y": 2274.910798823827,
+      "x": 7694.709949218202,
+      "y": 1706.8625003100094,
       "w": 320,
       "h": 584,
       "group": null,
@@ -2413,6 +2258,383 @@
         "areas": [],
         "tags": [],
         "desc": "- Private Donations (Crowdfunding & Supporters): small and large contributions from ordinary people who believe in the cause.\n- Institutional Grants and Funds: financing from international organizations (UN, UNESCO), philanthropic foundations, and governments for specific projects.\n- Ethical Revenue from Commerce: selling handicrafts and products generates a sustainable and respectful income stream that directly supports both the organization and the communities.\n- Responsible Corporate Partnerships: selective collaborations with companies aiming to clean up their supply chains from practices that harm cultures or indigenous territories. Not mere sponsorship, but a concrete commitment.\n- Support from Major Donors: individual philanthropists or impact-oriented investment funds that finance ambitious long-term projects.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nohxhf0o",
+      "x": 4577.791841529068,
+      "y": 687.3338133680334,
+      "w": 320,
+      "h": 553,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Gaza War",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The cultural conflicts in Gaza primarily involve a clash between two national identities both claiming the same land. The Israeli identity is rooted in historical and religious claims to a Jewish state (Zionism) while the Palestinian identity is centered on ancestral ties to the land and the struggle for self-determination (Resistance). This creates a war of narratives over historical legitimacy and involves disputes over sacred sites shared by Judaism and Islam. Ultimately it is a struggle for legitimacy and existence between two peoples",
+        "links": [],
+        "files": [
+          {
+            "name": "_132041234_gettyimages-1801103706.jpg",
+            "size": 174714,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/_132041234_gettyimages-1801103706.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7gul1ib",
+      "x": 4574.918563319757,
+      "y": 1267.5018559107925,
+      "w": 320,
+      "h": 589,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Conflicts Between India and Pakistan",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "he conflict's core is the 1947 Partition, which divided the subcontinent into Hindu-majority India and Muslim-majority Pakistan. This religious separation fuels historical hostility and rival nationalisms.\n\nThe main flashpoint is Kashmir, a Muslim-majority region. The conflict is a territorial and ideological struggle between secular Indian nationalism and Islamic Pakistani nationalism, both of which use religion to legitimize their claims over the disputed territory.",
+        "links": [],
+        "files": [
+          {
+            "name": "7WXSXPB2NAI6TIWNGB5QNUBFPM.avif",
+            "size": 318386,
+            "type": "image/avif",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/7WXSXPB2NAI6TIWNGB5QNUBFPM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nst3ef37",
+      "x": 5190.858014415566,
+      "y": 957.0684698859413,
+      "w": 320,
+      "h": 510,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "The Alarming Rise of Global Conflicts",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Recent studies and major reports, such as the Global Peace Index (GPI) 2024, confirm that global conflicts and tensions are significantly increasing, reaching levels not seen since the Cold War.\nData from ACLED (Armed Conflict Location & Event Data Project) indicates that the number of conflicts has risen by 40% over the last three years.\nDrivers of Instability: This surge is fueled by complex factors, including:\n\n- Rising geopolitical competition among major powers.\n\n- A massive increase in global military spending.\n\n- The continued reliance on conflict to solve disputes over identity and territory",
+        "links": [
+          "https://www.worldexcellence.com/conflict-index-2024-conflicts-in-the-world-have-grown-by-40-percent/#Africa_Nigeria_and_Sudan"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n4c6jcpt",
+      "x": 7127.048046219685,
+      "y": 2315.426447605858,
+      "w": 320,
+      "h": 555,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "WWF’s Communication Strategy",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "- Use powerful, high-quality images of specific endangered ethnic groups as the face of the mission, transforming abstract loss into a tangible, emotional Call to Action.\n\n- Employs urgent, aspirational slogans. They must convey that all cultures are special, even if only a selection can be saved.\n\n- Create direct, powerful slogans that link preservation to urgent global issues\n\n- Leverages alarming statistics to quantify the crisis.\n\n- Use quantifiable data to establish the project's scale, urgency, and monumental importance.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-28 alle 11.01.06.png",
+            "size": 769129,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-28_alle_11.01.06.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nz1seaio",
+      "x": 7694.645969493612,
+      "y": 2450.0533850563274,
+      "w": 320,
+      "h": 489,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Communication strategy",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "- Emotional Engagement & Action: Highlight the beauty and richness of cultures to establish emotional connection.\n\n- Call to Action: Denounce cultural extinction and justify cryopreservation as the only necessary and rational solution.\n\n- Credibility & Protocol: Use references to research institutions to establish scientific credibility.\n\n- Transparency: Describe processes using protocol-based terminology to demonstrate rigor.\n\n- De-humanization & Objectivity: lean toward scientific language and infographics to present processes. This helps maintain objectivity and manage the ethical challenge of selection.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n453t6qy",
+      "x": 9239.188905592582,
+      "y": 2390.5872204772854,
+      "w": 320,
+      "h": 704,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Color Palette",
+        "type": "Output",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The selected palette uses artificial, laboratory-style colors to reflect the tension between the cold, stable environment and the vibrant, yet preserved, cultural material.\n\n- Ice White: Represents the preservation medium (ice) and the pristine, sterile environment of cryopreservation.\n\n- Chemical Orange: The warm, organic color of the living cultures (the human element), made artificial and highly saturated to signify that the culture has been denatured (preserved/frozen).\n\n- Deep Blue: signifies the institutional, static, and calm nature of NGOs (Non-Governmental Organizations). Primarily used to convey trust and reliability.\n\n- Dark Gray: conveys institutional seriousness and a formal, protocol-driven approach.\n\n- Sky blue: used to balance the dark tones and symbolize medicine/science and hope.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "Frame.png",
+            "size": 57578,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Frame.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nd1eepiv",
+      "x": 8352.77825832998,
+      "y": 1144.3321096413586,
+      "w": 320,
+      "h": 916,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "The Ethical Cabinet",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "This concept proposes an interactive machine, shaped like a museum or scientific archival drawer cabinet, where each drawer represents a single culture, population, or collective memory.\n\n- The Action: The user must choose whether to open the drawer (thereby cryopreserving the culture) or leave it closed (allowing it to disappear).\n\n- The Moral Dilemma: By opening one drawer and preserving a culture, the user simultaneously prevents the possibility of knowing or saving the others (the consequence of limited resources).\n\n- The Role of the Public: The audience becomes the agent of cultural selection. The device reproduces the ethical and political paradox of cultural conservation:\n\nEvery act of archiving is also an act of exclusion.\n\nEvery \"rescue\" implies the loss of what is not saved.\n\nThe personal choice produces a collective guilt.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 12.png",
+            "size": 649687,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhyq9w50",
+      "x": 8345.120966427332,
+      "y": 2159.187441155154,
+      "w": 320,
+      "h": 858,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Cryometer",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "The Cryometer is an interactive, scientific interface designed to solve the ethical dilemma of when to awaken cryopreserved cultures. It visualizes the conflict between internal preservation risk and external world stability.\n\n- Left Vial (Silver Liquid: \"State of Stasis\"): Tracks the internal danger. A low level means the preservation temperature is failing, risking the cultures' survival.\n\n- Right Vial (Red-Ochre Liquid: \"Socio-Environmental Stability Index - I.S.A.\"): Tracks the external danger. A high level means the outside world is too unstable or hostile for reintroduction.\n\n- Transition Threshold (Slider): A manual cursor representing the ethical line set for awakening. The operator adjusts it based on their subjective interpretation of external data (via three calibration knobs).\n\nThe Dilemma: the operator (user) must interpret the fluctuating balance between the internal danger (risk of being frozen too long) and the external danger (risk of waking up too soon). By choosing a threshold, the user confronts the arbitrariness of selecting the \"right moment\" for cultural reintroduction.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 99.png",
+            "size": 831509,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_99.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nijfszt1",
+      "x": 8334.936028962624,
+      "y": 3139.4196444862273,
+      "w": 320,
+      "h": 1290,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Assessment Booth",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "This is an immersive installation that evaluates the user's suitability for cultural cryopreservation while simulating the process.\n\n- External Screen (Thermal Vision): Initially shows the user's body as vibrant/hot (current vitality).\n\n- Internal Immersion: The user answers a deep cultural questionnaire while the cabin temperature gradually drops, simulating the chilling process.\n\n- Anxiety Management: A calming voice intervenes if the user shows agitation, keeping them in the experience flow.\n\n- Outcome (Waiting Time): The result is the UNEC Acceptance Index, given as an estimated Waiting Time (longer time = successful, long-term cryopreservation).\n\nThe Final Message: upon exiting, the external screen reveals the user's body as significantly colder and fading on the thermal vision. This serves as the final statement: cryopreservation is both a promise of the future and a form of disappearance—an attenuation of one's \"thermal signature\" and current presence in the world.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 110.png",
+            "size": 533632,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_110.jpg"
+          },
+          {
+            "name": "image 108.png",
+            "size": 314004,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_108.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na2mxg7s",
+      "x": 9851.199937069909,
+      "y": 2840.0218361535844,
+      "w": 320,
+      "h": 770,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Logo",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "The UNEC logo combines two shapes: a snowflake and a house. The snowflake represents cryopreservation, the vital suspension necessary to preserve what is at risk of extinction.\nThe house, on the other hand, evokes protection, belonging, and shared memory. Together, these symbols convey UNEC's mission: to offer a safe haven to threatened cultures, preserving their identity and complexity over time.",
+        "links": [],
+        "files": [
+          {
+            "name": "Frame.png",
+            "size": 38961,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Frame.jpg"
+          },
+          {
+            "name": "Frame 1.png",
+            "size": 138533,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Frame_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5ynwr3l",
+      "x": 9246.343613259212,
+      "y": 3231.532458863094,
+      "w": 320,
+      "h": 254,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Naming and Payoff",
+        "type": "Output",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "- Naming: United Network for Endangered Cultures (UNEC)\n\n- Payoff: Suspending life, protecting cultures\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nxysa265",
+      "x": 10418.277657848452,
+      "y": 2390.7814409963466,
+      "w": 320,
+      "h": 623,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Social media communication",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "La Tua Storia Instagram Feed Verticale Semplice Minimal Beige Bianco Centro Estetico 1.png",
+            "size": 915356,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/La_Tua_Storia_Instagram_Feed_Verticale_Semplice_Minimal_Beige_Bianco_Centro_Estetico_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4bgal0g",
+      "x": 9242.138589946026,
+      "y": 3533.532458863094,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Values",
+        "type": "Output",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "",
         "links": [],
         "files": []
       }
@@ -2870,33 +3092,8 @@
       "dashed": true
     },
     {
-      "s": "n8rcmcs8",
-      "t": "niet1xwf",
-      "dashed": false
-    },
-    {
-      "s": "n4yzr0fh",
-      "t": "niet1xwf",
-      "dashed": false
-    },
-    {
-      "s": "nvlc5e4o",
-      "t": "niet1xwf",
-      "dashed": false
-    },
-    {
       "s": "niet1xwf",
       "t": "nijz3fjn",
-      "dashed": false
-    },
-    {
-      "s": "nijz3fjn",
-      "t": "nu9pnmqc",
-      "dashed": false
-    },
-    {
-      "s": "nu9pnmqc",
-      "t": "n5bl14qz",
       "dashed": false
     },
     {
@@ -2930,19 +3127,9 @@
       "dashed": false
     },
     {
-      "s": "ni854e3k",
-      "t": "n5kkwopv",
-      "dashed": true
-    },
-    {
       "s": "nct10ap6",
       "t": "n5kkwopv",
       "dashed": false
-    },
-    {
-      "s": "nes88wxi",
-      "t": "n5kkwopv",
-      "dashed": true
     },
     {
       "s": "nqo2d9mt",
@@ -2950,38 +3137,8 @@
       "dashed": false
     },
     {
-      "s": "njswoqvx",
-      "t": "n5kkwopv",
-      "dashed": true
-    },
-    {
       "s": "n5kkwopv",
       "t": "ndhivel5",
-      "dashed": false
-    },
-    {
-      "s": "n5kkwopv",
-      "t": "n27orrxl",
-      "dashed": false
-    },
-    {
-      "s": "n5kkwopv",
-      "t": "ngot8us1",
-      "dashed": false
-    },
-    {
-      "s": "n5kkwopv",
-      "t": "nwx6sxtb",
-      "dashed": false
-    },
-    {
-      "s": "n5kkwopv",
-      "t": "n8fj40dg",
-      "dashed": false
-    },
-    {
-      "s": "n5kkwopv",
-      "t": "nsjg8vj6",
       "dashed": false
     },
     {
@@ -2990,69 +3147,142 @@
       "dashed": false
     },
     {
-      "s": "n27orrxl",
-      "t": "nt2zmv4m",
+      "s": "nijz3fjn",
+      "t": "n5bl14qz",
       "dashed": false
     },
     {
-      "s": "ngot8us1",
-      "t": "nt2zmv4m",
+      "s": "nc9jpidj",
+      "t": "niet1xwf",
       "dashed": false
     },
     {
-      "s": "nwx6sxtb",
-      "t": "nt2zmv4m",
+      "s": "n4yzr0fh",
+      "t": "nohxhf0o",
       "dashed": false
     },
     {
-      "s": "n8fj40dg",
-      "t": "nt2zmv4m",
+      "s": "n4yzr0fh",
+      "t": "n7gul1ib",
       "dashed": false
     },
     {
-      "s": "nsjg8vj6",
-      "t": "nt2zmv4m",
+      "s": "nohxhf0o",
+      "t": "nst3ef37",
       "dashed": false
     },
     {
-      "s": "n5kkwopv",
+      "s": "n7gul1ib",
+      "t": "nst3ef37",
+      "dashed": false
+    },
+    {
+      "s": "nst3ef37",
+      "t": "ni854e3k",
+      "dashed": false
+    },
+    {
+      "s": "nqo2d9mt",
+      "t": "no1jd2fv",
+      "dashed": false
+    },
+    {
+      "s": "ni854e3k",
       "t": "nf09166m",
       "dashed": false
     },
     {
       "s": "n5kkwopv",
-      "t": "no1jd2fv",
+      "t": "n4c6jcpt",
+      "dashed": false
+    },
+    {
+      "s": "n4c6jcpt",
+      "t": "nz1seaio",
+      "dashed": false
+    },
+    {
+      "s": "ndhivel5",
+      "t": "nd1eepiv",
+      "dashed": false
+    },
+    {
+      "s": "ndhivel5",
+      "t": "nhyq9w50",
+      "dashed": false
+    },
+    {
+      "s": "ndhivel5",
+      "t": "nijfszt1",
+      "dashed": false
+    },
+    {
+      "s": "n453t6qy",
+      "t": "na2mxg7s",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "n5ynwr3l",
+      "dashed": false
+    },
+    {
+      "s": "n5ynwr3l",
+      "t": "na2mxg7s",
+      "dashed": false
+    },
+    {
+      "s": "nz1seaio",
+      "t": "n453t6qy",
+      "dashed": false
+    },
+    {
+      "s": "na2mxg7s",
+      "t": "nxysa265",
+      "dashed": false
+    },
+    {
+      "s": "nz1seaio",
+      "t": "nxysa265",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "n4bgal0g",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Socio-cultural",
-      "Socio-political",
-      "Critical design",
-      "Culture",
-      "Conflicts",
-      "Critical theory",
-      "Amare i robot?",
-      "Media studies",
-      "Communication",
+      "Machine",
+      "People",
       "Design research",
-      "People"
+      "Communication",
+      "Media studies",
+      "Amare i robot?",
+      "Critical theory",
+      "Conflicts",
+      "Culture",
+      "Critical design",
+      "Socio-political",
+      "Socio-cultural"
     ],
     "tags": [
-      "Already explored",
-      "Discarded",
+      "Wwf",
+      "Source",
       "Limited scope",
-      "Source"
+      "Discarded",
+      "Already explored"
     ],
     "type": [
-      "Case study",
       "Concept",
+      "Output",
       "Source",
-      "Collection",
-      "Feedback",
+      "Case study",
+      "Finding",
       "Brief",
-      "Finding"
+      "Feedback",
+      "Collection"
     ]
   }
 }
