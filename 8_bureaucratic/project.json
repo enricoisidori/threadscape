@@ -343,20 +343,24 @@
     },
     {
       "id": "n9e675sa",
-      "x": 1490.2698259368171,
-      "y": 1335.711992617933,
+      "x": 1430.2698259368171,
+      "y": 1355.711992617933,
       "w": 320,
-      "h": 315,
+      "h": 361,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Bureaucracy as a form of power",
-        "type": "",
-        "action": null,
+        "type": "Observation",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Socio-political",
+          "Conflict",
+          "Power"
+        ],
         "tags": [],
-        "desc": "Bureaucracy can serve as a means of control for those in power, using rules and procedures to maintain authority over others. By making access to rights and services dependent on complex systems, it creates dependence and submission. In this way, bureaucracy becomes not just an administrative tool, but a subtle form of domination.",
+        "desc": "Bureaucracy operates as a mechanism of control, where rules and procedures maintain authority and dependency. By linking access to rights and services to complex administrative systems, it fosters submission and compliance. Beyond its administrative role, bureaucracy functions as a subtle form of domination, shaping behavior through structure and regulation.",
         "links": [],
         "files": []
       }
@@ -512,7 +516,7 @@
       "x": 3239.4616857191277,
       "y": 1594.8689457199457,
       "w": 320,
-      "h": 355,
+      "h": 378,
       "group": null,
       "data": {
         "date": "2025-09-25",
@@ -521,10 +525,12 @@
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Power",
+          "Public administration"
         ],
         "tags": [],
-        "desc": "Bureaucracy is used as a tool to regulate and organize public administration. Sometimes, due to its inherently complex and intricate procedures, it not only hinders progress and conflict resolution but also generates new tensions.\n\nWhat form would conflicts take if bureaucracy were recognized as a true weapon—that is, a tool of power and confrontation? What would the consequences be, and how would it be regulated?",
+        "desc": "Bureaucracy is used as a tool to regulate and organize public administration. Sometimes, due to its inherently complex and intricate procedures, it not only hinders progress and conflict resolution but also generates new tensions.\n\nWhat form would conflicts take if bureaucracy were recognized as a true weapon, that is, a tool of power and confrontation? What would the consequences be, and how would it be regulated?",
         "links": [],
         "files": []
       }
@@ -800,20 +806,29 @@
     },
     {
       "id": "nkalpbv6",
-      "x": 1882.9620404105985,
-      "y": 1673.2648456204465,
+      "x": 1877.0741206211396,
+      "y": 1671.3022056906268,
       "w": 320,
-      "h": 577,
+      "h": 674,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "Examples of public administration",
-        "type": "",
-        "action": null,
+        "title": "Corruption in Public Administration",
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "Public administration and healthcare systems in Italy have often been exposed to corruption scandals revealing how bureaucratic power can be exploited for personal gain. In public offices, cases like Mafia Capitale (2014) and later investigations showed officials demanding money or favors to accelerate permits, tax procedures, or building licenses—otherwise delaying them for months or years. Similar schemes were uncovered in Lombardy and Sicily, where citizens were pressured to use “friendly” private firms to obtain approvals. In healthcare, reports by Transparency International and ISTAT revealed that around 2.4% of families were asked for money or favors to access faster medical services, while nearly 10% were encouraged by doctors to book private visits to bypass public waiting lists. These examples highlight how bureaucracy, when corrupted, becomes a tool of coercion that turns access to public rights into a matter of privilege.",
+        "areas": [
+          "Power",
+          "Conflict",
+          "Socio-political",
+          "Public administration"
+        ],
+        "tags": [
+          "Conflict",
+          "Corruption",
+          "Power abuse"
+        ],
+        "desc": "Public administration and healthcare systems in Italy have repeatedly been exposed to corruption scandals that reveal how bureaucratic structures can be manipulated for personal advantage. In cases such as Mafia Capitale (2014) and later investigations in Lombardy and Sicily, officials were found demanding bribes or favors to speed up permits, tax procedures, and building licenses—otherwise obstructing them for months or years. Similar mechanisms emerged in healthcare, where reports by Transparency International and ISTAT showed that 2.4% of families were asked for money or favors to access faster services, while nearly 10% were encouraged by doctors to book private appointments to bypass waiting lists. These cases demonstrate how bureaucracy, when corrupted, ceases to act as an impartial administrative framework and instead becomes an instrument of coercion—turning citizens’ access to rights into a matter of privilege and negotiation.",
         "links": [
           "https://www.fiscal-focus.it/quotidiano/il-quotidiano/editoriali/la-burocrazia-che-uccide-senza-armi,3,59548"
         ],
@@ -1186,20 +1201,26 @@
     },
     {
       "id": "nifkvzah",
-      "x": 2257.396332630741,
-      "y": 1681.0794198841822,
+      "x": 2218.1435340343482,
+      "y": 1671.266220235084,
       "w": 320,
-      "h": 544,
+      "h": 595,
       "group": null,
       "data": {
         "date": "2025-10-19",
-        "title": "SLAPP",
-        "type": "",
-        "action": null,
+        "title": "SLAPPs",
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Media studies",
+          "Socio-political",
+          "Conflict",
+          "Power",
+          "Law"
+        ],
         "tags": [],
-        "desc": "SLAPPs (Strategic Lawsuits Against Public Participation) are a form of “bureaucratic warfare” used by powerful companies or individuals to intimidate and silence critics such as activists, journalists, or NGOs. These lawsuits, often legally unfounded, aim to overwhelm defendants with the costs of legal defense, procedural delays, and the complexity of judicial processes. SLAPPs are effective because they exploit weaknesses in the judicial system, such as slow proceedings and prohibitive legal costs. The main goal is not to win the case but to pressure the defendant into giving up due to fear, exhaustion, or rising expenses, effectively silencing criticism. A recent high-profile example is the lawsuit filed by an oil and gas company against Greenpeace and several activists in North Dakota, which resulted in the company winning the case and Greenpeace being ordered to pay over $660 million in fines.",
+        "desc": "SLAPPs (Strategic Lawsuits Against Public Participation) represent a contemporary form of bureaucratic warfare, where powerful entities use the legal system to silence dissent. These lawsuits, often lacking solid legal grounds, are designed to burden activists, journalists, or NGOs with overwhelming legal costs, procedural delays, and administrative complexity. Their effectiveness lies in exploiting the inefficiencies of judicial bureaucracy—slow timelines, financial inaccessibility, and the emotional strain of prolonged litigation. The objective is not to win in court, but to exhaust and intimidate the opposition into silence. A recent example is the lawsuit filed by an oil and gas company against Greenpeace and several activists in North Dakota, which ended with Greenpeace ordered to pay over $660 million in fines. SLAPPs reveal how bureaucratic mechanisms, when weaponized, can transform justice into a tool of coercion and control.",
         "links": [
           "https://www.the-case.eu/slapps/"
         ],
@@ -1211,15 +1232,20 @@
       "x": 2619.9599798555887,
       "y": 2077.3866510608764,
       "w": 320,
-      "h": 483,
+      "h": 518,
       "group": null,
       "data": {
         "date": "2025-10-19",
-        "title": "What if we compared SLAPP lawsuits to the physical impact of a slap? ",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "The Physical Weight of a SLAPP",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Critical design",
+          "Communication",
+          "Socio-political",
+          "Law"
+        ],
         "tags": [],
         "desc": "The idea is to convert the intangible force of legal power into a tangible, unsettling physical impact. Its primary purpose is to transform the abstract, bureaucratic nature of a SLAPP into a visceral, understandable, and profoundly disturbing experience. The artifact would serve as a tool for critical dialogue, not as a commercial product. Its very existence, as a prototype of a possible future, poses the provocative question: “What if the cost of silencing someone could be measured physically and made visible?” The artifact envisions a future in which the severity of the SLAPP problem has escalated to the point that such a physical instrument is needed to illustrate its harm. It is a critical commentary on the current legal landscape and a warning about a potential future.",
         "links": [],
@@ -1231,17 +1257,17 @@
       "x": 3013.696391832359,
       "y": 2296.9799220790237,
       "w": 320,
-      "h": 248,
+      "h": 349,
       "group": null,
       "data": {
         "date": "2025-10-19",
-        "title": "feedback",
-        "type": "",
-        "action": null,
-        "mainArea": null,
+        "title": "Feedback on the SLAPP Concept",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
         "areas": [],
         "tags": [],
-        "desc": "bella l'idea di usare la burocrazia come arma ma non è piaciuto il paragone con la forza fisica dello schiaffo",
+        "desc": "The idea of representing bureaucracy as a weapon was appreciated for its critical depth and conceptual strength. However, the physical metaphor of the slap was not well received. The comparison between legal violence and physical impact was perceived as too literal and potentially distracting from the conceptual core. The feedback suggests emphasizing the structural nature of bureaucratic aggression rather than its bodily translation.",
         "links": [],
         "files": []
       }
@@ -1354,17 +1380,17 @@
       "x": 3603.8122041500037,
       "y": 3047.145297963026,
       "w": 320,
-      "h": 214,
+      "h": 282,
       "group": null,
       "data": {
         "date": "2025-10-19",
-        "title": "feedback negativo",
-        "type": "",
+        "title": "Negative Feedback on the Concept",
+        "type": "Feedback",
         "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "non piace, un po' banale",
+        "desc": "The concept received negative feedback, being perceived as unconvincing and somewhat banal. \nThe critique suggests that, although the idea communicates its intention clearly, it lacks depth or originality in its speculative framing",
         "links": [],
         "files": []
       }
@@ -1483,22 +1509,20 @@
     },
     {
       "id": "nldb9o2w",
-      "x": 3903.6362411501214,
+      "x": 3902.5454163402483,
       "y": 1650.3332399546957,
       "w": 320,
-      "h": 237,
+      "h": 298,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "feedback",
-        "type": "Concept",
+        "title": "Feedback on the concept of weapon",
+        "type": "Feedback",
         "action": "Making",
         "mainArea": "Speculation",
-        "areas": [
-          "Socio-political"
-        ],
+        "areas": [],
         "tags": [],
-        "desc": "specificare al meglio la tipologia di arma e cercare di delinearne i campi di azione",
+        "desc": "Clarify the precise type of “weapon” envisioned and map its fields of action. Specify: target(s) (who/what it affects), mode of deployment (legal, symbolic, material, procedural), intended effects (silencing, financial damage, reputational), contexts of use, and limits or legal/ethical boundaries. ",
         "links": [],
         "files": []
       }
@@ -2894,6 +2918,166 @@
         "links": [],
         "files": []
       }
+    },
+    {
+      "id": "nnygzba2",
+      "x": 1480.3972725705512,
+      "y": 1185.3610837879467,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqo1mx2w",
+      "x": 868.3972725705512,
+      "y": 825.3610837879467,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8afpo22",
+      "x": -371.6027274294488,
+      "y": 5.361083787946654,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmv9ntoa",
+      "x": -1167.6027274294488,
+      "y": -258.63891621205335,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6n1rkg5",
+      "x": 2612.397272570551,
+      "y": 1505.3610837879467,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n21o1zh1",
+      "x": 4311.342547908811,
+      "y": 1428.7039133468256,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nhqqeq9q",
+      "x": 3856.3681402677603,
+      "y": 2409.8498966738534,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvr1o4xk",
+      "x": 4328.36814026776,
+      "y": 3469.8498966738534,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
     }
   ],
   "edges": [
@@ -3851,51 +4035,90 @@
       "s": "ni04g7pj",
       "t": "nn6cejhn",
       "dashed": false
+    },
+    {
+      "s": "nmv9ntoa",
+      "t": "n8afpo22",
+      "dashed": false
+    },
+    {
+      "s": "n8afpo22",
+      "t": "nqo1mx2w",
+      "dashed": false
+    },
+    {
+      "s": "nqo1mx2w",
+      "t": "nnygzba2",
+      "dashed": false
+    },
+    {
+      "s": "nnygzba2",
+      "t": "n6n1rkg5",
+      "dashed": false
+    },
+    {
+      "s": "n6n1rkg5",
+      "t": "n21o1zh1",
+      "dashed": false
+    },
+    {
+      "s": "n21o1zh1",
+      "t": "nhqqeq9q",
+      "dashed": false
+    },
+    {
+      "s": "nhqqeq9q",
+      "t": "nvr1o4xk",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Design research",
       "Public administration",
+      "Power",
+      "Law",
       "Socio-political",
-      "Sociology",
-      "Envirionment",
-      "Spatial design",
-      "Spatial designenvirionment",
-      "Conflict",
-      "Cultural studies",
-      "Hystory",
-      "Philosophy",
-      "Installation",
-      "Art",
-      "Photography",
-      "Documentary",
-      "Semantic research",
-      "Feelings",
-      "Media studies",
-      "Critical design",
-      "Literature",
-      "Definition",
       "Communication",
-      "Emotional response"
+      "Critical design",
+      "Conflict",
+      "Media studies",
+      "Con",
+      "Emotional response",
+      "Definition",
+      "Literature",
+      "Feelings",
+      "Semantic research",
+      "Documentary",
+      "Photography",
+      "Art",
+      "Installation",
+      "Philosophy",
+      "Hystory",
+      "Cultural studies",
+      "Spatial design",
+      "Envirionment",
+      "Sociology",
+      "Design research"
     ],
     "tags": [
+      "Power abuse",
+      "Corruption",
       "Conflict",
-      "Feelings",
-      "Emotion",
+      "Opposition",
       "Social tension",
-      "Opposition"
+      "Emotion",
+      "Feelings"
     ],
     "type": [
-      "Concept",
-      "Observation",
-      "Research",
-      "Source",
-      "Collection",
-      "Moodboard",
+      "Brief",
       "Feedback",
+      "Concept",
+      "Source",
+      "Observation",
       "Conclusione",
-      "Brief"
+      "Moodboard",
+      "Collection",
+      "Research"
     ]
   }
 }
