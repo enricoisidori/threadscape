@@ -4175,8 +4175,8 @@
     },
     {
       "id": "neolk2jk",
-      "x": 11204.360886743067,
-      "y": 3816.4494375388044,
+      "x": 11912.360886743067,
+      "y": 4596.449437538804,
       "w": 320,
       "h": 798,
       "group": null,
@@ -4285,8 +4285,8 @@
     },
     {
       "id": "n9y8f7y6",
-      "x": 11886.029918502129,
-      "y": 4588.148495697187,
+      "x": 11190.029918502129,
+      "y": 3796.148495697187,
       "w": 320,
       "h": 815,
       "group": null,
@@ -4376,8 +4376,8 @@
     },
     {
       "id": "nbgje9yo",
-      "x": 12887.201720175757,
-      "y": 4775.727100642945,
+      "x": 11199.201720175757,
+      "y": 5463.727100642945,
       "w": 320,
       "h": 956,
       "group": null,
@@ -4569,8 +4569,8 @@
     },
     {
       "id": "ncpnk20n",
-      "x": 14050.069187672194,
-      "y": 4230.6794399328355,
+      "x": 14398.069187672194,
+      "y": 3382.6794399328355,
       "w": 320,
       "h": 717,
       "group": null,
@@ -4603,8 +4603,8 @@
     },
     {
       "id": "ne69bnt2",
-      "x": 14396.509886562622,
-      "y": 3383.6632510838685,
+      "x": 14048.509886562622,
+      "y": 4235.663251083868,
       "w": 320,
       "h": 570,
       "group": null,
@@ -4645,6 +4645,174 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/image_296.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nf4vzjmy",
+      "x": 12577.748738079335,
+      "y": 5322.95133987559,
+      "w": 320,
+      "h": 714,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "WHAT KIND OF COMPANY ARE WE?",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "It's easier to focus on a single aspect (e.g., the production of building materials). We could say we're a 'multi-brand' company; there are several departments, and we could be a branch of this multi-brand. But if we position ourselves as the first, we can't already be a multinational → let's focus on the bodies and materials.\n\nA company that wants to build a dam comes to us only for the materials; for the construction, it turns to someone else.\n\n→ Building materials supplier?\n\nWe could rely on a demolition company, which demolitions and supplies us with materials. But we could do the same: we demolish and produce materials to build new infrastructure.\nLet's also think about the type of output that could be achieved: who are our clients? Other large companies and their clients?\nThe client chooses the characteristics of the materials and puts them in a specification, and then the company goes to the supplier, who supplies them.\nWe basically have a stock of bodies.\nBut being a construction materials company gives us less room for maneuver regarding output. Also because demolition is a very important part of our business (which, however, belongs to the construction company).\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1m94r6b",
+      "x": 12947.915455671784,
+      "y": 5176.105104592561,
+      "w": 320,
+      "h": 480,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "WHAT DO SUPPLIERS DO?",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "- Samples to show the offer\n- Quote, timeframes, and conditions\n- Contract ",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-29 alle 18.16.21.png",
+            "size": 178772,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-29_alle_18.16.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nck56yg8",
+      "x": 12955.817408447798,
+      "y": 5692.271849144716,
+      "w": 320,
+      "h": 789,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "ETERNOO: MATERIALS SUPPLY COMPANY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Eternoo (formerly Eternedile) is a leading multi-specialty building materials distributor in Italy, serving businesses, artisans, and individuals. Founded in 1949, it has expanded to many regions of Northern and Central Italy and offers a wide range of products and services, including ironwork and floors, glulam roofing, drywall systems, paints, and logistics support. The company stands out for its extensive product offering, dedicated technical consultancy, logistics services for transportation and disposal of materials, and its innovative and sustainable approach.\n",
+        "links": [
+          "https://www.eternoo.it/servizi/recupero-macerie-e-cartongesso"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 at 11.17.43 1.png",
+            "size": 257464,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_at_11.17.43_1.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-11 at 11.19.33 1.png",
+            "size": 27216,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_at_11.19.33_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqk2mwld",
+      "x": 13299.569692163628,
+      "y": 5694.1105977346815,
+      "w": 320,
+      "h": 504,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "GADDI Srl - DEMOLITION AND MATERIAL SUPPLIES",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Gaddi Srl performs demolition work on even large buildings, including: controlled demolitions to demolish buildings while preserving the surrounding area; deconstructions to dismantle entire buildings and recover secondary raw materials; and on-site material recovery using a mobile crusher.\n",
+        "links": [
+          "https://gaddisrl.it"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 alle 11.20.50 1.png",
+            "size": 88757,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_alle_11.20.50_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nzq3vymy",
+      "x": 13299.179606117028,
+      "y": 6218.20944488215,
+      "w": 320,
+      "h": 739,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "ALTAIR: MATERIALS SUPPLY COMPANY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Altair S.r.l. is a company that supplies construction materials (such as carpentry, electrical, and finishing) and equipment for construction warehouses.",
+        "links": [
+          "https://www.altairedilizia.com/?_gl=1*17s29ji*_up*MQ..*_ga*MTI5NjcwOTc0My4xNzYxNzU4NzQ0*_ga_6V8W1W75Z7*czE3NjE3NTg3NDIkbzEkZzAkdDE3NjE3NTg3NDIkajYwJGwwJGg4Njc3ODU1MDg."
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 at 11.23.41 1.png",
+            "size": 58228,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_at_11.23.41_1.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-11 at 11.29.55 1.png",
+            "size": 141910,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_at_11.29.55_1.jpg"
           }
         ]
       }
@@ -5730,14 +5898,42 @@
       "s": "ntc30yq0",
       "t": "ne69bnt2",
       "dashed": false
+    },
+    {
+      "s": "neolk2jk",
+      "t": "nf4vzjmy",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "n1m94r6b",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nck56yg8",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nqk2mwld",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nzq3vymy",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Materials supply",
+      "Materials supply companies",
+      "Materials companies",
+      "Construction companies",
       "Materials",
       "Human body",
       "Art",
-      "Construction companies",
       "Business",
       "Infrastructure",
       "Speculative design",
@@ -5830,9 +6026,9 @@
     ],
     "type": [
       "Research",
-      "Source",
       "Observation",
-      "Brief"
+      "Brief",
+      "Source"
     ]
   }
 }
