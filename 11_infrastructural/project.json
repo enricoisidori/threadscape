@@ -4705,7 +4705,7 @@
     {
       "id": "nck56yg8",
       "x": 13639.816375074794,
-      "y": 5694.833643027215,
+      "y": 6026.833643027215,
       "w": 320,
       "h": 789,
       "group": null,
@@ -4746,7 +4746,7 @@
     {
       "id": "nqk2mwld",
       "x": 13299.569692163628,
-      "y": 5694.1105977346815,
+      "y": 6026.1105977346815,
       "w": 320,
       "h": 504,
       "group": null,
@@ -4779,7 +4779,7 @@
     {
       "id": "nzq3vymy",
       "x": 13299.179606117028,
-      "y": 6218.20944488215,
+      "y": 6550.20944488215,
       "w": 320,
       "h": 739,
       "group": null,
@@ -4820,7 +4820,7 @@
     {
       "id": "nt4xukra",
       "x": 12958.471157434098,
-      "y": 5691.203257163193,
+      "y": 6023.203257163193,
       "w": 320,
       "h": 1316,
       "group": null,
@@ -4853,7 +4853,7 @@
     {
       "id": "nqftp0pl",
       "x": 13640.4907058818,
-      "y": 6497.485708858222,
+      "y": 6829.485708858222,
       "w": 320,
       "h": 507,
       "group": null,
@@ -4886,7 +4886,7 @@
     {
       "id": "ne51q3wf",
       "x": 13976.909094326846,
-      "y": 5697.196040554963,
+      "y": 6029.196040554963,
       "w": 320,
       "h": 558,
       "group": null,
@@ -4914,6 +4914,117 @@
             "path": "assets/Screenshot_2025-10-11_at_11.43.12_1.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "na3ho8z9",
+      "x": 13982.03814193338,
+      "y": 6612.234352252679,
+      "w": 320,
+      "h": 401,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "INERTI LARIO Srl - COLLECTION, DISPOSAL, AND RECYCLING OF INERT WASTE",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.inertilario.com/riciclo-rifiuti-inerti"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 alle 11.41.17 1.png",
+            "size": 72859,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_alle_11.41.17_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n48zcnzb",
+      "x": 13343.674605223467,
+      "y": 4982.303748959204,
+      "w": 320,
+      "h": 859,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "IS THERE A RELATIONSHIP WITH MEAT PRODUCERS/SLAUGHTERHOUSES?",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials",
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Gelatin companies do not always raise pigs directly; they typically purchase raw materials from slaughterhouses/meat processing plants (bones, skin, various leftovers).\nSome producers integrate their supply chain better, perhaps owning or having close contracts with slaughterhouses to ensure quality, traceability, animal type (beef, pork), and certifications (Halal, Kosher, food safety, etc.).\nIn many cases, therefore, meat production and gelatin production are connected to the extent that meat byproducts (typically waste not used for the primary cutting of meat) become raw materials for gelatin companies.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 317.png",
+            "size": 5926,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_317.jpg"
+          },
+          {
+            "name": "image 318.png",
+            "size": 13079,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_318.jpg"
+          },
+          {
+            "name": "image 319.png",
+            "size": 8772,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_319.jpg"
+          },
+          {
+            "name": "image 320.png",
+            "size": 5687,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_320.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnqjq3sm",
+      "x": 13982.556772841515,
+      "y": 7043.19382855118,
+      "w": 320,
+      "h": 278,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "BRICOMAN ITALIA S.p.A.",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Bricoman Italia S.p.A. (now part of the Adeo group, like Leroy Merlin) is a wholesale and retail supplier of building materials, hardware, systems, and finishes. It serves both private and professional customers (construction companies, plumbers, installers, etc.).",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -6032,15 +6143,30 @@
       "s": "nf4vzjmy",
       "t": "ne51q3wf",
       "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "na3ho8z9",
+      "dashed": false
+    },
+    {
+      "s": "n1m94r6b",
+      "t": "n48zcnzb",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nnqjq3sm",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "Materials supply",
+      "Materials",
       "Materials supply companies",
       "Materials companies",
       "Construction companies",
-      "Materials",
       "Human body",
       "Art",
       "Business",
