@@ -4241,8 +4241,8 @@
     },
     {
       "id": "nb6vczx3",
-      "x": 11894.567050980897,
-      "y": 4086.008667718759,
+      "x": 11916.23232371703,
+      "y": 4087.5561871999107,
       "w": 320,
       "h": 462,
       "group": null,
@@ -5010,7 +5010,7 @@
       "x": 13982.556772841515,
       "y": 7043.19382855118,
       "w": 320,
-      "h": 278,
+      "h": 315,
       "group": null,
       "data": {
         "date": "2025-10-14",
@@ -5023,6 +5023,96 @@
         ],
         "tags": [],
         "desc": "Bricoman Italia S.p.A. (now part of the Adeo group, like Leroy Merlin) is a wholesale and retail supplier of building materials, hardware, systems, and finishes. It serves both private and professional customers (construction companies, plumbers, installers, etc.).",
+        "links": [
+          "https://www.tecnomat.it"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nf38tulw",
+      "x": 13990.919644583653,
+      "y": 4952.49917191203,
+      "w": 320,
+      "h": 933,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "HOW ARE MATERIALS MANAGED TODAY?",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Material selection in construction projects involves three main actors: the client, the contractor, and the supplier, each with distinct responsibilities. The client, together with the designer and site supervisor, defines the project requirements in terms of performance, aesthetics, budget, durability, and regulatory compliance. These are translated by the designer into technical specifications within the Project Specification (Capitolato). For certain materials, especially finishes or visible elements, the client may approve samples or technical data sheets before purchase.\n\nThe contractor is responsible for selecting and procuring materials that meet the specified requirements. This includes assessing feasibility, optimizing costs and delivery times, managing purchasing and logistics, and ensuring that materials delivered to the site comply with the specifications. Together with the site supervisor, the contractor checks certifications and test reports to verify material conformity.\n\nThe supplier proposes materials that meet the project’s technical and regulatory criteria, offering technical support and ensuring quality. They provide all necessary documentation—such as CE marking and certificates of conformity—and guarantee timely delivery to the construction site.\n\n\n→ Client/Designer defines WHAT is needed (technical and aesthetic requirements, budget) = specifications.\n\n→ Company searches the market for WHO can provide that WHAT at the best price/service (selects suppliers) = quotes, orders.\n\n→ Supplier offers the WHAT and guarantees its quality = delivery with certifications.\n\n→ Project Manager/Company verifies on site that the materials are actually those agreed upon.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nl77jgz5",
+      "x": 14880.773789528073,
+      "y": 5411.056705142066,
+      "w": 320,
+      "h": 278,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "MISSION",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies"
+        ],
+        "tags": [],
+        "desc": "We are committed to research to develop high-performance materials that meet the specific needs of architects and construction designers.\nWe combine sustainability and affordability to create a new era of materials.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8sh3r3y",
+      "x": 14880.32285196146,
+      "y": 5733.393751146203,
+      "w": 320,
+      "h": 227,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "VISION",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies"
+        ],
+        "tags": [],
+        "desc": "We believe in a future where progress is built with everyone's contribution.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ngekx8pi",
+      "x": 14880.772319298783,
+      "y": 6007.173260133963,
+      "w": 320,
+      "h": 244,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "VALUES",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies"
+        ],
+        "tags": [],
+        "desc": "Sustainability\nTraceability\nSolidity",
         "links": [],
         "files": []
       }
@@ -6158,13 +6248,44 @@
       "s": "nf4vzjmy",
       "t": "nnqjq3sm",
       "dashed": false
+    },
+    {
+      "s": "n1m94r6b",
+      "t": "nf38tulw",
+      "dashed": false
+    },
+    {
+      "s": "nbamkdfj",
+      "t": "nf38tulw",
+      "dashed": false
+    },
+    {
+      "s": "ns99bj2t",
+      "t": "nf38tulw",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nl77jgz5",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "n8sh3r3y",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "ngekx8pi",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Materials supply companies",
+      "Material supply companies",
       "Materials supply",
       "Materials",
-      "Materials supply companies",
       "Materials companies",
       "Construction companies",
       "Human body",
@@ -6260,9 +6381,9 @@
       "Structural failure"
     ],
     "type": [
-      "Research",
-      "Observation",
       "Brief",
+      "Observation",
+      "Research",
       "Source"
     ]
   }
