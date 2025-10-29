@@ -4704,8 +4704,8 @@
     },
     {
       "id": "nck56yg8",
-      "x": 12955.817408447798,
-      "y": 5692.271849144716,
+      "x": 13639.816375074794,
+      "y": 5694.833643027215,
       "w": 320,
       "h": 789,
       "group": null,
@@ -4813,6 +4813,105 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-10-11_at_11.29.55_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nt4xukra",
+      "x": 12958.471157434098,
+      "y": 5691.203257163193,
+      "w": 320,
+      "h": 1316,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "ECOGREEN: WASTE TRANSPORT AND DISPOSAL COMPANY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Eco Green specializes in the transportation and disposal of construction and industrial debris and waste in Turin. A leader in the Piedmont sector, the company serves the construction, industrial, and large-scale retail sectors and was established to identify and meet the diverse needs of its clients.\nOver 16,000 customers have enjoyed the services offered by Eco Green with satisfaction and punctuality. With 24 vehicles and over 500 roll-off containers for debris and waste, the company ensures professionalism and expertise for each client.\n\nIndustrial Waste and Debris Collection, Sorting, and Management Plant\nOur plant specializes in the sustainable management of industrial waste and debris, offering efficient solutions for the recovery and reuse of materials. Thanks to advanced technologies and a structured process, we ensure maximum compliance with environmental regulations and reduced ecological impact.\nProcess Phases\n\n1. Collection and Delivery\nMaterial from construction sites, demolitions, and industrial activities is delivered to our plant using authorized vehicles and in compliance with current regulations.\n2. Sorting and Selection\nWaste is subjected to a mechanical and manual sorting process to separate recyclable materials (concrete, bricks, metals, wood, plastic, glass) from non-reusable materials.\n3. Processing and Optimization\na. The debris and bricks are sent to dedicated shredding plants and quarries for recovery and reuse in the construction sector.\nb. Waste such as plastic is shredded to facilitate recycling and transformation into new raw materials.\nc. Our plant also has a press that compresses waste, optimizing transportation and reducing logistics costs and environmental impact.\n4. Disposal and Recovery\nNon-recoverable waste is disposed of in authorized facilities, ensuring maximum environmental safety. The recovered material is reintroduced into the production cycle, contributing to the circular economy.\n5. Benefits and Sustainability\nReduced environmental impact thanks to the recovery of inert materials\nRegulatory compliance and guaranteed traceability of managed waste\nEfficiency and optimization of disposal and recycling processes\nTechnical support and consulting for waste management on construction sites\n",
+        "links": [
+          "https://www.ecogreen.to.it/"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 alle 11.31.51 1.png",
+            "size": 6473,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_alle_11.31.51_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqftp0pl",
+      "x": 13640.4907058818,
+      "y": 6497.485708858222,
+      "w": 320,
+      "h": 507,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "SEMAT: SALE OF BUILDING MATERIALS FROM THE BEST BRANDS AND RAW MATERIALS FOR CONSTRUCTION",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "SEMAT deals with the supply of building materials and construction equipment",
+        "links": [
+          "https://www.sematcommerciale.com/prodotti-edilizia/materiali-edili.html"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 at 11.32.39 1.png",
+            "size": 304774,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_at_11.32.39_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ne51q3wf",
+      "x": 13976.909094326846,
+      "y": 5697.196040554963,
+      "w": 320,
+      "h": 558,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "HOLCIM: A LEADING CEMENT COMPANY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Holcim is a multinational company headquartered in Zug, Switzerland.\nThe ECOPact line is their low-carbon ready-mix concrete product, offered in over 30 markets worldwide.",
+        "links": [
+          "https://www.holcim.it/"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 at 11.43.12 1.png",
+            "size": 212277,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_at_11.43.12_1.jpg"
           }
         ]
       }
@@ -5922,6 +6021,16 @@
     {
       "s": "nf4vzjmy",
       "t": "nzq3vymy",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nqftp0pl",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "ne51q3wf",
       "dashed": false
     }
   ],
