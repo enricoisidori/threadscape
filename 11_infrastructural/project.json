@@ -4100,10 +4100,10 @@
     },
     {
       "id": "njnnpiya",
-      "x": 13354.71822239285,
-      "y": 1529.3912608169512,
+      "x": 13246.57976682344,
+      "y": 869.2784533792073,
       "w": 320,
-      "h": 1672,
+      "h": 1840,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -4116,7 +4116,7 @@
           "Infrastructure"
         ],
         "tags": [],
-        "desc": "THE CARYATIDS AND THE ATLASES/TELAMONS:\nThe human body, in an idealized and sometimes heroic form, is elevated to the role of a fundamental pillar of sacred architecture. (Image 1)\n\nGARGOYLE:\nIts function is primarily aesthetic and serves as a warning against evil or sin for the faithful, but it also serves to ward off evil spirits from the sacred building. (image 2)\n\n\nVITRUVIAN MANAND CORBUSIAN MODULOR:\nThe body has also been used as a canon and unit of measurement for space. (image 3)",
+        "desc": "THE CARYATIDS AND THE ATLASES/TELAMONS:\nThe human body, in an idealized and sometimes heroic form, is elevated to the role of a fundamental pillar of sacred architecture. (Image 1)\n\nGARGOYLE:\nIts function is primarily aesthetic and serves as a warning against evil or sin for the faithful, but it also serves to ward off evil spirits from the sacred building. (image 2)\n\nVITRUVIAN MANAND CORBUSIAN MODULOR:\nThe body has also been used as a canon and unit of measurement for space. (image 3)\n\nBONES AS A DECORATIVE ELEMENT:\nThe remains of bodies after death have been used in various cultures as an aesthetic and symbolic element.\n\nUSING INFRASTRUCTURES AS CULTURAL DOMINATION:\nIn many American construction sites, it was necessary to deface sacred Native American burial sites.",
         "links": [],
         "files": [
           {
@@ -4408,6 +4408,40 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/img4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbpx5p5d",
+      "x": 13595.825278622684,
+      "y": 870.3748057402088,
+      "w": 320,
+      "h": 732,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "AI WEIWEI",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Art"
+        ],
+        "tags": [
+          "Human rights",
+          "Denounce"
+        ],
+        "desc": "Ai Weiwei è un artista, attivista e architetto cinese di fama internazionale, noto per aver legato indissolubilmente arte e impegno politico. Le sue opere, che spaziano tra scultura, installazione, fotografia e video, affrontano temi come la libertà d'espressione, i diritti umani e le contraddizioni della società contemporanea. È un dissidente che ha spesso criticato apertamente il governo cinese, motivo per cui è stato censurato, arrestato e persino detenuto. ",
+        "links": [],
+        "files": [
+          {
+            "name": "image 306.png",
+            "size": 434395,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_306.jpg"
           }
         ]
       }
@@ -5463,15 +5497,20 @@
       "s": "nxr4zyom",
       "t": "nbgje9yo",
       "dashed": false
+    },
+    {
+      "s": "nviqui3g",
+      "t": "nbpx5p5d",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Art",
       "Construction companies",
       "Materials",
       "Business",
       "Infrastructure",
-      "Art",
       "Speculative design",
       "Landgrabbing",
       "War",
@@ -5537,9 +5576,9 @@
       "Political sci"
     ],
     "tags": [
-      "Design",
       "Denounce",
       "Human rights",
+      "Design",
       "Victims",
       "Cultural loss",
       "Landgrabbing",
@@ -5561,8 +5600,8 @@
       "Structural failure"
     ],
     "type": [
-      "Research",
       "Source",
+      "Research",
       "Observation",
       "Brief"
     ]
