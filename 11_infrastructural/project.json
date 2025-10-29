@@ -5103,7 +5103,7 @@
       "h": 244,
       "group": null,
       "data": {
-        "date": "2025-10-17",
+        "date": "2025-10-21",
         "title": "VALUES",
         "type": "Brief",
         "action": "Making",
@@ -5113,6 +5113,48 @@
         ],
         "tags": [],
         "desc": "Sustainability\nTraceability\nSolidity",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndxewd2g",
+      "x": 14884.157996995753,
+      "y": 6302.964789409483,
+      "w": 320,
+      "h": 479,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "CONCEPT",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies"
+        ],
+        "tags": [],
+        "desc": "ALCHEMY\n\nAlchemy is an esoteric philosophical system that since ancient times, through various disciplines, has aimed to achieve the highest level of knowledge, spiritual perfection, and the search for the Philosopher's Stone through the transformation of matter.\nThe term alchemy derives from the Arabic l-khīmiyya or al-kīmiyya, composed of the definite article al- and the word kīmiyya, meaning \"chemistry,\" which in turn appears to descend from the Greek term khymeia (χυμεία), meaning \"to melt,\" \"to pour together,\" \"to weld,\" \"to attach.\"\nAlchemy is an esoteric science whose primary goal was to transform lead, or the negative, into gold, or the positive in man.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nj68qg18",
+      "x": 14879.493007228917,
+      "y": 5110.962135247718,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "WHAT DO WE WANT TO MAKE PEOPLE THINK ABOUT?",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Beneath the infrastructure's rational exterior lies a primordial, physical, and often violent reality.\nThe building conceals and bears the marks of history and the suffering of the oppressed.",
         "links": [],
         "files": []
       }
@@ -6277,6 +6319,16 @@
     {
       "s": "nf4vzjmy",
       "t": "ngekx8pi",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "ndxewd2g",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nj68qg18",
       "dashed": false
     }
   ],
