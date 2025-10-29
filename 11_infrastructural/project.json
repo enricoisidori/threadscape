@@ -3473,7 +3473,7 @@
       "x": 10776.773772373079,
       "y": 1896.1074835623754,
       "w": 320,
-      "h": 1141,
+      "h": 1187,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -3484,7 +3484,9 @@
         "areas": [
           "Landgrabbing"
         ],
-        "tags": [],
+        "tags": [
+          "Victims"
+        ],
         "desc": "LAND INVESTMENTS AROUND THE WORLD:\nThe chart shows the distribution of agreements concluded by geographic area in millions of hectares, totaling 114.8 million hectares. Africa is the leading continent for investments that can lead to land grabbing to the detriment of local communities, followed by Latin America, Eastern Europe, and then Asia. The distribution by investment intention is broken down as follows: 40% for forestry, 33% for other purposes, particularly mining, and 26% for agriculture. 67% of the area covered by agreements has ongoing operations, 25% is in the start-up phase, 5% of the area has operations abandoned, and 3% has not yet started. (image 1)\n\nINVESTOR COUNTRIES AND TARGETS OF LAND GRABBING:\nThe chart illustrates the top 10 countries with concluded and unconcluded agreements, expressed in millions of hectares. It shows that the Russian Federation is by far the country receiving the most foreign land investments, followed by Peru (especially for mining) and the Democratic Republic of the Congo (for agricultural monocultures and mining). This is followed by countries with large tropical and equatorial rainforests, such as Indonesia, Brazil, and Gabon, where investments are driving deforestation for monoculture agriculture, livestock farming, and mining. (images 2, 3)",
         "links": [],
         "files": [
@@ -3550,8 +3552,8 @@
     },
     {
       "id": "nlhgqh8m",
-      "x": 10421.118623460712,
-      "y": 1887.9944346085176,
+      "x": 10429.50189441557,
+      "y": 1868.4334690471792,
       "w": 320,
       "h": 1236,
       "group": null,
@@ -3565,6 +3567,7 @@
           "Landgrabbing"
         ],
         "tags": [
+          "Victims",
           "Cultural loss"
         ],
         "desc": "PAN Asia Pacific (PANAP) is a regional network based in Malaysia, part of the global Pesticide Action Network movement. It focuses on environmental justice, food sovereignty, and human rights, particularly in the defense of rural communities, farmers, and agricultural workers in Asia and the Pacific.\n\nNO LAND, NO LIFE:\n\"No Land, No Life!\" is a PAN Asia Pacific campaign denouncing land and resource grabbing in the Asia-Pacific region.\nIt supports the rights of farmers, indigenous peoples, and rural communities by documenting land-related violence and conflict, and promoting agrarian reform and food sovereignty through monitoring, training, and international mobilization.",
@@ -3591,10 +3594,10 @@
     },
     {
       "id": "n7q9ql0u",
-      "x": 11123.022677625488,
+      "x": 11128.611524928727,
       "y": 1893.8255152232064,
       "w": 320,
-      "h": 895,
+      "h": 941,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -3606,7 +3609,10 @@
           "Landgrabbing",
           "Human rights"
         ],
-        "tags": [],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
         "desc": "The Pastoral Land Commission (CPT) is an organization of the Brazilian Catholic Church, founded in 1975 to defend peasants, landless people, and indigenous peoples. It denounces violence and agrarian injustice, promotes land reform, and collects data on rural conflicts in Brazil, becoming one of the main reference sources on these issues.\n\nThe article presents an overview of partial data (January-August 2021) collected by the Pastoral Land Commission (CPT) on rural conflicts in Brazil, highlighting a sharp increase in violence over land occupation and ownership. 418 territories were recorded as affected, with marked increases in “home destruction,” “expropriation,” “expulsion,” and “land grabbing.” Deaths “due to conflict” rose from 9 (2020) to 103 (2021), of which 101 were indigenous Yanomami. Of the 26 homicides linked to rural conflicts, 6 were landless workers (5 in the state of Rondônia) and 3 were quilombolas in Maranhão. The article also denounces the invasion of Yanomami territories by illegal miners, with acts of violence, water contamination, disease, environmental destruction, and cases of children “swept up in dredges.”",
         "links": [],
         "files": [
@@ -3624,7 +3630,7 @@
     {
       "id": "nm0s9av6",
       "x": 11124.399521762753,
-      "y": 2803.724365140317,
+      "y": 2859.6128381727126,
       "w": 320,
       "h": 755,
       "group": null,
@@ -3639,7 +3645,8 @@
           "Human rights"
         ],
         "tags": [
-          "Landgrabbing"
+          "Victims",
+          "Cultural loss"
         ],
         "desc": "In November 2021, in the state of Rondônia, 300 landless families were forcibly evicted from the NorBrasil and Arco-Íris farms, in an operation conducted by military police and the National Force. The lands were claimed by the company Leme Empreendimentos Ltda., accused of illegal appropriation. The eviction resulted in serious human rights violations, with homes and documents destroyed and two farmers killed. According to the CPT, the lands were either public or illegally acquired.",
         "links": [],
@@ -3660,10 +3667,10 @@
       "x": 11482.15789478552,
       "y": 1898.8545596345139,
       "w": 320,
-      "h": 939,
+      "h": 985,
       "group": null,
       "data": {
-        "date": "2025-10-21",
+        "date": "2025-10-07",
         "title": "GLOBAL WITNESS KILLINGS REPORT (2012-2024)",
         "type": "Source",
         "action": "Exploring",
@@ -3672,7 +3679,10 @@
           "Landgrabbing",
           "Human rights"
         ],
-        "tags": [],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
         "desc": "2,253 land and environmental defenders were killed or disappeared between 2012 and 2024",
         "links": [],
         "files": [
@@ -3713,8 +3723,8 @@
     },
     {
       "id": "nx4vfs2g",
-      "x": 10457.66323486777,
-      "y": 4132.959166536275,
+      "x": 9997.66323486777,
+      "y": 3832.959166536275,
       "w": 320,
       "h": 614,
       "group": null,
@@ -3729,26 +3739,6 @@
         ],
         "tags": [],
         "desc": "FIRST TIME LAND GRABBING IS RECOGNIZED AND CONDEMNED:\nWe denounce all forms of land grabbing, both international and national.\nWe denounce local land grabs by powerful local elites, within the community, or among\nfamily members. We denounce large-scale land grabbing, which has accelerated dramatically\nover the past three years and which we define as an acquisition or concession with one or more of the\nfollowing characteristics:\n\n(I) is in violation of human rights, particularly women's equal rights; (II) is not based on the free, prior, and informed\nconsent of affected land users; (III) is not based on, or fails to take into account, a comprehensive assessment of\nsocial, economic, and environmental impacts, including how gender aspects are addressed;\n(IV) is not based on transparent contracts specifying commitments regarding activities, work, and benefit-sharing;\n(V) is not based on effective democratic planning, independent oversight, and meaningful participation.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nwamfg4p",
-      "x": 13455.853660523735,
-      "y": 3012.4679225869927,
-      "w": 320,
-      "h": 165,
-      "group": null,
-      "data": {
-        "date": "2025-10-21",
-        "title": "CASE STUDIES",
-        "type": "",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
-        "tags": [],
-        "desc": "",
         "links": [],
         "files": []
       }
@@ -3787,7 +3777,7 @@
       "group": null,
       "data": {
         "date": "2025-10-03",
-        "title": "INFRASTRUCTURES WERE BUILT BY RECYCLING THE GOODS, MEMORIES, AND BLOOD OF THE OPPRESSED?",
+        "title": "WHAT IF INFRASTRUCTURES WERE BUILT BY RECYCLING THE GOODS, MEMORIES, AND BLOOD OF THE OPPRESSED?",
         "type": "Brief",
         "action": "Making",
         "mainArea": "Speculation",
@@ -3807,10 +3797,10 @@
     },
     {
       "id": "n9n6z7bi",
-      "x": 10778.842908009372,
-      "y": 3045.6978870295584,
+      "x": 10773.254060706133,
+      "y": 3115.558478320053,
       "w": 320,
-      "h": 858,
+      "h": 904,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -3822,7 +3812,10 @@
           "Landgrabbing",
           "Human rights"
         ],
-        "tags": [],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
         "desc": "According to the PAN Asia Pacific (PANAP) report of December 10, 2019, land conflict-related killings have been attributed to various actors, including:\nParamilitary groups and private security forces: often associated with economic interests, such as agribusiness and mining.\nState armed forces\nNon-state armed groups: Some conflicts involve armed groups fighting for control of land and resources.\nThese actors often act with impunity, facilitated by weak laws and a lack of accountability. The primary victims are farmers, community leaders, and land rights activists, especially in countries such as Colombia, the Philippines, and Mexico.\nPANAP emphasizes the need for independent investigations and greater protection for rural communities threatened by these conflicts.",
         "links": [],
         "files": [
@@ -3842,7 +3835,7 @@
       "x": 10058.191778023429,
       "y": 1891.9769906584688,
       "w": 320,
-      "h": 1466,
+      "h": 1512,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -3854,7 +3847,10 @@
           "Landgrabbing",
           "Human rights"
         ],
-        "tags": [],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
         "desc": "The report monitors human rights violations suffered by communities resisting land and resource grabbing in the Asia-Pacific.\n\nBiofuels despite being promoted as an alternative to fossil fuels, have caused deforestation, land degradation, and human rights violations. PANAP has monitored over 1.3 million hectares affected by biofuels and land conflicts. A case in point is San Mariano (Philippines), where Green Future Innovations Inc. expropriated peasant lands to grow sugarcane, causing environmental degradation, pollution, respiratory diseases, and threats to farmers, who have lost income and security.\n\nLarge-scale renewable energy projects, such as dams, wind turbines, and solar farms, have caused forced displacement and environmental damage. Examples include the Lower Sesan 2 dam in Cambodia, which has displaced up to 5,000 people; the K Rail project in India risks displacing 20,000 families. PANAP estimates that renewable infrastructure requires approximately 300,000 hectares of land, resulting in the loss of homes and livelihoods.\n\n",
         "links": [],
         "files": [
@@ -3879,10 +3875,10 @@
     },
     {
       "id": "ngwh4iy4",
-      "x": 10415.797851419098,
+      "x": 10413.003427767479,
       "y": 3151.8344501275883,
       "w": 320,
-      "h": 531,
+      "h": 576,
       "group": null,
       "data": {
         "date": "2025-10-29",
@@ -3894,7 +3890,10 @@
           "Landgrabbing",
           "Human rights"
         ],
-        "tags": [],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
         "desc": "Data from PAN Asia Pacific (PANAP) shows that every week, over the past five years, at least two people in rural communities have been killed in conflicts over land grabbing.\nIt also claims that repression, land speculation, and violence are being used to protect corporate profits and interests at the expense of farmers.\nSpecific cases cited: Agbede (Nigeria), Edelira (Paraguay), Hacienda Tinang (Philippines)",
         "links": [],
         "files": [
@@ -3907,6 +3906,124 @@
             "path": "assets/Screenshot_2025-10-09_alle_12.10.50_2.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "ne8dx3h1",
+      "x": 11482.594085178776,
+      "y": 2903.3133147741573,
+      "w": 320,
+      "h": 1287,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": " GLOBAL WITNESS 2021 LAS LINE DEFENSE REPORT ANALYSIS",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing",
+          "Human rights"
+        ],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
+        "desc": "NUMBER OF CASES AND VICTIMS OF HUMAN RIGHTS VIOLATIONS RELATED TO LAND CONFLICTS AND STRUGGLES, FROM JANUARY 1, 2017 TO JULY 31, 2025\nGlobal Witness is an investigative and activist organization that has been working for over 30 years to expose the links between environmental destruction, conflict, corruption, and human rights violations.\nThe organization investigates how industries fueling the climate crisis profit from destruction and supports people fighting to defend their communities and their rights.\n\nA GLOBAL ANALYSIS\nATTACKS ON THE RISE FOR ANOTHER YEAR\n\nIn 2020, Global Witness recorded 227 murdered land and environmental defenders – making it once again the most dangerous year on record for people defending their homes, land and livelihoods. However, our data on killings does not capture the true scale of the problem. In some countries, the situation facing defenders is hard to gauge – restrictions on a free press, or where the independent monitoring of attacks on defenders is not taking place, can lead to underreporting. Land disputes and environmental damage, two of the prominent underlying causes behind communities’ activism, can also be difficult to monitor in parts of the world  affected by conflict.\nWe know that beyond killings, many defenders and communities also experience attempts to silence them, with tactics like death threats, surveillance, sexual violence, or criminalisation – and that these\nkinds of attacks are even less well reported. These challenges, coupled with the requirement to meet strict verification criteria for recording killings, mean that our figures are almost certainly an underestimate.\n\nHIGHEST COUNTRIES PER CAPITA\n1. Nicaragua\n2. Honduras\n3. Colombia\n4. Guatemala\n5. Philippines",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-09 alle 23.03.11 1.png",
+            "size": 14724,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_23.03.11_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9mkxoen",
+      "x": 12380.954240319434,
+      "y": 3690.8171550885254,
+      "w": 320,
+      "h": 693,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "IS LAND GRABBING LEGAL?",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Legality"
+        ],
+        "tags": [
+          "Landgrabbing",
+          "Human rights",
+          "Victims"
+        ],
+        "desc": "It must be stated immediately that this practice is not a crime: the type of litigation initiated cannot be assimilated to a criminal proceeding, but rather to a civil offense.\n\nLand occupation generally finds its legal basis in perfectly valid and lawful acts, because they comply with national laws. However, this occupation, while valid, can be substantially unjust and violate other laws (such as those protecting the fundamental rights to food and water, or to housing, or to the identity and culture of an indigenous people) because very often the legal framework justifying it does not respect all the rights at stake.\n\nSince militarily occupying a country is no longer accepted, it is better to occupy it 'economically.' And even better if we can legally extract the resources.\n\nAn indigenous community that occupies land collectively (and this is the typical way many indigenous communities manage spaces) or that has occupied it for centuries, almost never has the opportunity to demonstrate to have a property title. Also because the very concept of \"property\" is often unknown in these cultures, where the land belongs to everyone.\"",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8mjijsy",
+      "x": 11819.213085187715,
+      "y": 1892.1282080554884,
+      "w": 320,
+      "h": 996,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "GAZA STRIP CASE STUDY",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human rights",
+          "War",
+          "Landgrabbing"
+        ],
+        "tags": [
+          "Victims"
+        ],
+        "desc": "Approximately 82% of the Gaza Strip is currently occupied by Israeli forces, and 60%* of Palestinian land is expected to remain under Israeli control.\n\n*(Beit Lahiya, Beit Hanoon, some Gaza neighborhoods (Shujayea, Tuffah, Zeitoun), more than half of Khan Younis, and virtually all of Rafah).\nImpact on Palestinian Displacement\nThe continued Israeli presence in these key areas makes it unlikely that hundreds of thousands of displaced Palestinians will return to their homes in the short term, despite the ceasefire.\n\nIsrael's planning system, which is used as a legal pretext for demolitions, is described as fundamentally discriminatory, making building permits \"nearly impossible for Palestinians to obtain.\"\n\nAs of October 2023, none of the 282 applications submitted have been approved.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 290.png",
+            "size": 441576,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_290.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0147brt",
+      "x": 9234.09588721837,
+      "y": 2599.4516463250175,
+      "w": 320,
+      "h": 278,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": " WORKING ON THE WHAT IF",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Speculative design"
+        ],
+        "tags": [],
+        "desc": "WHAT IF INFRASTRUCTURE WAS BUILT BY RECYCLING THE BODIES OF THE OPPRESSED?\n\nWHAT IF INFRASTRUCTURE WAS BUILT BY RECYCLING BODIES?\n",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -4767,16 +4884,6 @@
       "dashed": false
     },
     {
-      "s": "nrkvbkyd",
-      "t": "nwamfg4p",
-      "dashed": false
-    },
-    {
-      "s": "nx4vfs2g",
-      "t": "nwamfg4p",
-      "dashed": false
-    },
-    {
       "s": "nnv5mnpd",
       "t": "nkck35ei",
       "dashed": false
@@ -4825,18 +4932,95 @@
       "s": "ng0qigt1",
       "t": "nm0s9av6",
       "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "ne8dx3h1",
+      "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "nx4vfs2g",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "ne8dx3h1",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "naeja7uy",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "n7q9ql0u",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "nw2pvq5a",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "nm0s9av6",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "ngwh4iy4",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "n9n6z7bi",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "nlhgqh8m",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "nqje5a0x",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "n8mjijsy",
+      "dashed": false
+    },
+    {
+      "s": "n8mjijsy",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "nyyndnw8",
+      "t": "n0147brt",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Human rights",
+      "Speculative design",
       "Landgrabbing",
+      "War",
+      "Human rights",
+      "Legality",
       "Tourism",
       "Infrastructure",
       "Touristification",
       "Architecture",
       "Art",
-      "War",
       "Geopolitics and international relations",
       "Political economy and public policy",
       "International relations and human rights",
@@ -4895,8 +5079,9 @@
     ],
     "tags": [
       "Victims",
-      "Human rights",
       "Cultural loss",
+      "Human rights",
+      "Landgrabbing",
       "Infrastructure",
       "Touristification",
       "Protests",
@@ -4912,14 +5097,13 @@
       "Useless investment",
       "Isolation",
       "Psychological distress",
-      "Structural failure",
-      "Landgrabbing"
+      "Structural failure"
     ],
     "type": [
-      "Source",
-      "Research",
+      "Brief",
       "Observation",
-      "Brief"
+      "Source",
+      "Research"
     ]
   }
 }
