@@ -985,7 +985,7 @@
       "x": 1511.2591950395981,
       "y": 9821.60906474057,
       "w": 320,
-      "h": 725,
+      "h": 817,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -1000,7 +1000,13 @@
           "Critical data studies",
           "Digital governance"
         ],
-        "tags": [],
+        "tags": [
+          "Algorithmic bias",
+          "Data perception",
+          "Metric system",
+          "Data representation",
+          "Deceptive pattern"
+        ],
         "desc": "The manipulation of data can be observed in the following examples:\n1.⁠ ⁠The Mars Climate Orbiter Crash (1999) – Unit Conversion Error\n2.⁠ ⁠COVID-19 Data Reporting Variability (2020–2022) – Inconsistent Health Metrics\n3.⁠ ⁠Flint Water Crisis Lead Levels (2014–2016) – Sampling and Representation Bias\n4.⁠ ⁠Brexit Campaign (2016) – Misleading Data Representation",
         "links": [
           "https://www.factcheck.org/the-factcheck-wire/ https://www.factcheck.org/2025/09/trump-again-overstates-number-of-drug-overdose-deaths-in-u-s/ https://www.factcheck.org/2025/09/after-kirks-death-a-false-social-media-post-on-partisan-reaction-to-violence/ https://www.factcheck.org/2025/09/few-mass-shooters-have-been-transgender/ https://www.factcheck.org/2025/09/few-mass-shooters-have-been-transgender/ https://libguides.usask.ca/CriticalThinkingTutorial/HowReasoningFails/StatisticalMisrepresentation https://www.academia.edu/32949865/IL_GIOCO_DELL_IMITAZIONE_stereotipi_umani_big_data_e_algoritmi?utm_source=chatgpt.com"
@@ -1436,7 +1442,7 @@
       "x": 3044.656093332349,
       "y": 10210.183915129526,
       "w": 320,
-      "h": 640,
+      "h": 685,
       "group": null,
       "data": {
         "date": "2025-09-25",
@@ -1447,7 +1453,9 @@
         "areas": [
           "Critical design"
         ],
-        "tags": [],
+        "tags": [
+          "Metric system"
+        ],
         "desc": "here exists a standard that is perfect only on paper: it is created to simplify, organize, and optimize. But every standard, no matter how precise, is also exclusive. It defines a center and leaves out everything that strays from it. In work, in health, in space, adhering to the standard means conforming to an abstract norm. But who decides what is “perfect”? And what happens to the bodies, minds, and lives that don’t fit into it? Perhaps true balance doesn’t lie in the standard, but in its being questioned.",
         "links": [
           "https://arquine.com/the-pruitt-igoe-myth-an-urban-history/",
@@ -1578,7 +1586,7 @@
       "x": 3608.9579013439134,
       "y": 1805.4626602399458,
       "w": 320,
-      "h": 560,
+      "h": 652,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1590,7 +1598,13 @@
           "Data ethics",
           "Critical data studies"
         ],
-        "tags": [],
+        "tags": [
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Metric system",
+          "Measuring the unmeasurable",
+          "Biometric data"
+        ],
         "desc": "e gap between biometric technology promises and reality through technical performance analysis, ethical implementation challenges, and real-world deployment outcomes. Despite advanced algorithms and quality measures, practical effectiveness remains limited by infrastructure constraints, user acceptance issues, and institutional capacity gaps in diverse operational environments.",
         "links": [
           "https://www.researchgate.net/publication/383878921_Utility-based_performance_evaluation_of_biometric_sample_quality_measures",
@@ -1605,7 +1619,7 @@
       "x": 3609.1344528855725,
       "y": 2378.217644774465,
       "w": 320,
-      "h": 474,
+      "h": 543,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1617,7 +1631,13 @@
           "Data ethics",
           "Critical data studies"
         ],
-        "tags": [],
+        "tags": [
+          "Metric system",
+          "Identities",
+          "Biometric data",
+          "Metrics distortion",
+          "Metric governance"
+        ],
         "desc": "the unconventional applications of biometric technology that challenge traditional identity frameworks. Papers that push beyond standard biometric authentication uses, exploring how these technologies might serve broader purposes in identity fluidity and post-mortem identification for humanitarian goals.",
         "links": [
           "https://www.researchgate.net/publication/395725697_What_if_we_could_hot_swap_our_Biometrics",
@@ -1659,7 +1679,7 @@
       "x": 3999.127305730638,
       "y": 1850.1612044053327,
       "w": 320,
-      "h": 544,
+      "h": 635,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1671,7 +1691,13 @@
           "Data ethics",
           "Critical data studies"
         ],
-        "tags": [],
+        "tags": [
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Metric system",
+          "Metrics distortion",
+          "Metric governance"
+        ],
         "desc": "An engineering methodology aimed at optimizing production processes through the systematic study of the time spent and the methods used to perform work activities. The goal is to improve productivity, reduce waste (muda) and costs, increase the quality of products or services, and ensure ergonomic and safe working conditions.\nIt is a crucial and controversial metric: for the company, it signals the need for greater speed, while the worker may dispute the standard, arguing that it imposes an excessively demanding pace.\n\n",
         "links": [
           "https://my.liuc.it/MatSup/2007/Y74000/Tempi%20e%20metodi.pdf",
@@ -1686,7 +1712,7 @@
       "x": 4009.175199896543,
       "y": 2407.116417478186,
       "w": 320,
-      "h": 573,
+      "h": 664,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1698,7 +1724,13 @@
           "Data ethics",
           "Critical data studies"
         ],
-        "tags": [],
+        "tags": [
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Data perception",
+          "Metric system",
+          "Measuring the unmeasurable"
+        ],
         "desc": "The increasing availability of tracking technologies is influencing employers’ decisions about what to monitor and how, often reflecting a modern form of “neo-Taylorism” focused on coercive individual control. A crucial point is that outsourcing measurement through “Surveillance-as-a-Service” (SaaS) leads organizations to rely on superficial and easily quantifiable metrics that may lack real constructive validity, resulting in algorithmic management systems based on weak data. Finally, the author concludes that not even Explainable AI (XAI) can solve the fundamental problem of measuring work, as the intrinsic difficulty of quantifying complex productivity requires an authentic understanding of the workplace that automated systems cannot provide.\n",
         "links": [
           "https://www.etui.org/sites/default/files/2024-03/Chapter9_Measuring%20work%20is%20hard.%20Subcontracting%20it%20won’t%20help.%20Explainable%20AI%20won’t%20help.pdf"
@@ -1711,7 +1743,7 @@
       "x": 3608.4878298812564,
       "y": 2876.207057241767,
       "w": 320,
-      "h": 443,
+      "h": 511,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1723,7 +1755,11 @@
           "Data ethics",
           "Critical data studies"
         ],
-        "tags": [],
+        "tags": [
+          "Algorithmic governance",
+          "Metric system",
+          "Cognitive bias"
+        ],
         "desc": "Psychological impacts of lean production systems on worker stress and well‑being are widely studied, while educational and research materials examine human factors assessment methods, competency evaluation in industrial settings, and how workplace organization influences employee performance and mental health.",
         "links": [
           "https://webthesis.biblio.polito.it/29707/1/tesi.pdf",
@@ -1738,7 +1774,7 @@
       "x": 3602.1425158155234,
       "y": 4358.5560846533135,
       "w": 320,
-      "h": 654,
+      "h": 745,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1750,7 +1786,13 @@
           "Data ethics",
           "Critical data studies"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Metric system",
+          "Measuring the unmeasurable"
+        ],
         "desc": "The evolution and impact of standardized measurement systems, tracing their historical development, global adoption patterns, and economic implications. It highlights how universal standards facilitate international trade, scientific collaboration, and technological advancement, while also addressing resistance to change and the continued use of traditional systems in certain regions and contexts.",
         "links": [
           "https://www.primapagina.sif.it/article/874/il-linguaggio-delle-misure-diventa-universale",
@@ -1770,7 +1812,7 @@
       "x": 3596.9077654732264,
       "y": 5049.8366724099,
       "w": 320,
-      "h": 447,
+      "h": 538,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1784,7 +1826,13 @@
           "Critical data studies",
           "Algorithm studies"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Subjective reality",
+          "Algorithmic governance",
+          "Metric system",
+          "Measuring the unmeasurable"
+        ],
         "desc": "Historical government documentation examines metric conversion efforts and standardization processes in military and civilian contexts. Materials address implementation challenges, industry perspectives, and policy coordination for measurement system transitions during the 1980s conversion period.",
         "links": [
           "https://www.govinfo.gov/content/pkg/GOVPUB-C13-fcaa399861a2cf35e1af22a6f23dac2b/pdf/GOVPUB-C13-fcaa399861a2cf35e1af22a6f23dac2b.pdf",
@@ -1798,7 +1846,7 @@
       "x": 3605.997082083246,
       "y": 5528.678435679659,
       "w": 320,
-      "h": 698,
+      "h": 789,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1812,7 +1860,13 @@
           "Critical data studies",
           "Algorithm studies"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Algorithmic governance",
+          "Metric system",
+          "Measuring the unmeasurable",
+          "Alternative values"
+        ],
         "desc": "Revolutionary attempts to restructure temporal measurement systems throughout history, examining how political and scientific movements sought to replace traditional calendars with rationalized alternatives, from decimal-based monthly divisions to astronomical corrections that fundamentally challenged established chronological frameworks and social organization of time.",
         "links": [
           "https://www.treccani.it/enciclopedia/calendario/",
@@ -1834,7 +1888,7 @@
       "x": 3992.562062293673,
       "y": 5589.345645214673,
       "w": 320,
-      "h": 570,
+      "h": 662,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1848,7 +1902,13 @@
           "Critical data studies",
           "Algorithm studies"
         ],
-        "tags": [],
+        "tags": [
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Metric system",
+          "Data representation",
+          "Alternative values"
+        ],
         "desc": "The complex interplay between traditional and modern temporal systems, exploring how different cultures have adapted, maintained, or integrated indigenous calendar systems alongside standardized Western frameworks, while also addressing broader questions of cultural representation and the dynamics between traditional knowledge systems and contemporary global standards",
         "links": [
           "https://studycli.org/chinese-zodiac/chinese-calendar/",
@@ -1865,7 +1925,7 @@
       "x": 3608.68459893028,
       "y": 6246.400791622763,
       "w": 320,
-      "h": 550,
+      "h": 641,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1879,7 +1939,13 @@
           "Critical data studies",
           "Algorithm studies"
         ],
-        "tags": [],
+        "tags": [
+          "Algorithmic governance",
+          "Metric system",
+          "Measuring the unmeasurable",
+          "Metrics distortion",
+          "Metric governance"
+        ],
         "desc": "The British Empire used imperial units of measurement as an \"invisible tariff\" to economically control its colonies (18th–19th centuries), forcing them to trade exclusively through British channels.\nForced standardization: Colonies had to use pounds, gallons, bushels, yards\nTrade isolation: Difficult to trade with metric countries (France, Germany)\nTechnological dependency: Infrastructure built using imperial standards\nMonopoly on conversions: Only London could certify weights and measures",
         "links": [
           "https://www.legislation.gov.uk/ukpga/Geo4/5/74/contents/enacted",
@@ -1894,7 +1960,7 @@
       "x": 3617.466900518015,
       "y": 6836.400791622763,
       "w": 320,
-      "h": 482,
+      "h": 528,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1908,7 +1974,10 @@
           "Critical data studies",
           "Algorithm studies"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Algorithmic bias"
+        ],
         "desc": "Brazil's recent elimination of daylight saving time represents a significant policy shift affecting energy consumption, economic patterns, and daily life rhythms across South America's largest nation.",
         "links": [
           "https://www.tgcom24.mediaset.it/mondo/brasile-il-presidente-bolsonaro-abolisce-l-ora-legale-per-decreto_3205229-201902a.shtml",
@@ -1923,7 +1992,7 @@
       "x": 3618.6022685035596,
       "y": 7334.400791622763,
       "w": 320,
-      "h": 568,
+      "h": 637,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1937,7 +2006,12 @@
           "Critical data studies",
           "Algorithm studies"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Algorithmic governance",
+          "Metric system",
+          "Metric governance"
+        ],
         "desc": "Temporal control serves as a powerful political instrument, shaping social order through standardized time zones, work rhythms, and institutional schedules that reflect broader power dynamics and governance strategies.",
         "links": [
           "https://www.aljazeera.com/news/2023/8/9/conflict-over-the-clock-china-among-countries-where-time-is-political",
@@ -1953,7 +2027,7 @@
       "x": 3622.5730468459988,
       "y": 7935.925992654075,
       "w": 320,
-      "h": 726,
+      "h": 795,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1967,7 +2041,13 @@
           "Critical data studies",
           "Algorithm studies"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Body-politics",
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Metric system"
+        ],
         "desc": "\"The Measure of All Things\" di Ken Alder - Racconta la storia della creazione del sistema metrico durante la Rivoluzione Francese, mostrando come la standardizzazione delle misure fosse un progetto politico di modernizzazione e controllo statale.\n\"Seeing Like a State\" di James C. Scott - Un'analisi fondamentale di come gli stati moderni usino la standardizzazione, incluse le unità di misura, per \"rendere leggibile\" la società e facilitare il controllo amministrativo. Esamina diversi casi storici di imposizione di sistemi uniformi.\n\"The Power of Maps\" di Denis Wood - Pur concentrandosi principalmente sulle mappe, esplora come la cartografia e i sistemi di misurazione spaziale siano strumenti di potere politico e controllo territoriale.\n\"Metrology and State Formation\" di Simon Schaffer (articoli accademici) - Schaffer ha scritto diversi saggi sul rapporto tra metrologia e formazione dello stato moderno.\n\"Against the Grain\" di James C. Scott - Il suo libro più recente che esamina come i primi stati abbiano standardizzato misure, pesi e sistemi di calcolo per facilitare la tassazione e il controllo delle popolazioni.\n\"The Nothing That Is: A Natural History of Zero\" di Robert Kaplan - Sebbene si concentri sullo zero, tocca temi interessanti su come i sistemi numerici e di misurazione riflettano strutture di potere culturali e politiche.",
         "links": [],
         "files": []
@@ -1978,7 +2058,7 @@
       "x": 3623.7166798149156,
       "y": 8681.547121310123,
       "w": 320,
-      "h": 396,
+      "h": 488,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1992,7 +2072,13 @@
           "Critical data studies",
           "Algorithm studies"
         ],
-        "tags": [],
+        "tags": [
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Cellular senescence",
+          "Cognitive bias",
+          "Metric governance"
+        ],
         "desc": "Chronobiology studies internal biological clocks that regulate physiological processes over 24-hour cycles. These circadian rhythms control sleep-wake patterns, hormone production, metabolism, and cellular repair, synchronized by environmental cues like light and temperature.",
         "links": [
           "https://it.wikipedia.org/wiki/Cronobiologia",
@@ -2179,7 +2265,7 @@
       "x": 3644.074649953581,
       "y": 12145.53289899084,
       "w": 320,
-      "h": 835,
+      "h": 903,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -2190,7 +2276,12 @@
         "areas": [
           "Critical design"
         ],
-        "tags": [],
+        "tags": [
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Metric system",
+          "Data representation"
+        ],
         "desc": "Research reveals how foundational systems across education, employment, healthcare, technology, and safety infrastructure embed demographic assumptions that create unequal outcomes. From AI algorithms to crash test standards, design choices reflect dominant group characteristics while marginalizing others, perpetuating disparities through seemingly neutral technical specifications and institutional practices.",
         "links": [
           "https://www.researchgate.net/publication/279326095_Racial_Differences_in_Teacher_Perception_of_Student_Ability",
@@ -2211,7 +2302,7 @@
       "x": 5016.755018487798,
       "y": 681.0996754067373,
       "w": 320,
-      "h": 334,
+      "h": 402,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -2223,7 +2314,11 @@
           "Data ethics",
           "Critical data studies"
         ],
-        "tags": [],
+        "tags": [
+          "Algorithmic governance",
+          "Cellular senescence",
+          "Metric system"
+        ],
         "desc": "The pension system is faltering: the number of people contributing to it is shrinking much faster than the number of those who benefit from it, putting the entire system at risk of collapse. People are retiring later and later, facing the growing conflict between biological aging and the relentless performance demands of the modern workplace.\n",
         "links": [],
         "files": []
@@ -2561,7 +2656,7 @@
       "x": 4390.656805760967,
       "y": 6727.006437682027,
       "w": 320,
-      "h": 636,
+      "h": 681,
       "group": null,
       "data": {
         "date": "2025-10-01",
@@ -2574,7 +2669,9 @@
           "Socio-political",
           "Metric system"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political"
+        ],
         "desc": "China developed BeiDou after the US cut off GPS signals to a Chinese ship in 1993, making it a direct response to Western technological dependence and now surpasses GPS in technical capabilities in many regions. BeiDou is integrated into China's Belt and Road Initiative as a geopolitical tool, with 140+ countries using it and experts warning it could provide China leverage to hold other nations' economies hostage. A US government advisory board stated \"GPS's capabilities are now substantially inferior to those of China's BeiDou,\" acknowledging the shift in technological dominance.",
         "links": [
           "https://www.scmp.com/economy/china-economy/article/3277511/after-30-years-chinas-beidou-gps-rival-will-world-enter-its-orbit",
@@ -2590,7 +2687,7 @@
       "x": 4386.412298286195,
       "y": 7398.761930207256,
       "w": 320,
-      "h": 600,
+      "h": 668,
       "group": null,
       "data": {
         "date": "2025-10-01",
@@ -2603,7 +2700,12 @@
           "Socio-political",
           "Metric system"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Algorithmic bias",
+          "Metric system",
+          "Alternative values"
+        ],
         "desc": "At the 1884 International Meridian Conference, France abstained from voting for Greenwich and continued using the Paris meridian for several decades, showing national resistance to accepting another country's standard. Before Greenwich's adoption, different countries had competing meridians through their capitals - Greenwich, Paris, Berlin, and Washington were all candidate.",
         "links": [
           "https://en.wikipedia.org/wiki/Prime_meridian_(Greenwich)",
@@ -3257,7 +3359,7 @@
       "x": 7604.387658102145,
       "y": 7247.106244474143,
       "w": 320,
-      "h": 550,
+      "h": 595,
       "group": null,
       "data": {
         "date": "2025-10-10",
@@ -3270,7 +3372,10 @@
           "Socio-political",
           "Metric system"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Biometric data"
+        ],
         "desc": "These sources explore how public lighting operates as both a symbol and instrument of urban inequality. They argue that illumination should serve as a means of social inclusion rather than a mechanism of surveillance or a privilege of affluent areas. The unequal distribution of light exposes how urban design embodies and perpetuates assumptions about which communities and residents the city deems worthy.",
         "links": [
           "https://lightpollutionmap.app/it/?lat=45.464300&lng=9.189500&zoom=2",
@@ -3358,7 +3463,7 @@
       "x": 7605.436452433531,
       "y": 9183.135358729807,
       "w": 320,
-      "h": 497,
+      "h": 588,
       "group": null,
       "data": {
         "date": "2025-10-10",
@@ -3371,7 +3476,13 @@
           "Socio-political",
           "Metric system"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Metric system",
+          "Measuring the unmeasurable",
+          "Alternative values",
+          "Metrics distortion"
+        ],
         "desc": "The Human Development Index (HDI), challenges GDP-focused development measurement by combining health, education, and living standards into one metric. They emphasize that people and capabilities—not just economic growth—should define national progress. The HDI uses life expectancy, schooling years, and income to create composite scores between 0-1, enabling cross-country comparisons that reveal how nations with similar GNI achieve different human outcomes.",
         "links": [
           "https://www.infodata.ilsole24ore.com/2018/02/16/si-misura-lo-sviluppo-nazione-2/",
@@ -3455,7 +3566,7 @@
       "x": 9422.789208365037,
       "y": 5789.741435387079,
       "w": 320,
-      "h": 520,
+      "h": 588,
       "group": null,
       "data": {
         "date": "2025-10-18",
@@ -3470,7 +3581,13 @@
           "Communication",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Body-politics",
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Speculative projects"
+        ],
         "desc": "What if time were an instrument of power?\n\nIn this scenario, deciding where to place zero hour becomes once again a question of power. Whoever controls zero hour controls the daily reference point for billions of people. Recent conflicts have shown how temporal manipulation can disorient and dominate. To prevent time from becoming a geopolitical weapon, the United Nations proposes adopting a single time zone that synchronizes the global working day: a solution that requires a transparent and shared regulatory body, capable of balancing operational efficiency with equitable representation among powers.",
         "links": [],
         "files": []
@@ -3481,7 +3598,7 @@
       "x": 8574.108430819284,
       "y": 5236.338041625388,
       "w": 320,
-      "h": 755,
+      "h": 846,
       "group": null,
       "data": {
         "date": "2025-10-17",
@@ -3496,7 +3613,13 @@
           "Communication",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Data perception",
+          "Speculative projects"
+        ],
         "desc": "The project needs two components: a brand narrative with visual elements that immerses people in a credible story about how time zones impose control, and a measurement system combining individual kit readings (like light pollution and silence) with external data to calculate scores. \n\nThe time zone aspect currently feels weak and unexperiential, it needs stronger framing around conflict and power imposition rather than explicit \"what if\" scenarios. The what-if isn't working well. The result of the speculation, that the world has a single time zone, needs to focus more on the conflict of power and temporal control. It should provoke more reflection and be less explicit. \n\nThe narrative should explain why each parameter was chosen, use a complex formula (not simple addition) for scoring, reference historical contexts beyond Greenwich (like the Gini coefficient for inequality), and create visceral impact through shocking visualizations like maps overlaying time zones with actual sunlight curves. \n\nThe experience must help individuals connect their personal measurements to the broader systemic problem, making the violence of disrupting natural cycles tangible.",
         "links": [],
         "files": []
@@ -3507,7 +3630,7 @@
       "x": 9012.948119756456,
       "y": 5407.200656825923,
       "w": 320,
-      "h": 402,
+      "h": 471,
       "group": null,
       "data": {
         "date": "2025-10-18",
@@ -3522,7 +3645,11 @@
           "Communication",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Algorithmic governance",
+          "Metric system"
+        ],
         "desc": "The Greenwich Meridian, for centuries a reference point and symbol of British hegemony, appears today as a relic of a world that no longer exists. The axis of global power is shifting: from Western unipolarity to a multipolar system in which states, corporations, and non-state actors compete to redefine the rules of the game. ",
         "links": [],
         "files": []
@@ -3533,7 +3660,7 @@
       "x": 9420.346522594054,
       "y": 5282.91797932394,
       "w": 320,
-      "h": 486,
+      "h": 578,
       "group": null,
       "data": {
         "date": "2025-10-18",
@@ -3548,7 +3675,13 @@
           "Communication",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Algorithmic bias",
+          "Metric system",
+          "Measuring the unmeasurable",
+          "Identities"
+        ],
         "desc": "In this transition, time itself becomes an object of contention once again. No longer a simple neutral convention, but an instrument of power, time becomes a terrain of symbolic and political struggle. Emerging powers, from China to India, claim the right to establish a new \"zero hour,\" challenging the historical centrality of the West. Establishing where time begins means deciding who sets the rhythm of the world. In an era marked by instability and technological rearmament, the measurement of time transforms into a geopolitical frontier, an invisible yet decisive battlefield.\n",
         "links": [],
         "files": []
@@ -3559,7 +3692,7 @@
       "x": 9854.70510783959,
       "y": 5638.522710749787,
       "w": 320,
-      "h": 486,
+      "h": 578,
       "group": null,
       "data": {
         "date": "2025-10-18",
@@ -3574,7 +3707,13 @@
           "Communication",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Metric system",
+          "Cognitive bias"
+        ],
         "desc": "SYNCHRO (SYstematic Normalization of CHronometric Rank Organization) is an intergovernmental organization tasked with evaluating state performance to determine which country holds the right to define the reference time. Every two years, this system allows for the designation of which nation has the right to impose its time on the rest of the planet.\n\nAmong its main objectives are maintaining order, developing relations, and pursuing international cooperation.",
         "links": [],
         "files": []
@@ -3585,7 +3724,7 @@
       "x": 10239.891246063413,
       "y": 5019.51886647557,
       "w": 320,
-      "h": 705,
+      "h": 796,
       "group": null,
       "data": {
         "date": "2025-10-18",
@@ -3600,7 +3739,13 @@
           "Communication",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Data perception",
+          "Metric system"
+        ],
         "desc": "The ranking is based on parameters of social stability understood as the absence of internal conflict within countries, measuring a set of parameters that monitor the population's adherence to norms and standards. The resulting stability is therefore not the product of cohesion, but of control. \n\nParameters were chosen that privilege values impacting multiple levels: from individual well-being to social cohesion on a national scale. The intent is to avoid standard indicators already commonly used, seeking more transversal measures instead. Each parameter has a different weight, defined based on its relevance. \n\nThe system articulates the evaluation of each country's score on two levels: one part derives from individual parameters, measured directly on citizens; the remaining part is determined by comprehensive parameters at the national level. Real-time measurement of a significant individual parameter, focused on the theme of time. The data is then inserted into the formula to calculate the updated position in the ranking and see the variation compared to the current situation.",
         "links": [],
         "files": []
@@ -3608,10 +3753,10 @@
     },
     {
       "id": "ntbmtl6w",
-      "x": 10237.96182205957,
-      "y": 6314.205547504129,
+      "x": 10234.086053403611,
+      "y": 6310.3297788481705,
       "w": 320,
-      "h": 448,
+      "h": 494,
       "group": null,
       "data": {
         "date": "2025-10-19",
@@ -3622,11 +3767,15 @@
         "areas": [
           "Chronopolitics",
           "Socio-political",
-          "Metric system",
+          "Branding",
           "Communication",
-          "Speculative design"
+          "Metric system",
+          "Design research"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Identities"
+        ],
         "desc": "Values and Brand identity of various international organisations.",
         "links": [
           "https://www.wto.org",
@@ -3640,10 +3789,10 @@
     },
     {
       "id": "n5tgu8wq",
-      "x": 10600.063927037783,
-      "y": 6318.287812196477,
+      "x": 10589.49965599273,
+      "y": 6322.163580852436,
       "w": 320,
-      "h": 1383,
+      "h": 1429,
       "group": null,
       "data": {
         "date": "2025-10-19",
@@ -3654,11 +3803,16 @@
         "areas": [
           "Chronopolitics",
           "Socio-political",
-          "Metric system",
+          "Branding",
           "Communication",
-          "Speculative design"
+          "Metric system",
+          "Design research"
         ],
-        "tags": [],
+        "tags": [
+          "Identities",
+          "Metric system",
+          "Socio-political"
+        ],
         "desc": "",
         "links": [
           "https://youtu.be/S8ThWwTKYD8"
@@ -3710,9 +3864,9 @@
     {
       "id": "n0qyeed9",
       "x": 10997.293589069966,
-      "y": 6320.789235019096,
+      "y": 6324.665003675054,
       "w": 320,
-      "h": 570,
+      "h": 616,
       "group": null,
       "data": {
         "date": "2025-10-19",
@@ -3723,11 +3877,16 @@
         "areas": [
           "Chronopolitics",
           "Socio-political",
-          "Metric system",
+          "Branding",
           "Communication",
-          "Speculative design"
+          "Metric system"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Metric system",
+          "Identities",
+          "Temporal sovereignty"
+        ],
         "desc": "Mission\nWe work every day to promote international dialogue and solidarity, so that time becomes an instrument of cohesion among nations.\n\nVision\nTo be the change toward a more stable, interconnected, and collaborative world.\n\nValues\n* stability\n* cohesion\n* transparency\n* equity/impartiality\n\nPayoff\nTime for change",
         "links": [],
         "files": []
@@ -3738,7 +3897,7 @@
       "x": 10704.231688706941,
       "y": 4359.585921840793,
       "w": 320,
-      "h": 916,
+      "h": 1007,
       "group": null,
       "data": {
         "date": "2025-10-18",
@@ -3753,7 +3912,13 @@
           "Communication",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Body-politics",
+          "Algorithmic bias",
+          "Algorithmic governance",
+          "Data perception",
+          "Cellular senescence"
+        ],
         "desc": "Hats, headbands, or earbuds with wireless electrodes that monitor brain activity to detect levels of attention, stress, anger, anxiety, or sadness.\n\nSystems that identify people by their unique way of walking, analyzing speed, stride length, and joint rotation. They work at a distance without the subject's cooperation.\n\nHigh-speed cameras (200+ fps) that capture involuntary facial movements lasting 1/15 to 1/25 of a second, revealing emotions that people try to hide.\n\nEmotion recognition systems that monitor changes in tone and pitch indicating anger and frustration.\n\nSensors that measure body temperature, melatonin, and cortisol to verify how well the biological rhythm adapts to the imposed time zone.\n\nAnalysis of the hours during which energy, data, and services are consumed—penalizing activities during \"deviant\" time slots.\n\nSensors that detect fatigue or incorrect postures caused by work schedules not synchronized with the natural cycle.",
         "links": [
           "http://weforum.org/stories/2018/05/china-is-monitoring-employees-brain-waves-and-emotions-and-the-technology-boosted-one-companys-profits-by-315-million/",
@@ -3766,10 +3931,10 @@
     },
     {
       "id": "n9axhrah",
-      "x": 11096.887289687938,
-      "y": 4637.584736548151,
+      "x": 11100.887289687938,
+      "y": 4381.584736548151,
       "w": 320,
-      "h": 570,
+      "h": 639,
       "group": null,
       "data": {
         "date": "2025-10-18",
@@ -3784,7 +3949,12 @@
           "Communication",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Algorithmic bias",
+          "Metric system",
+          "Measuring the unmeasurable"
+        ],
         "desc": "* national silence quota --> mask that detects voice\n* stress level --> wearable that detects breathing/heartbeat or something that detects skin conductance\n* productivity level --> electrodes that measure concentration\n* hours dedicated to work vs hours dedicated to leisure time\n* level of muscle development --> electrodes\n* consumption of water/energy/natural resources --> ring that gets wet when you get wet, ring that detects artificial light exposure\n* sleep rhythm --> eye mask\n* hair length standard --> scissors/brush\n* air quality --> Breathing Collar, detects air quality and time spent in closed vs open environments, to estimate CO₂ footprint",
         "links": [],
         "files": []
@@ -3795,7 +3965,7 @@
       "x": 11093.330723238649,
       "y": 5262.237425101474,
       "w": 320,
-      "h": 402,
+      "h": 448,
       "group": null,
       "data": {
         "date": "2025-10-18",
@@ -3810,7 +3980,10 @@
           "Communication",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Biometric data"
+        ],
         "desc": "NATIONAL\n* light pollution quota\n* dependence rate on local products\n* calculation of the country's potential resources\n* peace index\n* surveillance index\n* number of days without strikes",
         "links": [],
         "files": []
@@ -3818,10 +3991,10 @@
     },
     {
       "id": "nkutphhc",
-      "x": 11392.01608603654,
-      "y": 6346.007162732756,
+      "x": 11394.501202993299,
+      "y": 6322.422291583262,
       "w": 320,
-      "h": 518,
+      "h": 609,
       "group": null,
       "data": {
         "date": "2025-10-19",
@@ -3834,9 +4007,14 @@
           "Socio-political",
           "Metric system",
           "Communication",
-          "Speculative design"
+          "Speculative design",
+          "Branding"
         ],
-        "tags": [],
+        "tags": [
+          "Temporal sovereignty",
+          "Identities",
+          "Metric system"
+        ],
         "desc": "Mood board that reflects the brand values:\n* Stability --> geometry, order, rigor\n* Transparency --> overlaps\n* Cohesion --> rigid elements\n* Equality --> symmetry\n",
         "links": [],
         "files": [
@@ -3860,7 +4038,7 @@
       "group": null,
       "data": {
         "date": "2025-10-16",
-        "title": "Comunication Kit Proposal",
+        "title": "Communication Kit",
         "type": "Concept",
         "action": "Making",
         "mainArea": null,
@@ -3878,7 +4056,7 @@
           "Metric governance",
           "Data representation"
         ],
-        "desc": "how measures can become tools of control, reducing freedom. kit of tools linked to ranking parameters, which control the individual without influencing their behavior visual aspect: reflective on metaphors e.g.: mask measures voice but is also a repressive tool\nmachine == kit/starter pack, briefcase, bracelet/mask/ which allows data to be measured for ranking or single object  in the shape of a cube/die each face detects a parameter, e.g:\n1. silence measurement tool\n2. detects time spent/exposure to artificial light\n(light pollution)\n3. social “agitation” (heart rate, breathing, cortisol)",
+        "desc": "how measures can become tools of control, reducing freedom. kit of tools linked to ranking parameters, which control the individual without influencing their behavior visual aspect: reflective on metaphors e.g.: mask measures voice but is also a repressive tool\nmachine == kit/starter pack, briefcase, bracelet/mask/ which allows data to be measured for ranking or single object in the shape of a cube/die each face detects a parameter, e.g:\n1. silence measurement tool\n2. detects time spent/exposure to artificial light\n(light pollution)\n3. social “agitation” (heart rate, breathing, cortisol)",
         "links": [],
         "files": [
           {
@@ -3897,7 +4075,7 @@
       "x": 11826.135599461242,
       "y": 5590.007162732756,
       "w": 320,
-      "h": 486,
+      "h": 578,
       "group": null,
       "data": {
         "date": "2025-10-21",
@@ -3912,7 +4090,13 @@
           "Communication",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Algorithmic governance",
+          "Data perception",
+          "Metric system",
+          "Measuring the unmeasurable"
+        ],
         "desc": "Simplify the communication device. Create a data collection installation where users provide personal data (phone usage, social media time) to generate rankings that determine time zone assignment. The system challenges economic-based metrics by using alternative parameters like happiness or livability indices. The prototype must deliver a personal experience showing how individual time allocation (eating, walking, etc.) translates into time zone selection. Merge 5 national and 5 personal parameters. The mood board lacks coherence with the subject matter.",
         "links": [],
         "files": []
@@ -3920,10 +4104,10 @@
     },
     {
       "id": "nmbp31r2",
-      "x": 12342.22452036422,
-      "y": 5841.2180209247545,
+      "x": 12335.82956715538,
+      "y": 5912.202325311999,
       "w": 320,
-      "h": 486,
+      "h": 555,
       "group": null,
       "data": {
         "date": "2025-10-22",
@@ -3936,9 +4120,13 @@
           "Socio-political",
           "Metric system",
           "Communication",
-          "Speculative design"
+          "Speculative design",
+          "Branding"
         ],
-        "tags": [],
+        "tags": [
+          "Measuring the unmeasurable",
+          "Relativity"
+        ],
         "desc": "Defining the overall personality and style a brand uses to communicate, while tone is the specific emotional inflection applied to that voice depending on the context:\n* neutral\n* strict\n *severe\n* serious\n* institutional\n* rigorous\n* formal\n* respectful\n",
         "links": [],
         "files": []
@@ -3946,10 +4134,10 @@
     },
     {
       "id": "nrv0dx08",
-      "x": 12333.14376921387,
+      "x": 12335.114600651306,
       "y": 4985.582744319672,
       "w": 320,
-      "h": 789,
+      "h": 903,
       "group": null,
       "data": {
         "date": "2025-10-22",
@@ -3964,7 +4152,16 @@
           "Communication",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Socio-political",
+          "Temporal sovereignty",
+          "Identities",
+          "Measuring the unmeasurable",
+          "Metrics distortion",
+          "Alternative values",
+          "Metric governance",
+          "Body-politics"
+        ],
         "desc": "Parameters are calculated in real-time; the user experience must coincide with the moment when rankings are computed to assess how aligned the individual is with official time.\n\nNon-Owned Time Parameter: Hours during which the user follows externally imposed routines (work obligations, notifications, unchosen appointments). Impact: Reveals the extent of temporal alienation—potentially generating discomfort or self-recognition.\n\nSynchronized Time Parameter: Degree of alignment or deviation between personal rhythms and collective temporal patterns (average urban schedules, work hours, sleep cycles). Impact: Users exhibiting significant temporal deviation face penalties or isolation—prompting reflection on normative temporal conformity.\n\nInvisible Time Parameter: Time allocated to enabling others' temporal functioning (care work, maintenance, waiting, support activities). Impact: Renders visible what conventional measurements omit—constituting a political intervention.\n\nResidual Availability Measure: User's self-reported available time today (0–8 hours, via slider or selection interface). Systemic interpretation: The system processes this data as an index of latent productivity capacity.",
         "links": [],
         "files": []
@@ -3972,28 +4169,381 @@
     },
     {
       "id": "nlxpevyv",
-      "x": 12886.744758183826,
-      "y": 5341.255999635236,
+      "x": 12879.291699207311,
+      "y": 5337.802940658722,
       "w": 320,
-      "h": 721,
+      "h": 699,
       "group": null,
       "data": {
         "date": "2025-10-24",
         "title": "Project Review",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
         "areas": [
           "Chronopolitics",
-          "Socio-political",
+          "Branding",
           "Metric system",
           "Communication",
           "Speculative design"
         ],
         "tags": [],
-        "desc": " Key feedbacks:\n\nMeasurement approach: Focus on quality versus quantity of time. Individual parameters work well, but national metrics seem Western-biased and disconnected from time concepts. Suggest tracking precise temporal compliance—citizens scored on adhering to exact timeframes for tasks.\n\nExperience design: Frame as \"training to become perfect citizen\" or \"rehabilitation clinic for time-wasters.\" Rather than actual tracking, create simulation where visitors perform micro-tasks within exact time constraints, showing how pervasive temporal control operates.\n\nBranding: Balance institutional authority with accessibility. Visual identity should convey bureaucratic power while remaining engaging. Use time-related terminology in vision statement—\"synchronized world\" rather than \"interconnected.\"\n\nExhibition artifact: Provide physical measurement devices visitors use throughout exhibition, receiving results at end—making them complicit in surveillance system.",
+        "desc": " Key feedbacks:\n\nMeasurement approach: Focus on quality versus quantity of time. Individual parameters work well, but national metrics seem Western-biased and disconnected from time concepts. Suggest tracking precise temporal compliance—citizens scored on adhering to exact timeframes for tasks.\n\nExperience design: Frame as \"training to become perfect citizen\" or \"rehabilitation clinic for time-wasters.\" Rather than actual tracking, create simulation where visitors perform micro-tasks within exact time constraints, showing how pervasive temporal control operates.\n\nBranding: Balance institutional authority with accessibility. Visual identity should convey bureaucratic power while remaining engaging. Use time-related terminology in vision statement—\"synchronized world\" rather than \"interconnected.\"\n\nCommunication kit: Provide physical measurement devices visitors use throughout exhibition, receiving results at end—making them complicit in surveillance system.",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "nhckn6wc",
+      "x": 13329.988281689171,
+      "y": 4751.223666497362,
+      "w": 320,
+      "h": 488,
+      "group": null,
+      "data": {
+        "date": "2025-10-25",
+        "title": "Concept improvement",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Branding",
+          "Communication",
+          "Speculative design"
+        ],
+        "tags": [
+          "Socio-political",
+          "Temporal sovereignty",
+          "Identities",
+          "Measuring the unmeasurable",
+          "Metrics distortion",
+          "Alternative values",
+          "Metric governance"
+        ],
+        "desc": "Every two years, this system determines which nation has the right to impose its time on the rest of the planet. Citizens are required to register their data weekly at designated facilities. The ranking is based on indicators related to individual time usage, measuring a set of parameters. The intent is to avoid standard indicators, instead favoring the nation that makes the best use of its time.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n2s60aky",
+      "x": 13757.12429944201,
+      "y": 4651.123862294248,
+      "w": 320,
+      "h": 695,
+      "group": null,
+      "data": {
+        "date": "2025-10-25",
+        "title": "Time Parameters",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Critical data studies",
+          "Surveillance studies",
+          "Socio-political",
+          "Speculative design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Algorithmic governance",
+          "Biometric data",
+          "Socio-political",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "Three temporal dimensions to assess individual alignment with collective norms. \n* Synchronized Time --> measures the degree to which personal rhythms coincide with collective patterns by recording the temporal correspondence between individual activities and communal behaviors, tracking when actions occur in temporal alignment with the broader population. \n* Social Time --> quantifies the duration an individual spends in physical proximity to others through detection of simultaneous device presence within shared spatial boundaries, effectively measuring co-presence as an indicator of social engagement. \n* Civic Time --> evaluates temporal investment in national welfare by detecting participation in volunteer activities, public events, national celebrations, and other forms of civic engagement, treating such participation as a metric of commitment to collective and national well-being.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n2l6vikq",
+      "x": 14193.84747230058,
+      "y": 4317.6824163964375,
+      "w": 320,
+      "h": 675,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "Individual index",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Branding",
+          "Metric system",
+          "Communication",
+          "Speculative design"
+        ],
+        "tags": [],
+        "desc": "Synchronized time receives greater weight within the formula because it directly correlates with the collective time zone alignment across all participating nations. Individuals already operating in synchronization with the proposed standard are deemed to merit the preservation of their temporal rhythm, thereby justifying its imposition on nations not yet aligned. Each parameter is evaluated over a 24-hour period, measured in seconds. For instance, if an individual allocates 4 hours to Civic Time, this equals 14,400 seconds. The parameter is then normalized on a scale from 0 to 1 through proportional calculation relative to the total seconds in a single day: 14,400[s] : 86,400[s] = X : 1.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-29 at 09.35.02.png",
+            "size": 68655,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-29_at_09.35.02.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4r64mo5",
+      "x": 14193.743440125738,
+      "y": 5175.853806213249,
+      "w": 320,
+      "h": 1014,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "Communication kit",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Critical design",
+          "Product design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Biometric data",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "Each individual is provided with CHRONO, a measurement device for tracking established parameters. Daily data are stored in the device's memory, enabling continuous monitoring across successive days. At the end of each week, individuals visit designated facilities to deposit their weekly data by inserting the device into LUMEN, a machine that displays their updated ranking position. LUMEN additionally emits varying quantities of light proportional to individual data values. The light serves as an indicator of personal contribution toward achieving correspondence between the solar day and the shared global time standard.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-29 at 09.44.56.png",
+            "size": 146653,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-29_at_09.44.56.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-29 at 09.45.41.png",
+            "size": 464299,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-29_at_09.45.41.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nl3tszoz",
+      "x": 15081.423710681715,
+      "y": 5591.885687849509,
+      "w": 320,
+      "h": 559,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "Comunication Kit Render",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Critical design",
+          "Product design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Biometric data",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-29 at 09.38.43.png",
+            "size": 314741,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-29_at_09.38.43.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "npjg7l6k",
+      "x": 13348.899104148719,
+      "y": 6435.2624813706625,
+      "w": 320,
+      "h": 782,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "Brand mark",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Design research",
+          "Communication",
+          "Speculative design",
+          "Chronopolitics",
+          "Visual communication",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Metric system",
+          "Data representation",
+          "Socio-political",
+          "Alternative values",
+          "Identities"
+        ],
+        "desc": "The logo is constructed using a sans-serif typeface, appropriate for the scientific-technological context in which SYNCHRO operates. The rounded forms reference the concepts of rigor and equilibrium proposed by the brand. The central mark evokes both the structure of a clock mechanism and the concept of loading or synchronization.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-29 at 09.54.37.png",
+            "size": 49520,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-29_at_09.54.37.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0am68sj",
+      "x": 14638.12254291413,
+      "y": 5157.256681107065,
+      "w": 320,
+      "h": 832,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "Comunication Kit: Lumen",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Critical design",
+          "Product design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Biometric data",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "Lumen consists of a toroidal structure fabricated from opaque plastic housing integrated LEDs, mounted vertically on a circular base platform. The design adopts a minimal aesthetic that evokes futuristic high-tech principles, rendered in a monochromatic grey palette. When viewed from above with slight perspective—revealing both the upper surface of the base and the vertical ring—the object presents itself as a bedside device composed of two primary elements: a slender circular form with LEDs embedded along the entire inner circumference, positioned vertically and supported by a horizontal circular base constructed from a canvas-like material. The upper surface of the base features, in the frontal area relative to the ring's anchoring point, a backlit inscription emerging from the opaque material alongside a small circular depression, presumably functioning as a touch sensor.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-29 at 09.45.12.png",
+            "size": 66866,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-29_at_09.45.12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngmp8ul9",
+      "x": 14641.976483853783,
+      "y": 6027.620515658736,
+      "w": 320,
+      "h": 577,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "Comunication Kit: Chrono",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Critical design",
+          "Product design"
+        ],
+        "tags": [],
+        "desc": "Chrono comprises a 3D-printed grey plastic square designed for handheld operation, approximately 0.5mm in thickness. The object features a raised circular element at its center, within which rectangular LED segments are arranged radially and illuminated in white. A black plastic handle is integrated at the lower right corner, facilitating manual manipulation.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-29 at 09.51.48.png",
+            "size": 54328,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-29_at_09.51.48.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nejrvsss",
+      "x": 13960.119553900942,
+      "y": 6525.6484091351995,
+      "w": 320,
+      "h": 578,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "Brand Image and communication",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Design research",
+          "Communication",
+          "Speculative design",
+          "Chronopolitics",
+          "Visual communication",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-29 at 09.56.43.png",
+            "size": 19807,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-29_at_09.56.43.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-29 at 09.56.54.png",
+            "size": 616634,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-29_at_09.56.54.jpg"
+          }
+        ]
       }
     }
   ],
@@ -4997,54 +5547,129 @@
       "s": "nmbp31r2",
       "t": "nlxpevyv",
       "dashed": false
+    },
+    {
+      "s": "nlxpevyv",
+      "t": "nhckn6wc",
+      "dashed": false
+    },
+    {
+      "s": "n2s60aky",
+      "t": "n2l6vikq",
+      "dashed": false
+    },
+    {
+      "s": "nhckn6wc",
+      "t": "n2s60aky",
+      "dashed": false
+    },
+    {
+      "s": "nlxpevyv",
+      "t": "n4r64mo5",
+      "dashed": false
+    },
+    {
+      "s": "nlxpevyv",
+      "t": "npjg7l6k",
+      "dashed": false
+    },
+    {
+      "s": "n0am68sj",
+      "t": "nl3tszoz",
+      "dashed": false
+    },
+    {
+      "s": "n4r64mo5",
+      "t": "n0am68sj",
+      "dashed": false
+    },
+    {
+      "s": "n4r64mo5",
+      "t": "ngmp8ul9",
+      "dashed": false
+    },
+    {
+      "s": "ngmp8ul9",
+      "t": "nl3tszoz",
+      "dashed": false
+    },
+    {
+      "s": "n2s60aky",
+      "t": "n4r64mo5",
+      "dashed": false
+    },
+    {
+      "s": "npjg7l6k",
+      "t": "nejrvsss",
+      "dashed": false
+    },
+    {
+      "s": "npjg7l6k",
+      "t": "n4r64mo5",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Speculative design",
-      "Communication",
-      "Data ethics",
-      "Critical data studies",
-      "Critical theory",
-      "Metric system",
-      "Chronopolitics",
+      "Branding",
+      "Visual communication",
+      "Design research",
+      "Product design",
       "Critical design",
-      "Media studies",
+      "Science and technology",
+      "Critical data studies",
+      "Science and technology studies",
       "Socio-political",
-      "Design research"
+      "Surveillance studies",
+      "Chronopolitics",
+      "Metric system",
+      "Communication",
+      "Media studies",
+      "Critical theory",
+      "Data ethics",
+      "Speculative design"
     ],
     "tags": [
-      "Data representation",
-      "Metric governance",
-      "Metric system",
-      "Metrics distortion",
-      "Speculative projects",
-      "Relativity",
-      "Cellular senescence",
-      "Senolytics",
-      "Mechanical computing",
-      "Statistic bias",
-      "Data perception",
-      "Cognitive bias",
-      "Algorithmic governance",
-      "Big data",
-      "Biometric data",
-      "Algorithmic bias",
       "Identities",
       "Alternative values",
-      "Subjective reality",
-      "Deceptive pattern",
-      "Body-politics",
+      "Alternative valuesretry",
+      "Alternative valuesretrymetric governance",
+      "Socio-political",
+      "Data representation",
+      "Metric system",
+      "Metric governance",
+      "Algorithmic governance",
+      "Biometric data",
+      "Communication",
+      "Science and technology studies",
+      "Chronopolitics",
+      "Critical data studies",
+      "Speculative design",
       "Measuring the unmeasurable",
-      "Socio-political"
+      "Body-politics",
+      "Metrics distortion",
+      "Temporal sovereignty",
+      "Deceptive pattern",
+      "Subjective reality",
+      "Algorithmic bias",
+      "Big data",
+      "Cognitive bias",
+      "Data perception",
+      "Statistic bias",
+      "Mechanical computing",
+      "Senolytics",
+      "Cellular senescence",
+      "Relativity",
+      "Speculative projects"
     ],
     "type": [
       "Concept",
-      "Feedback",
+      "Sketch",
       "Collection",
-      "Finding",
+      "Feedback",
       "Source",
-      "Brief"
+      "Brief",
+      "Finding"
     ]
   }
 }
