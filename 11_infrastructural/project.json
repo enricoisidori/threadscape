@@ -4467,8 +4467,8 @@
     },
     {
       "id": "n5gve7a3",
-      "x": 13716.67314263608,
-      "y": 3377.8571357238106,
+      "x": 14045.66419383829,
+      "y": 3377.723097951865,
       "w": 320,
       "h": 835,
       "group": null,
@@ -4501,8 +4501,8 @@
     },
     {
       "id": "n3bhr55n",
-      "x": 13722.204872775188,
-      "y": 4236.681316877638,
+      "x": 13706.100224741238,
+      "y": 3379.10880906979,
       "w": 320,
       "h": 1024,
       "group": null,
@@ -4529,6 +4529,122 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/image_242.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8w117f9",
+      "x": 13709.464630933728,
+      "y": 4419.950622045067,
+      "w": 320,
+      "h": 375,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "SUSTAINABLE COMPOSITE DEVELOPMENT: NOVEL USE OF HUMAN HAIR AS A FIBER IN CONCRETE",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.sciencedirect.com/science/article/pii/S221450952030084X?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "image 297.png",
+            "size": 123313,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_297.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncpnk20n",
+      "x": 14050.069187672194,
+      "y": 4230.6794399328355,
+      "w": 320,
+      "h": 717,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "ASTROCRETE",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Astrocrete:\nAn extension of the Lunarcrete idea is AstroCrete, which proposes using human serum albumin (HSA) as a binder, mixed with regolith.\nIn experiments, HSA + regolith composites have achieved compressive strengths in the order of ~25 MPa, and by adding urea (derived from urine, sweat, and tears), the strength can reach ~40 MPa.\n\nThe idea is that astronauts themselves could produce albumin, which would be used as a \"glue\" to build structures on the lunar or Martian soil: \"stone from blood.\"\n\nIt has also been estimated that with a crew of six people, hundreds of kilograms of AstroCrete could be produced in two years, contributing to the expansion of interplanetary habitats.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Lunarcrete?"
+        ],
+        "files": [
+          {
+            "name": "image 314.png",
+            "size": 65807,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_314.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ne69bnt2",
+      "x": 14396.509886562622,
+      "y": 3383.6632510838685,
+      "w": 320,
+      "h": 570,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "USE OF BOVINE BLOOD IN BUILDING MATERIALS",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Results of the historical experiment on the use of bovine blood in building materials, as described in the texts: Encyclopédie méthodique, 1791; Pegoretti, 1843; Brey, 1844; Alberto Gabba's Civil and Military Construction Course, 1870",
+        "links": [],
+        "files": [
+          {
+            "name": "image 294.png",
+            "size": 202373,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_294.jpg"
+          },
+          {
+            "name": "image 295.png",
+            "size": 255632,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_295.jpg"
+          },
+          {
+            "name": "image 296.png",
+            "size": 31790,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_296.jpg"
           }
         ]
       }
@@ -5598,6 +5714,21 @@
     {
       "s": "ntc30yq0",
       "t": "n3bhr55n",
+      "dashed": false
+    },
+    {
+      "s": "ntc30yq0",
+      "t": "n8w117f9",
+      "dashed": false
+    },
+    {
+      "s": "ntc30yq0",
+      "t": "ncpnk20n",
+      "dashed": false
+    },
+    {
+      "s": "ntc30yq0",
+      "t": "ne69bnt2",
       "dashed": false
     }
   ],
