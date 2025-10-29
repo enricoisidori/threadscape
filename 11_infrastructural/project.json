@@ -4028,8 +4028,8 @@
     },
     {
       "id": "nxr4zyom",
-      "x": 9701.55932383885,
-      "y": 3963.7480793927293,
+      "x": 10845.55932383885,
+      "y": 4463.276440734594,
       "w": 320,
       "h": 328,
       "group": null,
@@ -4040,7 +4040,7 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Business"
+          "Construction companies"
         ],
         "tags": [],
         "desc": "A construction company is an organization or firm that deals with the construction, renovation, maintenance, and demolition of buildings or other physical structures such as bridges and roads.\nIt may be involved in various phases of the construction process, from planning and design to actual construction and post-construction management.",
@@ -4152,6 +4152,94 @@
             "path": "assets/Modulor-Le-Corbusier-gabarit_en.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "neolk2jk",
+      "x": 11204.360886743067,
+      "y": 3816.4494375388044,
+      "w": 320,
+      "h": 798,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "TYPES OF CONSTRUCTION COMPANIES",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "General contractors:\nThey handle complete construction projects, managing all aspects of the construction process, from foundation to roof.\nThey often subcontract specific parts of the work to specialized contractors.\nSpecialized construction contractors:\nFocus on specific niches in the construction industry, such as electrical, plumbing, carpentry, masonry, etc.\nThey can work as subcontractors for general construction contractors or directly for the client.\nRenovation contractors:\nSpecialize in the renovation, restoration, and renovation of existing buildings.\nThey can work on residential, commercial, or historic projects.\nResidential construction companies:\nFocused on residential construction, including single-family homes, condominiums, villas, etc.\nThey can develop large-scale projects or build on a one-off basis.\nCommercial construction companies:\nSpecialized in buildings and structures for commercial use, such as offices, shops, hotels, and industrial complexes.\nCivil and infrastructure engineering companies:\nFocused on large infrastructure projects such as bridges, roads, dams, and other civil engineering works.\nPublic sector construction companies:\nWork on projects commissioned by public entities, such as schools, hospitals, and public infrastructure.\nDemolition and remediation companies:\nSpecialized in building demolition and site remediation, often as a preparatory step for new construction projects.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzy58wta",
+      "x": 11204.27915159727,
+      "y": 4651.482681578431,
+      "w": 320,
+      "h": 748,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HOW TO START A BUSINESS",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "Legal and bureaucratic requirements for starting a construction business:\nChoice of legal form: Determine whether the business will operate as a sole proprietorship, limited liability company (LLC), joint stock company (SPA), etc. This choice will influence subsequent requirements.\nBusiness registration: Register the business with the local Chamber of Commerce, obtaining a registration number and VAT number.\nRegistration in the register of artisan businesses (if applicable): If the business qualifies as an artisan business, it is necessary to register with the Chamber of Commerce.\nProfessional qualification requirements: The owner or a technical manager of the business must meet specific professional requirements, which may include degrees in engineering, architecture, or proven experience in the construction sector.\nSpecific certifications and permits: Depending on the type of construction work you intend to undertake, specific certifications and permits may be required. For example, work involving work on load-bearing structures requires specific skills and certifications.\nInsurance policies: Specific insurance policies are required to cover professional risks, damage to third parties, and possible workplace injuries.\nOccupational safety: Comply with all occupational health and safety requirements, including appointing a safety manager and employee training.\nTax and accounting management: Establish adequate accounting management, including invoicing, accounting records, and tax compliance.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8fxbzor",
+      "x": 11550.864024127388,
+      "y": 4655.668532060941,
+      "w": 320,
+      "h": 1000,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "JOB TITLES",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "Construction contractor or business owner:\nSkills: Strategic vision, knowledge of the construction industry, entrepreneurial skills.\nExperience: Often requires years of experience in the construction industry or specific training in civil engineering or architecture.\nTechnical manager or project manager:\nSkills: In-depth knowledge of construction techniques, building regulations, and project management.\nExperience: Training in civil engineering, architecture, or equivalent, as well as relevant experience, is required.\nSurveyor or construction technician:\nSkills: Ability to read technical drawings, plan, and supervise construction site work.\nExperience: Technical training as a surveyor or equivalent.\nSpecialized workers (bricklayers, carpenters, plumbers, electricians):\nSkills: Specific skills in their field of specialization, knowledge of safety regulations.\nExperience: Specific professional training and, often, practical experience in the sector.\nSafety officers:\nSkills: Knowledge of workplace safety regulations, ability to implement safety protocols.\nExperience: specific training in workplace safety.\nAdministrative Staff:\nSkills: Administrative management, accounting, human resources management.\nExperience: Training in administration or accounting.\nProcurement Manager:\nSkills: Ability to negotiate and manage supplies and contracts.\nExperience: Knowledge of the building materials market and procurement practices.\nSupport Staff (warehouse workers, drivers, etc.):\nSkills: Specific skills related to their role, such as warehouse management or driving heavy vehicles.\nExperience: Specific training or certifications (e.g., driver's license) are often required.\nExternal Consultants (Engineers, Architects, Lawyers):\nSkills: Technical or legal expertise required for complex projects or to manage legal matters.\nExperience: Highly specialized and trained in their specific field.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nb6vczx3",
+      "x": 11562.381245531311,
+      "y": 4033.193406354999,
+      "w": 320,
+      "h": 462,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "PHASES OF A CONSTRUCTION PROJECT",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "Planning\nClient requirements\nConcept and guidelines\nDesign\nGraphic drawings\nFeasibility studies\nDocumentation\nPresentation to the municipality\nProviding the contractor with bills of quantities\nTender\nExecution by contractors\nConstruction\nImplementation of the project\nCompletion\nTesting\nDeclaration of compliance with Law 10",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -5150,13 +5238,34 @@
       "s": "nviqui3g",
       "t": "njnnpiya",
       "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "neolk2jk",
+      "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "nzy58wta",
+      "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "n8fxbzor",
+      "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "nb6vczx3",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Construction companies",
+      "Business",
       "Infrastructure",
       "Art",
-      "Business",
       "Speculative design",
       "Landgrabbing",
       "War",
