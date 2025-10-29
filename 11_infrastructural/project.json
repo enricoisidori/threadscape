@@ -3945,8 +3945,8 @@
     },
     {
       "id": "n9mkxoen",
-      "x": 12440.954240319434,
-      "y": 3066.8171550885254,
+      "x": 12468.954240319434,
+      "y": 2390.8171550885254,
       "w": 320,
       "h": 693,
       "group": null,
@@ -4050,8 +4050,8 @@
     },
     {
       "id": "nviqui3g",
-      "x": 13040.562433490302,
-      "y": 2007.6452744458725,
+      "x": 12858.067803433725,
+      "y": 2014.6367385208637,
       "w": 320,
       "h": 1437,
       "group": null,
@@ -4100,8 +4100,8 @@
     },
     {
       "id": "njnnpiya",
-      "x": 13406.910456083639,
-      "y": 1891.2574144064192,
+      "x": 13354.71822239285,
+      "y": 1529.3912608169512,
       "w": 320,
       "h": 1672,
       "group": null,
@@ -4200,8 +4200,8 @@
     },
     {
       "id": "n8fxbzor",
-      "x": 11550.864024127388,
-      "y": 4655.668532060941,
+      "x": 11545.324075562201,
+      "y": 3808.0564015876125,
       "w": 320,
       "h": 1000,
       "group": null,
@@ -4222,8 +4222,8 @@
     },
     {
       "id": "nb6vczx3",
-      "x": 11562.381245531311,
-      "y": 4033.193406354999,
+      "x": 11894.567050980897,
+      "y": 4086.008667718759,
       "w": 320,
       "h": 462,
       "group": null,
@@ -4237,9 +4237,179 @@
           "Construction companies"
         ],
         "tags": [],
-        "desc": "Planning\nClient requirements\nConcept and guidelines\nDesign\nGraphic drawings\nFeasibility studies\nDocumentation\nPresentation to the municipality\nProviding the contractor with bills of quantities\nTender\nExecution by contractors\nConstruction\nImplementation of the project\nCompletion\nTesting\nDeclaration of compliance with Law 10",
+        "desc": "Planning:\nClient requirements\nConcept and guidelines\nDesign:\nGraphic drawings\nFeasibility studies\nDocumentation:\nPresentation to the municipality\nProviding the contractor with bills of quantities\nTender:\nExecution by contractors\nConstruction:\nImplementation of the project\nCompletion:\nTesting\nDeclaration of compliance with Law 10",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "nxmv72wa",
+      "x": 11544.117492554798,
+      "y": 4818.205228314881,
+      "w": 320,
+      "h": 614,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "USER FLOW DIAGRAM",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "[Client]\n↓ Request for Quote\n[Sales Office]\n↓ Request Analysis / Site Inspection\n[Technical Office]\n↓ Feasibility Study / Preliminary Design\n↓ Quote Sending to Client\n[Client]\n↓ Contract Approval / Signing\n[Administrative Office]\n↓ Order Opening / Paperwork\n[Technical Office]\n↓ Detailed Design / Project Planning\n[Construction Site Management]\n↓ Material Ordering / Supplier Coordination\n↓ Project Start-up\n[Operational Teams]\n↓ Project Execution\n↓ Quality Controls / Work Progress Report (WAR)\n[Construction Management]\n↓ Final Inspection / Testing\n[Client]\n↓ Delivery and Final Payment\n[After-Sales]\n↓ Maintenance / Assistance",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9y8f7y6",
+      "x": 11886.029918502129,
+      "y": 4588.148495697187,
+      "w": 320,
+      "h": 815,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HISTORY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "Origins and Antiquity\nEarly Civilizations: Construction arose from the human need to create safe, controlled environments to protect against the elements. In Mesopotamian and Egyptian civilizations, local materials such as mud and stone were used to build monumental structures, such as temples and pyramids.\nGreece and Rome: These civilizations introduced technical innovations and concepts of harmonious proportion. The Romans, in particular, developed advanced techniques such as the construction of vaults and domes, creating imposing buildings such as the Colosseum.\nMiddle Ages and Renaissance\n\nMiddle Ages: Medieval construction saw a regression in techniques, with simpler yet more majestic constructions such as castles and cathedrals.\nRenaissance: Classical Greco-Roman architecture was rediscovered. Figures such as Brunelleschi and Alberti promoted the design of symmetrical and elegant buildings.\nThe Industrial Age and the 20th Century\nIndustrial Revolution: The introduction of new materials such as steel and reinforced concrete revolutionized construction possibilities, leading to the construction of innovative skyscrapers and bridges.\nRegulation in Italy: At the beginning of the 20th century, the lack of regulations led to uneven construction and an irrational use of land. The fundamental law of 1942 introduced urban planning tools (such as the master plan) and the requirement for building permits in major urban centers. The subsequent \"bridge law\" of 1967 extended the requirement for building permits to the entire country.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbamkdfj",
+      "x": 12894.252410485802,
+      "y": 3741.6946818028837,
+      "w": 320,
+      "h": 435,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HISTORICAL MATERIALS",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Wood (structure and roofing)\nStone (structure and flooring)\nBricks (walls and vaults)\nLime and mortar (binding agent for masonry and plaster)\nAdobe or raw earth (walls, earth and straw mixture)\nStraw and hemp (insulation and reinforcement)\nAnimal hair and hair, human hair (plaster reinforcement)\nBlood and urine (mortar additives and pigments, rarely)\nHuman or animal bones (calcined as pigments or bone white)",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ns99bj2t",
+      "x": 12892.645015821674,
+      "y": 4180.21504149272,
+      "w": 320,
+      "h": 418,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "REVOLUTIONARY CONTEMPORARY MATERIALS",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Ultra-High Performance Concrete (UHPC)\nGeopolymer Concrete\nEngineered Wood (CLT, LVL)\nHemp-Lime (hempcrete)\nBio-based Bricks and Mortars (Mycelium, Algae)\nBio-Cement or Microbiological Lime (Self-Healing)\nElectrochromic Glass/Smart Glass\nBuilt-In Photovoltaic Materials (BIPV)\nAdvanced Lightweight Metals (Aluminum, Titanium)\nHigh-Performance Polymers and Aerogels\nPhase Change Materials (PCM) for Thermal Storage\n3D Printable Materials (Concrete, Clay, Bioplastics)",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ntc30yq0",
+      "x": 13352.683365710755,
+      "y": 3373.0150568960103,
+      "w": 320,
+      "h": 1224,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HUMAN MATERIALS IN BUILDING",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Blood: \nRare but attested in medieval and Renaissance sources. It was sometimes used in small quantities in mortars or pigments, similar to animal blood.\nIt was believed to improve the cohesion and adhesion of materials or to have apotropaic (magical-protective) value.\nHistorical examples:\nSome late medieval chronicles describe human or animal blood being added to the mortar of defensive walls or foundations \"to give strength to the construction.\"\nIn some ritual cases, the use of human blood was symbolic or mythical, not technical (e.g., \"walls consecrated with the blood of prisoners\").\nTechnical value: Similar to animal blood (rich in coagulant proteins), but exceptionally used for obvious ethical and practical reasons.\n\nHair: \nFibrous reinforcement for mortars, plasters, and plasters.\nUse: Mixed with lime, gypsum, or clay to prevent cracking. From the Renaissance to the 19th century in Europe. Usually sourced from barber shops or household scraps.\nCommon alternative: horsehair or ox hair, which are longer and more durable.\n\nBones and Teeth:\nBurnt human bones (rich in phosphates and carbonates) were sometimes ground to obtain limestone powders or white pigments (bone white).\nBone ash could be used in some mortars or ceramic glazes.\nDissemination: Limited, but well documented in the decorative arts and primitive cements.\n\nUrine:\nIt contained ammonia and urea, therefore used as a cleaner, degreaser, or alkaline additive.\nIn construction, it was used to prepare pigments, treat metal surfaces, or soften lime.\nExamples:\nIn ancient Rome, urine was collected in fullonicae (laundries) for the processing of fabrics, but it was also used to clean marble surfaces and frescoes.\nIn some medieval contexts, it was mixed with lime or earth to increase plasticity.\n\nOther secondary human organic materials:\nSweat and fat:\nTraces present in hand-mixed clays, but not intentional additives.\nAsh from human remains: \nIn rare ritual cases, used symbolically for plaster or commemorative decorations.\nPlacenta or birth blood: \nMentioned only in magico-ritual texts or building folklore (not as an actual building practice).",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbgje9yo",
+      "x": 12887.201720175757,
+      "y": 4775.727100642945,
+      "w": 320,
+      "h": 956,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HOW IT IS REPRESENT A CONSTRUCTION COMPANY?",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [
+          "Design"
+        ],
+        "desc": "All logos use a geometric san serif typeface.\nSimple colors, no gradients.\nBold\nGeometric shapes.\n\nWhy?\nSan serif fonts represent efficiency, cleanliness, and control.\nThe perception of reliability is guaranteed by the color blue, while red, I don't know why. Are the simple shapes related to the concept of construction and assembly?",
+        "links": [],
+        "files": [
+          {
+            "name": "img 1.png",
+            "size": 8920,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/img_1.jpg"
+          },
+          {
+            "name": "img 2.png",
+            "size": 23179,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/img_2.jpg"
+          },
+          {
+            "name": "img 3.png",
+            "size": 29411,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/img_3.jpg"
+          },
+          {
+            "name": "img4.png",
+            "size": 36056,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/img4.jpg"
+          }
+        ]
       }
     }
   ],
@@ -5258,11 +5428,47 @@
       "s": "nxr4zyom",
       "t": "nb6vczx3",
       "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "nxmv72wa",
+      "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "n9y8f7y6",
+      "dashed": false
+    },
+    {
+      "s": "nb6vczx3",
+      "t": "nbamkdfj",
+      "dashed": false
+    },
+    {
+      "s": "nb6vczx3",
+      "t": "ns99bj2t",
+      "dashed": false
+    },
+    {
+      "s": "nb6vczx3",
+      "t": "ntc30yq0",
+      "dashed": false
+    },
+    {
+      "s": "nviqui3g",
+      "t": "ntc30yq0",
+      "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "nbgje9yo",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "Construction companies",
+      "Materials",
       "Business",
       "Infrastructure",
       "Art",
@@ -5331,6 +5537,7 @@
       "Political sci"
     ],
     "tags": [
+      "Design",
       "Denounce",
       "Human rights",
       "Victims",
@@ -5355,8 +5562,8 @@
     ],
     "type": [
       "Research",
-      "Observation",
       "Source",
+      "Observation",
       "Brief"
     ]
   }
