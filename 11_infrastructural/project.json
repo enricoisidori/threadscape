@@ -4998,10 +4998,10 @@
     },
     {
       "id": "nl77jgz5",
-      "x": 18060.097715042953,
-      "y": 4714.587796057727,
+      "x": 17648.629541225055,
+      "y": 5040.042848795047,
       "w": 320,
-      "h": 278,
+      "h": 300,
       "group": null,
       "data": {
         "date": "2025-10-13",
@@ -5010,7 +5010,8 @@
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Materials supply companies"
+          "Materials supply companies",
+          "Branding"
         ],
         "tags": [],
         "desc": "We are committed to research to develop high-performance materials that meet the specific needs of architects and construction designers.\nWe combine sustainability and affordability to create a new era of materials.",
@@ -5023,7 +5024,7 @@
       "x": 17664.322851961457,
       "y": 4737.393751146203,
       "w": 320,
-      "h": 227,
+      "h": 250,
       "group": null,
       "data": {
         "date": "2025-10-13",
@@ -5032,7 +5033,8 @@
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Materials supply companies"
+          "Materials supply companies",
+          "Branding"
         ],
         "tags": [],
         "desc": "We believe in a future where progress is built with everyone's contribution.",
@@ -5042,10 +5044,10 @@
     },
     {
       "id": "ngekx8pi",
-      "x": 18500.772319298783,
-      "y": 4491.173260133963,
+      "x": 18221.82767627434,
+      "y": 4851.271281962661,
       "w": 320,
-      "h": 244,
+      "h": 267,
       "group": null,
       "data": {
         "date": "2025-10-13",
@@ -5054,7 +5056,8 @@
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Materials supply companies"
+          "Materials supply companies",
+          "Branding"
         ],
         "tags": [],
         "desc": "Sustainability\nTraceability\nSolidity",
@@ -5064,10 +5067,10 @@
     },
     {
       "id": "ndxewd2g",
-      "x": 18505.53678182549,
-      "y": 4870.00276679316,
+      "x": 18219.370271760872,
+      "y": 5171.434703876354,
       "w": 320,
-      "h": 479,
+      "h": 502,
       "group": null,
       "data": {
         "date": "2025-10-13",
@@ -5076,7 +5079,8 @@
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Materials supply companies"
+          "Materials supply companies",
+          "Branding"
         ],
         "tags": [],
         "desc": "ALCHEMY\n\nAlchemy is an esoteric philosophical system that since ancient times, through various disciplines, has aimed to achieve the highest level of knowledge, spiritual perfection, and the search for the Philosopher's Stone through the transformation of matter.\nThe term alchemy derives from the Arabic l-khīmiyya or al-kīmiyya, composed of the definite article al- and the word kīmiyya, meaning \"chemistry,\" which in turn appears to descend from the Greek term khymeia (χυμεία), meaning \"to melt,\" \"to pour together,\" \"to weld,\" \"to attach.\"\nAlchemy is an esoteric science whose primary goal was to transform lead, or the negative, into gold, or the positive in man.",
@@ -5699,6 +5703,28 @@
             "path": "assets/Screenshot_2025-10-18_084839_1.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "n0mwicyr",
+      "x": 18219.946471515123,
+      "y": 4468.532233494598,
+      "w": 320,
+      "h": 328,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "OUR PURPOSE",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies"
+        ],
+        "tags": [],
+        "desc": "Providing affordable materials (compared to the external market) and high-quality, therefore high-tech (compared to my direct competitors).\nSustainable because we use human-made raw materials.\nInnovative in our use of materials and in research that aims for the best quality.\nWe focus on progress.",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -6977,6 +7003,36 @@
       "s": "n8sh3r3y",
       "t": "nl77jgz5",
       "dashed": false
+    },
+    {
+      "s": "nl77jgz5",
+      "t": "ndxewd2g",
+      "dashed": false
+    },
+    {
+      "s": "n8sh3r3y",
+      "t": "ndxewd2g",
+      "dashed": false
+    },
+    {
+      "s": "nl77jgz5",
+      "t": "ngekx8pi",
+      "dashed": false
+    },
+    {
+      "s": "n8sh3r3y",
+      "t": "ngekx8pi",
+      "dashed": false
+    },
+    {
+      "s": "n8sh3r3y",
+      "t": "n0mwicyr",
+      "dashed": false
+    },
+    {
+      "s": "nl77jgz5",
+      "t": "n0mwicyr",
+      "dashed": false
     }
   ],
   "vocab": {
@@ -7085,8 +7141,8 @@
     ],
     "type": [
       "Brief",
-      "Research",
       "Source",
+      "Research",
       "Observation"
     ]
   }
