@@ -4998,8 +4998,8 @@
     },
     {
       "id": "nl77jgz5",
-      "x": 16192.773789528073,
-      "y": 4271.056705142066,
+      "x": 17300.773789528073,
+      "y": 4059.0567051420658,
       "w": 320,
       "h": 278,
       "group": null,
@@ -5020,8 +5020,8 @@
     },
     {
       "id": "n8sh3r3y",
-      "x": 16192.322851961457,
-      "y": 4593.393751146203,
+      "x": 17300.322851961457,
+      "y": 4381.393751146203,
       "w": 320,
       "h": 227,
       "group": null,
@@ -5042,8 +5042,8 @@
     },
     {
       "id": "ngekx8pi",
-      "x": 16192.772319298783,
-      "y": 4867.173260133963,
+      "x": 17300.772319298783,
+      "y": 4655.173260133963,
       "w": 320,
       "h": 244,
       "group": null,
@@ -5064,8 +5064,8 @@
     },
     {
       "id": "ndxewd2g",
-      "x": 16197.536781825489,
-      "y": 5150.00276679316,
+      "x": 17305.53678182549,
+      "y": 4938.00276679316,
       "w": 320,
       "h": 479,
       "group": null,
@@ -5134,7 +5134,7 @@
       "x": 15074.728552867355,
       "y": 5694.4033558718875,
       "w": 320,
-      "h": 1201,
+      "h": 932,
       "group": null,
       "data": {
         "date": "2025-10-12",
@@ -5149,7 +5149,7 @@
         "tags": [
           "Touchpoint"
         ],
-        "desc": "MATERIAL SAMPLE - MICROSCOPE\n//How do we structure the experience? You're faced with a sample, with materials you can touch.\nEach material has its own technical description (e.g., resistance, chemical composition, etc.). You can choose one to put under the \"microscope\" (perhaps a scanner) to discover specifically what it's made of = human bodies.\n\n//That might be too immediate.\n\n→ Depending on how much you touch a sample, on the human warmth, different in-depth outputs appear: the first level is technical data, then a bit ambiguous, then something like \"traces of suffering and anxiety are detected in this material\" (?).\n\n//But let's always remember the message: beneath the surface, we find suffering.\n\n//Glass case with the sample inside that you can 'handle'\n\n//A case made of brick on the outside, inside you touch and touch human flesh (pork, with a glove). And depending on how much you touch, it gives you different information.",
+        "desc": "You're faced with a sample of materials you can touch.\n→ Depending on how much you touch a sample, the human warmth/time you spend touching it (=the interest you show), different in-depth outputs appear: the first level is technical data, then a bit ambiguous, then something like 'traces of suffering and anxiety are detected in this material'.\n//This can also be adapted to a display case: the material is in a display case and you have a glove you can touch it with.",
         "links": [],
         "files": [
           {
@@ -5195,8 +5195,8 @@
     },
     {
       "id": "n1m1xm4r",
-      "x": 15071.217517372817,
-      "y": 7771.5793036451305,
+      "x": 15067.528054862805,
+      "y": 7487.490690374201,
       "w": 320,
       "h": 796,
       "group": null,
@@ -5229,8 +5229,8 @@
     },
     {
       "id": "ni9ykfwu",
-      "x": 15069.792940365001,
-      "y": 6924.571124208918,
+      "x": 15066.10347785499,
+      "y": 6658.929823488049,
       "w": 320,
       "h": 795,
       "group": null,
@@ -5259,6 +5259,129 @@
             "path": "assets/image_326.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "nusdgsyw",
+      "x": 15458.610597091945,
+      "y": 6236.816086772154,
+      "w": 320,
+      "h": 1342,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "OUTPUT IDEA 4: FAKE SAMPLE",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Prototyping",
+          "Materials"
+        ],
+        "tags": [
+          "Touchpoint"
+        ],
+        "desc": "The user interacts with samples placed on pedestals. The user picks it up, and then the timer starts. The longer you hold it, the more information it provides about the product, until you realize they were made from human bodies.\n\nBUT: At the same time, a scanner is scanning you and gathering information about your body.\nDo we want to personalize the information based on the person?\nYes, based on the material you pick up/touch the most. The information is based on your body and the materials you can obtain by mixing your body parts with the material you pick up/touch the most.\n\nPossible references\nNIKE YOGA Interactive Installation\n# STUDIO NOWHERE\n",
+        "links": [],
+        "files": [
+          {
+            "name": "3c6cad07-0f48-487f-96ee-255fd0f3d768.png",
+            "size": 47539,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/3c6cad07-0f48-487f-96ee-255fd0f3d768.jpg"
+          },
+          {
+            "name": "EVERY BODY IS A YOGA BODY 1.png",
+            "size": 35067,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/EVERY_BODY_IS_A_YOGA_BODY_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4po6uni",
+      "x": 15107.382878505845,
+      "y": 4043.523371591921,
+      "w": 320,
+      "h": 1220,
+      "group": null,
+      "data": {
+        "date": "2025-10-15",
+        "title": "IS THE THEME OF LANDGRABBING FUNCTIONAL TO THIS REFLECTION?",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing"
+        ],
+        "tags": [],
+        "desc": "Is it plausible that we legalize killing people?\nIn our scenario, the stock part doesn't work because it loses its meaning. (It makes no sense to build an infrastructure in Brazil with the Chinese bodies.)\n\nIn war, it's legal to kill if the targets are military (i.e., military bases, tanks, soldiers, etc.).\nIt's not legal to kill civilians → War crime\n\nWhy can't we legalize killing people in land grabbing too? Make it legal to kill local targets (i.e., people who live there and occupy the space, their homes, etc.).\n\nWhy isn't it plausible? Why is it okay for soldiers but not for civilians?\n-> Because it's a legacy + a necessity: you kill to protect yourself as a state, so it's okay.\n\nUntil the 20th century, it was okay to kill to expand the state and its population.\n\nAnother reason why it's not plausible: we are a predominantly moralistic society. (You can't kill regardless.)\nWith this scenario, we focus on Utilitarianism: \nSocial gain - loss of lives > 0\n\nCurrent examples of \"utilitarian laws\":\n- Death penalty → you sacrifice a person's life for the \"common good\"\n- Covid → you sacrifice individual freedoms for the \"common good\"\n- QUALY → you sacrifice the care of some because the care can make others live longer\n\nCONCLUSION:\nI CANNOT BUILD A BUSINESS OUT OF THIS BECAUSE, ALTHOUGH LANDGRABBING IS NOT ILLEGAL, KILLING PEOPLE IS: SO PEOPLE DIE, BUT WE'RE NOT 'AUTHORIZED' TO USE THEIR BODIES",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_9588.png",
+            "size": 3595339,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_9588.jpg"
+          },
+          {
+            "name": "IMG_9589.png",
+            "size": 962209,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_9589.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3itgcwi",
+      "x": 15465.495884520058,
+      "y": 4047.0992367343842,
+      "w": 320,
+      "h": 530,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "LET'S MAKE THE LANDGRABBING SCENARIO PLAUSIBLE",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing"
+        ],
+        "tags": [],
+        "desc": "In the near future, the legal ambiguity surrounding land grabbing will be clarified:\nLand grabbing is fully legal, with all that this entails, given the \"public need.\"\nIf the local population disagrees, they can attack/oppose the eviction in some way.\nMultinational X can open fire on the local population if it is done in self-defense.\nIn the conflict, victims become raw materials for our company and material for future infrastructure.\n\nOur problem is that deaths aren't certain: we need to make them certain.\n\n→ What if land grabbing became the solution to overpopulation?\n\nWe don't kill people. Someone else does land grabbing and kills people.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqwny8ca",
+      "x": 15609.679497701763,
+      "y": 4673.743401716413,
+      "w": 320,
+      "h": 135,
+      "group": null,
+      "data": {
+        "date": "2025-10-18",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -6442,10 +6565,36 @@
       "s": "nw5ifuix",
       "t": "ni9ykfwu",
       "dashed": false
+    },
+    {
+      "s": "n68e18t0",
+      "t": "nusdgsyw",
+      "dashed": false
+    },
+    {
+      "s": "ni9ykfwu",
+      "t": "nusdgsyw",
+      "dashed": false
+    },
+    {
+      "s": "nj68qg18",
+      "t": "n4po6uni",
+      "dashed": false
+    },
+    {
+      "s": "n4po6uni",
+      "t": "n3itgcwi",
+      "dashed": false
+    },
+    {
+      "s": "n4po6uni",
+      "t": "nqwny8ca",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Landgrabbing",
       "Materials",
       "Prototyping",
       "Materials supply companies",
@@ -6510,7 +6659,6 @@
       "Legality",
       "Human rights",
       "War",
-      "Landgrabbing",
       "Speculative design",
       "Infrastructure",
       "Art",
@@ -6546,8 +6694,8 @@
       "Denounce"
     ],
     "type": [
-      "Brief",
       "Observation",
+      "Brief",
       "Research",
       "Source"
     ]
