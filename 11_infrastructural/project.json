@@ -4998,8 +4998,8 @@
     },
     {
       "id": "nl77jgz5",
-      "x": 17300.773789528073,
-      "y": 4059.0567051420658,
+      "x": 18500.773789528073,
+      "y": 3991.0567051420658,
       "w": 320,
       "h": 278,
       "group": null,
@@ -5020,8 +5020,8 @@
     },
     {
       "id": "n8sh3r3y",
-      "x": 17300.322851961457,
-      "y": 4381.393751146203,
+      "x": 18500.322851961457,
+      "y": 4313.393751146203,
       "w": 320,
       "h": 227,
       "group": null,
@@ -5042,8 +5042,8 @@
     },
     {
       "id": "ngekx8pi",
-      "x": 17300.772319298783,
-      "y": 4655.173260133963,
+      "x": 18500.772319298783,
+      "y": 4587.173260133963,
       "w": 320,
       "h": 244,
       "group": null,
@@ -5064,8 +5064,8 @@
     },
     {
       "id": "ndxewd2g",
-      "x": 17305.53678182549,
-      "y": 4938.00276679316,
+      "x": 18505.53678182549,
+      "y": 4870.00276679316,
       "w": 320,
       "h": 479,
       "group": null,
@@ -5366,22 +5366,237 @@
     },
     {
       "id": "nqwny8ca",
-      "x": 15609.679497701763,
-      "y": 4673.743401716413,
+      "x": 15807.513125757796,
+      "y": 4679.764452543154,
       "w": 320,
-      "h": 135,
+      "h": 687,
       "group": null,
       "data": {
         "date": "2025-10-18",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "WHAT IF OUR SCENARIO INVOLVES A COMPANY USING DEAD BODIES AS CONSTRUCTION MATERIALS FOR INFRASTRUCTURE?",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials",
+          "Infrastructure"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "We want to consider all deaths related to infrastructure in general (e.g., workplace deaths, such as those at a stadium in Qatar, or a road in Russia, including land grabbing)?\n\nLand grabbing is too broad; it doesn't just affect infrastructure. \n-> But the general theme of infrastructure conflict might be too narrow: what would the conflict be? Who are the specific actors?\n\nOUR GENERAL THEME is that there's a hidden underlying violence behind the construction of infrastructure.\nWe want to consider the deaths before and during construction.\n\nLet's consider all deaths due to a violent act: deaths from land grabbing, workplace deaths (generally when there's insufficient protection from the organization).\n→ The conflict is between the victims (all the victims we'll analyze with our case studies) and the organizations that want to build the infrastructure.\nWe can \"take care\" of every death in construction workplace.",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "ndoytjfn",
+      "x": 16200.694197340867,
+      "y": 3461.985498041794,
+      "w": 320,
+      "h": 689,
+      "group": null,
+      "data": {
+        "date": "2025-10-20",
+        "title": "THE ROAD OF BONES (RUSSIA)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials",
+          "Construction"
+        ],
+        "tags": [
+          "Victims"
+        ],
+        "desc": "The grim nickname comes from legends that the road was paved with a mixture of earth, gravel, and the bones of prisoners who died during its construction. After the fall of the Iron Curtain and the dissolution of the Soviet Union, the road was traveled for the first time by Westerners in 1995, by members of the Mondo Enduro expedition.\n\nThe remains were buried in sand that was spread over a road to improve traction on black ice.\nPhotograph: Russian interior ministry",
+        "links": [
+          "https://it.wikipedia.org/wiki/Strada_R504_(Russia)"
+        ],
+        "files": [
+          {
+            "name": "image 331.png",
+            "size": 177045,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_331.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1m3vi5h",
+      "x": 16543.885743730512,
+      "y": 3466.5218607888246,
+      "w": 320,
+      "h": 638,
+      "group": null,
+      "data": {
+        "date": "2025-10-20",
+        "title": "FENGCHENG POWER STATION SCAFFOLD COLLAPSE",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Construction"
+        ],
+        "tags": [
+          "Victims",
+          "Danger"
+        ],
+        "desc": "Casualties: 74 dead\nDate: November 24, 2016\nDescription: A 70-meter-high construction platform collapsed during construction of a cooling tower. More than 60 workers were on the platform, and others were on the ground ready to begin their shifts.\nCauses: Structural overload and lack of adequate safety measures.",
+        "links": [
+          "https://www.bbc.com/news/world-asia-china-38088037"
+        ],
+        "files": [
+          {
+            "name": "image 332.png",
+            "size": 234405,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_332.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nq9jfa9n",
+      "x": 16203.154781066445,
+      "y": 4166.894756964167,
+      "w": 320,
+      "h": 607,
+      "group": null,
+      "data": {
+        "date": "2025-10-20",
+        "title": "CRANE ACCIDENT IN MECCA",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Construction"
+        ],
+        "tags": [
+          "Victims",
+          "Danger"
+        ],
+        "desc": "Casualties: 111 dead, 394 injured\nDate: September 11, 2015\nDescription: A crane under construction collapsed on the Masjid al-Haram mosque during the Hajj pilgrimage.\nCause: Combination of human error and strong winds",
+        "links": [
+          "https://en.wikipedia.org/wiki/Mecca_crane_collapse?",
+          "https://www.bbc.com/news/world-middle-east-34226003"
+        ],
+        "files": [
+          {
+            "name": "image 333.png",
+            "size": 230183,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_333.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwvam4h9",
+      "x": 16547.330785362345,
+      "y": 4124.187755837806,
+      "w": 320,
+      "h": 323,
+      "group": null,
+      "data": {
+        "date": "2025-10-20",
+        "title": "IS THE CONSTRUCTION INDUSTRY DANGEROUS?",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Construction"
+        ],
+        "tags": [
+          "Danger",
+          "Victims"
+        ],
+        "desc": "The construction sector is historically and globally recognized as one of the three most dangerous sectors (along with agriculture and mining). It is estimated to be responsible for approximately 1 in 6 work-related deaths.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nddhk7pg",
+      "x": 16886.848286309607,
+      "y": 3469.3318085054434,
+      "w": 320,
+      "h": 1013,
+      "group": null,
+      "data": {
+        "date": "2025-10-20",
+        "title": "THREE GORGES DAM (CHINA)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Infrastructure",
+          "Landgrabbing"
+        ],
+        "tags": [
+          "Victims",
+          "Protests",
+          "Human rights"
+        ],
+        "desc": "The case of the Three Gorges Dam in China, while not typical of land grabbing by multinational agricultural companies, represents a colossal example of state land grabbing for the construction of a large-scale infrastructure project, with comparable social consequences. The creation of the gigantic hydroelectric reservoir on the Yangtze River required the expropriation of over 1,300,000 people – the largest forced displacement in history – who were forced to abandon their homes, their agricultural lands, entire cities, and priceless archaeological sites, with massive long-term social and economic impacts, despite the relocation programs implemented by the Chinese government. The project is therefore an emblematic case of \"expropriation for public utility\" on an epochal scale, which has radically and irreversibly altered the ecological and demographic balance of an entire region for energy and flood control purposes.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "ThreeGorgesDam-China2009 1.png",
+            "size": 129464,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/ThreeGorgesDam-China2009_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxrmr6g8",
+      "x": 17230.45595113447,
+      "y": 3466.6371181760796,
+      "w": 320,
+      "h": 1100,
+      "group": null,
+      "data": {
+        "date": "2025-10-20",
+        "title": "THE SIAT LAND GRABBING CASE IN IVORY COAST",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Infrastructure",
+          "Landgrabbing"
+        ],
+        "tags": [
+          "Victims",
+          "Protests",
+          "Human rights"
+        ],
+        "desc": "The land grabbing case involving SIAT (Société d'Investissement pour l'Agriculture Tropicale) in Côte d'Ivoire is a controversy surrounding the grabbing of vast swathes of land by the Belgian company, specializing in rubber and palm oil production, to the detriment of local and indigenous communities. SIAT is accused of acquiring the land to expand its plantations in a process that, according to complaints from NGOs and affected populations (including in Ghana and Nigeria), was conducted without due consultation or fair compensation. The consequences of this \"land theft\" include the loss of agricultural land vital to communities' livelihoods and food security, human rights violations, forced displacement, and severe environmental degradation due to intensive monocultures. Local communities, supported by organizations such as CIDSE and Focsiv, have forcefully demanded the restitution of their plots, compensation for the damages suffered, and the implementation of a transparent, rights-based dialogue process.\n",
+        "links": [
+          "https://www.focsiv.it/wp-content/uploads/2023/10/LG2023-18.10.2023.pdf"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-10 alle 10.29.29 1.png",
+            "size": 134824,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-10_alle_10.29.29_1.jpg"
+          }
+        ]
       }
     }
   ],
@@ -6590,11 +6805,39 @@
       "s": "n4po6uni",
       "t": "nqwny8ca",
       "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "ndoytjfn",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "n1m3vi5h",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "nq9jfa9n",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "nwvam4h9",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "nddhk7pg",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Infrastructure",
       "Landgrabbing",
+      "Construction",
+      "Human body",
       "Materials",
       "Prototyping",
       "Materials supply companies",
@@ -6660,13 +6903,15 @@
       "Human rights",
       "War",
       "Speculative design",
-      "Infrastructure",
       "Art",
-      "Human body",
       "Construction companies",
       "Materials supply"
     ],
     "tags": [
+      "Human rights",
+      "Protests",
+      "Victims",
+      "Danger",
       "Touchpoint",
       "Touchpoints",
       "Work flow",
@@ -6683,21 +6928,18 @@
       "War",
       "Health",
       "Welfare",
-      "Protests",
       "Touristification",
       "Infrastructure",
       "Landgrabbing",
       "Cultural loss",
-      "Victims",
       "Design",
-      "Human rights",
       "Denounce"
     ],
     "type": [
-      "Observation",
-      "Brief",
+      "Source",
       "Research",
-      "Source"
+      "Brief",
+      "Observation"
     ]
   }
 }
