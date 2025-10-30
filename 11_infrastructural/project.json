@@ -3388,28 +3388,6 @@
       }
     },
     {
-      "id": "n3p9wgye",
-      "x": 40,
-      "y": 40,
-      "w": 320,
-      "h": 765,
-      "group": null,
-      "data": {
-        "date": "2025-09-24",
-        "title": "Infrastructure policies",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Infrastructure"
-        ],
-        "tags": [],
-        "desc": "Social, cultural, and political conflict can arise as early as the planning stage of infrastructure. Cases like Vajont, the Standard Gauge Railway in Kenya, the No TAV movement, and the bridge over the Strait of Messina demonstrate how economic interests, community rights, and cultural heritage can collide. Lack of dialogue fuels protests and delays, while construction often ignores human rights and local cultures. If protests themselves defined the value of infrastructure, how would we measure progress? Would the culture of dissent become the fundamental infrastructure for protecting our cultural heritage?\n\nProblem:\n- Non-transparent procedures\n- Human rights violations\n- Loss of cultural heritage\n\nAgents:\n- Minor populations\n- Civilians\n- Investors\n\nInfrastructures:\n- Dams\n- Railway networks\n- Hydroelectric power plants\n\nScenarios:\n- Reality\n- Culture\n- Migration\n- Uprooting\n",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "nrkvbkyd",
       "x": 7884.946088015984,
       "y": 2634.2191463868007,
@@ -3516,39 +3494,6 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-10-08_alle_10.59.37_1.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "npl37rq5",
-      "x": 40,
-      "y": 40,
-      "w": 320,
-      "h": 639,
-      "group": null,
-      "data": {
-        "date": "2025-10-21",
-        "title": "NUMBERS",
-        "type": "",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "Landgrabbing"
-        ],
-        "tags": [
-          "Landgrabbing"
-        ],
-        "desc": "The chart shows the distribution of agreements concluded by geographic area in millions of hectares, totaling 114.8 million hectares. Africa is the leading continent for investments that can lead to land grabbing to the detriment of local communities, followed by Latin America, Eastern Europe, and then Asia. The distribution by investment intention is broken down as follows: 40% for forestry, 33% for other purposes, particularly mining, and 26% for agriculture. 67% of the area covered by agreements has ongoing operations, 25% is in the start-up phase, 5% of the area has operations abandoned, and 3% has not yet started.",
-        "links": [],
-        "files": [
-          {
-            "name": "Screenshot 2025-10-08 alle 11.49.52 1.png",
-            "size": 40856,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/Screenshot_2025-10-08_alle_11.49.52_1.jpg"
           }
         ]
       }
@@ -4122,7 +4067,7 @@
       "x": 13246.57976682344,
       "y": 869.2784533792073,
       "w": 320,
-      "h": 1840,
+      "h": 1841,
       "group": null,
       "data": {
         "date": "2025-10-07",
@@ -4606,7 +4551,7 @@
       "x": 14048.509886562622,
       "y": 4235.663251083868,
       "w": 320,
-      "h": 570,
+      "h": 571,
       "group": null,
       "data": {
         "date": "2025-10-10",
@@ -4657,7 +4602,7 @@
       "h": 714,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "WHAT KIND OF COMPANY ARE WE?",
         "type": "Brief",
         "action": "Making",
@@ -4673,13 +4618,13 @@
     },
     {
       "id": "n1m94r6b",
-      "x": 12947.915455671784,
-      "y": 5176.105104592561,
+      "x": 12938.017057100136,
+      "y": 5172.806873090667,
       "w": 320,
       "h": 480,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "WHAT DO SUPPLIERS DO?",
         "type": "Observation",
         "action": "Exploring",
@@ -4710,7 +4655,7 @@
       "h": 789,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "ETERNOO: MATERIALS SUPPLY COMPANY",
         "type": "Research",
         "action": "Exploring",
@@ -4751,7 +4696,7 @@
       "h": 504,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "GADDI Srl - DEMOLITION AND MATERIAL SUPPLIES",
         "type": "Research",
         "action": "Exploring",
@@ -4784,7 +4729,7 @@
       "h": 739,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "ALTAIR: MATERIALS SUPPLY COMPANY",
         "type": "Research",
         "action": "Exploring",
@@ -4825,7 +4770,7 @@
       "h": 1316,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "ECOGREEN: WASTE TRANSPORT AND DISPOSAL COMPANY",
         "type": "Research",
         "action": "Exploring",
@@ -4858,7 +4803,7 @@
       "h": 507,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "SEMAT: SALE OF BUILDING MATERIALS FROM THE BEST BRANDS AND RAW MATERIALS FOR CONSTRUCTION",
         "type": "Research",
         "action": "Exploring",
@@ -4891,7 +4836,7 @@
       "h": 558,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "HOLCIM: A LEADING CEMENT COMPANY",
         "type": "Research",
         "action": "Exploring",
@@ -4924,7 +4869,7 @@
       "h": 401,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "INERTI LARIO Srl - COLLECTION, DISPOSAL, AND RECYCLING OF INERT WASTE",
         "type": "Research",
         "action": "Exploring",
@@ -4957,7 +4902,7 @@
       "h": 859,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "IS THERE A RELATIONSHIP WITH MEAT PRODUCERS/SLAUGHTERHOUSES?",
         "type": "Observation",
         "action": "Exploring",
@@ -5013,7 +4958,7 @@
       "h": 315,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "BRICOMAN ITALIA S.p.A.",
         "type": "Research",
         "action": "Exploring",
@@ -5037,7 +4982,7 @@
       "h": 933,
       "group": null,
       "data": {
-        "date": "2025-10-14",
+        "date": "2025-10-10",
         "title": "HOW ARE MATERIALS MANAGED TODAY?",
         "type": "Observation",
         "action": "Exploring",
@@ -5053,13 +4998,13 @@
     },
     {
       "id": "nl77jgz5",
-      "x": 14880.773789528073,
-      "y": 5411.056705142066,
+      "x": 16192.773789528073,
+      "y": 4271.056705142066,
       "w": 320,
       "h": 278,
       "group": null,
       "data": {
-        "date": "2025-10-17",
+        "date": "2025-10-13",
         "title": "MISSION",
         "type": "Brief",
         "action": "Making",
@@ -5075,13 +5020,13 @@
     },
     {
       "id": "n8sh3r3y",
-      "x": 14880.32285196146,
-      "y": 5733.393751146203,
+      "x": 16192.322851961457,
+      "y": 4593.393751146203,
       "w": 320,
       "h": 227,
       "group": null,
       "data": {
-        "date": "2025-10-17",
+        "date": "2025-10-13",
         "title": "VISION",
         "type": "Brief",
         "action": "Making",
@@ -5097,13 +5042,13 @@
     },
     {
       "id": "ngekx8pi",
-      "x": 14880.772319298783,
-      "y": 6007.173260133963,
+      "x": 16192.772319298783,
+      "y": 4867.173260133963,
       "w": 320,
       "h": 244,
       "group": null,
       "data": {
-        "date": "2025-10-21",
+        "date": "2025-10-13",
         "title": "VALUES",
         "type": "Brief",
         "action": "Making",
@@ -5119,13 +5064,13 @@
     },
     {
       "id": "ndxewd2g",
-      "x": 14884.157996995753,
-      "y": 6302.964789409483,
+      "x": 16197.536781825489,
+      "y": 5150.00276679316,
       "w": 320,
       "h": 479,
       "group": null,
       "data": {
-        "date": "2025-10-21",
+        "date": "2025-10-13",
         "title": "CONCEPT",
         "type": "Brief",
         "action": "Making",
@@ -5141,8 +5086,8 @@
     },
     {
       "id": "nj68qg18",
-      "x": 14879.493007228917,
-      "y": 5110.962135247718,
+      "x": 14665.563747349996,
+      "y": 5043.465385923709,
       "w": 320,
       "h": 272,
       "group": null,
@@ -5157,6 +5102,163 @@
         "desc": "Beneath the infrastructure's rational exterior lies a primordial, physical, and often violent reality.\nThe building conceals and bears the marks of history and the suffering of the oppressed.",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "nw5ifuix",
+      "x": 14642.64194774605,
+      "y": 5694.518519867322,
+      "w": 320,
+      "h": 1633,
+      "group": null,
+      "data": {
+        "date": "2025-10-11",
+        "title": "WORK FLOW OF A MATERIAL SUPPLY COMPANY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials supply companies"
+        ],
+        "tags": [
+          "Work flow",
+          "Touchpoint"
+        ],
+        "desc": "INITIAL CONTACT WITH CUSTOMERS:\n- Promotion and advertising\n- Email/telephone/interview\n\nSubjects: Marketing, Administration\n\nMATERIAL SELECTION:\n- Consultation and proposal of a catalog with material descriptions\n- Forms and contract signature\n\nSubjects: Technical materials consultant (structural materials designer), Technical director of the contractor\n\nDEMOLITION AND RECOVERY OF RAW MATERIALS:\n- First contact with local 'victims' → eviction notice in the mail\n- Demolition with bulldozers and bullets\n- Armed forces intervene with rifles\n- Recovery of materials in large bags and transport to the base\n\nSubjects: Municipal administration (if public works) → eviction notice, Local people, Demolition operator/earthmoving machine, Police and activists, Materials sorting and selection worker, Waste loading and transport worker, Waste management manager\n\nMATERIAL TRANSFORMATION:\n- Purification (removal of debris not related to the material)\n- Crushing (reduction into fragments of a controlled size for easier mixing)\n- Sifting\n- Cleaning (to remove sediment that makes the material more difficult to remix)\n- Reuse as aggregate (20-30% recycled cement in new concrete) and concrete construction (e.g.)\n- Curing and Curing\n\nSubjects: Processing and Transformation Plant Operator, Building Materials Laboratory Technician\nProduction Manager, Materials Engineer / Chemical Engineer, Materials Recovery and Recycling Technician\nQuality Control Officer\n\nTESTING:\n- Sample preparation: Selection and preparation of the material to be tested.\n- Test execution: Subjecting the sample to test conditions (tensile, compressive, flexural, thermography, radiography, etc.)\n- Data analysis: Collection and interpretation of the results obtained.\n- Report preparation: Documentation of the results and conclusions.\n\nSubjects: Materials testing laboratory technician / Laboratory operator, Materials engineer / Chemical engineer / Mechanical engineer, Quality control manager / Quality manager, Materials researcher/developer\n\nWAREHOUSE:\n- Space planning\n- Inventory recording as goods arrive\n- Labeling and tracking\n- Placement with appropriate equipment\n- Protection, periodic inspections, and maintenance\n\nSubjects: Warehouse clerk, Warehouse manager, Logistics clerk, Warehouse quality control clerk\n\nMATERIAL SALES:\n- Issuance of transport documents and delivery notes (once delivered)\n- Invoicing and payment\n- After-sales service\n\nSubjects: Administration, Sales Manager, Purchasing Manager\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n68e18t0",
+      "x": 15074.728552867355,
+      "y": 5694.4033558718875,
+      "w": 320,
+      "h": 1201,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "OUTPUT IDEA 1: MATERIAL SAMPLE - MICROSCOPE",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Prototyping",
+          "Materials"
+        ],
+        "tags": [
+          "Touchpoint"
+        ],
+        "desc": "MATERIAL SAMPLE - MICROSCOPE\n//How do we structure the experience? You're faced with a sample, with materials you can touch.\nEach material has its own technical description (e.g., resistance, chemical composition, etc.). You can choose one to put under the \"microscope\" (perhaps a scanner) to discover specifically what it's made of = human bodies.\n\n//That might be too immediate.\n\n→ Depending on how much you touch a sample, on the human warmth, different in-depth outputs appear: the first level is technical data, then a bit ambiguous, then something like \"traces of suffering and anxiety are detected in this material\" (?).\n\n//But let's always remember the message: beneath the surface, we find suffering.\n\n//Glass case with the sample inside that you can 'handle'\n\n//A case made of brick on the outside, inside you touch and touch human flesh (pork, with a glove). And depending on how much you touch, it gives you different information.",
+        "links": [],
+        "files": [
+          {
+            "name": "-237 1.png",
+            "size": 45652,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/-237_1.jpg"
+          },
+          {
+            "name": "3c6cad07-0f48-487f-96ee-255fd0f3d768.png",
+            "size": 55535,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/3c6cad07-0f48-487f-96ee-255fd0f3d768.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvkyudb8",
+      "x": 15441.659981214563,
+      "y": 5698.805843521704,
+      "w": 320,
+      "h": 311,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "HOW MUCH DOES TOUCHING CONVEY OUR MESSAGE? t",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Prototyping"
+        ],
+        "tags": [],
+        "desc": "I have a sample, and a tool, that the deeper I put it into the sample/the more you move it, the more different information it gives you about the material = I'm digging into the material and based on how much I dig I discover deeper layers until I get to the person's age, for example.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1m1xm4r",
+      "x": 15071.217517372817,
+      "y": 7771.5793036451305,
+      "w": 320,
+      "h": 796,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "OUTPUT IDEA 3: MATERIAL PROCESSING TOOL",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Prototyping",
+          "Materials"
+        ],
+        "tags": [
+          "Touchpoint"
+        ],
+        "desc": "Using real tools/a screen, you can experience how one of our chemical engineers processes and \"cleans\" materials.\nWe select 2-3 interesting tools/procedures that we use and present them to the user, who will receive a sample of the \"cleaned\" material to take home.\n\n->  People take the vacuum-packed material home?",
+        "links": [],
+        "files": [
+          {
+            "name": "商品詳細 1.png",
+            "size": 44376,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/商品詳細_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ni9ykfwu",
+      "x": 15069.792940365001,
+      "y": 6924.571124208918,
+      "w": 320,
+      "h": 795,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "OUTPUT IDEA 2: SCANNER BODY → MATERIAL",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Prototyping",
+          "Materials"
+        ],
+        "tags": [
+          "Touchpoint"
+        ],
+        "desc": "The user interfaces with a thermal scanner screen: the closer he gets to the display, the more information the display will reveal about his body, about how it could be used by our company as a building material.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 326.png",
+            "size": 50406,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_326.jpg"
+          }
+        ]
       }
     }
   ],
@@ -6308,129 +6410,140 @@
     },
     {
       "s": "nf4vzjmy",
-      "t": "nl77jgz5",
-      "dashed": false
-    },
-    {
-      "s": "nf4vzjmy",
-      "t": "n8sh3r3y",
-      "dashed": false
-    },
-    {
-      "s": "nf4vzjmy",
-      "t": "ngekx8pi",
-      "dashed": false
-    },
-    {
-      "s": "nf4vzjmy",
-      "t": "ndxewd2g",
-      "dashed": false
-    },
-    {
-      "s": "nf4vzjmy",
       "t": "nj68qg18",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nw5ifuix",
+      "dashed": false
+    },
+    {
+      "s": "n1m94r6b",
+      "t": "nw5ifuix",
+      "dashed": false
+    },
+    {
+      "s": "nw5ifuix",
+      "t": "n68e18t0",
+      "dashed": false
+    },
+    {
+      "s": "n68e18t0",
+      "t": "nvkyudb8",
+      "dashed": false
+    },
+    {
+      "s": "nw5ifuix",
+      "t": "n1m1xm4r",
+      "dashed": false
+    },
+    {
+      "s": "nw5ifuix",
+      "t": "ni9ykfwu",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Materials supply companies",
-      "Material supply companies",
-      "Materials supply",
       "Materials",
-      "Materials companies",
-      "Construction companies",
-      "Human body",
-      "Art",
-      "Business",
-      "Infrastructure",
-      "Speculative design",
-      "Landgrabbing",
-      "War",
-      "Human rights",
-      "Legality",
-      "Tourism",
-      "Touristification",
-      "Architecture",
-      "Geopolitics and international relations",
-      "Political economy and public policy",
-      "International relations and human rights",
-      "Humanitarian and development studies",
-      "Critical theory",
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Design research",
-      "Socio-political",
-      "General knowledge",
-      "Utopian civilization",
-      "Neuroscience",
-      "Luxury tourism",
-      "Transportation",
-      "Extreme tourism",
-      "Infrastructure engineering",
-      "Security and defense studies",
-      "Political economy",
-      "Social psychology",
-      "Humanitarian studies",
-      "Disaster management",
-      "Energy engineering",
-      "Geography",
-      "Civil engineering",
-      "Geology",
-      "Social anthropology",
-      "Transportation engineering",
-      "Urban/regional planning",
-      "Economics",
-      "Aviation engineering",
-      "Energy studies",
-      "Cultural heritage",
-      "International law",
-      "Human geography",
-      "Security studies",
-      "Sociology of protest",
-      "Energy engineering political science",
-      "Anthropology",
-      "Urban planning",
-      "Social movements",
-      "Archaeology",
-      "Political science",
-      "Hydraulic engineering",
-      "Environmental studies",
-      "Indigenous studies",
-      "Maritime engineering",
-      "Economic geography",
-      "International relations",
-      "History",
-      "Development studies",
-      "Indigenous rights",
-      "Transport engineering",
+      "Prototyping",
+      "Materials supply companies",
+      "Political sci",
       "Development economics",
-      "Political sci"
+      "Transport engineering",
+      "Indigenous rights",
+      "Development studies",
+      "History",
+      "International relations",
+      "Economic geography",
+      "Maritime engineering",
+      "Indigenous studies",
+      "Environmental studies",
+      "Hydraulic engineering",
+      "Political science",
+      "Archaeology",
+      "Social movements",
+      "Urban planning",
+      "Anthropology",
+      "Energy engineering political science",
+      "Sociology of protest",
+      "Security studies",
+      "Human geography",
+      "International law",
+      "Cultural heritage",
+      "Energy studies",
+      "Aviation engineering",
+      "Economics",
+      "Urban/regional planning",
+      "Transportation engineering",
+      "Social anthropology",
+      "Geology",
+      "Civil engineering",
+      "Geography",
+      "Energy engineering",
+      "Disaster management",
+      "Humanitarian studies",
+      "Social psychology",
+      "Political economy",
+      "Security and defense studies",
+      "Infrastructure engineering",
+      "Extreme tourism",
+      "Transportation",
+      "Luxury tourism",
+      "Neuroscience",
+      "Utopian civilization",
+      "General knowledge",
+      "Socio-political",
+      "Design research",
+      "Media studies",
+      "Communication",
+      "Critical design",
+      "Critical theory",
+      "Humanitarian and development studies",
+      "International relations and human rights",
+      "Political economy and public policy",
+      "Geopolitics and international relations",
+      "Architecture",
+      "Touristification",
+      "Tourism",
+      "Legality",
+      "Human rights",
+      "War",
+      "Landgrabbing",
+      "Speculative design",
+      "Infrastructure",
+      "Art",
+      "Human body",
+      "Construction companies",
+      "Materials supply"
     ],
     "tags": [
-      "Denounce",
-      "Human rights",
-      "Design",
-      "Victims",
-      "Cultural loss",
-      "Landgrabbing",
-      "Infrastructure",
-      "Touristification",
-      "Protests",
-      "Welfare",
-      "Health",
-      "War",
-      "Extreme tourism",
-      "Definition",
-      "Overtourism",
-      "Communication",
-      "Conflict",
-      "Catastrophe",
-      "Useless investment",
-      "Isolation",
+      "Touchpoint",
+      "Touchpoints",
+      "Work flow",
+      "Structural failure",
       "Psychological distress",
-      "Structural failure"
+      "Isolation",
+      "Useless investment",
+      "Catastrophe",
+      "Conflict",
+      "Communication",
+      "Overtourism",
+      "Definition",
+      "Extreme tourism",
+      "War",
+      "Health",
+      "Welfare",
+      "Protests",
+      "Touristification",
+      "Infrastructure",
+      "Landgrabbing",
+      "Cultural loss",
+      "Victims",
+      "Design",
+      "Human rights",
+      "Denounce"
     ],
     "type": [
       "Brief",
