@@ -2291,20 +2291,17 @@
       "x": 9380.736600331586,
       "y": 582.8561772157648,
       "w": 320,
-      "h": 149,
+      "h": 416,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "",
-        "type": "Concept",
+        "title": "scenario definitivo",
+        "type": "",
         "action": "Exploring",
         "mainArea": "Speculation",
-        "areas": [
-          "Feelings",
-          "Communication"
-        ],
+        "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "Ci posizioniamo in un MONDO caratterizzato da una IPERBUROCRATIZZAZIONE, in cui le procedure e le regole si estendono a ogni aspetto della vita quotidiana. \nIn questo contesto, la burocrazia interviene persino NELLE RELAZIONI INTERPERSONALI e intime, con l’obiettivo di gestire e regolamentare le ambiguità e le conflittualità insite nei rapporti umani.\nIn questo scenario le persone si possono tutelare tramite delle ASSICURAZIONI sulle relazioni, vengono definite e ufficializzate tutti i minimi aspetti della relazione con un sistema basato sulle assicurazioni",
         "links": [],
         "files": []
       }
@@ -3072,6 +3069,106 @@
         "type": "",
         "action": null,
         "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nxv6198r",
+      "x": 9858.731469294804,
+      "y": 298.1275699927053,
+      "w": 320,
+      "h": 366,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "cnflitto",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "--> conflitto burocratico paradossale:\nla burocrazia deve REGOLAMENTARE e RISOLVERE, CHIARIFICARE, TUTELARE\nperò allo stesso tempo SPERSONALIZZA, VINCOLA, OBBLIGA, ESCLUDE\n--> conflitto tra due nature opposte:\nda una parte quella RAZIONALE e IMPERSONALE della norma burocratica\ndall’altra quella SPONTANEA e profondamente UMANA delle relazioni personali. ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nsuoe5zk",
+      "x": 9858.731469294804,
+      "y": 683.6458047076984,
+      "w": 320,
+      "h": 231,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "what if",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "E se la burocrazia regolamentasse anche le sfere più intime dell’essere umano?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nq2vfoit",
+      "x": 9860.736600331586,
+      "y": 948.8561772157648,
+      "w": 320,
+      "h": 298,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "messaggio che vogliamo veicolare",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Ciò che vogliamo dire è che la burocrazia è disumanizzante ma questo può essere sia visto positivamente che negativamente (tutela vs vincolo)\nla burocrazia risulta disumanizzante nel tentare di giudicare situazioni prettamente umane attraverso l’applicazione di leggi e razionalità.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nldpevvs",
+      "x": 10405.780202212449,
+      "y": 853.2005416744589,
+      "w": 320,
+      "h": 366,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "ente",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Siamo un ente assicurativo a cui i cittadini sono fortemente incoraggiati a rivolgersi prima di intraprendere una relazione o per regolarne una già esistente. Il nostro compito è regolamentare tutti gli aspetti della relazione per far si che nel momento di ambiguità e conflitto ci sia un iter burocratico da seguire che tuteli entrambi le parti della relazione. In questo modo, ci assicuriamo che eventuali incomprensioni o offese vengano gestite in modo, razionale e conforme alle procedure stabilite.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nv4hz9gn",
+      "x": 10885.780202212449,
+      "y": 853.2005416744589,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
         "areas": [],
         "tags": [],
         "desc": "",
@@ -4070,55 +4167,94 @@
       "s": "nhqqeq9q",
       "t": "nvr1o4xk",
       "dashed": false
+    },
+    {
+      "s": "najakot8",
+      "t": "nxv6198r",
+      "dashed": false
+    },
+    {
+      "s": "najakot8",
+      "t": "nsuoe5zk",
+      "dashed": false
+    },
+    {
+      "s": "najakot8",
+      "t": "nq2vfoit",
+      "dashed": false
+    },
+    {
+      "s": "nxv6198r",
+      "t": "nldpevvs",
+      "dashed": false
+    },
+    {
+      "s": "najakot8",
+      "t": "nldpevvs",
+      "dashed": false
+    },
+    {
+      "s": "nsuoe5zk",
+      "t": "nldpevvs",
+      "dashed": false
+    },
+    {
+      "s": "nq2vfoit",
+      "t": "nldpevvs",
+      "dashed": false
+    },
+    {
+      "s": "nldpevvs",
+      "t": "nv4hz9gn",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Public administration",
-      "Power",
-      "Law",
-      "Socio-political",
-      "Communication",
-      "Critical design",
-      "Conflict",
-      "Media studies",
-      "Con",
-      "Emotional response",
-      "Definition",
-      "Literature",
-      "Feelings",
-      "Semantic research",
-      "Documentary",
-      "Photography",
-      "Art",
-      "Installation",
-      "Philosophy",
-      "Hystory",
-      "Cultural studies",
-      "Spatial design",
-      "Envirionment",
+      "Design research",
       "Sociology",
-      "Design research"
+      "Envirionment",
+      "Spatial design",
+      "Cultural studies",
+      "Hystory",
+      "Philosophy",
+      "Installation",
+      "Art",
+      "Photography",
+      "Documentary",
+      "Semantic research",
+      "Feelings",
+      "Literature",
+      "Definition",
+      "Emotional response",
+      "Media studies",
+      "Conflict",
+      "Critical design",
+      "Communication",
+      "Socio-political",
+      "Law",
+      "Power",
+      "Public administration"
     ],
     "tags": [
-      "Power abuse",
-      "Corruption",
-      "Conflict",
-      "Opposition",
-      "Social tension",
+      "Feelings",
       "Emotion",
-      "Feelings"
+      "Social tension",
+      "Opposition",
+      "Conflict",
+      "Corruption",
+      "Power abuse"
     ],
     "type": [
-      "Brief",
-      "Feedback",
-      "Concept",
-      "Source",
-      "Observation",
-      "Conclusione",
-      "Moodboard",
+      "Research",
       "Collection",
-      "Research"
+      "Moodboard",
+      "Conclusione",
+      "Observation",
+      "Source",
+      "Concept",
+      "Feedback",
+      "Brief"
     ]
   }
 }
