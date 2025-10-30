@@ -4998,8 +4998,8 @@
     },
     {
       "id": "nl77jgz5",
-      "x": 18500.773789528073,
-      "y": 3991.0567051420658,
+      "x": 18060.097715042953,
+      "y": 4714.587796057727,
       "w": 320,
       "h": 278,
       "group": null,
@@ -5020,8 +5020,8 @@
     },
     {
       "id": "n8sh3r3y",
-      "x": 18500.322851961457,
-      "y": 4313.393751146203,
+      "x": 17664.322851961457,
+      "y": 4737.393751146203,
       "w": 320,
       "h": 227,
       "group": null,
@@ -5043,7 +5043,7 @@
     {
       "id": "ngekx8pi",
       "x": 18500.772319298783,
-      "y": 4587.173260133963,
+      "y": 4491.173260133963,
       "w": 320,
       "h": 244,
       "group": null,
@@ -5396,7 +5396,7 @@
       "h": 689,
       "group": null,
       "data": {
-        "date": "2025-10-20",
+        "date": "2025-10-17",
         "title": "THE ROAD OF BONES (RUSSIA)",
         "type": "Source",
         "action": "Exploring",
@@ -5433,7 +5433,7 @@
       "h": 638,
       "group": null,
       "data": {
-        "date": "2025-10-20",
+        "date": "2025-10-17",
         "title": "FENGCHENG POWER STATION SCAFFOLD COLLAPSE",
         "type": "Source",
         "action": "Exploring",
@@ -5470,7 +5470,7 @@
       "h": 607,
       "group": null,
       "data": {
-        "date": "2025-10-20",
+        "date": "2025-10-17",
         "title": "CRANE ACCIDENT IN MECCA",
         "type": "Source",
         "action": "Exploring",
@@ -5508,7 +5508,7 @@
       "h": 323,
       "group": null,
       "data": {
-        "date": "2025-10-20",
+        "date": "2025-10-17",
         "title": "IS THE CONSTRUCTION INDUSTRY DANGEROUS?",
         "type": "Research",
         "action": "Exploring",
@@ -5533,7 +5533,7 @@
       "h": 1013,
       "group": null,
       "data": {
-        "date": "2025-10-20",
+        "date": "2025-10-17",
         "title": "THREE GORGES DAM (CHINA)",
         "type": "Source",
         "action": "Exploring",
@@ -5569,7 +5569,7 @@
       "h": 1100,
       "group": null,
       "data": {
-        "date": "2025-10-20",
+        "date": "2025-10-17",
         "title": "THE SIAT LAND GRABBING CASE IN IVORY COAST",
         "type": "Source",
         "action": "Exploring",
@@ -5595,6 +5595,108 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-10-10_alle_10.29.29_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nttaecpd",
+      "x": 16610.485003642276,
+      "y": 5296.78249220283,
+      "w": 320,
+      "h": 1088,
+      "group": null,
+      "data": {
+        "date": "2025-10-18",
+        "title": "MAPEI",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Mapei is an Italian multinational company, a leading manufacturer of chemical products for the construction industry, founded in 1937 in Milan.\n\nVISION:\n\"Building today with the future in mind\"\n\nMISSION:\n- Excellence in products and services\n- Commitment to research and development\n- Promotion of health and safety\n\nKEY ELEMENTS:\n- Innovation and progress\n- Sustainability\n- Global leadership\n\nSTRATEGY:\nFour pillars underpin our strategy:\n- Specialization\n- Research and Development\n- Internationalization\n- Sustainability\n\nVALUES:\n- Passion\n- Team Spirit\n- Social Responsibility\n- Trust and Quality\n\nTONE OF VOICE:\nProfessional, technical, and solution-oriented, focused on conveying reliability, expertise, and innovation in the construction chemicals sector. Communication is clear and specific, describing the technical features of the products, often supported by data, certifications (such as GEV and LEED), and engineering calculations (such as DataMapesilent®).",
+        "links": [
+          "https://www.mapei.com/it/it/home-page"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-18 alle 10.09.25 1.png",
+            "size": 180904,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-18_alle_10.09.25_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3vfigjw",
+      "x": 16268.487654222143,
+      "y": 5291.096286554703,
+      "w": 320,
+      "h": 1309,
+      "group": null,
+      "data": {
+        "date": "2025-10-18",
+        "title": "ITALCEMENTI HEIDELBERGCEMENT GROUP",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Italcementi S.p.A., founded in 1864, is an Italian building materials company with a production capacity of over 60 million tons of cement annually, making it the fifth-largest cement producer in the world.\nIt is controlled by the German group HeidelbergCement with a 96.3% stake.\n\nVISION AND MISSION:\nPurpose: Material to build our future\nMaterial has a double meaning in English. On the one hand, it means \"material,\" which identifies our products, construction materials. On the other, it also means \"significant,\" \"relevant,\" signifying our essential role in building and shaping the future. Material to build therefore has a meaning that goes beyond \"material for building\": the ambition of Heidelberg Materials and its member companies is to be essential \"co-creators\" of the works our customers build. Material to build our future therefore aims to represent our role in the present and look to the future: Heidelberg Materials' ambition is to develop new solutions for the construction industry, to provide our customers and the society in which we operate with innovative products and increasingly sustainable processes.\n\nItalcementi advocates sustainable development based on a balanced approach to business, combining economic growth, environmental protection, and positive relationships with local communities. Its vision aims to achieve an optimal balance between these dimensions, generating long-term value and competitive advantage while contributing to the prevention of industrial risks. The company conserves and respects natural resources, promotes social responsibility, and pursues the goal of \"Zero Accidents.\"\nItalcementi intends to continue growing alongside the communities in which it operates and of which it deeply feels a part.\n\nVALUES:\n- Sustainable development\n- Environment-economy-society balance\n- Respect and protection of natural resources\n- Social responsibility\n- Zero accident policy\n- Quality, integrity, transparency\n- Innovation and sustainable investments\n- Shared growth\n",
+        "links": [
+          "https://www.heidelbergmaterials.it/it"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-18 at 09.47.13 1.png",
+            "size": 102335,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-18_at_09.47.13_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngls3xrx",
+      "x": 16609.558504190525,
+      "y": 6406.376537317034,
+      "w": 320,
+      "h": 980,
+      "group": null,
+      "data": {
+        "date": "2025-10-18",
+        "title": "ATLAS CONCORDE",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Atlas’s website is simplistic and puts their work first, they use minimal writing to get their point across quickly and leave room for large images of their work.\n\nThey know that images of their work is what attracts people to their work.\n\nAtlas has a page dedicated to the history of their values\n- Since 1969\n- Grown based on the values of its founders innovation\n- Product research\n- Total reliability\n- Respect for the environment\n- Confidence in the future\n- The company has become an internation gold standard\n- Maintaining strong roots in Italy\n- Atlas Concorde is a subsidiary company of the\n- Concorde Group\n\nTheir Vision:\nEnriching spaces around the world with the beauty of Italian design.\n\nTheir Mission:\nModernizing spaces around the world through our elegant and refined style.\n\nTheir Way:\nMade to excel: Being both high-performing and supportive of individuals.",
+        "links": [
+          "https://www.atlasconcorde.com/it"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-18 084839 1.png",
+            "size": 829257,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-18_084839_1.jpg"
           }
         ]
       }
@@ -6830,17 +6932,63 @@
       "s": "nqwny8ca",
       "t": "nddhk7pg",
       "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "nttaecpd",
+      "dashed": false
+    },
+    {
+      "s": "n1m94r6b",
+      "t": "nttaecpd",
+      "dashed": false
+    },
+    {
+      "s": "n1m94r6b",
+      "t": "n3vfigjw",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "n3vfigjw",
+      "dashed": false
+    },
+    {
+      "s": "n1m94r6b",
+      "t": "ngls3xrx",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "ngls3xrx",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "nl77jgz5",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "n8sh3r3y",
+      "dashed": false
+    },
+    {
+      "s": "n8sh3r3y",
+      "t": "nl77jgz5",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Branding",
+      "Materials supply companies",
+      "Materials",
       "Infrastructure",
       "Landgrabbing",
       "Construction",
       "Human body",
-      "Materials",
       "Prototyping",
-      "Materials supply companies",
       "Political sci",
       "Development economics",
       "Transport engineering",
@@ -6936,9 +7084,9 @@
       "Denounce"
     ],
     "type": [
-      "Source",
-      "Research",
       "Brief",
+      "Research",
+      "Source",
       "Observation"
     ]
   }
