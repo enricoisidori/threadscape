@@ -1490,19 +1490,22 @@
       "x": 4763.315904784203,
       "y": 2492.5836518728815,
       "w": 320,
-      "h": 179,
+      "h": 316,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "opinione pubblica come arma burocratica",
+        "title": "Public Opinion as a Bureaucratic Weapon",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Cultural studies",
+          "Critical design",
+          "Law"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "New concept that envisions public opinion as a new bureaucratic weapon, an external yet powerful force capable of influencing, accelerating, or obstructing institutional processes",
         "links": [],
         "files": []
       }
@@ -1595,96 +1598,106 @@
     },
     {
       "id": "n0q6izio",
-      "x": 4308.527653809845,
-      "y": 2208.1791361950363,
+      "x": 4315.033883930349,
+      "y": 2133.357489809245,
       "w": 320,
-      "h": 179,
+      "h": 445,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "caso ilaria salis",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
+        "title": "The Case of Ilaria Salis",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Media studies"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Ilaria Salis, an Italian anti-fascist activist detained in Hungary for alleged involvement in an attack on neo-Nazi demonstrators, was elected to the European Parliament with strong public backing. Her election granted her parliamentary immunity, allowing her to return to Italy. Hungarian authorities later requested the waiver of her immunity, initiating a review within the European Parliament. The plenary ultimately voted to uphold it by a narrow margin, sparking widespread political debate. The case highlights the power of public opinion and the intersection between legal systems, political legitimacy, and human rights protection.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nmllwbum",
-      "x": 5192.081433491221,
-      "y": 1907.7927040581271,
+      "x": 5126.181118703054,
+      "y": 2002.6891573530875,
       "w": 320,
-      "h": 540,
+      "h": 568,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "problematica su cui riflettere: ",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
+        "title": "Problem to reflect on",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Cultural studies",
+          "Media studies"
         ],
         "tags": [],
-        "desc": "Una delle questioni più rilevanti della società contemporanea riguarda il rapporto tra legge, burocrazia e opinione pubblica. La legge e i meccanismi burocratici che la regolano sono strumenti dotati di valore assoluto, validi indipendentemente dal contesto o dal caso specifico. Tuttavia, la realtà mostra che questo principio non è sempre così saldo: vi sono situazioni in cui individui che hanno agito al di fuori della legalità vengono sostenuti, giustificati o legittimati dall’opinione pubblica.\nQuesta dinamica solleva interrogativi profondi: la legge deve essere applicata rigidamente, anche quando entra in conflitto con la sensibilità comune? Oppure è legittimo che la percezione collettiva influenzi, direttamente o indirettamente, gli esiti dei procedimenti giudiziari? In altre parole, la giustizia deve rimanere impermeabile al consenso sociale, o deve tenerne conto per rimanere aderente alla realtà e alle evoluzioni culturali della società?",
+        "desc": "One of the most significant issues in contemporary society concerns the relationship between law, bureaucracy, and public opinion. The law, along with the bureaucratic mechanisms that regulate it, is generally regarded as an absolute system, valid regardless of context or circumstance. However, reality shows that this principle is not always so firm: there are situations in which individuals who have acted outside the law are supported, justified, or even legitimized by public opinion.\n\nThis dynamic raises questions: should the law be applied rigidly, even when it clashes with common sentiment? Or is it legitimate for collective perception to influence, directly or indirectly, the outcomes of judicial proceedings? In other words, should justice remain impermeable to social consensus, or must it take it into account in order to stay aligned with reality and the cultural evolution of society?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "niqpie8v",
-      "x": 4788.293047669049,
-      "y": 1870.442617213962,
+      "x": 4777.473935786389,
+      "y": 1999.6290212547055,
       "w": 320,
-      "h": 489,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "scenario",
+        "title": "Scenery",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Media studies",
+          "Law"
         ],
         "tags": [],
-        "desc": "Immaginiamo un sistema in cui l’opinione pubblica non resti confinata a una dimensione esterna e simbolica, ma possa intervenire in maniera formale attraverso procedure burocratiche. In questo contesto, la voce collettiva non sarebbe più solo un fattore di pressione indiretta, ma diventerebbe parte integrante dei processi giudiziari (una nuova “arma” burocratica nelle mani dell’opinione pubblica).\nLa distanza tra legge e sensibilità comune si ridurrebbe, ma al tempo stesso si aprirebbe il rischio che la giustizia non fosse più guidata soltanto da principi legali, bensì anche dal parere collettivo, dalle emozioni del momento o dalle narrazioni mediatiche dominanti.\n\nwhat-if:\nE se l’opinione pubblica potesse intervenire tramite vie burocratiche per opporsi a decisioni giudiziarie?",
+        "desc": "Let’s imagine a system in which public opinion is no longer confined to an external and symbolic dimension, but can formally intervene through bureaucratic procedures. In this context, the collective voice would no longer be just a factor of indirect pressure, but would become an integral part of judicial processes, a new “bureaucratic weapon” in the hands of public opinion.\n\nwhat if public opinion could intervene through bureaucratic channels to oppose judicial decisions?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nbqkiz47",
-      "x": 5558.057052987389,
-      "y": 1908.810299013201,
+      "x": 5127.15732942609,
+      "y": 2586.6627068953694,
       "w": 320,
-      "h": 388,
+      "h": 411,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "definizione e motivo del conflitto:",
+        "title": "Definition and reason for the conflict:",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "In questo contesto evidenziamo un duplice conflitto: innanzitutto l’opinione pubblica può adoperare la burocrazia per combattere lo stesso sistema burocratico. Tramite provvedimenti legali e totalmente regolamentati sarà possibile intervenire concretamente per cambiare le sorti di una decisione giudiziaria.\nUn secondo conflitto evidente è tra  il sistema burocratico, nato con l’obiettivo di garante dell’imparzialità e legalità, e l’opinione pubblica mossa principalmente da empatia, da emozioni. \n",
+        "desc": "In this context, we can identify a dual conflict: first, public opinion can use bureaucracy as a means to fight the bureaucratic system itself. Through legal and fully regulated procedures, it would become possible to concretely intervene and alter the outcome of a judicial decision.\nA second, equally evident conflict arises between the bureaucratic system, originally designed to guarantee impartiality and legality, and public opinion, which is primarily driven by empathy and emotion.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ngl0xm8l",
-      "x": 5551.305356600201,
-      "y": 2328.9527955370977,
+      "x": 5529.521435817707,
+      "y": 1992.0481999004169,
       "w": 320,
       "h": 472,
       "group": null,
@@ -1705,8 +1718,8 @@
     },
     {
       "id": "ncolsqav",
-      "x": 5545.801963825822,
-      "y": 2831.646183676671,
+      "x": 5526.949900184917,
+      "y": 2484.678812318307,
       "w": 320,
       "h": 271,
       "group": null,
@@ -3018,8 +3031,8 @@
     },
     {
       "id": "n21o1zh1",
-      "x": 4311.342547908811,
-      "y": 1428.7039133468256,
+      "x": 4683.342547908811,
+      "y": 1468.7039133468256,
       "w": 320,
       "h": 143,
       "group": null,
@@ -3038,28 +3051,8 @@
     },
     {
       "id": "nhqqeq9q",
-      "x": 3856.3681402677603,
-      "y": 2409.8498966738534,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2025-10-29",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nvr1o4xk",
-      "x": 4328.36814026776,
-      "y": 3469.8498966738534,
+      "x": 6018.467360372571,
+      "y": 3493.7415925282535,
       "w": 320,
       "h": 143,
       "group": null,
@@ -4164,11 +4157,6 @@
       "dashed": false
     },
     {
-      "s": "nhqqeq9q",
-      "t": "nvr1o4xk",
-      "dashed": false
-    },
-    {
       "s": "najakot8",
       "t": "nxv6198r",
       "dashed": false
@@ -4211,50 +4199,50 @@
   ],
   "vocab": {
     "areas": [
-      "Design research",
-      "Sociology",
-      "Envirionment",
-      "Spatial design",
-      "Cultural studies",
-      "Hystory",
-      "Philosophy",
-      "Installation",
-      "Art",
-      "Photography",
-      "Documentary",
-      "Semantic research",
-      "Feelings",
-      "Literature",
-      "Definition",
-      "Emotional response",
-      "Media studies",
       "Conflict",
-      "Critical design",
-      "Communication",
-      "Socio-political",
-      "Law",
       "Power",
-      "Public administration"
+      "Law",
+      "Media studies",
+      "Cultural studies",
+      "Critical design",
+      "Public administration",
+      "Socio-political",
+      "Communication",
+      "Emotional response",
+      "Definition",
+      "Literature",
+      "Feelings",
+      "Semantic research",
+      "Documentary",
+      "Photography",
+      "Art",
+      "Installation",
+      "Philosophy",
+      "Hystory",
+      "Spatial design",
+      "Envirionment",
+      "Sociology",
+      "Design research"
     ],
     "tags": [
-      "Feelings",
-      "Emotion",
-      "Social tension",
-      "Opposition",
-      "Conflict",
+      "Power abuse",
       "Corruption",
-      "Power abuse"
+      "Conflict",
+      "Opposition",
+      "Social tension",
+      "Emotion",
+      "Feelings"
     ],
     "type": [
-      "Research",
-      "Collection",
-      "Moodboard",
-      "Conclusione",
-      "Observation",
-      "Source",
       "Concept",
+      "Source",
+      "Brief",
       "Feedback",
-      "Brief"
+      "Observation",
+      "Conclusione",
+      "Moodboard",
+      "Collection",
+      "Research"
     ]
   }
 }
