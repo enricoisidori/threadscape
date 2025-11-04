@@ -1022,7 +1022,7 @@
       "x": 2208.9475485804796,
       "y": -718.505203013334,
       "w": 320,
-      "h": 584,
+      "h": 551,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -2400,7 +2400,7 @@
       "x": 9239.188905592582,
       "y": 2390.5872204772854,
       "w": 320,
-      "h": 704,
+      "h": 679,
       "group": null,
       "data": {
         "date": "2025-10-28",
@@ -2429,11 +2429,11 @@
       "x": 8352.77825832998,
       "y": 1144.3321096413586,
       "w": 320,
-      "h": 916,
+      "h": 917,
       "group": null,
       "data": {
         "date": "2025-10-28",
-        "title": "The Ethical Cabinet",
+        "title": "The Ethical Cabinet(descarted)",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": null,
@@ -2588,14 +2588,14 @@
     },
     {
       "id": "nxysa265",
-      "x": 10418.277657848452,
+      "x": 10420.388414210214,
       "y": 2390.7814409963466,
       "w": 320,
       "h": 623,
       "group": null,
       "data": {
         "date": "2025-10-28",
-        "title": "Social media communication",
+        "title": "Social media communication(descarted)",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": null,
@@ -2637,6 +2637,208 @@
         "desc": "",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "ngwhljje",
+      "x": 10990.402718276144,
+      "y": 2174.2250703376685,
+      "w": 320,
+      "h": 585,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "UNEC",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Inspired by ice and frozen aesthetic and image manipulation through gradient and effects",
+        "links": [],
+        "files": [
+          {
+            "name": "moodboard prop 2.png",
+            "size": 22767893,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/moodboard_prop_2.jpg"
+          },
+          {
+            "name": "font 1.png",
+            "size": 2143041,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/font_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nigmgfkx",
+      "x": 10939.323080992785,
+      "y": 2961.227181595688,
+      "w": 320,
+      "h": 585,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "ECP",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Inspured by chemicals used in the laboratory and the alarmant feeling used by modern ONGs",
+        "links": [],
+        "files": [
+          {
+            "name": "moodboard.png",
+            "size": 11639479,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/moodboard.jpg"
+          },
+          {
+            "name": "font.png",
+            "size": 3112599,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/font.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nuoz9o75",
+      "x": 11442.224134785307,
+      "y": 2214.418157677013,
+      "w": 320,
+      "h": 350,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Usage",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "poster 1.png",
+            "size": 31148890,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/poster_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n70wd0wx",
+      "x": 11375.961085982603,
+      "y": 3030.245357856506,
+      "w": 320,
+      "h": 391,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Usage",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Poster",
+        "links": [],
+        "files": [
+          {
+            "name": "poster 2.png",
+            "size": 25713988,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/poster_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnyt5jjq",
+      "x": 9003.902301837756,
+      "y": 1770.113688910308,
+      "w": 320,
+      "h": 526,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Cryometer",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "The user selects a culture from those offered on the screen. The device consists of three knobs, each associated with a parameter that indicates that culture's conflict condition. The user sets a value for each knob. The machine estimates the cryogenesis time by averaging the parameters. During the interaction, a visualization will be visible on the screen, featuring distortions that vary according to the parameters entered",
+        "links": [],
+        "files": [
+          {
+            "name": "Frame-1.png",
+            "size": 1800388,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Frame-1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3rwqok2",
+      "x": 8997.797202536398,
+      "y": 1086.9016857292045,
+      "w": 320,
+      "h": 576,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Cryocare",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "The device is activated by the warmth of the user’s hands. One of the available avatars from a cryopreserved culture appears (selected at random). The avatar has specific needs to be fulfilled, depending on their culture (e.g., eating traditional food, dressing in customary clothing, performing rituals or traditions). Once these needs are met, the user gains the avatar’s trust and can learn the reason behind their cryopreservation. At the end, the user can leave a voice message that will be recorded and translated into the avatar’s language, so that it can be heard in the future when the person is revived.",
+        "links": [],
+        "files": [
+          {
+            "name": "Frame.png",
+            "size": 2398013,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Frame.jpg"
+          }
+        ]
       }
     }
   ],
@@ -3250,39 +3452,70 @@
       "s": "n5bl14qz",
       "t": "n4bgal0g",
       "dashed": false
+    },
+    {
+      "s": "nxysa265",
+      "t": "ngwhljje",
+      "dashed": false
+    },
+    {
+      "s": "nxysa265",
+      "t": "nigmgfkx",
+      "dashed": false
+    },
+    {
+      "s": "ngwhljje",
+      "t": "nuoz9o75",
+      "dashed": false
+    },
+    {
+      "s": "nigmgfkx",
+      "t": "n70wd0wx",
+      "dashed": false
+    },
+    {
+      "s": "nd1eepiv",
+      "t": "n3rwqok2",
+      "dashed": false
+    },
+    {
+      "s": "nd1eepiv",
+      "t": "nnyt5jjq",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "Machine",
-      "People",
-      "Design research",
-      "Communication",
-      "Media studies",
-      "Amare i robot?",
-      "Critical theory",
-      "Conflicts",
-      "Culture",
-      "Critical design",
+      "Branding",
+      "Socio-cultural",
       "Socio-political",
-      "Socio-cultural"
+      "Critical design",
+      "Conflicts",
+      "Critical theory",
+      "Amare i robot?",
+      "Media studies",
+      "Communication",
+      "Design research",
+      "People"
     ],
     "tags": [
-      "Wwf",
-      "Source",
-      "Limited scope",
+      "Already explored",
       "Discarded",
-      "Already explored"
+      "Limited scope",
+      "Source"
     ],
     "type": [
+      "Sketch",
       "Concept",
+      "Artefact",
       "Output",
-      "Source",
-      "Case study",
-      "Finding",
-      "Brief",
+      "Collection",
       "Feedback",
-      "Collection"
+      "Brief",
+      "Finding",
+      "Case study",
+      "Source"
     ]
   }
 }
