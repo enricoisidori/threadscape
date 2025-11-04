@@ -1407,8 +1407,8 @@
     },
     {
       "id": "n9qw5t6y",
-      "x": 11378.253240898324,
-      "y": 221.63397207371543,
+      "x": 10978.253240898324,
+      "y": 1397.6339720737153,
       "w": 320,
       "h": 522,
       "group": null,
@@ -1456,8 +1456,8 @@
     },
     {
       "id": "nvpwaiim",
-      "x": 10954.56010192974,
-      "y": 440.8657454876804,
+      "x": 10554.56010192974,
+      "y": 1616.8657454876802,
       "w": 320,
       "h": 281,
       "group": null,
@@ -1478,8 +1478,8 @@
     },
     {
       "id": "naes1m0q",
-      "x": 10403.362770460306,
-      "y": 259.82585045145345,
+      "x": 10003.362770460306,
+      "y": 1435.8258504514533,
       "w": 320,
       "h": 798,
       "group": null,
@@ -1527,8 +1527,8 @@
     },
     {
       "id": "n2h8n6uk",
-      "x": 9872.371745216085,
-      "y": 471.6766215606632,
+      "x": 9597.490665910862,
+      "y": 1477.514889415766,
       "w": 320,
       "h": 357,
       "group": null,
@@ -1547,6 +1547,241 @@
         "desc": "Branding is good. Payoff must be revised. The final naming is \"treeal\".\nInteraction is good too, data can be shown on a web app maybe? Show dimensions of the prototype.\nThe sensation of paradox must be forced trough exaggerated data and visualization of the journey from a tree to an object. ",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "n2ovph1d",
+      "x": 8134.152592411001,
+      "y": 1660.5071113879762,
+      "w": 320,
+      "h": 328,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Feedback",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "It's important to focus on what we want to communicate. Signaling what tree to kill doesn't work (legally speaking). How can we be coherent with the brand? Final project must not be an app. Maybe we should focus on the buying funnel.\nWe could make the metaphorical act of killing a tree phisical. The brand must be really convinced that what it is doing is good for the planet. ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nirlusl5",
+      "x": 8392.116298548872,
+      "y": 486.3445440165982,
+      "w": 320,
+      "h": 434,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Exploring option 1",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [
+          "Speculation"
+        ],
+        "desc": "We are developing the first scenario. We must find a solution for the interaction.\nOur product will be a tech tree and there will be a buying frenzy about it: paradox of overconsuming and greenwashing. Our idea is to make an app that lets user signal trees in order to kill them. User will gain credits that can be used to buy tech trees. It can be seen as a refurbished product program: bring us your old tree and we will give you a brand new one.",
+        "links": [],
+        "files": [
+          {
+            "name": "revisione 10.10.pdf",
+            "size": 2771296,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/revisione_10.10.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nkbohitu",
+      "x": 8542.411590237754,
+      "y": 1144.8975268394884,
+      "w": 320,
+      "h": 451,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Developing option 1",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [
+          "Ideas",
+          "Speculation"
+        ],
+        "desc": "We want our trees/objects to be collectibles but also to be sold as health devices. There will be three sizes. Once the customer gets to the shop, he will be able to customize his three. In order to finalize the transaction, he will be requested to \"prove\" that he understant the need to cut old threes in order to make better ones. He will do so by using a remote that works like an axe and he will have to cut down a tree. How many trees will depend on what kind of customization he will choose.",
+        "links": [],
+        "files": [
+          {
+            "name": "revisione 14.10.pdf",
+            "size": 3679598,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/revisione_14.10.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsw2kvdd",
+      "x": 8563.057514832148,
+      "y": 1874.1334192884071,
+      "w": 320,
+      "h": 378,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Revisione",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "Conflict is not clear anymore. We should find a bad thing to do in order to make a good one (for the planet): make a list of unsustainable actions. Axe does not work. We should underline the paradox of doing bad things thinking we are doing something good.\nWhat the interaction should do is making people realize that humas are not sustainable for the planet. We must exaggerate the data: data is extremely important. It's ok if the tree in the end will also be our interactive machine.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwb1rlt5",
+      "x": 8935.21393695726,
+      "y": 1589.0720705146882,
+      "w": 320,
+      "h": 405,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Making a step back. ",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "We tried to take a step back and make a list of unsustainable actions we do in order to do something good for the planet. Es. The ocean cleanup.\nWe stopped thinking about the interaction because it is driving us away from our goal. We are thinking about being a ong/tech startup. That will need funding in order to plant tech trees instead of real ones: the funding will come from the small tech tree that will work as already seen.",
+        "links": [],
+        "files": [
+          {
+            "name": "revisione 17.10.pdf",
+            "size": 7689282,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/revisione_17.10.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4ydt5oe",
+      "x": 9008.173002515,
+      "y": 460.8030454534189,
+      "w": 320,
+      "h": 378,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Review",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "We should make some reasearch on other companies that need to collect their resources. The company must be coherent with the mission. The machine will need to be a touch point for customer and company: datas are absolutely fundamental. The tech tree must not be only a product: it needs to have a communication function. Show the tree. \nDecide if we want to be a company or a startup. Ong doesn't work for us because they are not designed to make profit. Start with branding, we will understand the interaction later.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nomkztqy",
+      "x": 8930.327188975363,
+      "y": 995.7630142316261,
+      "w": 320,
+      "h": 363,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "What are we going to be?",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "Startup vs company",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2025-11-04 alle 15.18.11.png",
+            "size": 446231,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2025-11-04_alle_15.18.11.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nk7iomyx",
+      "x": 9521.409785954105,
+      "y": 484.6629230775941,
+      "w": 320,
+      "h": 566,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Branding",
+        "type": "Ideas",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Ideas",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "On the 21, 24 and 28 /10 review we have progressed and finalized the branding part: values, mission, vision, golden circle, tone of voice, moodboards.\nWe have also come un with the final idea for the interaction: wood covers that will interact with the tree and also trigger data display.\nLogos, palette, fonts and photography are still tbd, we are currently working on the first two. Naming is still tbd: treeal or cortex",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2025-11-04 alle 15.53.38.png",
+            "size": 911141,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2025-11-04_alle_15.53.38.jpg"
+          },
+          {
+            "name": "revisione 28_10.pdf",
+            "size": 7412404,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/revisione_28_10.pdf"
+          }
+        ]
       }
     }
   ],
@@ -1835,31 +2070,86 @@
       "s": "n2h8n6uk",
       "t": "naes1m0q",
       "dashed": false
+    },
+    {
+      "s": "nsf45d7b",
+      "t": "nirlusl5",
+      "dashed": false
+    },
+    {
+      "s": "nirlusl5",
+      "t": "n2ovph1d",
+      "dashed": false
+    },
+    {
+      "s": "n2ovph1d",
+      "t": "nkbohitu",
+      "dashed": false
+    },
+    {
+      "s": "nkbohitu",
+      "t": "nsw2kvdd",
+      "dashed": false
+    },
+    {
+      "s": "nsw2kvdd",
+      "t": "nwb1rlt5",
+      "dashed": false
+    },
+    {
+      "s": "nsf45d7b",
+      "t": "nwb1rlt5",
+      "dashed": false
+    },
+    {
+      "s": "nwb1rlt5",
+      "t": "n4ydt5oe",
+      "dashed": false
+    },
+    {
+      "s": "nwb1rlt5",
+      "t": "nomkztqy",
+      "dashed": false
+    },
+    {
+      "s": "nomkztqy",
+      "t": "n4ydt5oe",
+      "dashed": false
+    },
+    {
+      "s": "n4ydt5oe",
+      "t": "nk7iomyx",
+      "dashed": false
+    },
+    {
+      "s": "nk7iomyx",
+      "t": "n2h8n6uk",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Design research",
       "Communication",
-      "Prototype",
+      "Ideas",
+      "What are we going to be?",
+      "Design research",
       "Research",
       "Media studies",
       "Socio-political",
       "Critical theory",
-      "Ideas",
       "Critical design"
     ],
     "tags": [
-      "Ideas",
       "Speculation",
+      "Ideas",
       "Research",
       "Scenarios"
     ],
     "type": [
+      "Ideas",
       "Feedback",
       "Brief",
-      "Internal review",
-      "Ideas"
+      "Internal review"
     ]
   }
 }
