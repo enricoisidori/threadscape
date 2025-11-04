@@ -4260,8 +4260,8 @@
     },
     {
       "id": "n2l6vikq",
-      "x": 14337.84747230058,
-      "y": 4313.6824163964375,
+      "x": 14193.84747230058,
+      "y": 4317.6824163964375,
       "w": 320,
       "h": 675,
       "group": null,
@@ -4295,10 +4295,10 @@
     },
     {
       "id": "n4r64mo5",
-      "x": 14341.743440125738,
-      "y": 5175.853806213249,
+      "x": 14193.743440125738,
+      "y": 5172.013596788474,
       "w": 320,
-      "h": 1014,
+      "h": 991,
       "group": null,
       "data": {
         "date": "2025-10-26",
@@ -4316,7 +4316,6 @@
         "tags": [
           "Metric governance",
           "Data representation",
-          "Biometric data",
           "Algorithmic governance",
           "Socio-political"
         ],
@@ -4344,10 +4343,10 @@
     },
     {
       "id": "nl3tszoz",
-      "x": 15229.423710681715,
+      "x": 15079.419220769052,
       "y": 5591.885687849509,
       "w": 320,
-      "h": 559,
+      "h": 536,
       "group": null,
       "data": {
         "date": "2025-10-26",
@@ -4365,7 +4364,6 @@
         "tags": [
           "Metric governance",
           "Data representation",
-          "Biometric data",
           "Algorithmic governance",
           "Socio-political"
         ],
@@ -4428,10 +4426,10 @@
     },
     {
       "id": "n0am68sj",
-      "x": 14786.12254291413,
-      "y": 5157.256681107065,
+      "x": 14634.282333489356,
+      "y": 5153.416471682291,
       "w": 320,
-      "h": 832,
+      "h": 809,
       "group": null,
       "data": {
         "date": "2025-10-26",
@@ -4449,7 +4447,6 @@
         "tags": [
           "Metric governance",
           "Data representation",
-          "Biometric data",
           "Algorithmic governance",
           "Socio-political"
         ],
@@ -4469,10 +4466,10 @@
     },
     {
       "id": "ngmp8ul9",
-      "x": 14789.976483853783,
+      "x": 14638.136274429009,
       "y": 6027.620515658736,
       "w": 320,
-      "h": 577,
+      "h": 646,
       "group": null,
       "data": {
         "date": "2025-10-26",
@@ -4487,7 +4484,12 @@
           "Critical design",
           "Product design"
         ],
-        "tags": [],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
         "desc": "Chrono comprises a 3D-printed grey plastic square designed for handheld operation, approximately 0.5mm in thickness. The object features a raised circular element at its center, within which rectangular LED segments are arranged radially and illuminated in white. A black plastic handle is integrated at the lower right corner, facilitating manual manipulation.",
         "links": [],
         "files": [
@@ -4504,10 +4506,10 @@
     },
     {
       "id": "nejrvsss",
-      "x": 13820.119553900942,
-      "y": 6485.6484091351995,
+      "x": 13344.119553900942,
+      "y": 7229.6484091351995,
       "w": 320,
-      "h": 671,
+      "h": 578,
       "group": null,
       "data": {
         "date": "2025-10-27",
@@ -4542,31 +4544,183 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-10-29_at_09.56.54.jpg"
-          },
-          {
-            "name": "Screenshot 2025-10-29 at 10.03.47.png",
-            "size": 38053,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/Screenshot_2025-10-29_at_10.03.47.jpg"
           }
         ]
       }
     },
     {
-      "id": "nr2bdrxf",
-      "x": 15635.527815320429,
-      "y": 5055.225569557189,
+      "id": "neeva5zv",
+      "x": 15596.134822902444,
+      "y": 5148.10915322362,
       "w": 320,
-      "h": 772,
+      "h": 802,
       "group": null,
       "data": {
         "date": "2025-10-28",
-        "title": "Project Review",
+        "title": "Project Reviews",
         "type": "Feedback",
-        "action": null,
+        "action": "Making",
         "mainArea": null,
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Temporal sovereignty",
+          "Data representation",
+          "Identities",
+          "Metric system",
+          "Alternative values",
+          "Speculative projects",
+          "Algorithmic governance",
+          "Data perception",
+          "Socio-political",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "The project review identified critical refinements needed for a speculative design exploring temporal governance. Key concerns include: the logo's inadequate representation of time (the letter 'C' lacks temporal symbolism; circular forms better convey chronological concepts); parameter distribution requiring greater coherence with the scenario's competitive framework; and the experience design needing stronger conflict narratives. The device functionality must explicitly demonstrate geopolitical competition—framing participants as \"red team\" versus \"blue team\" representing different hemispheres, with periodic time zone shifts determined by collective performance metrics. The naming convention \"SYNCHRO\" requires revision to better reflect regulatory authority rather than consumer products. Interactive elements should employ simple, universally recognized tasks (memory games, puzzles) that generate quantifiable data within 2-5 minute engagements, maintaining scenario plausibility while measuring synchronized time, productivity, and social cohesion parameters through NFC-enabled tokens or state-specific data modules.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nhhdddo0",
+      "x": 16076.358910809695,
+      "y": 3884.4249686543044,
+      "w": 320,
+      "h": 587,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "Brand Update",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Communication",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Temporal sovereignty",
+          "Data representation",
+          "Identities"
+        ],
+        "desc": "Vision\nTo be the change towards a fairer world, where time belongs to those who deserve it.\n\nValues\n• rigour\n• transparency\n• meritocracy\n• efficiency\n\nMission\nWe work to measure every moment of individual time, rewarding the nation that best synchronises the rhythm of its citizens.\n\nPayoff\n‘Time for change’\n‘In time, aligned’\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nq1whvx4",
+      "x": 16084.134822902444,
+      "y": 5271.863712237631,
+      "w": 320,
+      "h": 588,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "Experience Idea",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Metric governance",
+          "Data representation",
+          "Biometric data",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "Synchronized Time measures the degree to which individual rhythms align with collective patterns. The system records time spent by individuals performing activities in synchrony with their community, detecting temporal coincidence between personal and collective actions. Users complete assigned tasks while a device measures and records their performance. A machine translates this data into infographics displaying a global ranking that updates in real-time with newly submitted results. This framework quantifies temporal conformity, revealing how personal time allocation either aligns with or deviates from established collective norms and schedules.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nb410u9n",
+      "x": 16563.97503232722,
+      "y": 4860.961303786734,
+      "w": 320,
+      "h": 773,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": " Individual Interaction",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Metric governance",
+          "Data representation",
+          "Biometric data",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "Tests evaluating individual performance make temporal pressure tangible, aligned with a scenario where citizens compete nationally through geolocation-based monitoring. The \"Stop the Time\" test requires users to halt an accelerating chronometer at exactly 10.00 seconds, revealing millisecond deviations from the target. This exercise examines collective temporal perception: uniform time awareness among citizens indicates stable, shared temporal culture, while personal discrepancies expose the gap between subjective experience and common measurement. A variant displays symbols or sounds at regular then irregular intervals, requiring users to reproduce the sequence's temporal cadence—not merely its order. As intervals decrease or vary randomly, creating disorientation through accelerating or decelerating rhythms, temporal perception becomes distorted. A final test presents an image for observation without pre-announced tasks. This investigates conscious use of observation time: absent precise instructions, participants autonomously distribute attention and select details to memorize, revealing their capacity to manage uncertainty and transform limited time into learning opportunity.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nd7j3yqz",
+      "x": 16567.975032327216,
+      "y": 5668.126329981327,
+      "w": 320,
+      "h": 706,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "Collective experience ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Metric governance",
+          "Data representation",
+          "Biometric data",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "Temporal performance tests evaluate individual capabilities while rendering perceptible the pressure exerted on time usage, consistent with the scenario framework. Two individuals engage in synchronized motor tasks requiring execution within narrow temporal windows or adherence to imposed rhythms (metronome, visual cues). Maximum synchronization demands mutual attention, reciprocal listening, and shared temporal sensitivity, where deviations signal perceptual misalignment. Example: participants pass a ticking chronometer every three seconds for thirty seconds, measuring deviations from ideal timing. Competitive variants include memory reconstruction under time constraints (symbol grid replication with five-second penalties per error) and reflex challenges (simultaneous object-touching within 0.2-second windows for double points, or pattern-recognition button responses with escalating speed). These exercises expose temporal discipline as both individual capacity and interpersonal coordination demand.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncqe8pa2",
+      "x": 16567.97503232722,
+      "y": 6387.244864007905,
+      "w": 320,
+      "h": 505,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "Comunication Kit Update",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
         "areas": [
           "Speculative design",
           "Design research",
@@ -4574,138 +4728,262 @@
           "Critical design",
           "Product design"
         ],
-        "tags": [],
-        "desc": "The project review identified critical refinements needed for a speculative design exploring temporal governance. Key concerns include: the logo's inadequate representation of time (the letter 'C' lacks temporal symbolism; circular forms better convey chronological concepts); parameter distribution requiring greater coherence with the scenario's competitive framework; and the experience design needing stronger conflict narratives. \n\nThe device functionality must explicitly demonstrate geopolitical competition, e.g. framing participants as \"red team\" versus \"blue team\" representing different hemispheres, with periodic time zone shifts determined by collective performance metrics. \n\nThe naming \"SYNCHRO\" requires revision to better reflect regulatory authority rather than consumer products. \n\nInteractive elements should employ simple, universally recognized tasks (e.g. memory games or puzzles) that generate quantifiable data within 2-5 minute engagements, maintaining scenario plausibility while measuring synchronized time, productivity, and social cohesion parameters through NFC/bluetooth/wi-fi tokens or state-specific data modules.\n",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "ngt4x8fb",
-      "x": 16110.437016496442,
-      "y": 3838.624196962177,
-      "w": 320,
-      "h": 678,
-      "group": null,
-      "data": {
-        "date": "2025-10-29",
-        "title": "Synchro Brand Identity Update",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Chronopolitics",
-          "Speculative design",
-          "Critical data studies",
-          "Socio-political",
-          "Metric system"
-        ],
-        "tags": [
-          "Metric governance",
-          "Biometric data",
-          "Algorithmic governance",
-          "Socio-political",
-          "Metrics distortion"
-        ],
-        "desc": "Vision\nTo be the change towards a fairer world, where time belongs to those who deserve it.\n\nValues\n• rigour\n• transparency\n• meritocracy\n• efficiency\n\nMission\nWe work to measure every moment of individual time, rewarding the nation that best synchronises the rhythm of its citizens.\n\nPayoff\n‘Time for change’\n‘In time, aligned’",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n1k590hq",
-      "x": 16116.076392337998,
-      "y": 5097.711638353029,
-      "w": 320,
-      "h": 678,
-      "group": null,
-      "data": {
-        "date": "2025-10-29",
-        "title": "Experience Draft Idea",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [
-          "Chronopolitics",
-          "Speculative design",
-          "Critical data studies",
-          "Sociology of technology",
-          "Data ethics"
-        ],
         "tags": [
           "Metric governance",
           "Data representation",
-          "Measuring the unmeasurable",
-          "Socio-political",
-          "Metrics distortion"
+          "Algorithmic governance",
+          "Socio-political"
         ],
-        "desc": "Synchronized Time measures the degree to which individual rhythms align with collective patterns. The system records time spent by individuals performing activities in synchrony with their community, detecting temporal coincidence between personal and collective actions. Users complete assigned tasks while a device measures and records their performance. A machine translates this data into infographics displaying a global ranking that updates in real-time with newly submitted results. Two implementation options exist: Option A employs geolocation to have all participants compete for their nation (Italy), while Option B creates direct competition between two individuals, emphasizing interpersonal conflict. This framework quantifies temporal conformity, revealing how personal time allocation either aligns with or deviates from established collective norms and schedules.",
+        "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 14.34.23.png",
+            "size": 541789,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_14.34.23.jpg"
+          }
+        ]
       }
     },
     {
-      "id": "nnx9ul8r",
-      "x": 16514.036377414068,
-      "y": 4743.593016719737,
+      "id": "niwtpvs6",
+      "x": 16908.76821902854,
+      "y": 2732.719285589368,
       "w": 320,
-      "h": 863,
+      "h": 804,
       "group": null,
       "data": {
         "date": "2025-10-30",
-        "title": "Single Experience ",
-        "type": "Concept",
+        "title": "1st visual identity",
+        "type": "Collection",
         "action": "Making",
-        "mainArea": "Interaction",
+        "mainArea": "Communication",
         "areas": [
-          "Chronopolitics",
           "Speculative design",
-          "Critical data studies",
-          "Cognitive science",
-          "Design research"
+          "Design research",
+          "Communication",
+          "Branding",
+          "Visual communication"
         ],
         "tags": [
           "Metric governance",
-          "Measuring the unmeasurable",
-          "Subjective reality",
-          "Data perception",
-          "Cognitive bias"
+          "Socio-political",
+          "Identities",
+          "Data representation"
         ],
-        "desc": "Tests evaluating individual performance make temporal pressure tangible, aligned with a scenario where citizens compete nationally through geolocation-based monitoring. \n\nThe \"Stop the Time\" test requires users to halt an accelerating chronometer at exactly 10.00 seconds, revealing millisecond deviations from the target. This exercise examines collective temporal perception: uniform time awareness among citizens indicates stable, shared temporal culture, while personal discrepancies expose the gap between subjective experience and common measurement. \n\nA variant displays symbols or sounds at regular then irregular intervals, requiring users to reproduce the sequence's temporal cadence—not merely its order. As intervals decrease or vary randomly, creating disorientation through accelerating or decelerating rhythms, temporal perception becomes distorted. \n\nAnother variant test presents an image for observation without pre-announced tasks. This investigates conscious use of observation time: absent precise instructions, participants autonomously distribute attention and select details to memorize, revealing their capacity to manage uncertainty and transform limited time into learning opportunity.",
+        "desc": "The authoritarian tone of voice establishes a communication framework that deliberately eschews empathy. Instead, it observes, directs, and generates discomfort, making the constant presence of control perceptible to subjects. The visual language employs dark colors to construct an oppressive atmosphere, while yellow functions as both an alarm signal and a symbol of power, reinforcing the hierarchical relationship between the monitoring authority and the monitored individual.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 14.41.18.png",
+            "size": 907831,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_14.41.18.jpg"
+          }
+        ]
       }
     },
     {
-      "id": "n1n0ux2j",
-      "x": 16516.38423725932,
-      "y": 5656.127086531572,
+      "id": "ns4377xg",
+      "x": 16913.439676998696,
+      "y": 3580.76788459462,
       "w": 320,
       "h": 796,
       "group": null,
       "data": {
-        "date": "2025-10-30",
-        "title": "Double Experience ",
-        "type": "Concept",
+        "date": "2025-11-04",
+        "title": "2st visual identity",
+        "type": "Collection",
         "action": "Making",
-        "mainArea": "Interaction",
+        "mainArea": "Communication",
         "areas": [
-          "Chronopolitics",
           "Speculative design",
-          "Critical data studies",
-          "Sociology of technology",
-          "Data ethics"
+          "Design research",
+          "Communication",
+          "Branding",
+          "Visual communication"
         ],
         "tags": [
           "Metric governance",
-          "Measuring the unmeasurable",
-          "Subjective reality",
-          "Data perception",
-          "Metrics distortion"
+          "Socio-political",
+          "Identities",
+          "Data representation"
         ],
-        "desc": "Temporal performance tests evaluate individual capabilities while rendering perceptible the pressure exerted on time usage, consistent with the scenario framework. \n\nFirst \"test\" idea: two individuals engage in synchronized motor tasks requiring execution within narrow temporal windows or adherence to imposed rhythms (metronome, visual cues). Maximum synchronization demands mutual attention, reciprocal listening, and shared temporal sensitivity, where deviations signal perceptual misalignment. Example: participants pass a ticking chronometer every three seconds for thirty seconds, measuring deviations from ideal timing. \n\nAnother variant include memory reconstruction under time constraints (symbol grid replication with five-second penalties per error) and reflex challenges (simultaneous object-touching within 0.2-second windows for double points, or pattern-recognition button responses with escalating speed). These exercises expose temporal discipline as both individual capacity and interpersonal coordination demand.",
+        "desc": "The tone of voice is directive, oriented toward the common good and individual welfare. It promotes order and discipline, inviting action as an act of dedication to the collective. Cool tones convey a sense of rigidity and uniformity, while red emerges as a call to responsibility. This communicative approach frames compliance not as oppression but as civic duty, positioning standardization as a pathway to social cohesion. The visual language reinforces institutional authority through restrained color palettes that signal objectivity and control, while strategic use of red punctuates key messages about accountability. The rhetoric balances appeal to collective benefit with individual obligation, creating a discourse where conformity to metrics becomes synonymous with responsible citizenship and contribution to societal stability.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 14.47.56.png",
+            "size": 768490,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_14.47.56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ns1q3g5s",
+      "x": 17335.892106948966,
+      "y": 2895.753510684146,
+      "w": 320,
+      "h": 491,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "Palette 1st Identity",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Branding",
+          "Visual communication"
+        ],
+        "tags": [
+          "Metric governance",
+          "Socio-political",
+          "Identities",
+          "Data representation"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 14.43.01.png",
+            "size": 747522,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_14.43.01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nakowbrl",
+      "x": 17317.64433110812,
+      "y": 3720.7069695899236,
+      "w": 320,
+      "h": 519,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "Palette 2nd Identity",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Communication",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Socio-political",
+          "Identities",
+          "Data representation"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 14.45.39.png",
+            "size": 366042,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_14.45.39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmkngb6o",
+      "x": 18175.892106948966,
+      "y": 4347.753510684146,
+      "w": 320,
+      "h": 931,
+      "group": null,
+      "data": {
+        "date": "2025-10-31",
+        "title": "Project Reviews",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Temporal sovereignty",
+          "Data representation",
+          "Identities",
+          "Metric system",
+          "Alternative values",
+          "Speculative projects",
+          "Algorithmic governance",
+          "Data perception",
+          "Socio-political",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "The project requires strengthening its narrative framework around temporal synchronization and collective compliance. The experience should emphasize individual alignment with imposed temporal rhythms rather than personal time perception. \n\nKey recommendations include: developing physical data visualizations with tangible feedback mechanisms (LED displays, ambient indicators); refining parameters to directly correlate with circadian alignment (sleep/wake patterns, activity synchronization); implementing wearable monitoring devices that provide haptic feedback reflecting performance pressure; creating an ecosystem that sustains competitive dynamics between individual and collective temporal conformity. \n\nThe communication strategy must clearly articulate how personal rhythms conform to—or deviate from—standardized time, positioning individual adaptation as a societal obligation. \n\nVisual elements should employ systematic grids and contextual imagery rather than metaphorical representations, with copywriting that establishes authoritative tone through precise, impactful messaging demonstrating institutional voice characteristics.",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "npi4yqq6",
+      "x": 16572.358910809693,
+      "y": 4436.76788459462,
+      "w": 320,
+      "h": 546,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "Visual reference infographics ",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Communication",
+          "Data representation",
+          "Visual communication"
+        ],
+        "tags": [
+          "Identities",
+          "Data representation",
+          "Temporal sovereignty",
+          "Metric governance",
+          "Speculative projects"
+        ],
+        "desc": "Visual reference for infographics related to world maps and rankings",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 14.32.05.png",
+            "size": 499337,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_14.32.05.jpg"
+          }
+        ]
       }
     }
   ],
@@ -5762,107 +6040,172 @@
     },
     {
       "s": "npjg7l6k",
-      "t": "nejrvsss",
-      "dashed": false
-    },
-    {
-      "s": "npjg7l6k",
       "t": "n4r64mo5",
       "dashed": false
     },
     {
       "s": "nl3tszoz",
-      "t": "nr2bdrxf",
-      "dashed": false
-    },
-    {
-      "s": "n2l6vikq",
-      "t": "nr2bdrxf",
+      "t": "neeva5zv",
       "dashed": false
     },
     {
       "s": "nejrvsss",
-      "t": "nr2bdrxf",
+      "t": "neeva5zv",
       "dashed": false
     },
     {
-      "s": "nr2bdrxf",
-      "t": "ngt4x8fb",
+      "s": "n2l6vikq",
+      "t": "neeva5zv",
       "dashed": false
     },
     {
-      "s": "nr2bdrxf",
-      "t": "n1k590hq",
+      "s": "npjg7l6k",
+      "t": "neeva5zv",
       "dashed": false
     },
     {
-      "s": "n1k590hq",
-      "t": "nnx9ul8r",
+      "s": "neeva5zv",
+      "t": "nhhdddo0",
       "dashed": false
     },
     {
-      "s": "n1k590hq",
-      "t": "n1n0ux2j",
+      "s": "neeva5zv",
+      "t": "nq1whvx4",
+      "dashed": false
+    },
+    {
+      "s": "nq1whvx4",
+      "t": "nb410u9n",
+      "dashed": false
+    },
+    {
+      "s": "nq1whvx4",
+      "t": "nd7j3yqz",
+      "dashed": false
+    },
+    {
+      "s": "nq1whvx4",
+      "t": "ncqe8pa2",
+      "dashed": false
+    },
+    {
+      "s": "nhhdddo0",
+      "t": "niwtpvs6",
+      "dashed": false
+    },
+    {
+      "s": "nhhdddo0",
+      "t": "ns4377xg",
+      "dashed": false
+    },
+    {
+      "s": "niwtpvs6",
+      "t": "ns1q3g5s",
+      "dashed": false
+    },
+    {
+      "s": "ns4377xg",
+      "t": "nakowbrl",
+      "dashed": false
+    },
+    {
+      "s": "ns1q3g5s",
+      "t": "nmkngb6o",
+      "dashed": false
+    },
+    {
+      "s": "nakowbrl",
+      "t": "nmkngb6o",
+      "dashed": false
+    },
+    {
+      "s": "nhhdddo0",
+      "t": "npi4yqq6",
+      "dashed": false
+    },
+    {
+      "s": "nq1whvx4",
+      "t": "npi4yqq6",
+      "dashed": false
+    },
+    {
+      "s": "npi4yqq6",
+      "t": "nmkngb6o",
+      "dashed": false
+    },
+    {
+      "s": "nb410u9n",
+      "t": "nmkngb6o",
+      "dashed": false
+    },
+    {
+      "s": "nd7j3yqz",
+      "t": "nmkngb6o",
+      "dashed": false
+    },
+    {
+      "s": "ncqe8pa2",
+      "t": "nmkngb6o",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Design research",
-      "Cognitive science",
-      "Data ethics",
-      "Sociology of technology",
-      "Critical data studies",
-      "Chronopolitics",
-      "Metric system",
-      "Socio-political",
-      "Branding",
       "Visual communication",
-      "Product design",
-      "Critical design",
-      "Surveillance studies",
-      "Communication",
-      "Media studies",
-      "Critical theory",
-      "Speculative design"
-    ],
-    "tags": [
-      "Metrics distortion",
-      "Data perception",
-      "Subjective reality",
-      "Measuring the unmeasurable",
-      "Metric governance",
-      "Cognitive bias",
-      "Metrics distortionù",
-      "Metrics distortionretryclaude can make mistakes. please double-check responses",
-      "Socio-political",
       "Data representation",
-      "Metrics distortionretry",
+      "Branding",
+      "Product design",
+      "Design research",
+      "Surveillance studies",
+      "Critical design",
+      "Chronopolitics",
+      "Communication",
+      "Speculative design",
+      "Socio-political",
       "Algorithmic governance",
       "Biometric data",
-      "Identities",
+      "Metric governance",
+      "Data ethics",
+      "Critical theory",
+      "Media studies",
+      "Metric system",
+      "Critical data studies"
+    ],
+    "tags": [
+      "Measuring the unmeasurable",
+      "Socio-political",
+      "Data perception",
+      "Algorithmic governance",
+      "Speculative projects",
       "Alternative values",
       "Metric system",
-      "Body-politics",
+      "Metric governance",
       "Temporal sovereignty",
+      "Data representation",
+      "Identities",
+      "Alternative valuesretry",
       "Deceptive pattern",
-      "Algorithmic bias",
-      "Big data",
-      "Statistic bias",
-      "Mechanical computing",
-      "Senolytics",
-      "Cellular senescence",
+      "Biometric data",
       "Relativity",
-      "Speculative projects"
+      "Cellular senescence",
+      "Senolytics",
+      "Mechanical computing",
+      "Statistic bias",
+      "Cognitive bias",
+      "Big data",
+      "Algorithmic bias",
+      "Subjective reality",
+      "Metrics distortion",
+      "Body-politics"
     ],
     "type": [
-      "Concept",
       "Feedback",
       "Collection",
-      "Source",
-      "Brief",
+      "Concept",
+      "Sketch",
       "Finding",
-      "Sketch"
+      "Source",
+      "Brief"
     ]
   }
 }
