@@ -5486,7 +5486,7 @@
     {
       "id": "nyk8hndc",
       "x": 20807.918152618382,
-      "y": 5409.355038209132,
+      "y": 5408.070729733538,
       "w": 320,
       "h": 814,
       "group": null,
@@ -5597,7 +5597,7 @@
       "data": {
         "date": "2025-11-03",
         "title": "Device proposal",
-        "type": "Sketch",
+        "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -5633,6 +5633,46 @@
             "path": "assets/Screenshot_2025-11-04_at_17.00.28.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "nx2qxcq9",
+      "x": 21990.76775986266,
+      "y": 4668.047645255547,
+      "w": 320,
+      "h": 847,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Project Review",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Temporal sovereignty",
+          "Data representation",
+          "Identities",
+          "Metric system",
+          "Alternative values",
+          "Speculative projects",
+          "Algorithmic governance",
+          "Data perception",
+          "Socio-political",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "The project demonstrates solid foundations and clear scenario articulation, though the visual identity requires refinement. The first proposal proves more direct, while the second appears more unsettling—yet both lack clarity regarding SYNCHRO's institutional nature. The communication strategy remains ambiguous: slogans like \"it's time to be productive\" fail to establish clear authorial voice or institutional positioning. \n\nThe experience proves problematic: simulation-based tasks lack participatory engagement. Visitors must actively modify parameters rather than passively observe. The intervention should reveal how temporal measurement systems constitute power structures, not merely control mechanisms. SYNCHRO should facilitate annual synchronization through simple, direct actions that engage participants in redefining temporal standards. The experience must employ elementary measurement tools—perhaps analog or mechanical references recalling historical timekeeping methods—enabling users to input daily rhythms and directly influence outcomes.",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -6891,67 +6931,86 @@
       "s": "nyk8hndc",
       "t": "nux2rxhz",
       "dashed": false
+    },
+    {
+      "s": "n6r8u8io",
+      "t": "nx2qxcq9",
+      "dashed": false
+    },
+    {
+      "s": "nz7zij3v",
+      "t": "nx2qxcq9",
+      "dashed": false
+    },
+    {
+      "s": "nq8vtsam",
+      "t": "nx2qxcq9",
+      "dashed": false
+    },
+    {
+      "s": "nux2rxhz",
+      "t": "nx2qxcq9",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Metric governance",
-      "Metric system",
-      "Interaction design",
-      "Experience design",
-      "Visual communication",
-      "Speculative design",
-      "Ecpspeculative design",
-      "Socio-political",
-      "Chronopolitics",
-      "Branding",
-      "Communication",
-      "Design research",
-      "Critical data studies",
-      "Media studies",
-      "Critical theory",
-      "Data ethics",
-      "Biometric data",
-      "Algorithmic governance",
-      "Critical design",
-      "Surveillance studies",
       "Product design",
-      "Data representation"
+      "Data representation",
+      "Design research",
+      "Surveillance studies",
+      "Critical design",
+      "Algorithmic governance",
+      "Biometric data",
+      "Data ethics",
+      "Critical theory",
+      "Media studies",
+      "Critical data studies",
+      "Communication",
+      "Branding",
+      "Chronopolitics",
+      "Socio-political",
+      "Speculative design",
+      "Visual communication",
+      "Experience design",
+      "Interaction design",
+      "Metric system",
+      "Metric governance"
     ],
     "tags": [
-      "Speculative projects",
-      "Metrics distortion",
-      "Metric system",
-      "Temporal sovereignty",
-      "Data perception",
+      "Measuring the unmeasurable",
       "Socio-political",
+      "Data perception",
       "Algorithmic governance",
-      "Data representation",
-      "Metric governance",
-      "Identities",
+      "Speculative projects",
       "Alternative values",
-      "Body-politics",
-      "Subjective reality",
-      "Algorithmic bias",
-      "Big data",
-      "Cognitive bias",
-      "Statistic bias",
-      "Mechanical computing",
-      "Senolytics",
-      "Cellular senescence",
-      "Relativity",
-      "Biometric data",
+      "Metric system",
+      "Identities",
+      "Data representation",
+      "Temporal sovereignty",
+      "Metric governance",
       "Deceptive pattern",
-      "Measuring the unmeasurable"
+      "Biometric data",
+      "Relativity",
+      "Cellular senescence",
+      "Senolytics",
+      "Mechanical computing",
+      "Statistic bias",
+      "Cognitive bias",
+      "Big data",
+      "Algorithmic bias",
+      "Subjective reality",
+      "Body-politics",
+      "Metrics distortion"
     ],
     "type": [
-      "Sketch",
       "Concept",
-      "Collection",
       "Feedback",
-      "Brief",
+      "Collection",
+      "Sketch",
+      "Finding",
       "Source",
-      "Finding"
+      "Brief"
     ]
   }
 }
