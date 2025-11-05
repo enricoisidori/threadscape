@@ -1465,22 +1465,25 @@
     },
     {
       "id": "nr9tiro7",
-      "x": 6502.184622448252,
-      "y": 1646.2616129275684,
+      "x": 6438.943309774251,
+      "y": 1156.141439704057,
       "w": 320,
-      "h": 179,
+      "h": 277,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "arma burocratica che ti cancella",
+        "title": "Bureaucratic Identity Eraser",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Scenario that merges identity and weaponry into a bureaucratic instrument that cancels an individual’s administrative identity. ",
         "links": [],
         "files": []
       }
@@ -1585,19 +1588,24 @@
       "x": 5951.636241150121,
       "y": 1284.3332399546957,
       "w": 320,
-      "h": 959,
+      "h": 658,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "Altri casi di soggetti bloccati",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
+        "title": "Targeted International Sanctions",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": null,
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Media studies",
+          "Public administration",
+          "Law",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "Le sanzioni internazionali, adottate da entità come l'OFAC o l'Unione Europea (UE) e le Nazioni Unite (ONU), mirano non solo a interi Paesi ma anche a singole persone, istituzioni o organizzazioni (sanzioni mirate o individuali).\nTra i soggetti bloccati inclusi nelle liste di sanzioni (come la SDN List dell'OFAC e le liste UE/ONU), i contesti e gli individui citati nei risultati di ricerca includono:\nSoggetti associati a programmi di sanzioni contro la Russia: Ad esempio, Kirill Aleksandrovich Dmitriev è menzionato come inserito nella SDN List in relazione alle sanzioni contro la Russia. Altri soggetti designati, inclusi individui ed entità, appartengono non solo alla Federazione Russa, ma anche a paesi terzi come Cina, Turchia, Emirati Arabi Uniti e il Regno Unito, spesso per contrastare le pratiche di elusione delle sanzioni economiche internazionali.\nSettori strategici russi: Sono state designate entità attive in settori come l'energetico, metallurgico, minerario e militare della Federazione Russa. Ad esempio, Limited Liability Company Northern Technologies, Joint Stock Company Kazan Compressor Machinery Plant e Limited Liability Company Gazprom Linde Engineering, attive nella costruzione di un impianto per il gas naturale liquefatto (LNG).\nImprenditori: Viene menzionato l'imprenditore Vladislav Vladimirovich (il cognome completo non è disponibile), che ha proprietà o controlla numerose entità sanzionate.\nCategorie generali di soggetti: Le liste includono anche persone ed entità giuridiche appartenenti a Paesi diversi da quelli con specifici \"programmi\" di sanzioni, come trafficanti di droga, terroristi, commercianti di armi, e istituzioni finanziarie coinvolte in traffici illeciti.\nPaesi soggetti a divieti completi/assoluti: L'OFAC ha creato un divieto totale su tutte le transazioni condotte con qualsiasi ente governativo, gruppo, azienda o individuo con una presenza a Cuba.\nPersone ed entità non statali: Le sanzioni mirate sono dirette contro individui, persone fisiche o giuridiche e gruppi (armati), spesso identificati in base all'inclusione in una lista di terroristi o presunti tali.",
+        "desc": "International sanctions, imposed by entities such as the OFAC, the European Union (EU), and the United Nations (UN), target not only entire nations but also specific individuals, institutions, and organizations. These targeted sanctions—or individual sanctions—include subjects listed in sanction databases such as the OFAC SDN List or EU/UN restrictive measures. Examples include individuals linked to Russian sanction programs, such as Kirill Aleksandrovich Dmitriev, and companies in strategic Russian sectors like energy, metallurgy, mining, and defense (e.g., LLC Northern Technologies, JSC Kazan Compressor Machinery Plant, and LLC Gazprom Linde Engineering). The lists also encompass entrepreneurs controlling sanctioned entities, as well as individuals and institutions from countries such as China, Turkey, the UAE, and the UK, often for aiding sanction evasion. Broader categories include drug traffickers, arms dealers, terrorists, and illicit financial actors. Complete bans apply to nations such as Cuba, illustrating how these bureaucratic instruments of control extend across geopolitical and non-state domains.\n",
         "links": [],
         "files": []
       }
@@ -1766,199 +1774,171 @@
       }
     },
     {
-      "id": "n0j75yok",
-      "x": 6954.438783294716,
-      "y": 1589.5351057231771,
-      "w": 320,
-      "h": 254,
-      "group": null,
-      "data": {
-        "date": "2025-10-26",
-        "title": "problematica su cui riflettere",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [
-          "Socio-political"
-        ],
-        "tags": [],
-        "desc": "la burocrazia al momento può essere utilizzata per danneggiare, svantaggiare e scoraggiare una persona.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "n099v6n8",
-      "x": 6953.135210557832,
-      "y": 1275.5394290950355,
+      "x": 6837.272148054251,
+      "y": 1150.4582844010802,
       "w": 320,
-      "h": 288,
+      "h": 361,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "scenario / what if",
+        "title": "Bureaucratic Death Penalty",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "e se esistesse un’arma in grado di ucciderti burocraticamente?\ne se si introducesse la pena di morte burocratica?\n\ne di conseguenza: cosa succederebbe se non avessimo la nostra identità",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n11g6los",
-      "x": 7073.58004708807,
-      "y": 1973.6461019314183,
-      "w": 320,
-      "h": 220,
-      "group": null,
-      "data": {
-        "date": "2025-10-26",
-        "title": "CANCELLED CULTURE",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [
-          "Socio-political"
-        ],
-        "tags": [],
-        "desc": "conslusioni per presentazione",
+        "desc": "What if there existed an instrument that could “kill” you bureaucratically—stripping your legal identity, rights and access to services—or if a formal “bureaucratic death penalty” were ever introduced? Such measures would produce social death: loss of civil status, freezing of assets, exclusion from healthcare and employment, invisibility in registries, and effective statelessness. ",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n8hb7uxv",
-      "x": 7553.58004708807,
-      "y": 1410.1440049202688,
+      "x": 6595.368230617831,
+      "y": 1624.2898275405114,
       "w": 320,
-      "h": 321,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "Contesto",
+        "title": "Scenery",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "La burocrazia non è soltanto uno strumento dello stato per amministrare ma costituisce la base stessa della nostra identità. Possedere un’identità burocratica significa avere diritto di accesso e riconoscimento all’interno della società; senza di essa, la semplice esistenza biologica non è sufficiente per essere pienamente considerati.",
+        "desc": "Bureaucracy is not merely a state instrument for administration but the very foundation of personal identity. To possess a bureaucratic identity means to be recognized, to have access to rights, and to exist within the social order. Without it, biological existence alone is insufficient for full participation in society. Bureaucratic recognition thus defines the boundary between visibility and exclusion, shaping the conditions of belonging and legitimacy within modern civilization.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nk3vv9ka",
-      "x": 7553.58004708807,
-      "y": 1763.788650549041,
+      "x": 6954.697661794171,
+      "y": 2080.970397516457,
       "w": 320,
-      "h": 321,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "problematica",
+        "title": "Problem to reflect on",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Power",
+          "Law",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "Nella nostra società, l’accesso pieno alla vita sociale e ai suoi diritti è legato al possesso di un’identità burocratica. Paradossalmente, la semplice esistenza biologica non basta. Questo solleva una riflessione critica sul ruolo della burocrazia: fino a che punto il sistema burocratico definisce e limita ciò che significa esistere?",
+        "desc": "In our society, full access to social life and its rights is tied to the possession of a bureaucratic identity. Paradoxically, mere biological existence is not enough. This raises a critical question about the role of bureaucracy itself: to what extent does the bureaucratic system define , and ultimately limit, what it means to exist?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nr4ozcme",
-      "x": 7913.015541066376,
-      "y": 1407.8380629045134,
+      "x": 6954.803724596136,
+      "y": 1619.1393403777518,
       "w": 320,
-      "h": 372,
+      "h": 445,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "whatif",
+        "title": "What if",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Power",
+          "Law",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "Il nostro scenario si baserebbe sulla domanda: “E se si potessero cancellare le persone (burocraticamente)?”\nCi immaginiamo in un mondo in cui lo Stato può infliggere una pena di morte burocratica per crimini gravissimi e disumani. In questa situazione, non viene tolta la vita fisica, ma viene revocata la tua esistenza burocratica: tutti i documenti che attestano la tua identità vengono cancellati, rimani nessuno, invisibile e privo di diritti e documentazione.",
+        "desc": "The scenario is built around the question: “What if people could be erased bureaucratically?”\nIt imagines a world in which the State can impose a bureaucratic death penalty for extreme and inhuman crimes. In this system, life itself is not taken, but one’s bureaucratic existence is revoked: all documents proving identity are deleted, leaving the individual without recognition, rights, or access to institutions. The person becomes legally invisible—a living being stripped of social existence. The scenario exposes the fragility of identity when its validity depends entirely on administrative acknowledgment.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nfs3igay",
-      "x": 7908.377663724721,
-      "y": 1807.8614819498412,
+      "x": 7305.865688216919,
+      "y": 1630.0115614686226,
       "w": 320,
-      "h": 338,
+      "h": 361,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "agenti",
+        "title": "Agents and Dynamics of the Conflict",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Conflict",
+          "Law",
+          "Power"
         ],
         "tags": [],
-        "desc": "Il condannato si trova intrappolato in un paradosso: continua a esistere biologicamente, ma è escluso da ogni forma di riconoscimento ufficiale. È come se la macchina burocratica, che un tempo garantiva la sua esistenza, si fosse rivoltata contro di lui. Il conflitto nasce proprio qui: tra l’essere vivo e l’essere riconosciuto, tra la realtà biologica e la realtà burocratica.",
+        "desc": "The condemned individual finds themselves trapped in a paradox: they continue to exist biologically, yet are excluded from any form of official recognition. It is as if the bureaucratic machine — the very system that once guaranteed their existence — has now turned against them. The true conflict lies here: between being alive and being acknowledged, between biological reality and bureaucratic reality.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n1ai34af",
-      "x": 7546.623231075587,
-      "y": 2119.7652315037135,
+      "x": 7305.010776877922,
+      "y": 2020.7799909425025,
       "w": 320,
-      "h": 304,
+      "h": 411,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "ente",
+        "title": "Entity",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Conflict",
+          "Law",
+          "Power"
         ],
         "tags": [],
-        "desc": "Noi rappresentiamo quel settore dell’apparato giuridico e amministrativo incaricato di eseguire la cancellazione burocratica. Il nostro compito è far sì che la persona scompaia dal sistema, eliminando ogni traccia della sua identità dai registri e dagli archivi ufficiali.",
+        "desc": "We are the branch of the juridical and administrative apparatus charged with carrying out bureaucratic erasure. Our task is to make the person disappear from the system: to remove every trace of their identity from registers, databases and official archives. We cancel registrations, retract certifications, delete file entries and sever administrative ties so that, on paper, the individual no longer exists. In short, we convert a life into records, and by erasing those records we enact the disappearance itself.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nce6l0vb",
-      "x": 8341.580047088071,
-      "y": 2307.765231503713,
+      "x": 7882.678872991765,
+      "y": 1948.2877008379132,
       "w": 320,
-      "h": 220,
+      "h": 332,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "feedback",
-        "type": "Concept",
+        "title": "Feedback on the Bureaucratic Death Penalty Concept",
+        "type": "Feedback",
         "action": "Making",
         "mainArea": "Speculation",
-        "areas": [
-          "Socio-political"
-        ],
+        "areas": [],
         "tags": [],
-        "desc": "abbandonare la strada -> meglio le altre due opzioni",
+        "desc": "The concept of the bureaucratic death penalty is to be abandoned. The feedback suggests focusing instead on the other two directions previously explored, which offer stronger conceptual and speculative potential while maintaining consistency with the project’s critical investigation of bureaucratic power.",
         "links": [],
         "files": []
       }
@@ -3056,8 +3036,8 @@
     },
     {
       "id": "nhqqeq9q",
-      "x": 5602.467360372571,
-      "y": 1089.7415925282535,
+      "x": 5954.975981217452,
+      "y": 1097.2417759504851,
       "w": 320,
       "h": 143,
       "group": null,
@@ -3698,57 +3678,7 @@
     },
     {
       "s": "nr9tiro7",
-      "t": "n0j75yok",
-      "dashed": false
-    },
-    {
-      "s": "nr9tiro7",
       "t": "n099v6n8",
-      "dashed": false
-    },
-    {
-      "s": "n099v6n8",
-      "t": "n11g6los",
-      "dashed": false
-    },
-    {
-      "s": "n0j75yok",
-      "t": "n11g6los",
-      "dashed": false
-    },
-    {
-      "s": "nr9tiro7",
-      "t": "n11g6los",
-      "dashed": false
-    },
-    {
-      "s": "n11g6los",
-      "t": "n8hb7uxv",
-      "dashed": false
-    },
-    {
-      "s": "n11g6los",
-      "t": "nk3vv9ka",
-      "dashed": false
-    },
-    {
-      "s": "n11g6los",
-      "t": "nr4ozcme",
-      "dashed": false
-    },
-    {
-      "s": "n11g6los",
-      "t": "nfs3igay",
-      "dashed": false
-    },
-    {
-      "s": "n11g6los",
-      "t": "n1ai34af",
-      "dashed": false
-    },
-    {
-      "s": "n11g6los",
-      "t": "nce6l0vb",
       "dashed": false
     },
     {
@@ -4200,54 +4130,79 @@
       "s": "nldpevvs",
       "t": "nv4hz9gn",
       "dashed": false
+    },
+    {
+      "s": "n099v6n8",
+      "t": "n8hb7uxv",
+      "dashed": false
+    },
+    {
+      "s": "n099v6n8",
+      "t": "nk3vv9ka",
+      "dashed": false
+    },
+    {
+      "s": "n099v6n8",
+      "t": "n1ai34af",
+      "dashed": false
+    },
+    {
+      "s": "n099v6n8",
+      "t": "nr4ozcme",
+      "dashed": false
+    },
+    {
+      "s": "n099v6n8",
+      "t": "nfs3igay",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Conflict",
       "Power",
       "Law",
-      "Socio-political",
-      "Design research",
-      "Sociology",
-      "Envirionment",
-      "Spatial design",
-      "Hystory",
-      "Philosophy",
-      "Installation",
-      "Art",
-      "Photography",
-      "Documentary",
-      "Semantic research",
-      "Feelings",
-      "Literature",
-      "Definition",
-      "Emotional response",
-      "Communication",
+      "Conflict",
       "Public administration",
-      "Critical design",
+      "Media studies",
       "Cultural studies",
-      "Media studies"
+      "Critical design",
+      "Communication",
+      "Emotional response",
+      "Definition",
+      "Literature",
+      "Feelings",
+      "Semantic research",
+      "Documentary",
+      "Photography",
+      "Art",
+      "Installation",
+      "Philosophy",
+      "Hystory",
+      "Spatial design",
+      "Envirionment",
+      "Sociology",
+      "Design research",
+      "Socio-political"
     ],
     "tags": [
-      "Feelings",
-      "Emotion",
-      "Social tension",
-      "Opposition",
-      "Conflict",
+      "Power abuse",
       "Corruption",
-      "Power abuse"
+      "Conflict",
+      "Opposition",
+      "Social tension",
+      "Emotion",
+      "Feelings"
     ],
     "type": [
-      "Source",
-      "Concept",
       "Feedback",
-      "Research",
-      "Collection",
-      "Moodboard",
-      "Conclusione",
+      "Concept",
+      "Source",
+      "Brief",
       "Observation",
-      "Brief"
+      "Conclusione",
+      "Moodboard",
+      "Collection",
+      "Research"
     ]
   }
 }
