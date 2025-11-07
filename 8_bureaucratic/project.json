@@ -381,7 +381,7 @@
       "data": {
         "date": "2025-09-24",
         "title": "Refused bureaucratic identification",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -557,7 +557,7 @@
       "data": {
         "date": "2025-09-25",
         "title": "Red tape",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -858,8 +858,8 @@
     },
     {
       "id": "n6j0ldtt",
-      "x": 4395.140106395718,
-      "y": -1249.560637283511,
+      "x": 4403.140106395718,
+      "y": -1369.560637283511,
       "w": 320,
       "h": 1108,
       "group": null,
@@ -907,8 +907,8 @@
     },
     {
       "id": "nex0urd2",
-      "x": 3438.402240431696,
-      "y": -64.2669211208904,
+      "x": 3534.402240431696,
+      "y": -140.2669211208904,
       "w": 320,
       "h": 1840,
       "group": null,
@@ -1110,7 +1110,7 @@
       "x": 2218.1435340343482,
       "y": 1671.266220235084,
       "w": 320,
-      "h": 595,
+      "h": 572,
       "group": null,
       "data": {
         "date": "2025-10-19",
@@ -1119,7 +1119,6 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Media studies",
           "Socio-political",
           "Conflict",
           "Power",
@@ -1966,8 +1965,8 @@
     },
     {
       "id": "n9f63nt8",
-      "x": 9717.165234286722,
-      "y": -1746.644056781337,
+      "x": 9361.165234286722,
+      "y": -2814.644056781337,
       "w": 320,
       "h": 214,
       "group": null,
@@ -1986,8 +1985,8 @@
     },
     {
       "id": "nusfml5g",
-      "x": 9813.165234286722,
-      "y": -1338.644056781337,
+      "x": 9457.165234286722,
+      "y": -2406.644056781337,
       "w": 320,
       "h": 332,
       "group": null,
@@ -2006,8 +2005,8 @@
     },
     {
       "id": "nw3425oy",
-      "x": 10165.165234286722,
-      "y": -1335.644056781337,
+      "x": 9809.165234286722,
+      "y": -2403.644056781337,
       "w": 320,
       "h": 315,
       "group": null,
@@ -2026,8 +2025,8 @@
     },
     {
       "id": "nedye6gd",
-      "x": 10173.165234286722,
-      "y": -988.644056781337,
+      "x": 9817.165234286722,
+      "y": -2056.644056781337,
       "w": 320,
       "h": 248,
       "group": null,
@@ -2046,8 +2045,8 @@
     },
     {
       "id": "nd1ltt6v",
-      "x": 10517.165234286722,
-      "y": -1333.644056781337,
+      "x": 10161.165234286722,
+      "y": -2401.644056781337,
       "w": 320,
       "h": 382,
       "group": null,
@@ -2066,8 +2065,8 @@
     },
     {
       "id": "ni6oephu",
-      "x": 10517.165234286722,
-      "y": -906.644056781337,
+      "x": 10161.165234286722,
+      "y": -1974.644056781337,
       "w": 320,
       "h": 298,
       "group": null,
@@ -2086,8 +2085,8 @@
     },
     {
       "id": "ncfiqnoz",
-      "x": 10381.165234286722,
-      "y": -1772.644056781337,
+      "x": 10025.165234286722,
+      "y": -2840.644056781337,
       "w": 320,
       "h": 248,
       "group": null,
@@ -2106,8 +2105,8 @@
     },
     {
       "id": "n9w4oaff",
-      "x": 10936.730998380173,
-      "y": -1972.644056781337,
+      "x": 10580.730998380173,
+      "y": -3040.644056781337,
       "w": 320,
       "h": 252,
       "group": null,
@@ -2691,8 +2690,8 @@
     },
     {
       "id": "nxv6198r",
-      "x": 6578.731469294804,
-      "y": 14.127569992705276,
+      "x": 6969.52668722603,
+      "y": -26.8435611884953,
       "w": 320,
       "h": 372,
       "group": null,
@@ -2713,8 +2712,8 @@
     },
     {
       "id": "nsuoe5zk",
-      "x": 6578.731469294804,
-      "y": 399.6458047076984,
+      "x": 6588.842406825564,
+      "y": 321.28603884430913,
       "w": 320,
       "h": 260,
       "group": null,
@@ -2736,8 +2735,8 @@
     },
     {
       "id": "nq2vfoit",
-      "x": 6580.736600331586,
-      "y": 682.1958214436487,
+      "x": 6590.847537862345,
+      "y": 603.8360555802594,
       "w": 320,
       "h": 298,
       "group": null,
@@ -2756,8 +2755,8 @@
     },
     {
       "id": "nldpevvs",
-      "x": 7102.6606765752695,
-      "y": 571.1271688108906,
+      "x": 7112.771614106029,
+      "y": 492.7674029475013,
       "w": 320,
       "h": 394,
       "group": null,
@@ -2774,26 +2773,6 @@
         ],
         "tags": [],
         "desc": "We are an insurance agency that citizens are strongly encouraged to consult before entering a relationship — or to regulate one that already exists.\nOur task is to formalize and regulate every aspect of the relationship, ensuring that, in moments of ambiguity or conflict, there is a bureaucratic procedure to follow that protects both parties.\nIn this way, we guarantee that any misunderstandings or offenses are handled rationally and in full compliance with established procedures.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nv4hz9gn",
-      "x": 9069.780202212449,
-      "y": 569.2005416744589,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2025-10-30",
-        "title": "",
-        "type": "",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
-        "tags": [],
-        "desc": "",
         "links": [],
         "files": []
       }
@@ -2820,6 +2799,395 @@
         ],
         "tags": [],
         "desc": "It’s a system that mirrors the bureaucratic rules governing the international movement of both packages and people — both subject to forms, identification, tracking, and approval before they can travel.\nEvery passage is documented, categorized, and validated through codes and protocols that determine legitimacy.\nIn this sense, the act of crossing a border — whether by a person or an object — becomes less about freedom of movement and more about compliance with an administrative logic that transforms mobility into data, regulation, and control.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nuigem8f",
+      "x": 7729.207479524389,
+      "y": 248.7992603394356,
+      "w": 320,
+      "h": 265,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Feedback",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Dig deeper into research to gather as much information as possible on insurance processes and other relevant elements that could help you build a communication engine.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nlvi0ue8",
+      "x": 8398.820307895034,
+      "y": -966.512952784077,
+      "w": 320,
+      "h": 501,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Research Objective: Insurance Communication & Unconventional Products",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Insurance",
+          "Law",
+          "Administration",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "Need to survey the landscape of insurance types and map the market leaders to understand how they communicate value, trust and risk. Focus on: (1) mainstream insurers — their tone, channels, visual language, and regulatory framing; (2) outlier products or insurers offering non-standard policies (e.g., micro-insurance, parametric, reputation/identity coverage, climate-risk products) to analyse how atypical risks are narrated and sold. Aim to extract communication patterns, persuasive tropes, and positioning strategies that enable or disrupt legitimacy. Methods: desk research, comparative case studies, and semiotic analysis of campaigns and policy language.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nczjjg0m",
+      "x": 8418.504097236395,
+      "y": -183.53185199559834,
+      "w": 320,
+      "h": 468,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Dr. John Gottman’s Love Lab ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "For over forty years, Dr. John Gottman, in collaboration with Dr. Robert Levenson, transformed the study of romantic relationships from an anecdotal field into a predictive science. Through longitudinal studies tracking hundreds of couples—some for decades—they identified measurable physiological and behavioral markers that differentiate thriving relationships from failing ones. Their work established the foundation of modern relationship science, demonstrating that emotional stability, empathy, and physiological regulation can be quantified and used to forecast relational outcomes with striking accuracy.",
+        "links": [
+          "https://psycnet.apa.org/record/2015-25194-005",
+          "https://psicohelp.it/metodo-gottman/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nmdlznj9",
+      "x": 8419.538356033981,
+      "y": 483.9143348305812,
+      "w": 320,
+      "h": 361,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Research Objective: Bureaucracy in Contemporary Interpersonal Relationships",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Sociology",
+          "Law",
+          "Public administration"
+        ],
+        "tags": [],
+        "desc": "Need to investigate how bureaucratic systems intersect with and regulate today’s interpersonal relationships. By mapping these points of insertion, the study aims to understand how bureaucracy transforms intimacy, codifies affect, and translates human connections into measurable, governable interactions.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nps6n1le",
+      "x": 8898.583053277365,
+      "y": -1294.2473928930485,
+      "w": 320,
+      "h": 438,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Lloyd’s of London: The Market of Uninsurable Risks",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Law",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "Lloyd’s of London is not an insurance company but a marketplace where underwriters and brokers gather to insure risks that conventional companies avoid. Its structure allows it to cover the extraordinary: massive infrastructures like oil rigs, aircraft fleets, and global events, as well as complex modern threats such as cyberattacks, political instability, or terrorism. Yet, Lloyd’s is equally known for its eccentricity—policies insuring celebrity body parts, food critics’ taste buds, or even satellite collisions and alien abductions. ",
+        "links": [
+          "https://www.lloyds.com/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nnlzurwy",
+      "x": 8900.822012172246,
+      "y": -805.4532678208964,
+      "w": 320,
+      "h": 445,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Strategies and communication across Insurances",
+        "type": "Source",
+        "action": null,
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "Traditional insurance giants such as Generali, Allianz, and AXA address an older demographic through serious, institutional communication—emphasizing reliability, stability, and expertise. Their tone conveys authority and long-standing trust. In contrast, newer players like Prima, Segugio, and NeN target younger audiences with light-hearted, ironic, and digital-first messaging. Their communication is dynamic, playful, and accessible, often using humor and informal language to demystify the bureaucratic world of insurance. This contrast reveals how tone and identity are strategically adapted to shape perceptions of security across generations.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njbfb8r6",
+      "x": 8828.451879448034,
+      "y": 474.02423275486,
+      "w": 320,
+      "h": 730,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Forms of Bureaucratic Mediation in Relationships",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Public administration",
+          "Law",
+          "Administration",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "\t•\tMarriage → Transforms an emotional bond into a legal contract, defining rights, duties, and fiscal status within a bureaucratic framework.\n\t•\tDivorce → Formalizes the dissolution of a relationship through procedures that regulate property, custody, and legal identity.\n\t•\tWills and Inheritance → Extend relationships beyond life, translating affection and legacy into legal distribution and documentation.\n\t•\tChild Custody after Divorce → Determines parental rights and responsibilities through administrative evaluation and judicial decision-making.\n\t•\tAdoption → Bureaucratizes family creation, turning affection and care into processes of eligibility, verification, and authorization.\n\t•\tRomantic Relationships between Colleagues → Governed by company policies designed to prevent conflicts of interest, power abuse, or liability.\n\t•\tNon-Disclosure Agreements (NDAs) → Convert trust and discretion into legal obligation, institutionalizing silence and loyalty.\n\t•\tProfessional Secrecy → Legally binds professionals (lawyers, doctors, designers) to confidentiality, bureaucratizing ethics and responsibility.\n\t•\tRoyal Families → Symbolize the intersection of lineage, emotion, and governance, where private life is entirely regulated by public protocol.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nuhk0qc3",
+      "x": 9400.36592128803,
+      "y": 1349.026922151669,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "studio di contratti assicurativi",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nm95qjd6",
+      "x": 10517.681179340234,
+      "y": -474.8931961646018,
+      "w": 320,
+      "h": 618,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Physiological Parameters in Relationship Dynamics",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "The physiological foundation of Gottman and Levenson’s research lies in the concept of Diffuse Physiological Arousal (DPA)—a fight-or-flight state triggered by interpersonal stress. Couples showing sustained activation across multiple physiological channels experienced a measurable decline in marital satisfaction over time, making biological responses stronger predictors than behavior alone. Four key measures defined this model: Cardiovascular Reactivity (heart rate, IBI, HRV)—where higher rates and reduced variability indicated acute stress and poor emotional regulation; Skin Conductance (GSR/SCL)—a sensitive marker of sympathetic activation linked to emotional alertness; Blood Pressure and Pulse Transit Time (PTT)—revealing the cardiovascular cost of conflict, particularly among avoidant partners; and Somatic Activity (ACT)—restlessness reflecting anxiety and tension. The most striking insight emerged from Physiological Linkage: the moment-to-moment covariation of bodily states between partners. Paradoxically, distressed couples displayed stronger synchronization—evidence not of harmony, but of negative co-regulation, where shared stress traps both in a feedback loop of emotional contagion and physiological escalation.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njlffpf3",
+      "x": 8901.227340172083,
+      "y": 2096.3873112060596,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "collection di riferimenti cinematrografici e letterali",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmd7u487",
+      "x": 9305.14584935542,
+      "y": -1293.8639673484804,
+      "w": 320,
+      "h": 730,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Absurd Insurance Policies",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Law",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "\t1.\tChange of Heart Policy – Covers wedding cancellation costs, transforming emotional hesitation into financial risk.\n\t2.\tDeath by Laughter Policy – A theatre company insured against fatal laughter, quantifying humor as potential liability.\n\t3.\tSports Depression Policy – Scottish fans insured themselves against depression if England won the World Cup, translating rivalry into an insurable condition.\n\t4.\tAlien Abduction & Supernatural Policies – Cover damages from alleged encounters with UFOs, ghosts, werewolves, or vampires, merging myth with administrative documentation.\n\t5.\tTaste Bud Insurance – Protects the palate of food critics and tasters, turning sensory expertise into economic capital.\n\t6.\tNose Insurance – Safeguards perfumers’ noses, preserving their professional identity through policy.\n\t7.\tLottery Insurance – Protects employers from operational collapse if staff collectively quit after winning the lottery.\n\t8.\tMultiple Birth Insurance – Supports parents facing unexpected financial strain after the birth of twins or more.\nTogether, these examples reveal how the bureaucratic system of insurance extends into the surreal, converting fear, luck, and emotion into calculable, contractual events.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvk675z3",
+      "x": 8978.504097236395,
+      "y": -238.41375702710593,
+      "w": 320,
+      "h": 556,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Phase 1: The Love Lab and Data Collection Methodology",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "At the core of Gottman’s research was the Love Lab—a simulated apartment at the University of Washington designed to observe couples in a natural, intimate setting. Participants interacted freely while researchers collected synchronized streams of data. Behavioral data were captured through hidden cameras and analyzed via systems like Ekman’s Facial Affect Coding System, decoding facial expressions, tone, and body language. Physiological data—the study’s most groundbreaking contribution—were gathered through biometric sensors tracking heart rate, skin conductance (GSR), blood pressure, and micro-movements as indicators of stress or arousal. Self-reported data complemented these measures: couples turned a dial to rate their emotional state in real time. Together, these layers offered an unprecedented multidimensional view of relational dynamics, merging emotion, body, and perception into measurable patterns.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwkobupb",
+      "x": 9322.78211996963,
+      "y": -237.00020399746543,
+      "w": 320,
+      "h": 523,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Phase 2: The Structured Experimental Protocol",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "To ensure consistency and comparability across participants, Gottman’s studies followed a standardized three-step conversational protocol. After spending at least eight hours apart to make their reunion more emotionally salient, couples engaged in three fifteen-minute discussions: \n1. Daily Events, a neutral exchange used to establish physiological and behavioral baselines; \n2. Conflict Discussion, the central phase, where partners debated a recurring disagreement, serving as an emotional “stress test” to reveal conflict-management patterns and physiological reactivity\n3. Positive Topic, a conversation focused on shared enjoyment or agreement, measuring each couple’s ability to de-escalate tension and repair emotional connection. This structured sequence allowed researchers to capture the full emotional cycle—stability, stress, and recovery—within controlled yet authentic relational dynamics.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvub86c3",
+      "x": 9663.685839503982,
+      "y": -242.13604557141025,
+      "w": 320,
+      "h": 758,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Phase 3: Key Discoveries and the Predictive Model",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "The extensive data collected in Gottman and Levenson’s studies led to groundbreaking discoveries that shaped the foundation of Gottman’s predictive model of relationships.\nThe Physiology of Conflict – “Flooding”: Gottman identified flooding—a diffuse physiological activation (DPA) in which stress hormones like adrenaline surge, pushing heart rate above 100 bpm. In this state, reasoning and empathy collapse; communication becomes physiologically impossible. Flooding often triggers stonewalling, the emotional withdrawal of one partner as a self-protective response. Elevated physiological arousal proved to be a stronger predictor of relational decline than observed behavior alone.\nThe Four Horsemen of the Apocalypse: Gottman isolated four toxic interaction patterns that reliably predict divorce: criticism (attacking character rather than behavior), contempt (moral superiority and ridicule, the strongest predictor), defensiveness (playing the victim or counterattacking), and stonewalling (emotional withdrawal linked to flooding).\nThe Mathematics of Stability – The “Magic Ratio”: Gottman quantified emotional balance, showing that stable couples maintain a ratio of 5 positive interactions for every negative one during conflict, and up to 20:1 outside it. Negative exchanges carry heavier emotional weight, requiring abundant positive moments—affection, humor, empathy—to sustain relational health. Together, these findings established a measurable, physiological model for predicting the future of love.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkec2wyc",
+      "x": 10145.45133586027,
+      "y": -808.6707484716505,
+      "w": 320,
+      "h": 422,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Conclusion: The Measurable Logic of Relationships",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "Gottman’s research ultimately revealed that the fate of a relationship is not mysterious but governed by identifiable and measurable patterns of interaction and physiological reactivity. Success in love does not depend on the absence of conflict, but on a couple’s ability to navigate disagreement without falling into destructive behavioral cycles or being overwhelmed by negative physiological arousal. Emotional intelligence and regulation—rather than passion or compatibility alone—emerge as the true predictors of relational longevity, transforming intimacy into a field where even affection obeys the laws of measurable equilibrium.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n75iibk1",
+      "x": 10028.346211725435,
+      "y": -247.97826078826392,
+      "w": 320,
+      "h": 523,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Phase 4: The Predictive Model of Relationship Outcomes",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "By integrating behavioral, physiological, and emotional data, Gottman synthesized his findings into a predictive model capable of forecasting divorce with over 90% accuracy across multiple studies. The model not only determined if a couple would separate but also when. Two primary trajectories emerged: Early Divorce (on average 5.6 years after marriage), associated with the intense presence of the Four Horsemen—criticism, contempt, defensiveness, and stonewalling—marking relationships dominated by volatility and conflict; and Late Divorce (around 16.2 years after marriage), characterized by emotional disengagement rather than open hostility, as affection and positivity fade into detachment. The model reframed relationship breakdown as a measurable process, revealing how emotional patterns and physiological regulation predict the long-term stability of human bonds.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvaf3sqn",
+      "x": 11593.681179340234,
+      "y": -550.8931961646018,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "OUTPUT",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
         "links": [],
         "files": []
       }
@@ -3612,11 +3980,6 @@
       "dashed": false
     },
     {
-      "s": "nldpevvs",
-      "t": "nv4hz9gn",
-      "dashed": false
-    },
-    {
       "s": "n099v6n8",
       "t": "n8hb7uxv",
       "dashed": false
@@ -3765,28 +4128,180 @@
       "s": "nscfpivt",
       "t": "nh307m48",
       "dashed": false
+    },
+    {
+      "s": "najakot8",
+      "t": "nuigem8f",
+      "dashed": false
+    },
+    {
+      "s": "nldpevvs",
+      "t": "nuigem8f",
+      "dashed": false
+    },
+    {
+      "s": "nq2vfoit",
+      "t": "nuigem8f",
+      "dashed": false
+    },
+    {
+      "s": "nuigem8f",
+      "t": "nlvi0ue8",
+      "dashed": false
+    },
+    {
+      "s": "nuigem8f",
+      "t": "nczjjg0m",
+      "dashed": false
+    },
+    {
+      "s": "nuigem8f",
+      "t": "nmdlznj9",
+      "dashed": false
+    },
+    {
+      "s": "nlvi0ue8",
+      "t": "nps6n1le",
+      "dashed": false
+    },
+    {
+      "s": "nlvi0ue8",
+      "t": "nnlzurwy",
+      "dashed": false
+    },
+    {
+      "s": "nmdlznj9",
+      "t": "njbfb8r6",
+      "dashed": false
+    },
+    {
+      "s": "nuigem8f",
+      "t": "nuhk0qc3",
+      "dashed": false
+    },
+    {
+      "s": "nczjjg0m",
+      "t": "nm95qjd6",
+      "dashed": false
+    },
+    {
+      "s": "nuigem8f",
+      "t": "njlffpf3",
+      "dashed": false
+    },
+    {
+      "s": "nps6n1le",
+      "t": "nmd7u487",
+      "dashed": false
+    },
+    {
+      "s": "nczjjg0m",
+      "t": "nvk675z3",
+      "dashed": false
+    },
+    {
+      "s": "nczjjg0m",
+      "t": "nwkobupb",
+      "dashed": false
+    },
+    {
+      "s": "nczjjg0m",
+      "t": "nvub86c3",
+      "dashed": false
+    },
+    {
+      "s": "nczjjg0m",
+      "t": "nkec2wyc",
+      "dashed": false
+    },
+    {
+      "s": "nvk675z3",
+      "t": "nwkobupb",
+      "dashed": false
+    },
+    {
+      "s": "nwkobupb",
+      "t": "nvub86c3",
+      "dashed": false
+    },
+    {
+      "s": "nvk675z3",
+      "t": "nkec2wyc",
+      "dashed": false
+    },
+    {
+      "s": "nwkobupb",
+      "t": "nkec2wyc",
+      "dashed": false
+    },
+    {
+      "s": "nvub86c3",
+      "t": "nkec2wyc",
+      "dashed": false
+    },
+    {
+      "s": "nvub86c3",
+      "t": "n75iibk1",
+      "dashed": false
+    },
+    {
+      "s": "n75iibk1",
+      "t": "nkec2wyc",
+      "dashed": false
+    },
+    {
+      "s": "nvub86c3",
+      "t": "nm95qjd6",
+      "dashed": false
+    },
+    {
+      "s": "nwkobupb",
+      "t": "nm95qjd6",
+      "dashed": false
+    },
+    {
+      "s": "nkec2wyc",
+      "t": "nm95qjd6",
+      "dashed": false
+    },
+    {
+      "s": "nvk675z3",
+      "t": "nm95qjd6",
+      "dashed": false
+    },
+    {
+      "s": "nm95qjd6",
+      "t": "nvaf3sqn",
+      "dashed": false
+    },
+    {
+      "s": "nkec2wyc",
+      "t": "nvaf3sqn",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Identity",
-      "Science",
-      "Socio-political",
+      "Sociology",
+      "Administration",
       "Law",
       "Public administration",
+      "Science",
+      "Communication",
+      "Insurance",
+      "Identity",
+      "Socio-political",
       "Conflict",
       "Hystory",
       "Media studies",
       "Cultural studies",
       "Critical design",
-      "Communication",
       "Literature",
       "Feelings",
       "Semantic research",
       "Spatial design",
       "Design research",
       "Philosophy",
-      "Sociology",
       "Envirionment",
       "Power"
     ],
@@ -3800,13 +4315,12 @@
       "Feelings"
     ],
     "type": [
-      "Source",
-      "Concept",
-      "Observation",
       "Feedback",
-      "Brief",
       "Collection",
-      "Research"
+      "Source",
+      "Observation",
+      "Concept",
+      "Brief"
     ]
   }
 }
