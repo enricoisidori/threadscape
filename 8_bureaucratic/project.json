@@ -1966,8 +1966,8 @@
     },
     {
       "id": "n9f63nt8",
-      "x": 8576.299606507146,
-      "y": -2498.2695120088156,
+      "x": 9717.165234286722,
+      "y": -1746.644056781337,
       "w": 320,
       "h": 214,
       "group": null,
@@ -1986,8 +1986,8 @@
     },
     {
       "id": "nusfml5g",
-      "x": 8672.299606507146,
-      "y": -2090.2695120088156,
+      "x": 9813.165234286722,
+      "y": -1338.644056781337,
       "w": 320,
       "h": 332,
       "group": null,
@@ -2006,8 +2006,8 @@
     },
     {
       "id": "nw3425oy",
-      "x": 9024.299606507146,
-      "y": -2087.2695120088156,
+      "x": 10165.165234286722,
+      "y": -1335.644056781337,
       "w": 320,
       "h": 315,
       "group": null,
@@ -2026,8 +2026,8 @@
     },
     {
       "id": "nedye6gd",
-      "x": 9032.299606507146,
-      "y": -1740.2695120088156,
+      "x": 10173.165234286722,
+      "y": -988.644056781337,
       "w": 320,
       "h": 248,
       "group": null,
@@ -2046,8 +2046,8 @@
     },
     {
       "id": "nd1ltt6v",
-      "x": 9376.299606507146,
-      "y": -2085.2695120088156,
+      "x": 10517.165234286722,
+      "y": -1333.644056781337,
       "w": 320,
       "h": 382,
       "group": null,
@@ -2066,8 +2066,8 @@
     },
     {
       "id": "ni6oephu",
-      "x": 9376.299606507146,
-      "y": -1658.2695120088156,
+      "x": 10517.165234286722,
+      "y": -906.644056781337,
       "w": 320,
       "h": 298,
       "group": null,
@@ -2086,8 +2086,8 @@
     },
     {
       "id": "ncfiqnoz",
-      "x": 9240.299606507146,
-      "y": -2524.2695120088156,
+      "x": 10381.165234286722,
+      "y": -1772.644056781337,
       "w": 320,
       "h": 248,
       "group": null,
@@ -2106,8 +2106,8 @@
     },
     {
       "id": "n9w4oaff",
-      "x": 9795.865370600597,
-      "y": -2724.2695120088156,
+      "x": 10936.730998380173,
+      "y": -1972.644056781337,
       "w": 320,
       "h": 252,
       "group": null,
@@ -2285,151 +2285,125 @@
       }
     },
     {
-      "id": "ndijh5vs",
-      "x": 5550.923091109714,
-      "y": -1557.047978221968,
-      "w": 320,
-      "h": 224,
-      "group": null,
-      "data": {
-        "date": "2025-10-26",
-        "title": "uomini come pacchi",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "n1y01te4",
-      "x": 7428.560623084299,
-      "y": -1993.4269227498319,
+      "x": 7134.4550795192,
+      "y": -2004.4000527356422,
       "w": 320,
-      "h": 266,
+      "h": 384,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "documenti per spostarsi",
-        "type": "Concept",
+        "title": "Passports, Citizenship, and the Bureaucratic Definition of Self",
+        "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
+          "Public administration",
+          "Socio-political",
           "Conflict",
-          "Socio-political"
+          "Identity"
         ],
         "tags": [],
-        "desc": "passaporto dato dalla cittadinanza",
+        "desc": "Movement across borders depends on documents, passports and visas, that translate citizenship into permission. The passport becomes both a key and a cage: it grants access while revealing the constraints imposed by one’s administrative identity. Citizenship, encoded in these documents, determines who you are in the eyes of institutions and how far you can go. ",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nh307m48",
-      "x": 7659.304508990666,
-      "y": -3159.560637283511,
+      "x": 7534.7357397095275,
+      "y": -2013.3426412076387,
       "w": 320,
-      "h": 224,
+      "h": 417,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "riflessione sulla cittadinanza",
-        "type": "Concept",
+        "title": "Citizenship as Bureaucratic Identity",
+        "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
+          "Identity",
           "Conflict",
-          "Socio-political"
+          "Socio-political",
+          "Public administration",
+          "Law"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Citizenship defines not only one’s legal status but also one’s very identity within the bureaucratic order. It assigns belonging, rights, and visibility, turning nationality into a fundamental marker of existence. Through citizenship, the individual becomes legible to the State—registered, categorized, and controlled. This reflection reveals how identity, rather than being purely personal or cultural, is constructed through administrative recognition, where to exist means to be documented.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nn3eluom",
-      "x": 7795.893839569315,
-      "y": -2742.6855418759196,
+      "x": 7967.428933236572,
+      "y": -2132.95306876639,
       "w": 320,
-      "h": 384,
+      "h": 361,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "ius sanguinis",
-        "type": "Concept",
+        "title": "Ius sanguinis",
+        "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
+          "Public administration",
+          "Law",
+          "Socio-political",
+          "Identity"
         ],
         "tags": [],
-        "desc": "La richiesta di cittadinanza italiana per ius sanguinis (“diritto di sangue”) si basa sul principio che la cittadinanza italiana si trasmette di generazione in generazione per discendenza da un avo italiano — senza limiti di generazione, purché non ci sia stata interruzione nella trasmissione (cioè un antenato che abbia perso o rinunciato alla cittadinanza italiana prima della nascita del figlio successivo).",
+        "desc": "The application for Italian citizenship ius sanguinis (“right of blood”) is based on the principle that Italian citizenship is passed down from generation to generation through descent from an Italian ancestor — with no generational limits, provided there has been no interruption in the transmission (that is, no ancestor who lost or renounced Italian citizenship before the birth of their child).",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ns9y3z8c",
-      "x": 8174.889416310969,
-      "y": -2508.715013745361,
+      "x": 8327.89381049806,
+      "y": -1745.0351911082973,
       "w": 320,
-      "h": 787,
+      "h": 456,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "cosa si può sapere dal sangue",
-        "type": "Concept",
+        "title": "Genetic Information Extracted from Blood",
+        "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
+          "Science",
+          "Identity"
         ],
         "tags": [],
-        "desc": "Cosa puoi sapere dal sangue\nDal sangue (più precisamente dal DNA contenuto nei globuli bianchi) si può:\nIdentificare una persona (tramite analisi del profilo genetico);\nDeterminare relazioni di parentela (es. test di paternità);\nAnalizzare le origini genetiche o l’ascendenza (ad esempio, sapere se una persona ha antenati europei, africani, asiatici, ecc.);\nStudiare tratti ereditari e predisposizioni genetiche (per malattie o caratteristiche fisiche).\n\nCome funziona\nIl DNA viene estratto dal sangue e confrontato con:\nBanche dati genetiche (per i test di ascendenza, come 23andMe o MyHeritage);\nCampioni di altri individui (per test di parentela o identificazione).\n\nLimiti\nL’ascendenza genetica è una stima statistica, non una certezza assoluta;\nI test possono rivelare solo origini biologiche, non culturali o nazionali;\nServe consenso legale: non si può analizzare il DNA di qualcuno senza il suo permesso (è una violazione della privacy e, in Italia, è anche un reato).\n\nSì, dal sangue puoi ottenere informazioni genetiche utili per verificare origini, parentele o identità, ma solo in modo legale e con il consenso della persona interessata.\nVuoi che ti spieghi come si fa tecnicamente un test del DNA da un campione di sangue (in laboratorio)?",
+        "desc": "From blood (more precisely the DNA in white blood cells) it is possible to identify an individual, determine biological kinship, estimate genetic ancestry, and reveal hereditary traits or disease predispositions. The procedure involves extracting DNA from the sample and comparing it against genetic databases or other individual samples for identification, parentage, or ancestry inference. Limits include statistical uncertainty in ancestry estimates, the distinction between biological origins and cultural/national identity, and the legal and ethical requirement of informed consent—analysing someone’s DNA without permission is a privacy violation and, in jurisdictions like Italy, a criminal offence.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nkfiuxlj",
-      "x": 8165.705306916992,
-      "y": -2956.356130717414,
+      "x": 8385.705306916992,
+      "y": -2208.356130717414,
       "w": 320,
-      "h": 417,
+      "h": 361,
       "group": null,
       "data": {
         "date": "2025-10-26",
         "title": "ius sanguinis vs ius solis",
-        "type": "Concept",
+        "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
+          "Public administration",
+          "Law",
+          "Socio-political",
+          "Identity"
         ],
         "tags": [],
-        "desc": "Premessa: ius sanguinis vs ius soli\nI Paesi del mondo si dividono (semplificando) in due grandi categorie:\nIus sanguinis (“diritto di sangue”) → La cittadinanza si trasmette dai genitori al figlio, indipendentemente da dove nasce.  🇮🇹 Esempio: Italia, Grecia, Polonia, Giappone.\nIus soli (“diritto del suolo”) → La cittadinanza si ottiene nascendo sul territorio dello Stato.  🇺🇸 Esempio: Stati Uniti, Canada, Brasile.",
+        "desc": "Countries around the world can broadly be divided into two main categories. Under the principle of ius sanguinis (“right of blood”), citizenship is passed from parents to child regardless of where the person is born — as in Italy, Greece, Poland, or Japan. In contrast, ius soli (“right of the soil”) grants citizenship to those born within a country’s territory, as in the United States, Canada, or Brazil.",
         "links": [],
         "files": []
       }
@@ -2554,75 +2528,69 @@
     },
     {
       "id": "n33ic9u9",
-      "x": 6191.880282972531,
-      "y": -1670.2190109611627,
+      "x": 5551.787047557259,
+      "y": -1663.246523440428,
       "w": 320,
-      "h": 367,
+      "h": 411,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "problematica",
-        "type": "Concept",
+        "title": "Problem to reflect on",
+        "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
+          "Socio-political",
           "Conflict",
-          "Socio-political"
+          "Hystory"
         ],
         "tags": [],
-        "desc": "per attraversare confini ci sono regole e probelmatiche, molti possono andare ovunque e molti no → iter burocratico per spostarsi, ci siamo auto\n\ncomparazione con regole burocratiche che regolamentano i movimenti internazionali dei pacchi e delle persone",
+        "desc": "To cross borders, there are rules and complications, some can move freely, while others are constantly restrained by limitations and paperwork.\nCrossing territories is never neutral: it requires a bureaucratic process, a regulated iter of permissions, authorizations, and controls that decide who can pass and who must remain still.\nIt reflects a system built on hierarchy and regulation, where mobility itself becomes a privilege — not only for people, but for goods, data, and information as well.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n2z9a2d5",
-      "x": 6593.457256303224,
-      "y": -1457.4888253709087,
+      "x": 6356.168909066194,
+      "y": -1507.7860762621674,
       "w": 320,
-      "h": 283,
+      "h": 300,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "whatif",
+        "title": "What if",
         "type": "Concept",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Semantic research",
+          "Public administration",
           "Conflict",
-          "Socio-political"
+          "Socio-political",
+          "Law"
         ],
         "tags": [],
-        "desc": "e se il movimento di un uomo attraverso vari confini avvenisse con lo stesso iter burocratico dei pacchi?",
+        "desc": "And what if a person’s movement across borders followed the same bureaucratic process as that of a package?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n53kzafb",
-      "x": 7142.077418861429,
-      "y": -1582.9593496574703,
+      "x": 6720.380464217555,
+      "y": -1717.0628749746973,
       "w": 320,
-      "h": 266,
+      "h": 366,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "feedback negativo",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
-        ],
+        "title": "Negative feedback",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
         "tags": [],
-        "desc": "troppo paragone uno a uno",
+        "desc": "The scenario was considered too linear, relying on a one-to-one correspondence between physical relocation and bureaucratic process. The feedback highlights the need for greater complexity—moving beyond direct analogies to explore how bureaucratic structures might transform, overlap, or malfunction when faced with such large-scale reorganization. The concept should evoke systemic ambiguity rather than simple equivalence between displacement and administration.",
         "links": [],
         "files": []
       }
@@ -2826,6 +2794,32 @@
         "areas": [],
         "tags": [],
         "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nx9lyg0m",
+      "x": 5944.889207752232,
+      "y": -1669.633945447322,
+      "w": 320,
+      "h": 468,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Movement of packages and people",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-political",
+          "Conflict",
+          "Hystory",
+          "Public administration",
+          "Law"
+        ],
+        "tags": [],
+        "desc": "It’s a system that mirrors the bureaucratic rules governing the international movement of both packages and people — both subject to forms, identification, tracking, and approval before they can travel.\nEvery passage is documented, categorized, and validated through codes and protocols that determine legitimacy.\nIn this sense, the act of crossing a border — whether by a person or an object — becomes less about freedom of movement and more about compliance with an administrative logic that transforms mobility into data, regulation, and control.",
         "links": [],
         "files": []
       }
@@ -3458,21 +3452,6 @@
       "dashed": false
     },
     {
-      "s": "nnmjsmbx",
-      "t": "ndijh5vs",
-      "dashed": false
-    },
-    {
-      "s": "n5vf0f18",
-      "t": "ndijh5vs",
-      "dashed": false
-    },
-    {
-      "s": "ndijh5vs",
-      "t": "n1y01te4",
-      "dashed": false
-    },
-    {
       "s": "n1y01te4",
       "t": "nh307m48",
       "dashed": false
@@ -3553,27 +3532,12 @@
       "dashed": false
     },
     {
-      "s": "ndijh5vs",
-      "t": "n33ic9u9",
-      "dashed": false
-    },
-    {
-      "s": "ndijh5vs",
-      "t": "n2z9a2d5",
-      "dashed": false
-    },
-    {
       "s": "n33ic9u9",
       "t": "n53kzafb",
       "dashed": false
     },
     {
       "s": "n2z9a2d5",
-      "t": "n53kzafb",
-      "dashed": false
-    },
-    {
-      "s": "ndijh5vs",
       "t": "n53kzafb",
       "dashed": false
     },
@@ -3761,54 +3725,88 @@
       "s": "n6brru8k",
       "t": "n3y8h4qs",
       "dashed": false
+    },
+    {
+      "s": "nnmjsmbx",
+      "t": "n33ic9u9",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "n33ic9u9",
+      "dashed": false
+    },
+    {
+      "s": "n33ic9u9",
+      "t": "nx9lyg0m",
+      "dashed": false
+    },
+    {
+      "s": "nx9lyg0m",
+      "t": "n2z9a2d5",
+      "dashed": false
+    },
+    {
+      "s": "n33ic9u9",
+      "t": "n2z9a2d5",
+      "dashed": false
+    },
+    {
+      "s": "n33ic9u9",
+      "t": "n1y01te4",
+      "dashed": false
+    },
+    {
+      "s": "n53kzafb",
+      "t": "n1y01te4",
+      "dashed": false
+    },
+    {
+      "s": "nscfpivt",
+      "t": "nh307m48",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Conflict",
-      "Socio-political",
-      "Power",
-      "Envirionment",
-      "Public administration",
       "Identity",
+      "Science",
+      "Socio-political",
       "Law",
-      "Sociology",
+      "Public administration",
+      "Conflict",
       "Hystory",
-      "Philosophy",
-      "Design research",
-      "Spatial design",
-      "Installation",
-      "Art",
-      "Photography",
-      "Documentary",
-      "Semantic research",
-      "Feelings",
-      "Literature",
-      "Definition",
-      "Emotional response",
-      "Communication",
-      "Critical design",
+      "Media studies",
       "Cultural studies",
-      "Media studies"
+      "Critical design",
+      "Communication",
+      "Literature",
+      "Feelings",
+      "Semantic research",
+      "Spatial design",
+      "Design research",
+      "Philosophy",
+      "Sociology",
+      "Envirionment",
+      "Power"
     ],
     "tags": [
-      "Feelings",
-      "Emotion",
-      "Social tension",
-      "Opposition",
-      "Conflict",
+      "Power abuse",
       "Corruption",
-      "Power abuse"
+      "Conflict",
+      "Opposition",
+      "Social tension",
+      "Emotion",
+      "Feelings"
     ],
     "type": [
-      "Feedback",
+      "Source",
       "Concept",
       "Observation",
-      "Source",
-      "Research",
+      "Feedback",
+      "Brief",
       "Collection",
-      "Moodboard",
-      "Brief"
+      "Research"
     ]
   }
 }
