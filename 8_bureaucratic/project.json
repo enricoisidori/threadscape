@@ -2975,20 +2975,23 @@
     },
     {
       "id": "nuhk0qc3",
-      "x": 9400.36592128803,
-      "y": 1349.026922151669,
+      "x": 8468.23117947954,
+      "y": 1319.3174483091673,
       "w": 320,
-      "h": 173,
+      "h": 422,
       "group": null,
       "data": {
         "date": "2025-11-07",
-        "title": "studio di contratti assicurativi",
-        "type": "Feedback",
-        "action": null,
+        "title": "The Logic of Insurance Contracts",
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "An insurance contract functions as a mechanism for risk transfer. The policyholder faces a potential loss—such as a house fire—and seeks protection from its financial consequences. By paying a relatively small premium, the individual delegates that risk to an insurer, who promises to provide a much larger indemnity if the specified adverse event, the claim, occurs. This exchange formalizes uncertainty, transforming fear and chance into contractual language. In essence, insurance converts the unpredictable into an administratively manageable transaction, where security becomes a purchasable, bureaucratized commodity.",
         "links": [],
         "files": []
       }
@@ -3015,20 +3018,23 @@
     },
     {
       "id": "njlffpf3",
-      "x": 8901.227340172083,
-      "y": 2096.3873112060596,
+      "x": 10116.469258961612,
+      "y": 496.0589755218342,
       "w": 320,
-      "h": 173,
+      "h": 523,
       "group": null,
       "data": {
         "date": "2025-11-07",
-        "title": "collection di riferimenti cinematrografici e letterali",
-        "type": "Feedback",
-        "action": null,
+        "title": "Literary Visions of Bureaucratic Control",
+        "type": "Collection",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Literature",
+          "Sociology"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "Across dystopian literature, bureaucracy becomes the ultimate instrument of emotional and biological governance. In Aldous Huxley’s Brave New World (1932), social stability is achieved through total biopolitical control: emotions are chemically regulated by soma, reproduction is laboratory-planned, and family bonds are eradicated to preserve productivity and obedience. In George Orwell’s 1984 (1949), bureaucratic power extends to the realm of thought—love and personal loyalty are treated as political crimes, and intimacy becomes rebellion against the omnipresent State. In Yevgeny Zamyatin’s We (1924), individuality is mathematically erased: citizens are identified by numbers, transparency replaces privacy, and existence is algorithmically scheduled. Together, these works expose the bureaucratic annihilation of intimacy—where control replaces connection, and affection becomes an act of defiance.",
         "links": [],
         "files": []
       }
@@ -3188,6 +3194,121 @@
         "areas": [],
         "tags": [],
         "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9r7ljtw",
+      "x": 8923.10279568041,
+      "y": 1320.7134696313412,
+      "w": 320,
+      "h": 506,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "The Risk Triangle: The Core of Insurance Logic",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "Every insurance system operates within the Risk Triangle, composed of three interdependent elements.\n\t•\tRisk → The uncertain, potentially harmful future event that the policy seeks to cover. It must be possible but not certain—for example, the end of a relationship, betrayal, or loss of trust.\n\t•\tPremium → The amount paid by the insured to the insurer, calculated statistically. Many pay into the system so that the few who experience loss receive compensation.\n\t•\tPayout (or Indemnity) → The insurer’s obligation if the risk occurs—typically a financial reimbursement, but it can also take the form of a service, such as emotional or psychological support.\nThis triangular structure transforms uncertainty into order, quantifying emotion, damage, and even heartbreak into contractual balance.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npwrviuj",
+      "x": 9294.444467378666,
+      "y": 1449.5447203250108,
+      "w": 320,
+      "h": 388,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "The Subjects of the Insurance Contract",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "An insurance contract can involve up to four distinct actors—sometimes overlapping, sometimes separate:\n\t•\tThe Insurer → The company that assumes the risk and guarantees compensation.\n\t•\tThe Policyholder → The individual or entity who signs the contract and pays the premium.\n\t•\tThe Insured → The person whose interest is protected; the one who would suffer the loss if the event occurred.\n\t•\tThe Beneficiary → The person entitled to receive the indemnity when the risk materializes.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7ipi9bh",
+      "x": 9677.582096054966,
+      "y": 1277.4709996482113,
+      "w": 320,
+      "h": 556,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "How an Insurance Contract Is Established",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "An insurance contract follows a formalized bureaucratic process that translates uncertainty into documentation and liability.\n\t•\tPre-Contractual Phase (Proposal) → The prospective client submits a proposal form requesting coverage.\n\t•\tAnamnestic Questionnaire → The insurer collects detailed personal data—habits, history, and prior incidents—to evaluate honesty and risk. The law obliges the applicant to answer truthfully; any omission or falsehood can void the contract.\n\t•\tRisk Assessment → Based on the information provided, the insurer decides whether to accept the client and at what premium, quantifying personal traits into cost.\n\t•\tPolicy Issuance → Once accepted, the insurer releases the written policy document, the tangible proof of the agreement.\n\t•\tPayment of Premium → The contract becomes active only upon payment of the first premium.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1zjshle",
+      "x": 10044.464950235279,
+      "y": 1271.823239261584,
+      "w": 320,
+      "h": 758,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Fondamental parts",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "\t•\tPremium Calculation → The premium is determined by assessing the level of risk associated with the insured subject. Factors such as age, history, lifestyle, and past incidents are statistically analyzed to translate personal probability into monetary value.\n\t•\tBonus–Malus System → A mechanism that rewards low-risk behavior (bonus) with reduced premiums and penalizes high-risk or repeated claims (malus) with higher ones—bureaucratizing moral conduct into numbers.\n\t•\tPolicy (Polizza) → The formal written document that certifies the existence, terms, and conditions of the insurance contract; the bureaucratic materialization of trust.\n\t•\tMaximum Coverage (Massimale) and Deductible (Franchigia) → The massimale sets the upper limit the insurer will pay, while the franchigia defines the portion of the loss the insured must bear—quantifying protection and vulnerability.\n\t•\tCivil Liability (Responsabilità Civile) → Covers damage caused unintentionally to others, transferring the moral weight of guilt into a compensable legal framework.\n\t•\tExclusions → Specific situations not covered by the policy, outlining the boundaries of what can be insured and what remains beyond bureaucratic control.\n\t•\tDIP (Documento Informativo Precontrattuale) → A pre-contractual information sheet designed to ensure transparency by explaining terms, risks, and rights before signing—an administrative safeguard of informed consent.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6t95pcf",
+      "x": 10485.080494645248,
+      "y": 349.0350788022755,
+      "w": 320,
+      "h": 506,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Cinematic Visions of Bureaucratic Control",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Cinema",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "quantified bureaucracy: every interaction is rated, and one’s numerical score dictates housing, work, and relationships. The final scene—two prisoners freed from ratings—reveals the cathartic liberation found outside bureaucratic judgment. In Yorgos Lanthimos’ The Lobster (2015), love itself is institutionalized: singles are confined to a hotel where they must find a partner within 45 days or be transformed into animals. Compatibility becomes a bureaucratic algorithm—love reduced to shared defects. Finally, Terry Gilliam’s Brazil (1985) imagines a dystopia consumed by paperwork, stamps, and mechanical inefficiency. Bureaucracy crushes imagination and individuality, while power circulates meaninglessly among inept officials. Across these works, bureaucracy emerges as both absurd and tragic—a system that promises order but suffocates humanity in its own regulations",
         "links": [],
         "files": []
       }
@@ -4278,49 +4399,103 @@
       "s": "nkec2wyc",
       "t": "nvaf3sqn",
       "dashed": false
+    },
+    {
+      "s": "nuhk0qc3",
+      "t": "n9r7ljtw",
+      "dashed": false
+    },
+    {
+      "s": "nuhk0qc3",
+      "t": "npwrviuj",
+      "dashed": false
+    },
+    {
+      "s": "nuhk0qc3",
+      "t": "n7ipi9bh",
+      "dashed": false
+    },
+    {
+      "s": "n9r7ljtw",
+      "t": "npwrviuj",
+      "dashed": false
+    },
+    {
+      "s": "npwrviuj",
+      "t": "n7ipi9bh",
+      "dashed": false
+    },
+    {
+      "s": "nuhk0qc3",
+      "t": "n1zjshle",
+      "dashed": false
+    },
+    {
+      "s": "n9r7ljtw",
+      "t": "n1zjshle",
+      "dashed": false
+    },
+    {
+      "s": "npwrviuj",
+      "t": "n1zjshle",
+      "dashed": false
+    },
+    {
+      "s": "n7ipi9bh",
+      "t": "n1zjshle",
+      "dashed": false
+    },
+    {
+      "s": "njlffpf3",
+      "t": "n6t95pcf",
+      "dashed": false
+    },
+    {
+      "s": "nuigem8f",
+      "t": "n6t95pcf",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Cinema",
       "Sociology",
-      "Administration",
-      "Law",
-      "Public administration",
-      "Science",
-      "Communication",
-      "Insurance",
-      "Identity",
-      "Socio-political",
-      "Conflict",
-      "Hystory",
-      "Media studies",
-      "Cultural studies",
-      "Critical design",
       "Literature",
-      "Feelings",
-      "Semantic research",
-      "Spatial design",
-      "Design research",
-      "Philosophy",
+      "Insurance",
+      "Administration",
+      "Power",
       "Envirionment",
-      "Power"
+      "Philosophy",
+      "Design research",
+      "Spatial design",
+      "Critical design",
+      "Cultural studies",
+      "Media studies",
+      "Hystory",
+      "Conflict",
+      "Socio-political",
+      "Identity",
+      "Communication",
+      "Science",
+      "Public administration",
+      "Law"
     ],
     "tags": [
-      "Power abuse",
-      "Corruption",
-      "Conflict",
-      "Opposition",
-      "Social tension",
+      "Feelings",
       "Emotion",
-      "Feelings"
+      "Social tension",
+      "Opposition",
+      "Conflict",
+      "Corruption",
+      "Power abuse"
     ],
     "type": [
-      "Feedback",
       "Collection",
       "Source",
-      "Observation",
+      "Brief",
       "Concept",
-      "Brief"
+      "Observation",
+      "Feedback"
     ]
   }
 }
