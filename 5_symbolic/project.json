@@ -6,7 +6,7 @@
       "x": 0,
       "y": 0,
       "w": 320,
-      "h": 807,
+      "h": 814,
       "group": null,
       "data": {
         "date": "2025-09-16",
@@ -43,10 +43,10 @@
       "x": 480,
       "y": 0,
       "w": 320,
-      "h": 322,
+      "h": 328,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Linguistic conflict",
         "type": "Brief",
         "action": null,
@@ -76,10 +76,10 @@
       "x": 480,
       "y": 362,
       "w": 320,
-      "h": 344,
+      "h": 351,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Media conflict",
         "type": "Brief",
         "action": null,
@@ -109,10 +109,10 @@
       "x": 480,
       "y": 746,
       "w": 320,
-      "h": 344,
+      "h": 351,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Cognitive conflict",
         "type": "Brief",
         "action": null,
@@ -141,10 +141,10 @@
       "x": 480,
       "y": 1130,
       "w": 320,
-      "h": 344,
+      "h": 351,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Metric conflict",
         "type": "Brief",
         "action": null,
@@ -174,14 +174,14 @@
       "x": 480,
       "y": 1514,
       "w": 320,
-      "h": 299,
+      "h": 386,
       "group": null,
       "data": {
-        "date": "2025-09-19",
-        "title": "Symbolic conflict",
+        "date": "2025-09-16",
+        "title": "Symbolic Conflict (Brief)",
         "type": "Brief",
-        "action": null,
-        "mainArea": null,
+        "action": "Exploring",
+        "mainArea": "Speculation",
         "areas": [
           "Cultural studies",
           "Art history",
@@ -190,14 +190,11 @@
           "Semiotics"
         ],
         "tags": [
-          "Cultural memory",
-          "Heritage politics",
-          "Myth-making",
-          "Iconographic power",
-          "Narrative hegemony",
-          "Semiotic infrastructures"
+          "Brief",
+          "Research",
+          "Starting point"
         ],
-        "desc": "",
+        "desc": "Launch of the brief: our group is assigned the theme of symbolic conflict. This type of conflict does not take place through direct confrontation, but through signs, symbols, and representations. It reflects tensions expressed in cultural, social, or artistic forms rather than physical clashes.",
         "links": [],
         "files": []
       }
@@ -205,12 +202,12 @@
     {
       "id": "n92sunmm",
       "x": 480,
-      "y": 1853,
+      "y": 1933,
       "w": 320,
-      "h": 299,
+      "h": 306,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Cultural conflict",
         "type": "Brief",
         "action": null,
@@ -237,12 +234,12 @@
     {
       "id": "n3vsqfai",
       "x": 480,
-      "y": 2192,
+      "y": 2272,
       "w": 320,
-      "h": 299,
+      "h": 306,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Social conflict",
         "type": "Brief",
         "action": null,
@@ -269,12 +266,12 @@
     {
       "id": "ncob3sst",
       "x": 480,
-      "y": 2531,
+      "y": 2611,
       "w": 320,
-      "h": 344,
+      "h": 351,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Bureaucratic conflict",
         "type": "Brief",
         "action": null,
@@ -301,12 +298,12 @@
     {
       "id": "ne7rohui",
       "x": 480,
-      "y": 2915,
+      "y": 2995,
       "w": 320,
-      "h": 322,
+      "h": 328,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Digital conflict",
         "type": "Brief",
         "action": null,
@@ -334,12 +331,12 @@
     {
       "id": "nr86jk3r",
       "x": 480,
-      "y": 3277,
+      "y": 3357,
       "w": 320,
-      "h": 322,
+      "h": 328,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Ecological conflict",
         "type": "Brief",
         "action": null,
@@ -367,12 +364,12 @@
     {
       "id": "nvlahv4k",
       "x": 480,
-      "y": 3639,
+      "y": 3719,
       "w": 320,
-      "h": 344,
+      "h": 351,
       "group": null,
       "data": {
-        "date": "2025-09-19",
+        "date": "2025-09-16",
         "title": "Infrastructural conflict",
         "type": "Brief",
         "action": null,
@@ -394,6 +391,4241 @@
         "desc": "",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "nycew3dj",
+      "x": 960,
+      "y": 0,
+      "w": 320,
+      "h": 335,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "People align under symbols",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic alignment",
+          "Identity",
+          "Group dynamics",
+          "Conflict"
+        ],
+        "tags": [
+          "Insight",
+          "Research"
+        ],
+        "desc": "During conflicts, individuals tend to group under meaningful symbols, shaping alliances and oppositions.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nrnpr0yf",
+      "x": 960,
+      "y": 363.3635864904705,
+      "w": 320,
+      "h": 312,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Symbols generate debate",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic meaning",
+          "Conflict",
+          "Debate"
+        ],
+        "tags": [
+          "Insight",
+          "Research"
+        ],
+        "desc": "Symbols loaded with meaning often spark discussion and disagreement, acting as focal points in symbolic conflict.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmwwpwnl",
+      "x": 958.6545471169843,
+      "y": 697.6369844192626,
+      "w": 320,
+      "h": 296,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Conflict as clash of ideas",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Ideation",
+          "Abstract conflict",
+          "Ideology"
+        ],
+        "tags": [
+          "Insight",
+          "Research"
+        ],
+        "desc": "Conflict as a clash of ideas, and not, for example, over territory",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwibqee3",
+      "x": 1440,
+      "y": 0,
+      "w": 320,
+      "h": 846,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Sport Rivalries",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic alignment",
+          "Identity"
+        ],
+        "tags": [
+          "Research",
+          "Sport",
+          "Society",
+          "Case study",
+          "Rivalry",
+          "Culture",
+          "Identity"
+        ],
+        "desc": "Examples of sports teams acting as symbols, with fans aligning under them.\nInter-Milan, Real Madrid-Barcelona, Celtic-Rangers",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-16 alle 09.19.51.png",
+            "size": 1548100,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-16_alle_09.19.51.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-16 alle 08.56.32.png",
+            "size": 860371,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-16_alle_08.56.32.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-16 alle 08.56.58.png",
+            "size": 908185,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-16_alle_08.56.58.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1gqdqrd",
+      "x": 1441.2441094312994,
+      "y": 841.4740556543976,
+      "w": 320,
+      "h": 341,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Religious Symbols in State Spaces",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic meaning",
+          "Culture",
+          "Society",
+          "Religion"
+        ],
+        "tags": [
+          "Research",
+          "Religion",
+          "Politics",
+          "Society",
+          "Case study",
+          "Public space",
+          "Debate",
+          "Culture",
+          "Identity"
+        ],
+        "desc": "Instances where religious symbols in public spaces spark public debate and disagreement.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ny057e0e",
+      "x": 1442.6452292952808,
+      "y": 1186.9102240964376,
+      "w": 320,
+      "h": 625,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Iconoclasm",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic meaning",
+          "Historical memory",
+          "Iconoclasm"
+        ],
+        "tags": [
+          "Research",
+          "Politics",
+          "Religion",
+          "History",
+          "Case study",
+          "Protest",
+          "Destruction",
+          "Culture",
+          "Historical memory",
+          "Public space",
+          "Legacy",
+          "Monuments"
+        ],
+        "desc": "The rejection, destruction, or opposition to religious images, icons, or established symbols, often as a way to challenge authority or dominant beliefs",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-16 alle 08.57.56.png",
+            "size": 863489,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-16_alle_08.57.56.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-16 alle 08.58.04.png",
+            "size": 1050719,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-16_alle_08.58.04.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4k7elg8",
+      "x": 1443.5697634943501,
+      "y": 1800.2412835166533,
+      "w": 320,
+      "h": 767,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Witch Hunts",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic alignment",
+          "Ideology",
+          "Power dynamics"
+        ],
+        "tags": [
+          "Research",
+          "History",
+          "Case study",
+          "Gender",
+          "Power",
+          "Ideology",
+          "Symbolic violence"
+        ],
+        "desc": "Conflicts where accusations were framed around symbolic roles (witches) aligning social groups.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-16 alle 08.59.23.png",
+            "size": 1033052,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-16_alle_08.59.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nud1gqen",
+      "x": 1445.8342043085854,
+      "y": 2552.0909522644433,
+      "w": 320,
+      "h": 364,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Celebrities as Symbols",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic alignment",
+          "Group dynamics",
+          "Society",
+          "Identity",
+          "Youth culture"
+        ],
+        "tags": [
+          "Research",
+          "Society",
+          "Case study",
+          "Fame",
+          "Media",
+          "Identity",
+          "Group dynamics",
+          "Cancel culture"
+        ],
+        "desc": "Celebrities often become symbolic figures, causing people to align in support or opposition.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nt8ipxxe",
+      "x": 1445.0448880023278,
+      "y": 2918.8683078462755,
+      "w": 320,
+      "h": 755,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Appropriation of Symbols",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic meaning",
+          "Culture",
+          "Appropriation",
+          "Transculturation"
+        ],
+        "tags": [
+          "Research",
+          "Politics",
+          "Religion",
+          "History",
+          "Case study",
+          "Appropriation",
+          "Semiotics",
+          "Culture",
+          "Historical memory",
+          "Symbols"
+        ],
+        "desc": "Appropriation occurs when a group adopts symbols from another culture, or when a symbol shifts away from its original meaning and becomes associated with a new one.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-16 alle 09.14.56.png",
+            "size": 459263,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-16_alle_09.14.56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n61g93ev",
+      "x": 1445.8342043085854,
+      "y": 3656.5148182339954,
+      "w": 320,
+      "h": 352,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Mythology",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Ideation",
+          "Culture"
+        ],
+        "tags": [
+          "Research",
+          "Society",
+          "History",
+          "Religion",
+          "Case study",
+          "Storytelling",
+          "Conflict",
+          "Culture",
+          "Legacy",
+          "Tradition"
+        ],
+        "desc": "Myths and legends:\nSymbolic stories that address fundamental universal conflicts, offering meaning and guidance through shared narratives",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nf9jfdv9",
+      "x": 1448.491454773623,
+      "y": 4014.912448291105,
+      "w": 320,
+      "h": 375,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "National Symbols",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic meaning",
+          "Culture",
+          "Identity",
+          "Society",
+          "Product symbolism"
+        ],
+        "tags": [
+          "Research",
+          "Society",
+          "Case study",
+          "Nationalism",
+          "Identity",
+          "Tradition",
+          "Culture",
+          "Belonging"
+        ],
+        "desc": "National symbols represent collective identity and pride. An attack on these symbols is often perceived as an attack on the nation itself.\nPineapple on pizza, vegan carbonara.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nin2fvd1",
+      "x": 1448.5473678323413,
+      "y": 4390.631209191162,
+      "w": 320,
+      "h": 637,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Religious symbolism",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic meaning",
+          "Culture",
+          "Religion"
+        ],
+        "tags": [
+          "Research",
+          "Society",
+          "Religion",
+          "History",
+          "Case study",
+          "Belonging",
+          "Culture",
+          "Tradition",
+          "Legacy",
+          "Symbols"
+        ],
+        "desc": "Set of signs that highlight the core aspects of faith, encompassing identity, belonging, and values. Because they convey deep meanings, religious symbols have also become a ground for conflict.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-16 alle 09.25.58.png",
+            "size": 786929,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-16_alle_09.25.58.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njp8qsr3",
+      "x": 1449.7462385903132,
+      "y": 5010.102975563516,
+      "w": 320,
+      "h": 404,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Subcultural Conflicts",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic alignment",
+          "Culture",
+          "Society",
+          "Identity",
+          "Youth culture",
+          "Group dynamics"
+        ],
+        "tags": [
+          "Research",
+          "Society",
+          "Case study",
+          "Subculture",
+          "Youth",
+          "Culture",
+          "Belonging",
+          "Group dynamics",
+          "Identity",
+          "Protest",
+          "Aesthetics"
+        ],
+        "desc": "Conflicts between subcultures often emerge from alignment under distinctive symbols and aesthetics\nPunk vs Paninari, Emo vs Truzzi",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6wcova4",
+      "x": 2012,
+      "y": 4,
+      "w": 320,
+      "h": 525,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Transculturation of Symbols",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic transformation",
+          "Appropriation",
+          "Culture"
+        ],
+        "tags": [
+          "Insight",
+          "Moodboard",
+          "Transculturation",
+          "Semiotics",
+          "Debate"
+        ],
+        "desc": "Exploring how symbols migrate across cultures, get re-appropriated, and lose or shift their original meanings.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-09-22 at 16.39.06.jpeg",
+            "size": 270663,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-09-22_at_16.39.06.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3ktfmhq",
+      "x": 2022.2164618630495,
+      "y": 2297.8913025813104,
+      "w": 320,
+      "h": 544,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Group Aesthetics and Identities (Subcultures)",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Youth culture",
+          "Style",
+          "Identity",
+          "Group dynamics"
+        ],
+        "tags": [
+          "Insight",
+          "Moodboard",
+          "Subculture",
+          "Aesthetics",
+          "Identity",
+          "Group dynamics",
+          "Belonging",
+          "Culture"
+        ],
+        "desc": "Investigating how aesthetics and symbols structure subcultural identities, generating both belonging and conflict.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-24 alle 17.07.43.png",
+            "size": 2793065,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-24_alle_17.07.43.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbt2b0w1",
+      "x": 1971.376102378982,
+      "y": 4091.1579013201945,
+      "w": 320,
+      "h": 524,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Fanaticism",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Fanaticism",
+          "Symbolic devotion",
+          "Radicalization"
+        ],
+        "tags": [
+          "Insight",
+          "Moodboard",
+          "Subculture",
+          "Aesthetics",
+          "Identity",
+          "Group behavior",
+          "Fanaticism"
+        ],
+        "desc": "Studying how intense alignment under symbols leads to fanatic behaviors and radical group dynamics.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-09-24 alle 17.07.23.png",
+            "size": 3948662,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-09-24_alle_17.07.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nv81gyi7",
+      "x": 2506.2164618630495,
+      "y": 2418.862808794143,
+      "w": 320,
+      "h": 242,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Feedback highlighted that subcultures are not a strong direction; they are seen as historical/global phenomena that no longer carry real conflict. Current material is too aestheticized and superficial, with manipulated images instead of raw sources.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nydg8ifv",
+      "x": 2400.1513848192158,
+      "y": 4188.598595137166,
+      "w": 320,
+      "h": 242,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Fanaticism is a stronger direction than subcultures, with clearer links to symbols. However, the approach is currently too historical and heavy. Needs more depth and better questioning that subverts expectations and leads towards a scenario.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1gh2bt0",
+      "x": 2906.6068986971795,
+      "y": -4,
+      "w": 320,
+      "h": 665,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Transculturation of Symbols",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic transformation",
+          "Transculturation",
+          "Appropriation"
+        ],
+        "tags": [
+          "Insight",
+          "Moodboard",
+          "Transculturation",
+          "Semiotics",
+          "Debate"
+        ],
+        "desc": "Curated moodboard exploring cases of transculturation, re-appropriation, and transformation of symbols across different contexts.",
+        "links": [],
+        "files": [
+          {
+            "name": "transculturazione - dimensioni grandi.jpeg",
+            "size": 313855,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/transculturazione_-_dimensioni_grandi.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwy7cdyh",
+      "x": 2923.348090909804,
+      "y": 2300.3746584441947,
+      "w": 320,
+      "h": 715,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Belonging through Symbols",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Belonging",
+          "Identity",
+          "Symbolic alignment",
+          "Conflict"
+        ],
+        "tags": [
+          "Insight",
+          "Moodboard",
+          "Belonging",
+          "Identity",
+          "Symbolic conflict",
+          "Association"
+        ],
+        "desc": "In contemporary society, people associate with symbols — religious, political, cultural, or sports-related — that define identity and belonging. This often generates conflict with those aligned under different symbols, transforming the symbol into a battleground.",
+        "links": [],
+        "files": [
+          {
+            "name": "appartenenza - dimensioni grandi.jpeg",
+            "size": 539395,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/appartenenza_-_dimensioni_grandi.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9gi7ynj",
+      "x": 2872.7118090564095,
+      "y": 4081.446246737787,
+      "w": 320,
+      "h": 687,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Fanaticism",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Fanaticism",
+          "Symbolic devotion",
+          "Radicalization"
+        ],
+        "tags": [
+          "Insight",
+          "Moodboard",
+          "Subculture",
+          "Aesthetics",
+          "Identity",
+          "Group behavior",
+          "Fanaticism",
+          "Radical identity"
+        ],
+        "desc": "Moodboard collecting references on fanaticism, focusing on symbolic devotion and radical group behaviors.",
+        "links": [],
+        "files": [
+          {
+            "name": "fanatismo - dimensioni grandi.jpeg",
+            "size": 380846,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/fanatismo_-_dimensioni_grandi.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nroshxa3",
+      "x": 3367.1496283714578,
+      "y": -7.3066231121842975,
+      "w": 320,
+      "h": 329,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "What if? (Transculturation of Symbols)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Transculturation",
+          "Prohibition"
+        ],
+        "tags": [
+          "What if?",
+          "Transculturation",
+          "Ideology"
+        ],
+        "desc": "What if a dark ideology adopted a number as its identifying symbol, leading to it being banned and forcing society to invent substitutes for everyday use?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0jzqxeb",
+      "x": 3346.597939811186,
+      "y": 2296.43217727086,
+      "w": 320,
+      "h": 375,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "What if? (Belonging through Symbols)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Belonging",
+          "Identity",
+          "Symbolic alignment",
+          "Conflict"
+        ],
+        "tags": [
+          "What if?",
+          "Belonging",
+          "Identity"
+        ],
+        "desc": "What if to eliminate contrasts, everyone united under a single shared symbol? Would society become more peaceful, or would conflicts persist because they are rooted in people rather than symbols?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqgkbvxt",
+      "x": 3263.7248208365427,
+      "y": 4078.1235235829135,
+      "w": 320,
+      "h": 375,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "What if? (Fanaticism)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Fanaticism",
+          "Extremism",
+          "Symbolic devotion",
+          "Identity politics"
+        ],
+        "tags": [
+          "What if?",
+          "Fanaticism",
+          "Radicalization"
+        ],
+        "desc": "What if fanaticism were the only valid way to affirm one’s ideals, while every other form of engagement was ignored or despised, with moderates stigmatized as indifferent or cowardly?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3z3o0sv",
+      "x": 3729.8165149009583,
+      "y": 3528.6212782719767,
+      "w": 320,
+      "h": 614,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "Belonging and Social Identity Theory",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Identity",
+          "Symbolic alignment",
+          "Conflict"
+        ],
+        "tags": [
+          "Insight",
+          "Belonging",
+          "Social identity theory",
+          "Group dynamics",
+          "Conflict"
+        ],
+        "desc": "People who identify with a symbol tend to clash with those who identify with an opposite or different one.\nAccording to Social Identity Theory, individuals build their identity not only as singular beings but also as members of social groups. To reinforce this belonging, they distinguish their own group (ingroup) from others (outgroup), generating processes such as:\nIngroup favoritism – preference for those within the same group;\nOutgroup discrimination – devaluation or hostility toward outsiders.\nThis dynamic shows that the need for belonging and for symbolic recognition is inherently tied to confrontation with other groups.",
+        "links": [
+          "https://www.ebsco.com/research-starters/psychology/social-identity-theory"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nc5iphwf",
+      "x": 4199.597097732928,
+      "y": 3583.5559860991157,
+      "w": 320,
+      "h": 560,
+      "group": null,
+      "data": {
+        "date": "2025-09-29",
+        "title": "What if? (Belonging)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Belonging",
+          "Identity",
+          "Conformity",
+          "Censorship",
+          "Communication"
+        ],
+        "tags": [
+          "What if?",
+          "Belonging",
+          "Group dynamics"
+        ],
+        "desc": "What if all graphic symbols were banned?\n-\nWHO: The ruling class or government\nWHAT: A coup establishes a regime that forbids the use of any kind of visual symbol\nWHEN: 2040\nWHERE: Italy\nWHY: To eliminate all forms of conflict by removing the visual and symbolic markers of identity and difference\nThe scenario explores the consequences of erasing symbolic expression as a means to achieve social peace — questioning whether the suppression of symbols can truly eliminate the human roots of division.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nauthodh",
+      "x": 3736.53134372914,
+      "y": 2391.007271105168,
+      "w": 320,
+      "h": 564,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Symbolic Violence",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Power dynamics",
+          "Hierarchy",
+          "Unconscious influence",
+          "Culture"
+        ],
+        "tags": [
+          "Insight",
+          "Symbolic violence",
+          "Bourdieu",
+          "Society",
+          "Group dynamics"
+        ],
+        "desc": "Not all the symbols we recognize as ours are created or consciously chosen by us.\nAccording to Pierre Bourdieu’s theory of symbolic violence, dominant social groups impose their worldview and values onto dominated groups, who internalize them unconsciously as their own.\nThis form of invisible, non-physical violence works through cultural norms and meanings that become naturalized and universally accepted.\nThe problem lies in the normalization and unconscious acceptance of symbols, hierarchies, and systems of value imposed by dominant groups.",
+        "links": [
+          "https://www.pandorarivista.it/articoli/attualita-del-pensiero-di-pierre-bourdieu/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nwa0mcp3",
+      "x": 4195.264983651852,
+      "y": 2393.8501864320865,
+      "w": 320,
+      "h": 520,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "What if? (Symbolic Violence)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Symbolic awareness",
+          "Autonomy",
+          "Power dynamics"
+        ],
+        "tags": [
+          "What if?",
+          "Symbolic violence",
+          "Self-recognition"
+        ],
+        "desc": "What if people could become aware of the symbols and values that have been unconsciously imposed on them?\n-\nWHO: A revolutionary group\nWHAT: A system that tracks choices and behaviors to reveal whether a person’s values are truly their own or subconsciously imposed by society\nWHEN: Near future\nWHERE: Italy\nWHY: Only through awareness and self-recognition of symbolic impositions can symbolic violence be dismantled, leading to genuine autonomy of thought and action.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndehs9oj",
+      "x": 3791.619387426698,
+      "y": 769.1533823351399,
+      "w": 320,
+      "h": 570,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "Semiotic Inflation",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic saturation",
+          "Meaning loss",
+          "Culture"
+        ],
+        "tags": [
+          "Insight",
+          "Semiotic inflation",
+          "Mangano & sedda",
+          "Signs vs symbols"
+        ],
+        "desc": "We live surrounded by logos, slogans, images, emojis, advertisements, and social media posts — a constant semiotic noise where each sign loses its ability to stand out and evoke meaning.\nAccording to Dario Mangano and Franciscu Sedda, semiotic inflation occurs when symbols — once carriers of deep cultural, religious, or communal significance — are reused, simplified, and recycled until they become trivial, consumable signs.\nThis leads to a saturation of the collective imaginary, where everything communicates, yet nothing truly signifies.\nThe distinction between symbol and sign collapses: everything becomes a sign, but meaning evaporates.\nThe loss of depth and evocative power of symbols in contemporary communication, reducing them to flat, immediate signs.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbq88yt1",
+      "x": 4191.023154112163,
+      "y": 934.2328484002385,
+      "w": 320,
+      "h": 503,
+      "group": null,
+      "data": {
+        "date": "2025-09-27",
+        "title": "What if? (Semiotic Inflation)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Semiotics",
+          "Universal meaning"
+        ],
+        "tags": [
+          "What if?",
+          "Semiotic inflation",
+          "Symbols",
+          "Universal language"
+        ],
+        "desc": "What if it were possible to assign one single, official meaning to every sign?\n-\nWHO: An international organization\nWHAT: The creation of a universal dictionary/database of symbols — a reduced, official repertoire of signs shared and accepted by all\nWHEN: Present day\nWHERE: Europe\nWHY: To test whether simplifying and stabilizing meaning could restore symbolic depth, or instead suffocate it further by removing ambiguity, multiplicity, and interpretation.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8vhugey",
+      "x": 3752.3554669403675,
+      "y": 4661.596335434546,
+      "w": 320,
+      "h": 694,
+      "group": null,
+      "data": {
+        "date": "2025-09-28",
+        "title": "Historical Memory",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Monuments",
+          "Historical memory",
+          "Ethics",
+          "Censorship"
+        ],
+        "tags": [
+          "Insight",
+          "Historical memory",
+          "Identity",
+          "Conflict",
+          "Censorship"
+        ],
+        "desc": "The theme of historical memory concerns the complex relationship between past and present.\nSymbols inhabiting our cities — statues, monuments, flags, plaques, and emblems — are not neutral decorations, but condensations of values and histories that continue to shape society.\nSome evoke pride and belonging, others recall violence and oppression. This duality often generates conflict:\nSome demand their removal, viewing them as open wounds.\nOthers insist on preservation, considering them necessary testimonies to avoid repeating past errors.\nThe removal of statues of colonizers, such as those of Christopher Columbus, epitomizes this clash between historical preservation and contemporary ethics.\nThese monuments become contested devices of memory, mirrors of identity, power, and justice. The ambiguity of censorship: the fragile boundary between repair and historical revisionism.\nDoes protecting society from painful memories also mean erasing history itself?\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkdwvkuj",
+      "x": 4198.249097444024,
+      "y": 4810.5119794108095,
+      "w": 320,
+      "h": 929,
+      "group": null,
+      "data": {
+        "date": "2025-09-28",
+        "title": "What if? (Historical Memory)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Censorship",
+          "Historical memory",
+          "Society",
+          "Ethics"
+        ],
+        "tags": [
+          "What if?",
+          "Historical memory",
+          "Symbols",
+          "Public space",
+          "History",
+          "Society",
+          "Ethics"
+        ],
+        "desc": "What if a government introduced a machine that automatically censored all controversial or offensive symbols in public spaces?\n-\nWHO: The government\nWHAT: A filtering machine using visual recognition and an evolving database of banned or controversial symbols\nWHEN: Near future, amid increasing social and cultural polarization\nWHERE: Italy\nWHY: To prevent social conflict by creating “cultural safety” zones — though at the cost of historical understanding.\n-\nInstalled in schools, museums, archives, and public areas, the device continuously scans its surroundings.\nAn algorithm detects “sensitive” symbols — statues, flags, texts, logos — and covers them with neutral surfaces or “Content not suitable” panels.\nWith time, its censorship expands: from totalitarian icons to colonial monuments, to books, songs, religious emblems, and even digital media through AR glasses and filters.\nconsequences:Protected but ignorant generations: the youth grow up without ever seeing certain symbols or confronting history.Cultural voids: museums and books lose coherence; history becomes fragmented.Social division: some praise the system as progress and protection, others denounce it as censorship and infantilization.\n-\nDoes eliminating symbols of violence create peace, or erase collective awareness?\nIf the machine hides the past, do we become complicit in forgetting it?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njua4ig7",
+      "x": 3790.1278862304807,
+      "y": -7.110026096032811,
+      "w": 320,
+      "h": 711,
+      "group": null,
+      "data": {
+        "date": "2025-10-01",
+        "title": "Symbolic Power of Products",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Product symbolism",
+          "Perception",
+          "Society",
+          "Healthcare",
+          "Culture"
+        ],
+        "tags": [
+          "Insight",
+          "Tobacco",
+          "Alcohol",
+          "Culture",
+          "Conflict"
+        ],
+        "desc": "The symbolic universe surrounding products deeply influences how society perceives them.\nOur opinions about harmful substances are shaped less by scientific awareness and more by the imagery, language, and associations attached to them.\nCigarettes, for instance, carry the stigma of vice and danger, while alcohol remains a symbol of sociability and celebration — despite comparable health risks.\nCase Study:\nAnti-tobacco campaigns employ shocking images, plain packaging, and advertising bans to discourage consumption, while alcohol products retain their glamorous and social branding.\nThis discrepancy reveals how symbolic framing determines what society accepts or rejects.\nProblematic:\nAre we truly free to decide what is good or harmful, or are we conditioned by socially constructed symbols?\nConflicts:\nPublic health vs. personal and cultural freedom\nSymbolically discouraged harmful products vs. harmful yet symbolically accepted ones",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nv2a2ddx",
+      "x": 4195.829769573214,
+      "y": -17.110026096032783,
+      "w": 320,
+      "h": 879,
+      "group": null,
+      "data": {
+        "date": "2025-10-01",
+        "title": "What if? (Symbolic Power of Products)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Society",
+          "Healthcare",
+          "Product symbolism",
+          "Perception"
+        ],
+        "tags": [
+          "What if?",
+          "Perception",
+          "Healthcare",
+          "Regulation"
+        ],
+        "desc": "WHAT IF the perception of a socially accepted but harmful product — like energy drinks — were symbolically inverted, treated with the same visual and regulatory stigma as tobacco?\n-\nWHO: Government / public health authority\nWHAT: The introduction of an Energy Scanner, a control device that regulates consumption through digital identification and symbolic framing.\nWHEN: Near future\nWHERE: Italy / Europe\nWHY: To test whether strict symbolic control can correct unhealthy social norms or instead produce new conflicts.\n_\nCitizens receive a personal consumption license tied to a wristband. Upon entering a bar or store, the Energy Scanner checks authorization and dispenses only the daily allowed quantity. The device displays real-time data about individual health impact with shock visuals and warning messages. Attempting to exceed limits triggers alerts to authorities. Public campaigns use stigmatizing imagery and restricted advertising — treating energy drinks as a new vice.\nConsequences:\nA shift in symbolic hierarchies: “cool” becomes “toxic”.\nDebate over health paternalism vs. individual freedom.\nReflection on how communication shapes\n-\nIf symbols can redefine what is acceptable or forbidden, where lies the real power — in law, or in meaning?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "naz010bf",
+      "x": 4202.382088265341,
+      "y": 4154.702664941721,
+      "w": 320,
+      "h": 581,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "Belonging",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Identity",
+          "Symbolic affiliation",
+          "Conformity",
+          "Representation"
+        ],
+        "tags": [
+          "Insight",
+          "Belonging",
+          "Group dynamics",
+          "Society"
+        ],
+        "desc": "Belonging is a fundamental human need.\nWe seek to be part of groups, communities, and cultures through shared symbols — flags, rituals, logos, lifestyles, religions.\nThese symbols shape identity, foster cohesion, and communicate shared values, but also introduce subtle hierarchies and pressures: the more we display and perform belonging, the more we feel validated.\nProblematic:\nHow authentic is belonging when it depends on external approval?\nDo symbols unite people through meaning, or through conformity?\nConflict:\nInternal: The tension between personal authenticity and collective approval.\nSocial: The construction of unity through competition, exposure, and conformity.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6kttxca",
+      "x": 4670.382088265341,
+      "y": 4150.702664941721,
+      "w": 320,
+      "h": 963,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "What if? (Belonging)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Social ranking",
+          "Ethics",
+          "Power dynamics",
+          "Identity"
+        ],
+        "tags": [
+          "What if?",
+          "Belonging",
+          "Society",
+          "Group dynamics"
+        ],
+        "desc": "WHAT IF in 2050 a city introduced a public system that quantifies belonging through symbolic behaviour?\n-\nEach citizen receives a Symbolic Loyalty Index (IFS) — a score representing their commitment to cultural, religious, or ideological symbols.\n-\nThe machine continuously monitors symbolic activity: participation in public rituals, display of symbols (flags, tattoos, digital icons), and online interactions with approved symbolic content.\nEach action modifies the IFS score across multiple categories: religion, lifestyle, politics, fashion, etc.\nRankings are public, promoting both pride and pressure.\nUsers can filter social interactions by symbolic affinity (“only interact with people scoring 80+ in cultural alignment”).\nThe system proposes ethical missions, testing users’ boundaries — for example:\n“If performing a violent act against someone of another faith increased your IFS by 50 points, would you do it?”\nConsequences:\nInternal conflict: users confront their authenticity, realizing how much of their identity is driven by symbolic validation.\nSocial tension: public visibility of scores sparks competition, exclusion, and self-censorship.\nMoral drift: gamification transforms ethical dilemmas into points-based decisions.\n-\nHow much of our belonging is authentic, and how much is dictated by the desire for approval?\nDoes visibility of belonging foster connection, or amplify conformity and division?\nIf machines reward symbolic behaviour, do we become players in an algorithmic morality system?\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nyarf78t",
+      "x": 4196.997147618383,
+      "y": 1478.5802562809406,
+      "w": 320,
+      "h": 899,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "Semiotic Inflation",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic saturation",
+          "Meaning loss",
+          "Ethics"
+        ],
+        "tags": [
+          "Insight",
+          "Semiotic inflation",
+          "Overexposure",
+          "Symbolism",
+          "Deflation of meaning",
+          "Cultural conflict"
+        ],
+        "desc": "Just as economic inflation reduces the value of money, symbolic inflation describes the loss of meaning that occurs when a symbol, image, or word is overused, recycled, or trivialized.\nThe more a symbol circulates, the less it signifies: its semantic weight is diluted by repetition, reinterpretation, and commodification.\nAnalogy:\nEconomic inflation → currency loses value.\nSymbolic inflation → meaning loses value.\nThis process affects cultural, religious, and political signs alike, but also opens the paradoxical possibility that even harmful or discriminatory symbols could lose their power through overexposure.\nProblematic:\nIf meaning fades through overuse, can deliberate repetition neutralize hate?\nCould we “deflate” discrimination by saturating the space of its symbols?\nConflict:\nEthical: between intentional devaluation (using harmful symbols to empty them) and the risk of normalizing them.\nCultural: between groups seeking to erase offensive imagery and those who reclaim or ",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-08 alle 14.08.46.png",
+            "size": 485117,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_14.08.46.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntsmbagb",
+      "x": 4629.690524506198,
+      "y": 1478.5802562809406,
+      "w": 320,
+      "h": 560,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "What if? (Semiotic Inflation)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Symbolic saturation",
+          "Meaning loss",
+          "Society"
+        ],
+        "tags": [
+          "What if?",
+          "Semiotic inflation",
+          "Neutralization",
+          "Symbols",
+          "Ethics",
+          "Society"
+        ],
+        "desc": "WHAT IF an international organization launched a program to neutralize offensive or discriminatory symbols through controlled overuse?\nThe initiative — called The Neutralization Project — applies the logic of symbolic inflation: by flooding media, networks, and public spaces with a symbol, its emotional and ideological charge is expected to collapse.\n-\nCan you destroy a symbol’s power by using it too much?\nWhere is the line between defusing and desensitizing?\nWhen every sign is recycled, what remains meaningful?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ne29fgxw",
+      "x": 3732.5491377320955,
+      "y": 2964.845549676952,
+      "w": 320,
+      "h": 507,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "Religion vs Science",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Symbolic conflict",
+          "Medicine",
+          "Religion",
+          "Ethics"
+        ],
+        "tags": [
+          "Insight",
+          "Religion vs science",
+          "Religion",
+          "Science",
+          "Healthcare",
+          "Symbolism",
+          "Ethics"
+        ],
+        "desc": "The cross (✚) acts as a universal symbol of care: interpreted as a Christian cross (faith, spiritual salvation) or a medical cross (science, cure). This dual meaning creates a symbolic battleground between religion and science in the field of medicine.\nProblematic Questions:\nHow do individuals navigate conflicts between faith and scientific authority in health decisions?\nCan a symbol embody competing interpretations without causing social tension?",
+        "links": [
+          "https://www.pandorarivista.it/articoli/attualita-del-pensiero-di-pierre-bourdieu/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "njkcclt0",
+      "x": 4199.4731392477015,
+      "y": 2924.638144778831,
+      "w": 320,
+      "h": 656,
+      "group": null,
+      "data": {
+        "date": "2025-10-02",
+        "title": "What if? (Religion vs Science)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Symbolic affiliation",
+          "Religion",
+          "Society",
+          "Medicine",
+          "Ethics"
+        ],
+        "tags": [
+          "What if?",
+          "Religion vs science",
+          "Religion",
+          "Science",
+          "Health",
+          "Symbolic decision",
+          "Society",
+          "Public space"
+        ],
+        "desc": "What if in 2050 entering a pharmacy, clinic, or hospital required choosing between faith or science?\n-\nWHO: Citizens of a future society\nWHAT: DualDispenser — a machine with two slots distributing either scientific medications certified by laboratories or religiously consecrated medicines. Choice becomes an act of symbolic affiliation.\nWHEN: 2050\nWHERE: Hypothetical future urban settings\nWHY: To explore tensions between faith and science and the societal implications of symbolic alignment in health\n-\nScience accuses faith of dangerous obscurantism\nFaith accuses science of aridity and profit-seeking\nCitizens must decide in whom or what to trust for their health",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n45z8m8p",
+      "x": 5040.45778676393,
+      "y": 1475.8991769009904,
+      "w": 320,
+      "h": 259,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The theme of the power of symbols explored in Semiotic Inflation is interesting, but it might be more effective to discuss it within the context of Transculturation of Symbols. The discussion should emphasize how meaning transforms across cultural contexts rather than abstract circulation of symbols.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmb1afcv",
+      "x": 4638.106649472111,
+      "y": 3062.534288799664,
+      "w": 320,
+      "h": 259,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The theme of the conflict between religion and science is compelling, but the focus should clarify the reflection goal and ensure a clear role for the symbol. The scenario must highlight the symbolic tension rather than only the ethical or practical consequences.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncndnm0x",
+      "x": 5085.971742437564,
+      "y": 4379.390228233961,
+      "w": 320,
+      "h": 242,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The IFS (Symbolic Loyalty Index) scenario is interesting for exploring belonging, but it is too complex. A simpler, more immediate scenario is preferable, focusing on visible symbolic behavior rather than algorithmic scoring.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nv9lqch4",
+      "x": 4678.696664256094,
+      "y": 5190.912672499054,
+      "w": 320,
+      "h": 259,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The theme of historical memory is compelling, particularly regarding symbols in public spaces, but the existing scenario is too complicated. Simplifying the scenario could make the reflection on memory, identity, and public symbols more immediate and tangible.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nppwf94v",
+      "x": 5064.026122088707,
+      "y": 3065.3660715922665,
+      "w": 320,
+      "h": 259,
+      "group": null,
+      "data": {
+        "date": "2025-10-05",
+        "title": "",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "After exploring potential scenarios for the conflict between religion and science, the group decided to abandon this theme. The scenarios developed did not offer a clear role for the symbol or an effective design reflection. Focus will shift to other themes with stronger project potential.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nc8fqg4o",
+      "x": 5485.537213829532,
+      "y": 4421.918812269162,
+      "w": 320,
+      "h": 225,
+      "group": null,
+      "data": {
+        "date": "2025-10-05",
+        "title": "",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The group decided to abandon this theme. While the theme offered interesting reflections on symbolic affiliation, the scenarios were either too complex or did not produce effective design directions.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nntvbmp1",
+      "x": 5446.078611848269,
+      "y": 1479.1291993484904,
+      "w": 320,
+      "h": 753,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Power of Symbols",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Identity",
+          "Reputation",
+          "Rebranding",
+          "Religion"
+        ],
+        "tags": [
+          "Insight",
+          "Transculturation",
+          "Scandals",
+          "Religion",
+          "Rebranding"
+        ],
+        "desc": "A symbol represents the identity and essence of an institution or ideology. When values associated with the symbol are betrayed (e.g., scandals), its credibility and the trust of the public are eroded. Investigating this phenomenon, we focused on institutions rich in symbols that have suffered repeated scandals: the Church. Data shows a consistent global decline in participation in religious activities, reflecting waning trust.\n-\nCan an institution restore the credibility of its symbol after repeated scandals?\nIs trust something that can be rebuilt through communication, or is the loss irrecoverable?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-08 alle 12.47.46.png",
+            "size": 177874,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.47.46.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4ig0fal",
+      "x": 5858.7696743421375,
+      "y": 1478.003222593554,
+      "w": 320,
+      "h": 1339,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Church Rebranding",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Symbolic redefinition",
+          "Institutional identity",
+          "Trust recovery"
+        ],
+        "tags": [
+          "What if?",
+          "Transculturation",
+          "Rebranding",
+          "Religion"
+        ],
+        "desc": "What if in 2080, after decades of declining trust due to scandals, the Church decided to “purify itself” rather than expecting forgiveness from believers?\n-\nThe Church hires a communication agency to lead a rebranding process.\nThe process involves redefining its identity, visual language, and communicative style to restore credibility.\nThe initiative raises questions about whether symbolic authority can be rebuilt through strategic communication or if trust, once lost, is irretrievable.\n-\nCan a symbol regain its initial credibility and power?\nWhat is the role of communication in reshaping trust in an institution?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-08 alle 12.49.48.png",
+            "size": 88955,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.49.48.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.50.02.png",
+            "size": 23114,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.50.02.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.50.06.png",
+            "size": 28304,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.50.06.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.50.11.png",
+            "size": 23548,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.50.11.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.50.17.png",
+            "size": 43794,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.50.17.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3kwn50e",
+      "x": 5085.197583336021,
+      "y": 4781.411798107846,
+      "w": 320,
+      "h": 1725,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Cancel Culture & Collective Memory",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Historical memory",
+          "Iconoclasm",
+          "Debate"
+        ],
+        "tags": [
+          "Insight",
+          "Cancel culture",
+          "Monuments",
+          "Historical memory",
+          "Debate",
+          "Society",
+          "History",
+          "Culture"
+        ],
+        "desc": "Cancel culture transforms public memory into a contested space. The removal, renaming, or vandalism of monuments and symbols turns the past into a site of tension. Cases like the Montanelli statue, Italia Turrita, and Bigio of Brescia illustrate how monuments have become battlegrounds between conservation and rejection.\n-\nCan symbols of the past be preserved without reproducing harm or controversy?\nDoes removing symbols correct history, or does it risk erasing it entirely?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.02.png",
+            "size": 870496,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.02.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.08.png",
+            "size": 1128001,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.08.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.15.png",
+            "size": 758076,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqnzbj9u",
+      "x": 5478.451038759006,
+      "y": 4780.387920594004,
+      "w": 320,
+      "h": 1307,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Fantastatua",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Gamification",
+          "Historical memory",
+          "Society",
+          "Culture"
+        ],
+        "tags": [
+          "What if?",
+          "Cancel culture",
+          "Monuments",
+          "Public space",
+          "Historical memory"
+        ],
+        "desc": "What if in 2030, a collective of activists creates Fantastatua, a gamified system where citizens form teams around monuments and “bet” on which will be vandalized or preserved?\n-\nDocuments rediscovering parts of history are leaked, sparking debate.\nCitizens participate in a game where each action affects which monuments remain in public spaces.\nThe game turns collective memory into a competitive process, exploring the tension between public debate, entertainment, and shared responsibility.\n-\nThe scenario exaggerates contemporary visibility and consensus dynamics.\nIt highlights how symbolic value depends on collective perception and action.\nRaises the question: does canceling symbols correct or erase history?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.24.png",
+            "size": 100111,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.24.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.32.png",
+            "size": 17188,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.32.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.37.png",
+            "size": 28959,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.37.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.42.png",
+            "size": 23501,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.42.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 12.55.51.png",
+            "size": 59475,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_12.55.51.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ndb0gs5x",
+      "x": 6271.224310897312,
+      "y": 1479.4184816327142,
+      "w": 320,
+      "h": 305,
+      "group": null,
+      "data": {
+        "date": "2025-10-08",
+        "title": "Decision: Abandon Church Rebranding Theme",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "After review, the Church rebranding scenario is abandoned. Although the theme of transculturation and symbolic trust is interesting, basing the project on such a sensitive institution could be problematic. The project will instead focus on historical memory, which offers a safer and more versatile context for exploring symbolic conflict.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndx4r0q6",
+      "x": 5901.187144751213,
+      "y": 5098.066584573761,
+      "w": 320,
+      "h": 393,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The historical memory scenario is promising, but the current scenario requires refinement. Feedback highlights:\nThe scenario must better reflect the thematic conflict at the core of memory and symbolism.\nThe scope of cancel culture should be carefully considered: should it be limited to statues, or address a broader spectrum of historical symbols and media?\nIt may be necessary to identify symbols that more effectively communicate the theme.\nThe scenario should clarify the tensions between interpretation, collective action, and symbolic preservation or erasure.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nh5jojfs",
+      "x": 5896.9948047230255,
+      "y": 4779.300147435265,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Decision: Project Focus on Historical Memory",
+        "type": "Decision",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The project will officially focus on historical memory linked to public symbols. This thematic focus offers a strong and versatile context for exploring symbolic conflict, collective interpretation, and the tensions between preservation, erasure, and public perception.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncith7wx",
+      "x": 6275.7522337140845,
+      "y": 5100.986314974488,
+      "w": 320,
+      "h": 425,
+      "group": null,
+      "data": {
+        "date": "2025-10-08",
+        "title": "Forbidden Symbol",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Language",
+          "Ideology",
+          "Censorship",
+          "Identity"
+        ],
+        "tags": [
+          "What if?",
+          "Symbols",
+          "Linguistics",
+          "Prohibition",
+          "Ideology"
+        ],
+        "desc": "In a near future, a common sign — a letter or number — is appropriated by a violent ideology and becomes illegal. Society is forced to rewrite the entire alphabetic or numerical system to erase its association.\nHow can symbols and ideologies redefine the very foundations of language and culture?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nhjlvt6p",
+      "x": 6281.351660003259,
+      "y": 5537.296679993482,
+      "w": 320,
+      "h": 477,
+      "group": null,
+      "data": {
+        "date": "2025-10-08",
+        "title": "Expiring Date",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Historical memory",
+          "Democracy",
+          "Monuments",
+          "Culture",
+          "Society"
+        ],
+        "tags": [
+          "What if?",
+          "Monuments",
+          "Public space",
+          "Culture",
+          "History",
+          "Society",
+          "Censorship",
+          "Group dynamics",
+          "Cancel culture",
+          "Historical memory"
+        ],
+        "desc": "Every monument, square, or street has an expiration date. Once it’s reached, citizens can vote whether to renew, modify, or remove it. A democratic and dynamic system of public memory.\nHow does our perception of history shift with time, place, and cultural context?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nx700q25",
+      "x": 6283.598814788246,
+      "y": 6019.127149025582,
+      "w": 320,
+      "h": 392,
+      "group": null,
+      "data": {
+        "date": "2025-10-08",
+        "title": "Inverted History",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Culture",
+          "Historical memory",
+          "Multiverse"
+        ],
+        "tags": [
+          "What if?",
+          "Historical memory",
+          "History",
+          "Censorship"
+        ],
+        "desc": "In a speculative multiverse, the defeated of history become the victors. Entire symbolic systems — flags, statues, myths — are rewritten accordingly.\nIf the defeated became the victorious, how would the symbols and their meanings change?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nym27a7a",
+      "x": 6284.491357826331,
+      "y": 6421.206904874534,
+      "w": 320,
+      "h": 363,
+      "group": null,
+      "data": {
+        "date": "2025-10-08",
+        "title": "History Market",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Economy",
+          "Historical memory",
+          "Culture"
+        ],
+        "tags": [
+          "What if?",
+          "Cancel culture",
+          "Economy",
+          "Market"
+        ],
+        "desc": "A supermarket sells historical events as if they were consumer goods. Episodes with low “sales” are withdrawn from shelves — forgotten, erased from public discourse.\nWhen memory becomes merchandise, does history survive only if it generates profit or visibility?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nlpy5hvy",
+      "x": 6284.849999999055,
+      "y": 6792.986313369399,
+      "w": 320,
+      "h": 402,
+      "group": null,
+      "data": {
+        "date": "2025-10-08",
+        "title": "The Council of Chance",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scenarios",
+          "Ethics",
+          "Randomness",
+          "Power dynamics",
+          "Neutrality"
+        ],
+        "tags": [
+          "What if?",
+          "Ethics",
+          "Justice",
+          "Society"
+        ],
+        "desc": "In a morally obsessed society, no human institution can judge the past without bias. To ensure neutrality, a new system — the Council of Chance — decides the fate of historical symbols (monuments, names, artworks) by rolling dice.\nIf chance decides what deserves to be remembered, can history ever be neutral?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ng5juhs4",
+      "x": 6653.25670189599,
+      "y": 5100.4085561170605,
+      "w": 320,
+      "h": 511,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The latest review highlighted that while some speculative ideas on historical memory were promising, the project is drifting too far from the central theme of symbolic power.\nThe expiration date concept could have potential, but the focus on toponymy feels less contemporary.\nThe history market scenario (commercialization of memory) is interesting for its unusual logic but needs deeper development.\nThe random assignment of symbols offers a stimulating mechanism but lacks connection to strong visual or graphic elements.\nOverall, we are moving away from the graphic and communicative strength of symbols, which should remain central to our exploration.\n-\nWe should take a step back and reconsider how to explore the potency, transformation, and manipulation of graphic symbols, grounding our next scenarios more explicitly in the language of signs and visual identity.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nu287rs4",
+      "x": 7033.393182757971,
+      "y": 9230.425798920605,
+      "w": 320,
+      "h": 2280,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "Morphology of Symbols",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scensarios",
+          "Semiotics",
+          "Morphology",
+          "Culture"
+        ],
+        "tags": [
+          "What if?",
+          "Morphology",
+          "Symbolism",
+          "Perception",
+          "Randomness"
+        ],
+        "desc": "What if: What if every new symbol — for institutions, brands, or organizations — could only be generated randomly?\nScenario: To limit the overproduction of symbols and visual confusion, institutions adopt an algorithm that automatically generates official symbols using the same structural template. The algorithm assigns a symbol to each entity (or even to each person at birth), creating a world of visual uniformity and constrained identity.\nConflict: Between individuality and imposed standardization; between the human need to choose symbols and a system that removes agency.\nReflection: Can identity still exist without the freedom to choose one’s own symbols? What happens when creativity becomes procedural?",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-10-15 at 17.19.23 (1).jpeg",
+            "size": 180264,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-10-15_at_17.19.23_(1).jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-10-15 at 17.19.23 (2).jpeg",
+            "size": 151494,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-10-15_at_17.19.23_(2).jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-10-15 at 17.19.23 (3).jpeg",
+            "size": 103386,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-10-15_at_17.19.23_(3).jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-10-15 at 17.19.23.jpeg",
+            "size": 123079,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-10-15_at_17.19.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ns9p9af1",
+      "x": 7032.929793167257,
+      "y": 5099.424450414994,
+      "w": 320,
+      "h": 876,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "Sign vs Symbol",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scensarios",
+          "Semiotics",
+          "Historical memory",
+          "Power dynamics",
+          "Appropriation"
+        ],
+        "tags": [
+          "What if?",
+          "Appropriation",
+          "Historical memory",
+          "Manipulation",
+          "Legacy",
+          "Society",
+          "History",
+          "Culture",
+          "Perception"
+        ],
+        "desc": "What if: What if the meaning of symbols could be traded, bought, and sold?\nScenario: On the dark web, anonymous actors buy and resell symbolic meanings — rewriting history, erasing cultural memory, and imposing new interpretations as collective truth.\nConflict: Between heritage and reinvention; between the original meaning of a symbol and its artificial rewriting.\nReflection: Who owns meaning? Can a symbol’s history be overwritten — or does its past always haunt it?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-15 alle 16.28.57.png",
+            "size": 372689,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-15_alle_16.28.57.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nh34y8r2",
+      "x": 7033.446199538212,
+      "y": 7492.011964915134,
+      "w": 320,
+      "h": 794,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "Influence of Symbols",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scensarios",
+          "Psychology",
+          "Ethics",
+          "Communication",
+          "Symbolic saturation",
+          "Perception",
+          "Semiotics"
+        ],
+        "tags": [
+          "What if?",
+          "Emotion",
+          "Control",
+          "Symbolism",
+          "Manipulation",
+          "Society",
+          "Semiotics",
+          "Perception",
+          "Sign saturation",
+          "Communication overload",
+          "Cognitive overload"
+        ],
+        "desc": "What if: What if symbols were the only way left to feel emotions?\nScenario: After years of hyperconnectivity and emotional burnout, humanity loses the ability to feel spontaneously. A corporation distributes emotion-inducing symbols, calibrated through visual grammar to evoke specific sensations. Emotional responses are tracked, monetized, and engineered.\nConflict: Between authenticity and manipulation, between emotional autonomy and corporate control.\nReflection: If emotions can be designed, do they still belong to us?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-14 alle 17.19.59.png",
+            "size": 719340,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-14_alle_17.19.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n87u9qwt",
+      "x": 7035.460897510217,
+      "y": 5994.11233545667,
+      "w": 320,
+      "h": 790,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "Perception of a Symbol",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scensarios",
+          "Perception",
+          "Psychology",
+          "Graphic design",
+          "Semiotics"
+        ],
+        "tags": [
+          "What if?",
+          "Subconscious",
+          "Perception",
+          "Culture",
+          "History",
+          "Society",
+          "Semiotics"
+        ],
+        "desc": "What if: What if the design of the peace symbol subconsciously made us distrust peace itself?\nScenario: A scientific study reveals that the peace sign, due to its imperfect geometry, generates a subtle sense of instability and unease in viewers — unconsciously weakening belief in balance and harmony. A design group proposes to “fix” it to restore symbolic coherence.\nConflict: Between aesthetic precision and cultural heritage; between rational design and emotional meaning.\nReflection: Do we shape symbols, or do symbols shape us? Can form itself influence the way we believe in an idea?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-15 alle 16.29.37.png",
+            "size": 196500,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-15_alle_16.29.37.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5wgh1de",
+      "x": 7033.553586572481,
+      "y": 8310.556004406248,
+      "w": 320,
+      "h": 899,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "Neutrality",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scensarios",
+          "Ethics",
+          "Semiotics"
+        ],
+        "tags": [
+          "What if?",
+          "Randomness",
+          "Ethics",
+          "Neutrality",
+          "Chance"
+        ],
+        "desc": "What if: What if the fate of all symbols were decided by chance?\nScenario: To avoid ideological bias and moral conflict, society delegates all symbolic decisions — preservation, destruction, or reinterpretation — to an automated system that draws lots.\nConflict: Between responsibility and detachment; between moral judgment and neutral indifference.\nReflection: By removing judgment, do we achieve fairness or emptiness?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-15 alle 16.30.39.png",
+            "size": 183302,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-15_alle_16.30.39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n90dd7hm",
+      "x": 7035.739242773679,
+      "y": 6803.378353570816,
+      "w": 320,
+      "h": 666,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "Context Inversion",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Scensarios",
+          "Society",
+          "Religion",
+          "Culture",
+          "Politics",
+          "Social critique"
+        ],
+        "tags": [
+          "What if?",
+          "Tradition",
+          "Inversion",
+          "Neutrality",
+          "Society",
+          "Public space",
+          "Religion"
+        ],
+        "desc": "What if: What if every Italian church were required to display the symbol of the school system?\nScenario: Inverting the traditional debate about crucifixes in classrooms, the state introduces a law mandating the exposure of secular symbols in all religious spaces.\nConflict: Between sacred and civic authority, between tradition and equality.\nReflection: What defines where a symbol belongs? How much of its meaning depends on context, and how much on belief?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-15 alle 16.30.25.png",
+            "size": 92209,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-15_alle_16.30.25.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbgy3gkz",
+      "x": 7480.634866602737,
+      "y": 7402.01573446285,
+      "w": 320,
+      "h": 406,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "Focus on Symbol Influence",
+        "type": "Decision",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The project will proceed focusing on the theme of the influence of symbols, identified as the most promising and feasible. The “context inversion” theme, while interesting, lacked a compelling scenario and is therefore set aside. Observations highlight:\nCreating a symbolic “alphabet” is timely and rich in possibilities.\nConflict should remain central — either embedded in the scenario, the What If, or the interactive outcomes.\nThe tension lies between sign and meaning, symbol and symbolism, and should guide design exploration.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nl0itj8y",
+      "x": 7479.572836030247,
+      "y": 7839.1062075271175,
+      "w": 320,
+      "h": 1153,
+      "group": null,
+      "data": {
+        "date": "2025-10-15",
+        "title": "Semiotics",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Psychology",
+          "Semiotics",
+          "Interpretation",
+          "Perception",
+          "Graphic design",
+          "Communication"
+        ],
+        "tags": [
+          "Research",
+          "Peirce",
+          "Barthes",
+          "Jakobson",
+          "Kress & van leeuwen",
+          "Theory",
+          "Perception",
+          "Symbolism"
+        ],
+        "desc": "Study of how signs and meanings are produced and interpreted. Key concepts include the semiotic triangle (object, sign, interpretant), types of signs (icon, index, symbol), denotation/connotation/evocation, and communication functions. Provides the language to discuss how symbols generate emotions, identity, and belonging, transforming symbols into experiential and affective tools.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-15 alle 18.57.31.png",
+            "size": 679863,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-15_alle_18.57.31.jpg"
+          },
+          {
+            "name": "semiotics-final-poster.png.webp",
+            "size": 400860,
+            "type": "image/webp",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/semiotics-final-poster.png.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlq2r99l",
+      "x": 7478.063515428043,
+      "y": 9021.48949089114,
+      "w": 320,
+      "h": 969,
+      "group": null,
+      "data": {
+        "date": "2025-10-15",
+        "title": "No Logo (Naomi Klein)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Branding",
+          "Semiotics",
+          "Social critique"
+        ],
+        "tags": [
+          "Research",
+          "Brand",
+          "Logo",
+          "Identity",
+          "Market",
+          "Symbolism",
+          "Adbusting"
+        ],
+        "desc": "Analyzes how global brands become cultural and identity symbols. Logos shift from product markers to tools shaping emotions, desires, and social belonging. Introduces the semiotization of the market and the emergence of resistance practices (adbusting, underground culture). Shows how symbols serve power and identity rather than mere communication.\n-\nAdbusting: Practice of subverting advertising messages and logos to reveal manipulation or ideology. Decodes brand myths and restores interpretative power to citizens. Demonstrates how symbols can be re-appropriated as tools of critique, emphasizing conflict between intended meaning and subverted meaning.",
+        "links": [],
+        "files": [
+          {
+            "name": "No_Logo_logo.svg.png",
+            "size": 40728,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/No_Logo_logo.svg.jpg"
+          },
+          {
+            "name": "adbust1.jpg",
+            "size": 9269,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/adbust1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ns4uvofa",
+      "x": 7984.092450070682,
+      "y": 7402.482632469917,
+      "w": 320,
+      "h": 543,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "When Symbols Replace Words",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Semiotics",
+          "Visual culture",
+          "Media studies",
+          "Design theory",
+          "Linguistics"
+        ],
+        "tags": [
+          "What if?",
+          "Symbols",
+          "Language",
+          "Control",
+          "Communication",
+          "Emotion"
+        ],
+        "desc": "In the year 2089, words are declared inefficient — too ambiguous and subjective. Language disappears, replaced by a global visual grammar managed by S.I.M.B.O.L., the Integrated System of Mediation Based on Linguistic Objects. Citizens communicate through symbols interpreted and transmitted via LogOS, a wearable interface that reads emotional states and translates them into visual signs. The conflict emerges when individuals realize that symbols no longer represent what they feel — they dictate what they must feel. Meaning becomes programmed rather than personal, and rebellion arises from The Speakers, who try to reintroduce words into a world that no longer understands them.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nj6fc6op",
+      "x": 7477.37474294909,
+      "y": 10010.990813307766,
+      "w": 320,
+      "h": 1067,
+      "group": null,
+      "data": {
+        "date": "2025-10-15",
+        "title": "DAMN (Giga Design Studio)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Communication",
+          "Symbolic saturation"
+        ],
+        "tags": [
+          "Research",
+          "Symbol language",
+          "Communication overload",
+          "Speculative"
+        ],
+        "desc": "Speculative project on digital communication where language reduces to reactive symbols merging words and icons. Highlights saturation of signs and the evaporation of authentic meaning, emphasizing the increasing dominance of visual, instantaneous, and impulsive communication over reflection.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-15 alle 19.05.37.png",
+            "size": 279775,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-15_alle_19.05.37.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-15 alle 19.05.46.png",
+            "size": 293319,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-15_alle_19.05.46.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-15 alle 19.06.55.png",
+            "size": 278011,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-15_alle_19.06.55.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7jyr8c8",
+      "x": 7477.946343829567,
+      "y": 11092.67326113257,
+      "w": 320,
+      "h": 787,
+      "group": null,
+      "data": {
+        "date": "2025-10-15",
+        "title": "Brainrot",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Society",
+          "Social media",
+          "Semiotics",
+          "Meme culture",
+          "Symbolic saturation"
+        ],
+        "tags": [
+          "Research",
+          "Passive consumption",
+          "Cognitive overload"
+        ],
+        "desc": "Describes the contemporary phenomenon of passive visual consumption, leading to diminished critical thought. In semiotic terms, a blocked semiosis where signs generate automatic reactions without interpretation. Highlights the decline of connotative power and the dominance of phatic and aesthetic communication.",
+        "links": [],
+        "files": [
+          {
+            "name": "cc3c0d16c17ac151f287960e1fc4b5d1226de1369ee264784a9b1c8fa3783823.avif",
+            "size": 12133,
+            "type": "image/avif",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/cc3c0d16c17ac151f287960e1fc4b5d1226de1369ee264784a9b1c8fa3783823.jpg"
+          },
+          {
+            "name": "hq720.jpg",
+            "size": 59247,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/hq720.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njshowo7",
+      "x": 7477.71363104297,
+      "y": 11898.931425962335,
+      "w": 320,
+      "h": 823,
+      "group": null,
+      "data": {
+        "date": "2025-10-15",
+        "title": "Logo in Real Life (Ilya Stallone / Giga Design Studio)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Branding",
+          "Adbusting",
+          "Social critique",
+          "Symbolic saturation"
+        ],
+        "tags": [
+          "Research",
+          "Logo",
+          "Semiotics",
+          "Communication overload"
+        ],
+        "desc": "Conceptual photography project recontextualizing logos in real-world environments. Not a militant adbusting, but a critical reflection on brand saturation and the symbolic power of logos. Highlights the disconnect between symbol and reality and encourages reflection on visual memory and perception.",
+        "links": [],
+        "files": [
+          {
+            "name": "250226_Editoria&Progetto_05_Michele Galluzzo  Logo in real life. Note per una storia sociale della visual identity  Crisis, 2024_45.jpeg",
+            "size": 587310,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/250226_Editoria&Progetto_05_Michele_Galluzzo_Logo_in_real_life._Note_per_una_storia_sociale_della_visual_identity_Crisis,_2024_45.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n688socr",
+      "x": 7988.528270041257,
+      "y": 7973.280820488311,
+      "w": 320,
+      "h": 509,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "When Symbols Become the Only Way to Feel",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Semiotics",
+          "Visual culture",
+          "Media studies",
+          "Design theory"
+        ],
+        "tags": [
+          "What if?",
+          "Symbols",
+          "Control",
+          "Symbolism",
+          "Communication",
+          "Emotion"
+        ],
+        "desc": "In a hyperconnected world where humans have lost the ability to experience genuine emotions, society turns to Sensa — a corporation that develops symbols capable of triggering emotional responses. Through REVIVƎЯ interfaces, users can experience specific emotions on demand. The conflict arises around who controls the symbolic-emotional system: governments, corporations, or individuals. The public, emotionally desensitized, accepts this dependence, believing it the only way to “feel again.” The scenario questions the commodification of affect and the ethical boundaries of emotion design.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5q4pryt",
+      "x": 7986.926293435983,
+      "y": 8499.013908370696,
+      "w": 320,
+      "h": 526,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Trademarked Emotions",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Semiotics",
+          "Media studies",
+          "Consumer culture",
+          "Emotional capitalism"
+        ],
+        "tags": [
+          "What if?",
+          "Branding",
+          "Emotion",
+          "Privatization",
+          "Consumerism",
+          "Power"
+        ],
+        "desc": "A new law allows brands to register emotions as trademarks, transforming affective expression into a consumable resource. Experiencing joy, sadness, or excitement now carries a monetary cost. Devices such as Emotional Recording Machines and Emotion Scanners monitor reactions and charge users for the use of proprietary feelings (“You felt Happiness™ for 4.3 seconds. Total: €0.13”). The conflict lies in the total privatization of emotional life — brands and corporations gain full control over human affect, while the population accepts it as part of everyday consumerism. The scenario critiques emotional capitalism and the commodification of identity.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nn3yyn39",
+      "x": 8403.673185773412,
+      "y": 7402.244743313381,
+      "w": 320,
+      "h": 526,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Brands Become Language",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Semiotics",
+          "Visual culture",
+          "Media studies",
+          "Design theory",
+          "Linguistics",
+          "Brand theory"
+        ],
+        "tags": [
+          "What if?",
+          "Symbols",
+          "Language",
+          "Branding"
+        ],
+        "desc": "In a near future, verbal language collapses under the pressure of visual hypercommunication and cognitive saturation. Words become too slow and complex to keep up with the speed of global interaction. As a result, commercial symbols — logos and trademarks — take on the role of a universal language. Brands evolve into identity agents that convey values, emotions, and cultural imaginaries beyond the economic sphere. The scenario explores how the replacement of words with corporate symbols reshapes communication, identity, and meaning-making in a world where expression itself becomes a branded experience.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8fluc0e",
+      "x": 7987.38159258532,
+      "y": 9040.329209256892,
+      "w": 320,
+      "h": 526,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "When Symbols Replace Words",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Semiotics",
+          "Visual culture",
+          "Media studies",
+          "Design theory",
+          "Linguistics"
+        ],
+        "tags": [
+          "What if?",
+          "Symbols",
+          "Language",
+          "Branding",
+          "Symbolism",
+          "Identity",
+          "Power"
+        ],
+        "desc": "Verbal language collapses under the weight of hyperconnectivity and visual saturation. People lose the ability to articulate complex thoughts and begin to communicate exclusively through brand symbols. Logos no longer represent products, but emotional and social values, becoming the new shared language of humanity. The conflict emerges when the public visual lexicon is replaced by corporate-owned symbols, resulting in the privatization of expression and thought. The scenario explores the intersection of visual communication, brand semiotics, and cognitive dependence on corporate imagery.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nfdfs5zq",
+      "x": 8791.85825210532,
+      "y": 7821.451401750149,
+      "w": 320,
+      "h": 616,
+      "group": null,
+      "data": {
+        "date": "2025-10-18",
+        "title": "Conflicts of Symbolic Ownership",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Semiotics",
+          "Visual culture",
+          "Media studies",
+          "Design theory",
+          "Linguistics",
+          "Brand theory"
+        ],
+        "tags": [
+          "Ownership",
+          "Power",
+          "Meaning",
+          "Commercialization"
+        ],
+        "desc": "The scenario raises critical questions about the politics of meaning in a branded society. When companies compete to own concepts through symbolic association, language ceases to be a shared cultural resource and becomes private property. The core conflicts emerge around three axes:\nOwnership — Is language still a collective good or a field of corporate possession?\nAuthority — Who defines meaning when symbols no longer represent but replace values?\nTruth — If meaning depends on who interprets the symbol, can a shared truth still exist, or only subjective, commercial perceptions?\nThese tensions reveal how control over symbols translates into control over collective imagination and thought.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n49b4ybv",
+      "x": 8798.35535920911,
+      "y": 7399.104227404194,
+      "w": 320,
+      "h": 389,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Focus on Symbolic Language Scenario",
+        "type": "Decision",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "After evaluating multiple speculative directions, the team decided to proceed with the scenario exploring the rise of a language based on commercial signs. This path was chosen for its conceptual depth, cultural relevance, and feasibility within the available timeframe. The scenario — in which human communication is progressively replaced by corporate symbols — allows a critical reflection on semiotics, emotional control, and the commodification of meaning. This decision marks a strategic milestone shaping the project’s further developments.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzcs2kc4",
+      "x": 9217.143503081039,
+      "y": 7400.532280839348,
+      "w": 320,
+      "h": 668,
+      "group": null,
+      "data": {
+        "date": "2025-10-20",
+        "title": "ICON — Institute of Common Nomenclature",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Semiotics",
+          "Design theory",
+          "Linguistics",
+          "Governance"
+        ],
+        "tags": [
+          "Institution",
+          "Language system",
+          "Standardization",
+          "Branding"
+        ],
+        "desc": "The Institute of COmmon Nomenclature (ICON) is a fictional public authority that manages the global visual language. Its mission is to maintain coherence in universal communication by curating the ICON Dictionary — a database that maps concepts to commercial symbols. Each brand’s eligibility is evaluated through three metrics: visual diffusion (presence in the global media stream), symbolic coherence, and cultural perception (the spontaneous association between a concept and a logo). ICON embodies the bureaucratization of meaning, transforming communication into a regulated, measurable system — where the value of a sign depends not on its truth, but on its visibility.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-27 alle 22.46.52.png",
+            "size": 73931,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_22.46.52.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2o3g253",
+      "x": 9601.937350502521,
+      "y": 7401.480464499983,
+      "w": 320,
+      "h": 937,
+      "group": null,
+      "data": {
+        "date": "2025-10-22",
+        "title": "ICON: Mission, Vision, and Values",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Semiotics",
+          "Media theory",
+          "Cultural studies",
+          "Branding"
+        ],
+        "tags": [
+          "Identity",
+          "Values",
+          "Vision",
+          "Mission"
+        ],
+        "desc": "ICON’s mission is to establish a communication system based on coherence, recognizability, and efficiency, regulating the association between concepts and commercial symbols. Its vision aims to counter cognitive saturation generated by hypercommunication through a universal visual language. Core values include immediacy — enabling instant, concise, universal communication; objectivity — treating the language as a regulated system based on clear criteria; and universality — transforming symbols into shared codes beyond individual brands.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-27 alle 22.54.23.png",
+            "size": 71557,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_22.54.23.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-27 alle 22.54.31.png",
+            "size": 53121,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_22.54.31.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-27 alle 22.54.40.png",
+            "size": 121357,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_22.54.40.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njjjoo6x",
+      "x": 9599.669940944415,
+      "y": 8361.345608151765,
+      "w": 320,
+      "h": 563,
+      "group": null,
+      "data": {
+        "date": "2025-10-23",
+        "title": "ICON Golden Circle",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Semiotics",
+          "Media theory",
+          "Cultural studies",
+          "Branding"
+        ],
+        "tags": [
+          "Golden circle",
+          "Strategy"
+        ],
+        "desc": "ICON’s strategic approach can be framed through the Golden Circle model. The Why: enable effective communication in a society affected by cognitive overload. The How: establish the new visual language by defining associations between concepts and commercial symbols. The What: create, regulate, and maintain the ICON Dictionary, the authoritative vocabulary of this symbolic language. This framework clarifies both the purpose and operational methodology of the institution.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-27 alle 22.56.28.png",
+            "size": 158036,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_22.56.28.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfppxbma",
+      "x": 9599.843614067839,
+      "y": 8947.902075132299,
+      "w": 320,
+      "h": 703,
+      "group": null,
+      "data": {
+        "date": "2025-10-23",
+        "title": "ICON Tone of Voice and Payoff",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Semiotics",
+          "Media theory",
+          "Cultural studies",
+          "Branding"
+        ],
+        "tags": [
+          "Tone of voice",
+          "Payoff"
+        ],
+        "desc": "ICON adopts a formal, factual, and respectful tone of voice, emphasizing objectivity and clarity in all communications. Its institutional payoff, “Defining Communication of Tomorrow,” reflects the organization’s ambition to establish a universally recognized symbolic language. The combination of tone and payoff reinforces the perception of authority, reliability, and strategic oversight in regulating the future of symbolic communication.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-27 alle 22.57.51.png",
+            "size": 85847,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_22.57.51.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-27 alle 22.58.00.png",
+            "size": 77422,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_22.58.00.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfkp0hqc",
+      "x": 10520.561767418043,
+      "y": 6543.867453372884,
+      "w": 320,
+      "h": 677,
+      "group": null,
+      "data": {
+        "date": "2025-10-23",
+        "title": "Lexicon",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Semiotics",
+          "Communication studies",
+          "Visual culture",
+          "Design theory"
+        ],
+        "tags": [
+          "Device",
+          "Translator",
+          "Lexicon"
+        ],
+        "desc": "LexICON is an interactive device that automatically translates written text into the symbols defined in the ICON Dictionary. Users can explore the evolution of communication through a slider, observing how language gradually reduces to essential visual signs. At the end of the experience, the translation can be printed or sent to personal devices, providing a record of the linguistic transformation. The device’s aesthetic resembles a calculator, featuring a monitor and keyboard, emphasizing precision and formal interaction.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-27 alle 23.03.47.png",
+            "size": 180541,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_23.03.47.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na52299z",
+      "x": 10139.032825009062,
+      "y": 6109.48033097308,
+      "w": 320,
+      "h": 427,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-27 alle 23.06.44.png",
+            "size": 667033,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_23.06.44.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-27 alle 23.07.20.png",
+            "size": 1558730,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_23.07.20.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n31ivnai",
+      "x": 11071.312510196985,
+      "y": 7411.87458826349,
+      "w": 320,
+      "h": 523,
+      "group": null,
+      "data": {
+        "date": "2025-10-23",
+        "title": "",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Study of logo interaction on white background to test visual balance and semantic clarity.\nMix of sans serif (digital readability) and serif (dictionary reference).\nNeutral greys + 4 base colors to express synthesis of infinite knowledge.\nModern layout reflecting immediacy, objectivity, universality — ICON’s core values.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-27 alle 23.10.56.png",
+            "size": 1422346,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_23.10.56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnue5run",
+      "x": 11071.06202756445,
+      "y": 7950.736523903681,
+      "w": 320,
+      "h": 484,
+      "group": null,
+      "data": {
+        "date": "2025-10-23",
+        "title": "",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Study of logo interaction on white background to test visual balance and semantic clarity.\nMix of sans serif (digital readability) and serif (dictionary reference).\nNeutral greys + 4 base colors to express synthesis of infinite knowledge.\nModern layout reflecting immediacy, objectivity, universality — ICON’s core values.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-27 alle 23.11.24.png",
+            "size": 2436411,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_23.11.24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "napdj7ef",
+      "x": 11070.591875472377,
+      "y": 8445.473499101787,
+      "w": 320,
+      "h": 487,
+      "group": null,
+      "data": {
+        "date": "2025-10-23",
+        "title": "",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "This moodboard embodies the values of immediacy, clarity, and objectivity.\nIt draws from minimalist design principles, using clean layouts and sans-serif typography reminiscent of institutional aesthetics. The color palette is primarily black and white, with the restrained addition of red, yellow, and blue to introduce subtle visual hierarchy and emphasis.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-27 alle 23.11.34.png",
+            "size": 1774363,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_23.11.34.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0qugtfq",
+      "x": 11073.554745460506,
+      "y": 8945.466801163595,
+      "w": 320,
+      "h": 481,
+      "group": null,
+      "data": {
+        "date": "2025-10-23",
+        "title": "",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "A futuristic, tech-inspired visual identity that combines elements of data visualization, industrial design, and minimal typography. The color palette centers around black, orange, light gray, and dark gray, evoking a modern and high-contrast aesthetic. The imagery includes schematic diagrams, modular grids, and digital interface mockups, giving a sense of precision, innovation, and engineered clarity.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-27 alle 23.11.41.png",
+            "size": 3512323,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-27_alle_23.11.41.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nssmfrkr",
+      "x": 11537.286891876394,
+      "y": 7414.737353795059,
+      "w": 320,
+      "h": 554,
+      "group": null,
+      "data": {
+        "date": "2025-10-25",
+        "title": "Icon website",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-28 alle 08.53.52.png",
+            "size": 450231,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-28_alle_08.53.52.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n97urdy0",
+      "x": 11539.935803291892,
+      "y": 7985.2867542990825,
+      "w": 320,
+      "h": 554,
+      "group": null,
+      "data": {
+        "date": "2025-10-25",
+        "title": "Icon website",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-28 alle 08.53.39.png",
+            "size": 219748,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-28_alle_08.53.39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhfbu6dh",
+      "x": 11538.682657004487,
+      "y": 8554.536186527283,
+      "w": 320,
+      "h": 891,
+      "group": null,
+      "data": {
+        "date": "2025-10-25",
+        "title": "Icon website",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-28 alle 08.53.28.png",
+            "size": 107057,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-28_alle_08.53.28.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nu36jwkz",
+      "x": 11538.221273509902,
+      "y": 9463.23688193371,
+      "w": 320,
+      "h": 1721,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "Icon website",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "prove icon_Tavola disegno 1.jpg",
+            "size": 1426714,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon_Tavola_disegno_1.jpg"
+          },
+          {
+            "name": "prove icon-02.jpg",
+            "size": 1562727,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-02.jpg"
+          },
+          {
+            "name": "prove icon-03.jpg",
+            "size": 1535905,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-03.jpg"
+          },
+          {
+            "name": "prove icon-04.jpg",
+            "size": 1509765,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-04.jpg"
+          },
+          {
+            "name": "prove icon-05.jpg",
+            "size": 1665691,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-05.jpg"
+          },
+          {
+            "name": "prove icon-06.jpg",
+            "size": 1679724,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-06.jpg"
+          },
+          {
+            "name": "prove icon-07.jpg",
+            "size": 1484223,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-07.jpg"
+          },
+          {
+            "name": "prove icon-08.jpg",
+            "size": 1456810,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-08.jpg"
+          },
+          {
+            "name": "prove icon-09.jpg",
+            "size": 1456789,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-09.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhviv0qk",
+      "x": 10907.56687749492,
+      "y": 6005.167097324137,
+      "w": 320,
+      "h": 1208,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "Lexicon Interface",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "prove icon-10.jpg",
+            "size": 1269815,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-10.jpg"
+          },
+          {
+            "name": "prove icon-11.jpg",
+            "size": 1362790,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-11.jpg"
+          },
+          {
+            "name": "prove icon-12.jpg",
+            "size": 1169683,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-12.jpg"
+          },
+          {
+            "name": "prove icon-13.jpg",
+            "size": 1284869,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-13.jpg"
+          },
+          {
+            "name": "prove icon-14.jpg",
+            "size": 1246755,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-14.jpg"
+          },
+          {
+            "name": "prove icon-15.jpg",
+            "size": 1632953,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/prove_icon-15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njejh8p2",
+      "x": 11069.99303958783,
+      "y": 9461.333232816212,
+      "w": 320,
+      "h": 1360,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3679.jpg",
+            "size": 961566,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3679.jpg"
+          },
+          {
+            "name": "IMG_3680.jpg",
+            "size": 807367,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3680.jpg"
+          },
+          {
+            "name": "IMG_3681.jpg",
+            "size": 675946,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3681.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nph0ezk7",
+      "x": 10138.32266134188,
+      "y": 5305.762430443294,
+      "w": 320,
+      "h": 783,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-10-28 at 09.09.22.jpeg",
+            "size": 555312,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-10-28_at_09.09.22.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-10-28 at 09.09.24.jpeg",
+            "size": 606893,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-10-28_at_09.09.24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbx12qd5",
+      "x": 11973.807025424525,
+      "y": 7417.165075762018,
+      "w": 320,
+      "h": 1421,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "ICON Brand Identity",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual language",
+          "Branding",
+          "Institutional identity",
+          "Design theory"
+        ],
+        "tags": [
+          "Identity",
+          "Authority",
+          "Typography",
+          "Aesthetics",
+          "Branding",
+          "Strategy",
+          "Tone of voice",
+          "Communication"
+        ],
+        "desc": "This proposal envisions Icon as a formal institution with an authoritative and timeless character. Its aesthetic draws inspiration from classical dictionaries and institutional publishing design, using serif typography, structured layouts, and minimal chromatic contrast. The goal is to convey clarity, credibility, and permanence, aligning the visual identity with the values of objectivity and linguistic precision. Through its classical visual language, the brand positions itself as a guardian of symbolic meaning and cultural legitimacy.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 11.08.02.png",
+            "size": 54105,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.08.02.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.08.21.png",
+            "size": 107399,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.08.21.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.08.36.png",
+            "size": 2536571,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.08.36.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.08.50.png",
+            "size": 79970,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.08.50.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.09.02.png",
+            "size": 169800,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.09.02.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.09.16.png",
+            "size": 7159429,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.09.16.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nreomhpb",
+      "x": 11972.785096646003,
+      "y": 8858.975324035584,
+      "w": 320,
+      "h": 1483,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "ICON Brand Identity",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual language",
+          "Branding",
+          "Institutional identity",
+          "Design theory"
+        ],
+        "tags": [
+          "Identity",
+          "Authority",
+          "Typography",
+          "Aesthetics",
+          "Branding",
+          "Strategy",
+          "Tone of voice",
+          "Communication"
+        ],
+        "desc": "This identity concept presents Icon as an inclusive and engaging institution promoting the new symbolic language as a positive, collective movement. The visual language is characterized by neutral tones paired with a bright highlighter yellow that emphasizes key information and calls to action. The design encourages interaction and curiosity, positioning Icon as an active, dynamic, and socially open institution—one that invites users to participate in the construction and understanding of meaning rather than merely observing it.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 11.09.27.png",
+            "size": 103981,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.09.27.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.09.36.png",
+            "size": 1819364,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.09.36.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.09.44.png",
+            "size": 75829,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.09.44.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.09.59.png",
+            "size": 253105,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.09.59.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.10.09.png",
+            "size": 140937,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.10.09.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.10.20.png",
+            "size": 177901,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.10.20.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nkad1e94",
+      "x": 10520.163182239923,
+      "y": 7401.975277491378,
+      "w": 320,
+      "h": 882,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "Assignment of Words to Brands",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Semiotics",
+          "Algorithmic system",
+          "Sorting system"
+        ],
+        "tags": [
+          "Dictionary",
+          "Algorithm",
+          "Brand analysis",
+          "Word assignment",
+          "Survey data"
+        ],
+        "desc": "A custom algorithm was developed to construct the Icon dictionary by analyzing survey results collected from the platform. The system assigns a unique word to each brand based on the comparison of scores across responses, ensuring that the assigned word reflects collective perceptions and consensus.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 11.26.23.png",
+            "size": 113611,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.26.23.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.26.29.png",
+            "size": 82030,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.26.29.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.26.39.png",
+            "size": 205286,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.26.39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5052069",
+      "x": 10131.376909991965,
+      "y": 7398.73814391618,
+      "w": 320,
+      "h": 515,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Brand Survey",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "User research",
+          "Data collection"
+        ],
+        "tags": [
+          "Survey",
+          "Word association",
+          "Brand perception",
+          "User input"
+        ],
+        "desc": "A survey was conducted to explore how people associate words with brands. Participants were asked to select three words that best represented each brand from a predefined list of five options, with the possibility to suggest an additional word as a sixth response.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 11.32.48.png",
+            "size": 15264,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.32.48.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmc4m930",
+      "x": 11292.082772999018,
+      "y": 6008.062111566098,
+      "w": 320,
+      "h": 1127,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "Lexicon Machine Concept",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "User interaction",
+          "Data visualization"
+        ],
+        "tags": [
+          "Lexicon",
+          "Machine",
+          "Slider",
+          "Voting",
+          "User participation"
+        ],
+        "desc": "The Lexicon concept allows users to explore brand meanings through an interactive machine. Users select a category via symbol-marked buttons to reveal all brands associated with that category. Selecting a brand displays a banner with its current value definition. A time slider enables users to observe changes in brand-value associations over time. Users can vote to agree or disagree with current brand-value associations for 100 selected brands of the year, receiving a “voting certificate” as the output.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 11.44.55.png",
+            "size": 227863,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.44.55.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.45.25.png",
+            "size": 260339,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.45.25.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.45.39.png",
+            "size": 273639,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.45.39.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.45.50.png",
+            "size": 204136,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.45.50.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngw766cf",
+      "x": 10915.464763073993,
+      "y": 4971.714977623252,
+      "w": 320,
+      "h": 948,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "ICON_R.01 Auction Simulation",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "User interaction",
+          "Data visualization"
+        ],
+        "tags": [
+          "Machine",
+          "Auction",
+          "Word acquisition",
+          "Simulation",
+          "User participation"
+        ],
+        "desc": "ICON_R.01 reveals the hidden mechanism of lexical concept acquisition by brands. Users initiate a simulated auction by selecting a word (e.g., “Joy”) and starting the bidding with a symbolic action. The machine runs an automated auction, showing offers from three brands and simulating economic dynamics. The auction concludes with the winning brand and final price displayed in a receipt. ",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 11.46.06.png",
+            "size": 1396552,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.46.06.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 11.46.16.png",
+            "size": 2168493,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_11.46.16.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxmmblsm",
+      "x": 9988.485392548331,
+      "y": 7941.052291697046,
+      "w": 320,
+      "h": 593,
+      "group": null,
+      "data": {
+        "date": "2025-11-01",
+        "title": "Core Values of ICON",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Branding",
+          "Semiotics"
+        ],
+        "tags": [
+          "Values",
+          "Immediate communication",
+          "Transparency",
+          "Universalit",
+          "Branding",
+          "Strategy"
+        ],
+        "desc": "ICON embodies three fundamental values: immediacy in communication, ensuring messages are direct and accessible; transparency, provided through open access to data on the evolution of brand-symbol associations; and universality, enabling commercial symbols to become globally recognized and shared linguistic codes.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 12.06.35.png",
+            "size": 145440,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_12.06.35.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0fkfgyk",
+      "x": 12340.114695466136,
+      "y": 8860.341892367172,
+      "w": 320,
+      "h": 1146,
+      "group": null,
+      "data": {
+        "date": "2025-11-03",
+        "title": "NEXA Brand Identity",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Branding",
+          "Design theory"
+        ],
+        "tags": [
+          "Identity",
+          "Tone of voice",
+          "Visual language",
+          "Irreverence",
+          "Palette",
+          "Typography",
+          "Branding",
+          "Strategy",
+          "Communication"
+        ],
+        "desc": "NEXA (Nomenclature Exchange Agency) reinterprets the system with a bold, irreverent identity. “Exchange” introduces the core concept of a market for meanings. The tone of voice is warm, enthusiastic, and playful, inviting user participation. The visual palette combines ink black, paper white, and highlighter green to emphasize key information, complemented by a clean, linear sans serif font. The design aims to facilitate immediate visual communication, making interactions with the auction-machine engaging and intuitive.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 12.15.21.png",
+            "size": 40875,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_12.15.21.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 12.16.14.png",
+            "size": 119978,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_12.16.14.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 12.16.23.png",
+            "size": 2654067,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_12.16.23.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 12.16.30.png",
+            "size": 2647603,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_12.16.30.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 12.16.40.png",
+            "size": 4780858,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_12.16.40.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "no7un9co",
+      "x": 12716.803677528971,
+      "y": 8203.605363044257,
+      "w": 320,
+      "h": 995,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "ICON Brand Identity",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Branding",
+          "Design theory"
+        ],
+        "tags": [
+          "Identity",
+          "Authority",
+          "Palette",
+          "Typography",
+          "Payoff",
+          "Posters",
+          "Visual language",
+          "Communication",
+          "Strategy",
+          "Branding"
+        ],
+        "desc": "The development of ICON’s institutional identity integrates the authoritative and serious character of the organization with selected elements from NEXA’s playful tone. The color palette combines white, black, and a modernized plum, referencing the traditional bordeaux of classical institutions and dictionaries. The payoff has been revised to better convey the organization’s mission. Poster explorations highlight the substitution of words with brand symbols and incorporate square forms echoed in the machine’s interface, emphasizing coherence across physical and visual touchpoints.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 13.58.31.png",
+            "size": 72825,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_13.58.31.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 13.58.40.png",
+            "size": 123206,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_13.58.40.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 13.59.02.png",
+            "size": 687269,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_13.59.02.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 13.59.09.png",
+            "size": 4530871,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_13.59.09.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nto5ngc0",
+      "x": 11300.491744447125,
+      "y": 4935.425725763387,
+      "w": 320,
+      "h": 980,
+      "group": null,
+      "data": {
+        "date": "2025-11-03",
+        "title": "LexMarket",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "User interaction",
+          "Data visualization"
+        ],
+        "tags": [
+          "Machine",
+          "Auction",
+          "Word acquisition",
+          "Simulation",
+          "User participation",
+          "Interaction"
+        ],
+        "desc": "LexMarket is a machine that regulates associations between words and commercial logos. Users receive a brand badge and, by inserting it into the machine, are assigned an auction budget. Users navigate available auctions using the device controller, raise bids, and compete with other brands. Auctions end automatically when the timer expires, and winners receive a printed purchase receipt. Non-winning participants can plan new strategies for future auctions. ",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 14.07.40.png",
+            "size": 1590725,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_14.07.40.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 14.07.47.png",
+            "size": 1171566,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_14.07.47.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 14.07.57.png",
+            "size": 1512277,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_14.07.57.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhwocjjp",
+      "x": 11704.217968243596,
+      "y": 5250.931967173883,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "It was decided not to proceed with the word auction concept. While the economic aspect of NEXA and auctions was conceptually clear, it diverged from ICON’s initial premise focused on language. The auction mechanism risked overshadowing the linguistic and symbolic experience by placing users in the role of a brand. Feedback emphasized that the user experience should center on discovery of the evolving language via Lexicon, rather than brand competition.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nraa8bil",
+      "x": 12708.18893722653,
+      "y": 6201.834190547825,
+      "w": 320,
+      "h": 911,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "ICON Starter Kit",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "Language learning",
+          "Semiotics",
+          "User interaction",
+          "Educational technology"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Language",
+          "Starter kit",
+          "Interactive device",
+          "Learning"
+        ],
+        "desc": "The ICON Starter Kit is an interactive linguistic device designed to teach and practice the new ICON language. Each citizen receives the kit as the official device for learning the language. Users arrange logo tiles in the slots, generating sentences in ICON’s language. Through experimentation, users learn to understand and use the shared symbolic communication system.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 14.30.06.png",
+            "size": 2245110,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_14.30.06.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nua3pimj",
+      "x": 11975.912473316663,
+      "y": 6017.220324025535,
+      "w": 320,
+      "h": 537,
+      "group": null,
+      "data": {
+        "date": "2025-11-05",
+        "title": "ICON Starter kit brainstorming",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [
+          "Icon starter kit",
+          "Moodboard"
+        ],
+        "desc": "A moodboard exploring the visual and interactive aesthetic for the ICON Starter Kit. Inspirations focus on machines that involve moving objects or tiles into slots, as well as existing games like Scrabble",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 14.36.31.png",
+            "size": 3106195,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_14.36.31.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nzs164y4",
+      "x": 12357.869331005659,
+      "y": 7411.578114719198,
+      "w": 320,
+      "h": 807,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "ICON Website",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Web design",
+          "Interaction design",
+          "Visual communication",
+          "Digital platform",
+          "User experience"
+        ],
+        "tags": [
+          "Icon",
+          "Website",
+          "Dictionary",
+          "Digital platform",
+          "Communication"
+        ],
+        "desc": "The main communication channel and digital platform of ICON, allowing users to access and consult the ICON dictionary. The website integrates the visual identity and interactive principles of ICON, providing a clear, intuitive interface for exploring the language system based on commercial logos. ",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-10 alle 15.05.47.png",
+            "size": 272772,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_15.05.47.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-10 alle 15.06.02.png",
+            "size": 119779,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-10_alle_15.06.02.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmv73ssw",
+      "x": 11975.108687098398,
+      "y": 6678.7930005345615,
+      "w": 320,
+      "h": 707,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-11-10 at 14.52.02.jpeg",
+            "size": 30897,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-11-10_at_14.52.02.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-11-10 at 14.49.33.jpeg",
+            "size": 54290,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-11-10_at_14.49.33.jpg"
+          }
+        ]
       }
     }
   ],
@@ -452,20 +4684,1084 @@
       "s": "ny15p0wg",
       "t": "nvlahv4k",
       "dashed": false
+    },
+    {
+      "s": "n7z0p86f",
+      "t": "nycew3dj",
+      "dashed": false
+    },
+    {
+      "s": "n7z0p86f",
+      "t": "nrnpr0yf",
+      "dashed": false
+    },
+    {
+      "s": "n7z0p86f",
+      "t": "nmwwpwnl",
+      "dashed": false
+    },
+    {
+      "s": "nycew3dj",
+      "t": "nwibqee3",
+      "dashed": false
+    },
+    {
+      "s": "nrnpr0yf",
+      "t": "n1gqdqrd",
+      "dashed": false
+    },
+    {
+      "s": "nrnpr0yf",
+      "t": "ny057e0e",
+      "dashed": false
+    },
+    {
+      "s": "nmwwpwnl",
+      "t": "n4k7elg8",
+      "dashed": false
+    },
+    {
+      "s": "nycew3dj",
+      "t": "nud1gqen",
+      "dashed": false
+    },
+    {
+      "s": "nrnpr0yf",
+      "t": "nt8ipxxe",
+      "dashed": false
+    },
+    {
+      "s": "nmwwpwnl",
+      "t": "n61g93ev",
+      "dashed": false
+    },
+    {
+      "s": "nrnpr0yf",
+      "t": "nf9jfdv9",
+      "dashed": false
+    },
+    {
+      "s": "nrnpr0yf",
+      "t": "nin2fvd1",
+      "dashed": false
+    },
+    {
+      "s": "nycew3dj",
+      "t": "njp8qsr3",
+      "dashed": false
+    },
+    {
+      "s": "nt8ipxxe",
+      "t": "n6wcova4",
+      "dashed": false
+    },
+    {
+      "s": "n61g93ev",
+      "t": "n6wcova4",
+      "dashed": false
+    },
+    {
+      "s": "nf9jfdv9",
+      "t": "n6wcova4",
+      "dashed": false
+    },
+    {
+      "s": "nwibqee3",
+      "t": "nbt2b0w1",
+      "dashed": false
+    },
+    {
+      "s": "n1gqdqrd",
+      "t": "nbt2b0w1",
+      "dashed": false
+    },
+    {
+      "s": "nin2fvd1",
+      "t": "nbt2b0w1",
+      "dashed": false
+    },
+    {
+      "s": "njp8qsr3",
+      "t": "n3ktfmhq",
+      "dashed": false
+    },
+    {
+      "s": "nud1gqen",
+      "t": "n3ktfmhq",
+      "dashed": false
+    },
+    {
+      "s": "n4k7elg8",
+      "t": "n3ktfmhq",
+      "dashed": false
+    },
+    {
+      "s": "ny057e0e",
+      "t": "nbt2b0w1",
+      "dashed": false
+    },
+    {
+      "s": "n3ktfmhq",
+      "t": "nv81gyi7",
+      "dashed": false
+    },
+    {
+      "s": "nbt2b0w1",
+      "t": "nydg8ifv",
+      "dashed": false
+    },
+    {
+      "s": "n6wcova4",
+      "t": "n1gh2bt0",
+      "dashed": false
+    },
+    {
+      "s": "nv81gyi7",
+      "t": "nwy7cdyh",
+      "dashed": false
+    },
+    {
+      "s": "nydg8ifv",
+      "t": "n9gi7ynj",
+      "dashed": false
+    },
+    {
+      "s": "n1gh2bt0",
+      "t": "nroshxa3",
+      "dashed": false
+    },
+    {
+      "s": "nwy7cdyh",
+      "t": "n0jzqxeb",
+      "dashed": false
+    },
+    {
+      "s": "n9gi7ynj",
+      "t": "nqgkbvxt",
+      "dashed": false
+    },
+    {
+      "s": "nwy7cdyh",
+      "t": "n3z3o0sv",
+      "dashed": false
+    },
+    {
+      "s": "n3z3o0sv",
+      "t": "nc5iphwf",
+      "dashed": false
+    },
+    {
+      "s": "nauthodh",
+      "t": "nwa0mcp3",
+      "dashed": false
+    },
+    {
+      "s": "ndehs9oj",
+      "t": "nbq88yt1",
+      "dashed": false
+    },
+    {
+      "s": "n8vhugey",
+      "t": "nkdwvkuj",
+      "dashed": false
+    },
+    {
+      "s": "njua4ig7",
+      "t": "nv2a2ddx",
+      "dashed": false
+    },
+    {
+      "s": "naz010bf",
+      "t": "n6kttxca",
+      "dashed": false
+    },
+    {
+      "s": "n3z3o0sv",
+      "t": "naz010bf",
+      "dashed": false
+    },
+    {
+      "s": "nyarf78t",
+      "t": "ntsmbagb",
+      "dashed": false
+    },
+    {
+      "s": "ndehs9oj",
+      "t": "nyarf78t",
+      "dashed": false
+    },
+    {
+      "s": "nwy7cdyh",
+      "t": "nauthodh",
+      "dashed": false
+    },
+    {
+      "s": "n1gh2bt0",
+      "t": "ndehs9oj",
+      "dashed": false
+    },
+    {
+      "s": "n9gi7ynj",
+      "t": "n8vhugey",
+      "dashed": false
+    },
+    {
+      "s": "n1gh2bt0",
+      "t": "njua4ig7",
+      "dashed": false
+    },
+    {
+      "s": "ne29fgxw",
+      "t": "njkcclt0",
+      "dashed": false
+    },
+    {
+      "s": "nwy7cdyh",
+      "t": "ne29fgxw",
+      "dashed": false
+    },
+    {
+      "s": "ntsmbagb",
+      "t": "n45z8m8p",
+      "dashed": false
+    },
+    {
+      "s": "njkcclt0",
+      "t": "nmb1afcv",
+      "dashed": false
+    },
+    {
+      "s": "n6kttxca",
+      "t": "ncndnm0x",
+      "dashed": false
+    },
+    {
+      "s": "nkdwvkuj",
+      "t": "nv9lqch4",
+      "dashed": false
+    },
+    {
+      "s": "nmb1afcv",
+      "t": "nppwf94v",
+      "dashed": false
+    },
+    {
+      "s": "n45z8m8p",
+      "t": "nntvbmp1",
+      "dashed": false
+    },
+    {
+      "s": "nntvbmp1",
+      "t": "n4ig0fal",
+      "dashed": false
+    },
+    {
+      "s": "n3kwn50e",
+      "t": "nqnzbj9u",
+      "dashed": false
+    },
+    {
+      "s": "ncndnm0x",
+      "t": "nc8fqg4o",
+      "dashed": false
+    },
+    {
+      "s": "nv9lqch4",
+      "t": "n3kwn50e",
+      "dashed": false
+    },
+    {
+      "s": "n4ig0fal",
+      "t": "ndb0gs5x",
+      "dashed": false
+    },
+    {
+      "s": "nqnzbj9u",
+      "t": "ndx4r0q6",
+      "dashed": false
+    },
+    {
+      "s": "nqnzbj9u",
+      "t": "nh5jojfs",
+      "dashed": false
+    },
+    {
+      "s": "ndx4r0q6",
+      "t": "ncith7wx",
+      "dashed": false
+    },
+    {
+      "s": "ndx4r0q6",
+      "t": "nhjlvt6p",
+      "dashed": false
+    },
+    {
+      "s": "ndx4r0q6",
+      "t": "nx700q25",
+      "dashed": false
+    },
+    {
+      "s": "ndx4r0q6",
+      "t": "nym27a7a",
+      "dashed": false
+    },
+    {
+      "s": "ndx4r0q6",
+      "t": "nlpy5hvy",
+      "dashed": false
+    },
+    {
+      "s": "nhjlvt6p",
+      "t": "ng5juhs4",
+      "dashed": false
+    },
+    {
+      "s": "nym27a7a",
+      "t": "ng5juhs4",
+      "dashed": false
+    },
+    {
+      "s": "nlpy5hvy",
+      "t": "ng5juhs4",
+      "dashed": false
+    },
+    {
+      "s": "nh5jojfs",
+      "t": "ng5juhs4",
+      "dashed": false
+    },
+    {
+      "s": "ng5juhs4",
+      "t": "nu287rs4",
+      "dashed": false
+    },
+    {
+      "s": "ng5juhs4",
+      "t": "ns9p9af1",
+      "dashed": false
+    },
+    {
+      "s": "ng5juhs4",
+      "t": "nh34y8r2",
+      "dashed": false
+    },
+    {
+      "s": "ng5juhs4",
+      "t": "n87u9qwt",
+      "dashed": false
+    },
+    {
+      "s": "ng5juhs4",
+      "t": "n5wgh1de",
+      "dashed": false
+    },
+    {
+      "s": "ng5juhs4",
+      "t": "n90dd7hm",
+      "dashed": false
+    },
+    {
+      "s": "nh34y8r2",
+      "t": "nbgy3gkz",
+      "dashed": false
+    },
+    {
+      "s": "nl0itj8y",
+      "t": "ns4uvofa",
+      "dashed": false
+    },
+    {
+      "s": "nlq2r99l",
+      "t": "ns4uvofa",
+      "dashed": false
+    },
+    {
+      "s": "nj6fc6op",
+      "t": "ns4uvofa",
+      "dashed": false
+    },
+    {
+      "s": "n7jyr8c8",
+      "t": "ns4uvofa",
+      "dashed": false
+    },
+    {
+      "s": "njshowo7",
+      "t": "ns4uvofa",
+      "dashed": false
+    },
+    {
+      "s": "ntsmbagb",
+      "t": "nntvbmp1",
+      "dashed": false
+    },
+    {
+      "s": "nqnzbj9u",
+      "t": "ncith7wx",
+      "dashed": false
+    },
+    {
+      "s": "ncith7wx",
+      "t": "ns9p9af1",
+      "dashed": false
+    },
+    {
+      "s": "ncith7wx",
+      "t": "n87u9qwt",
+      "dashed": false
+    },
+    {
+      "s": "ncith7wx",
+      "t": "nu287rs4",
+      "dashed": false
+    },
+    {
+      "s": "nlpy5hvy",
+      "t": "n5wgh1de",
+      "dashed": false
+    },
+    {
+      "s": "nx700q25",
+      "t": "n90dd7hm",
+      "dashed": false
+    },
+    {
+      "s": "nbgy3gkz",
+      "t": "ns4uvofa",
+      "dashed": false
+    },
+    {
+      "s": "nbgy3gkz",
+      "t": "n688socr",
+      "dashed": false
+    },
+    {
+      "s": "nbgy3gkz",
+      "t": "n5q4pryt",
+      "dashed": false
+    },
+    {
+      "s": "nbgy3gkz",
+      "t": "n8fluc0e",
+      "dashed": false
+    },
+    {
+      "s": "nl0itj8y",
+      "t": "n688socr",
+      "dashed": false
+    },
+    {
+      "s": "nl0itj8y",
+      "t": "n8fluc0e",
+      "dashed": false
+    },
+    {
+      "s": "nlq2r99l",
+      "t": "n8fluc0e",
+      "dashed": false
+    },
+    {
+      "s": "nlq2r99l",
+      "t": "n5q4pryt",
+      "dashed": false
+    },
+    {
+      "s": "nj6fc6op",
+      "t": "n8fluc0e",
+      "dashed": false
+    },
+    {
+      "s": "n7jyr8c8",
+      "t": "n8fluc0e",
+      "dashed": false
+    },
+    {
+      "s": "njshowo7",
+      "t": "n8fluc0e",
+      "dashed": false
+    },
+    {
+      "s": "njshowo7",
+      "t": "n5q4pryt",
+      "dashed": false
+    },
+    {
+      "s": "njshowo7",
+      "t": "n688socr",
+      "dashed": false
+    },
+    {
+      "s": "nh34y8r2",
+      "t": "n688socr",
+      "dashed": false
+    },
+    {
+      "s": "ns4uvofa",
+      "t": "nn3yyn39",
+      "dashed": false
+    },
+    {
+      "s": "n8fluc0e",
+      "t": "nn3yyn39",
+      "dashed": false
+    },
+    {
+      "s": "nn3yyn39",
+      "t": "nfdfs5zq",
+      "dashed": false
+    },
+    {
+      "s": "nn3yyn39",
+      "t": "nzcs2kc4",
+      "dashed": false
+    },
+    {
+      "s": "nn3yyn39",
+      "t": "n49b4ybv",
+      "dashed": false
+    },
+    {
+      "s": "nzcs2kc4",
+      "t": "n2o3g253",
+      "dashed": false
+    },
+    {
+      "s": "nzcs2kc4",
+      "t": "njjjoo6x",
+      "dashed": false
+    },
+    {
+      "s": "nzcs2kc4",
+      "t": "nfppxbma",
+      "dashed": false
+    },
+    {
+      "s": "nzcs2kc4",
+      "t": "nfkp0hqc",
+      "dashed": false
+    },
+    {
+      "s": "n2o3g253",
+      "t": "nfkp0hqc",
+      "dashed": false
+    },
+    {
+      "s": "n0qugtfq",
+      "t": "nssmfrkr",
+      "dashed": false
+    },
+    {
+      "s": "nnue5run",
+      "t": "nssmfrkr",
+      "dashed": false
+    },
+    {
+      "s": "n31ivnai",
+      "t": "nssmfrkr",
+      "dashed": false
+    },
+    {
+      "s": "n31ivnai",
+      "t": "n97urdy0",
+      "dashed": false
+    },
+    {
+      "s": "n0qugtfq",
+      "t": "nhfbu6dh",
+      "dashed": false
+    },
+    {
+      "s": "n31ivnai",
+      "t": "nhfbu6dh",
+      "dashed": false
+    },
+    {
+      "s": "n31ivnai",
+      "t": "nu36jwkz",
+      "dashed": false
+    },
+    {
+      "s": "nnue5run",
+      "t": "nu36jwkz",
+      "dashed": false
+    },
+    {
+      "s": "napdj7ef",
+      "t": "nu36jwkz",
+      "dashed": false
+    },
+    {
+      "s": "n2o3g253",
+      "t": "n31ivnai",
+      "dashed": false
+    },
+    {
+      "s": "n2o3g253",
+      "t": "nnue5run",
+      "dashed": false
+    },
+    {
+      "s": "n2o3g253",
+      "t": "n0qugtfq",
+      "dashed": false
+    },
+    {
+      "s": "n2o3g253",
+      "t": "napdj7ef",
+      "dashed": false
+    },
+    {
+      "s": "njejh8p2",
+      "t": "nu36jwkz",
+      "dashed": false
+    },
+    {
+      "s": "na52299z",
+      "t": "nhviv0qk",
+      "dashed": false
+    },
+    {
+      "s": "nfkp0hqc",
+      "t": "nhviv0qk",
+      "dashed": false
+    },
+    {
+      "s": "nph0ezk7",
+      "t": "nhviv0qk",
+      "dashed": false
+    },
+    {
+      "s": "n97urdy0",
+      "t": "nbx12qd5",
+      "dashed": false
+    },
+    {
+      "s": "nu36jwkz",
+      "t": "nreomhpb",
+      "dashed": false
+    },
+    {
+      "s": "nhfbu6dh",
+      "t": "nreomhpb",
+      "dashed": false
+    },
+    {
+      "s": "nssmfrkr",
+      "t": "nreomhpb",
+      "dashed": false
+    },
+    {
+      "s": "nu36jwkz",
+      "t": "nbx12qd5",
+      "dashed": false
+    },
+    {
+      "s": "n5052069",
+      "t": "nkad1e94",
+      "dashed": false
+    },
+    {
+      "s": "njjjoo6x",
+      "t": "nkad1e94",
+      "dashed": false
+    },
+    {
+      "s": "n2o3g253",
+      "t": "nkad1e94",
+      "dashed": false
+    },
+    {
+      "s": "nkad1e94",
+      "t": "nu36jwkz",
+      "dashed": false
+    },
+    {
+      "s": "nkad1e94",
+      "t": "nreomhpb",
+      "dashed": false
+    },
+    {
+      "s": "nkad1e94",
+      "t": "nbx12qd5",
+      "dashed": false
+    },
+    {
+      "s": "nkad1e94",
+      "t": "nhviv0qk",
+      "dashed": false
+    },
+    {
+      "s": "nfkp0hqc",
+      "t": "nmc4m930",
+      "dashed": false
+    },
+    {
+      "s": "nhviv0qk",
+      "t": "nmc4m930",
+      "dashed": false
+    },
+    {
+      "s": "n2o3g253",
+      "t": "ngw766cf",
+      "dashed": false
+    },
+    {
+      "s": "njjjoo6x",
+      "t": "ngw766cf",
+      "dashed": false
+    },
+    {
+      "s": "n2o3g253",
+      "t": "nxmmblsm",
+      "dashed": false
+    },
+    {
+      "s": "nreomhpb",
+      "t": "n0fkfgyk",
+      "dashed": false
+    },
+    {
+      "s": "nbx12qd5",
+      "t": "no7un9co",
+      "dashed": false
+    },
+    {
+      "s": "n0fkfgyk",
+      "t": "no7un9co",
+      "dashed": false
+    },
+    {
+      "s": "ngw766cf",
+      "t": "nto5ngc0",
+      "dashed": false
+    },
+    {
+      "s": "nto5ngc0",
+      "t": "nhwocjjp",
+      "dashed": false
+    },
+    {
+      "s": "nmc4m930",
+      "t": "nraa8bil",
+      "dashed": false
+    },
+    {
+      "s": "nhwocjjp",
+      "t": "nraa8bil",
+      "dashed": false
+    },
+    {
+      "s": "n2o3g253",
+      "t": "nraa8bil",
+      "dashed": false
+    },
+    {
+      "s": "njjjoo6x",
+      "t": "nraa8bil",
+      "dashed": false
+    },
+    {
+      "s": "nua3pimj",
+      "t": "nraa8bil",
+      "dashed": false
+    },
+    {
+      "s": "n49b4ybv",
+      "t": "nzcs2kc4",
+      "dashed": false
+    },
+    {
+      "s": "nfdfs5zq",
+      "t": "nzcs2kc4",
+      "dashed": false
+    },
+    {
+      "s": "nbx12qd5",
+      "t": "nzs164y4",
+      "dashed": false
+    },
+    {
+      "s": "nmv73ssw",
+      "t": "nzs164y4",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Critical design",
+      "User experience",
+      "Digital platform",
+      "Visual communication",
+      "Interaction design",
+      "Web design",
+      "User interaction",
+      "Educational technology",
+      "Semiotics",
+      "Language learning",
+      "Data visualization",
+      "Design theory",
+      "Branding",
+      "Visual language",
+      "Data collection",
+      "User research",
+      "Sorting system",
+      "Algorithmic system",
+      "Algorithmic systems",
+      "Institutional identity",
+      "Group dynamics",
+      "Youth culture",
+      "Identity",
+      "Society",
+      "Culture",
+      "Historical memory",
+      "Religion",
+      "Product symbolism",
+      "Transculturation",
+      "Appropriation",
+      "Power dynamics",
+      "Ideology",
+      "Iconoclasm",
+      "Symbolic saturation",
+      "Social critique",
       "Communication",
-      "Media studies",
+      "Perception",
+      "Multiverse",
+      "Monuments",
+      "Debate",
+      "Ethics",
+      "Censorship",
+      "Conformity",
+      "Meaning loss",
+      "Symbolic transformation",
+      "Healthcare",
+      "Representation",
+      "Medicine",
+      "Adbusting",
+      "Meme culture",
+      "Social media",
+      "Graphic design",
+      "Interpretation",
+      "Psychology",
+      "Politics",
+      "Morphology",
+      "Scensarios",
+      "Neutrality",
+      "Randomness",
+      "Economy",
+      "Democracy",
+      "Scenarios",
+      "Language",
+      "Critical design",
       "Socio-political",
       "Design research",
-      "Critical theory"
+      "Critical theory",
+      "Symbolic meaning",
+      "Ideation",
+      "Abstract conflict",
+      "Radicalization",
+      "Style",
+      "Prohibition",
+      "Fanaticism",
+      "Extremism",
+      "Symbolic devotion",
+      "Identity politics",
+      "Hierarchy",
+      "Unconscious influence",
+      "Symbolic alignment",
+      "Symbolic awareness",
+      "Autonomy",
+      "Belonging",
+      "Conflict",
+      "Universal meaning",
+      "Social ranking",
+      "Symbolic conflict",
+      "Symbolic affiliation",
+      "Reputation",
+      "Rebranding",
+      "Symbolic redefinition",
+      "Trust recovery",
+      "Gamification",
+      "Consumer culture",
+      "Emotional capitalism",
+      "Media studies",
+      "Brand theory",
+      "Linguistics",
+      "Cultural studies",
+      "Communication studies",
+      "Visual culture",
+      "Governance",
+      "Media theory"
     ],
-    "tags": [],
+    "tags": [
+      "Communication",
+      "Digital platform",
+      "Dictionary",
+      "Website",
+      "Icon",
+      "Icon starter kit",
+      "Moodboard",
+      "Starter kit",
+      "Interaction",
+      "User participation",
+      "Learning",
+      "Interactive device",
+      "Language",
+      "User participation interaction",
+      "Simulation",
+      "Word acquisition",
+      "Machine",
+      "Symbol assignment",
+      "Brand",
+      "Auction",
+      "Branding",
+      "Strategy",
+      "Visual language",
+      "Posters",
+      "Payoff",
+      "Typography",
+      "Palette",
+      "Authority",
+      "Identity",
+      "Irreverence",
+      "Market of meanings",
+      "Tone of voice",
+      "Universalit",
+      "Transparency",
+      "Immediate communication",
+      "Values",
+      "Voting",
+      "Slider",
+      "Brand-value",
+      "Lexicon",
+      "User input",
+      "Brand perception",
+      "Word association",
+      "Survey",
+      "Survey data",
+      "Word assignment",
+      "Brand analysis",
+      "Algorithm",
+      "Aesthetics",
+      "Culture",
+      "Belonging",
+      "Protest",
+      "Group dynamics",
+      "Legacy",
+      "Tradition",
+      "Historical memory",
+      "Cancel culture",
+      "Symbolic violence",
+      "Ideology",
+      "Monuments",
+      "Public space",
+      "Ethics",
+      "Cognitive overload",
+      "Communication overload",
+      "Sign saturation",
+      "Perception",
+      "Semiotics",
+      "Society",
+      "Religion",
+      "Logo",
+      "History",
+      "Market",
+      "Economy",
+      "Censorship",
+      "Debate",
+      "Rebranding",
+      "Healthcare",
+      "Group behavior",
+      "Research",
+      "Passive consumption",
+      "Speculative",
+      "Symbol language",
+      "Adbusting",
+      "Theory",
+      "Kress & van leeuwen",
+      "Jakobson",
+      "Barthes",
+      "Peirce",
+      "Chance",
+      "Manipulation",
+      "Neutrality",
+      "Inversion",
+      "Subconscious",
+      "Appropriation",
+      "Randomness",
+      "Morphology",
+      "Justice",
+      "Storytelling",
+      "Prohibition",
+      "Linguistics",
+      "Politics",
+      "Case study",
+      "Sport",
+      "Starting point",
+      "Brief",
+      "Semiotic inflation",
+      "Religion vs science",
+      "Rivalry",
+      "Destruction",
+      "Gender",
+      "Fame",
+      "Media",
+      "Nationalism",
+      "Youth",
+      "Fanaticism",
+      "Radical identity",
+      "Subculture",
+      "Association",
+      "Radicalization",
+      "Bourdieu",
+      "Social identity theory",
+      "Mangano & sedda",
+      "Signs vs symbols",
+      "Tobacco",
+      "Alcohol",
+      "Conflict",
+      "Self-recognition",
+      "Universal language",
+      "Regulation",
+      "Overexposure",
+      "Deflation of meaning",
+      "Cultural conflict",
+      "Neutralization",
+      "Science",
+      "Health",
+      "Symbolic decision",
+      "Scandals",
+      "Transculturation",
+      "Insight",
+      "Symbolic conflict",
+      "What if?",
+      "Symbols",
+      "Control",
+      "Emotion",
+      "Privatization",
+      "Consumerism",
+      "Symbolism",
+      "Ownership",
+      "Power",
+      "Meaning",
+      "Commercialization",
+      "Institution",
+      "Language system",
+      "Standardization",
+      "Vision",
+      "Mission",
+      "Golden circle",
+      "Device",
+      "Translator"
+    ],
     "type": [
-      "Brief"
+      "Source",
+      "Artefact",
+      "Sketch",
+      "Concept",
+      "Feedback",
+      "Collection",
+      "Brief",
+      "Decision",
+      "Observation"
     ]
   }
 }
