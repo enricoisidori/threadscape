@@ -5637,8 +5637,8 @@
     },
     {
       "id": "nx2qxcq9",
-      "x": 21990.76775986266,
-      "y": 4668.047645255547,
+      "x": 21885.36988491592,
+      "y": 4674.036160877521,
       "w": 320,
       "h": 847,
       "group": null,
@@ -5671,6 +5671,386 @@
           "Measuring the unmeasurable"
         ],
         "desc": "The project demonstrates solid foundations and clear scenario articulation, though the visual identity requires refinement. The first proposal proves more direct, while the second appears more unsettling—yet both lack clarity regarding SYNCHRO's institutional nature. The communication strategy remains ambiguous: slogans like \"it's time to be productive\" fail to establish clear authorial voice or institutional positioning. \n\nThe experience proves problematic: simulation-based tasks lack participatory engagement. Visitors must actively modify parameters rather than passively observe. The intervention should reveal how temporal measurement systems constitute power structures, not merely control mechanisms. SYNCHRO should facilitate annual synchronization through simple, direct actions that engage participants in redefining temporal standards. The experience must employ elementary measurement tools—perhaps analog or mechanical references recalling historical timekeeping methods—enabling users to input daily rhythms and directly influence outcomes.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n46oflo3",
+      "x": 22275.899760127133,
+      "y": 4812.696337701683,
+      "w": 320,
+      "h": 560,
+      "group": null,
+      "data": {
+        "date": "2025-11-05",
+        "title": "General Project Changes",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "new implementations to the project:\n- evocative data entry method, ancient measuring instruments\n- striking map - interactive data\n- evaluation based on a formula\n- Participants annually input routine data (time spent and timing of activities)\n- Target metrics and standard parameters are kept confidential\n- No one knows the \"winning\" parameters for a country\n- Individual experiences remain secret (like voting)\n- Participants are surveyed in isolation\n- System measures perceived time, not monitored/tracked time",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0ejy9yz",
+      "x": 22722.18384329409,
+      "y": 4670.771570613844,
+      "w": 320,
+      "h": 844,
+      "group": null,
+      "data": {
+        "date": "2025-11-05",
+        "title": "Research on measurement instruments",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Science and technology studies (sts)",
+          "Metric system"
+        ],
+        "tags": [
+          "Mechanical computing",
+          "Metric system",
+          "Metric governance",
+          "Socio-political",
+          "Data representation"
+        ],
+        "desc": "The evolution of temporal measurement reflects humanity's progressive domestication of time through increasingly sophisticated instruments. Early analog devices—sundials tracking shadows, water clocks measuring flow, hourly candles and incense in the Orient—transformed time into observable phenomena. Astronomical clocks like Prague's merged cosmology with mechanical precision, while Harrison's marine chronometer enabled longitudinal navigation. The Industrial Revolution mechanized time through pendulum and wrist watches, rendering it portable and personal. Factory sirens and shift work imposed temporal discipline, while time zones, railways, and telegraphs achieved planetary synchronization. Parallel computational tools evolved from the Mesopotamian abacus through Incan quipu, Pascal's Pascaline, to commercial calculating machines, demonstrating how measurement systems shape social organization and power structures across civilizations.",
+        "links": [
+          "http://eprints.bice.rm.cnr.it/18878/1/StoriaStrumetazioneMeteo_DEF.pdf",
+          "https://amslaurea.unibo.it/id/eprint/3094/1/gobbi_laura_tesi.pdf",
+          "https://www.museodelcalcolatore.it/singolo.php?cod=134&ord=1",
+          "https://annalisasanti.blogspot.com/2018/09/la-matematica-e-piu-di-una-forma-darte.html"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nu6pjlje",
+      "x": 23160.22702645788,
+      "y": 4748.280881826273,
+      "w": 320,
+      "h": 685,
+      "group": null,
+      "data": {
+        "date": "2025-11-05",
+        "title": "Paramethers",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [
+          "Metric governance",
+          "Algorithmic governance",
+          "Metrics distortion",
+          "Metric system",
+          "Data representation",
+          "Body-politics"
+        ],
+        "desc": "Daily habits to measure:\n- sleep\n- work/be productive\n- leisure\n- eat\n\nThe usre needs to submit its data though an abacus counting tool",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-14 at 12.03.23.png",
+            "size": 502523,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.03.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnml8de0",
+      "x": 23585.773810372048,
+      "y": 4764.4398955779225,
+      "w": 320,
+      "h": 634,
+      "group": null,
+      "data": {
+        "date": "2025-11-05",
+        "title": "Narrative",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Metric system",
+          "Chronopolitics",
+          "Algorithmic governance",
+          "Speculative design",
+          "Experience design",
+          "Metric governance"
+        ],
+        "tags": [
+          "Data representation",
+          "Metric system",
+          "Metric governance",
+          "Algorithmic governance",
+          "Temporal sovereignty"
+        ],
+        "desc": "SYNCHRO serves as the regulatory body for temporal governance. Annually, all citizens—identified by unique ID numbers—are summoned to designated facilities to submit their data and participate in selecting the nation that will control Zero Hour. Each submission undergoes analysis and comparison against standardized parameters defined by the agency as the ideal daily allocation: hours dedicated to sleep, work, leisure, and meals. During the procedure, citizens receive 24 hours to distribute, indicating actual time spent on each activity. No one knows the exact values established by the Agency. Yet all are evaluated based on their adherence to the perfect model.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npyggt2u",
+      "x": 24058.376337522313,
+      "y": 2722.3991060445305,
+      "w": 320,
+      "h": 1077,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "Device proposal",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Metric system",
+          "Chronopolitics",
+          "Algorithmic governance",
+          "Speculative design",
+          "Experience design",
+          "Metric governance"
+        ],
+        "tags": [],
+        "desc": "Users receive a device—a panel designed to represent the distribution of daily hours across four activities. The system includes four containers, each holding 24 balls or discs in distinct colors representing sleep, work, leisure, and meals. Users select the number of balls corresponding to the hours they typically allocate to each activity: for instance, someone who sleeps eight hours would take eight balls from the sleep container. After collecting the balls, users arrange them on the panel, composing their typical daily schedule. Once satisfied with the distribution, they confirm their choice. The system then compares their data against an established standard and displays a score indicating how closely their activity balance aligns with the ideal model. Detection occurs through colorimetry or NFC technology. A small central display shows each user their final score upon confirmation.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-14 at 12.04.32.png",
+            "size": 501771,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.04.32.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-14 at 12.05.36.png",
+            "size": 237202,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.05.36.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvoqfawk",
+      "x": 24061.773810372048,
+      "y": 3825.8092146455847,
+      "w": 320,
+      "h": 798,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "Brand Identity",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Branding",
+          "Communication"
+        ],
+        "tags": [
+          "Identities",
+          "Metric governance",
+          "Socio-political",
+          "Metric system"
+        ],
+        "desc": "vision To be the catalyst for change towards a fairer world, where time belongs to those who deserve it.\n\nmission We work to measure individual time\nby rewarding the nation that best adapts to a single time zone.\n\nValues\n• Meritocracy\n• Efficiency\n• Rigour\n\nPayoff\nTime for change\n\nTone of voice\n• Rigorous /\nProfessional\n• Formal\n• Authoritative\n• Informative - Clear and direct\n• Objectivity",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-14 at 12.07.34.png",
+            "size": 36367,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.07.34.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ny4tzjy1",
+      "x": 24059.101756474498,
+      "y": 4663.809214645585,
+      "w": 320,
+      "h": 677,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "Brand Research",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Visual communication",
+          "Branding",
+          "Communication"
+        ],
+        "tags": [
+          "Identities",
+          "Metric governance",
+          "Socio-political",
+          "Metric system"
+        ],
+        "desc": "Presence of texts relating to Election Day (Measure Day/Zero Hour Day), indicating: date, what citizens must do, why it is important – e.g. election posters showing the date, vote for...,  for...",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-14 at 12.08.59.png",
+            "size": 527788,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.08.59.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-14 at 12.13.13.png",
+            "size": 738937,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.13.13.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9x4ohry",
+      "x": 24061.773810372048,
+      "y": 5182.809214645585,
+      "w": 320,
+      "h": 440,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "Brand Logo Research",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Branding",
+          "Communication"
+        ],
+        "tags": [
+          "Identities",
+          "Metric governance",
+          "Socio-political",
+          "Metric system"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-14 at 12.10.10.png",
+            "size": 99524,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.10.10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nb50tzdz",
+      "x": 24060.587779520472,
+      "y": 5658.809214645585,
+      "w": 320,
+      "h": 987,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "Map Proposal",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "Branding",
+          "Communication"
+        ],
+        "tags": [
+          "Identities",
+          "Metric governance",
+          "Socio-political",
+          "Metric system"
+        ],
+        "desc": "The countries turn lighter grey in turn. \nAs the user votes, the names and flags of other voters around the world appear.\nThe lights on the map get brighter as more citizens go to play.\nThe formula normalises the weight of voters to compensate for differences in population size.\nRanking at the bottom, with or without names?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-14 at 12.11.15.png",
+            "size": 779346,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.11.15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nov9ffuy",
+      "x": 24867.316107938725,
+      "y": 4738.375203123504,
+      "w": 320,
+      "h": 965,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Project Review",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Temporal sovereignty",
+          "Data representation",
+          "Identities",
+          "Metric system",
+          "Alternative values",
+          "Speculative projects",
+          "Algorithmic governance",
+          "Data perception",
+          "Socio-political",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "Institutional Framework: The project conceptualizes SYNCHRO as a B2B institutional service provider rather than a state entity, facilitating temporal governance through data collection infrastructure.\n\nData Collection Mechanism: Users input personal metrics via NFC-coded devices, generating real-time feedback through LED arrays that visualize collective alignment with emergent standards—standards that self-define through accumulated user data rather than imposed benchmarks.\n\nPhysical Interface: The system employs immediate tactile responses: LED activation upon device placement, luminous intensity shifts across territorial infographics, and radial light movements indicating individual deviation from collective norms. This analog-digital hybrid maintains scenario coherence by rendering geopolitical temporal boundaries tangible.\n\nUser Identification: User recognition persists through coded access, enabling posterior data retrieval while preserving facial recognition within the speculative framework.\n\nCommunication Strategy: The approach bifurcates: institutional B2B messaging for SYNCHRO's facilitation services, versus public-facing \"Our Hour Day\" (provided by SYNCHRO) designed to cultivate popular support through accessible visual language.",
         "links": [],
         "files": []
       }
@@ -6951,31 +7331,102 @@
       "s": "nux2rxhz",
       "t": "nx2qxcq9",
       "dashed": false
+    },
+    {
+      "s": "nx2qxcq9",
+      "t": "n46oflo3",
+      "dashed": false
+    },
+    {
+      "s": "n46oflo3",
+      "t": "n0ejy9yz",
+      "dashed": false
+    },
+    {
+      "s": "n0ejy9yz",
+      "t": "nu6pjlje",
+      "dashed": false
+    },
+    {
+      "s": "nu6pjlje",
+      "t": "nnml8de0",
+      "dashed": false
+    },
+    {
+      "s": "nnml8de0",
+      "t": "npyggt2u",
+      "dashed": false
+    },
+    {
+      "s": "nnml8de0",
+      "t": "nvoqfawk",
+      "dashed": false
+    },
+    {
+      "s": "nnml8de0",
+      "t": "ny4tzjy1",
+      "dashed": false
+    },
+    {
+      "s": "nnml8de0",
+      "t": "n9x4ohry",
+      "dashed": false
+    },
+    {
+      "s": "nnml8de0",
+      "t": "nb50tzdz",
+      "dashed": false
+    },
+    {
+      "s": "npyggt2u",
+      "t": "nov9ffuy",
+      "dashed": false
+    },
+    {
+      "s": "nvoqfawk",
+      "t": "nov9ffuy",
+      "dashed": false
+    },
+    {
+      "s": "ny4tzjy1",
+      "t": "nov9ffuy",
+      "dashed": false
+    },
+    {
+      "s": "n9x4ohry",
+      "t": "nov9ffuy",
+      "dashed": false
+    },
+    {
+      "s": "nb50tzdz",
+      "t": "nov9ffuy",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Product design",
-      "Data representation",
-      "Design research",
-      "Surveillance studies",
-      "Critical design",
-      "Algorithmic governance",
-      "Biometric data",
-      "Data ethics",
-      "Critical theory",
-      "Media studies",
-      "Critical data studies",
-      "Communication",
       "Branding",
-      "Chronopolitics",
-      "Socio-political",
-      "Speculative design",
+      "Product design",
       "Visual communication",
+      "Data representation",
+      "Communication",
+      "Design research",
+      "Metric governance",
       "Experience design",
-      "Interaction design",
+      "Speculative design",
+      "Algorithmic governance",
+      "Chronopolitics",
       "Metric system",
-      "Metric governance"
+      "Science and technology studies (sts)",
+      "Interaction design",
+      "Socio-political",
+      "Critical data studies",
+      "Media studies",
+      "Critical theory",
+      "Data ethics",
+      "Biometric data",
+      "Critical design",
+      "Surveillance studies"
     ],
     "tags": [
       "Measuring the unmeasurable",
@@ -6989,27 +7440,29 @@
       "Data representation",
       "Temporal sovereignty",
       "Metric governance",
-      "Deceptive pattern",
-      "Biometric data",
-      "Relativity",
-      "Cellular senescence",
-      "Senolytics",
-      "Mechanical computing",
-      "Statistic bias",
-      "Cognitive bias",
-      "Big data",
-      "Algorithmic bias",
-      "Subjective reality",
       "Body-politics",
-      "Metrics distortion"
+      "Metrics distortion",
+      "Data representationretry",
+      "Mechanical computing",
+      "Subjective reality",
+      "Algorithmic bias",
+      "Big data",
+      "Cognitive bias",
+      "Statistic bias",
+      "Senolytics",
+      "Cellular senescence",
+      "Relativity",
+      "Biometric data",
+      "Deceptive pattern"
     ],
     "type": [
-      "Concept",
       "Feedback",
-      "Collection",
       "Sketch",
-      "Finding",
+      "Concept",
       "Source",
+      "Collection",
+      "Observation",
+      "Finding",
       "Brief"
     ]
   }
