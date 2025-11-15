@@ -6722,7 +6722,7 @@
       "x": 28185.00477689851,
       "y": 5549.9589497334255,
       "w": 320,
-      "h": 1359,
+      "h": 1245,
       "group": null,
       "data": {
         "date": "2025-11-11",
@@ -6731,18 +6731,13 @@
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
+          "Interaction design",
+          "Product design",
           "Communication",
           "Visual communication",
-          "Product design",
           "Branding",
-          "Interaction design",
-          "Speculative design",
           "Design research",
-          "Experience design",
-          "Chronopolitics",
-          "Metric governance",
-          "Socio-political",
-          "Critical design"
+          "Experience design"
         ],
         "tags": [
           "Metric system",
@@ -7229,8 +7224,8 @@
     },
     {
       "id": "n5wgywpm",
-      "x": 30577.844816407127,
-      "y": 6154.065569032829,
+      "x": 30589.844816407127,
+      "y": 5670.065569032829,
       "w": 320,
       "h": 1110,
       "group": null,
@@ -7241,7 +7236,7 @@
         "action": null,
         "mainArea": null,
         "areas": [
-          ": interaction design",
+          "Interaction design",
           "Product design",
           "Communication",
           "Visual communication",
@@ -8859,6 +8854,7 @@
   ],
   "vocab": {
     "areas": [
+      "Interaction design",
       "Data perception",
       "Sensor technology",
       "Sensor systems",
@@ -8868,7 +8864,6 @@
       "Critical theory",
       "Surveillance studies",
       "Science and technology studies (sts)",
-      "Interaction design",
       "Chronopolitics",
       "Critical design",
       "Data ethics",
