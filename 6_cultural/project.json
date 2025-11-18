@@ -2397,10 +2397,10 @@
     },
     {
       "id": "n453t6qy",
-      "x": 9239.188905592582,
-      "y": 2390.5872204772854,
+      "x": 9105.45870299,
+      "y": 2414.1866679953882,
       "w": 320,
-      "h": 679,
+      "h": 534,
       "group": null,
       "data": {
         "date": "2025-10-28",
@@ -2412,16 +2412,7 @@
         "tags": [],
         "desc": "The selected palette uses artificial, laboratory-style colors to reflect the tension between the cold, stable environment and the vibrant, yet preserved, cultural material.\n\n- Ice White: Represents the preservation medium (ice) and the pristine, sterile environment of cryopreservation.\n\n- Chemical Orange: The warm, organic color of the living cultures (the human element), made artificial and highly saturated to signify that the culture has been denatured (preserved/frozen).\n\n- Deep Blue: signifies the institutional, static, and calm nature of NGOs (Non-Governmental Organizations). Primarily used to convey trust and reliability.\n\n- Dark Gray: conveys institutional seriousness and a formal, protocol-driven approach.\n\n- Sky blue: used to balance the dark tones and symbolize medicine/science and hope.\n",
         "links": [],
-        "files": [
-          {
-            "name": "Frame.png",
-            "size": 57578,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/Frame.jpg"
-          }
-        ]
+        "files": []
       }
     },
     {
@@ -2530,7 +2521,7 @@
       "x": 9851.199937069909,
       "y": 2840.0218361535844,
       "w": 320,
-      "h": 770,
+      "h": 618,
       "group": null,
       "data": {
         "date": "2025-10-28",
@@ -2545,14 +2536,6 @@
         "desc": "The UNEC logo combines two shapes: a snowflake and a house. The snowflake represents cryopreservation, the vital suspension necessary to preserve what is at risk of extinction.\nThe house, on the other hand, evokes protection, belonging, and shared memory. Together, these symbols convey UNEC's mission: to offer a safe haven to threatened cultures, preserving their identity and complexity over time.",
         "links": [],
         "files": [
-          {
-            "name": "Frame.png",
-            "size": 38961,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/Frame.jpg"
-          },
           {
             "name": "Frame 1.png",
             "size": 138533,
@@ -2812,7 +2795,7 @@
     },
     {
       "id": "n3rwqok2",
-      "x": 8997.797202536398,
+      "x": 10541.797202536398,
       "y": 1086.9016857292045,
       "w": 320,
       "h": 576,
@@ -2837,6 +2820,239 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Frame.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxrm7yfe",
+      "x": 12177.785793066607,
+      "y": 2778.4939183441734,
+      "w": 320,
+      "h": 378,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "Moodboard",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Design research"
+        ],
+        "tags": [
+          "Source"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "moodboard.png",
+            "size": 10814478,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/moodboard.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwq55jfa",
+      "x": 12689.236065389287,
+      "y": 2813.8200540523017,
+      "w": 320,
+      "h": 320,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "-.png",
+            "size": 80795,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/-.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nh97x6a2",
+      "x": 12037.35320668681,
+      "y": 3281.3643281201535,
+      "w": 320,
+      "h": 1032,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "Concept",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Design research"
+        ],
+        "tags": [],
+        "desc": "The concept comes from the identity of ONGs like ONU. ",
+        "links": [],
+        "files": [
+          {
+            "name": "goodify_1920x1040_with_copy.png",
+            "size": 1387901,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/goodify_1920x1040_with_copy.jpg"
+          },
+          {
+            "name": "0546070001418911941_0.png",
+            "size": 489692,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/0546070001418911941_0.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-07 at 09.15.25 1.png",
+            "size": 6139000,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-07_at_09.15.25_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nf31ns3s",
+      "x": 13194.832395723282,
+      "y": 2540.7107876631826,
+      "w": 320,
+      "h": 1278,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "--1.png",
+            "size": 1337976,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/--1.jpg"
+          },
+          {
+            "name": "--2.png",
+            "size": 1449301,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/--2.jpg"
+          },
+          {
+            "name": "--3.png",
+            "size": 604935,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/--3.jpg"
+          },
+          {
+            "name": "--4.png",
+            "size": 1431353,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/--4.jpg"
+          },
+          {
+            "name": "altre prove.png",
+            "size": 27173193,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/altre_prove.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0m45b8f",
+      "x": 11385.277612964508,
+      "y": 1426.7240205918658,
+      "w": 320,
+      "h": 314,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "omini.png",
+            "size": 136908,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/omini.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nus04p31",
+      "x": 11425.888090929855,
+      "y": 1004.1532546486947,
+      "w": 320,
+      "h": 314,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "applicazione.png",
+            "size": 331354,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/applicazione.jpg"
           }
         ]
       }
@@ -3482,40 +3698,95 @@
       "s": "nd1eepiv",
       "t": "nnyt5jjq",
       "dashed": false
+    },
+    {
+      "s": "na2mxg7s",
+      "t": "nxrm7yfe",
+      "dashed": false
+    },
+    {
+      "s": "nuoz9o75",
+      "t": "nxrm7yfe",
+      "dashed": false
+    },
+    {
+      "s": "n70wd0wx",
+      "t": "nxrm7yfe",
+      "dashed": false
+    },
+    {
+      "s": "nxrm7yfe",
+      "t": "nwq55jfa",
+      "dashed": false
+    },
+    {
+      "s": "n70wd0wx",
+      "t": "nwq55jfa",
+      "dashed": false
+    },
+    {
+      "s": "nuoz9o75",
+      "t": "nwq55jfa",
+      "dashed": false
+    },
+    {
+      "s": "nh97x6a2",
+      "t": "nwq55jfa",
+      "dashed": false
+    },
+    {
+      "s": "nwq55jfa",
+      "t": "nf31ns3s",
+      "dashed": false
+    },
+    {
+      "s": "nh97x6a2",
+      "t": "nf31ns3s",
+      "dashed": false
+    },
+    {
+      "s": "n3rwqok2",
+      "t": "n0m45b8f",
+      "dashed": false
+    },
+    {
+      "s": "n3rwqok2",
+      "t": "nus04p31",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Machine",
-      "Branding",
-      "Socio-cultural",
-      "Socio-political",
-      "Critical design",
-      "Conflicts",
-      "Critical theory",
-      "Amare i robot?",
-      "Media studies",
-      "Communication",
       "Design research",
-      "People"
+      "Branding",
+      "Communication",
+      "People",
+      "Media studies",
+      "Amare i robot?",
+      "Critical theory",
+      "Conflicts",
+      "Critical design",
+      "Socio-political",
+      "Socio-cultural",
+      "Machine"
     ],
     "tags": [
-      "Already explored",
-      "Discarded",
+      "Source",
       "Limited scope",
-      "Source"
+      "Discarded",
+      "Already explored"
     ],
     "type": [
       "Sketch",
-      "Concept",
-      "Artefact",
       "Output",
-      "Collection",
-      "Feedback",
-      "Brief",
-      "Finding",
+      "Concept",
+      "Source",
+      "Artefact",
       "Case study",
-      "Source"
+      "Finding",
+      "Brief",
+      "Feedback",
+      "Collection"
     ]
   }
 }
