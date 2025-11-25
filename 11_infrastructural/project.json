@@ -5044,8 +5044,8 @@
     },
     {
       "id": "ngekx8pi",
-      "x": 18221.82767627434,
-      "y": 4851.271281962661,
+      "x": 18219.00657663265,
+      "y": 4614.298912060749,
       "w": 320,
       "h": 267,
       "group": null,
@@ -5067,14 +5067,14 @@
     },
     {
       "id": "ndxewd2g",
-      "x": 18219.370271760872,
-      "y": 5171.434703876354,
+      "x": 18220.169603942166,
+      "y": 5977.813467149603,
       "w": 320,
-      "h": 502,
+      "h": 799,
       "group": null,
       "data": {
         "date": "2025-10-13",
-        "title": "CONCEPT",
+        "title": "CONCEPT 1: ALCHEMY",
         "type": "Brief",
         "action": "Making",
         "mainArea": "Speculation",
@@ -5085,7 +5085,16 @@
         "tags": [],
         "desc": "ALCHEMY\n\nAlchemy is an esoteric philosophical system that since ancient times, through various disciplines, has aimed to achieve the highest level of knowledge, spiritual perfection, and the search for the Philosopher's Stone through the transformation of matter.\nThe term alchemy derives from the Arabic l-khīmiyya or al-kīmiyya, composed of the definite article al- and the word kīmiyya, meaning \"chemistry,\" which in turn appears to descend from the Greek term khymeia (χυμεία), meaning \"to melt,\" \"to pour together,\" \"to weld,\" \"to attach.\"\nAlchemy is an esoteric science whose primary goal was to transform lead, or the negative, into gold, or the positive in man.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Alchimia.png",
+            "size": 4545784,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Alchimia.jpg"
+          }
+        ]
       }
     },
     {
@@ -5138,7 +5147,7 @@
       "x": 15074.728552867355,
       "y": 5694.4033558718875,
       "w": 320,
-      "h": 932,
+      "h": 934,
       "group": null,
       "data": {
         "date": "2025-10-12",
@@ -5270,7 +5279,7 @@
       "x": 15458.610597091945,
       "y": 6236.816086772154,
       "w": 320,
-      "h": 1342,
+      "h": 1343,
       "group": null,
       "data": {
         "date": "2025-10-12",
@@ -5707,8 +5716,8 @@
     },
     {
       "id": "n0mwicyr",
-      "x": 18219.946471515123,
-      "y": 4468.532233494598,
+      "x": 18217.125371873433,
+      "y": 4231.559863592685,
       "w": 320,
       "h": 328,
       "group": null,
@@ -5725,6 +5734,488 @@
         "desc": "Providing affordable materials (compared to the external market) and high-quality, therefore high-tech (compared to my direct competitors).\nSustainable because we use human-made raw materials.\nInnovative in our use of materials and in research that aims for the best quality.\nWe focus on progress.",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "nwp84449",
+      "x": 18781.832201333327,
+      "y": 5982.456326524666,
+      "w": 320,
+      "h": 568,
+      "group": null,
+      "data": {
+        "date": "2025-11-25",
+        "title": "CONCEPT 2: CONCRETENESS",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Concretezza.png",
+            "size": 4329604,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Concretezza.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nb5vmktk",
+      "x": 18210.281570904925,
+      "y": 6820.495585431625,
+      "w": 320,
+      "h": 1266,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "TEXTURE",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 464.png",
+            "size": 100251,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_464.jpg"
+          },
+          {
+            "name": "image 448.png",
+            "size": 49672,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_448.jpg"
+          },
+          {
+            "name": "image 453.png",
+            "size": 38758,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_453.jpg"
+          },
+          {
+            "name": "image 457.png",
+            "size": 10332,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_457.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nb5y5x6v",
+      "x": 18210.229530800643,
+      "y": 8114.682885850084,
+      "w": 320,
+      "h": 960,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "LABORATORY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 441.png",
+            "size": 40150,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_441.jpg"
+          },
+          {
+            "name": "image 443.png",
+            "size": 41166,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_443.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrr8vzce",
+      "x": 17850.237395196957,
+      "y": 6820.793594485759,
+      "w": 320,
+      "h": 1190,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "ANALYTICAL",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 452.png",
+            "size": 28386,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_452.jpg"
+          },
+          {
+            "name": "image 455.png",
+            "size": 178012,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_455.jpg"
+          },
+          {
+            "name": "image 463.png",
+            "size": 15842,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_463.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "no9mzga6",
+      "x": 18570.93522198631,
+      "y": 8228.126617130667,
+      "w": 320,
+      "h": 937,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "MATERIALS",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 451.png",
+            "size": 51198,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_451.jpg"
+          },
+          {
+            "name": "image 466.png",
+            "size": 50958,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_466.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9j2gpet",
+      "x": 18566.9014645641,
+      "y": 6821.368780816088,
+      "w": 320,
+      "h": 1365,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "SUSTAINABILITY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 458.png",
+            "size": 64768,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_458.jpg"
+          },
+          {
+            "name": "image 459.png",
+            "size": 34825,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_459.jpg"
+          },
+          {
+            "name": "image 467.png",
+            "size": 30872,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_467.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nd31ma1s",
+      "x": 18928.646928222686,
+      "y": 8189.870845728146,
+      "w": 320,
+      "h": 615,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "REASSURING",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 444.png",
+            "size": 130921,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_444.jpg"
+          },
+          {
+            "name": "image 466-1.png",
+            "size": 100460,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_466-1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvnuiqx6",
+      "x": 17842.28025666922,
+      "y": 8046.421901898753,
+      "w": 320,
+      "h": 399,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": " TIES",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 449.png",
+            "size": 51451,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_449.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmz7ue4g",
+      "x": 18922.153793212794,
+      "y": 6828.257994779739,
+      "w": 320,
+      "h": 1313,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "SOLIDITY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 450.png",
+            "size": 45757,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_450.jpg"
+          },
+          {
+            "name": "image 460.png",
+            "size": 21285,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_460.jpg"
+          },
+          {
+            "name": "image 461.png",
+            "size": 30322,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_461.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n39ly3i3",
+      "x": 18693.4128507606,
+      "y": 4398.217260568313,
+      "w": 320,
+      "h": 284,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "TONE OF VOICE",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Our tone of voice is:\n- Analytical\n- Reassuring\n- Professional",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3ayicy7",
+      "x": 18700.958841268617,
+      "y": 4031.676609354766,
+      "w": 320,
+      "h": 322,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "NAMING",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "We have thought of some proposals:\n\nKapta; from the Greek Hapta meaning \"touch\"\n\nOpus; from Latin, opus means \"work\" or \"deed\"\n\nSoema; from the union of Soma, from the Greek \"body\", and Sema, from the Greek \"tomb\"",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nsp4kidr",
+      "x": 18695.83763454443,
+      "y": 4730.575707427726,
+      "w": 320,
+      "h": 368,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "BRAND PERSONALITY",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Thinking about the personality of our brand we thought it is:\n\n- Reliable\n- Clear\n- Eloquent\n- Enterprising\n- Professional\n- Relaxing",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nudi307u",
+      "x": 19090.181961025668,
+      "y": 4277.649262868563,
+      "w": 320,
+      "h": 885,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "PALETTE OPTIONS",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "PALETTE 1.png",
+            "size": 414839,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PALETTE_1.jpg"
+          },
+          {
+            "name": "PALETTE 2.png",
+            "size": 437461,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PALETTE_2.jpg"
+          },
+          {
+            "name": "PALETTE 3.png",
+            "size": 385917,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PALETTE_3.jpg"
+          },
+          {
+            "name": "PALETTE 4.png",
+            "size": 352130,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PALETTE_4.jpg"
+          }
+        ]
       }
     }
   ],
@@ -7033,117 +7524,201 @@
       "s": "nl77jgz5",
       "t": "n0mwicyr",
       "dashed": false
+    },
+    {
+      "s": "nl77jgz5",
+      "t": "nwp84449",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "nb5vmktk",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "nb5y5x6v",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "nrr8vzce",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "no9mzga6",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "n9j2gpet",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "nd31ma1s",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "nvnuiqx6",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "nmz7ue4g",
+      "dashed": false
+    },
+    {
+      "s": "ngekx8pi",
+      "t": "n39ly3i3",
+      "dashed": false
+    },
+    {
+      "s": "n0mwicyr",
+      "t": "n39ly3i3",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "n3ayicy7",
+      "dashed": false
+    },
+    {
+      "s": "n0mwicyr",
+      "t": "nsp4kidr",
+      "dashed": false
+    },
+    {
+      "s": "ngekx8pi",
+      "t": "nsp4kidr",
+      "dashed": false
+    },
+    {
+      "s": "ngekx8pi",
+      "t": "nudi307u",
+      "dashed": false
+    },
+    {
+      "s": "n39ly3i3",
+      "t": "nudi307u",
+      "dashed": false
+    },
+    {
+      "s": "nsp4kidr",
+      "t": "nudi307u",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "Branding",
       "Materials supply companies",
-      "Materials",
-      "Infrastructure",
-      "Landgrabbing",
-      "Construction",
-      "Human body",
-      "Prototyping",
-      "Political sci",
-      "Development economics",
-      "Transport engineering",
-      "Indigenous rights",
-      "Development studies",
-      "History",
-      "International relations",
-      "Economic geography",
-      "Maritime engineering",
-      "Indigenous studies",
-      "Environmental studies",
-      "Hydraulic engineering",
-      "Political science",
-      "Archaeology",
-      "Social movements",
-      "Urban planning",
-      "Anthropology",
-      "Energy engineering political science",
-      "Sociology of protest",
-      "Security studies",
-      "Human geography",
-      "International law",
-      "Cultural heritage",
-      "Energy studies",
-      "Aviation engineering",
-      "Economics",
-      "Urban/regional planning",
-      "Transportation engineering",
-      "Social anthropology",
-      "Geology",
-      "Civil engineering",
-      "Geography",
-      "Energy engineering",
-      "Disaster management",
-      "Humanitarian studies",
-      "Social psychology",
-      "Political economy",
-      "Security and defense studies",
-      "Infrastructure engineering",
-      "Extreme tourism",
-      "Transportation",
-      "Luxury tourism",
-      "Neuroscience",
-      "Utopian civilization",
-      "General knowledge",
-      "Socio-political",
-      "Design research",
-      "Media studies",
-      "Communication",
-      "Critical design",
-      "Critical theory",
-      "Humanitarian and development studies",
-      "International relations and human rights",
-      "Political economy and public policy",
-      "Geopolitics and international relations",
-      "Architecture",
-      "Touristification",
-      "Tourism",
-      "Legality",
-      "Human rights",
-      "War",
-      "Speculative design",
-      "Art",
+      "Materials supply",
       "Construction companies",
-      "Materials supply"
+      "Art",
+      "Speculative design",
+      "War",
+      "Human rights",
+      "Legality",
+      "Tourism",
+      "Touristification",
+      "Architecture",
+      "Geopolitics and international relations",
+      "Political economy and public policy",
+      "International relations and human rights",
+      "Humanitarian and development studies",
+      "Critical theory",
+      "Critical design",
+      "Communication",
+      "Media studies",
+      "Design research",
+      "Socio-political",
+      "General knowledge",
+      "Utopian civilization",
+      "Neuroscience",
+      "Luxury tourism",
+      "Transportation",
+      "Extreme tourism",
+      "Infrastructure engineering",
+      "Security and defense studies",
+      "Political economy",
+      "Social psychology",
+      "Humanitarian studies",
+      "Disaster management",
+      "Energy engineering",
+      "Geography",
+      "Civil engineering",
+      "Geology",
+      "Social anthropology",
+      "Transportation engineering",
+      "Urban/regional planning",
+      "Economics",
+      "Aviation engineering",
+      "Energy studies",
+      "Cultural heritage",
+      "International law",
+      "Human geography",
+      "Security studies",
+      "Sociology of protest",
+      "Energy engineering political science",
+      "Anthropology",
+      "Urban planning",
+      "Social movements",
+      "Archaeology",
+      "Political science",
+      "Hydraulic engineering",
+      "Environmental studies",
+      "Indigenous studies",
+      "Maritime engineering",
+      "Economic geography",
+      "International relations",
+      "History",
+      "Development studies",
+      "Indigenous rights",
+      "Transport engineering",
+      "Development economics",
+      "Political sci",
+      "Prototyping",
+      "Human body",
+      "Construction",
+      "Landgrabbing",
+      "Infrastructure",
+      "Materials"
     ],
     "tags": [
-      "Human rights",
-      "Protests",
-      "Victims",
-      "Danger",
-      "Touchpoint",
-      "Touchpoints",
-      "Work flow",
-      "Structural failure",
-      "Psychological distress",
-      "Isolation",
-      "Useless investment",
-      "Catastrophe",
-      "Conflict",
-      "Communication",
-      "Overtourism",
-      "Definition",
-      "Extreme tourism",
-      "War",
-      "Health",
-      "Welfare",
-      "Touristification",
-      "Infrastructure",
-      "Landgrabbing",
-      "Cultural loss",
+      "Denounce",
       "Design",
-      "Denounce"
+      "Cultural loss",
+      "Landgrabbing",
+      "Infrastructure",
+      "Touristification",
+      "Welfare",
+      "Health",
+      "War",
+      "Extreme tourism",
+      "Definition",
+      "Overtourism",
+      "Communication",
+      "Conflict",
+      "Catastrophe",
+      "Useless investment",
+      "Isolation",
+      "Psychological distress",
+      "Structural failure",
+      "Work flow",
+      "Touchpoint",
+      "Danger",
+      "Victims",
+      "Protests",
+      "Human rights"
     ],
     "type": [
       "Brief",
-      "Source",
       "Research",
-      "Observation"
+      "Observation",
+      "Source"
     ]
   }
 }
