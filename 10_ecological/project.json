@@ -1783,6 +1783,26 @@
           }
         ]
       }
+    },
+    {
+      "id": "nctmzen5",
+      "x": 313,
+      "y": 122,
+      "w": 320,
+      "h": 135,
+      "group": null,
+      "data": {
+        "date": "2025-11-25",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
     }
   ],
   "edges": [
@@ -2131,7 +2151,6 @@
     "areas": [
       "Communication",
       "Ideas",
-      "What are we going to be?",
       "Design research",
       "Research",
       "Media studies",
