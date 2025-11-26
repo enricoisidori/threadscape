@@ -4998,7 +4998,7 @@
     },
     {
       "id": "nl77jgz5",
-      "x": 17648.629541225055,
+      "x": 18120.629541225055,
       "y": 5040.042848795047,
       "w": 320,
       "h": 300,
@@ -5021,7 +5021,7 @@
     },
     {
       "id": "n8sh3r3y",
-      "x": 17664.322851961457,
+      "x": 18136.322851961457,
       "y": 4737.393751146203,
       "w": 320,
       "h": 250,
@@ -5044,7 +5044,7 @@
     },
     {
       "id": "ngekx8pi",
-      "x": 18219.00657663265,
+      "x": 18691.00657663265,
       "y": 4614.298912060749,
       "w": 320,
       "h": 267,
@@ -5067,8 +5067,8 @@
     },
     {
       "id": "ndxewd2g",
-      "x": 18220.169603942166,
-      "y": 5977.813467149603,
+      "x": 19028.957158789395,
+      "y": 6697.538973469424,
       "w": 320,
       "h": 799,
       "group": null,
@@ -5716,7 +5716,7 @@
     },
     {
       "id": "n0mwicyr",
-      "x": 18217.125371873433,
+      "x": 18689.125371873433,
       "y": 4231.559863592685,
       "w": 320,
       "h": 328,
@@ -5738,8 +5738,8 @@
     },
     {
       "id": "nwp84449",
-      "x": 18781.832201333327,
-      "y": 5982.456326524666,
+      "x": 19610.40584364247,
+      "y": 6702.181832844487,
       "w": 320,
       "h": 568,
       "group": null,
@@ -5770,8 +5770,8 @@
     },
     {
       "id": "nb5vmktk",
-      "x": 18210.281570904925,
-      "y": 6820.495585431625,
+      "x": 19019.069125752154,
+      "y": 7540.221091751446,
       "w": 320,
       "h": 1266,
       "group": null,
@@ -5823,8 +5823,8 @@
     },
     {
       "id": "nb5y5x6v",
-      "x": 18210.229530800643,
-      "y": 8114.682885850084,
+      "x": 19022.314766891523,
+      "y": 8837.70607341356,
       "w": 320,
       "h": 960,
       "group": null,
@@ -5860,8 +5860,8 @@
     },
     {
       "id": "nrr8vzce",
-      "x": 17850.237395196957,
-      "y": 6820.793594485759,
+      "x": 18659.024950044186,
+      "y": 7540.51910080558,
       "w": 320,
       "h": 1190,
       "group": null,
@@ -5905,8 +5905,8 @@
     },
     {
       "id": "no9mzga6",
-      "x": 18570.93522198631,
-      "y": 8228.126617130667,
+      "x": 19383.02045807719,
+      "y": 8951.149804694141,
       "w": 320,
       "h": 937,
       "group": null,
@@ -5942,8 +5942,8 @@
     },
     {
       "id": "n9j2gpet",
-      "x": 18566.9014645641,
-      "y": 6821.368780816088,
+      "x": 19375.68901941133,
+      "y": 7541.094287135908,
       "w": 320,
       "h": 1365,
       "group": null,
@@ -5987,8 +5987,8 @@
     },
     {
       "id": "nd31ma1s",
-      "x": 18928.646928222686,
-      "y": 8189.870845728146,
+      "x": 19740.732164313566,
+      "y": 8912.89403329162,
       "w": 320,
       "h": 615,
       "group": null,
@@ -6024,8 +6024,8 @@
     },
     {
       "id": "nvnuiqx6",
-      "x": 17842.28025666922,
-      "y": 8046.421901898753,
+      "x": 18654.3654927601,
+      "y": 8769.445089462228,
       "w": 320,
       "h": 399,
       "group": null,
@@ -6053,8 +6053,8 @@
     },
     {
       "id": "nmz7ue4g",
-      "x": 18922.153793212794,
-      "y": 6828.257994779739,
+      "x": 19730.941348060023,
+      "y": 7547.98350109956,
       "w": 320,
       "h": 1313,
       "group": null,
@@ -6098,7 +6098,7 @@
     },
     {
       "id": "n39ly3i3",
-      "x": 18693.4128507606,
+      "x": 19165.4128507606,
       "y": 4398.217260568313,
       "w": 320,
       "h": 284,
@@ -6121,27 +6121,29 @@
     },
     {
       "id": "n3ayicy7",
-      "x": 18700.958841268617,
-      "y": 4031.676609354766,
+      "x": 19636.237523710846,
+      "y": 4577.647871250615,
       "w": 320,
-      "h": 322,
+      "h": 429,
       "group": null,
       "data": {
         "date": "2025-11-26",
         "title": "NAMING",
         "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies"
+        ],
         "tags": [],
-        "desc": "We have thought of some proposals:\n\nKapta; from the Greek Hapta meaning \"touch\"\n\nOpus; from Latin, opus means \"work\" or \"deed\"\n\nSoema; from the union of Soma, from the Greek \"body\", and Sema, from the Greek \"tomb\"",
+        "desc": "We have thought of some proposals:\n\nKapta; from the Latin “Capio”, which means “to take” (recalls us who take the bodies) and from the Greek “Aptomai”, which means “to touch”, closely linked to the sample collection\n\nOpus; from Latin, opus means \"work\" or \"deed\"\n\nSoema; it refers to the Greek concept of “Soma” (i.e. “body”) and “Sema” (i.e. “tomb”), which unites two very important concepts for us, namely the human body, understood as material, and death, linked to the concept of tomb and prison.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nsp4kidr",
-      "x": 18695.83763454443,
+      "x": 19167.83763454443,
       "y": 4730.575707427726,
       "w": 320,
       "h": 368,
@@ -6164,8 +6166,8 @@
     },
     {
       "id": "nudi307u",
-      "x": 19090.181961025668,
-      "y": 4277.649262868563,
+      "x": 20030.64625088073,
+      "y": 4235.340070012883,
       "w": 320,
       "h": 885,
       "group": null,
@@ -6214,6 +6216,515 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/PALETTE_4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nud8o534",
+      "x": 17082.74027061993,
+      "y": 4797.318725665233,
+      "w": 320,
+      "h": 458,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "SCENARIO",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials",
+          "Infrastructure",
+          "Materials supply companies"
+        ],
+        "tags": [],
+        "desc": "In the near future, the use of man-made materials will become a legitimate and advantageous practice in construction, giving rise to a new market based on the integration of organic matter into traditional materials and the search for increasingly advanced hybrid solutions.\n\nThe scenario exaggerates the conflict between large construction companies and the population (workers, local communities, civilians), to the point of transforming exploitation and violence into an integral part of social growth, embodied in the very materials on which it is built.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njrgsqf6",
+      "x": 17578.91096770195,
+      "y": 4863.5470228916065,
+      "w": 320,
+      "h": 323,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "ENTITY-SUBJECT",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials",
+          "Infrastructure",
+          "Materials supply companies"
+        ],
+        "tags": [],
+        "desc": "Our company, a leader in the supply of materials for strategic infrastructure, achieves economic advantages by using the \"necessary victims\" of large-scale projects as raw materials, integrated into traditional construction materials.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nt9ax7mf",
+      "x": 17994.912843878094,
+      "y": 5562.191972044877,
+      "w": 320,
+      "h": 514,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "BRAND IDENTITY CASE STUDIES",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "These are some of the inspirations for the brand identity",
+        "links": [
+          "Escavamar.com",
+          "atlasplan.com",
+          "mgsitaly.com",
+          "socio-type.com"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 09.22.02.png",
+            "size": 1214907,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_09.22.02.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlc0adlp",
+      "x": 20016.597066013863,
+      "y": 3763.2347775571543,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "PAYOFF",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "We have of thought of some proposal:\n\n- Backbone of society; bodies are used to support progress\n- Everybody counts; literally everyone is worth something, so it emphasizes the value of people on a functional level",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ny7cd7pu",
+      "x": 20030.920362741585,
+      "y": 5148.631518774945,
+      "w": 320,
+      "h": 489,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "TRADEMARKS TESTS",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "We have thought of some proposals.\n\nThe first one brings the concept of an organic cube.\n\nThe second one wants to give back the idea of ​​a man crushed in a cube to give back the idea of ​​a man crushed by the infrastructure.\n\nThe third is the idea of ​​a cube seen under a microscope.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 09.25.12.png",
+            "size": 20748,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_09.25.12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "noepqkkz",
+      "x": 20460.274831656505,
+      "y": 4022.781905898966,
+      "w": 320,
+      "h": 655,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "BRAND IDENTITY 1",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Brand Identity 1:\n- In shades of brown, evokes materiality. \n- Neutral tones convey professionalism, calm, and quality.\n- Textures are prominent, standing out against these tones and becoming central to our aesthetic. \n- The square remains central,\n- Use of lines, both vertical and horizontal, which evoke solidity, once again conveying reassurance. \n- The layout, which takes into account large white spaces, leaving plenty of breathing space between elements. \n- The san-serif fonts: \nEverett for headlines and more prominent information, Archivo for body text and subtitles, \nMonospaced for more technical information.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 09.30.32.png",
+            "size": 1033624,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_09.30.32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nooityud",
+      "x": 20466.360065085548,
+      "y": 4688.808660078069,
+      "w": 320,
+      "h": 604,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "BRAND IDENTITY 2",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Brand Identity 2:\n- Cooler and slightly brighter tones, it's intended to evoke the research and organic feel of materials, such as the skin-pink. The gray gradient leans almost blue, maintaining that reassuring tone, rather than being a completely cold and sterile gray. \n- Fonts are san serif, \n- Textures remain central, but lean more toward a more research-oriented approach. \n- The circular shape prevails, evoking microscopic vision, the essence of research. \n- There's more interplay between the elements in the layout, including overlapping images and text.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 09.30.56.png",
+            "size": 1218051,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_09.30.56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ni3fx4tc",
+      "x": 20001.26681145398,
+      "y": 2536.754779439364,
+      "w": 320,
+      "h": 702,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "OUTPUT",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials supply companies",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "We offer an interactive sample collection that allows users to explore the company's materials, discovering their true nature, composition, and provenance through tactile experience.",
+        "links": [],
+        "files": [
+          {
+            "name": "Prototype Render Two 1.png",
+            "size": 385422,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Prototype_Render_Two_1.jpg"
+          },
+          {
+            "name": "0001-0100 1.png",
+            "size": 327550,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/0001-0100_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nk6ui6fz",
+      "x": 20006.071576808215,
+      "y": 1128.6377219805217,
+      "w": 320,
+      "h": 1322,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "SENSORS",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "User experience",
+          "Arduino"
+        ],
+        "tags": [],
+        "desc": "The interaction is triggered by lifting the cube. An IR sensor detects its absence from the base and activates the infographic on the monitor.\n\nThe cube acts as a controller for navigating the three information panels.\n\nNavigation occurs:\n- Through intentional pressure on the cube, measured by internal Force-sensing Resistor (FSR) sensors\n- By physically rotating the sample, via a gyroscope-accelerometer",
+        "links": [],
+        "files": [
+          {
+            "name": "image 557.png",
+            "size": 697680,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_557.jpg"
+          },
+          {
+            "name": "image 559.png",
+            "size": 292877,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_559.jpg"
+          },
+          {
+            "name": "image 558.png",
+            "size": 203071,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_558.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ns1swtbd",
+      "x": 20790.840871866316,
+      "y": 2659.0477823321803,
+      "w": 320,
+      "h": 395,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "MATERIAL SAMPLES",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "We offer six materials for users to interact with. Specifically, the materials are made from organic materials used alongside traditional construction materials like concrete.\n\nThe organic materials we use are:\n- blood\n- bones\n- skin\n- hair\n- albumin\n- urea or fat",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njklha5d",
+      "x": 21300.1785352507,
+      "y": 1966.4497060419503,
+      "w": 320,
+      "h": 653,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "BLOOD MATERIAL",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "Appearance:\n- Irregular surface\n- Dark streaks\n- Semi-gelatinized clots\n- Desaturation (bright red in some areas, more brown/\"oxidized\" in others)\n\nTactile sensation:\n- The clots and the irregularity beneath the layer should be felt.\n- It should not be soft, the clots should not \"move.\" It should have a solid consistency.\n- Dense on the outside and a sensation of fluid underneath (tbd).",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 10.45.27.png",
+            "size": 2895864,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_10.45.27.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nheo5v6z",
+      "x": 21291.30076999147,
+      "y": 2679.359422010491,
+      "w": 320,
+      "h": 837,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "BONES",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "Appearance:\n- Probably fragmented, so either flakes or powder (or compact).\n- It could be an aesthetic material, lime with pieces of bone in a mosaic-like pattern.\n- Whitish-gray color.\n- Opaque.\n\nTactile sensation:\n- Rough or smooth.\n- Hard.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 10.46.59.png",
+            "size": 1168681,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_10.46.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4x6orf2",
+      "x": 21660.54104110693,
+      "y": 1964.4695881682192,
+      "w": 320,
+      "h": 691,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "SKIN",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "Appearance:\n- Leather texture\n- Wrinkled\n- Dull\n- Pores, wrinkles, spots\n- Red or bluish veins if there are capillaries\n- Flesh-pink color tending towards brown, slightly desaturated\n\nTouch:\n- Rough but not \"dry\"\n- \"Soft,\" almost rubbery\n- Understanding the feel of leather",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 10.48.43.png",
+            "size": 1928576,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_10.48.43.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncpthlyd",
+      "x": 21659.22437452872,
+      "y": 2695.88239867303,
+      "w": 320,
+      "h": 761,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "HAIR",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "\nAppearance:\n- You should see the hair\n- Not random, but pulled, streaked → dark strands\n- Perhaps some small knots/tangles\n- A few small tufts should emerge\n- Probably dark color\n- Opaque\n\nTactile sensation:\n- Solid\n- To the touch, you should feel the \"skein,\" the strands\n- Rough",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 10.49.08.png",
+            "size": 1581143,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_10.49.08.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwn7p5mu",
+      "x": 22023.789673131,
+      "y": 1971.9384276812807,
+      "w": 320,
+      "h": 618,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "UREA OR FAT",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "Appearance:\n- Gelatinous\n- Granule\n- Yellowish\n- Semi-transparent\n- Bubbles inside\n\nTactile sensation:\n- Solid\n- Smooth\n- Grooves to simulate bubbles",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 10.50.59.png",
+            "size": 2040347,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_10.50.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxbl8y62",
+      "x": 22025.731522725673,
+      "y": 2627.602717791561,
+      "w": 320,
+      "h": 727,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "ALBUMIN",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "Appearance:\n- Whitish,\n- Semi-transparent/opaque,\n- Reticulated(?)\n- Two ways:\n1. Powdered: Albumin is powdered like chalk, which when mixed with water gives a rough, coarse, solid appearance.\n2. Gelatinous: It may have a smooth texture, giving the impression of a material that was originally liquid and then solidifies, perhaps with bubbles inside.\n\nTactile sensation: → Real albumin (egg) has a viscous consistency when denatured, so the fake should imitate that effect.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 10.53.13.png",
+            "size": 1203521,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_10.53.13.jpg"
           }
         ]
       }
@@ -7481,16 +7992,6 @@
       "dashed": false
     },
     {
-      "s": "nqwny8ca",
-      "t": "nl77jgz5",
-      "dashed": false
-    },
-    {
-      "s": "nqwny8ca",
-      "t": "n8sh3r3y",
-      "dashed": false
-    },
-    {
       "s": "n8sh3r3y",
       "t": "nl77jgz5",
       "dashed": false
@@ -7581,11 +8082,6 @@
       "dashed": false
     },
     {
-      "s": "nqwny8ca",
-      "t": "n3ayicy7",
-      "dashed": false
-    },
-    {
       "s": "n0mwicyr",
       "t": "nsp4kidr",
       "dashed": false
@@ -7596,129 +8092,226 @@
       "dashed": false
     },
     {
-      "s": "ngekx8pi",
-      "t": "nudi307u",
+      "s": "nqwny8ca",
+      "t": "nud8o534",
+      "dashed": false
+    },
+    {
+      "s": "nud8o534",
+      "t": "njrgsqf6",
+      "dashed": false
+    },
+    {
+      "s": "njrgsqf6",
+      "t": "n8sh3r3y",
+      "dashed": false
+    },
+    {
+      "s": "njrgsqf6",
+      "t": "nl77jgz5",
+      "dashed": false
+    },
+    {
+      "s": "njrgsqf6",
+      "t": "nt9ax7mf",
+      "dashed": false
+    },
+    {
+      "s": "n3ayicy7",
+      "t": "nlc0adlp",
       "dashed": false
     },
     {
       "s": "n39ly3i3",
-      "t": "nudi307u",
+      "t": "n3ayicy7",
       "dashed": false
     },
     {
       "s": "nsp4kidr",
+      "t": "n3ayicy7",
+      "dashed": false
+    },
+    {
+      "s": "ngekx8pi",
+      "t": "n3ayicy7",
+      "dashed": false
+    },
+    {
+      "s": "n3ayicy7",
       "t": "nudi307u",
+      "dashed": false
+    },
+    {
+      "s": "n3ayicy7",
+      "t": "ny7cd7pu",
+      "dashed": false
+    },
+    {
+      "s": "nudi307u",
+      "t": "noepqkkz",
+      "dashed": false
+    },
+    {
+      "s": "nudi307u",
+      "t": "nooityud",
+      "dashed": false
+    },
+    {
+      "s": "n0mwicyr",
+      "t": "ni3fx4tc",
+      "dashed": false
+    },
+    {
+      "s": "ni3fx4tc",
+      "t": "nk6ui6fz",
+      "dashed": false
+    },
+    {
+      "s": "ni3fx4tc",
+      "t": "ns1swtbd",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "njklha5d",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "nheo5v6z",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "n4x6orf2",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "ncpthlyd",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "nwn7p5mu",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "nxbl8y62",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Branding",
+      "User experience",
+      "Materials",
       "Materials supply companies",
-      "Materials supply",
-      "Construction companies",
-      "Art",
-      "Speculative design",
-      "War",
-      "Human rights",
-      "Legality",
-      "Tourism",
-      "Touristification",
-      "Architecture",
-      "Geopolitics and international relations",
-      "Political economy and public policy",
-      "International relations and human rights",
-      "Humanitarian and development studies",
-      "Critical theory",
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Design research",
-      "Socio-political",
-      "General knowledge",
-      "Utopian civilization",
-      "Neuroscience",
-      "Luxury tourism",
-      "Transportation",
-      "Extreme tourism",
-      "Infrastructure engineering",
-      "Security and defense studies",
-      "Political economy",
-      "Social psychology",
-      "Humanitarian studies",
-      "Disaster management",
-      "Energy engineering",
-      "Geography",
-      "Civil engineering",
-      "Geology",
-      "Social anthropology",
-      "Transportation engineering",
-      "Urban/regional planning",
-      "Economics",
-      "Aviation engineering",
-      "Energy studies",
-      "Cultural heritage",
-      "International law",
-      "Human geography",
-      "Security studies",
-      "Sociology of protest",
-      "Energy engineering political science",
-      "Anthropology",
-      "Urban planning",
-      "Social movements",
-      "Archaeology",
-      "Political science",
-      "Hydraulic engineering",
-      "Environmental studies",
-      "Indigenous studies",
-      "Maritime engineering",
-      "Economic geography",
-      "International relations",
-      "History",
-      "Development studies",
-      "Indigenous rights",
-      "Transport engineering",
-      "Development economics",
-      "Political sci",
-      "Prototyping",
-      "Human body",
-      "Construction",
-      "Landgrabbing",
+      "Branding",
+      "Arduino",
       "Infrastructure",
-      "Materials"
+      "Human body",
+      "Landgrabbing",
+      "Construction",
+      "Prototyping",
+      "Political sci",
+      "Development economics",
+      "Transport engineering",
+      "Indigenous rights",
+      "Development studies",
+      "History",
+      "International relations",
+      "Economic geography",
+      "Maritime engineering",
+      "Indigenous studies",
+      "Environmental studies",
+      "Hydraulic engineering",
+      "Political science",
+      "Archaeology",
+      "Social movements",
+      "Urban planning",
+      "Anthropology",
+      "Energy engineering political science",
+      "Sociology of protest",
+      "Security studies",
+      "Human geography",
+      "International law",
+      "Cultural heritage",
+      "Energy studies",
+      "Aviation engineering",
+      "Economics",
+      "Urban/regional planning",
+      "Transportation engineering",
+      "Social anthropology",
+      "Geology",
+      "Civil engineering",
+      "Geography",
+      "Energy engineering",
+      "Disaster management",
+      "Humanitarian studies",
+      "Social psychology",
+      "Political economy",
+      "Security and defense studies",
+      "Infrastructure engineering",
+      "Extreme tourism",
+      "Transportation",
+      "Luxury tourism",
+      "Neuroscience",
+      "Utopian civilization",
+      "General knowledge",
+      "Socio-political",
+      "Design research",
+      "Media studies",
+      "Communication",
+      "Critical design",
+      "Critical theory",
+      "Humanitarian and development studies",
+      "International relations and human rights",
+      "Political economy and public policy",
+      "Geopolitics and international relations",
+      "Architecture",
+      "Touristification",
+      "Tourism",
+      "Legality",
+      "Human rights",
+      "War",
+      "Speculative design",
+      "Art",
+      "Construction companies",
+      "Materials supply"
     ],
     "tags": [
-      "Denounce",
-      "Design",
-      "Cultural loss",
-      "Landgrabbing",
-      "Infrastructure",
-      "Touristification",
-      "Welfare",
-      "Health",
-      "War",
-      "Extreme tourism",
-      "Definition",
-      "Overtourism",
-      "Communication",
-      "Conflict",
-      "Catastrophe",
-      "Useless investment",
-      "Isolation",
-      "Psychological distress",
-      "Structural failure",
-      "Work flow",
-      "Touchpoint",
-      "Danger",
-      "Victims",
+      "Human rights",
       "Protests",
-      "Human rights"
+      "Victims",
+      "Danger",
+      "Touchpoint",
+      "Work flow",
+      "Structural failure",
+      "Psychological distress",
+      "Isolation",
+      "Useless investment",
+      "Catastrophe",
+      "Conflict",
+      "Communication",
+      "Overtourism",
+      "Definition",
+      "Extreme tourism",
+      "War",
+      "Health",
+      "Welfare",
+      "Touristification",
+      "Infrastructure",
+      "Landgrabbing",
+      "Cultural loss",
+      "Design",
+      "Denounce"
     ],
     "type": [
-      "Brief",
-      "Research",
       "Observation",
-      "Source"
+      "Brief",
+      "Source",
+      "Research"
     ]
   }
 }
