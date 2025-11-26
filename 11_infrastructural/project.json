@@ -6539,10 +6539,10 @@
     },
     {
       "id": "njklha5d",
-      "x": 21300.1785352507,
-      "y": 1966.4497060419503,
+      "x": 21176.1785352507,
+      "y": 1334.4497060419503,
       "w": 320,
-      "h": 653,
+      "h": 676,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -6552,6 +6552,7 @@
         "mainArea": "Interaction",
         "areas": [
           "Materials",
+          "Organic materials",
           "User experience"
         ],
         "tags": [],
@@ -6571,10 +6572,10 @@
     },
     {
       "id": "nheo5v6z",
-      "x": 21291.30076999147,
-      "y": 2679.359422010491,
+      "x": 21175.30076999147,
+      "y": 3735.359422010491,
       "w": 320,
-      "h": 837,
+      "h": 859,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -6584,6 +6585,7 @@
         "mainArea": "Interaction",
         "areas": [
           "Materials",
+          "Organic materials",
           "User experience"
         ],
         "tags": [],
@@ -6603,10 +6605,10 @@
     },
     {
       "id": "n4x6orf2",
-      "x": 21660.54104110693,
-      "y": 1964.4695881682192,
+      "x": 21600.54104110693,
+      "y": 1692.4695881682192,
       "w": 320,
-      "h": 691,
+      "h": 714,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -6616,6 +6618,7 @@
         "mainArea": "Interaction",
         "areas": [
           "Materials",
+          "Organic materials",
           "User experience"
         ],
         "tags": [],
@@ -6635,10 +6638,10 @@
     },
     {
       "id": "ncpthlyd",
-      "x": 21659.22437452872,
-      "y": 2695.88239867303,
+      "x": 21623.22437452872,
+      "y": 3235.88239867303,
       "w": 320,
-      "h": 761,
+      "h": 784,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -6648,6 +6651,7 @@
         "mainArea": "Interaction",
         "areas": [
           "Materials",
+          "Organic materials",
           "User experience"
         ],
         "tags": [],
@@ -6670,7 +6674,7 @@
       "x": 22023.789673131,
       "y": 1971.9384276812807,
       "w": 320,
-      "h": 618,
+      "h": 640,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -6680,6 +6684,7 @@
         "mainArea": "Interaction",
         "areas": [
           "Materials",
+          "Organic materials",
           "User experience"
         ],
         "tags": [],
@@ -6699,10 +6704,10 @@
     },
     {
       "id": "nxbl8y62",
-      "x": 22025.731522725673,
-      "y": 2627.602717791561,
+      "x": 22045.731522725673,
+      "y": 2703.602717791561,
       "w": 320,
-      "h": 727,
+      "h": 750,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -6712,6 +6717,7 @@
         "mainArea": "Interaction",
         "areas": [
           "Materials",
+          "Organic materials",
           "User experience"
         ],
         "tags": [],
@@ -6727,6 +6733,138 @@
             "path": "assets/Screenshot_2025-11-26_alle_10.53.13.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "n1q3xld9",
+      "x": 22530.149006169384,
+      "y": 2982.035652803695,
+      "w": 320,
+      "h": 171,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "ALBUPHAS",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4fhdx4i",
+      "x": 21551.03708587137,
+      "y": 1012.1958906164998,
+      "w": 320,
+      "h": 141,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncc9w28j",
+      "x": 22020.95012996991,
+      "y": 1421.9871950263541,
+      "w": 320,
+      "h": 141,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nv95xlox",
+      "x": 22516.95012996991,
+      "y": 2209.987195026354,
+      "w": 320,
+      "h": 141,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ni2gxma0",
+      "x": 22172.95012996991,
+      "y": 3749.987195026354,
+      "w": 320,
+      "h": 141,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n62zzt5w",
+      "x": 21672.95012996991,
+      "y": 4277.987195026354,
+      "w": 320,
+      "h": 141,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -8200,12 +8338,43 @@
       "s": "ns1swtbd",
       "t": "nxbl8y62",
       "dashed": false
+    },
+    {
+      "s": "nxbl8y62",
+      "t": "n1q3xld9",
+      "dashed": false
+    },
+    {
+      "s": "njklha5d",
+      "t": "n4fhdx4i",
+      "dashed": false
+    },
+    {
+      "s": "n4x6orf2",
+      "t": "ncc9w28j",
+      "dashed": false
+    },
+    {
+      "s": "nwn7p5mu",
+      "t": "nv95xlox",
+      "dashed": false
+    },
+    {
+      "s": "ncpthlyd",
+      "t": "ni2gxma0",
+      "dashed": false
+    },
+    {
+      "s": "nheo5v6z",
+      "t": "n62zzt5w",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "User experience",
       "Materials",
+      "Organic materials",
+      "User experience",
       "Materials supply companies",
       "Branding",
       "Arduino",
