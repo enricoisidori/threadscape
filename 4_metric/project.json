@@ -4295,10 +4295,10 @@
     },
     {
       "id": "n4r64mo5",
-      "x": 14193.743440125738,
-      "y": 5175.853806213249,
+      "x": 14192.158635170998,
+      "y": 5172.013596788474,
       "w": 320,
-      "h": 1014,
+      "h": 991,
       "group": null,
       "data": {
         "date": "2025-10-26",
@@ -4316,7 +4316,6 @@
         "tags": [
           "Metric governance",
           "Data representation",
-          "Biometric data",
           "Algorithmic governance",
           "Socio-political"
         ],
@@ -4344,10 +4343,10 @@
     },
     {
       "id": "nl3tszoz",
-      "x": 15081.423710681715,
+      "x": 15079.419220769052,
       "y": 5591.885687849509,
       "w": 320,
-      "h": 559,
+      "h": 536,
       "group": null,
       "data": {
         "date": "2025-10-26",
@@ -4365,7 +4364,6 @@
         "tags": [
           "Metric governance",
           "Data representation",
-          "Biometric data",
           "Algorithmic governance",
           "Socio-political"
         ],
@@ -4428,10 +4426,10 @@
     },
     {
       "id": "n0am68sj",
-      "x": 14638.12254291413,
-      "y": 5157.256681107065,
+      "x": 14634.282333489356,
+      "y": 5153.416471682291,
       "w": 320,
-      "h": 832,
+      "h": 809,
       "group": null,
       "data": {
         "date": "2025-10-26",
@@ -4449,7 +4447,6 @@
         "tags": [
           "Metric governance",
           "Data representation",
-          "Biometric data",
           "Algorithmic governance",
           "Socio-political"
         ],
@@ -4469,10 +4466,10 @@
     },
     {
       "id": "ngmp8ul9",
-      "x": 14641.976483853783,
+      "x": 14638.136274429009,
       "y": 6027.620515658736,
       "w": 320,
-      "h": 577,
+      "h": 646,
       "group": null,
       "data": {
         "date": "2025-10-26",
@@ -4487,7 +4484,12 @@
           "Critical design",
           "Product design"
         ],
-        "tags": [],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
         "desc": "Chrono comprises a 3D-printed grey plastic square designed for handheld operation, approximately 0.5mm in thickness. The object features a raised circular element at its center, within which rectangular LED segments are arranged radially and illuminated in white. A black plastic handle is integrated at the lower right corner, facilitating manual manipulation.",
         "links": [],
         "files": [
@@ -4504,8 +4506,8 @@
     },
     {
       "id": "nejrvsss",
-      "x": 13960.119553900942,
-      "y": 6525.6484091351995,
+      "x": 13344.119553900942,
+      "y": 7229.6484091351995,
       "w": 320,
       "h": 578,
       "group": null,
@@ -4544,6 +4546,2717 @@
             "path": "assets/Screenshot_2025-10-29_at_09.56.54.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "neeva5zv",
+      "x": 15596.134822902444,
+      "y": 5148.10915322362,
+      "w": 320,
+      "h": 802,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Project Reviews",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Temporal sovereignty",
+          "Data representation",
+          "Identities",
+          "Metric system",
+          "Alternative values",
+          "Speculative projects",
+          "Algorithmic governance",
+          "Data perception",
+          "Socio-political",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "The project review identified critical refinements needed for a speculative design exploring temporal governance. Key concerns include: the logo's inadequate representation of time (the letter 'C' lacks temporal symbolism; circular forms better convey chronological concepts); parameter distribution requiring greater coherence with the scenario's competitive framework; and the experience design needing stronger conflict narratives. The device functionality must explicitly demonstrate geopolitical competition—framing participants as \"red team\" versus \"blue team\" representing different hemispheres, with periodic time zone shifts determined by collective performance metrics. The naming convention \"SYNCHRO\" requires revision to better reflect regulatory authority rather than consumer products. Interactive elements should employ simple, universally recognized tasks (memory games, puzzles) that generate quantifiable data within 2-5 minute engagements, maintaining scenario plausibility while measuring synchronized time, productivity, and social cohesion parameters through NFC-enabled tokens or state-specific data modules.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nhhdddo0",
+      "x": 16076.358910809695,
+      "y": 3884.4249686543044,
+      "w": 320,
+      "h": 587,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "Brand Update",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Communication",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Temporal sovereignty",
+          "Data representation",
+          "Identities"
+        ],
+        "desc": "Vision\nTo be the change towards a fairer world, where time belongs to those who deserve it.\n\nValues\n• rigour\n• transparency\n• meritocracy\n• efficiency\n\nMission\nWe work to measure every moment of individual time, rewarding the nation that best synchronises the rhythm of its citizens.\n\nPayoff\n‘Time for change’\n‘In time, aligned’\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nq1whvx4",
+      "x": 16084.134822902444,
+      "y": 5271.863712237631,
+      "w": 320,
+      "h": 588,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "Experience Idea",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Metric governance",
+          "Data representation",
+          "Biometric data",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "Synchronized Time measures the degree to which individual rhythms align with collective patterns. The system records time spent by individuals performing activities in synchrony with their community, detecting temporal coincidence between personal and collective actions. Users complete assigned tasks while a device measures and records their performance. A machine translates this data into infographics displaying a global ranking that updates in real-time with newly submitted results. This framework quantifies temporal conformity, revealing how personal time allocation either aligns with or deviates from established collective norms and schedules.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nb410u9n",
+      "x": 16563.97503232722,
+      "y": 4860.961303786734,
+      "w": 320,
+      "h": 773,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": " Individual Interaction",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Metric governance",
+          "Data representation",
+          "Biometric data",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "Tests evaluating individual performance make temporal pressure tangible, aligned with a scenario where citizens compete nationally through geolocation-based monitoring. The \"Stop the Time\" test requires users to halt an accelerating chronometer at exactly 10.00 seconds, revealing millisecond deviations from the target. This exercise examines collective temporal perception: uniform time awareness among citizens indicates stable, shared temporal culture, while personal discrepancies expose the gap between subjective experience and common measurement. A variant displays symbols or sounds at regular then irregular intervals, requiring users to reproduce the sequence's temporal cadence—not merely its order. As intervals decrease or vary randomly, creating disorientation through accelerating or decelerating rhythms, temporal perception becomes distorted. A final test presents an image for observation without pre-announced tasks. This investigates conscious use of observation time: absent precise instructions, participants autonomously distribute attention and select details to memorize, revealing their capacity to manage uncertainty and transform limited time into learning opportunity.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nd7j3yqz",
+      "x": 16567.975032327216,
+      "y": 5668.126329981327,
+      "w": 320,
+      "h": 706,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "Collective experience ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Metric governance",
+          "Data representation",
+          "Biometric data",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "Temporal performance tests evaluate individual capabilities while rendering perceptible the pressure exerted on time usage, consistent with the scenario framework. Two individuals engage in synchronized motor tasks requiring execution within narrow temporal windows or adherence to imposed rhythms (metronome, visual cues). Maximum synchronization demands mutual attention, reciprocal listening, and shared temporal sensitivity, where deviations signal perceptual misalignment. Example: participants pass a ticking chronometer every three seconds for thirty seconds, measuring deviations from ideal timing. Competitive variants include memory reconstruction under time constraints (symbol grid replication with five-second penalties per error) and reflex challenges (simultaneous object-touching within 0.2-second windows for double points, or pattern-recognition button responses with escalating speed). These exercises expose temporal discipline as both individual capacity and interpersonal coordination demand.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncqe8pa2",
+      "x": 16567.97503232722,
+      "y": 6387.244864007905,
+      "w": 320,
+      "h": 505,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "Comunication Kit Update",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Critical design",
+          "Product design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 14.34.23.png",
+            "size": 541789,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_14.34.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "niwtpvs6",
+      "x": 16908.76821902854,
+      "y": 2732.719285589368,
+      "w": 320,
+      "h": 804,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "First visual identity",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Branding",
+          "Visual communication"
+        ],
+        "tags": [
+          "Metric governance",
+          "Socio-political",
+          "Identities",
+          "Data representation"
+        ],
+        "desc": "The authoritarian tone of voice establishes a communication framework that deliberately eschews empathy. Instead, it observes, directs, and generates discomfort, making the constant presence of control perceptible to subjects. The visual language employs dark colors to construct an oppressive atmosphere, while yellow functions as both an alarm signal and a symbol of power, reinforcing the hierarchical relationship between the monitoring authority and the monitored individual.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 14.41.18.png",
+            "size": 907831,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_14.41.18.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ns4377xg",
+      "x": 16909.86088084576,
+      "y": 3580.76788459462,
+      "w": 320,
+      "h": 796,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Second visual identity",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Branding",
+          "Visual communication"
+        ],
+        "tags": [
+          "Metric governance",
+          "Socio-political",
+          "Identities",
+          "Data representation"
+        ],
+        "desc": "The tone of voice is directive, oriented toward the common good and individual welfare. It promotes order and discipline, inviting action as an act of dedication to the collective. Cool tones convey a sense of rigidity and uniformity, while red emerges as a call to responsibility. This communicative approach frames compliance not as oppression but as civic duty, positioning standardization as a pathway to social cohesion. The visual language reinforces institutional authority through restrained color palettes that signal objectivity and control, while strategic use of red punctuates key messages about accountability. The rhetoric balances appeal to collective benefit with individual obligation, creating a discourse where conformity to metrics becomes synonymous with responsible citizenship and contribution to societal stability.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 14.47.56.png",
+            "size": 768490,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_14.47.56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ns1q3g5s",
+      "x": 17335.892106948966,
+      "y": 2895.753510684146,
+      "w": 320,
+      "h": 468,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "Palette First Identity",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Branding",
+          "Visual communication"
+        ],
+        "tags": [
+          "Metric governance",
+          "Socio-political",
+          "Identities"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 14.43.01.png",
+            "size": 747522,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_14.43.01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nakowbrl",
+      "x": 17313.64433110812,
+      "y": 3724.7069695899236,
+      "w": 320,
+      "h": 496,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "Palette Second Identity",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Communication",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Socio-political",
+          "Identities"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 14.45.39.png",
+            "size": 366042,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_14.45.39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmkngb6o",
+      "x": 18175.892106948966,
+      "y": 4347.753510684146,
+      "w": 320,
+      "h": 931,
+      "group": null,
+      "data": {
+        "date": "2025-10-31",
+        "title": "Project Reviews",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Temporal sovereignty",
+          "Data representation",
+          "Identities",
+          "Metric system",
+          "Alternative values",
+          "Speculative projects",
+          "Algorithmic governance",
+          "Data perception",
+          "Socio-political",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "The project requires strengthening its narrative framework around temporal synchronization and collective compliance. The experience should emphasize individual alignment with imposed temporal rhythms rather than personal time perception. \n\nKey recommendations include: developing physical data visualizations with tangible feedback mechanisms (LED displays, ambient indicators); refining parameters to directly correlate with circadian alignment (sleep/wake patterns, activity synchronization); implementing wearable monitoring devices that provide haptic feedback reflecting performance pressure; creating an ecosystem that sustains competitive dynamics between individual and collective temporal conformity. \n\nThe communication strategy must clearly articulate how personal rhythms conform to—or deviate from—standardized time, positioning individual adaptation as a societal obligation. \n\nVisual elements should employ systematic grids and contextual imagery rather than metaphorical representations, with copywriting that establishes authoritative tone through precise, impactful messaging demonstrating institutional voice characteristics.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npi4yqq6",
+      "x": 16572.358910809693,
+      "y": 4436.76788459462,
+      "w": 320,
+      "h": 546,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "Visual reference infographics ",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Communication",
+          "Data representation",
+          "Visual communication"
+        ],
+        "tags": [
+          "Identities",
+          "Data representation",
+          "Temporal sovereignty",
+          "Metric governance",
+          "Speculative projects"
+        ],
+        "desc": "Visual reference for infographics related to world maps and rankings",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 14.32.05.png",
+            "size": 499337,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_14.32.05.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nyee7upa",
+      "x": 19054.315181589238,
+      "y": 4051.5116326888137,
+      "w": 320,
+      "h": 531,
+      "group": null,
+      "data": {
+        "date": "2025-11-01",
+        "title": "Visual References",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Branding",
+          "Visual communication"
+        ],
+        "tags": [
+          "Metric governance",
+          "Socio-political",
+          "Identities",
+          "Data representation"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 15.33.20.png",
+            "size": 969877,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_15.33.20.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nzvox7fn",
+      "x": 19054.0497111799,
+      "y": 3408.238259179422,
+      "w": 320,
+      "h": 597,
+      "group": null,
+      "data": {
+        "date": "2025-11-01",
+        "title": "Logo and brand mark research",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Metric system",
+          "Data representation",
+          "Socio-political",
+          "Alternative values",
+          "Identities"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 16.21.58.png",
+            "size": 217014,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_16.21.58.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ny42kaue",
+      "x": 19474.202120499373,
+      "y": 3437.9652096623904,
+      "w": 320,
+      "h": 988,
+      "group": null,
+      "data": {
+        "date": "2025-11-02",
+        "title": "Logo and brand mark",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Visual communication",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Metric system",
+          "Data representation",
+          "Socio-political",
+          "Alternative values",
+          "Identities"
+        ],
+        "desc": "The logo and brand mark exploration yielded three distinct visual directions:\n\nThe first design employs concentric circles to symbolize the synchronization of individuals within the temporal system, representing collective alignment and hierarchical temporal ordering. \n\nThe second approach utilizes geometric forms that evoke ranking dynamics, visually articulating the competitive stratification inherent in the agency's evaluation framework. \n\nThe third design establishes explicit temporal associations through radial tick marks reminiscent of clock faces, while simultaneously referencing the iconic Munich 1972 Olympics branding—a historically significant mark that itself represented systematic organization and global coordination through visual language.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 16.12.19.png",
+            "size": 62478,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_16.12.19.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7t6buj7",
+      "x": 18587.90918640964,
+      "y": 4464.1383612606805,
+      "w": 320,
+      "h": 689,
+      "group": null,
+      "data": {
+        "date": "2025-11-01",
+        "title": "Scenario Update",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Speculative design",
+          "Socio-political",
+          "Metric system"
+        ],
+        "tags": [
+          "Metric governance",
+          "Temporal sovereignty",
+          "Algorithmic governance",
+          "Data representation",
+          "Socio-political"
+        ],
+        "desc": "In this scenario, the Greenwich Meridian's role as the global temporal reference becomes obsolete due to its origins in historical-colonial logic. Control over time effectively dictates the rhythm of global economy and communications. Consequently, the United Nations proposes a new equilibrium based on a meritocratic system: a single time zone managed by an independent organization, SYNCHRO.\n\nThis intergovernmental body evaluates individual states through a global ranking system. Biennially, this mechanism determines which nation earns the right to impose its time on the rest of the planet and establish the reference hour. The ranking privileges the nation that utilizes its time most efficiently by recording individuals' temporal synchronization with their community, detecting coincidence between individual and collective actions. SYNCHRO collects data in real-time and transmits it through national networks daily.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnrv0bkd",
+      "x": 19046.875558436303,
+      "y": 4871.4221916666,
+      "w": 320,
+      "h": 717,
+      "group": null,
+      "data": {
+        "date": "2025-11-01",
+        "title": "Communication kit",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Experience design",
+          "Interaction design",
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Product design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "Wearable device with display/graphical interface\nConstant monitoring --> haptic feedback (tightens, heats up/cools down)\nMeasurement of your “synchronisation” --> enter/save your data and get a score\nFeel the competition --> rankings, TG, Sunday football match\n\nThe device uses the shape of the watch to ironically highlight the fact that watches are increasingly becoming a monitoring tool, losing their original function of telling the time.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 16.40.38.png",
+            "size": 341028,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_16.40.38.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nz7zij3v",
+      "x": 19961.42689152759,
+      "y": 3807.728832961749,
+      "w": 320,
+      "h": 780,
+      "group": null,
+      "data": {
+        "date": "2025-11-02",
+        "title": " Second Visual Identity",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Communication",
+          "Branding",
+          "Visual communication"
+        ],
+        "tags": [
+          "Metric governance",
+          "Socio-political",
+          "Identities"
+        ],
+        "desc": "Authoritative tone of voice, communication does not seek empathy: it observes, directs and makes people feel uncomfortable, conveying a sense of constant control. Dark colours create an oppressive atmosphere, while yellow emerges as a warning signal and symbol of power.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 16.30.42.png",
+            "size": 890923,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_16.30.42.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-04 at 16.11.10.png",
+            "size": 1066643,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_16.11.10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n6r8u8io",
+      "x": 19958.76775986266,
+      "y": 2952.0476452555463,
+      "w": 320,
+      "h": 798,
+      "group": null,
+      "data": {
+        "date": "2025-11-02",
+        "title": " First Visual Identity",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Communication",
+          "Branding",
+          "Visual communication"
+        ],
+        "tags": [
+          "Metric governance",
+          "Socio-political",
+          "Identities"
+        ],
+        "desc": "A commanding tone of voice, oriented towards the common good and the individual. It promotes order and discipline, inviting action as a gesture of dedication to the community. Cold tones convey a sense of rigidity and uniformity, while red emerges as a call to responsibility.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 16.10.55.png",
+            "size": 1478061,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_16.10.55.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-04 at 16.11.02.png",
+            "size": 1278148,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_16.11.02.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nakqfmi5",
+      "x": 19966.693804927974,
+      "y": 5260.964639655478,
+      "w": 320,
+      "h": 905,
+      "group": null,
+      "data": {
+        "date": "2025-11-02",
+        "title": "Communication kit: Prototype",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "Device components:\n* Microcontroller (ESP32)\n* E-Ink display\n* Programmable RGB LED ring\n* Piezoelectric buzzer for sound\n* Battery\n* Bluetooth Low Energy (BLE) / NFC tag",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 16.41.23.png",
+            "size": 149936,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_16.41.23.jpg"
+          },
+          {
+            "name": "image 155.png",
+            "size": 172535,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_155.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nl11dk0x",
+      "x": 19506.28368682094,
+      "y": 4862.029536201854,
+      "w": 320,
+      "h": 672,
+      "group": null,
+      "data": {
+        "date": "2025-11-02",
+        "title": "Communication kit",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Product design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political"
+        ],
+        "desc": "The device is a personal synchronization wristband that continuously monitors user behavior against a predefined activity model. Featuring dual dials designed to induce discomfort, it combines surveillance and evaluation. The wearer is shown, through the first dial's backlit icons, the activity they must perform within ten seconds of the signal—sleeping, eating, being active, or viewing the global ranking—according to the dominant nation's time zone. Any deviation triggers auditory and red visual alerts reminding the individual to conform. The more successfully users synchronize with world time, the more personal points they accumulate for their nation. These points are communicated in real-time through progressive illumination of notches on the second dial's radial display. The wristband thus becomes a control clock that measures not time itself, but the distance between the individual and imposed order.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6liwtqc",
+      "x": 19968.515080106135,
+      "y": 6237.964639655478,
+      "w": 320,
+      "h": 820,
+      "group": null,
+      "data": {
+        "date": "2025-11-02",
+        "title": "Experience Design",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Experience design",
+          "Interaction design",
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Product design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political",
+          "Data perception",
+          "Temporal sovereignty",
+          "Metric system",
+          "Metrics distortion",
+          "Speculative projects"
+        ],
+        "desc": "At the experience's outset, visitors activate the wearable device by positioning their phone nearby, enabling data transfer necessary for operation. The device illuminates upon initialization and subsequently returns results comparing the visitor's routine against the scenario's imposed schedule. When users deviate from assigned tasks, the bracelet responds with sharp, repetitive sounds and intense, aggressive lighting designed to generate discomfort.\nA nearby circular table features an interactive projected display showing the ranking system and global map from the narrative scenario. As users approach, their device automatically transmits their score, updating the ranking in real-time on the projected surface.\nThroughout the experience, a television broadcasts news coverage presenting global ranking results generated from real-time data collection, creating an immersive surveillance environment that mirrors the speculative governance system.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7f9xbp3",
+      "x": 19966.202120499373,
+      "y": 4703.7288329617495,
+      "w": 320,
+      "h": 536,
+      "group": null,
+      "data": {
+        "date": "2025-11-02",
+        "title": "Infographics",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Visual communication",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Socio-political",
+          "Identities",
+          "Data representation",
+          "Temporal sovereignty",
+          "Data perception"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 16.49.36.png",
+            "size": 265030,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_16.49.36.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbpystxk",
+      "x": 20426.28368682094,
+      "y": 5513.964639655478,
+      "w": 320,
+      "h": 608,
+      "group": null,
+      "data": {
+        "date": "2025-11-02",
+        "title": "Experience Design Research",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Experience design",
+          "Interaction design",
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Product design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political",
+          "Data perception",
+          "Temporal sovereignty",
+          "Metric system",
+          "Metrics distortion",
+          "Speculative projects"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 16.49.49.png",
+            "size": 334668,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_16.49.49.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nyk8hndc",
+      "x": 20807.918152618382,
+      "y": 5408.070729733538,
+      "w": 320,
+      "h": 814,
+      "group": null,
+      "data": {
+        "date": "2025-11-02",
+        "title": "Experience Draft ",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Experience design",
+          "Interaction design",
+          "Speculative design",
+          "Communication",
+          "Data representation",
+          "Product design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political",
+          "Data perception",
+          "Temporal sovereignty",
+          "Metric system",
+          "Metrics distortion",
+          "Speculative projects"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 16.45.54.png",
+            "size": 89070,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_16.45.54.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-04 at 16.45.58.png",
+            "size": 119729,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_16.45.58.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nq8vtsam",
+      "x": 21193.93271508932,
+      "y": 4724.938322785654,
+      "w": 320,
+      "h": 1137,
+      "group": null,
+      "data": {
+        "date": "2025-11-03",
+        "title": "Experience proposal",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Product design",
+          "Visual communication",
+          "Experience design",
+          "Interaction design",
+          "Metric system",
+          "Metric governance"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political",
+          "Data perception",
+          "Temporal sovereignty",
+          "Metric system",
+          "Metrics distortion",
+          "Speculative projects"
+        ],
+        "desc": "At the beginning of the experience, visitors must wear and activate the device by placing their phone close to it, allowing the transfer of the data necessary for its operation. The device will light up when it is initialised and then show visitors the result of the comparison between their routine and that imposed by the scenario.\n If, during the experience, the user deviates from the assigned task, the bracelet will react by emitting a high-pitched, repetitive sound and taking on a bright, intense and aggressive tone designed to generate a feeling of discomfort.\n\nNearby, there will be a round table on which an interactive display will be projected, containing the ranking and global map relating to the scenario being narrated. When the user approaches the table, the device will automatically send their score, updating the ranking visible on the projected surface in real time.\n\nThroughout the experience, a television will also be visible, broadcasting a news programme (TG) with the global ranking results, generated by processing the data collected in real time.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 17.04.10.png",
+            "size": 325424,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_17.04.10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nux2rxhz",
+      "x": 21193.86947556157,
+      "y": 5905.630733093244,
+      "w": 320,
+      "h": 746,
+      "group": null,
+      "data": {
+        "date": "2025-11-03",
+        "title": "Device proposal",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Experience design",
+          "Interaction design",
+          "Speculative design",
+          "Communication",
+          "Data representation",
+          "Product design",
+          "Metric system",
+          "Metric governance"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Algorithmic governance",
+          "Socio-political",
+          "Data perception",
+          "Temporal sovereignty",
+          "Metric system",
+          "Metrics distortion",
+          "Speculative projects"
+        ],
+        "desc": "Personal synchronisation bracelet that constantly monitors the user's behaviour, comparing it with a predefined activity model. Any deviation generates signals that remind the individual of the need to conform.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-04 at 17.00.28.png",
+            "size": 344163,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-04_at_17.00.28.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nx2qxcq9",
+      "x": 21881.85971919341,
+      "y": 4674.036160877521,
+      "w": 320,
+      "h": 847,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Project Review",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Temporal sovereignty",
+          "Data representation",
+          "Identities",
+          "Metric system",
+          "Alternative values",
+          "Speculative projects",
+          "Algorithmic governance",
+          "Data perception",
+          "Socio-political",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "The project demonstrates solid foundations and clear scenario articulation, though the visual identity requires refinement. The first proposal proves more direct, while the second appears more unsettling—yet both lack clarity regarding SYNCHRO's institutional nature. The communication strategy remains ambiguous: slogans like \"it's time to be productive\" fail to establish clear authorial voice or institutional positioning. \n\nThe experience proves problematic: simulation-based tasks lack participatory engagement. Visitors must actively modify parameters rather than passively observe. The intervention should reveal how temporal measurement systems constitute power structures, not merely control mechanisms. SYNCHRO should facilitate annual synchronization through simple, direct actions that engage participants in redefining temporal standards. The experience must employ elementary measurement tools—perhaps analog or mechanical references recalling historical timekeeping methods—enabling users to input daily rhythms and directly influence outcomes.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n46oflo3",
+      "x": 22277.616376045313,
+      "y": 4817.846185456219,
+      "w": 320,
+      "h": 560,
+      "group": null,
+      "data": {
+        "date": "2025-11-05",
+        "title": "General Project Changes",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "new implementations to the project:\n- evocative data entry method, ancient measuring instruments\n- striking map - interactive data\n- evaluation based on a formula\n- Participants annually input routine data (time spent and timing of activities)\n- Target metrics and standard parameters are kept confidential\n- No one knows the \"winning\" parameters for a country\n- Individual experiences remain secret (like voting)\n- Participants are surveyed in isolation\n- System measures perceived time, not monitored/tracked time",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0ejy9yz",
+      "x": 22722.18384329409,
+      "y": 4670.771570613844,
+      "w": 320,
+      "h": 844,
+      "group": null,
+      "data": {
+        "date": "2025-11-05",
+        "title": "Research on measurement instruments",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Chronopolitics",
+          "Science and technology studies (sts)",
+          "Metric system"
+        ],
+        "tags": [
+          "Mechanical computing",
+          "Metric system",
+          "Metric governance",
+          "Socio-political",
+          "Data representation"
+        ],
+        "desc": "The evolution of temporal measurement reflects humanity's progressive domestication of time through increasingly sophisticated instruments. Early analog devices—sundials tracking shadows, water clocks measuring flow, hourly candles and incense in the Orient—transformed time into observable phenomena. Astronomical clocks like Prague's merged cosmology with mechanical precision, while Harrison's marine chronometer enabled longitudinal navigation. The Industrial Revolution mechanized time through pendulum and wrist watches, rendering it portable and personal. Factory sirens and shift work imposed temporal discipline, while time zones, railways, and telegraphs achieved planetary synchronization. Parallel computational tools evolved from the Mesopotamian abacus through Incan quipu, Pascal's Pascaline, to commercial calculating machines, demonstrating how measurement systems shape social organization and power structures across civilizations.",
+        "links": [
+          "http://eprints.bice.rm.cnr.it/18878/1/StoriaStrumetazioneMeteo_DEF.pdf",
+          "https://amslaurea.unibo.it/id/eprint/3094/1/gobbi_laura_tesi.pdf",
+          "https://www.museodelcalcolatore.it/singolo.php?cod=134&ord=1",
+          "https://annalisasanti.blogspot.com/2018/09/la-matematica-e-piu-di-una-forma-darte.html"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nu6pjlje",
+      "x": 23160.22702645788,
+      "y": 4748.280881826273,
+      "w": 320,
+      "h": 685,
+      "group": null,
+      "data": {
+        "date": "2025-11-05",
+        "title": "Paramethers",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [
+          "Metric governance",
+          "Algorithmic governance",
+          "Metrics distortion",
+          "Metric system",
+          "Data representation",
+          "Body-politics"
+        ],
+        "desc": "Daily habits to measure:\n- sleep\n- work/be productive\n- leisure\n- eat\n\nThe usre needs to submit its data though an abacus counting tool",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-14 at 12.03.23.png",
+            "size": 502523,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.03.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnml8de0",
+      "x": 23585.773810372048,
+      "y": 4776.456207005173,
+      "w": 320,
+      "h": 634,
+      "group": null,
+      "data": {
+        "date": "2025-11-05",
+        "title": "Narrative",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Metric system",
+          "Chronopolitics",
+          "Algorithmic governance",
+          "Speculative design",
+          "Experience design",
+          "Metric governance"
+        ],
+        "tags": [
+          "Data representation",
+          "Metric system",
+          "Metric governance",
+          "Algorithmic governance",
+          "Temporal sovereignty"
+        ],
+        "desc": "SYNCHRO serves as the regulatory body for temporal governance. Annually, all citizens (identified by unique ID numbers) are summoned to designated facilities to submit their data and participate in selecting the nation that will control Zero Hour. Each submission undergoes analysis and comparison against standardized parameters defined by the agency as the ideal daily allocation: hours dedicated to sleep, work, leisure, and meals. During the procedure, citizens receive 24 hours to distribute, indicating actual time spent on each activity. No one knows the exact values established by the Agency. Yet all are evaluated based on their adherence to the perfect model.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npyggt2u",
+      "x": 24058.376337522313,
+      "y": 2598.3991060445305,
+      "w": 320,
+      "h": 1122,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "Device proposal",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Metric system",
+          "Chronopolitics",
+          "Algorithmic governance",
+          "Speculative design",
+          "Experience design",
+          "Metric governance"
+        ],
+        "tags": [
+          "Mockup",
+          "Design research"
+        ],
+        "desc": "Users receive a device—a panel designed to represent the distribution of daily hours across four activities. The system includes four containers, each holding 24 balls or discs in distinct colors representing sleep, work, leisure, and meals. Users select the number of balls corresponding to the hours they typically allocate to each activity: for instance, someone who sleeps eight hours would take eight balls from the sleep container. After collecting the balls, users arrange them on the panel, composing their typical daily schedule. Once satisfied with the distribution, they confirm their choice. The system then compares their data against an established standard and displays a score indicating how closely their activity balance aligns with the ideal model. Detection occurs through colorimetry or NFC technology. A small central display shows each user their final score upon confirmation.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-14 at 12.04.32.png",
+            "size": 501771,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.04.32.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-14 at 12.05.36.png",
+            "size": 237202,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.05.36.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvoqfawk",
+      "x": 24061.773810372048,
+      "y": 3760.572466183379,
+      "w": 320,
+      "h": 843,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "Brand Identity",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Branding",
+          "Communication",
+          "Speculative design"
+        ],
+        "tags": [
+          "Identities",
+          "Metric governance",
+          "Socio-political",
+          "Metric system",
+          "Visual identity",
+          "Brand communication"
+        ],
+        "desc": "vision To be the catalyst for change towards a fairer world, where time belongs to those who deserve it.\n\nmission We work to measure individual time\nby rewarding the nation that best adapts to a single time zone.\n\nValues\n• Meritocracy\n• Efficiency\n• Rigour\n\nPayoff\nTime for change\n\nTone of voice\n• Rigorous /\nProfessional\n• Formal\n• Authoritative\n• Informative - Clear and direct\n• Objectivity",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-14 at 12.07.34.png",
+            "size": 36367,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.07.34.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ny4tzjy1",
+      "x": 24059.101756474498,
+      "y": 4643.809214645585,
+      "w": 320,
+      "h": 746,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "Brand Research",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Visual communication",
+          "Branding",
+          "Communication",
+          "Speculative design",
+          "Design research"
+        ],
+        "tags": [
+          "Identities",
+          "Metric governance",
+          "Socio-political",
+          "Metric system",
+          "Brand communication",
+          "Visual identity"
+        ],
+        "desc": "Presence of texts relating to Election Day (Measure Day/Zero Hour Day), indicating: date, what citizens must do, why it is important – e.g. election posters showing the date, vote for...,  for...",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-14 at 12.08.59.png",
+            "size": 527788,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.08.59.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-14 at 12.13.13.png",
+            "size": 738937,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.13.13.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9x4ohry",
+      "x": 24061.773810372048,
+      "y": 5450.809214645585,
+      "w": 320,
+      "h": 486,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "Brand Logo Research",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Branding",
+          "Communication",
+          "Design research"
+        ],
+        "tags": [
+          "Identities",
+          "Metric governance",
+          "Socio-political",
+          "Metric system",
+          "Visual identity",
+          "Brand communication"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-14 at 12.10.10.png",
+            "size": 99524,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.10.10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nb50tzdz",
+      "x": 24064.587779520472,
+      "y": 5978.809214645585,
+      "w": 320,
+      "h": 1124,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "Map Proposal",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "Interaction design",
+          "Experience design",
+          "Design research",
+          "Product design",
+          "Speculative design",
+          "Chronopolitics"
+        ],
+        "tags": [
+          "Identities",
+          "Metric governance",
+          "Socio-political",
+          "Metric system",
+          "Real-time data",
+          "Data representation"
+        ],
+        "desc": "The countries turn lighter grey in turn. \nAs the user votes, the names and flags of other voters around the world appear.\nThe lights on the map get brighter as more citizens go to play.\nThe formula normalises the weight of voters to compensate for differences in population size.\nRanking at the bottom, with or without names?",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-14 at 12.11.15.png",
+            "size": 779346,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-14_at_12.11.15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nov9ffuy",
+      "x": 24863.316107938725,
+      "y": 4738.375203123504,
+      "w": 320,
+      "h": 881,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Project Review",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Speculative design",
+          "Design research",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [
+          "Metric governance",
+          "Temporal sovereignty",
+          "Data representation",
+          "Identities",
+          "Metric system",
+          "Alternative values",
+          "Speculative projects",
+          "Algorithmic governance",
+          "Data perception",
+          "Socio-political",
+          "Measuring the unmeasurable"
+        ],
+        "desc": "project framework: The project conceptualizes SYNCHRO as a B2B institutional service provider rather than a state entity, facilitating temporal governance through data collection infrastructure.\n\nData Collection Mechanism: Users input personal metrics via NFC-coded devices, generating real-time feedback through LED arrays that visualize collective alignment with emergent standard. These standards self-define through accumulated user data rather than imposed benchmarks.\n\nPhysical Interface - the system employs immediate tactile responses: LED activation upon device placement, luminous intensity shifts across map infographics, and radial light movements indicating individual deviation from collective norms. This analog-digital hybrid maintains scenario coherence by rendering geopolitical temporal boundaries tangible.\n\nCommunication Strategy: institutional B2B messaging for SYNCHRO's facilitation services, versus public-facing \"Our Hour Day\" (provided by SYNCHRO) designed to cultivate popular support through accessible visual language.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ngso8ict",
+      "x": 25329.505961678566,
+      "y": 4394.137333762026,
+      "w": 320,
+      "h": 769,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Sensor technology research",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Data perception",
+          "Sensor systems",
+          "Interaction design"
+        ],
+        "tags": [
+          "Design research",
+          "Sensor technology",
+          "Mechanical computing"
+        ],
+        "desc": "Two main approaches were evaluated for token recognition:\n\nNFC-based solution: NFC tags are passive (battery-free) and can store text or URLs interpreted by dedicated applications. However, this approach requires 24 NFC readers, raising concerns about cost and physical dimensions that require further investigation.\nPhysical property detection: Alternative identification methods include:\n\n- Color recognition using TCS34725 sensor chips\n- Distinct geometric shapes\n- Different materials\n\nThe NFC approach faces two primary challenges: reader cost scalability and space constraints for 24 units. Physical property detection offers a potentially more cost-effective solution, though each method requires validation for reliability and discrimination capability in the intended application context.",
+        "links": [
+          "https://youtube.com/shorts/SK1dcSuII3Y?si=VuBj0hv-O2gmYBxF",
+          "https://youtu.be/RnljdPqzepk?si=75nByDexBtactLC_",
+          "https://www.youtube.com/shorts/XUOAr4JfYe4"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n0mmxfww",
+      "x": 25710.512438643254,
+      "y": 4474.224556042818,
+      "w": 320,
+      "h": 621,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Communication Kit Design",
+        "type": "Finding",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Design research"
+        ],
+        "tags": [
+          "Mechanical computing",
+          "Sensor technology"
+        ],
+        "desc": "solutions for the token-recognition prototype: \nSolution 1) employs a single NFC sensor with a rotating mechanism: either two plates (one stationary, one rotating) or a pointer system. The rotation advances 15° per step, triggered by button press or timed intervals. However, cable tangling poses a significant structural risk due to continuous unidirectional rotation of LED and reader wires. \nSolution 2) utilizes 24 individual NFC readers positioned vertically along slot edges, with microswitches for token presence validation and RGB LEDs in the circular crown. This approach requires slots sized to accommodate tokens fully, increasing cost to approximately €100 but eliminating mechanical complexity. \nSolution 3) mirrors Solution 2's architecture with 24 RGB sensors, maintaining the same microswitch validation system and spatial requirements. Both multi-sensor solutions offer superior reliability despite higher material costs.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njt7xaqi",
+      "x": 26092.458785386272,
+      "y": 4486.5111626882845,
+      "w": 320,
+      "h": 594,
+      "group": null,
+      "data": {
+        "date": "2025-11-08",
+        "title": "Communication Kit Render",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Design research"
+        ],
+        "tags": [
+          "Device render",
+          "Sensor technology"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 07.56.14.png",
+            "size": 108147,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_07.56.14.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-15 at 07.56.22.png",
+            "size": 123058,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_07.56.22.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-15 at 07.56.26.png",
+            "size": 45510,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_07.56.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "naycld9l",
+      "x": 25336.187464374398,
+      "y": 5178.426465662481,
+      "w": 320,
+      "h": 1050,
+      "group": null,
+      "data": {
+        "date": "2025-11-08",
+        "title": "Parametric Experience Scoring",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Algorithmic governance",
+          "Critical data studies",
+          "Metric governance",
+          "Experience design",
+          "Speculative design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Measuring the unmeasurable",
+          "Metrics distortion",
+          "Subjective reality",
+          "Normalization bias"
+        ],
+        "desc": "Parametric mathematical formula to calculate individual experience scores and generate country rankings. Citizens input their daily 24-hour distribution across sleep, work, leisure, and eating. A dynamic reference model continuously updates as the cumulative average of all submitted routines. \n\nIndividual scores derive from calculating the distance between each citizen's routine and this evolving model—closer alignment yields higher scores. Normalization constrains scores between 0 (complete opposition to model) and 1 (identical to model). \n\nCountry rankings emerge from averaging citizen scores within each nation. The \"Zero Hour\" goes to the country with the highest mean score. For the exhibition experience, ranking of non-Italian countries is randomized, while Italy's score starts from current standard averages and updates exclusively through exhibition visitor data input, without additional random data generation. \n\nThis system creates a normalization bias, which is a self-reinforcing standard where conformity to the average becomes the definition of optimal experience.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 08.30.21.png",
+            "size": 25925,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_08.30.21.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-15 at 08.30.02.png",
+            "size": 21479,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_08.30.02.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na29u1sx",
+      "x": 26496.24475062189,
+      "y": 4923.837312288632,
+      "w": 320,
+      "h": 492,
+      "group": null,
+      "data": {
+        "date": "2025-11-09",
+        "title": "Real-time Data Synchronization",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Sensor technology",
+          "Interaction design",
+          "Experience design"
+        ],
+        "tags": [
+          "Data representation",
+          "Real-time data",
+          "Mechanical computing"
+        ],
+        "desc": "The user needs to be able to access its personal profile in our web app by receiving a randomly generated ID. This ID enables users to review data they previously entered into our device through the site/application at a later time. To support this functionality, the device must save the entered data to a spreadsheet in real-time. The device is Arduino-based and processes text data. The core technical question concerns the mechanism for transferring data from the device to a database or spreadsheet system.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n2yw3o5x",
+      "x": 26883.099551025723,
+      "y": 4831.655562798864,
+      "w": 320,
+      "h": 688,
+      "group": null,
+      "data": {
+        "date": "2025-11-09",
+        "title": "Data Collection System",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Data ethics",
+          "Sensor technology",
+          "Design research",
+          "Product design"
+        ],
+        "tags": [],
+        "desc": "The data collection system from the physical device needs to captures measurements and transmits them to cloud storage. The system employs an ESP32 or Raspberry Pi microcontroller with internet connectivity to send data to either a Supabase database or Google Sheets via a custom API built with Google Apps Script. Each user interaction generates a unique ID linked to their measurement data. \n\nFour identification methods: on-device displays, thermal printers, web-app QR codes, and NFC tokens. The NFC approach involves users placing personal tokens on a reader integrated into the device, which associates their measurement with their stored ID. \n\nCritical technical challenges: testing NFC read reliability when multiple tokens are present simultaneously, determining optimal token thickness, and developing contingency plans—such as implementing 24 individual RGB readers or a rotating mechanical platform—if concurrent multi-token reading proves unfeasible.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6jsdyek",
+      "x": 26490.47177910283,
+      "y": 4081.9589497334255,
+      "w": 320,
+      "h": 744,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Device mockup and prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Product design"
+        ],
+        "tags": [
+          "Device render",
+          "Physical prototype",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 08.21.12.png",
+            "size": 1176533,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_08.21.12.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-15 at 08.21.17.png",
+            "size": 45786,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_08.21.17.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nd80xp79",
+      "x": 25341.86834622438,
+      "y": 6268.558993372058,
+      "w": 320,
+      "h": 479,
+      "group": null,
+      "data": {
+        "date": "2025-11-08",
+        "title": "Brand Identity",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research",
+          "Branding",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 08.36.08.png",
+            "size": 80425,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_08.36.08.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-15 at 08.36.12.png",
+            "size": 180973,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_08.36.12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n37bxnvo",
+      "x": 25723.23663953376,
+      "y": 5830.892377509072,
+      "w": 320,
+      "h": 777,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Brand communication ",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Branding",
+          "Visual communication",
+          "Design research",
+          "Speculative design"
+        ],
+        "tags": [
+          "Poster design",
+          "Print media",
+          "Visual identity",
+          "Brand communication"
+        ],
+        "desc": "Tone of voice\n• Rigorous / Professional\n• Formal\n• Authoritative\n• Informative - Clear and direct\n• Objectivity",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 08.38.13.png",
+            "size": 757738,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_08.38.13.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nd41vtuy",
+      "x": 25727.23663953376,
+      "y": 6646.892377509072,
+      "w": 320,
+      "h": 682,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Editorial Mockups ",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Branding",
+          "Visual communication",
+          "Product design",
+          "Design research",
+          "Speculative design"
+        ],
+        "tags": [
+          "Print media",
+          "Visual identity",
+          "Brand communication",
+          "Editorial design"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 08.38.34.png",
+            "size": 144177,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_08.38.34.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-15 at 08.38.29.png",
+            "size": 202838,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_08.38.29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxr5a5t2",
+      "x": 25739.23663953376,
+      "y": 7368.892377509071,
+      "w": 320,
+      "h": 639,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Social communication ",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Branding",
+          "Visual communication",
+          "Product design",
+          "Design research",
+          "Speculative design"
+        ],
+        "tags": [
+          "Social media content",
+          "Visual identity",
+          "Brand communication"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 08.38.40.png",
+            "size": 577948,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_08.38.40.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nea5tpzb",
+      "x": 27379.521823429033,
+      "y": 5115.427095522326,
+      "w": 320,
+      "h": 760,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Web app Design",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Visual communication",
+          "Experience design",
+          "Product design",
+          "Data perception"
+        ],
+        "tags": [
+          "Data representation",
+          "Mockup",
+          "Speculative projects",
+          "Data perception"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 08.47.40.png",
+            "size": 530251,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_08.47.40.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncd39r51",
+      "x": 27388.586386436036,
+      "y": 5910.063664702704,
+      "w": 320,
+      "h": 699,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Interactive Map Design",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "Interaction design",
+          "Experience design",
+          "Design research",
+          "Product design",
+          "Speculative design",
+          "Chronopolitics"
+        ],
+        "tags": [
+          "Data representation",
+          "Real-time data",
+          "Temporal sovereignty",
+          "Metric governance"
+        ],
+        "desc": "Twenty-four LED \"lines\", it divides the world into international time zones. The LED strips are not straight and evenly spaced but, as in all things political, individual countries have opted to adopt time standards that do not follow the expected patterns, resulting in the bent form of the tubes. LED strips light up one at a time to give an idea of voting around the world.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 09.06.32.png",
+            "size": 820100,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_09.06.32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nc7f71wn",
+      "x": 25725.95462199209,
+      "y": 8050.2657778451785,
+      "w": 320,
+      "h": 820,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Storyboard proposal",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Metric governance",
+          "Science and technology studies (sts)",
+          "Interaction design",
+          "Experience design",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Speculative projects",
+          "Socio-political",
+          "Metric system",
+          "Metrics distortion",
+          "Brand communication"
+        ],
+        "desc": "1 - teaser: needs to establish the current state of global interconnection despite fragmented timekeeping, categorizing human activity into four measurable routines (sleep, eat, work, leisure).\n\n2 - explanatory video articulating how political boundaries currently override geographic logic in time zone designation. Synchro operates through annual citizen data collection sessions where individuals submit routine information via ID-based identification, contributing to a competitive selection process that determines which nation sets the \"Zero Hour\" standard. The project functions as critical provocation, questioning whether algorithmic processing of behavioral data represents a more neutral temporal governance model than existing political frameworks, while simultaneously exposing how any standardization system (whether geographic, political, or data-driven) constitutes an act of power and imposition on lived experience.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ntsqo8s3",
+      "x": 26156.120139825118,
+      "y": 7957.896515089176,
+      "w": 320,
+      "h": 504,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Teaser storyboard skeches",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Metric governance",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Speculative projects",
+          "Socio-political",
+          "Metric system",
+          "Metrics distortion",
+          "Brand communication"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 09.26.48.png",
+            "size": 706269,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_09.26.48.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ny6go1cb",
+      "x": 26159.13921611322,
+      "y": 8514.42741435712,
+      "w": 320,
+      "h": 563,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Video storyboard skeches",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Speculative design",
+          "Metric governance",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Speculative projects",
+          "Socio-political",
+          "Metric system",
+          "Metrics distortion",
+          "Brand communication"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 09.27.14.png",
+            "size": 667018,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_09.27.14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nm9g3nap",
+      "x": 28013.00477689851,
+      "y": 5549.9589497334255,
+      "w": 320,
+      "h": 1245,
+      "group": null,
+      "data": {
+        "date": "2025-11-11",
+        "title": "Project Review",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Experience design"
+        ],
+        "tags": [
+          "Metric system",
+          "Temporal sovereignty",
+          "Data representation",
+          "Speculative projects",
+          "Socio-political",
+          "Metric governance",
+          "Mechanical computing",
+          "Identities"
+        ],
+        "desc": "Visual Identity: The visual approach isn't fundamentally flawed, but it skews too playful. The negative space needs compositional refinement. These executions can work, but campaigns like \"we believe every moment is meaningful\" focus too heavily on describing actions rather than establishing context or scenarios.\n\nTarget Audience: We need clarity here. One option: expand to include companies alongside end users. The \"conquer time\" campaign had stronger conceptual grounding but poor execution.\n\nColor & Tone: Current palette reads too optimistic. We need a more restrained, austere tone. The core idea holds, but the narrative needs reworking while maintaining the visual structure. The symbols need an alternative treatment. The overly positive tone of voice must be dialed back.\n\nPrototype:\n -Size: Larger diameter works—38-40cm is viable since I don't need to handle it directly. Increased diameter allows for wider spokes.\n- LED display showing ID/alphanumeric info.\n- critical aspects: the current design risks to be too long to use and so could be problematc during the designed experience. an alternative is to use side knobs, exploit LED and colour themes anyway, a display, it's better to keep it physical 4 time slots - if we have a display, I can directly say what action I'm taking and no tokens.\n\nExperience Flow:\n1. User enters unique ID (no login required)\n2. ID grants access to create account\n3. Account links to ID\n4. Web app: enter ID → view personal data\n5. Includes map functionality\n6. For other countries: establish regional ranges\n\nCommunication: must align with clean, concise, institutional language. \n\nteaser : should call for action and show the voting moment (which it should have its own name).\n\nmachine name: must highlight the theme of conflict (with name, visual rhetoric, language)",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nse149dj",
+      "x": 28656.848266834786,
+      "y": 4759.773490086809,
+      "w": 320,
+      "h": 792,
+      "group": null,
+      "data": {
+        "date": "2025-11-11",
+        "title": "General project considerations ",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Critical design",
+          "Data ethics",
+          "Critical data studies",
+          "Socio-political",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Metric governance",
+          "Algorithmic governance",
+          "Speculative design"
+        ],
+        "tags": [
+          "Metric governance",
+          "Data representation",
+          "Socio-political",
+          "Algorithmic governance",
+          "Metrics distortion",
+          "Deceptive pattern",
+          "Power dynamics"
+        ],
+        "desc": "- This project addresses multiple stakeholder e.g. corporations, United Nations agencies, and nation-states, through a deliberately adversarial visual strategy. \n- The design employs inverted color schemes and confrontational aesthetics to challenge conventional data presentation norms. \n- Rather than explicit calls to action, the work embeds persuasive elements within its visual language, using stark symbolism and stripped-down communication to convey critical scenarios. \n- The approach rejects decorative language in favor of direct exposition, positioning data visualization as a site of political contestation. \n- By adopting \"hostile\" design choices (harsh color palettes, alternative symbolic systems) the project exposes how institutional actors employ metrics for governance and control. ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ntqnei4e",
+      "x": 30135.37253003824,
+      "y": 5119.266934121333,
+      "w": 320,
+      "h": 385,
+      "group": null,
+      "data": {
+        "date": "2025-11-12",
+        "title": "Brand Palette and Typography",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design research",
+          "Branding",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 09.46.28.png",
+            "size": 88577,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_09.46.28.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqrbpnct",
+      "x": 30135.819153071967,
+      "y": 4414.611393170042,
+      "w": 320,
+      "h": 687,
+      "group": null,
+      "data": {
+        "date": "2025-11-12",
+        "title": "Icons design",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design research",
+          "Branding",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 09.46.44.png",
+            "size": 93192,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_09.46.44.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlut3w56",
+      "x": 28657.70713580319,
+      "y": 5565.601657178255,
+      "w": 320,
+      "h": 712,
+      "group": null,
+      "data": {
+        "date": "2025-11-12",
+        "title": "Device Naming",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Critical design",
+          "Data ethics",
+          "Critical data studies",
+          "Socio-political",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Metric governance",
+          "Algorithmic governance",
+          "Speculative design"
+        ],
+        "tags": [],
+        "desc": "proposed names reference concepts of measurement, time, and origins: \n- \"Kaliber\" derives from caliber, denoting measurement and precision; \n- \"Axion\" references the Greek concept of the temporal axis; \n- \"Sothis\" invokes the ancient Egyptian star used as a temporal reference point; \n- \"Archè\" employs the Greek term for principle or beginning; \n- \"Chronodex\" compounds temporal indexing; and \"Kairos\" signifies the Greek notion of the opportune moment.\n\nThese naming options reflect a conceptual framework that positions the device within historical traditions of time measurement and philosophical approaches to temporality, suggesting the artifact's role in mediating temporal experience through measurement.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nv9cac8b",
+      "x": 29005.702936729293,
+      "y": 7520.260012664523,
+      "w": 320,
+      "h": 684,
+      "group": null,
+      "data": {
+        "date": "2025-11-13",
+        "title": "Prototype redesign",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Critical design",
+          "Data ethics",
+          "Critical data studies",
+          "Socio-political",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Metric governance",
+          "Algorithmic governance",
+          "Speculative design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 09.55.52.png",
+            "size": 1421832,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_09.55.52.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-15 at 09.56.20.png",
+            "size": 379604,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_09.56.20.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "newokwwm",
+      "x": 28659.247624712072,
+      "y": 7523.482720165923,
+      "w": 320,
+      "h": 623,
+      "group": null,
+      "data": {
+        "date": "2025-11-13",
+        "title": "Prototype redesign",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Product design",
+          "Branding",
+          "Interaction design",
+          "Speculative design",
+          "Design research",
+          "Experience design",
+          "Chronopolitics",
+          "Metric governance",
+          "Socio-political",
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "Problem: The current design is too long action to complete the data entry with the 24 tokens, making it long and laborious to handle during experience.\n\nChanges:\n- length-based interface with side-mounted knobs that are used by the user to enter the daily data.\n- LED color indicators for the 4 physical time slots \n- display screen to show which action is being taken\n\nBenefit: With a display, users can see exactly what action they're selecting without needing any tokens.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nl7luvdn",
+      "x": 28660.853013860633,
+      "y": 6857.869223078946,
+      "w": 320,
+      "h": 642,
+      "group": null,
+      "data": {
+        "date": "2025-11-12",
+        "title": "Interactive Map Design",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "Interaction design",
+          "Experience design",
+          "Design research",
+          "Product design",
+          "Speculative design",
+          "Chronopolitics"
+        ],
+        "tags": [
+          "Data representation",
+          "Real-time data",
+          "Temporal sovereignty",
+          "Metric governance",
+          "Mockup",
+          "Poster design",
+          "Print media"
+        ],
+        "desc": "Dimensions: 42x32 cm\nOperation: LED bands that light up one at a time to give an idea of voting around the world.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 10.10.57.png",
+            "size": 1079990,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_10.10.57.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncgekv6r",
+      "x": 28661.52072107758,
+      "y": 6295.65145274454,
+      "w": 320,
+      "h": 544,
+      "group": null,
+      "data": {
+        "date": "2025-11-12",
+        "title": "Scenario update",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Critical design",
+          "Data ethics",
+          "Critical data studies",
+          "Socio-political",
+          "Communication",
+          "Data representation",
+          "Visual communication",
+          "Metric governance",
+          "Algorithmic governance",
+          "Speculative design"
+        ],
+        "tags": [],
+        "desc": "Annually, all citizens (identified by unique ID numbers) are summoned to designated facilities to submit their data and participate in selecting the nation that will control Zero Hour. \nThis day naming proposal:\n- reset day\n- zero hour day\n- sync day\n- time shift day\n- measure day",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nxt7l4u7",
+      "x": 30135.526635049402,
+      "y": 5528.424711226055,
+      "w": 320,
+      "h": 545,
+      "group": null,
+      "data": {
+        "date": "2025-11-12",
+        "title": "Brand communication ",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design research",
+          "Branding",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity",
+          "Print media",
+          "Poster design",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 10.21.14.png",
+            "size": 1296281,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_10.21.14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n6ks6ms9",
+      "x": 29023.678469187296,
+      "y": 4762.068078049774,
+      "w": 320,
+      "h": 585,
+      "group": null,
+      "data": {
+        "date": "2025-11-12",
+        "title": "Icons design research",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design research",
+          "Branding",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 10.21.59.png",
+            "size": 103257,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_10.21.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1aaqr44",
+      "x": 29405.792658137456,
+      "y": 4765.876617641385,
+      "w": 320,
+      "h": 417,
+      "group": null,
+      "data": {
+        "date": "2025-11-12",
+        "title": "Palette and typography research",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design research",
+          "Branding",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 10.22.46.png",
+            "size": 94395,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_10.22.46.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n40ptl0l",
+      "x": 29777.248168971986,
+      "y": 4760.388644725876,
+      "w": 320,
+      "h": 944,
+      "group": null,
+      "data": {
+        "date": "2025-11-12",
+        "title": "Poster Design Ideas",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design research",
+          "Branding",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity",
+          "Print media",
+          "Poster design"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-15 at 10.22.37.png",
+            "size": 285797,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_10.22.37.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-15 at 10.22.52.png",
+            "size": 239773,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-15_at_10.22.52.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5wgywpm",
+      "x": 30789.844816407127,
+      "y": 5670.065569032829,
+      "w": 320,
+      "h": 1110,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "Project Review",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Experience design"
+        ],
+        "tags": [
+          "Data representation",
+          "Speculative projects",
+          "Interface design",
+          "Usability testing",
+          "Typography",
+          "Brand communication",
+          "Poster design",
+          "Visual identity"
+        ],
+        "desc": "Interface Design: Reduce colored dot size to mitigate toy-like aesthetic - avoid rotational mechanisms (requires bimanual operation, compromises stability). Recommended: minimal colored indicator + icon/text label. Color conventions provide baseline recognition, but contextual variation necessitates verbal/pictographic reinforcement.\n\nNomenclature: \n- Chronodex - preferred device designation: conveys technical precision, establishes \"temporal indexing\" semantics \n- Zero Hour Day - literal yet semantically accurate\n\nVisual Elements & Brand Identity: Icons require accompanying text labels. Scale testing essential - complex iconography degrades at reduced dimensions, warranting simplification.\n\nLogo: insufficient proximity between symbol and text requires adjustment. Implement superior iteration with integrated payoff. Conduct scale testing for legibility. Reduce tick marks, calibrate stroke weights - disparity between ring and typographic elements excessive. Typeface requires reinforcement.\n\nCommunication Framework - Critical gap: organizational partnership undefined. Recommend UN departmental affiliation - \"UN [designation]\" with \"powered by Synchro\" as subordinate attribution. \n\nNarrative: \"We are Synchro - we collaborate with this entity advocating for: one world one time zone\". Synchro maintains secondary positioning. Prioritize intrigue over comprehensive exposition.\n\nProduction: News broadcast format viable. Develop storyboard, integrate device interaction. Grey iteration effective. Sci-fi iconography redundant. Tile insertion demonstrates temporal inefficiency - three-step process superior.",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -5600,76 +8313,628 @@
     },
     {
       "s": "npjg7l6k",
-      "t": "nejrvsss",
+      "t": "n4r64mo5",
+      "dashed": false
+    },
+    {
+      "s": "nl3tszoz",
+      "t": "neeva5zv",
+      "dashed": false
+    },
+    {
+      "s": "nejrvsss",
+      "t": "neeva5zv",
+      "dashed": false
+    },
+    {
+      "s": "n2l6vikq",
+      "t": "neeva5zv",
       "dashed": false
     },
     {
       "s": "npjg7l6k",
-      "t": "n4r64mo5",
+      "t": "neeva5zv",
+      "dashed": false
+    },
+    {
+      "s": "neeva5zv",
+      "t": "nhhdddo0",
+      "dashed": false
+    },
+    {
+      "s": "neeva5zv",
+      "t": "nq1whvx4",
+      "dashed": false
+    },
+    {
+      "s": "nq1whvx4",
+      "t": "nb410u9n",
+      "dashed": false
+    },
+    {
+      "s": "nq1whvx4",
+      "t": "nd7j3yqz",
+      "dashed": false
+    },
+    {
+      "s": "nq1whvx4",
+      "t": "ncqe8pa2",
+      "dashed": false
+    },
+    {
+      "s": "nhhdddo0",
+      "t": "niwtpvs6",
+      "dashed": false
+    },
+    {
+      "s": "nhhdddo0",
+      "t": "ns4377xg",
+      "dashed": false
+    },
+    {
+      "s": "niwtpvs6",
+      "t": "ns1q3g5s",
+      "dashed": false
+    },
+    {
+      "s": "ns4377xg",
+      "t": "nakowbrl",
+      "dashed": false
+    },
+    {
+      "s": "ns1q3g5s",
+      "t": "nmkngb6o",
+      "dashed": false
+    },
+    {
+      "s": "nakowbrl",
+      "t": "nmkngb6o",
+      "dashed": false
+    },
+    {
+      "s": "nhhdddo0",
+      "t": "npi4yqq6",
+      "dashed": false
+    },
+    {
+      "s": "nq1whvx4",
+      "t": "npi4yqq6",
+      "dashed": false
+    },
+    {
+      "s": "npi4yqq6",
+      "t": "nmkngb6o",
+      "dashed": false
+    },
+    {
+      "s": "nb410u9n",
+      "t": "nmkngb6o",
+      "dashed": false
+    },
+    {
+      "s": "nd7j3yqz",
+      "t": "nmkngb6o",
+      "dashed": false
+    },
+    {
+      "s": "ncqe8pa2",
+      "t": "nmkngb6o",
+      "dashed": false
+    },
+    {
+      "s": "nzvox7fn",
+      "t": "ny42kaue",
+      "dashed": false
+    },
+    {
+      "s": "nmkngb6o",
+      "t": "n7t6buj7",
+      "dashed": false
+    },
+    {
+      "s": "n7t6buj7",
+      "t": "nzvox7fn",
+      "dashed": false
+    },
+    {
+      "s": "n7t6buj7",
+      "t": "nyee7upa",
+      "dashed": false
+    },
+    {
+      "s": "nyee7upa",
+      "t": "ny42kaue",
+      "dashed": false
+    },
+    {
+      "s": "n7t6buj7",
+      "t": "nnrv0bkd",
+      "dashed": false
+    },
+    {
+      "s": "ny42kaue",
+      "t": "nz7zij3v",
+      "dashed": false
+    },
+    {
+      "s": "ny42kaue",
+      "t": "n6r8u8io",
+      "dashed": false
+    },
+    {
+      "s": "nnrv0bkd",
+      "t": "nl11dk0x",
+      "dashed": false
+    },
+    {
+      "s": "nl11dk0x",
+      "t": "nakqfmi5",
+      "dashed": false
+    },
+    {
+      "s": "nl11dk0x",
+      "t": "n6liwtqc",
+      "dashed": false
+    },
+    {
+      "s": "ny42kaue",
+      "t": "n7f9xbp3",
+      "dashed": false
+    },
+    {
+      "s": "nl11dk0x",
+      "t": "n7f9xbp3",
+      "dashed": false
+    },
+    {
+      "s": "n6liwtqc",
+      "t": "nbpystxk",
+      "dashed": false
+    },
+    {
+      "s": "nakqfmi5",
+      "t": "nbpystxk",
+      "dashed": false
+    },
+    {
+      "s": "n7f9xbp3",
+      "t": "nbpystxk",
+      "dashed": false
+    },
+    {
+      "s": "nbpystxk",
+      "t": "nyk8hndc",
+      "dashed": false
+    },
+    {
+      "s": "nyk8hndc",
+      "t": "nq8vtsam",
+      "dashed": false
+    },
+    {
+      "s": "nyk8hndc",
+      "t": "nux2rxhz",
+      "dashed": false
+    },
+    {
+      "s": "n6r8u8io",
+      "t": "nx2qxcq9",
+      "dashed": false
+    },
+    {
+      "s": "nz7zij3v",
+      "t": "nx2qxcq9",
+      "dashed": false
+    },
+    {
+      "s": "nq8vtsam",
+      "t": "nx2qxcq9",
+      "dashed": false
+    },
+    {
+      "s": "nux2rxhz",
+      "t": "nx2qxcq9",
+      "dashed": false
+    },
+    {
+      "s": "nx2qxcq9",
+      "t": "n46oflo3",
+      "dashed": false
+    },
+    {
+      "s": "n46oflo3",
+      "t": "n0ejy9yz",
+      "dashed": false
+    },
+    {
+      "s": "n0ejy9yz",
+      "t": "nu6pjlje",
+      "dashed": false
+    },
+    {
+      "s": "nu6pjlje",
+      "t": "nnml8de0",
+      "dashed": false
+    },
+    {
+      "s": "nnml8de0",
+      "t": "npyggt2u",
+      "dashed": false
+    },
+    {
+      "s": "nnml8de0",
+      "t": "nvoqfawk",
+      "dashed": false
+    },
+    {
+      "s": "nnml8de0",
+      "t": "ny4tzjy1",
+      "dashed": false
+    },
+    {
+      "s": "nnml8de0",
+      "t": "n9x4ohry",
+      "dashed": false
+    },
+    {
+      "s": "nnml8de0",
+      "t": "nb50tzdz",
+      "dashed": false
+    },
+    {
+      "s": "npyggt2u",
+      "t": "nov9ffuy",
+      "dashed": false
+    },
+    {
+      "s": "nvoqfawk",
+      "t": "nov9ffuy",
+      "dashed": false
+    },
+    {
+      "s": "ny4tzjy1",
+      "t": "nov9ffuy",
+      "dashed": false
+    },
+    {
+      "s": "n9x4ohry",
+      "t": "nov9ffuy",
+      "dashed": false
+    },
+    {
+      "s": "nb50tzdz",
+      "t": "nov9ffuy",
+      "dashed": false
+    },
+    {
+      "s": "nov9ffuy",
+      "t": "ngso8ict",
+      "dashed": false
+    },
+    {
+      "s": "ngso8ict",
+      "t": "n0mmxfww",
+      "dashed": false
+    },
+    {
+      "s": "n0mmxfww",
+      "t": "njt7xaqi",
+      "dashed": false
+    },
+    {
+      "s": "nov9ffuy",
+      "t": "naycld9l",
+      "dashed": false
+    },
+    {
+      "s": "njt7xaqi",
+      "t": "na29u1sx",
+      "dashed": false
+    },
+    {
+      "s": "na29u1sx",
+      "t": "n2yw3o5x",
+      "dashed": false
+    },
+    {
+      "s": "njt7xaqi",
+      "t": "n6jsdyek",
+      "dashed": false
+    },
+    {
+      "s": "nov9ffuy",
+      "t": "nd80xp79",
+      "dashed": false
+    },
+    {
+      "s": "naycld9l",
+      "t": "na29u1sx",
+      "dashed": false
+    },
+    {
+      "s": "nd80xp79",
+      "t": "n37bxnvo",
+      "dashed": false
+    },
+    {
+      "s": "nd80xp79",
+      "t": "nea5tpzb",
+      "dashed": false
+    },
+    {
+      "s": "n2yw3o5x",
+      "t": "nea5tpzb",
+      "dashed": false
+    },
+    {
+      "s": "n2yw3o5x",
+      "t": "ncd39r51",
+      "dashed": false
+    },
+    {
+      "s": "nd80xp79",
+      "t": "n6jsdyek",
+      "dashed": false
+    },
+    {
+      "s": "nd80xp79",
+      "t": "nd41vtuy",
+      "dashed": false
+    },
+    {
+      "s": "nd80xp79",
+      "t": "nxr5a5t2",
+      "dashed": false
+    },
+    {
+      "s": "naycld9l",
+      "t": "ncd39r51",
+      "dashed": false
+    },
+    {
+      "s": "nd80xp79",
+      "t": "nc7f71wn",
+      "dashed": false
+    },
+    {
+      "s": "nc7f71wn",
+      "t": "ntsqo8s3",
+      "dashed": false
+    },
+    {
+      "s": "nc7f71wn",
+      "t": "ny6go1cb",
+      "dashed": false
+    },
+    {
+      "s": "n6jsdyek",
+      "t": "nm9g3nap",
+      "dashed": false
+    },
+    {
+      "s": "nea5tpzb",
+      "t": "nm9g3nap",
+      "dashed": false
+    },
+    {
+      "s": "ncd39r51",
+      "t": "nm9g3nap",
+      "dashed": false
+    },
+    {
+      "s": "n37bxnvo",
+      "t": "nm9g3nap",
+      "dashed": false
+    },
+    {
+      "s": "nd41vtuy",
+      "t": "nm9g3nap",
+      "dashed": false
+    },
+    {
+      "s": "nxr5a5t2",
+      "t": "nm9g3nap",
+      "dashed": false
+    },
+    {
+      "s": "ntsqo8s3",
+      "t": "nm9g3nap",
+      "dashed": false
+    },
+    {
+      "s": "ny6go1cb",
+      "t": "nm9g3nap",
+      "dashed": false
+    },
+    {
+      "s": "naycld9l",
+      "t": "nm9g3nap",
+      "dashed": false
+    },
+    {
+      "s": "nd80xp79",
+      "t": "nm9g3nap",
+      "dashed": false
+    },
+    {
+      "s": "nm9g3nap",
+      "t": "nse149dj",
+      "dashed": false
+    },
+    {
+      "s": "nm9g3nap",
+      "t": "newokwwm",
+      "dashed": false
+    },
+    {
+      "s": "newokwwm",
+      "t": "nv9cac8b",
+      "dashed": false
+    },
+    {
+      "s": "nm9g3nap",
+      "t": "nlut3w56",
+      "dashed": false
+    },
+    {
+      "s": "nm9g3nap",
+      "t": "nl7luvdn",
+      "dashed": false
+    },
+    {
+      "s": "nm9g3nap",
+      "t": "ncgekv6r",
+      "dashed": false
+    },
+    {
+      "s": "nse149dj",
+      "t": "n6ks6ms9",
+      "dashed": false
+    },
+    {
+      "s": "n6ks6ms9",
+      "t": "n1aaqr44",
+      "dashed": false
+    },
+    {
+      "s": "n1aaqr44",
+      "t": "n40ptl0l",
+      "dashed": false
+    },
+    {
+      "s": "n40ptl0l",
+      "t": "nqrbpnct",
+      "dashed": false
+    },
+    {
+      "s": "n40ptl0l",
+      "t": "ntqnei4e",
+      "dashed": false
+    },
+    {
+      "s": "nlut3w56",
+      "t": "n5wgywpm",
+      "dashed": false
+    },
+    {
+      "s": "nl7luvdn",
+      "t": "n5wgywpm",
+      "dashed": false
+    },
+    {
+      "s": "nv9cac8b",
+      "t": "n5wgywpm",
+      "dashed": false
+    },
+    {
+      "s": "ncgekv6r",
+      "t": "n5wgywpm",
+      "dashed": false
+    },
+    {
+      "s": "n40ptl0l",
+      "t": "nxt7l4u7",
+      "dashed": false
+    },
+    {
+      "s": "nqrbpnct",
+      "t": "n5wgywpm",
+      "dashed": false
+    },
+    {
+      "s": "ntqnei4e",
+      "t": "n5wgywpm",
+      "dashed": false
+    },
+    {
+      "s": "nxt7l4u7",
+      "t": "n5wgywpm",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Branding",
-      "Visual communication",
-      "Design research",
-      "Product design",
-      "Critical design",
-      "Science and technology",
-      "Critical data studies",
-      "Science and technology studies",
-      "Socio-political",
-      "Surveillance studies",
-      "Chronopolitics",
+      "Interaction design",
+      "Data perception",
+      "Sensor technology",
+      "Sensor systems",
+      "Biometric data",
       "Metric system",
-      "Communication",
       "Media studies",
       "Critical theory",
+      "Surveillance studies",
+      "Science and technology studies (sts)",
+      "Chronopolitics",
+      "Critical design",
       "Data ethics",
-      "Speculative design"
-    ],
-    "tags": [
-      "Identities",
-      "Alternative values",
-      "Alternative valuesretry",
-      "Alternative valuesretrymetric governance",
+      "Critical data studies",
       "Socio-political",
-      "Data representation",
-      "Metric system",
+      "Communication",
+      "Visual communication",
       "Metric governance",
       "Algorithmic governance",
-      "Biometric data",
-      "Communication",
-      "Science and technology studies",
-      "Chronopolitics",
-      "Critical data studies",
+      "Design research",
+      "Branding",
       "Speculative design",
-      "Measuring the unmeasurable",
-      "Body-politics",
-      "Metrics distortion",
-      "Temporal sovereignty",
-      "Deceptive pattern",
+      "Data representation",
+      ": interaction design",
+      "Product design",
+      "Experience design"
+    ],
+    "tags": [
+      "Device render",
+      "Editorial design",
+      "Design research",
+      "Social media content",
+      "Data perception",
+      "Normalization bias",
       "Subjective reality",
+      "Measuring the unmeasurable",
+      "Sensor technology",
+      "Alternative values",
+      "Body-politics",
       "Algorithmic bias",
       "Big data",
       "Cognitive bias",
-      "Data perception",
       "Statistic bias",
-      "Mechanical computing",
       "Senolytics",
       "Cellular senescence",
       "Relativity",
-      "Speculative projects"
+      "Biometric data",
+      "Metric system",
+      "Identities",
+      "Metrics distortion",
+      "Deceptive pattern",
+      "Real-time data",
+      "Physical prototype",
+      "Power dynamics",
+      "Algorithmic governance",
+      "Socio-political",
+      "Metric governance",
+      "Temporal sovereignty",
+      "Mechanical computing",
+      "Print media",
+      "Mockup",
+      "Data representation",
+      "Speculative projects",
+      "Interface design",
+      "Usability testing",
+      "Typography",
+      "Brand communication",
+      "Poster design",
+      "Visual identity"
     ],
     "type": [
-      "Concept",
-      "Sketch",
-      "Collection",
       "Feedback",
-      "Source",
+      "Artefact",
+      "Collection",
+      "Observation",
+      "Sketch",
+      "Finding",
       "Brief",
-      "Finding"
+      "Source",
+      "Concept",
+      "Decision"
     ]
   }
 }

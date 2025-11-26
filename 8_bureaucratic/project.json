@@ -69,16 +69,15 @@
       "x": 389.86864486572915,
       "y": 286.6095917862972,
       "w": 320,
-      "h": 417,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Regulations, legal maps,",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Semantic research",
           "Socio-political",
           "Conflict",
           "Cultural studies"
@@ -94,16 +93,15 @@
       "x": 388.75511291417524,
       "y": -407.52334395933144,
       "w": 320,
-      "h": 316,
+      "h": 294,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Bounderies",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Semantic research",
           "Conflict",
           "Cultural studies",
           "Hystory",
@@ -120,16 +118,15 @@
       "x": 389.48012634899635,
       "y": -80.56242802751473,
       "w": 320,
-      "h": 356,
+      "h": 333,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Procedures, documents, records, administration",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Semantic research",
           "Socio-political",
           "Conflict",
           "Design research",
@@ -256,16 +253,18 @@
       "x": -144.9478672538139,
       "y": -1744.9949384988572,
       "w": 320,
-      "h": 405,
+      "h": 428,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Citizen’s life marked by bureaucratic stages",
-        "type": "Research",
+        "type": "Observation",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Definition"
+          "Public administration",
+          "Identity",
+          "Sociology"
         ],
         "tags": [],
         "desc": "A citizen’s life is marked by bureaucratic stages. It begins with birth registration, tax code, health card, and identity documents, and continues with education, applications for scholarships, and certifications. Entering the workforce involves registration with INPS and INAIL, employment notifications, and opening a VAT number. Adulthood brings marriage, buying a house, changing residence, and filing income tax returns. Finally, in old age and at the end of life, one deals with pension applications, death registration, inheritance, and cadastral transfers.",
@@ -275,19 +274,22 @@
     },
     {
       "id": "n66t4qzz",
-      "x": 1411.1911899470235,
-      "y": -46.713506091189686,
+      "x": 1408.5839344216586,
+      "y": -91.03685002239507,
       "w": 320,
-      "h": 338,
+      "h": 384,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Rational system",
-        "type": "Concept",
+        "type": "Observation",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Definition"
+          "Sociology",
+          "Public administration",
+          "Law",
+          "Conflict"
         ],
         "tags": [],
         "desc": "Bureaucracy is a rational system designed to maintain order and ensure fairness. It follows structured procedures that must be respected, leaving little room for emotions or personal judgment. By adhering to rules and standardized processes, bureaucracy aims to prevent favoritism and guarantee that decisions are consistent and impartial.",
@@ -300,7 +302,7 @@
       "x": 863.572920611981,
       "y": -1988.256815922925,
       "w": 320,
-      "h": 724,
+      "h": 770,
       "group": null,
       "data": {
         "date": "2025-09-24",
@@ -309,7 +311,11 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Literature"
+          "Literature",
+          "Identity",
+          "Conflict",
+          "Sociology",
+          "Public administration"
         ],
         "tags": [],
         "desc": "In Il fu Mattia Pascal, Pirandello explores the theme of bureaucratic identity: what happens when a man loses his documents and, with them, his “bureaucratic existence”?\n\nMattia Pascal, mistakenly believed dead, seizes the chance to reinvent himself as Adriano Meis. However, lacking official documents for this new identity, he discovers that his “freedom” is actually a prison.\n\nConsequences of missing documents:\n\t•\tLegal impossibilities: He cannot marry his love, Adriana, sign contracts, buy property, or defend himself in court. Bureaucracy becomes an impenetrable wall: without certificates, one is nobody.\n\t•\tSocial marginalization: He is seen as suspicious and unreliable, condemned to a perpetual kind of clandestinity.\n\t•\tParadox of anonymity: Initially, living without documents seems liberating, but it quickly becomes existentially distressing; he cannot fully participate in social life.\n\nEventually, Mattia must “die a second time” as Adriano Meis and return to his old identity as Mattia Pascal, but he is no longer recognized: his wife has remarried, and his past life has vanished. Trapped in a bureaucratic and identity limbo, he becomes literally “the late Mattia Pascal”: alive in reality, but dead on paper. Pirandello demonstrates how, in a bureaucratic society, the absence of documents, which might seem liberating, actually condemns a person to invisibility and helplessness.",
@@ -319,21 +325,21 @@
     },
     {
       "id": "nydwxrhx",
-      "x": 385.95851338824195,
-      "y": -1330.7799995103587,
+      "x": 357.8838049717016,
+      "y": -1479.1748868549296,
       "w": 320,
       "h": 411,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Biological and Bureaucratic identity",
-        "type": "Research",
+        "type": "Observation",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Emotional response",
-          "Definition",
-          "Conflict"
+          "Identity",
+          "Conflict",
+          "Sociology"
         ],
         "tags": [],
         "desc": "Biological identity: the set of physical and personal characteristics that define a person, such as the body, personal history, passions, and preferences.\n\nBureaucratic identity: the official identity recognized by the state or institutions, documented through certificates, identity documents, tax codes, passports, registry records, and other administrative acts.\n\nWhen the two do not coincide, a conflict arises between them, as the person finds themselves in a bureaucratic limbo.",
@@ -370,18 +376,19 @@
       "x": 1285.225256814817,
       "y": -1779.2168187208135,
       "w": 320,
-      "h": 697,
+      "h": 719,
       "group": null,
       "data": {
         "date": "2025-09-24",
         "title": "Refused bureaucratic identification",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Identity",
           "Conflict",
-          "Socio-political",
-          "Feelings"
+          "Public administration",
+          "Socio-political"
         ],
         "tags": [],
         "desc": "Some people and groups choose to refuse bureaucratic identification, remain anonymous, or avoid administrative control. \nFor example, communities like the Amish reject personal photography for religious reasons, and in the USA legal accommodations allow them to stay “anonymous” while still holding valid documents. Asylum seekers sometimes try to avoid fingerprinting in the EURODAC system to prevent automatic transfers under the Dublin mechanism, showing how vulnerable individuals may refuse registration for personal safety. Since the 1960s, some anarchist or “off-grid” communities in the USA and Europe have avoided IDs, health cards, or even birth certificates, which has sometimes prevented children from accessing school or medical care. \nKnown cases of “invisible” individuals include Rosa Kuleshova in the USSR, who refused mandatory internal passport registration, John Zerzan in the USA, who wrote about people actively rejecting state bureaucracy, and North American anarcho-primitivist “forest dwellers” who gave up all documents and lived without formal services. \nThose who refuse documents often face severe practical limitations, such as lack of healthcare, work, or housing, forcing many to live on the margins, in isolated communities, or in constant tension with authorities.",
@@ -420,20 +427,23 @@
     },
     {
       "id": "nv91if2i",
-      "x": 2271.6038234807183,
+      "x": 2293.5763787764777,
       "y": -1075.2753547697403,
       "w": 320,
-      "h": 590,
+      "h": 613,
       "group": null,
       "data": {
         "date": "2025-09-25",
         "title": "Wars and struggles linked to bureaucratic borders",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Hystory",
-          "Conflict"
+          "Conflict",
+          "Power",
+          "Law",
+          "Socio-political"
         ],
         "tags": [],
         "desc": "Many state borders were bureaucratically drawn at the negotiating table by political leaders, often disregarding the populations living there. This led to conflicts both between states and within nations, as communities did not identify with these imposed boundaries.\nExamples\n• India–Pakistan Wars (1947, 1965, 1971): following the Partition of British India\n• Arab–Israeli Wars (1948, 1967, 1973): borders drawn after the British Mandate and UN partition plan\n• Ethiopia–Eritrea War (1998–2000): dispute over colonial-era borders\n• Iraq–Kuwait Conflict / Gulf War (1990–1991): rooted partly in arbitrary colonial borders in the Middle East\n• Sudanese Civil Wars (1955–1972, 1983–2005): borders and ethnic-religious divisions leading to the creation of South Sudan\n• Yugoslav Wars (1991–2001): breakup of Yugoslavia along imposed federal boundaries\n• Somali Civil War (from 1991): collapse of a state built on colonial borders without regard for clan structures",
@@ -450,14 +460,14 @@
       "group": null,
       "data": {
         "date": "2025-09-25",
-        "title": "boundaries between people",
-        "type": "Concept",
+        "title": "Boundaries between people",
+        "type": "Observation",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Conflict",
           "Cultural studies",
-          "Emotional response"
+          "Sociology"
         ],
         "tags": [],
         "desc": "Restrictive orders, such as restraining orders or protection orders, function like material boundaries between people imposed by conflict. They legally limit interactions, define physical or social spaces, and aim to prevent harm. These orders create clear divisions in everyday life, translating interpersonal disputes into structured, enforceable rules.",
@@ -467,8 +477,8 @@
     },
     {
       "id": "nf3ssvpb",
-      "x": 1814.7832753079258,
-      "y": 100.98007503804303,
+      "x": 1820.891684332954,
+      "y": -164.2518679667469,
       "w": 320,
       "h": 378,
       "group": null,
@@ -479,8 +489,8 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Emotional response"
+          "Public administration",
+          "Conflict"
         ],
         "tags": [],
         "desc": "To humanize bureaucracy means allowing space for emotions and empathy within administrative processes. It involves introducing compassion, care, and support into interactions with rational rules and procedures. By letting kindness and humanity enter bureaucratic systems, regulations and processes can serve people more effectively, transforming rigid structures into tools that truly respond to human needs.",
@@ -493,7 +503,7 @@
       "x": 3044.7366003315856,
       "y": 8.893690344603499,
       "w": 320,
-      "h": 372,
+      "h": 417,
       "group": null,
       "data": {
         "date": "2025-09-25",
@@ -502,8 +512,10 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Communication"
+          "Public administration",
+          "Sociology",
+          "Conflict",
+          "Power"
         ],
         "tags": [],
         "desc": "In a reality where every aspect of life is administered and rationalized, bureaucracy has even intruded into the private sphere and everyday relationships. Human interactions, traditionally characterized by emotional and irrational dimensions, are now subjected to regulations and bureaucratic practices. Conflicting dynamics, intrinsic to any relationship, are thus controlled and stripped of their natural ambiguity and uncertainty, being confined instead within rigid, manageable frameworks.",
@@ -514,7 +526,7 @@
     {
       "id": "nwnnoqd3",
       "x": 3239.4616857191277,
-      "y": 1594.8689457199457,
+      "y": 1842.8689457199457,
       "w": 320,
       "h": 378,
       "group": null,
@@ -545,7 +557,7 @@
       "data": {
         "date": "2025-09-25",
         "title": "Red tape",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -588,18 +600,21 @@
     },
     {
       "id": "nie7slt9",
-      "x": 2751.81245441296,
-      "y": -1255.9505713022372,
+      "x": 2753.523478021398,
+      "y": -1295.3041142963152,
       "w": 320,
-      "h": 331,
+      "h": 377,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "Stateless people",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
+          "Law",
+          "Power",
+          "Socio-political",
           "Hystory",
           "Conflict"
         ],
@@ -616,19 +631,20 @@
       "x": 2751.981094616983,
       "y": -899.9772726994896,
       "w": 320,
-      "h": 646,
+      "h": 669,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "Terra Nullius",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Hystory",
           "Conflict",
-          "Definition",
-          "Socio-political"
+          "Socio-political",
+          "Power",
+          "Law"
         ],
         "tags": [],
         "desc": "Several territories have existed as “no man’s lands,” disputed between states or left unclaimed due to legal, political, or practical uncertainties. These areas often sparked conflicts but were eventually addressed through bureaucratic practices such as treaties or international negotiations.\n\nTerra Nullius: a Latin term from Roman law meaning “land belonging to no one.” It refers to territories that are not formally under the sovereignty of any state.\n\nExamples\n\t•\tGornja Siga (on the border between Croatia and Serbia): a disputed area where both countries claim different borders, leaving small pockets of land technically unclaimed.\n\t•\tBir Tawil (between Egypt and Sudan): a desert territory unclaimed by either country due to conflicting border demarcations.\n\t•\tMarie Byrd Land (in Antarctica): one of the few areas not claimed by any state, partly due to the Antarctic Treaty System.\n\t•\tPalestinian Territories: while not a “terra nullius” in the strict legal sense, the contested status of the land has produced decades of conflict and negotiation, with statehood and sovereignty still unresolved.",
@@ -645,15 +661,14 @@
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "concetto di stato e nazione",
-        "type": "Research",
+        "title": "State and nation",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Hystory",
           "Conflict",
-          "Socio-political",
-          "Definition"
+          "Socio-political"
         ],
         "tags": [],
         "desc": "A state is a political entity with defined territory, a population, and a government exercising sovereignty. A nation is a community united by culture, language, history, or identity. Nations and states do not always match: some nations have no state, and some states contain multiple nations.",
@@ -663,20 +678,22 @@
     },
     {
       "id": "nzojt12q",
-      "x": 3140.0335960333227,
-      "y": -971.0275964035135,
+      "x": 3137.9647261415503,
+      "y": -989.6474254294653,
       "w": 320,
-      "h": 405,
+      "h": 451,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "Airport transit, international waters, Antarctica",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Hystory",
-          "Conflict"
+          "Conflict",
+          "Public administration",
+          "Envirionment"
         ],
         "tags": [],
         "desc": "Some places in the world function as shared or “in-between” spaces rather than belonging to a single nation. Airport transit zones create temporary spaces where travelers are between states’ jurisdictions. International waters (the high seas) lie beyond national borders and are regulated by global treaties, open to use by all. Antarctica, under the Antarctic Treaty, is preserved for peaceful purposes and scientific cooperation, with no state allowed to claim sovereignty. These areas illustrate how certain territories are treated as belonging to no one, yet accessible to everyone under shared rules.",
@@ -686,10 +703,10 @@
     },
     {
       "id": "n5vf0f18",
-      "x": 4032.5908072096845,
-      "y": -1243.0143420815505,
+      "x": 4029.872927828377,
+      "y": -1655.0143420815505,
       "w": 320,
-      "h": 434,
+      "h": 457,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -698,10 +715,11 @@
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Semantic research",
           "Conflict",
-          "Socio-political"
+          "Socio-political",
+          "Power",
+          "Public administration",
+          "Sociology"
         ],
         "tags": [],
         "desc": "Boundaries are lines of demarcation that define the geographic space and the population over which a state exercises its sovereignty. However, just as a nation does not necessarily coincide with the state, an individual’s personal identity is not fully encompassed by their bureaucratic dimension. In a scenario where identity prevails over territory, the state emancipates itself from physical space and redefines itself according to new parameters, transforming the static concept of borders into a dynamic network.",
@@ -718,15 +736,16 @@
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "consequences of being stateless",
-        "type": "Research",
+        "title": "Consequences of being stateless",
+        "type": "Observation",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
           "Hystory",
           "Conflict",
-          "Emotional response",
-          "Socio-political"
+          "Socio-political",
+          "Power",
+          "Law"
         ],
         "tags": [],
         "desc": "Living without citizenship means lacking access to fundamental rights and protections, such as:\n\t•\tLegal identity: difficulty obtaining ID cards, passports, or official documents\n\t•\tCivil rights: exclusion from voting and political participation\n\t•\tSocial rights: limited access to healthcare, education, or social services\n\t•\tWork and mobility: inability to work legally, travel abroad, or own property\n\t•\tLegal protection: greater vulnerability to exploitation, detention, or deportation\n\nIn practice, many stateless people live in legal and bureaucratic limbo, relying on humanitarian organizations or informal networks, often marginalized within the societies where they reside.",
@@ -736,22 +755,18 @@
     },
     {
       "id": "nfqgqm5g",
-      "x": 2198.2140546379555,
-      "y": 186.04926289440402,
+      "x": 2201.119276154753,
+      "y": 20.376507820735185,
       "w": 320,
-      "h": 350,
+      "h": 298,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "feedback negativo",
-        "type": "Research",
-        "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [
-          "Feelings",
-          "Emotional response",
-          "Conflict"
-        ],
+        "title": "Negative feedback",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [],
         "tags": [],
         "desc": "Introducing emotions or personal judgment into this system would compromise its function, because there would be too many variables and ambiguous situations to manage effectively. The strength of bureaucracy lies in its predictability and impartiality, even if this makes it appear rigid or impersonal.",
         "links": [],
@@ -760,20 +775,23 @@
     },
     {
       "id": "nklq4uw2",
-      "x": 404.0042997233767,
-      "y": -2016.9002328998442,
+      "x": 351.8655555212302,
+      "y": -2002.862878691574,
       "w": 320,
-      "h": 344,
+      "h": 367,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "victims of bureaucratic errors",
-        "type": "Research",
+        "title": "Victims of bureaucratic errors",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Conflict",
-          "Emotional response"
+          "Identity",
+          "Public administration",
+          "Power",
+          "Hystory",
+          "Conflict"
         ],
         "tags": [],
         "desc": "People fall victim to bureaucratic errors when documenting their identity. Mistakes in official records, lost documents, or administrative oversights can create a discrepancy between biological identity and bureaucratic identity, leading to serious consequences such as being unable to access services, travel, or even prove legal existence.",
@@ -783,10 +801,10 @@
     },
     {
       "id": "nz9xp05b",
-      "x": 1281.5596039650354,
-      "y": -2187.3867111445416,
+      "x": 1286.0455470324944,
+      "y": -2241.218027954047,
       "w": 320,
-      "h": 388,
+      "h": 434,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -796,7 +814,10 @@
         "mainArea": null,
         "areas": [
           "Hystory",
-          "Definition"
+          "Public administration",
+          "Identity",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
         "desc": "In ancient Rome, the homo sacer was a man excluded from both human and divine law—killable but not sacrificable—reduced to mere biological existence without rights. Giorgio Agamben reinterprets this figure as the symbol of modern power: the sovereign decides who is included or excluded from the legal order, producing “bare life.” Today, this condition reappears in refugees, undocumented people, and those erased by bureaucracy—individuals biologically alive but legally invisible.",
@@ -837,25 +858,24 @@
     },
     {
       "id": "n6j0ldtt",
-      "x": 3635.1401063957182,
-      "y": -2477.560637283511,
+      "x": 4403.140106395718,
+      "y": -1369.560637283511,
       "w": 320,
-      "h": 422,
+      "h": 1108,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "Christo and Jeanne-Claude, Running Fence, 1976",
-        "type": "Moodboard",
+        "title": "Moodboard",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
-        "areas": [
-          "Installation",
-          "Art"
-        ],
+        "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "Christo and Jeanne-Claude, Running Fence, 1976\nYanagi Yukinori, Wandering Position, 1988-2021\nZanny Bagg, The Right of Passage, 2013",
         "links": [
-          "https://christojeanneclaude.net/artworks/running-fence/"
+          "https://christojeanneclaude.net/artworks/running-fence/",
+          "https://anomalytokyo.com/en/exhibition/wandering-position-1988-2021/",
+          "https://zannybegg.com/the-right-of-passage/"
         ],
         "files": [
           {
@@ -865,33 +885,15 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/16.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "novblbup",
-      "x": 4365.736593748162,
-      "y": -2021.4011806369958,
-      "w": 320,
-      "h": 402,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "Zanny Bagg, The Right of Passage, 2013",
-        "type": "Moodboard",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Art",
-          "Documentary"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [
-          "https://zannybegg.com/the-right-of-passage/"
-        ],
-        "files": [
+          },
+          {
+            "name": "18.jpeg",
+            "size": 167598,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/18.jpg"
+          },
           {
             "name": "15.jpeg",
             "size": 30228,
@@ -904,94 +906,26 @@
       }
     },
     {
-      "id": "ni3176gn",
-      "x": 4024.278054862456,
-      "y": -2025.7738846497464,
-      "w": 320,
-      "h": 576,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "Yanagi Yukinori, Wandering Position, 1988-2021",
-        "type": "Moodboard",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Art",
-          "Installation"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [
-          "https://anomalytokyo.com/en/exhibition/wandering-position-1988-2021/"
-        ],
-        "files": [
-          {
-            "name": "18.jpeg",
-            "size": 167598,
-            "type": "image/jpeg",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/18.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "na535xd9",
-      "x": 3901.8043813849886,
-      "y": 607.1455339328461,
-      "w": 320,
-      "h": 599,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "Christo, Empaquetages, 1958",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Art",
-          "Installation"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [
-          "https://www.cyrilzammit.com/design-diary/christo-and-jeanne-claude-paris"
-        ],
-        "files": [
-          {
-            "name": "3.jpeg",
-            "size": 309079,
-            "type": "image/jpeg",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/3.jpg"
-          }
-        ]
-      }
-    },
-    {
       "id": "nex0urd2",
-      "x": 3554.402240431696,
-      "y": 607.7330788791096,
+      "x": 3534.402240431696,
+      "y": -140.2669211208904,
       "w": 320,
-      "h": 599,
+      "h": 1840,
       "group": null,
       "data": {
         "date": "2025-09-26",
-        "title": "Rudolf Bonvie, Dialog, 1973",
-        "type": "Moodboard",
+        "title": "Moodboard",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
-        "areas": [
-          "Art",
-          "Photography"
-        ],
+        "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "Rudolf Bonvie, Dialog, 1973\nDoriane terraillon, Still Photography, 2025\nChristo, Empaquetages, 1958\n Otto Künzli, Ring für Zwei, 1980",
         "links": [
-          "https://dolceambra.wordpress.com/2015/05/24/rudolf-bonvie-dialog-1973/"
+          "https://dolceambra.wordpress.com/2015/05/24/rudolf-bonvie-dialog-1973/",
+          "https://dorianeterraillon.com/Dolorosa",
+          "https://www.cyrilzammit.com/design-diary/christo-and-jeanne-claude-paris",
+          "https://www.domusweb.it/en/news/2014/08/18/otto_kunzli_jewellery.html"
         ],
         "files": [
           {
@@ -1001,33 +935,7 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/1.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "n3e20r3f",
-      "x": 3205.122326713084,
-      "y": 803.8561772157648,
-      "w": 320,
-      "h": 582,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": "Doriane terraillon, Still Photography, 2025",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Art",
-          "Photography"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [
-          "https://dorianeterraillon.com/Dolorosa"
-        ],
-        "files": [
+          },
           {
             "name": "5.jpeg",
             "size": 93798,
@@ -1035,33 +943,15 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/5.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "nefyeg79",
-      "x": 4259.496842106015,
-      "y": 609.7106602963152,
-      "w": 320,
-      "h": 515,
-      "group": null,
-      "data": {
-        "date": "2025-09-26",
-        "title": " Otto Künzli, Ring für Zwei, 1980",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Art",
-          "Photography"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [
-          "https://www.domusweb.it/en/news/2014/08/18/otto_kunzli_jewellery.html"
-        ],
-        "files": [
+          },
+          {
+            "name": "3.jpeg",
+            "size": 309079,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/3.jpg"
+          },
           {
             "name": "6.jpeg",
             "size": 105786,
@@ -1075,18 +965,23 @@
     },
     {
       "id": "ng5uua7h",
-      "x": 1612.6839516502782,
-      "y": 613.3417534502926,
+      "x": 1614.266724145168,
+      "y": 599.0968009962861,
       "w": 320,
-      "h": 500,
+      "h": 552,
       "group": null,
       "data": {
         "date": "2025-10-19",
-        "title": "weber's theory",
-        "type": "",
-        "action": null,
+        "title": "Weber's theory",
+        "type": "Source",
+        "action": "Exploring",
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Sociology",
+          "Philosophy",
+          "Hystory",
+          "Public administration"
+        ],
         "tags": [],
         "desc": "Rationalization (Rationalisierung) is the process that defines modernity more than any other. It involves the gradual replacement of actions driven by tradition, emotion, or values (wertrational) with actions guided by purpose, efficiency, and calculability (zweckrational).\n\nThe ultimate outcome of this unstoppable trend is the creation of an “iron cage” (stahlhartes Gehäuse), a metaphor describing a society where individuals are trapped within systems governed by efficiency and rational calculation—systems that stifle spontaneity, creativity, and individual freedom.\n\nThe Weberian bureaucracy embodies an inherent paradox: on the one hand, it ensures impartial and predictable treatment, protecting citizens from arbitrariness; on the other, in its purest form, it leads to formalism and technical rigidity that can result in dehumanization.",
         "links": [],
@@ -1095,40 +990,46 @@
     },
     {
       "id": "njz943yx",
-      "x": 1628.3037121215275,
+      "x": 1666.4342281949273,
       "y": -1932.451771554703,
       "w": 320,
-      "h": 466,
+      "h": 501,
       "group": null,
       "data": {
         "date": "2025-10-19",
-        "title": "johatsu - evaporated",
-        "type": "",
+        "title": "The Evaporated: Administrative Disappearance in Japan",
+        "type": "Source",
         "action": null,
         "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Conflict",
+          "Public administration",
+          "Identity",
+          "Sociology"
+        ],
         "tags": [],
-        "desc": "La loro identità sparisce, mentre loro scivolano nell'ombra, nascondendosi nell'anonimato o in una nuova identità.\nSi tratta di un'evaporazione amministrativa, che annulla intere vite dai registri dello Stato\nSotto la società giapponese ce sarebbe una seconda, che permette accoglie alle persone che vogliono \"morire\", sopravvivendo.\nSecondo alcune testimonianze, le persone che \"evaporano\" da Tokyo si nascondono a Sanya, un posto così segreto e coperto di vergogna che è stato rimosso dalle mappe di Tokyo. In realtà non è chiaro quanto di questo sia leggenda e quanto sia verità. Non è però così inverosimile che Sanya sia uno dei luoghi che ospita la \"società nascosta\", quella degli scomparsi.",
+        "desc": "Their identities vanish as they slip into the shadows, hiding in anonymity or assuming new names. This phenomenon, described as an administrative evaporation, erases entire lives from state records. Beneath Japanese society exists an alleged parallel one, where those who wish to “die” bureaucratically can continue to survive. According to some accounts, people who disappear from Tokyo retreat to Sanya — a district so burdened by stigma that it was removed from city maps. Though it remains unclear how much of this is legend or truth, Sanya is often imagined as a refuge for the “hidden society,” a community of the disappeared who have escaped official existence.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nia9sppq",
-      "x": 1992.3660982561805,
-      "y": -2302.1190938977206,
+      "x": 2178.127127779257,
+      "y": -2332.0805502724106,
       "w": 320,
-      "h": 355,
+      "h": 378,
       "group": null,
       "data": {
         "date": "2025-10-19",
         "title": "Possible things without official documents:",
-        "type": "Source",
-        "action": "Exploring",
+        "type": "Observation",
+        "action": "Making",
         "mainArea": null,
         "areas": [
-          "Hystory",
-          "Definition"
+          "Public administration",
+          "Conflict",
+          "Identity"
         ],
         "tags": [],
         "desc": "Sleep in temporary or informal places;\nWork off the books or in untracked jobs;\nBuy food and everyday goods;\nMove around freely on foot or using public transport; Build a discreet social network; \nUse cash-based services or services that don’t require registration; \nPrepaid phones (sometimes with limitations), online services with limited identity verification.",
@@ -1138,20 +1039,21 @@
     },
     {
       "id": "n3qcfzsy",
-      "x": 2364.416467185859,
-      "y": -2300.698704015216,
+      "x": 2542.187775009018,
+      "y": -2336.652451664844,
       "w": 320,
-      "h": 388,
+      "h": 411,
       "group": null,
       "data": {
         "date": "2025-10-19",
         "title": "Things impossible or highly risky without official documents",
-        "type": "Source",
-        "action": "Exploring",
+        "type": "Observation",
+        "action": "Making",
         "mainArea": null,
         "areas": [
-          "Hystory",
-          "Definition"
+          "Public administration",
+          "Identity",
+          "Conflict"
         ],
         "tags": [],
         "desc": "Open a legal bank account; \nSign official contracts\nAccess public services as public healthcare, pensions, national health insurance, and state benefits; \nDrive legally; Travel abroad or obtain a passport; \nRegister marriage, children’s births, or property;\nReceive legal correspondence or official notices;\nAttend public schools or universities as a regular student\n",
@@ -1161,30 +1063,34 @@
     },
     {
       "id": "nawaaze3",
-      "x": 2225.624886920262,
-      "y": -1821.9760524980602,
+      "x": 2350.9699796057193,
+      "y": -1845.0751750891532,
       "w": 320,
-      "h": 231,
+      "h": 428,
       "group": null,
       "data": {
         "date": "2025-10-19",
-        "title": "conflitto identitario",
-        "type": "Conclusione",
-        "action": "Exploring",
-        "mainArea": null,
-        "areas": [],
+        "title": "Conflict Between Bureaucratic and Biological Identity",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Identity",
+          "Conflict",
+          "Public administration"
+        ],
         "tags": [],
-        "desc": "conflitto tra identità burocratica e identità biologia e conflitto tra stato e cittadino",
+        "desc": "This concept explores the conflict between bureaucratic identity—constructed, regulated, and validated by the State—and biological identity, tied to existence itself. The tension emerges when the legitimacy of life becomes dependent on administrative recognition. This duality mirrors the broader conflict between citizen and State: one grounded in emotional and physical reality, the other in legality and documentation. Bureaucracy thus becomes the interface where the human and the institutional collide, revealing how recognition and existence are politically negotiated.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nscfpivt",
-      "x": 2664.4088328880653,
-      "y": -1824.4005262646601,
+      "x": 3159.7664391328954,
+      "y": -2170.3105911389366,
       "w": 320,
-      "h": 201,
+      "h": 336,
       "group": null,
       "data": {
         "date": "2025-10-19",
@@ -1194,7 +1100,7 @@
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "conflitto troppo e debole, ma elemento che potrebbe rientrare in altri scenari -> tenerlo in conto",
+        "desc": "The conflict between bureaucratic and biological identity was considered too weak to stand as an independent concept. However, it presents valuable potential and could be integrated into other speculative scenarios. The feedback suggests keeping this element in mind as a secondary or supporting layer to enrich future developments, particularly those addressing recognition, control, and the boundaries between human life and administrative systems.",
         "links": [],
         "files": []
       }
@@ -1204,7 +1110,7 @@
       "x": 2218.1435340343482,
       "y": 1671.266220235084,
       "w": 320,
-      "h": 595,
+      "h": 572,
       "group": null,
       "data": {
         "date": "2025-10-19",
@@ -1213,7 +1119,6 @@
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Media studies",
           "Socio-political",
           "Conflict",
           "Power",
@@ -1274,54 +1179,25 @@
     },
     {
       "id": "nlkkcro4",
-      "x": 3666.731944940338,
-      "y": -852.4124582583186,
+      "x": 3568.855291859779,
+      "y": -789.3363929397361,
       "w": 320,
-      "h": 224,
+      "h": 294,
       "group": null,
       "data": {
         "date": "2025-10-19",
-        "title": "migranti",
-        "type": "Research",
+        "title": "Migrants",
+        "type": "Observation",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Semantic research",
-          "Conflict",
-          "Cultural studies",
-          "Hystory",
+          "Law",
+          "Power",
           "Socio-political"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "In many cases, migrants become trapped in international waters due to bureaucratic loopholes and delays, biologically alive yet administratively invisible.",
         "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n8dupn85",
-      "x": 3656.7941000249402,
-      "y": -2020.8430096516777,
-      "w": 320,
-      "h": 285,
-      "group": null,
-      "data": {
-        "date": "2025-10-19",
-        "title": "territori instabili",
-        "type": "Source",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [
-          "https://www.arte.it/calendario-arte/firenze/mostra-territori-instabili-confini-e-identit%C3%A0-nell-arte-contemporanea-5024"
-        ],
         "files": []
       }
     },
@@ -1397,19 +1273,21 @@
     },
     {
       "id": "nk65ca75",
-      "x": 1962.3003834651672,
-      "y": 613.970367461226,
+      "x": 1957.5520659804984,
+      "y": 598.14264251233,
       "w": 320,
-      "h": 449,
+      "h": 472,
       "group": null,
       "data": {
         "date": "2025-10-19",
         "title": "Foucault's power and biopolitics",
-        "type": "Research",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Hystory"
+          "Hystory",
+          "Philosophy",
+          "Sociology"
         ],
         "tags": [],
         "desc": "Foucault argues that modern power no longer operates solely through repression and prohibition—the “right to let die”—but productively, taking on the task of managing, optimizing, and “making live” the population. This approach directly applies to the regulation of human relationships, which cease to be purely private matters and instead become objects of expert knowledge and management. Biopower, therefore, justifies bureaucratic intervention in the intimate sphere, framing relationships as systems to be optimized to ensure social stability, individual well-being, and collective productivity.",
@@ -1421,19 +1299,21 @@
     },
     {
       "id": "nmkpixjw",
-      "x": 2317.0547793352625,
-      "y": 609.6292217120243,
+      "x": 2299.6442818914766,
+      "y": 598.5498142477971,
       "w": 320,
-      "h": 321,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-10-19",
-        "title": "sociological analysis of commodification",
-        "type": "Research",
+        "title": "Sociological analysis of commodification",
+        "type": "Source",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
-          "Hystory"
+          "Hystory",
+          "Philosophy",
+          "Sociology"
         ],
         "tags": [],
         "desc": "the process by which capitalist market logic penetrates social life, transforming goods, services, and even human relationships into commodities to be exchanged and consumed. This phenomenon is intensified by what has been called the “liquid society,” characterized by the precariousness of social ties and the volatility of identities.",
@@ -1443,15 +1323,15 @@
     },
     {
       "id": "nuy0jz86",
-      "x": 2695.322182911258,
-      "y": 831.5912502734892,
+      "x": 2717.9047088567777,
+      "y": 829.2462442269072,
       "w": 320,
       "h": 405,
       "group": null,
       "data": {
         "date": "2025-10-19",
-        "title": "conclusions",
-        "type": "Research",
+        "title": "Conclusions",
+        "type": "Observation",
         "action": "Exploring",
         "mainArea": null,
         "areas": [
@@ -1465,22 +1345,25 @@
     },
     {
       "id": "nr9tiro7",
-      "x": 6502.184622448252,
-      "y": 1646.2616129275684,
+      "x": 6438.943309774251,
+      "y": 1156.141439704057,
       "w": 320,
-      "h": 179,
+      "h": 277,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "arma burocratica che ti cancella",
+        "title": "Bureaucratic Identity Eraser",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Scenario that merges identity and weaponry into a bureaucratic instrument that cancels an individual’s administrative identity. ",
         "links": [],
         "files": []
       }
@@ -1490,19 +1373,22 @@
       "x": 4763.315904784203,
       "y": 2492.5836518728815,
       "w": 320,
-      "h": 179,
+      "h": 316,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "opinione pubblica come arma burocratica",
+        "title": "Public Opinion as a Bureaucratic Weapon",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Cultural studies",
+          "Critical design",
+          "Law"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "New concept that envisions public opinion as a new bureaucratic weapon, an external yet powerful force capable of influencing, accelerating, or obstructing institutional processes",
         "links": [],
         "files": []
       }
@@ -1510,7 +1396,7 @@
     {
       "id": "nldb9o2w",
       "x": 3902.5454163402483,
-      "y": 1650.3332399546957,
+      "y": 1898.3332399546957,
       "w": 320,
       "h": 298,
       "group": null,
@@ -1532,19 +1418,22 @@
       "x": 5610.029724809604,
       "y": 1288.9560231170317,
       "w": 320,
-      "h": 372,
+      "h": 445,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "caso di francesca albanese",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
+        "title": "The OFAC Lists and Global Financial Control",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "Il nome di Albanese compare nelle liste dell’OFAC, l’Office of Foreign Assets Control del Dipartimento del Tesoro statunitense. Queste liste nascono con l’obiettivo di colpire terroristi, narcotrafficanti e regimi autoritari. Chi vi compare si trova escluso dai circuiti finanziari e i suoi beni possono essere congelati. Ma il punto centrale è che queste liste, pur essendo espressione della politica estera americana, finiscono per condizionare l’intero sistema bancario mondiale.",
+        "desc": "Albanese’s name appears on the lists issued by the OFAC — the Office of Foreign Assets Control of the U.S. Department of the Treasury. These lists were originally created to target terrorists, drug traffickers, and authoritarian regimes. Individuals or entities included are excluded from financial networks, and their assets can be frozen. The key point is that, while these lists are instruments of U.S. foreign policy, they ultimately influence the entire global banking system, demonstrating how bureaucratic mechanisms of sanction can extend beyond national borders to shape international economic behavior.",
         "links": [],
         "files": []
       }
@@ -1554,19 +1443,22 @@
       "x": 5251.636241150121,
       "y": 1291.3332399546957,
       "w": 320,
-      "h": 355,
+      "h": 428,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "SDN-list",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
+        "title": "The SDN List (Specially Designated Nationals)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
         "areas": [
+          "Law",
+          "Power",
+          "Conflict",
           "Socio-political"
         ],
         "tags": [],
-        "desc": "la lista degli Specially Designated Nationals (Sdn list) includendovi i soggetti, operanti in settori strategici, legati o riconducibili agli anzidetti Paesi ostili: l’inclusione nella Sdn list è potenzialmente fatale per qualsiasi entità commerciale, perché comporta il divieto assoluto, per ogni altro soggetto, statunitense o straniero, di intrattenere rapporti d’affari con tali soggetti banditi o con le società da essi direttamente o indirettamente controllate.",
+        "desc": "The Specially Designated Nationals (SDN) List includes individuals and entities operating in strategic sectors linked to, or associated with, hostile nations. Being placed on the SDN list is potentially fatal for any commercial organization, as it results in a total prohibition for U.S. and foreign subjects alike to conduct business with the listed parties or any companies directly or indirectly controlled by them. The measure functions as a powerful bureaucratic and economic tool of exclusion, transforming administrative designation into a mechanism of global control.\n",
         "links": [],
         "files": []
       }
@@ -1576,1602 +1468,1876 @@
       "x": 5951.636241150121,
       "y": 1284.3332399546957,
       "w": 320,
-      "h": 959,
+      "h": 658,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "Altri casi di soggetti bloccati",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
+        "title": "Targeted International Sanctions",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": null,
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Media studies",
+          "Public administration",
+          "Law",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "Le sanzioni internazionali, adottate da entità come l'OFAC o l'Unione Europea (UE) e le Nazioni Unite (ONU), mirano non solo a interi Paesi ma anche a singole persone, istituzioni o organizzazioni (sanzioni mirate o individuali).\nTra i soggetti bloccati inclusi nelle liste di sanzioni (come la SDN List dell'OFAC e le liste UE/ONU), i contesti e gli individui citati nei risultati di ricerca includono:\nSoggetti associati a programmi di sanzioni contro la Russia: Ad esempio, Kirill Aleksandrovich Dmitriev è menzionato come inserito nella SDN List in relazione alle sanzioni contro la Russia. Altri soggetti designati, inclusi individui ed entità, appartengono non solo alla Federazione Russa, ma anche a paesi terzi come Cina, Turchia, Emirati Arabi Uniti e il Regno Unito, spesso per contrastare le pratiche di elusione delle sanzioni economiche internazionali.\nSettori strategici russi: Sono state designate entità attive in settori come l'energetico, metallurgico, minerario e militare della Federazione Russa. Ad esempio, Limited Liability Company Northern Technologies, Joint Stock Company Kazan Compressor Machinery Plant e Limited Liability Company Gazprom Linde Engineering, attive nella costruzione di un impianto per il gas naturale liquefatto (LNG).\nImprenditori: Viene menzionato l'imprenditore Vladislav Vladimirovich (il cognome completo non è disponibile), che ha proprietà o controlla numerose entità sanzionate.\nCategorie generali di soggetti: Le liste includono anche persone ed entità giuridiche appartenenti a Paesi diversi da quelli con specifici \"programmi\" di sanzioni, come trafficanti di droga, terroristi, commercianti di armi, e istituzioni finanziarie coinvolte in traffici illeciti.\nPaesi soggetti a divieti completi/assoluti: L'OFAC ha creato un divieto totale su tutte le transazioni condotte con qualsiasi ente governativo, gruppo, azienda o individuo con una presenza a Cuba.\nPersone ed entità non statali: Le sanzioni mirate sono dirette contro individui, persone fisiche o giuridiche e gruppi (armati), spesso identificati in base all'inclusione in una lista di terroristi o presunti tali.",
+        "desc": "International sanctions, imposed by entities such as the OFAC, the European Union (EU), and the United Nations (UN), target not only entire nations but also specific individuals, institutions, and organizations. These targeted sanctions—or individual sanctions—include subjects listed in sanction databases such as the OFAC SDN List or EU/UN restrictive measures. Examples include individuals linked to Russian sanction programs, such as Kirill Aleksandrovich Dmitriev, and companies in strategic Russian sectors like energy, metallurgy, mining, and defense (e.g., LLC Northern Technologies, JSC Kazan Compressor Machinery Plant, and LLC Gazprom Linde Engineering). The lists also encompass entrepreneurs controlling sanctioned entities, as well as individuals and institutions from countries such as China, Turkey, the UAE, and the UK, often for aiding sanction evasion. Broader categories include drug traffickers, arms dealers, terrorists, and illicit financial actors. Complete bans apply to nations such as Cuba, illustrating how these bureaucratic instruments of control extend across geopolitical and non-state domains.\n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n0q6izio",
-      "x": 4308.527653809845,
-      "y": 2208.1791361950363,
+      "x": 4315.033883930349,
+      "y": 2133.357489809245,
       "w": 320,
-      "h": 179,
+      "h": 445,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "caso ilaria salis",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
+        "title": "The Case of Ilaria Salis",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Media studies"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Ilaria Salis, an Italian anti-fascist activist detained in Hungary for alleged involvement in an attack on neo-Nazi demonstrators, was elected to the European Parliament with strong public backing. Her election granted her parliamentary immunity, allowing her to return to Italy. Hungarian authorities later requested the waiver of her immunity, initiating a review within the European Parliament. The plenary ultimately voted to uphold it by a narrow margin, sparking widespread political debate. The case highlights the power of public opinion and the intersection between legal systems, political legitimacy, and human rights protection.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nmllwbum",
-      "x": 5192.081433491221,
-      "y": 1907.7927040581271,
+      "x": 5126.181118703054,
+      "y": 2002.6891573530875,
       "w": 320,
-      "h": 540,
+      "h": 568,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "problematica su cui riflettere: ",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
+        "title": "Problem to reflect on",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Cultural studies",
+          "Media studies"
         ],
         "tags": [],
-        "desc": "Una delle questioni più rilevanti della società contemporanea riguarda il rapporto tra legge, burocrazia e opinione pubblica. La legge e i meccanismi burocratici che la regolano sono strumenti dotati di valore assoluto, validi indipendentemente dal contesto o dal caso specifico. Tuttavia, la realtà mostra che questo principio non è sempre così saldo: vi sono situazioni in cui individui che hanno agito al di fuori della legalità vengono sostenuti, giustificati o legittimati dall’opinione pubblica.\nQuesta dinamica solleva interrogativi profondi: la legge deve essere applicata rigidamente, anche quando entra in conflitto con la sensibilità comune? Oppure è legittimo che la percezione collettiva influenzi, direttamente o indirettamente, gli esiti dei procedimenti giudiziari? In altre parole, la giustizia deve rimanere impermeabile al consenso sociale, o deve tenerne conto per rimanere aderente alla realtà e alle evoluzioni culturali della società?",
+        "desc": "One of the most significant issues in contemporary society concerns the relationship between law, bureaucracy, and public opinion. The law, along with the bureaucratic mechanisms that regulate it, is generally regarded as an absolute system, valid regardless of context or circumstance. However, reality shows that this principle is not always so firm: there are situations in which individuals who have acted outside the law are supported, justified, or even legitimized by public opinion.\n\nThis dynamic raises questions: should the law be applied rigidly, even when it clashes with common sentiment? Or is it legitimate for collective perception to influence, directly or indirectly, the outcomes of judicial proceedings? In other words, should justice remain impermeable to social consensus, or must it take it into account in order to stay aligned with reality and the cultural evolution of society?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "niqpie8v",
-      "x": 4788.293047669049,
-      "y": 1870.442617213962,
+      "x": 4777.473935786389,
+      "y": 1999.6290212547055,
       "w": 320,
-      "h": 489,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "scenario",
+        "title": "Scenery",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Media studies",
+          "Law"
         ],
         "tags": [],
-        "desc": "Immaginiamo un sistema in cui l’opinione pubblica non resti confinata a una dimensione esterna e simbolica, ma possa intervenire in maniera formale attraverso procedure burocratiche. In questo contesto, la voce collettiva non sarebbe più solo un fattore di pressione indiretta, ma diventerebbe parte integrante dei processi giudiziari (una nuova “arma” burocratica nelle mani dell’opinione pubblica).\nLa distanza tra legge e sensibilità comune si ridurrebbe, ma al tempo stesso si aprirebbe il rischio che la giustizia non fosse più guidata soltanto da principi legali, bensì anche dal parere collettivo, dalle emozioni del momento o dalle narrazioni mediatiche dominanti.\n\nwhat-if:\nE se l’opinione pubblica potesse intervenire tramite vie burocratiche per opporsi a decisioni giudiziarie?",
+        "desc": "Let’s imagine a system in which public opinion is no longer confined to an external and symbolic dimension, but can formally intervene through bureaucratic procedures. In this context, the collective voice would no longer be just a factor of indirect pressure, but would become an integral part of judicial processes, a new “bureaucratic weapon” in the hands of public opinion.\n\nwhat if public opinion could intervene through bureaucratic channels to oppose judicial decisions?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nbqkiz47",
-      "x": 5558.057052987389,
-      "y": 1908.810299013201,
+      "x": 5127.15732942609,
+      "y": 2586.6627068953694,
       "w": 320,
-      "h": 388,
+      "h": 411,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "definizione e motivo del conflitto:",
+        "title": "Definition and reason for the conflict:",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "In questo contesto evidenziamo un duplice conflitto: innanzitutto l’opinione pubblica può adoperare la burocrazia per combattere lo stesso sistema burocratico. Tramite provvedimenti legali e totalmente regolamentati sarà possibile intervenire concretamente per cambiare le sorti di una decisione giudiziaria.\nUn secondo conflitto evidente è tra  il sistema burocratico, nato con l’obiettivo di garante dell’imparzialità e legalità, e l’opinione pubblica mossa principalmente da empatia, da emozioni. \n",
+        "desc": "In this context, we can identify a dual conflict: first, public opinion can use bureaucracy as a means to fight the bureaucratic system itself. Through legal and fully regulated procedures, it would become possible to concretely intervene and alter the outcome of a judicial decision.\nA second, equally evident conflict arises between the bureaucratic system, originally designed to guarantee impartiality and legality, and public opinion, which is primarily driven by empathy and emotion.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ngl0xm8l",
-      "x": 5551.305356600201,
-      "y": 2328.9527955370977,
+      "x": 5473.50231452057,
+      "y": 2086.4472761620173,
       "w": 320,
-      "h": 472,
+      "h": 478,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "agenti e dinamica del conflitto",
+        "title": "Agents and Dynamics of the Conflict",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "Gli agenti del conflitto sono, da un lato, i cittadini e i gruppi che compongono l’opinione pubblica, capaci di intervenire formalmente per influenzare o ribaltare l’esito di un processo, e dall’altro lo Stato, con il suo apparato burocratico e giudiziario, che opera secondo leggi, regole e procedure consolidate. La dinamica del conflitto si sviluppa nell’interazione tra queste due logiche: l’opinione pubblica utilizza strumenti legali e regolamentati per esercitare pressione o intervenire sui procedimenti, mentre lo Stato applica le norme in modo impersonale e strutturato. L’incontro tra la componente emotiva e collettiva da una parte e quella razionale e normativa dall’altra genera una tensione continua che può condizionare gli esiti dei processi pur restando entro i confini della legalità.",
+        "desc": "The agents of the conflict are, on one side, citizens and groups forming public opinion, able to formally intervene to influence or overturn the outcome of a trial, and, on the other, the State, represented by its bureaucratic and judicial apparatus, which operates through established laws and procedures. The dynamic of the conflict unfolds through the interaction of these two logics: public opinion employs legal and regulated tools to exert pressure, while the State enforces norms in an impersonal and structured manner. The encounter between collective emotion and institutional rationality creates a persistent tension that can shape judicial outcomes while formally remaining within the boundaries of legality.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ncolsqav",
-      "x": 5545.801963825822,
-      "y": 2831.646183676671,
+      "x": 5472.049051505745,
+      "y": 2592.7648581554254,
       "w": 320,
-      "h": 271,
+      "h": 265,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "ente",
+        "title": "Entity",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
-        "areas": [
-          "Socio-political"
-        ],
+        "areas": [],
         "tags": [],
-        "desc": "L’organizzazione che valuta, coordina e regola le modalità con cui l’opinione pubblica può intervenire concretamente, assumendo un ruolo effettivo nel modificare l’esito di un processo giudiziario.",
+        "desc": "An organization that evaluates, coordinates, and regulates the ways in which public opinion can formally intervene, assuming an active role in influencing the outcome of judicial processes. ",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n5es7j0l",
-      "x": 6199.652681753167,
-      "y": 2444.265836269112,
+      "x": 6038.836149139678,
+      "y": 2444.2658362691113,
       "w": 320,
-      "h": 254,
+      "h": 265,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "feedback",
-        "type": "Concept",
-        "action": "Making",
+        "title": "Feedback on the Speculative Depth of the Scenario",
+        "type": "Feedback",
+        "action": null,
         "mainArea": "Speculation",
-        "areas": [
-          "Socio-political"
-        ],
+        "areas": [],
         "tags": [],
-        "desc": "intrusione dell'opinione pubblica nella burocrazia/giustizia esiste già con le class action -> scenario non abbastanza speculativo",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n0j75yok",
-      "x": 6954.438783294716,
-      "y": 1589.5351057231771,
-      "w": 320,
-      "h": 254,
-      "group": null,
-      "data": {
-        "date": "2025-10-26",
-        "title": "problematica su cui riflettere",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [
-          "Socio-political"
-        ],
-        "tags": [],
-        "desc": "la burocrazia al momento può essere utilizzata per danneggiare, svantaggiare e scoraggiare una persona.",
+        "desc": "The scenario was considered insufficiently speculative, as the intrusion of public opinion into bureaucratic and judicial systems already exists in forms such as class actions.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n099v6n8",
-      "x": 6953.135210557832,
-      "y": 1275.5394290950355,
+      "x": 6837.272148054251,
+      "y": 1150.4582844010802,
       "w": 320,
-      "h": 288,
+      "h": 361,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "scenario / what if",
+        "title": "Bureaucratic Death Penalty",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "e se esistesse un’arma in grado di ucciderti burocraticamente?\ne se si introducesse la pena di morte burocratica?\n\ne di conseguenza: cosa succederebbe se non avessimo la nostra identità",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n11g6los",
-      "x": 7073.58004708807,
-      "y": 1973.6461019314183,
-      "w": 320,
-      "h": 220,
-      "group": null,
-      "data": {
-        "date": "2025-10-26",
-        "title": "CANCELLED CULTURE",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [
-          "Socio-political"
-        ],
-        "tags": [],
-        "desc": "conslusioni per presentazione",
+        "desc": "What if there existed an instrument that could “kill” you bureaucratically—stripping your legal identity, rights and access to services—or if a formal “bureaucratic death penalty” were ever introduced? Such measures would produce social death: loss of civil status, freezing of assets, exclusion from healthcare and employment, invisibility in registries, and effective statelessness. ",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n8hb7uxv",
-      "x": 7553.58004708807,
-      "y": 1410.1440049202688,
+      "x": 6595.368230617831,
+      "y": 1624.2898275405114,
       "w": 320,
-      "h": 321,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "Contesto",
+        "title": "Scenery",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Law",
+          "Power",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "La burocrazia non è soltanto uno strumento dello stato per amministrare ma costituisce la base stessa della nostra identità. Possedere un’identità burocratica significa avere diritto di accesso e riconoscimento all’interno della società; senza di essa, la semplice esistenza biologica non è sufficiente per essere pienamente considerati.",
+        "desc": "Bureaucracy is not merely a state instrument for administration but the very foundation of personal identity. To possess a bureaucratic identity means to be recognized, to have access to rights, and to exist within the social order. Without it, biological existence alone is insufficient for full participation in society. Bureaucratic recognition thus defines the boundary between visibility and exclusion, shaping the conditions of belonging and legitimacy within modern civilization.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nk3vv9ka",
-      "x": 7553.58004708807,
-      "y": 1763.788650549041,
+      "x": 6954.697661794171,
+      "y": 2080.970397516457,
       "w": 320,
-      "h": 321,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "problematica",
+        "title": "Problem to reflect on",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Power",
+          "Law",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "Nella nostra società, l’accesso pieno alla vita sociale e ai suoi diritti è legato al possesso di un’identità burocratica. Paradossalmente, la semplice esistenza biologica non basta. Questo solleva una riflessione critica sul ruolo della burocrazia: fino a che punto il sistema burocratico definisce e limita ciò che significa esistere?",
+        "desc": "In our society, full access to social life and its rights is tied to the possession of a bureaucratic identity. Paradoxically, mere biological existence is not enough. This raises a critical question about the role of bureaucracy itself: to what extent does the bureaucratic system define , and ultimately limit, what it means to exist?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nr4ozcme",
-      "x": 7913.015541066376,
-      "y": 1407.8380629045134,
+      "x": 6954.803724596136,
+      "y": 1619.1393403777518,
       "w": 320,
-      "h": 372,
+      "h": 445,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "whatif",
+        "title": "What if",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Power",
+          "Law",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "Il nostro scenario si baserebbe sulla domanda: “E se si potessero cancellare le persone (burocraticamente)?”\nCi immaginiamo in un mondo in cui lo Stato può infliggere una pena di morte burocratica per crimini gravissimi e disumani. In questa situazione, non viene tolta la vita fisica, ma viene revocata la tua esistenza burocratica: tutti i documenti che attestano la tua identità vengono cancellati, rimani nessuno, invisibile e privo di diritti e documentazione.",
+        "desc": "The scenario is built around the question: “What if people could be erased bureaucratically?”\nIt imagines a world in which the State can impose a bureaucratic death penalty for extreme and inhuman crimes. In this system, life itself is not taken, but one’s bureaucratic existence is revoked: all documents proving identity are deleted, leaving the individual without recognition, rights, or access to institutions. The person becomes legally invisible—a living being stripped of social existence. The scenario exposes the fragility of identity when its validity depends entirely on administrative acknowledgment.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nfs3igay",
-      "x": 7908.377663724721,
-      "y": 1807.8614819498412,
+      "x": 7305.865688216919,
+      "y": 1630.0115614686226,
       "w": 320,
-      "h": 338,
+      "h": 361,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "agenti",
+        "title": "Agents and Dynamics of the Conflict",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Conflict",
+          "Law",
+          "Power"
         ],
         "tags": [],
-        "desc": "Il condannato si trova intrappolato in un paradosso: continua a esistere biologicamente, ma è escluso da ogni forma di riconoscimento ufficiale. È come se la macchina burocratica, che un tempo garantiva la sua esistenza, si fosse rivoltata contro di lui. Il conflitto nasce proprio qui: tra l’essere vivo e l’essere riconosciuto, tra la realtà biologica e la realtà burocratica.",
+        "desc": "The condemned individual finds themselves trapped in a paradox: they continue to exist biologically, yet are excluded from any form of official recognition. It is as if the bureaucratic machine — the very system that once guaranteed their existence — has now turned against them. The true conflict lies here: between being alive and being acknowledged, between biological reality and bureaucratic reality.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n1ai34af",
-      "x": 7546.623231075587,
-      "y": 2119.7652315037135,
+      "x": 7305.010776877922,
+      "y": 2020.7799909425025,
       "w": 320,
-      "h": 304,
+      "h": 411,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "ente",
+        "title": "Entity",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Socio-political"
+          "Socio-political",
+          "Conflict",
+          "Law",
+          "Power"
         ],
         "tags": [],
-        "desc": "Noi rappresentiamo quel settore dell’apparato giuridico e amministrativo incaricato di eseguire la cancellazione burocratica. Il nostro compito è far sì che la persona scompaia dal sistema, eliminando ogni traccia della sua identità dai registri e dagli archivi ufficiali.",
+        "desc": "We are the branch of the juridical and administrative apparatus charged with carrying out bureaucratic erasure. Our task is to make the person disappear from the system: to remove every trace of their identity from registers, databases and official archives. We cancel registrations, retract certifications, delete file entries and sever administrative ties so that, on paper, the individual no longer exists. In short, we convert a life into records, and by erasing those records we enact the disappearance itself.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nce6l0vb",
-      "x": 8341.580047088071,
-      "y": 2307.765231503713,
+      "x": 7882.678872991765,
+      "y": 1948.2877008379132,
       "w": 320,
-      "h": 220,
+      "h": 332,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "feedback",
-        "type": "Concept",
+        "title": "Feedback on the Bureaucratic Death Penalty Concept",
+        "type": "Feedback",
         "action": "Making",
         "mainArea": "Speculation",
-        "areas": [
-          "Socio-political"
-        ],
+        "areas": [],
         "tags": [],
-        "desc": "abbandonare la strada -> meglio le altre due opzioni",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n1df0wjr",
-      "x": 6636.736600331586,
-      "y": 733.8561772157648,
-      "w": 320,
-      "h": 220,
-      "group": null,
-      "data": {
-        "date": "2025-10-26",
-        "title": "RELAZIONI BUROCRATICHE",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "Feelings",
-          "Communication"
-        ],
-        "tags": [],
-        "desc": "conslusioni per presentazione",
+        "desc": "The concept of the bureaucratic death penalty is to be abandoned. The feedback suggests focusing instead on the other two directions previously explored, which offer stronger conceptual and speculative potential while maintaining consistency with the project’s critical investigation of bureaucratic power.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nw2945a7",
-      "x": 6200.736600331586,
-      "y": 185.85617721576477,
+      "x": 3942.5530259415214,
+      "y": 437.66676696210993,
       "w": 320,
-      "h": 388,
+      "h": 411,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "contesto",
+        "title": "Scenery",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Communication"
+          "Conflict",
+          "Sociology",
+          "Public administration"
         ],
         "tags": [],
-        "desc": "Nelle dinamiche interpersonali emergono frequentemente situazioni ambigue e conflittuali, la cui gestione risulta complessa a causa dell’elevato coinvolgimento emotivo.\nLa burocrazia nella nostra realtà si configura, invece, come un sistema finalizzato alla regolazione e alla razionalizzazione. In questo senso, essa si è inserita anche alla sfera delle relazioni personali: il matrimonio e il divorzio ne rappresentano un esempio emblematico, poiché formalizzati attraverso atti e procedure di natura puramente burocratica. ",
+        "desc": "In interpersonal dynamics, ambiguous and conflicting situations often emerge, whose management becomes complex due to the high level of emotional involvement.\nBureaucracy, on the other hand, functions as a system aimed at regulation and rationalization. In this sense, it has extended its reach into the realm of personal relationships: marriage and divorce represent emblematic examples, as they are formalized through acts and procedures of a purely bureaucratic nature.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nj49vybu",
-      "x": 6564.736600331586,
-      "y": 190.85617721576477,
+      "x": 4304.903625911994,
+      "y": 442.66676696210993,
       "w": 320,
-      "h": 388,
+      "h": 428,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "problematica",
+        "title": "Problem to reflect on",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Communication"
+          "Public administration",
+          "Sociology",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "Quando la logica burocratica entra nel campo delle relazioni personali nasce una tensione particolare. \nDa un lato, le istituzioni burocratiche servono a dare ordine, riconoscimento e tutela ai rapporti. \nDall’altro, però, c’è il rischio che la complessità emotiva venga ridotta a una serie di procedure fredde e standardizzate.\nÈ una questione che invita a riflettere su un equilibrio delicato: quello tra la necessità di regolamentazione e la libertà emotiva, tra il bisogno di ordine e l’autenticità dell’esperienza personale.",
+        "desc": "When bureaucratic logic enters the realm of personal relationships, a particular tension emerges.\nOn one hand, bureaucratic institutions exist to provide order, recognition, and protection to those relationships.\nOn the other, there is the risk that emotional complexity will be reduced to a series of cold, standardized procedures.\nThis tension invites reflection on a fragile balance — between the need for regulation and the freedom of emotion, between the pursuit of order and the authenticity of personal experience.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nkv6za4r",
-      "x": 6916.736600331586,
-      "y": 188.85617721576477,
+      "x": 4565.449471999713,
+      "y": 36.74425384953295,
       "w": 320,
-      "h": 372,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "what if",
+        "title": "What if",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Communication"
+          "Sociology",
+          "Conflict",
+          "Public administration"
         ],
         "tags": [],
-        "desc": "Il nostro scenario si baserebbe sulla domanda: “E se la burocrazia regolamentasse anche le sfere più intime dell’essere umano?”\nCi posizioniamo quindi in un mondo caratterizzato da un’iperburocratizzazione, in cui le procedure e le regole si estendono a ogni aspetto della vita quotidiana. In questo contesto, la burocrazia interviene persino nelle relazioni interpersonali e intime, con l’obiettivo di gestire e regolamentare le ambiguità e le conflittualità insite nei rapporti umani.",
+        "desc": "Our scenario stems from a central question: “What if bureaucracy extended its control to the most intimate spheres of human life?”\nWe imagine a world defined by hyper-bureaucratization, where procedures and regulations permeate every aspect of daily existence.\nIn this context, bureaucracy intervenes even in interpersonal and intimate relationships, seeking to manage and regulate the ambiguities and conflicts inherent in human connection.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n168z3r9",
-      "x": 7280.736600331586,
-      "y": 201.85617721576477,
+      "x": 4681.7611384872835,
+      "y": 465.09853620114495,
       "w": 320,
-      "h": 304,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "agenti",
+        "title": "Agents and Dynamics of the Conflict",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Communication"
+          "Power",
+          "Conflict",
+          "Sociology"
         ],
         "tags": [],
-        "desc": "Il conflitto, quindi, non si manifesta solo nelle relazioni tra individui che la burocrazia tenta di regolare, ma soprattutto nello scontro tra due nature opposte: da una parte quella razionale e impersonale della norma burocratica; dall’altra quella spontanea e profondamente umana delle relazioni personali.",
+        "desc": "The conflict, then, does not arise only within the relationships that bureaucracy attempts to regulate, but above all in the clash between two opposing natures: on one side, the rational and impersonal logic of bureaucratic norms; on the other, the spontaneous and deeply human dimension of personal relationships.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ndl1wgju",
-      "x": 7284.736600331586,
-      "y": 534.8561772157648,
+      "x": 4925.8282925070225,
+      "y": 43.6017664248223,
       "w": 320,
-      "h": 372,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "ente",
+        "title": "Entity",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Communication"
+          "Public administration",
+          "Conflict",
+          "Sociology"
         ],
         "tags": [],
-        "desc": "Siamo un ente assicurativo a cui i cittadini sono fortemente incoraggiati a rivolgersi prima di intraprendere una relazione o per regolarne una già esistente. Il nostro compito è prevenire e amministrare le situazioni di ambiguità o conflitto che potrebbero sorgere nel rapporto, garantendo che esse vengano previste e regolamentate. In questo modo, ci assicuriamo che eventuali incomprensioni o offese vengano gestite in modo, razionale e conforme alle procedure stabilite.",
+        "desc": "We are an insurance agency that citizens are strongly encouraged to consult before entering a relationship—or to regulate one that already exists.\nOur role is to prevent and manage situations of ambiguity or conflict that may arise within the relationship, ensuring that they are anticipated and properly regulated.\nIn doing so, we guarantee that any misunderstandings or offenses are handled rationally and in full compliance with established procedures.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nbkbo75y",
-      "x": 5196.299606507146,
-      "y": 157.73048799118442,
+      "x": 4012.2996065071457,
+      "y": 121.73048799118442,
       "w": 320,
-      "h": 214,
+      "h": 231,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "feedback positivo",
-        "type": "",
+        "title": "Positive feedback",
+        "type": "Feedback",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "delineare di più",
+        "desc": "need to better outline the scenario by going into more detail\n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n9f63nt8",
-      "x": 8856.299606507146,
-      "y": -1526.2695120088156,
+      "x": 8793.165234286722,
+      "y": -2754.644056781337,
       "w": 320,
-      "h": 214,
+      "h": 283,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "SANGUE DEL MIO SANGUE",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "\"sangue del mio sangue\"",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Law",
+          "Socio-political",
+          "Identity",
+          "Public administration"
+        ],
         "tags": [],
-        "desc": "conclusioni per presentazione",
+        "desc": "ideation of a scenario where citizenship is transmitted through blood",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nusfml5g",
-      "x": 8952.299606507146,
-      "y": -1118.2695120088156,
+      "x": 8889.165234286722,
+      "y": -2346.644056781337,
       "w": 320,
-      "h": 332,
+      "h": 378,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "contesto",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "Context",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political",
+          "Identity",
+          "Public administration"
+        ],
         "tags": [],
-        "desc": "In Italia il procedimento di acquisizione della cittadinanza è complesso, costoso e molto lungo. Molte persone nate e cresciute nel Paese non vengono riconosciute come cittadine a causa delle rigide regole legate allo ius sanguinis, il principio secondo cui la cittadinanza si trasmette esclusivamente per discendenza riconosciuta solo a chi ha un genitore o un nonno italiani.",
+        "desc": "Italy’s citizenship system, strictly rooted in ius sanguinis, excludes many individuals born and raised in the country who lack formally recognized Italian ancestry. The naturalization process is often long, expensive, and opaque, requiring extensive documentation, years of waiting, and navigating fragmented administrative layers. This produces unequal access to rights for people who share the same lived reality but not the same lineage.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nw3425oy",
-      "x": 9304.299606507146,
-      "y": -1115.2695120088156,
+      "x": 9242.732740298035,
+      "y": -2345.21156279265,
       "w": 320,
-      "h": 315,
+      "h": 367,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "problematica",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "Problem to reflect on",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Public administration",
+          "Identity",
+          "Socio-political",
+          "Law"
+        ],
         "tags": [],
-        "desc": "Il sistema di cittadinanza italiano quindi genera una profonda contraddizione e questo paradosso apre a una riflessione sul valore che viene attribuito al sangue rispetto all’esperienza e all’appartenenza: il sangue definisce davvero chi siamo? Vale di più la discendenza familiare rispetto agli anni vissuti, alle relazioni e al legame costruito con un luogo?",
+        "desc": "The Italian citizenship system therefore creates a deep contradiction, and this paradox opens a reflection on the value attributed to blood compared to experience and belonging: does blood truly define who we are? Is family lineage worth more than the years lived, the relationships formed, and the bond built with a place?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nedye6gd",
-      "x": 9312.299606507146,
-      "y": -768.2695120088156,
+      "x": 9240.089258966405,
+      "y": -1960.6347848447801,
       "w": 320,
-      "h": 248,
+      "h": 277,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "whatif",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "What if",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political",
+          "Identity",
+          "Law",
+          "Public administration"
+        ],
         "tags": [],
-        "desc": "Il nostro scenario si baserebbe sulla domanda: “E se l’ottenimento della cittadinanza italiana fosse possibile attraverso una trasfusione di sangue?”",
+        "desc": "Our scenario would be based on the question: “What if obtaining Italian citizenship were possible through a blood transfusion?”",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nd1ltt6v",
-      "x": 9656.299606507146,
-      "y": -1113.2695120088156,
+      "x": 9593.165234286722,
+      "y": -2341.644056781337,
       "w": 320,
-      "h": 382,
+      "h": 434,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "agenti",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "Agents and Dynamics of the Conflict",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Public administration",
+          "Identity",
+          "Socio-political",
+          "Law"
+        ],
         "tags": [],
-        "desc": "Il sistema fondato sullo ius sanguinis crea una frattura tra chi vive e contribuisce alla società e chi, legalmente, non ne fa parte. È qui che nasce il conflitto: il diritto di appartenenza diventa un privilegio, misurato esclusivamente dal sangue e non dall’esperienza o dal radicamento culturale.\nIl paradosso si concretizza: chi ha vissuto anni in Italia può essere escluso, mentre chi paga per ricevere una trasfusione simbolica di “sangue italiano” ottiene un riconoscimento negato dallo Stato.",
+        "desc": "The system based on ius sanguinis creates a fracture between those who live in and contribute to society and those who, legally, are not considered part of it. This is where the conflict arises: the right to belong becomes a privilege, measured exclusively through blood rather than experience or cultural rootedness.\n\nThe paradox becomes concrete: someone who has lived in Italy for years can be excluded, while someone who pays to receive a symbolic transfusion of “Italian blood” obtains a recognition that the State denies to others.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ni6oephu",
-      "x": 9656.299606507146,
-      "y": -686.2695120088156,
+      "x": 9593.165234286722,
+      "y": -1914.644056781337,
       "w": 320,
-      "h": 298,
+      "h": 350,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "ente",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "title": "Entity",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Public administration",
+          "Identity",
+          "Law",
+          "Socio-political"
+        ],
         "tags": [],
-        "desc": "Un’associazione che opera sotto la copertura di una rispettabile banca del sangue volontaria. Però, la sua vera missione è un’altra: l’organizzazione distribuisce kit di trasfusione, costosi e a cui non tutti possono accedervi, che permettono l’ottenimento della cittadinanza italiana",
+        "desc": "An association operating under the guise of a reputable voluntary blood bank. However, its true mission is different: the organization distributes transfusion kits, expensive and not accessible to everyone, which allow the acquisition of Italian citizenship.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ncfiqnoz",
-      "x": 9520.299606507146,
-      "y": -1552.2695120088156,
+      "x": 9457.165234286722,
+      "y": -2780.644056781337,
       "w": 320,
-      "h": 248,
+      "h": 231,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "feedback",
-        "type": "",
+        "title": "Feedback",
+        "type": "Feedback",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "cercare di delineare ancora di più come funzionerebbe questo sistema -> puntare sulla legalità",
+        "desc": "Try to further outline how this system would work and emphasize its legality.\n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n9w4oaff",
-      "x": 10075.865370600597,
-      "y": -1752.2695120088156,
+      "x": 9952.954196772293,
+      "y": -2640.93529737338,
       "w": 320,
-      "h": 143,
+      "h": 282,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "",
-        "type": "",
+        "title": "Decision to close this option",
+        "type": "Feedback",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "The more the scenario is developed in detail, the more it reveals flaws in the system, making it unrealistic. Therefore, this path should be abandoned in order to focus on the one concerning relationships.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nd9mu7zv",
-      "x": 7964.736600331586,
-      "y": 942.8561772157648,
+      "x": 5439.462350657351,
+      "y": 713.6525234352347,
       "w": 320,
-      "h": 254,
+      "h": 248,
       "group": null,
       "data": {
         "date": "2025-10-26",
         "title": "feedback",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "Feelings",
-          "Communication"
-        ],
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
         "tags": [],
-        "desc": "valutazione positiva dello scenario -> cercare di trovare come esaltare il conflitto e le dinamiche più precise, tipi di relazioni...",
+        "desc": "Positive assessment of the scenario. Try to find ways to enhance the conflict and the most precise dynamics, types of relationships...",
         "links": [],
         "files": []
       }
     },
     {
       "id": "najakot8",
-      "x": 9380.736600331586,
-      "y": 582.8561772157648,
+      "x": 6055.605860458547,
+      "y": 300.145626926423,
       "w": 320,
-      "h": 416,
+      "h": 399,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "scenario definitivo",
-        "type": "",
+        "title": "Definitive scenario",
+        "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [],
         "tags": [],
-        "desc": "Ci posizioniamo in un MONDO caratterizzato da una IPERBUROCRATIZZAZIONE, in cui le procedure e le regole si estendono a ogni aspetto della vita quotidiana. \nIn questo contesto, la burocrazia interviene persino NELLE RELAZIONI INTERPERSONALI e intime, con l’obiettivo di gestire e regolamentare le ambiguità e le conflittualità insite nei rapporti umani.\nIn questo scenario le persone si possono tutelare tramite delle ASSICURAZIONI sulle relazioni, vengono definite e ufficializzate tutti i minimi aspetti della relazione con un sistema basato sulle assicurazioni",
+        "desc": "We position ourselves in a world defined by hyper-bureaucratization, where procedures and regulations extend to every aspect of daily life.\nIn this context, bureaucracy intervenes even in interpersonal and intimate relationships, aiming to manage and regulate the ambiguities and conflicts inherent in human interaction.\nWithin this scenario, individuals can protect themselves through relationship insurance policies, which define and formalize even the smallest details of their relationships through a system entirely based on insurance mechanisms.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nnmjsmbx",
-      "x": 4632.5908072096845,
-      "y": -955.5606372835107,
+      "x": 4963.908532980074,
+      "y": -1587.560637283511,
       "w": 320,
-      "h": 283,
+      "h": 349,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "feedback",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
-        ],
+        "title": "Feedback",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
         "tags": [],
-        "desc": "descrizione generica -> cercare un modo per delinearla di più -> confini liquidi",
+        "desc": "The concept was found to be too generic and lacking clear boundaries. The feedback suggests defining it more precisely by identifying its specific scope, actors, and implications. At the same time, the notion of liquid boundaries could be explored as a strength rather than a weakness,framing the idea as a flexible and evolving system instead of a rigid construct. This approach would help preserve conceptual openness while improving clarity and depth.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nr6ljo8b",
-      "x": 5580.5908072096845,
-      "y": -1023.5606372835107,
+      "x": 5488.485661518092,
+      "y": -1030.3000381877737,
       "w": 320,
-      "h": 224,
+      "h": 327,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "puzzle con stati",
+        "title": "Redistribution of States",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
+          "Power",
+          "Socio-political",
+          "Envirionment",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "In this speculative scenario, global crises force a radical reorganization of state borders. Nations are redistributed not through conflict or diplomacy, but by necessity. Bureaucracy becomes the mechanism of this planetary reshuffling, turning geopolitical order into a matter of logistics rather than heritage.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nohmi1vl",
-      "x": 6108.5908072096845,
-      "y": -919.5606372835107,
+      "x": 5919.717549616251,
+      "y": -1053.292414319188,
       "w": 320,
-      "h": 434,
+      "h": 445,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "conflitto",
+        "title": "Definition and reason for the conflict",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Semantic research",
           "Conflict",
-          "Socio-political"
+          "Socio-political",
+          "Power",
+          "Envirionment"
         ],
         "tags": [],
-        "desc": "conflitto burocratico nel definire dove lo stato va e sta → nel definire il nuovo posizionamento del confine\nconflitto che si creerebbe tra i doversi popoli\ne stato con stato sul concetto di proprietà territoriale, giurisdizione, definizioni culturali\nconflitto tra il popolo interno che si sente spaesato su un altro territorio.\n\ngoverni, stati e cittadini entrano in conflitto tra di loro e l’ente amministrativo entra in conflitto burocratico con gli stati.\n",
+        "desc": "The redrawing of borders generates a complex bureaucratic conflict involving governments, states, and citizens. Administrative entities struggle to define where a nation begins and ends, while disputes arise over territorial ownership, jurisdiction, and cultural identity. States clash with each other to assert sovereignty, and populations experience disorientation as they find themselves relocated onto unfamiliar lands. The bureaucratic apparatus, intended to mediate order, becomes a field of tension—its procedures unable to contain the emotional, political, and existential chaos unleashed by the redistribution of territory.\n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n5oesg5f",
-      "x": 6100.517854424084,
-      "y": -456.567753023965,
+      "x": 5920.993655329548,
+      "y": -584.7993238057763,
       "w": 320,
-      "h": 384,
+      "h": 428,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "ente",
+        "title": "Entity",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
+          "Envirionment",
+          "Power",
+          "Socio-political",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "Siamo un ente amministrativo che, a tavolino, decide dove ricollocare gli Stati scomparsi a causa dell’innalzamento dei mari, individuando territori ancora emersi su cui “riporli”. La scelta dei nuovi insediamenti si basa sulla disponibilità fisica delle terre: a ciascuno Stato sommerso viene assegnata un’area equivalente per metratura all’interno di un altro territorio.",
+        "desc": "We are an administrative entity tasked with determining the relocation of nations erased by rising sea levels. Through bureaucratic procedures, we identify still-emerged territories on which these vanished states can be “placed” anew. Each reassignment is calculated based on the exact surface area lost, ensuring formal equivalence between the submerged land and its replacement. This process transforms geography into a matter of administrative redistribution, reducing sovereignty and cultural identity to measurable spatial data within a global ledger of displaced nations.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nxj2hw02",
-      "x": 6817.411332094871,
-      "y": -1091.1984783090936,
+      "x": 6635.555649895212,
+      "y": -652.8796545458115,
       "w": 320,
-      "h": 468,
+      "h": 445,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "what if",
+        "title": "What if",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
+          "Envirionment",
+          "Power",
+          "Socio-political",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "E se fosse inevitabile una ridistribuzione degli stati mondiali forzando un nuovo equilibrio tra governi, stati e cittadini?\n\nIn un futuro prossimo, lo scioglimento progressivo dei ghiacci provocherà l'innalzamento del livello dei mari, con conseguente sommersione di porzioni significative di territorio appartenenti ad alcuni Stati. In questo scenario, intere popolazioni si troveranno prive della propria terra d’origine, con profonde implicazioni politiche, burocratiche e umanitarie. \nLa burocrazia si ritroverà inevitabilmente a dover gestire la ridefinizione dei confini geografici e geopolitici.",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "ndijh5vs",
-      "x": 5612.5908072096845,
-      "y": -1531.5606372835107,
-      "w": 320,
-      "h": 224,
-      "group": null,
-      "data": {
-        "date": "2025-10-26",
-        "title": "uomini come pacchi",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n7wps6p7",
-      "x": 5430.126485434173,
-      "y": -2078.8106310249514,
-      "w": 320,
-      "h": 224,
-      "group": null,
-      "data": {
-        "date": "2025-10-26",
-        "title": "passaporto randomico",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n9ci03bm",
-      "x": 5492.867137634924,
-      "y": -2864.0394617115,
-      "w": 320,
-      "h": 224,
-      "group": null,
-      "data": {
-        "date": "2025-10-26",
-        "title": "selezione allingresso",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
-        ],
-        "tags": [],
-        "desc": "",
+        "desc": "What if the redistribution of the world’s states became inevitable, forcing a new balance between governments, nations, and citizens? In the near future, the progressive melting of ice caps will raise sea levels, submerging vast portions of national territories. Entire populations will lose their homelands, triggering political, bureaucratic, and humanitarian crises. Bureaucracy will become the central mechanism through which new borders are negotiated and redrawn, transforming the act of governance into an exercise of global spatial management—an attempt to restore equilibrium in a world where geography itself has collapsed.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n1y01te4",
-      "x": 7324.560623084299,
-      "y": -1993.4269227498319,
+      "x": 7134.4550795192,
+      "y": -2004.4000527356422,
       "w": 320,
-      "h": 266,
+      "h": 384,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "documenti per spostarsi",
-        "type": "Concept",
+        "title": "Passports, Citizenship, and the Bureaucratic Definition of Self",
+        "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
+          "Public administration",
+          "Socio-political",
           "Conflict",
-          "Socio-political"
+          "Identity"
         ],
         "tags": [],
-        "desc": "passaporto dato dalla cittadinanza",
+        "desc": "Movement across borders depends on documents, passports and visas, that translate citizenship into permission. The passport becomes both a key and a cage: it grants access while revealing the constraints imposed by one’s administrative identity. Citizenship, encoded in these documents, determines who you are in the eyes of institutions and how far you can go. ",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nh307m48",
-      "x": 7939.304508990666,
-      "y": -2187.560637283511,
+      "x": 7534.7357397095275,
+      "y": -2013.3426412076387,
       "w": 320,
-      "h": 224,
+      "h": 417,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "riflessione sulla cittadinanza",
-        "type": "Concept",
+        "title": "Citizenship as Bureaucratic Identity",
+        "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
+          "Identity",
           "Conflict",
-          "Socio-political"
+          "Socio-political",
+          "Public administration",
+          "Law"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Citizenship defines not only one’s legal status but also one’s very identity within the bureaucratic order. It assigns belonging, rights, and visibility, turning nationality into a fundamental marker of existence. Through citizenship, the individual becomes legible to the State—registered, categorized, and controlled. This reflection reveals how identity, rather than being purely personal or cultural, is constructed through administrative recognition, where to exist means to be documented.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nn3eluom",
-      "x": 8075.893839569315,
-      "y": -1770.6855418759196,
+      "x": 7967.428933236572,
+      "y": -2132.95306876639,
       "w": 320,
-      "h": 384,
+      "h": 361,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "ius sanguinis",
-        "type": "Concept",
+        "title": "Ius sanguinis",
+        "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
+          "Public administration",
+          "Law",
+          "Socio-political",
+          "Identity"
         ],
         "tags": [],
-        "desc": "La richiesta di cittadinanza italiana per ius sanguinis (“diritto di sangue”) si basa sul principio che la cittadinanza italiana si trasmette di generazione in generazione per discendenza da un avo italiano — senza limiti di generazione, purché non ci sia stata interruzione nella trasmissione (cioè un antenato che abbia perso o rinunciato alla cittadinanza italiana prima della nascita del figlio successivo).",
+        "desc": "The application for Italian citizenship ius sanguinis (“right of blood”) is based on the principle that Italian citizenship is passed down from generation to generation through descent from an Italian ancestor — with no generational limits, provided there has been no interruption in the transmission (that is, no ancestor who lost or renounced Italian citizenship before the birth of their child).",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ns9y3z8c",
-      "x": 8454.889416310969,
-      "y": -1536.715013745361,
+      "x": 8327.89381049806,
+      "y": -1745.0351911082973,
       "w": 320,
-      "h": 787,
+      "h": 456,
       "group": null,
       "data": {
         "date": "2025-10-26",
-        "title": "cosa si può sapere dal sangue",
-        "type": "Concept",
+        "title": "Genetic Information Extracted from Blood",
+        "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
+          "Science",
+          "Identity"
         ],
         "tags": [],
-        "desc": "Cosa puoi sapere dal sangue\nDal sangue (più precisamente dal DNA contenuto nei globuli bianchi) si può:\nIdentificare una persona (tramite analisi del profilo genetico);\nDeterminare relazioni di parentela (es. test di paternità);\nAnalizzare le origini genetiche o l’ascendenza (ad esempio, sapere se una persona ha antenati europei, africani, asiatici, ecc.);\nStudiare tratti ereditari e predisposizioni genetiche (per malattie o caratteristiche fisiche).\n\nCome funziona\nIl DNA viene estratto dal sangue e confrontato con:\nBanche dati genetiche (per i test di ascendenza, come 23andMe o MyHeritage);\nCampioni di altri individui (per test di parentela o identificazione).\n\nLimiti\nL’ascendenza genetica è una stima statistica, non una certezza assoluta;\nI test possono rivelare solo origini biologiche, non culturali o nazionali;\nServe consenso legale: non si può analizzare il DNA di qualcuno senza il suo permesso (è una violazione della privacy e, in Italia, è anche un reato).\n\nSì, dal sangue puoi ottenere informazioni genetiche utili per verificare origini, parentele o identità, ma solo in modo legale e con il consenso della persona interessata.\nVuoi che ti spieghi come si fa tecnicamente un test del DNA da un campione di sangue (in laboratorio)?",
+        "desc": "From blood (more precisely the DNA in white blood cells) it is possible to identify an individual, determine biological kinship, estimate genetic ancestry, and reveal hereditary traits or disease predispositions. The procedure involves extracting DNA from the sample and comparing it against genetic databases or other individual samples for identification, parentage, or ancestry inference. Limits include statistical uncertainty in ancestry estimates, the distinction between biological origins and cultural/national identity, and the legal and ethical requirement of informed consent—analysing someone’s DNA without permission is a privacy violation and, in jurisdictions like Italy, a criminal offence.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nkfiuxlj",
-      "x": 8445.705306916992,
-      "y": -1984.356130717414,
+      "x": 8385.705306916992,
+      "y": -2208.356130717414,
       "w": 320,
-      "h": 417,
+      "h": 361,
       "group": null,
       "data": {
         "date": "2025-10-26",
         "title": "ius sanguinis vs ius solis",
-        "type": "Concept",
+        "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
+          "Public administration",
+          "Law",
+          "Socio-political",
+          "Identity"
         ],
         "tags": [],
-        "desc": "Premessa: ius sanguinis vs ius soli\nI Paesi del mondo si dividono (semplificando) in due grandi categorie:\nIus sanguinis (“diritto di sangue”) → La cittadinanza si trasmette dai genitori al figlio, indipendentemente da dove nasce.  🇮🇹 Esempio: Italia, Grecia, Polonia, Giappone.\nIus soli (“diritto del suolo”) → La cittadinanza si ottiene nascendo sul territorio dello Stato.  🇺🇸 Esempio: Stati Uniti, Canada, Brasile.",
+        "desc": "Countries around the world can broadly be divided into two main categories. Under the principle of ius sanguinis (“right of blood”), citizenship is passed from parents to child regardless of where the person is born — as in Italy, Greece, Poland, or Japan. In contrast, ius soli (“right of the soil”) grants citizenship to those born within a country’s territory, as in the United States, Canada, or Brazil.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nhxw1z8p",
-      "x": 6476.828640973291,
-      "y": -1096.165829313717,
+      "x": 6277.045483771111,
+      "y": -1055.785482733524,
       "w": 320,
-      "h": 753,
+      "h": 512,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "contesto",
+        "title": "Context a world reshaped by rising seas",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Semantic research",
           "Conflict",
-          "Socio-political"
+          "Socio-political",
+          "Power",
+          "Envirionment"
         ],
         "tags": [],
-        "desc": "Le ricerche scientifiche indicano con crescente certezza che i mari si stanno innalzando a causa del riscaldamento globale e dello scioglimento dei ghiacci polari. Se questa tendenza continuerà, vaste porzioni di terre costiere saranno sommerse, trasformando profondamente ecosistemi e città. A lungo termine, gran parte delle terre oggi emerse potrebbe essere completamente ricoperta dall’acqua, con coste ridisegnate e intere civiltà costrette ad adattarsi a un mondo in gran parte acquatico. Gli ecosistemi subiranno trasformazioni profonde e la geografia del pianeta così come la conosciamo oggi non sarà più riconoscibile.\nIn questo contesto, la situazione geopolitica mondiale appare sempre più complessa. In diverse aree, Stati esercitano pressione politica, economica o militare su altri, insediandosi o influenzandone il territorio e le decisioni interne. Tali interventi generano instabilità, ridefiniscono i confini di potere e provocano crisi di governance.\nParallelamente, conflitti, cambiamenti climatici e crisi economiche costringono vaste popolazioni a spostarsi. Migliaia di persone diventano migranti o rifugiati, alla ricerca di sicurezza, lavoro e condizioni di vita migliori. Questi flussi mettono sotto pressione le strutture statali, sollevano complesse questioni di integrazione sociale e alimentano tensioni sia all’interno dei Paesi ospitanti sia tra gli Stati stessi, ridefinendo costantemente la geografia sociale e politica del mondo.",
+        "desc": "Scientific research increasingly confirms that sea levels are rising due to global warming and the melting of polar ice caps. As this trend continues, vast coastal areas will be submerged, altering ecosystems and forcing cities and civilizations to adapt to a predominantly aquatic planet. The Earth’s geography, as we know it, will become unrecognizable. In parallel, geopolitical tensions intensify: nations exert political, economic, or military pressure on others, redrawing territorial influence and destabilizing governance. Climate change, conflict, and economic crises trigger mass migrations, turning millions into refugees seeking stability and survival. These flows strain existing state structures and continually redefine the world’s political and social landscape, setting the stage for new bureaucratic and territorial conflicts.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n69ggwt4",
-      "x": 7068.032025152396,
-      "y": -387.8319197687185,
+      "x": 7091.346856203634,
+      "y": -970.7026960496787,
       "w": 320,
-      "h": 231,
+      "h": 248,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "feedback negativo",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
+        "title": "Negative feedback",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "Non emerge l’aspetto burocratico dei confini\nEmerge il rifugiato climatico",
+        "desc": "the bureaucratic conflict does not emerge enough, indeed there is the risk that the environmental conflict emerges more",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n6brru8k",
-      "x": 6132.67043022961,
-      "y": -2368.6222059100596,
+      "x": 5845.30566135131,
+      "y": -2394.72015507601,
       "w": 320,
-      "h": 265,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "problematica",
-        "type": "Concept",
+        "title": "Problem to reflect on",
+        "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "mainArea": null,
+        "areas": [
+          "Power",
+          "Socio-political",
+          "Identity",
+          "Law",
+          "Conflict"
+        ],
         "tags": [],
-        "desc": "in base alla tua cittadinzanza (dettata dagli stati/confini) si ha più o meno libertà di muoversi attraverso confini grazie a passaporti che hanno diversi pesi",
+        "desc": "Freedom of movement is not universal but determined by one’s citizenship—an administrative identity defined by states and borders. Passports embody this inequality: some grant almost unrestricted access across nations, while others severely limit mobility. This system creates a bureaucratic hierarchy of value among individuals, where privilege and restriction are encoded in documents rather than merit or need, turning mobility itself into a measurable form of power.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n3y8h4qs",
-      "x": 6118.766541651595,
-      "y": -2090.172554103762,
+      "x": 6261.074692030237,
+      "y": -2259.3611328872603,
       "w": 320,
-      "h": 266,
+      "h": 417,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "whatif",
+        "title": "What if",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Semantic research",
           "Conflict",
-          "Socio-political"
+          "Law",
+          "Identity",
+          "Socio-political",
+          "Power",
+          "Public administration"
         ],
         "tags": [],
-        "desc": "e se i passaporti fossero dati in modo random",
+        "desc": "What if passports were assigned randomly, detached from birthplace or nationality? In this speculative scenario, the hierarchy of mobility would collapse into chance. Access, privilege, and restriction would no longer depend on inherited citizenship but on probability. Such a system would expose the arbitrariness of borders and question the moral legitimacy of belonging, revealing how much of one’s freedom is determined not by identity or action, but by administrative lottery.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "neo6nj5j",
-      "x": 6749.6554858790305,
-      "y": -2134.9883117363156,
+      "x": 6681.329199128836,
+      "y": -2446.083880472673,
       "w": 320,
-      "h": 248,
+      "h": 315,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "feedback",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
+        "title": "Feedback negativo",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "elemento speculativo non abbastanza perchè è semplicemente un rimarcare ciò che succede effettivamente",
+        "desc": "The concept was considered insufficiently speculative, as the random assignment of passports merely reinforces the existing arbitrariness already embedded in current systems of citizenship and border control. While it highlights inequality, it does not introduce a truly alternative or critical mechanism. ",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n33ic9u9",
-      "x": 6141.403698943291,
-      "y": -1705.9012882750026,
+      "x": 5551.787047557259,
+      "y": -1663.246523440428,
       "w": 320,
-      "h": 367,
+      "h": 411,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "problematica",
-        "type": "Concept",
+        "title": "Problem to reflect on",
+        "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
+          "Socio-political",
           "Conflict",
-          "Socio-political"
+          "Hystory"
         ],
         "tags": [],
-        "desc": "per attraversare confini ci sono regole e probelmatiche, molti possono andare ovunque e molti no → iter burocratico per spostarsi, ci siamo auto\n\ncomparazione con regole burocratiche che regolamentano i movimenti internazionali dei pacchi e delle persone",
+        "desc": "To cross borders, there are rules and complications, some can move freely, while others are constantly restrained by limitations and paperwork.\nCrossing territories is never neutral: it requires a bureaucratic process, a regulated iter of permissions, authorizations, and controls that decide who can pass and who must remain still.\nIt reflects a system built on hierarchy and regulation, where mobility itself becomes a privilege — not only for people, but for goods, data, and information as well.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n2z9a2d5",
-      "x": 6489.457256303224,
-      "y": -1457.4888253709087,
+      "x": 6356.168909066194,
+      "y": -1507.7860762621674,
       "w": 320,
-      "h": 283,
+      "h": 300,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "whatif",
+        "title": "What if",
         "type": "Concept",
-        "action": "Exploring",
+        "action": "Making",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Semantic research",
+          "Public administration",
           "Conflict",
-          "Socio-political"
+          "Socio-political",
+          "Law"
         ],
         "tags": [],
-        "desc": "e se il movimento di un uomo attraverso vari confini avvenisse con lo stesso iter burocratico dei pacchi?",
+        "desc": "And what if a person’s movement across borders followed the same bureaucratic process as that of a package?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n53kzafb",
-      "x": 7038.077418861429,
-      "y": -1582.9593496574703,
+      "x": 6720.380464217555,
+      "y": -1717.0628749746973,
       "w": 320,
-      "h": 266,
+      "h": 366,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "feedback negativo",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
-        ],
+        "title": "Negative feedback",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
         "tags": [],
-        "desc": "troppo paragone uno a uno",
+        "desc": "The scenario was considered too linear, relying on a one-to-one correspondence between physical relocation and bureaucratic process. The feedback highlights the need for greater complexity—moving beyond direct analogies to explore how bureaucratic structures might transform, overlap, or malfunction when faced with such large-scale reorganization. The concept should evoke systemic ambiguity rather than simple equivalence between displacement and administration.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "njcx9cg8",
-      "x": 5756.682529751011,
-      "y": -2424.592632370712,
+      "x": 5450.346820762128,
+      "y": -2388.980327482288,
       "w": 320,
-      "h": 300,
+      "h": 417,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "lotteria della cittadinanza",
-        "type": "Concept",
+        "title": "The American Green Card Lottery",
+        "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
+          "Public administration",
+          "Law",
+          "Power",
+          "Socio-political",
+          "Identity"
         ],
         "tags": [],
-        "desc": "america che ogni anno fa una lotteria e da più di cinquantamila cittadinanze per avere uno stato più eterogeneo",
+        "desc": "Each year, the United States organizes the Diversity Visa Lottery, a program that grants over fifty thousand people the chance to obtain permanent residency. Designed to promote demographic and cultural diversity, the lottery aims to make the nation’s population more heterogeneous. This bureaucratic mechanism turns citizenship into a matter of chance, transforming identity and belonging into outcomes of probabilistic selection rather than lineage, merit, or geography.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n72upnfh",
-      "x": 5928.127398422826,
-      "y": -3166.69063873451,
+      "x": 5444.445121108987,
+      "y": -2898.260180658751,
       "w": 320,
-      "h": 300,
+      "h": 355,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "confini non scritti",
-        "type": "Concept",
+        "title": "Unwritten Rules of Hospitality",
+        "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
         "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
+          "Sociology",
+          "Envirionment"
         ],
         "tags": [],
-        "desc": "Esistono delle regole che non scritte che variano di paese in paese che ogni ospite deve seguire quando viene invitato a casa di qualcuno",
+        "desc": "Across cultures, there exist unwritten social rules that dictate how guests should behave when invited into someone’s home. These norms vary from country to country, reflecting deeper cultural values related to respect, hierarchy, and social harmony. While not codified, such expectations shape interpersonal dynamics and define the invisible boundaries between host and guest, politeness and intrusion, belonging and otherness.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nanz192r",
-      "x": 6401.548025009282,
-      "y": -2890.356955365675,
+      "x": 5863.11668093648,
+      "y": -2962.280521700406,
       "w": 320,
-      "h": 316,
+      "h": 417,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "scenario",
+        "title": "The Threshold as a Boundary",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
+          "Sociology",
+          "Envirionment",
+          "Public administration",
+          "Conflict"
         ],
         "tags": [],
-        "desc": "utilizzo della sogli di casa come confine \n-> ognuno può fare una selezione all'ingresso -> creare confini effettivi sulla soglia di casa con un espediente come lo zerbino",
+        "desc": "The house threshold functions as a symbolic and practical boundary—a point where inclusion and exclusion are negotiated. It marks the transition between public and private, between the world of shared rules and the domain of personal control. By using an object like a doormat, the homeowner can perform an act of selection, deciding who crosses that boundary and under what conditions. This small gesture transforms the entrance into an active interface of social and relational filtering.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nkqo0t3l",
-      "x": 6881.548025009282,
-      "y": -2890.356955365675,
+      "x": 6286.466865159267,
+      "y": -2964.975278572652,
       "w": 320,
-      "h": 300,
+      "h": 382,
       "group": null,
       "data": {
         "date": "2025-10-27",
-        "title": "feedback proprio",
-        "type": "Concept",
-        "action": "Exploring",
+        "title": "negative Feedback",
+        "type": "Feedback",
+        "action": null,
         "mainArea": "Speculation",
-        "areas": [
-          "Feelings",
-          "Semantic research",
-          "Conflict",
-          "Socio-political"
-        ],
-        "tags": [],
-        "desc": "non abbastanza speculativo perchè la casa è la proprietà privata -> non tutti possono entrare nella proprietà privata -> c'è gia una selezione",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nnygzba2",
-      "x": 1480.3972725705512,
-      "y": 1185.3610837879467,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2025-10-29",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nqo1mx2w",
-      "x": 868.3972725705512,
-      "y": 825.3610837879467,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2025-10-29",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n8afpo22",
-      "x": -371.6027274294488,
-      "y": 5.361083787946654,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2025-10-29",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nmv9ntoa",
-      "x": -1167.6027274294488,
-      "y": -258.63891621205335,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2025-10-29",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n6n1rkg5",
-      "x": 2612.397272570551,
-      "y": 1505.3610837879467,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2025-10-29",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n21o1zh1",
-      "x": 4311.342547908811,
-      "y": 1428.7039133468256,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2025-10-29",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nhqqeq9q",
-      "x": 3856.3681402677603,
-      "y": 2409.8498966738534,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2025-10-29",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nvr1o4xk",
-      "x": 4328.36814026776,
-      "y": 3469.8498966738534,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2025-10-29",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
+        "desc": "The concept was considered not sufficiently speculative, as the domestic threshold already implies an inherent form of selection linked to private property. The act of choosing who may enter a home is a right already guaranteed by ownership, leaving little room for critical or speculative development. To strengthen the idea, the feedback suggests exploring contexts where boundaries are less explicit or negotiable—spaces in which the notion of access, permission, or exclusion is contested rather than predetermined.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nxv6198r",
-      "x": 9858.731469294804,
-      "y": 298.1275699927053,
+      "x": 6969.52668722603,
+      "y": -26.8435611884953,
       "w": 320,
-      "h": 366,
+      "h": 372,
       "group": null,
       "data": {
         "date": "2025-10-30",
-        "title": "cnflitto",
+        "title": "Levels of conflicts",
         "type": "",
         "action": "Exploring",
         "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Conflict"
+        ],
         "tags": [],
-        "desc": "--> conflitto burocratico paradossale:\nla burocrazia deve REGOLAMENTARE e RISOLVERE, CHIARIFICARE, TUTELARE\nperò allo stesso tempo SPERSONALIZZA, VINCOLA, OBBLIGA, ESCLUDE\n--> conflitto tra due nature opposte:\nda una parte quella RAZIONALE e IMPERSONALE della norma burocratica\ndall’altra quella SPONTANEA e profondamente UMANA delle relazioni personali. ",
+        "desc": "→ Paradoxical bureaucratic conflict:\nBureaucracy embodies a fundamental contradiction: it is designed to regulate, resolve, clarify, and protect, yet in doing so it inevitably depersonalizes, constrains, obliges, and excludes.\nThis tension reveals a deeper clash between two opposing forces — on one side, the rational and impersonal nature of bureaucratic order; on the other, the spontaneous and profoundly human dimension of personal relationships.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nsuoe5zk",
-      "x": 9858.731469294804,
-      "y": 683.6458047076984,
+      "x": 6588.842406825564,
+      "y": 321.28603884430913,
       "w": 320,
-      "h": 231,
+      "h": 260,
       "group": null,
       "data": {
         "date": "2025-10-30",
-        "title": "what if",
-        "type": "",
+        "title": "What if",
+        "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Public administration",
+          "Sociology"
+        ],
         "tags": [],
-        "desc": "E se la burocrazia regolamentasse anche le sfere più intime dell’essere umano?",
+        "desc": "What if bureaucracy extended its control to the most intimate spheres of human life?",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nq2vfoit",
-      "x": 9860.736600331586,
-      "y": 948.8561772157648,
+      "x": 6590.847537862345,
+      "y": 603.8360555802594,
       "w": 320,
       "h": 298,
       "group": null,
       "data": {
         "date": "2025-10-30",
-        "title": "messaggio che vogliamo veicolare",
+        "title": "Message to convey",
         "type": "",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [],
         "tags": [],
-        "desc": "Ciò che vogliamo dire è che la burocrazia è disumanizzante ma questo può essere sia visto positivamente che negativamente (tutela vs vincolo)\nla burocrazia risulta disumanizzante nel tentare di giudicare situazioni prettamente umane attraverso l’applicazione di leggi e razionalità.",
+        "desc": "What we mean is that bureaucracy is dehumanizing, but this can be seen both positively and negatively (protection vs. constraint).\nBureaucracy is dehumanizing in its attempt to judge purely human situations through the application of laws and rationality.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nldpevvs",
-      "x": 10405.780202212449,
-      "y": 853.2005416744589,
+      "x": 7112.771614106029,
+      "y": 492.7674029475013,
       "w": 320,
-      "h": 366,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-10-30",
-        "title": "ente",
-        "type": "",
+        "title": "Entity",
+        "type": "Concept",
         "action": "Exploring",
         "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Public administration",
+          "Sociology",
+          "Power"
+        ],
         "tags": [],
-        "desc": "Siamo un ente assicurativo a cui i cittadini sono fortemente incoraggiati a rivolgersi prima di intraprendere una relazione o per regolarne una già esistente. Il nostro compito è regolamentare tutti gli aspetti della relazione per far si che nel momento di ambiguità e conflitto ci sia un iter burocratico da seguire che tuteli entrambi le parti della relazione. In questo modo, ci assicuriamo che eventuali incomprensioni o offese vengano gestite in modo, razionale e conforme alle procedure stabilite.",
+        "desc": "We are an insurance agency that citizens are strongly encouraged to consult before entering a relationship — or to regulate one that already exists.\nOur task is to formalize and regulate every aspect of the relationship, ensuring that, in moments of ambiguity or conflict, there is a bureaucratic procedure to follow that protects both parties.\nIn this way, we guarantee that any misunderstandings or offenses are handled rationally and in full compliance with established procedures.",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "nv4hz9gn",
-      "x": 10885.780202212449,
-      "y": 853.2005416744589,
+      "id": "nx9lyg0m",
+      "x": 5944.889207752232,
+      "y": -1669.633945447322,
       "w": 320,
-      "h": 143,
+      "h": 468,
       "group": null,
       "data": {
-        "date": "2025-10-30",
-        "title": "",
-        "type": "",
+        "date": "2025-11-07",
+        "title": "Movement of packages and people",
+        "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Speculation",
+        "mainArea": null,
+        "areas": [
+          "Socio-political",
+          "Conflict",
+          "Hystory",
+          "Public administration",
+          "Law"
+        ],
+        "tags": [],
+        "desc": "It’s a system that mirrors the bureaucratic rules governing the international movement of both packages and people — both subject to forms, identification, tracking, and approval before they can travel.\nEvery passage is documented, categorized, and validated through codes and protocols that determine legitimacy.\nIn this sense, the act of crossing a border — whether by a person or an object — becomes less about freedom of movement and more about compliance with an administrative logic that transforms mobility into data, regulation, and control.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nuigem8f",
+      "x": 7729.207479524389,
+      "y": 248.7992603394356,
+      "w": 320,
+      "h": 265,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Feedback",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Dig deeper into research to gather as much information as possible on insurance processes and other relevant elements that could help you build a communication engine.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nlvi0ue8",
+      "x": 8398.820307895034,
+      "y": -966.512952784077,
+      "w": 320,
+      "h": 501,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Research Objective: Insurance Communication & Unconventional Products",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Insurance",
+          "Law",
+          "Administration",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "Need to survey the landscape of insurance types and map the market leaders to understand how they communicate value, trust and risk. Focus on: (1) mainstream insurers — their tone, channels, visual language, and regulatory framing; (2) outlier products or insurers offering non-standard policies (e.g., micro-insurance, parametric, reputation/identity coverage, climate-risk products) to analyse how atypical risks are narrated and sold. Aim to extract communication patterns, persuasive tropes, and positioning strategies that enable or disrupt legitimacy. Methods: desk research, comparative case studies, and semiotic analysis of campaigns and policy language.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nczjjg0m",
+      "x": 8418.504097236395,
+      "y": -183.53185199559834,
+      "w": 320,
+      "h": 468,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Dr. John Gottman’s Love Lab ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "For over forty years, Dr. John Gottman, in collaboration with Dr. Robert Levenson, transformed the study of romantic relationships from an anecdotal field into a predictive science. Through longitudinal studies tracking hundreds of couples—some for decades—they identified measurable physiological and behavioral markers that differentiate thriving relationships from failing ones. Their work established the foundation of modern relationship science, demonstrating that emotional stability, empathy, and physiological regulation can be quantified and used to forecast relational outcomes with striking accuracy.",
+        "links": [
+          "https://psycnet.apa.org/record/2015-25194-005",
+          "https://psicohelp.it/metodo-gottman/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nmdlznj9",
+      "x": 8419.538356033981,
+      "y": 483.9143348305812,
+      "w": 320,
+      "h": 361,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Research Objective: Bureaucracy in Contemporary Interpersonal Relationships",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Sociology",
+          "Law",
+          "Public administration"
+        ],
+        "tags": [],
+        "desc": "Need to investigate how bureaucratic systems intersect with and regulate today’s interpersonal relationships. By mapping these points of insertion, the study aims to understand how bureaucracy transforms intimacy, codifies affect, and translates human connections into measurable, governable interactions.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nps6n1le",
+      "x": 8898.583053277365,
+      "y": -1294.2473928930485,
+      "w": 320,
+      "h": 438,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Lloyd’s of London: The Market of Uninsurable Risks",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Law",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "Lloyd’s of London is not an insurance company but a marketplace where underwriters and brokers gather to insure risks that conventional companies avoid. Its structure allows it to cover the extraordinary: massive infrastructures like oil rigs, aircraft fleets, and global events, as well as complex modern threats such as cyberattacks, political instability, or terrorism. Yet, Lloyd’s is equally known for its eccentricity—policies insuring celebrity body parts, food critics’ taste buds, or even satellite collisions and alien abductions. ",
+        "links": [
+          "https://www.lloyds.com/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nnlzurwy",
+      "x": 8900.822012172246,
+      "y": -805.4532678208964,
+      "w": 320,
+      "h": 445,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Strategies and communication across Insurances",
+        "type": "Source",
+        "action": null,
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "Traditional insurance giants such as Generali, Allianz, and AXA address an older demographic through serious, institutional communication—emphasizing reliability, stability, and expertise. Their tone conveys authority and long-standing trust. In contrast, newer players like Prima, Segugio, and NeN target younger audiences with light-hearted, ironic, and digital-first messaging. Their communication is dynamic, playful, and accessible, often using humor and informal language to demystify the bureaucratic world of insurance. This contrast reveals how tone and identity are strategically adapted to shape perceptions of security across generations.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njbfb8r6",
+      "x": 8828.451879448034,
+      "y": 474.02423275486,
+      "w": 320,
+      "h": 730,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Forms of Bureaucratic Mediation in Relationships",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Public administration",
+          "Law",
+          "Administration",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "\t•\tMarriage → Transforms an emotional bond into a legal contract, defining rights, duties, and fiscal status within a bureaucratic framework.\n\t•\tDivorce → Formalizes the dissolution of a relationship through procedures that regulate property, custody, and legal identity.\n\t•\tWills and Inheritance → Extend relationships beyond life, translating affection and legacy into legal distribution and documentation.\n\t•\tChild Custody after Divorce → Determines parental rights and responsibilities through administrative evaluation and judicial decision-making.\n\t•\tAdoption → Bureaucratizes family creation, turning affection and care into processes of eligibility, verification, and authorization.\n\t•\tRomantic Relationships between Colleagues → Governed by company policies designed to prevent conflicts of interest, power abuse, or liability.\n\t•\tNon-Disclosure Agreements (NDAs) → Convert trust and discretion into legal obligation, institutionalizing silence and loyalty.\n\t•\tProfessional Secrecy → Legally binds professionals (lawyers, doctors, designers) to confidentiality, bureaucratizing ethics and responsibility.\n\t•\tRoyal Families → Symbolize the intersection of lineage, emotion, and governance, where private life is entirely regulated by public protocol.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nuhk0qc3",
+      "x": 8468.23117947954,
+      "y": 1319.3174483091673,
+      "w": 320,
+      "h": 422,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "The Logic of Insurance Contracts",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "An insurance contract functions as a mechanism for risk transfer. The policyholder faces a potential loss—such as a house fire—and seeks protection from its financial consequences. By paying a relatively small premium, the individual delegates that risk to an insurer, who promises to provide a much larger indemnity if the specified adverse event, the claim, occurs. This exchange formalizes uncertainty, transforming fear and chance into contractual language. In essence, insurance converts the unpredictable into an administratively manageable transaction, where security becomes a purchasable, bureaucratized commodity.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nm95qjd6",
+      "x": 10517.681179340234,
+      "y": -474.8931961646018,
+      "w": 320,
+      "h": 618,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Physiological Parameters in Relationship Dynamics",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "The physiological foundation of Gottman and Levenson’s research lies in the concept of Diffuse Physiological Arousal (DPA)—a fight-or-flight state triggered by interpersonal stress. Couples showing sustained activation across multiple physiological channels experienced a measurable decline in marital satisfaction over time, making biological responses stronger predictors than behavior alone. Four key measures defined this model: Cardiovascular Reactivity (heart rate, IBI, HRV)—where higher rates and reduced variability indicated acute stress and poor emotional regulation; Skin Conductance (GSR/SCL)—a sensitive marker of sympathetic activation linked to emotional alertness; Blood Pressure and Pulse Transit Time (PTT)—revealing the cardiovascular cost of conflict, particularly among avoidant partners; and Somatic Activity (ACT)—restlessness reflecting anxiety and tension. The most striking insight emerged from Physiological Linkage: the moment-to-moment covariation of bodily states between partners. Paradoxically, distressed couples displayed stronger synchronization—evidence not of harmony, but of negative co-regulation, where shared stress traps both in a feedback loop of emotional contagion and physiological escalation.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njlffpf3",
+      "x": 10116.469258961612,
+      "y": 496.0589755218342,
+      "w": 320,
+      "h": 523,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Literary Visions of Bureaucratic Control",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Literature",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "Across dystopian literature, bureaucracy becomes the ultimate instrument of emotional and biological governance. In Aldous Huxley’s Brave New World (1932), social stability is achieved through total biopolitical control: emotions are chemically regulated by soma, reproduction is laboratory-planned, and family bonds are eradicated to preserve productivity and obedience. In George Orwell’s 1984 (1949), bureaucratic power extends to the realm of thought—love and personal loyalty are treated as political crimes, and intimacy becomes rebellion against the omnipresent State. In Yevgeny Zamyatin’s We (1924), individuality is mathematically erased: citizens are identified by numbers, transparency replaces privacy, and existence is algorithmically scheduled. Together, these works expose the bureaucratic annihilation of intimacy—where control replaces connection, and affection becomes an act of defiance.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmd7u487",
+      "x": 9305.14584935542,
+      "y": -1293.8639673484804,
+      "w": 320,
+      "h": 730,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Absurd Insurance Policies",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Law",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "\t1.\tChange of Heart Policy – Covers wedding cancellation costs, transforming emotional hesitation into financial risk.\n\t2.\tDeath by Laughter Policy – A theatre company insured against fatal laughter, quantifying humor as potential liability.\n\t3.\tSports Depression Policy – Scottish fans insured themselves against depression if England won the World Cup, translating rivalry into an insurable condition.\n\t4.\tAlien Abduction & Supernatural Policies – Cover damages from alleged encounters with UFOs, ghosts, werewolves, or vampires, merging myth with administrative documentation.\n\t5.\tTaste Bud Insurance – Protects the palate of food critics and tasters, turning sensory expertise into economic capital.\n\t6.\tNose Insurance – Safeguards perfumers’ noses, preserving their professional identity through policy.\n\t7.\tLottery Insurance – Protects employers from operational collapse if staff collectively quit after winning the lottery.\n\t8.\tMultiple Birth Insurance – Supports parents facing unexpected financial strain after the birth of twins or more.\nTogether, these examples reveal how the bureaucratic system of insurance extends into the surreal, converting fear, luck, and emotion into calculable, contractual events.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvk675z3",
+      "x": 8978.504097236395,
+      "y": -238.41375702710593,
+      "w": 320,
+      "h": 556,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Phase 1: The Love Lab and Data Collection Methodology",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "At the core of Gottman’s research was the Love Lab—a simulated apartment at the University of Washington designed to observe couples in a natural, intimate setting. Participants interacted freely while researchers collected synchronized streams of data. Behavioral data were captured through hidden cameras and analyzed via systems like Ekman’s Facial Affect Coding System, decoding facial expressions, tone, and body language. Physiological data—the study’s most groundbreaking contribution—were gathered through biometric sensors tracking heart rate, skin conductance (GSR), blood pressure, and micro-movements as indicators of stress or arousal. Self-reported data complemented these measures: couples turned a dial to rate their emotional state in real time. Together, these layers offered an unprecedented multidimensional view of relational dynamics, merging emotion, body, and perception into measurable patterns.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwkobupb",
+      "x": 9322.78211996963,
+      "y": -237.00020399746543,
+      "w": 320,
+      "h": 523,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Phase 2: The Structured Experimental Protocol",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "To ensure consistency and comparability across participants, Gottman’s studies followed a standardized three-step conversational protocol. After spending at least eight hours apart to make their reunion more emotionally salient, couples engaged in three fifteen-minute discussions: \n1. Daily Events, a neutral exchange used to establish physiological and behavioral baselines; \n2. Conflict Discussion, the central phase, where partners debated a recurring disagreement, serving as an emotional “stress test” to reveal conflict-management patterns and physiological reactivity\n3. Positive Topic, a conversation focused on shared enjoyment or agreement, measuring each couple’s ability to de-escalate tension and repair emotional connection. This structured sequence allowed researchers to capture the full emotional cycle—stability, stress, and recovery—within controlled yet authentic relational dynamics.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvub86c3",
+      "x": 9663.685839503982,
+      "y": -242.13604557141025,
+      "w": 320,
+      "h": 758,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Phase 3: Key Discoveries and the Predictive Model",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "The extensive data collected in Gottman and Levenson’s studies led to groundbreaking discoveries that shaped the foundation of Gottman’s predictive model of relationships.\nThe Physiology of Conflict – “Flooding”: Gottman identified flooding—a diffuse physiological activation (DPA) in which stress hormones like adrenaline surge, pushing heart rate above 100 bpm. In this state, reasoning and empathy collapse; communication becomes physiologically impossible. Flooding often triggers stonewalling, the emotional withdrawal of one partner as a self-protective response. Elevated physiological arousal proved to be a stronger predictor of relational decline than observed behavior alone.\nThe Four Horsemen of the Apocalypse: Gottman isolated four toxic interaction patterns that reliably predict divorce: criticism (attacking character rather than behavior), contempt (moral superiority and ridicule, the strongest predictor), defensiveness (playing the victim or counterattacking), and stonewalling (emotional withdrawal linked to flooding).\nThe Mathematics of Stability – The “Magic Ratio”: Gottman quantified emotional balance, showing that stable couples maintain a ratio of 5 positive interactions for every negative one during conflict, and up to 20:1 outside it. Negative exchanges carry heavier emotional weight, requiring abundant positive moments—affection, humor, empathy—to sustain relational health. Together, these findings established a measurable, physiological model for predicting the future of love.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkec2wyc",
+      "x": 10145.45133586027,
+      "y": -808.6707484716505,
+      "w": 320,
+      "h": 422,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Conclusion: The Measurable Logic of Relationships",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "Gottman’s research ultimately revealed that the fate of a relationship is not mysterious but governed by identifiable and measurable patterns of interaction and physiological reactivity. Success in love does not depend on the absence of conflict, but on a couple’s ability to navigate disagreement without falling into destructive behavioral cycles or being overwhelmed by negative physiological arousal. Emotional intelligence and regulation—rather than passion or compatibility alone—emerge as the true predictors of relational longevity, transforming intimacy into a field where even affection obeys the laws of measurable equilibrium.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n75iibk1",
+      "x": 10028.346211725435,
+      "y": -247.97826078826392,
+      "w": 320,
+      "h": 523,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Phase 4: The Predictive Model of Relationship Outcomes",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "By integrating behavioral, physiological, and emotional data, Gottman synthesized his findings into a predictive model capable of forecasting divorce with over 90% accuracy across multiple studies. The model not only determined if a couple would separate but also when. Two primary trajectories emerged: Early Divorce (on average 5.6 years after marriage), associated with the intense presence of the Four Horsemen—criticism, contempt, defensiveness, and stonewalling—marking relationships dominated by volatility and conflict; and Late Divorce (around 16.2 years after marriage), characterized by emotional disengagement rather than open hostility, as affection and positivity fade into detachment. The model reframed relationship breakdown as a measurable process, revealing how emotional patterns and physiological regulation predict the long-term stability of human bonds.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvaf3sqn",
+      "x": 11593.681179340234,
+      "y": -550.8931961646018,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "OUTPUT",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
         "areas": [],
         "tags": [],
         "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9r7ljtw",
+      "x": 8923.10279568041,
+      "y": 1320.7134696313412,
+      "w": 320,
+      "h": 506,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "The Risk Triangle: The Core of Insurance Logic",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "Every insurance system operates within the Risk Triangle, composed of three interdependent elements.\n\t•\tRisk → The uncertain, potentially harmful future event that the policy seeks to cover. It must be possible but not certain—for example, the end of a relationship, betrayal, or loss of trust.\n\t•\tPremium → The amount paid by the insured to the insurer, calculated statistically. Many pay into the system so that the few who experience loss receive compensation.\n\t•\tPayout (or Indemnity) → The insurer’s obligation if the risk occurs—typically a financial reimbursement, but it can also take the form of a service, such as emotional or psychological support.\nThis triangular structure transforms uncertainty into order, quantifying emotion, damage, and even heartbreak into contractual balance.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npwrviuj",
+      "x": 9294.444467378666,
+      "y": 1449.5447203250108,
+      "w": 320,
+      "h": 388,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "The Subjects of the Insurance Contract",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "An insurance contract can involve up to four distinct actors—sometimes overlapping, sometimes separate:\n\t•\tThe Insurer → The company that assumes the risk and guarantees compensation.\n\t•\tThe Policyholder → The individual or entity who signs the contract and pays the premium.\n\t•\tThe Insured → The person whose interest is protected; the one who would suffer the loss if the event occurred.\n\t•\tThe Beneficiary → The person entitled to receive the indemnity when the risk materializes.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7ipi9bh",
+      "x": 9677.582096054966,
+      "y": 1277.4709996482113,
+      "w": 320,
+      "h": 556,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "How an Insurance Contract Is Established",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "An insurance contract follows a formalized bureaucratic process that translates uncertainty into documentation and liability.\n\t•\tPre-Contractual Phase (Proposal) → The prospective client submits a proposal form requesting coverage.\n\t•\tAnamnestic Questionnaire → The insurer collects detailed personal data—habits, history, and prior incidents—to evaluate honesty and risk. The law obliges the applicant to answer truthfully; any omission or falsehood can void the contract.\n\t•\tRisk Assessment → Based on the information provided, the insurer decides whether to accept the client and at what premium, quantifying personal traits into cost.\n\t•\tPolicy Issuance → Once accepted, the insurer releases the written policy document, the tangible proof of the agreement.\n\t•\tPayment of Premium → The contract becomes active only upon payment of the first premium.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1zjshle",
+      "x": 10044.464950235279,
+      "y": 1271.823239261584,
+      "w": 320,
+      "h": 758,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Fondamental parts",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "\t•\tPremium Calculation → The premium is determined by assessing the level of risk associated with the insured subject. Factors such as age, history, lifestyle, and past incidents are statistically analyzed to translate personal probability into monetary value.\n\t•\tBonus–Malus System → A mechanism that rewards low-risk behavior (bonus) with reduced premiums and penalizes high-risk or repeated claims (malus) with higher ones—bureaucratizing moral conduct into numbers.\n\t•\tPolicy (Polizza) → The formal written document that certifies the existence, terms, and conditions of the insurance contract; the bureaucratic materialization of trust.\n\t•\tMaximum Coverage (Massimale) and Deductible (Franchigia) → The massimale sets the upper limit the insurer will pay, while the franchigia defines the portion of the loss the insured must bear—quantifying protection and vulnerability.\n\t•\tCivil Liability (Responsabilità Civile) → Covers damage caused unintentionally to others, transferring the moral weight of guilt into a compensable legal framework.\n\t•\tExclusions → Specific situations not covered by the policy, outlining the boundaries of what can be insured and what remains beyond bureaucratic control.\n\t•\tDIP (Documento Informativo Precontrattuale) → A pre-contractual information sheet designed to ensure transparency by explaining terms, risks, and rights before signing—an administrative safeguard of informed consent.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6t95pcf",
+      "x": 10485.080494645248,
+      "y": 349.0350788022755,
+      "w": 320,
+      "h": 506,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Cinematic Visions of Bureaucratic Control",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Cinema",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "quantified bureaucracy: every interaction is rated, and one’s numerical score dictates housing, work, and relationships. The final scene—two prisoners freed from ratings—reveals the cathartic liberation found outside bureaucratic judgment. In Yorgos Lanthimos’ The Lobster (2015), love itself is institutionalized: singles are confined to a hotel where they must find a partner within 45 days or be transformed into animals. Compatibility becomes a bureaucratic algorithm—love reduced to shared defects. Finally, Terry Gilliam’s Brazil (1985) imagines a dystopia consumed by paperwork, stamps, and mechanical inefficiency. Bureaucracy crushes imagination and individuality, while power circulates meaninglessly among inept officials. Across these works, bureaucracy emerges as both absurd and tragic—a system that promises order but suffocates humanity in its own regulations",
         "links": [],
         "files": []
       }
@@ -3424,33 +3590,8 @@
       "dashed": false
     },
     {
-      "s": "n5vf0f18",
-      "t": "novblbup",
-      "dashed": false
-    },
-    {
-      "s": "n5vf0f18",
-      "t": "ni3176gn",
-      "dashed": false
-    },
-    {
-      "s": "noz4e8vf",
-      "t": "na535xd9",
-      "dashed": false
-    },
-    {
       "s": "noz4e8vf",
       "t": "nex0urd2",
-      "dashed": false
-    },
-    {
-      "s": "noz4e8vf",
-      "t": "n3e20r3f",
-      "dashed": false
-    },
-    {
-      "s": "noz4e8vf",
-      "t": "nefyeg79",
       "dashed": false
     },
     {
@@ -3531,11 +3672,6 @@
     {
       "s": "nzojt12q",
       "t": "nlkkcro4",
-      "dashed": false
-    },
-    {
-      "s": "n5vf0f18",
-      "t": "n8dupn85",
       "dashed": false
     },
     {
@@ -3700,57 +3836,7 @@
     },
     {
       "s": "nr9tiro7",
-      "t": "n0j75yok",
-      "dashed": false
-    },
-    {
-      "s": "nr9tiro7",
       "t": "n099v6n8",
-      "dashed": false
-    },
-    {
-      "s": "n099v6n8",
-      "t": "n11g6los",
-      "dashed": false
-    },
-    {
-      "s": "n0j75yok",
-      "t": "n11g6los",
-      "dashed": false
-    },
-    {
-      "s": "nr9tiro7",
-      "t": "n11g6los",
-      "dashed": false
-    },
-    {
-      "s": "n11g6los",
-      "t": "n8hb7uxv",
-      "dashed": false
-    },
-    {
-      "s": "n11g6los",
-      "t": "nk3vv9ka",
-      "dashed": false
-    },
-    {
-      "s": "n11g6los",
-      "t": "nr4ozcme",
-      "dashed": false
-    },
-    {
-      "s": "n11g6los",
-      "t": "nfs3igay",
-      "dashed": false
-    },
-    {
-      "s": "n11g6los",
-      "t": "n1ai34af",
-      "dashed": false
-    },
-    {
-      "s": "n11g6los",
-      "t": "nce6l0vb",
       "dashed": false
     },
     {
@@ -3780,42 +3866,7 @@
     },
     {
       "s": "noz4e8vf",
-      "t": "n1df0wjr",
-      "dashed": false
-    },
-    {
-      "s": "n1df0wjr",
-      "t": "nw2945a7",
-      "dashed": false
-    },
-    {
-      "s": "n1df0wjr",
-      "t": "nj49vybu",
-      "dashed": false
-    },
-    {
-      "s": "n1df0wjr",
-      "t": "nkv6za4r",
-      "dashed": false
-    },
-    {
-      "s": "n1df0wjr",
-      "t": "n168z3r9",
-      "dashed": false
-    },
-    {
-      "s": "n1df0wjr",
-      "t": "ndl1wgju",
-      "dashed": false
-    },
-    {
-      "s": "noz4e8vf",
       "t": "nbkbo75y",
-      "dashed": false
-    },
-    {
-      "s": "nbkbo75y",
-      "t": "n1df0wjr",
       "dashed": false
     },
     {
@@ -3884,17 +3935,7 @@
       "dashed": false
     },
     {
-      "s": "n1df0wjr",
-      "t": "nd9mu7zv",
-      "dashed": false
-    },
-    {
       "s": "nd9mu7zv",
-      "t": "najakot8",
-      "dashed": false
-    },
-    {
-      "s": "n1df0wjr",
       "t": "najakot8",
       "dashed": false
     },
@@ -3926,41 +3967,6 @@
     {
       "s": "nr6ljo8b",
       "t": "nxj2hw02",
-      "dashed": false
-    },
-    {
-      "s": "nnmjsmbx",
-      "t": "ndijh5vs",
-      "dashed": false
-    },
-    {
-      "s": "nnmjsmbx",
-      "t": "n7wps6p7",
-      "dashed": false
-    },
-    {
-      "s": "nnmjsmbx",
-      "t": "n9ci03bm",
-      "dashed": false
-    },
-    {
-      "s": "n5vf0f18",
-      "t": "ndijh5vs",
-      "dashed": false
-    },
-    {
-      "s": "n5vf0f18",
-      "t": "n7wps6p7",
-      "dashed": false
-    },
-    {
-      "s": "n5vf0f18",
-      "t": "n9ci03bm",
-      "dashed": false
-    },
-    {
-      "s": "ndijh5vs",
-      "t": "n1y01te4",
       "dashed": false
     },
     {
@@ -4034,21 +4040,6 @@
       "dashed": false
     },
     {
-      "s": "n7wps6p7",
-      "t": "n6brru8k",
-      "dashed": false
-    },
-    {
-      "s": "n7wps6p7",
-      "t": "n3y8h4qs",
-      "dashed": false
-    },
-    {
-      "s": "n7wps6p7",
-      "t": "neo6nj5j",
-      "dashed": false
-    },
-    {
       "s": "n6brru8k",
       "t": "neo6nj5j",
       "dashed": false
@@ -4056,16 +4047,6 @@
     {
       "s": "n3y8h4qs",
       "t": "neo6nj5j",
-      "dashed": false
-    },
-    {
-      "s": "ndijh5vs",
-      "t": "n33ic9u9",
-      "dashed": false
-    },
-    {
-      "s": "ndijh5vs",
-      "t": "n2z9a2d5",
       "dashed": false
     },
     {
@@ -4079,16 +4060,6 @@
       "dashed": false
     },
     {
-      "s": "ndijh5vs",
-      "t": "n53kzafb",
-      "dashed": false
-    },
-    {
-      "s": "n7wps6p7",
-      "t": "njcx9cg8",
-      "dashed": false
-    },
-    {
       "s": "njcx9cg8",
       "t": "n6brru8k",
       "dashed": false
@@ -4099,17 +4070,7 @@
       "dashed": false
     },
     {
-      "s": "n9ci03bm",
-      "t": "n72upnfh",
-      "dashed": false
-    },
-    {
       "s": "n72upnfh",
-      "t": "nanz192r",
-      "dashed": false
-    },
-    {
-      "s": "n9ci03bm",
       "t": "nanz192r",
       "dashed": false
     },
@@ -4131,41 +4092,6 @@
     {
       "s": "ni04g7pj",
       "t": "nn6cejhn",
-      "dashed": false
-    },
-    {
-      "s": "nmv9ntoa",
-      "t": "n8afpo22",
-      "dashed": false
-    },
-    {
-      "s": "n8afpo22",
-      "t": "nqo1mx2w",
-      "dashed": false
-    },
-    {
-      "s": "nqo1mx2w",
-      "t": "nnygzba2",
-      "dashed": false
-    },
-    {
-      "s": "nnygzba2",
-      "t": "n6n1rkg5",
-      "dashed": false
-    },
-    {
-      "s": "n6n1rkg5",
-      "t": "n21o1zh1",
-      "dashed": false
-    },
-    {
-      "s": "n21o1zh1",
-      "t": "nhqqeq9q",
-      "dashed": false
-    },
-    {
-      "s": "nhqqeq9q",
-      "t": "nvr1o4xk",
       "dashed": false
     },
     {
@@ -4204,57 +4130,401 @@
       "dashed": false
     },
     {
+      "s": "n099v6n8",
+      "t": "n8hb7uxv",
+      "dashed": false
+    },
+    {
+      "s": "n099v6n8",
+      "t": "nk3vv9ka",
+      "dashed": false
+    },
+    {
+      "s": "n099v6n8",
+      "t": "n1ai34af",
+      "dashed": false
+    },
+    {
+      "s": "n099v6n8",
+      "t": "nr4ozcme",
+      "dashed": false
+    },
+    {
+      "s": "n099v6n8",
+      "t": "nfs3igay",
+      "dashed": false
+    },
+    {
+      "s": "nbkbo75y",
+      "t": "nkv6za4r",
+      "dashed": false
+    },
+    {
+      "s": "nbkbo75y",
+      "t": "ndl1wgju",
+      "dashed": false
+    },
+    {
+      "s": "nbkbo75y",
+      "t": "n168z3r9",
+      "dashed": false
+    },
+    {
+      "s": "nbkbo75y",
+      "t": "nj49vybu",
+      "dashed": false
+    },
+    {
+      "s": "nbkbo75y",
+      "t": "nw2945a7",
+      "dashed": false
+    },
+    {
+      "s": "nkv6za4r",
+      "t": "nd9mu7zv",
+      "dashed": false
+    },
+    {
+      "s": "ndl1wgju",
+      "t": "nd9mu7zv",
+      "dashed": false
+    },
+    {
+      "s": "n168z3r9",
+      "t": "nd9mu7zv",
+      "dashed": false
+    },
+    {
+      "s": "nj49vybu",
+      "t": "nd9mu7zv",
+      "dashed": false
+    },
+    {
+      "s": "nw2945a7",
+      "t": "nd9mu7zv",
+      "dashed": false
+    },
+    {
+      "s": "nia9sppq",
+      "t": "nawaaze3",
+      "dashed": false
+    },
+    {
+      "s": "nij45h41",
+      "t": "nawaaze3",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "n72upnfh",
+      "dashed": false
+    },
+    {
+      "s": "nnmjsmbx",
+      "t": "n72upnfh",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "njcx9cg8",
+      "dashed": false
+    },
+    {
+      "s": "nnmjsmbx",
+      "t": "njcx9cg8",
+      "dashed": false
+    },
+    {
+      "s": "n6brru8k",
+      "t": "n3y8h4qs",
+      "dashed": false
+    },
+    {
+      "s": "nnmjsmbx",
+      "t": "n33ic9u9",
+      "dashed": false
+    },
+    {
+      "s": "n5vf0f18",
+      "t": "n33ic9u9",
+      "dashed": false
+    },
+    {
+      "s": "n33ic9u9",
+      "t": "nx9lyg0m",
+      "dashed": false
+    },
+    {
+      "s": "nx9lyg0m",
+      "t": "n2z9a2d5",
+      "dashed": false
+    },
+    {
+      "s": "n33ic9u9",
+      "t": "n2z9a2d5",
+      "dashed": false
+    },
+    {
+      "s": "n33ic9u9",
+      "t": "n1y01te4",
+      "dashed": false
+    },
+    {
+      "s": "n53kzafb",
+      "t": "n1y01te4",
+      "dashed": false
+    },
+    {
+      "s": "nscfpivt",
+      "t": "nh307m48",
+      "dashed": false
+    },
+    {
+      "s": "najakot8",
+      "t": "nuigem8f",
+      "dashed": false
+    },
+    {
       "s": "nldpevvs",
-      "t": "nv4hz9gn",
+      "t": "nuigem8f",
+      "dashed": false
+    },
+    {
+      "s": "nq2vfoit",
+      "t": "nuigem8f",
+      "dashed": false
+    },
+    {
+      "s": "nuigem8f",
+      "t": "nlvi0ue8",
+      "dashed": false
+    },
+    {
+      "s": "nuigem8f",
+      "t": "nczjjg0m",
+      "dashed": false
+    },
+    {
+      "s": "nuigem8f",
+      "t": "nmdlznj9",
+      "dashed": false
+    },
+    {
+      "s": "nlvi0ue8",
+      "t": "nps6n1le",
+      "dashed": false
+    },
+    {
+      "s": "nlvi0ue8",
+      "t": "nnlzurwy",
+      "dashed": false
+    },
+    {
+      "s": "nmdlznj9",
+      "t": "njbfb8r6",
+      "dashed": false
+    },
+    {
+      "s": "nuigem8f",
+      "t": "nuhk0qc3",
+      "dashed": false
+    },
+    {
+      "s": "nczjjg0m",
+      "t": "nm95qjd6",
+      "dashed": false
+    },
+    {
+      "s": "nuigem8f",
+      "t": "njlffpf3",
+      "dashed": false
+    },
+    {
+      "s": "nps6n1le",
+      "t": "nmd7u487",
+      "dashed": false
+    },
+    {
+      "s": "nczjjg0m",
+      "t": "nvk675z3",
+      "dashed": false
+    },
+    {
+      "s": "nczjjg0m",
+      "t": "nwkobupb",
+      "dashed": false
+    },
+    {
+      "s": "nczjjg0m",
+      "t": "nvub86c3",
+      "dashed": false
+    },
+    {
+      "s": "nczjjg0m",
+      "t": "nkec2wyc",
+      "dashed": false
+    },
+    {
+      "s": "nvk675z3",
+      "t": "nwkobupb",
+      "dashed": false
+    },
+    {
+      "s": "nwkobupb",
+      "t": "nvub86c3",
+      "dashed": false
+    },
+    {
+      "s": "nvk675z3",
+      "t": "nkec2wyc",
+      "dashed": false
+    },
+    {
+      "s": "nwkobupb",
+      "t": "nkec2wyc",
+      "dashed": false
+    },
+    {
+      "s": "nvub86c3",
+      "t": "nkec2wyc",
+      "dashed": false
+    },
+    {
+      "s": "nvub86c3",
+      "t": "n75iibk1",
+      "dashed": false
+    },
+    {
+      "s": "n75iibk1",
+      "t": "nkec2wyc",
+      "dashed": false
+    },
+    {
+      "s": "nvub86c3",
+      "t": "nm95qjd6",
+      "dashed": false
+    },
+    {
+      "s": "nwkobupb",
+      "t": "nm95qjd6",
+      "dashed": false
+    },
+    {
+      "s": "nkec2wyc",
+      "t": "nm95qjd6",
+      "dashed": false
+    },
+    {
+      "s": "nvk675z3",
+      "t": "nm95qjd6",
+      "dashed": false
+    },
+    {
+      "s": "nm95qjd6",
+      "t": "nvaf3sqn",
+      "dashed": false
+    },
+    {
+      "s": "nkec2wyc",
+      "t": "nvaf3sqn",
+      "dashed": false
+    },
+    {
+      "s": "nuhk0qc3",
+      "t": "n9r7ljtw",
+      "dashed": false
+    },
+    {
+      "s": "nuhk0qc3",
+      "t": "npwrviuj",
+      "dashed": false
+    },
+    {
+      "s": "nuhk0qc3",
+      "t": "n7ipi9bh",
+      "dashed": false
+    },
+    {
+      "s": "n9r7ljtw",
+      "t": "npwrviuj",
+      "dashed": false
+    },
+    {
+      "s": "npwrviuj",
+      "t": "n7ipi9bh",
+      "dashed": false
+    },
+    {
+      "s": "nuhk0qc3",
+      "t": "n1zjshle",
+      "dashed": false
+    },
+    {
+      "s": "n9r7ljtw",
+      "t": "n1zjshle",
+      "dashed": false
+    },
+    {
+      "s": "npwrviuj",
+      "t": "n1zjshle",
+      "dashed": false
+    },
+    {
+      "s": "n7ipi9bh",
+      "t": "n1zjshle",
+      "dashed": false
+    },
+    {
+      "s": "njlffpf3",
+      "t": "n6t95pcf",
+      "dashed": false
+    },
+    {
+      "s": "nuigem8f",
+      "t": "n6t95pcf",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Design research",
-      "Sociology",
-      "Envirionment",
-      "Spatial design",
-      "Cultural studies",
-      "Hystory",
-      "Philosophy",
-      "Installation",
-      "Art",
-      "Photography",
-      "Documentary",
-      "Semantic research",
-      "Feelings",
-      "Literature",
-      "Definition",
-      "Emotional response",
-      "Media studies",
-      "Conflict",
-      "Critical design",
-      "Communication",
       "Socio-political",
       "Law",
+      "Identity",
+      "Public administration",
+      "Science",
+      "Communication",
+      "Conflict",
+      "Hystory",
+      "Media studies",
+      "Cultural studies",
+      "Critical design",
+      "Spatial design",
+      "Design research",
+      "Philosophy",
+      "Envirionment",
       "Power",
-      "Public administration"
+      "Administration",
+      "Insurance",
+      "Literature",
+      "Sociology",
+      "Cinema"
     ],
     "tags": [
-      "Feelings",
-      "Emotion",
-      "Social tension",
-      "Opposition",
-      "Conflict",
+      "Power abuse",
       "Corruption",
-      "Power abuse"
+      "Conflict",
+      "Opposition",
+      "Social tension",
+      "Emotion",
+      "Feelings"
     ],
     "type": [
-      "Research",
-      "Collection",
-      "Moodboard",
-      "Conclusione",
-      "Observation",
-      "Source",
-      "Concept",
       "Feedback",
-      "Brief"
+      "Concept",
+      "Observation",
+      "Brief",
+      "Source",
+      "Collection"
     ]
   }
 }

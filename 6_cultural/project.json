@@ -1022,7 +1022,7 @@
       "x": 2208.9475485804796,
       "y": -718.505203013334,
       "w": 320,
-      "h": 584,
+      "h": 551,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -2397,10 +2397,10 @@
     },
     {
       "id": "n453t6qy",
-      "x": 9239.188905592582,
-      "y": 2390.5872204772854,
+      "x": 9105.45870299,
+      "y": 2414.1866679953882,
       "w": 320,
-      "h": 704,
+      "h": 534,
       "group": null,
       "data": {
         "date": "2025-10-28",
@@ -2412,16 +2412,7 @@
         "tags": [],
         "desc": "The selected palette uses artificial, laboratory-style colors to reflect the tension between the cold, stable environment and the vibrant, yet preserved, cultural material.\n\n- Ice White: Represents the preservation medium (ice) and the pristine, sterile environment of cryopreservation.\n\n- Chemical Orange: The warm, organic color of the living cultures (the human element), made artificial and highly saturated to signify that the culture has been denatured (preserved/frozen).\n\n- Deep Blue: signifies the institutional, static, and calm nature of NGOs (Non-Governmental Organizations). Primarily used to convey trust and reliability.\n\n- Dark Gray: conveys institutional seriousness and a formal, protocol-driven approach.\n\n- Sky blue: used to balance the dark tones and symbolize medicine/science and hope.\n",
         "links": [],
-        "files": [
-          {
-            "name": "Frame.png",
-            "size": 57578,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/Frame.jpg"
-          }
-        ]
+        "files": []
       }
     },
     {
@@ -2429,11 +2420,11 @@
       "x": 8352.77825832998,
       "y": 1144.3321096413586,
       "w": 320,
-      "h": 916,
+      "h": 917,
       "group": null,
       "data": {
         "date": "2025-10-28",
-        "title": "The Ethical Cabinet",
+        "title": "The Ethical Cabinet(descarted)",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": null,
@@ -2530,7 +2521,7 @@
       "x": 9851.199937069909,
       "y": 2840.0218361535844,
       "w": 320,
-      "h": 770,
+      "h": 618,
       "group": null,
       "data": {
         "date": "2025-10-28",
@@ -2545,14 +2536,6 @@
         "desc": "The UNEC logo combines two shapes: a snowflake and a house. The snowflake represents cryopreservation, the vital suspension necessary to preserve what is at risk of extinction.\nThe house, on the other hand, evokes protection, belonging, and shared memory. Together, these symbols convey UNEC's mission: to offer a safe haven to threatened cultures, preserving their identity and complexity over time.",
         "links": [],
         "files": [
-          {
-            "name": "Frame.png",
-            "size": 38961,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/Frame.jpg"
-          },
           {
             "name": "Frame 1.png",
             "size": 138533,
@@ -2588,14 +2571,14 @@
     },
     {
       "id": "nxysa265",
-      "x": 10418.277657848452,
+      "x": 10420.388414210214,
       "y": 2390.7814409963466,
       "w": 320,
       "h": 623,
       "group": null,
       "data": {
         "date": "2025-10-28",
-        "title": "Social media communication",
+        "title": "Social media communication(descarted)",
         "type": "Concept",
         "action": "Exploring",
         "mainArea": null,
@@ -2637,6 +2620,441 @@
         "desc": "",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "ngwhljje",
+      "x": 10990.402718276144,
+      "y": 2174.2250703376685,
+      "w": 320,
+      "h": 585,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "UNEC",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Inspired by ice and frozen aesthetic and image manipulation through gradient and effects",
+        "links": [],
+        "files": [
+          {
+            "name": "moodboard prop 2.png",
+            "size": 22767893,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/moodboard_prop_2.jpg"
+          },
+          {
+            "name": "font 1.png",
+            "size": 2143041,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/font_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nigmgfkx",
+      "x": 10939.323080992785,
+      "y": 2961.227181595688,
+      "w": 320,
+      "h": 585,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "ECP",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Inspured by chemicals used in the laboratory and the alarmant feeling used by modern ONGs",
+        "links": [],
+        "files": [
+          {
+            "name": "moodboard.png",
+            "size": 11639479,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/moodboard.jpg"
+          },
+          {
+            "name": "font.png",
+            "size": 3112599,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/font.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nuoz9o75",
+      "x": 11442.224134785307,
+      "y": 2214.418157677013,
+      "w": 320,
+      "h": 350,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Usage",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "poster 1.png",
+            "size": 31148890,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/poster_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n70wd0wx",
+      "x": 11375.961085982603,
+      "y": 3030.245357856506,
+      "w": 320,
+      "h": 391,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Usage",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Poster",
+        "links": [],
+        "files": [
+          {
+            "name": "poster 2.png",
+            "size": 25713988,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/poster_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnyt5jjq",
+      "x": 9003.902301837756,
+      "y": 1770.113688910308,
+      "w": 320,
+      "h": 526,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Cryometer",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "The user selects a culture from those offered on the screen. The device consists of three knobs, each associated with a parameter that indicates that culture's conflict condition. The user sets a value for each knob. The machine estimates the cryogenesis time by averaging the parameters. During the interaction, a visualization will be visible on the screen, featuring distortions that vary according to the parameters entered",
+        "links": [],
+        "files": [
+          {
+            "name": "Frame-1.png",
+            "size": 1800388,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Frame-1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3rwqok2",
+      "x": 10541.797202536398,
+      "y": 1086.9016857292045,
+      "w": 320,
+      "h": 576,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Cryocare",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "The device is activated by the warmth of the user’s hands. One of the available avatars from a cryopreserved culture appears (selected at random). The avatar has specific needs to be fulfilled, depending on their culture (e.g., eating traditional food, dressing in customary clothing, performing rituals or traditions). Once these needs are met, the user gains the avatar’s trust and can learn the reason behind their cryopreservation. At the end, the user can leave a voice message that will be recorded and translated into the avatar’s language, so that it can be heard in the future when the person is revived.",
+        "links": [],
+        "files": [
+          {
+            "name": "Frame.png",
+            "size": 2398013,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Frame.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxrm7yfe",
+      "x": 12177.785793066607,
+      "y": 2778.4939183441734,
+      "w": 320,
+      "h": 378,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "Moodboard",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Design research"
+        ],
+        "tags": [
+          "Source"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "moodboard.png",
+            "size": 10814478,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/moodboard.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwq55jfa",
+      "x": 12689.236065389287,
+      "y": 2813.8200540523017,
+      "w": 320,
+      "h": 320,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "-.png",
+            "size": 80795,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/-.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nh97x6a2",
+      "x": 12037.35320668681,
+      "y": 3281.3643281201535,
+      "w": 320,
+      "h": 1032,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "Concept",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Design research"
+        ],
+        "tags": [],
+        "desc": "The concept comes from the identity of ONGs like ONU. ",
+        "links": [],
+        "files": [
+          {
+            "name": "goodify_1920x1040_with_copy.png",
+            "size": 1387901,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/goodify_1920x1040_with_copy.jpg"
+          },
+          {
+            "name": "0546070001418911941_0.png",
+            "size": 489692,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/0546070001418911941_0.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-07 at 09.15.25 1.png",
+            "size": 6139000,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-07_at_09.15.25_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nf31ns3s",
+      "x": 13194.832395723282,
+      "y": 2540.7107876631826,
+      "w": 320,
+      "h": 1278,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "--1.png",
+            "size": 1337976,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/--1.jpg"
+          },
+          {
+            "name": "--2.png",
+            "size": 1449301,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/--2.jpg"
+          },
+          {
+            "name": "--3.png",
+            "size": 604935,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/--3.jpg"
+          },
+          {
+            "name": "--4.png",
+            "size": 1431353,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/--4.jpg"
+          },
+          {
+            "name": "altre prove.png",
+            "size": 27173193,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/altre_prove.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0m45b8f",
+      "x": 11385.277612964508,
+      "y": 1426.7240205918658,
+      "w": 320,
+      "h": 314,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "omini.png",
+            "size": 136908,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/omini.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nus04p31",
+      "x": 11425.888090929855,
+      "y": 1004.1532546486947,
+      "w": 320,
+      "h": 314,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "applicazione.png",
+            "size": 331354,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/applicazione.jpg"
+          }
+        ]
       }
     }
   ],
@@ -3250,34 +3668,120 @@
       "s": "n5bl14qz",
       "t": "n4bgal0g",
       "dashed": false
+    },
+    {
+      "s": "nxysa265",
+      "t": "ngwhljje",
+      "dashed": false
+    },
+    {
+      "s": "nxysa265",
+      "t": "nigmgfkx",
+      "dashed": false
+    },
+    {
+      "s": "ngwhljje",
+      "t": "nuoz9o75",
+      "dashed": false
+    },
+    {
+      "s": "nigmgfkx",
+      "t": "n70wd0wx",
+      "dashed": false
+    },
+    {
+      "s": "nd1eepiv",
+      "t": "n3rwqok2",
+      "dashed": false
+    },
+    {
+      "s": "nd1eepiv",
+      "t": "nnyt5jjq",
+      "dashed": false
+    },
+    {
+      "s": "na2mxg7s",
+      "t": "nxrm7yfe",
+      "dashed": false
+    },
+    {
+      "s": "nuoz9o75",
+      "t": "nxrm7yfe",
+      "dashed": false
+    },
+    {
+      "s": "n70wd0wx",
+      "t": "nxrm7yfe",
+      "dashed": false
+    },
+    {
+      "s": "nxrm7yfe",
+      "t": "nwq55jfa",
+      "dashed": false
+    },
+    {
+      "s": "n70wd0wx",
+      "t": "nwq55jfa",
+      "dashed": false
+    },
+    {
+      "s": "nuoz9o75",
+      "t": "nwq55jfa",
+      "dashed": false
+    },
+    {
+      "s": "nh97x6a2",
+      "t": "nwq55jfa",
+      "dashed": false
+    },
+    {
+      "s": "nwq55jfa",
+      "t": "nf31ns3s",
+      "dashed": false
+    },
+    {
+      "s": "nh97x6a2",
+      "t": "nf31ns3s",
+      "dashed": false
+    },
+    {
+      "s": "n3rwqok2",
+      "t": "n0m45b8f",
+      "dashed": false
+    },
+    {
+      "s": "n3rwqok2",
+      "t": "nus04p31",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Machine",
-      "People",
       "Design research",
+      "Branding",
       "Communication",
+      "People",
       "Media studies",
       "Amare i robot?",
       "Critical theory",
       "Conflicts",
-      "Culture",
       "Critical design",
       "Socio-political",
-      "Socio-cultural"
+      "Socio-cultural",
+      "Machine"
     ],
     "tags": [
-      "Wwf",
       "Source",
       "Limited scope",
       "Discarded",
       "Already explored"
     ],
     "type": [
-      "Concept",
+      "Sketch",
       "Output",
+      "Concept",
       "Source",
+      "Artefact",
       "Case study",
       "Finding",
       "Brief",
