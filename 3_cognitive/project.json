@@ -2532,33 +2532,33 @@
     },
     {
       "id": "nxabmofp",
-      "x": 20184.565288177313,
-      "y": 2140.237508258741,
+      "x": 21520.49174500924,
+      "y": 1039.9516132334572,
       "w": 320,
       "h": 191,
       "group": null,
       "data": {
-        "date": "2025-10-05",
+        "date": "2025-11-05",
         "title": "",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "nuovo output più provocatorio post revisione casco conchiglia, schizzi, ",
+        "desc": "nuovo output più provocatorio post revisione casco, schizzi, ",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ndm2t4kq",
-      "x": 20663.56733185799,
-      "y": 2006.6982775195993,
+      "x": 18328.632608551718,
+      "y": 843.4314585865693,
       "w": 320,
       "h": 175,
       "group": null,
       "data": {
-        "date": "2025-11-05",
+        "date": "2025-10-30",
         "title": "",
         "type": "",
         "action": null,
@@ -2572,28 +2572,38 @@
     },
     {
       "id": "nytjxngv",
-      "x": 17276.62838765155,
-      "y": 2481.5702473981123,
+      "x": 17286.023582419304,
+      "y": 2420.501481407697,
       "w": 320,
-      "h": 255,
+      "h": 644,
       "group": null,
       "data": {
-        "date": "2025-10-31",
-        "title": "revisione",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "nuovo nome azienda, manca provocazione, riferimenti sony + prevalenti, non perdere di vista messaggio di disagio del confronto -> confronto va evitato, iniziare a sviluppare parte tecnica\n",
+        "date": "2025-10-28",
+        "title": "First branding review",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Neuroscience",
+          "Society studies",
+          "Design research",
+          "Critical design",
+          "Digital aesthetics"
+        ],
+        "tags": [
+          "Branding",
+          "Isolation",
+          "Protection"
+        ],
+        "desc": "The proposed company name lacks sufficient provocation. Currently, the Sony-related references are most relevant visual-wise. The aesthetic requires a shift toward being less gentle to better convey an optimistic technological outlook that prioritizes functional emergence over other concerns. It's advisable to avoid the issue of comparative messaging altogether, rather than adopting a 'caring against noise' approach that risks conflating with genuine positive or wellbeing narratives. Furthermore, an excessive focus on the sea motif may inadvertently lead the brand discourse toward themes of sustainability. The graphic aspects of Sony's communication are highly effective in conveying their message and should be utilized as a direct source of inspiration and adaptation. Crucially, the core message regarding the discomfort of comparison must not be overlooked; the brand should clearly communicate that comparison is to be avoided. It is time to initiate the development of the technical component of the product narrative.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n9l3k7f4",
-      "x": 17796.96254887197,
-      "y": 1998.9321456025928,
+      "x": 19498.796926448842,
+      "y": 2124.430278073491,
       "w": 320,
       "h": 175,
       "group": null,
@@ -2612,8 +2622,8 @@
     },
     {
       "id": "n40et86f",
-      "x": 19268.92822763996,
-      "y": 2323.4450271999426,
+      "x": 21179.783762738418,
+      "y": 2529.8217257813913,
       "w": 320,
       "h": 175,
       "group": null,
@@ -2632,8 +2642,8 @@
     },
     {
       "id": "n8q3l7ie",
-      "x": 18227.07599736744,
-      "y": 2032.5710539326167,
+      "x": 20166.199817778088,
+      "y": 2273.1806275547165,
       "w": 320,
       "h": 175,
       "group": null,
@@ -2652,48 +2662,76 @@
     },
     {
       "id": "n3vdq6k3",
-      "x": 19750.895715578245,
-      "y": 2043.5771677029084,
+      "x": 21095.06328473076,
+      "y": 769.9595003029176,
       "w": 320,
-      "h": 238,
+      "h": 790,
       "group": null,
       "data": {
         "date": "2025-11-04",
-        "title": "presentazione",
-        "type": "",
+        "title": "Presentation review",
+        "type": "Feedback",
         "action": null,
         "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "inspo più provocatorie di forma, decidere una strada: gioiello-amuleto o effettivamente dispositivo tecnologico? (qui ci hanno detto di ugo la pietra, etc.)",
+        "areas": [
+          "Human-computer interaction",
+          "Neuroscience",
+          "Brain interfaces",
+          "Design research",
+          "Communication"
+        ],
+        "tags": [
+          "Isolation",
+          "Output",
+          "Confrontation",
+          "Sound",
+          "Opaque film",
+          "Protection"
+        ],
+        "desc": "The connotative approach requires increased provocation, drawing inspiration from examples such as the Zimoun kinetic headphone installation or the work of Ugo La Pietra.\n\nThe brand narrative must be corrected from the outset: if the product is a wearable, the brand should enter the market by proposing a kind of technological \"amulet\" or \"jewel\" designed for self-protection.\n\nIf the product is a helmet, it must be intensely provocative and possess strong communicative power due to its physical dimension.\n\nIf the product is lighter (a jewel), careful consideration must be given to managing every component (e.g., routing cables through transparent tubing).\n\nMaterial Considerations: Material choices should be evaluated (e.g., non-rigid, 3D-printed jewelry as seen in the work of Monica Castiglioni).\n\nA critical decision must be made: selecting the path based on whether the aesthetic is fundamentally organic or decisively technological. Working on the brand identity will follow this decision.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nypc5xu4",
-      "x": 20942.735520248858,
-      "y": 2291.169690465103,
+      "x": 19034.911916511002,
+      "y": 1091.8793694991944,
       "w": 320,
-      "h": 305,
+      "h": 488,
       "group": null,
       "data": {
-        "date": "2025-11-07",
-        "title": "revisione",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "manca storyboard exp, valutare prodotto con tessuto, qualcosa di più aderente, meno conchiglia e magari riprendere trama metallica poster e moodboard. prime idee su come implementare trasduttori per il suono. Rivedere identità visive rendendole più tech, semplificando il più possibile e trovando elementi utili sfruttabili\n",
+        "date": "2025-10-31",
+        "title": "shell-helmet output feedback",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design research",
+          "Communication",
+          "Neuroscience",
+          "Brain interfaces",
+          "Human-computer interaction"
+        ],
+        "tags": [
+          "Shell",
+          "Protection",
+          "Confrontation",
+          "Output",
+          "Organic",
+          "Sea",
+          "Sound",
+          "Isolation"
+        ],
+        "desc": "The product focus shifts to a wearable managed by an app. Bone vibrators are suggested for cost/form factor. The key narrative is the Proximity Sensor: it creates a \"personal bubble\" that triggers noise when invaded (frontally detected), demonizing physical and mental confrontation. Durability and versatility remain vital. The object should be hollow, potentially shoulder-mounted for adaptability. The core message mustn't be lost\n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nxg2jra8",
-      "x": 22034.23708670174,
-      "y": 2058.940397523289,
+      "x": 23265.414673354942,
+      "y": 686.5851999170859,
       "w": 320,
       "h": 208,
       "group": null,
@@ -2712,8 +2750,8 @@
     },
     {
       "id": "nn6zfgx4",
-      "x": 21984.02769098211,
-      "y": 2446.30383661665,
+      "x": 22918.47711901579,
+      "y": 2320.538293021516,
       "w": 320,
       "h": 208,
       "group": null,
@@ -2732,8 +2770,8 @@
     },
     {
       "id": "nkw08phq",
-      "x": 22445.124442365133,
-      "y": 2266.610472436063,
+      "x": 23303.144008993044,
+      "y": 2114.278883379197,
       "w": 320,
       "h": 225,
       "group": null,
@@ -2752,28 +2790,42 @@
     },
     {
       "id": "np5fz7aj",
-      "x": 22906.64618750317,
-      "y": 1972.830477432599,
+      "x": 23796.401190637254,
+      "y": 1176.7310771584055,
       "w": 320,
-      "h": 272,
+      "h": 773,
       "group": null,
       "data": {
         "date": "2025-11-11",
-        "title": "revisione",
-        "type": "",
+        "title": "Provocative communication and output review",
+        "type": "Feedback",
         "action": null,
         "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "tipografia inutilmente pesante, armor nuovo nome prodotto per legarlo di più al concetto di protezione e difesa. Output poco provocatorio, suono disturbante invece che calmo e basta, lobotomia. (revisione distruttiva)",
+        "areas": [
+          "Critical design",
+          "Human-computer interaction",
+          "Brain interfaces",
+          "Design research",
+          "Communication"
+        ],
+        "tags": [
+          "Output",
+          "Branding",
+          "Protection",
+          "Isolation",
+          "Calming",
+          "Sound",
+          "White noise"
+        ],
+        "desc": "The communication requires significantly more direct and incisive phrasing, as the current sentences are excessively long. The typography should be more streamlined and clean, as its current weight is unnecessarily heavy. The symbol needs greater coherence in terms of curvature and stroke thickness; the symbol of uniting circles should be thinned. Detailed curve points in the logotype contribute to the font's excessive weight.\n\nA more suitable name would be one that alludes to a tool of protection and defense, such as \"Armor.\" \n\nThe current output remains insufficiently provocative. To introduce provocation, two paths are suggested: either through the physical form of the product or through its function, leading to an unexpected or disturbing effect. The product should be designed to intentionally create a secondary problem. For instance, the sound function could be disruptive or generate an adverse reaction. This inherent provocation should be integrated into the product itself. The concept should be analyzed through the lens of extreme measures, such as the example of lobotomy (a practice used as the only way to suppress thoughts).",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n8aa0mh0",
-      "x": 23350.006863383427,
-      "y": 1686.5799175302689,
+      "x": 24287.865580711907,
+      "y": 1601.6155504211833,
       "w": 320,
       "h": 238,
       "group": null,
@@ -2792,8 +2844,8 @@
     },
     {
       "id": "nrzfm982",
-      "x": 23364.73599215603,
-      "y": 2258.8249407262338,
+      "x": 24481.475307109697,
+      "y": 2086.639049609122,
       "w": 320,
       "h": 255,
       "group": null,
@@ -2812,8 +2864,8 @@
     },
     {
       "id": "nzosf7qc",
-      "x": 24652.28723912868,
-      "y": 1989.1066627511773,
+      "x": 25273.63873679952,
+      "y": 1415.824033270891,
       "w": 320,
       "h": 326,
       "group": null,
@@ -2832,8 +2884,8 @@
     },
     {
       "id": "n9kuj691",
-      "x": 25286.764477798817,
-      "y": 1700.0851012482347,
+      "x": 25678.08659783224,
+      "y": 1399.5639665605336,
       "w": 320,
       "h": 322,
       "group": null,
@@ -2852,8 +2904,8 @@
     },
     {
       "id": "n2rsm7f6",
-      "x": 25292.912987946278,
-      "y": 2112.03528112831,
+      "x": 25702.14459637203,
+      "y": 1840.1693278683365,
       "w": 320,
       "h": 591,
       "group": null,
@@ -2872,28 +2924,39 @@
     },
     {
       "id": "niqgebug",
-      "x": 25587.728400401844,
-      "y": 2814.8625125341996,
+      "x": 25563.06614737244,
+      "y": 299.03292641852636,
       "w": 320,
-      "h": 255,
+      "h": 967,
       "group": null,
       "data": {
         "date": "2025-11-14",
-        "title": "revisione",
+        "title": "New concept review",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
-        "tags": [],
-        "desc": "Rifa casco, usare ugo la pietra come inspo\nleggermente + umanità\ncreare falso piacere (stondamenti, etc.)\nartefatti extra che possano avere senso",
+        "tags": [
+          "Sound",
+          "Disturbing",
+          "Isolation",
+          "Calming",
+          "Opaque film",
+          "Output",
+          "Branding",
+          "Swiss design",
+          "Blur",
+          "Grotesque typography"
+        ],
+        "desc": "The modified scenarios and \"what if\" situations are highly effective and should, at times, be synthesized to the maximum extent. \nThe current communication apparatus is insufficient; the reference to the boxes is intended to convey a clear message externally. Focus must be placed on rendering this message visually compelling.\n\nThe cognitive conflict is explicitly provoked by the relationship with others, leading to the impulse toward isolation. The product currently communicates only with the individual user; there is potential to implement a component that communicates with others as well.\n\nKey visual and functional concepts include the total obscuration effect seen in Ugo la Pietra's helmet. The most critical functional aspect is shielding from the external environment. Visual cues such as squeezing the temples should be explored.\n\nMaterial and visual dualities are effective: Chaos can be represented by opacity, while solitude can be represented by transparency. \n\nThe brand narrative should reference discussions on isolation and focus on the user's relational discomfort.\n\nFor communication, the focus should be on creating false pleasure. While avoiding a \"warm\" tone, a subtle degree of warmth is needed. \n\nCommunication Artifacts: Beyond essential social media and the website, develop a list of meaningful communication artifacts: fake related sub-products like home accessories, comfort elements for the home, collaborations, and items that speak about the brand without being the brand. Create a list of scenario elements leading to a categorized list of artifacts. The brand may decide to operate exclusively as an e-commerce platform. The slogan \"better alone than in bad company\" is a viable concept.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nuszry6e",
-      "x": 26249.351585307802,
-      "y": 2078.0503275233696,
+      "x": 26279.589423991958,
+      "y": 915.755532236585,
       "w": 320,
       "h": 191,
       "group": null,
@@ -2912,8 +2975,8 @@
     },
     {
       "id": "nt5l7bsl",
-      "x": 26192.17140096952,
-      "y": 1689.7078734434851,
+      "x": 26738.663686083157,
+      "y": 1434.9759506698892,
       "w": 320,
       "h": 208,
       "group": null,
@@ -2932,8 +2995,8 @@
     },
     {
       "id": "nj545f68",
-      "x": 26701.5648676883,
-      "y": 2359.785882734623,
+      "x": 26813.331294579235,
+      "y": 1144.4891305839446,
       "w": 320,
       "h": 242,
       "group": null,
@@ -2952,8 +3015,8 @@
     },
     {
       "id": "nublc4i8",
-      "x": 26915.798727930818,
-      "y": 1777.6158556231524,
+      "x": 27418.93515109803,
+      "y": 1510.0750591770948,
       "w": 320,
       "h": 175,
       "group": null,
@@ -2972,8 +3035,8 @@
     },
     {
       "id": "n7q1zq1z",
-      "x": 27357.131915588918,
-      "y": 1974.7507328034478,
+      "x": 27876.240923618585,
+      "y": 1819.0180303945485,
       "w": 320,
       "h": 208,
       "group": null,
@@ -2992,8 +3055,8 @@
     },
     {
       "id": "nmvgfitc",
-      "x": 28252.481816758012,
-      "y": 2112.8376110015406,
+      "x": 28528.008905635295,
+      "y": 2072.906148845412,
       "w": 320,
       "h": 191,
       "group": null,
@@ -3015,25 +3078,37 @@
       "x": 28339.254391110866,
       "y": 2556.896934337953,
       "w": 320,
-      "h": 238,
+      "h": 464,
       "group": null,
       "data": {
         "date": "2025-11-21",
-        "title": "revisione",
-        "type": "",
+        "title": "Preliminary prototyping review",
+        "type": "Feedback",
         "action": null,
         "mainArea": null,
         "areas": [],
-        "tags": [],
-        "desc": "più caratterizzazione prodotto per rendere estremamente evidente provocazione, che può passare anche attraverso logotipo prodotto. ",
+        "tags": [
+          "Grotesque typography",
+          "Blur",
+          "Branding",
+          "Output",
+          "Opaque film",
+          "Calming",
+          "Isolation",
+          "Sound",
+          "Confrontation",
+          "Disturbing",
+          "Swiss design"
+        ],
+        "desc": "For E-den, the design requires a more coherent characterization linked to the brain. In addition to the bone transducers, other protrusions could be incorporated to secure the helmet. The objective is to bring forward proposals for physical development: specifically, utilizing rods/spikes as elements that can also evoke the concept of isolation. Further refinement proposals for the Armor brand mark should be prepared, while the E-den mark can remain as is. Detailed microscopic parameters can be distributed across the visual field",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n8f7gtqz",
-      "x": 28636.159260269917,
-      "y": 1914.1567737472599,
+      "x": 28899.70691050036,
+      "y": 1782.3829486320374,
       "w": 320,
       "h": 175,
       "group": null,
@@ -3055,25 +3130,36 @@
       "x": 29133.6799785269,
       "y": 2306.3696917370535,
       "w": 320,
-      "h": 238,
+      "h": 447,
       "group": null,
       "data": {
         "date": "2025-11-25",
-        "title": "revisione",
+        "title": "Simplified design preview",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
-        "tags": [],
-        "desc": "semplificazione forma al massimo ridurre a cilindro. Sistemare identità qua e là specialmente per quanto riguarda marchio",
+        "tags": [
+          "Swiss design",
+          "Disturbing",
+          "Sound",
+          "Calming",
+          "Opaque film",
+          "Output",
+          "Branding",
+          "Blur",
+          "Isolation",
+          "Grotesque typography"
+        ],
+        "desc": "The product form should be simplified to the maximum extent, reduced to a cylinder. The current functionality—encompassing both sound and film elements—is now satisfactory. The priority must shift immediately to developing physical prototypes and commencing the tangible construction phase. Minor adjustments are required for the brand identity, particularly regarding the company mark, which needs greater expressiveness. The newly developed Armor brand mark is effective as it successfully conveys the product's core concepts.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nbtny3e9",
-      "x": 29540.390906898378,
-      "y": 1947.9218708200146,
+      "x": 29704.37185595375,
+      "y": 1440.3955364171136,
       "w": 320,
       "h": 175,
       "group": null,
@@ -3132,8 +3218,8 @@
     },
     {
       "id": "nnvzao9n",
-      "x": 28274.484856290568,
-      "y": 1702.7612607636427,
+      "x": 28454.176435993144,
+      "y": 1614.912044020161,
       "w": 320,
       "h": 175,
       "group": null,
@@ -3152,20 +3238,20 @@
     },
     {
       "id": "ng070brk",
-      "x": 21387.18771607594,
-      "y": 1801.634844802607,
+      "x": 19160.81050441486,
+      "y": 327.8642224143541,
       "w": 320,
       "h": 175,
       "group": null,
       "data": {
-        "date": "2025-11-07",
+        "date": "2025-10-31",
         "title": "",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "applicazione invece che altre robe",
+        "desc": "decisione applicazione invece che altre robe",
         "links": [],
         "files": []
       }
@@ -3178,7 +3264,7 @@
       "h": 724,
       "group": null,
       "data": {
-        "date": "2025-10-24",
+        "date": "2025-10-23",
         "title": "Organic brand identity concept",
         "type": "Sketch",
         "action": "Making",
@@ -3291,7 +3377,7 @@
       "h": 849,
       "group": null,
       "data": {
-        "date": "2025-10-24",
+        "date": "2025-10-23",
         "title": "Earcuff output ideas",
         "type": "Sketch",
         "action": "Making",
@@ -3463,8 +3549,8 @@
     },
     {
       "id": "nut6xt6s",
-      "x": 18673.793728989207,
-      "y": 1701.8103503558623,
+      "x": 20583.82007128503,
+      "y": 1945.67155835096,
       "w": 320,
       "h": 175,
       "group": null,
@@ -3483,8 +3569,8 @@
     },
     {
       "id": "nfbrkac7",
-      "x": 18698.958953615827,
-      "y": 2062.5119033374312,
+      "x": 20640.50982545828,
+      "y": 2306.373111332529,
       "w": 320,
       "h": 175,
       "group": null,
@@ -3503,93 +3589,141 @@
     },
     {
       "id": "nqm1gpyv",
-      "x": 17373.686676586865,
-      "y": 2007.6506094686326,
+      "x": 18980.14269197167,
+      "y": 1807.1293880861615,
       "w": 320,
-      "h": 175,
+      "h": 622,
       "group": null,
       "data": {
         "date": "2025-10-31",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "pk organico non funziona",
+        "title": "Failure of Organic Aesthetic",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Digital aesthetics",
+          "Design research",
+          "Critical design",
+          "Japanese aesthetics"
+        ],
+        "tags": [
+          "Calming",
+          "Shell",
+          "Sound",
+          "Confrontation",
+          "Protection",
+          "Branding",
+          "Organic"
+        ],
+        "desc": "The visually organic and marine-related aesthetic proved ultimately unsuccessful due to its inherent limitations in communicating the intended brand message. The gentle and fluid imagery associated with the sea unintentionally steered the identity toward generalized concepts of sustainability and wellbeing, which risked conflating the product with unrelated narratives. Crucially, this soft visual direction failed to integrate the essential elements of technological optimism and the required sense of provocation. The aesthetic was deemed too passive and accommodating, lacking the necessary functional rigor and psychological edge required to effectively represent the product's core purpose: establishing a firm boundary against external comparison and discomfort. The visual language, therefore, did not support the required confidence and assertive functionality of the technology.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n8r30cqz",
-      "x": 19272.394284679114,
-      "y": 1409.9170190991765,
+      "x": 17293.421112438522,
+      "y": 130.92596271054072,
       "w": 320,
-      "h": 175,
+      "h": 409,
       "group": null,
       "data": {
-        "date": "2025-11-03",
+        "date": "2025-10-30",
         "title": "",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "nuovi disegni prodotto visore + cuffie",
+        "desc": "nuovi disegni prodotto conchiglia",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "schizzi casco conchiglia.jpg",
+            "size": 293742,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/schizzi_casco_conchiglia.jpg"
+          }
+        ]
       }
     },
     {
       "id": "npab9v9w",
-      "x": 17266.534442873977,
-      "y": 1472.2955275417726,
+      "x": 15649.785928543182,
+      "y": 871.3926173335665,
       "w": 320,
-      "h": 175,
+      "h": 537,
       "group": null,
       "data": {
-        "date": "2025-10-31",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "revisione prodotto\n",
+        "date": "2025-10-24",
+        "title": "Earcuff output review",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Critical design",
+          "Digital aesthetics"
+        ],
+        "tags": [
+          "Protection",
+          "Isolation",
+          "Confrontation",
+          "Sound",
+          "Shell",
+          "Calming"
+        ],
+        "desc": "The product currently lacks an element of provocation. While aesthetically pleasing, the object fails to effectively communicate its core concept: isolation and the avoidance of comparison-induced discomfort. Consideration should be given to making the object more provocative in its form, or perhaps changing the product direction entirely. When developing the product, it is essential to consider the entire communication apparatus on a larger scale, where the physical product is merely one component of the overall experience. A key challenge for a wearable item is ensuring durability and versatility for use across multiple individuals. Small items present technical difficulties, overly large items incur high costs, making a mid-range size the optimal solution.\n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nw4illg3",
-      "x": 18083.165937935333,
-      "y": 1279.4207721193313,
+      "x": 16529.849284376014,
+      "y": 649.9659231745982,
       "w": 320,
-      "h": 175,
+      "h": 628,
       "group": null,
       "data": {
         "date": "2025-11-03",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "pk cuffia non funzionava bene",
+        "title": "Earcuff: Functional and Narrative Deficiencies",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Critical design",
+          "Communication",
+          "Design research",
+          "Critical theory",
+          "Human-computer interaction",
+          "Cognitive science"
+        ],
+        "tags": [
+          "Organic",
+          "Output",
+          "Protection",
+          "Confrontation",
+          "Sound",
+          "Shell",
+          "Calming"
+        ],
+        "desc": "The proposed earcuff was ultimately considered ineffective as a product expression because it failed to adequately embody the brand's core concept of provocation and functional isolation. Although the form attempted to combine organic shapes with the sensory concept of the shell—suggesting calming sounds—the design itself did not visually communicate the intended message of disruption or the necessary technological confidence. Furthermore, as a wearable object, the earcuff introduced significant constraints related to durability and versatility for use by a diverse user base, which are critical considerations for any product developed at scale. The physical object, therefore, did not carry the required communicative weight and was seen as a passive element within the larger experience.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nienxach",
-      "x": 20578.789088271755,
-      "y": 1714.3837465350832,
+      "x": 18287.512397015624,
+      "y": 413.9059697301775,
       "w": 320,
-      "h": 175,
+      "h": 363,
       "group": null,
       "data": {
-        "date": "2025-11-05",
+        "date": "2025-10-30",
         "title": "",
         "type": "",
         "action": null,
@@ -3598,38 +3732,56 @@
         "tags": [],
         "desc": "interfaccia + casco",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "moodboard interfaccia home.jpg",
+            "size": 72783,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/moodboard_interfaccia_home.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nmtw2l1q",
-      "x": 19798.009053825434,
-      "y": 2632.1338747752034,
+      "x": 21621.781936363255,
+      "y": 2671.551129708423,
       "w": 320,
-      "h": 221,
+      "h": 306,
       "group": null,
       "data": {
         "date": "2025-11-04",
-        "title": "revisione identità",
-        "type": "",
+        "title": "Branding identity review",
+        "type": "Feedback",
         "action": null,
         "mainArea": null,
         "areas": [],
-        "tags": [],
-        "desc": "tutto molto grezzo, ancora da lavorare per poter avere feedback più precisi",
+        "tags": [
+          "Branding",
+          "Protection",
+          "Isolation",
+          "Confrontation",
+          "Shell",
+          "Organic",
+          "Y2k",
+          "Technological optimism"
+        ],
+        "desc": "The communication strategy requires substantial further development and must be strictly tailored to align with the chosen product approach.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n2w0la8s",
-      "x": 20638.107636797784,
-      "y": 2720.6423273446435,
+      "x": 22377.007651829746,
+      "y": 2682.4052802355127,
       "w": 320,
       "h": 175,
       "group": null,
       "data": {
-        "date": "2025-11-26",
+        "date": "2025-11-07",
         "title": "",
         "type": "",
         "action": null,
@@ -3643,8 +3795,8 @@
     },
     {
       "id": "nbx7x9f9",
-      "x": 23927.942802202204,
-      "y": 1998.2326716069365,
+      "x": 24869.086093900853,
+      "y": 1484.776525182207,
       "w": 320,
       "h": 238,
       "group": null,
@@ -3663,13 +3815,13 @@
     },
     {
       "id": "nq2z1aye",
-      "x": 21440.08618641043,
-      "y": 2104.979965268216,
+      "x": 20110.226485846437,
+      "y": 502.90437093815797,
       "w": 320,
       "h": 204,
       "group": null,
       "data": {
-        "date": "2025-11-07",
+        "date": "2025-10-31",
         "title": "forma output",
         "type": "",
         "action": null,
@@ -3683,8 +3835,8 @@
     },
     {
       "id": "nvhp6f3c",
-      "x": 26021.566412395758,
-      "y": 1407.9716551880074,
+      "x": 26257.77405270331,
+      "y": 1387.4880168881598,
       "w": 320,
       "h": 165,
       "group": null,
@@ -3703,8 +3855,8 @@
     },
     {
       "id": "nsex62s4",
-      "x": 27553.167228489914,
-      "y": 2281.150479463715,
+      "x": 27019.404557547277,
+      "y": 938.7533429612779,
       "w": 320,
       "h": 165,
       "group": null,
@@ -3717,6 +3869,202 @@
         "areas": [],
         "tags": [],
         "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "na6shhpe",
+      "x": 17777.03064491367,
+      "y": 615.4493311544777,
+      "w": 320,
+      "h": 175,
+      "group": null,
+      "data": {
+        "date": "2025-11-27",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "manca qualcosa che restituisca exp",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "niqwiqiu",
+      "x": 20640.7100596599,
+      "y": 647.2291284720379,
+      "w": 320,
+      "h": 590,
+      "group": null,
+      "data": {
+        "date": "2025-11-03",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "solo trasduttori e casco visiera"
+        ],
+        "files": [
+          {
+            "name": "casco visiera 2.jpg",
+            "size": 64533,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/casco_visiera_2.jpg"
+          },
+          {
+            "name": "casco visiera 1.jpg",
+            "size": 107760,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/casco_visiera_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9dqc1ds",
+      "x": 21880.929450534695,
+      "y": 685.4399829072253,
+      "w": 320,
+      "h": 175,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "si torna su conchiglia",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nf1adtbo",
+      "x": 22382.36420702907,
+      "y": 1039.625001056152,
+      "w": 320,
+      "h": 869,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "New helmet hypothesis and typography review",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Communication",
+          "Design research",
+          "Brain interfaces",
+          "Human-computer interaction",
+          "Japanese aesthetics",
+          "Critical design"
+        ],
+        "tags": [
+          "Opaque film",
+          "Sound",
+          "Isolation",
+          "Protection",
+          "Technological optimism",
+          "Confrontation",
+          "Branding",
+          "Output",
+          "Calming"
+        ],
+        "desc": "The brand identity requires the creation of suitable typographic elements, derived from a specific font and set of reusable forms, to achieve a more organic feel. Consideration should be given to developing a bespoke font from scratch. The color lilac is ineffective, as it conveys a connotation of skincare. \n\nA potential design direction involves constructing letterforms based on frequency waves, requiring the study of shapes and potentially hand-drawing the typography. \n\nVisual identity and product development must proceed in parallel. The product design should feature interlocking elements, emphasizing the negative space (voids). The proposed construction involves fabric integrated with bone transducers and incorporating transparency to reveal internal components. The physical form should suggest a shell or armor, 3D-printed with varying textures. Alternatively, the shell concept should be abandoned in favor of a form that evokes the metallic texture seen in the posters, suggesting a lighter aesthetic. The product experience must be precisely defined, including the nature and recipient of the feedback. A storyboard is needed to detail the user journey and clarify the termination of the experience, potentially via a final audio message that communicates aggregated data (e.g., proximity/distancing statistics)",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzgfvkqn",
+      "x": 22690.534767708632,
+      "y": 779.2576095119351,
+      "w": 320,
+      "h": 175,
+      "group": null,
+      "data": {
+        "date": "2025-11-27",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "pk no conchiglia",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nekzvawy",
+      "x": 22777.214751626198,
+      "y": 1908.210177027156,
+      "w": 320,
+      "h": 175,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "decisione nome compagnia",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nstmtshm",
+      "x": 22000.88490912825,
+      "y": 2243.27436012388,
+      "w": 320,
+      "h": 175,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "sviluppo sheru",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9u8hs73",
+      "x": 30380.13520934134,
+      "y": 1403.8169581285138,
+      "w": 320,
+      "h": 175,
+      "group": null,
+      "data": {
+        "date": "2025-11-27",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "difficoltà prototipazione materiale",
         "links": [],
         "files": []
       }
@@ -4249,43 +4597,13 @@
       "dashed": false
     },
     {
-      "s": "nw4illg3",
-      "t": "n8r30cqz",
-      "dashed": false
-    },
-    {
       "s": "nut6xt6s",
       "t": "n40et86f",
       "dashed": false
     },
     {
-      "s": "n8r30cqz",
-      "t": "n3vdq6k3",
-      "dashed": false
-    },
-    {
-      "s": "n3vdq6k3",
-      "t": "nxabmofp",
-      "dashed": false
-    },
-    {
-      "s": "nxabmofp",
-      "t": "nienxach",
-      "dashed": false
-    },
-    {
-      "s": "nxabmofp",
-      "t": "ndm2t4kq",
-      "dashed": false
-    },
-    {
       "s": "n40et86f",
       "t": "nmtw2l1q",
-      "dashed": false
-    },
-    {
-      "s": "nxabmofp",
-      "t": "nypc5xu4",
       "dashed": false
     },
     {
@@ -4354,11 +4672,6 @@
       "dashed": false
     },
     {
-      "s": "ng070brk",
-      "t": "n8aa0mh0",
-      "dashed": false
-    },
-    {
       "s": "nienxach",
       "t": "nq2z1aye",
       "dashed": false
@@ -4366,11 +4679,6 @@
     {
       "s": "ndm2t4kq",
       "t": "nq2z1aye",
-      "dashed": false
-    },
-    {
-      "s": "nq2z1aye",
-      "t": "nxg2jra8",
       "dashed": false
     },
     {
@@ -4462,46 +4770,174 @@
       "s": "n00i2zlf",
       "t": "nbtny3e9",
       "dashed": false
+    },
+    {
+      "s": "n08m24d5",
+      "t": "n8r30cqz",
+      "dashed": false
+    },
+    {
+      "s": "nw4illg3",
+      "t": "n8r30cqz",
+      "dashed": false
+    },
+    {
+      "s": "n8r30cqz",
+      "t": "na6shhpe",
+      "dashed": false
+    },
+    {
+      "s": "na6shhpe",
+      "t": "nienxach",
+      "dashed": false
+    },
+    {
+      "s": "na6shhpe",
+      "t": "ndm2t4kq",
+      "dashed": false
+    },
+    {
+      "s": "nienxach",
+      "t": "nypc5xu4",
+      "dashed": false
+    },
+    {
+      "s": "ndm2t4kq",
+      "t": "nypc5xu4",
+      "dashed": false
+    },
+    {
+      "s": "nq2z1aye",
+      "t": "niqwiqiu",
+      "dashed": false
+    },
+    {
+      "s": "niqwiqiu",
+      "t": "n3vdq6k3",
+      "dashed": false
+    },
+    {
+      "s": "n9kuj691",
+      "t": "nuszry6e",
+      "dashed": false
+    },
+    {
+      "s": "nxabmofp",
+      "t": "n9dqc1ds",
+      "dashed": false
+    },
+    {
+      "s": "n9dqc1ds",
+      "t": "nf1adtbo",
+      "dashed": false
+    },
+    {
+      "s": "n9dqc1ds",
+      "t": "nzgfvkqn",
+      "dashed": false
+    },
+    {
+      "s": "nzgfvkqn",
+      "t": "nxg2jra8",
+      "dashed": false
+    },
+    {
+      "s": "n3vdq6k3",
+      "t": "nxabmofp",
+      "dashed": false
+    },
+    {
+      "s": "np5fz7aj",
+      "t": "niqgebug",
+      "dashed": false
+    },
+    {
+      "s": "nxg2jra8",
+      "t": "np5fz7aj",
+      "dashed": false
+    },
+    {
+      "s": "nut6xt6s",
+      "t": "nekzvawy",
+      "dashed": false
+    },
+    {
+      "s": "nf1adtbo",
+      "t": "nekzvawy",
+      "dashed": false
+    },
+    {
+      "s": "nekzvawy",
+      "t": "np5fz7aj",
+      "dashed": false
+    },
+    {
+      "s": "nypc5xu4",
+      "t": "nekzvawy",
+      "dashed": false
+    },
+    {
+      "s": "nmtw2l1q",
+      "t": "nstmtshm",
+      "dashed": false
+    },
+    {
+      "s": "nstmtshm",
+      "t": "nf1adtbo",
+      "dashed": false
+    },
+    {
+      "s": "nbtny3e9",
+      "t": "n9u8hs73",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Digital aesthetics",
-      "Design research",
-      "Communication",
-      "Japanese aesthetics",
-      "Archeoacustics",
-      "Critical design",
-      "Brain interfaces",
-      "Neuroscience",
-      "Cognitive science",
-      "Anthropology",
-      "Society studies",
-      "Media studies",
       "Critical theory",
+      "Communication",
+      "Design research",
+      "Brain interfaces",
       "Human-computer interaction",
-      "Socio-political"
+      "Critical design",
+      "Japanese aesthetics",
+      "Cognitive science",
+      "Neuroscience",
+      "Digital aesthetics",
+      "Society studies",
+      "Socio-political",
+      "Media studies",
+      "Anthropology",
+      "Archeoacustics"
     ],
     "tags": [
+      "Grotesque typography",
+      "Isolation",
+      "Blur",
+      "Branding",
+      "Output",
+      "Opaque film",
       "Calming",
+      "Sound",
+      "Disturbing",
+      "Swiss design",
+      "Confrontation",
+      "White noise",
+      "Protection",
+      "Technological optimism",
+      "Y2k",
       "Organic",
       "Shell",
-      "Sea",
-      "Sound",
-      "White noise",
-      "Sounds",
-      "Japanese aesthetics",
-      "Protection",
-      "Isolation"
+      "Sea"
     ],
     "type": [
-      "Concept",
-      "Collection",
-      "Sketch",
       "Feedback",
-      "Source",
+      "Finding",
+      "Concept",
+      "Sketch",
       "Brief",
-      "Finding"
+      "Source",
+      "Collection"
     ]
   }
 }
