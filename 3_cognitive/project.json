@@ -2620,62 +2620,59 @@
     },
     {
       "id": "n9l3k7f4",
-      "x": 19498.796926448842,
-      "y": 2124.430278073491,
+      "x": 19598.561974035412,
+      "y": 2100.097339637742,
       "w": 320,
-      "h": 175,
+      "h": 440,
       "group": null,
       "data": {
         "date": "2025-10-31",
-        "title": "",
+        "title": "Dreamlike visual identity lead",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "nuove identità visive più oniriche e meno organiche",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n40et86f",
-      "x": 21016.656687030692,
-      "y": 2126.620840541545,
-      "w": 320,
-      "h": 175,
-      "group": null,
-      "data": {
-        "date": "2025-11-03",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "poster sheru e eden, proposte logo, disegni prodotto",
+        "desc": "The brand identity has transitioned towards new visual concepts that are significantly more dreamlike and less explicitly organic. The new aesthetic draws heavily from the graphical rigor of Sony and the distinctive patina of the Y2K era—a direction reflected across the updated color palettes and overall look and feel. This strategic shift is justified because, unlike the previous organic and shell-inspired themes, the Y2K-infused, technological aesthetic possesses the necessary assertiveness and synthetic confidence required to communicate the core disruptive message effectively. The new approach avoids the passive connotations of natural materials, instead offering a visually precise and technologically optimistic framework that aligns with the brand's function as an active agent of controlled isolation.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n8q3l7ie",
-      "x": 20166.199817778088,
-      "y": 2273.1806275547165,
+      "x": 20120.597900755154,
+      "y": 2174.376474005024,
       "w": 320,
-      "h": 175,
+      "h": 750,
       "group": null,
       "data": {
         "date": "2025-11-02",
-        "title": "",
+        "title": "Brand identity moodboards",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "nuove moodboard, primi sviluppi arduino, loghi",
+        "desc": "New moodboards defining the updated aesthetic direction have been completed. The first moodboard draws direct inspiration from dreamlike Y2K aesthetics and technological optimism. It is characterized by the use of blue and orange color palettes, incorporating typical era distortion effects alongside a very simple typography. The second moodboard, conversely, draws inspiration from Japanese culture, emphasizing materials such as paper, embossing, and transparency. In this concept, the shell motif is utilized solely as an internal, non-explicit structure.\nConcurrently, initial functional development has progressed with the first stages of Arduino programming.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 161205.png",
+            "size": 934229,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_161205.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 161120.png",
+            "size": 1103968,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_161120.jpg"
+          }
+        ]
       }
     },
     {
@@ -2713,8 +2710,8 @@
     },
     {
       "id": "nypc5xu4",
-      "x": 19451.971557222187,
-      "y": 599.4632263166184,
+      "x": 19405.26149180068,
+      "y": 605.3833416267697,
       "w": 320,
       "h": 488,
       "group": null,
@@ -2741,15 +2738,15 @@
           "Sound",
           "Isolation"
         ],
-        "desc": "The product focus shifts to a wearable managed by an app. Bone vibrators are suggested for cost/form factor. The key narrative is the Proximity Sensor: it creates a \"personal bubble\" that triggers noise when invaded (frontally detected), demonizing physical and mental confrontation. Durability and versatility remain vital. The object should be hollow, potentially shoulder-mounted for adaptability. The core message mustn't be lost\n",
+        "desc": "The product focus shifts to a wearable managed by an app. Bone conductors are suggested for cost/form factor. The key narrative is the Proximity Sensor: it creates a \"personal bubble\" that triggers noise when invaded (frontally detected), demonizing physical and mental confrontation. Durability and versatility remain vital. The object should be hollow, potentially shoulder-mounted for adaptability. The core message mustn't be lost\n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nxg2jra8",
-      "x": 23354.94335400869,
-      "y": 711.3484520128034,
+      "x": 23444.435784737187,
+      "y": 625.298037850788,
       "w": 320,
       "h": 652,
       "group": null,
@@ -2777,48 +2774,73 @@
     },
     {
       "id": "nn6zfgx4",
-      "x": 23096.390548733467,
-      "y": 2200.719044436142,
+      "x": 23256.357887626637,
+      "y": 2210.857849313166,
       "w": 320,
-      "h": 208,
+      "h": 339,
       "group": null,
       "data": {
         "date": "2025-11-08",
-        "title": "",
+        "title": "Recentering identity on the cognitive field",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "nuove idee identità visiva:\n- reaction diffusion, suono, effetto del prodotto sul mondo",
+        "desc": "New visual identity concepts are centered on the visual representation of complex phenomena, specifically utilizing reaction-diffusion principles (such as the Turing pattern) to symbolize the brain's internal structure and controlled chaos. Furthermore, the identity integrates both the physics of sound transmission and the visual manifestation of the product's effect on the surrounding environment, thereby externalizing the intended social and psychological boundary created by the device.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nkw08phq",
-      "x": 23560.936937767634,
-      "y": 2139.695087624579,
+      "x": 23638.05237751835,
+      "y": 2138.9117701398545,
       "w": 320,
-      "h": 225,
+      "h": 953,
       "group": null,
       "data": {
         "date": "2025-11-10",
-        "title": "",
+        "title": "New cognitive visual elements proposal",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "nuovi marchi legati al cervello, pattern di turing, - identità giapponese e backstory azienda, nuovi poster (signs of discomfort, carta, creepy, modi di dire, trama metallica, contro al vetro)",
+        "desc": "New brand marks were developed, conceptually linked to the brain and the Turing pattern, thereby moving the visual language firmly into the realm of cognitive science and soundwaves. This shift necessitated the removal of the Japanese identity and the company's complex backstory, simplifying the narrative to focus solely on the core technological function. The motivation for this simplification is to achieve a more direct and universally aseptic communication of controlled isolation, eliminating soft, complex, or potentially distracting cultural associations. The new poster campaign emphasizes this disruptive tone, featuring themes of signs of discomfort, a deliberately creepy aesthetic, and the use of idiomatic expressions related to avoidance. Visually, the posters employ textures like paper and metallic patterns, often set in deliberate contrast against smooth glass or transparency.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 163125.png",
+            "size": 125795,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163125.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 163115.png",
+            "size": 120784,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163115.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 163518.png",
+            "size": 138854,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163518.jpg"
+          }
+        ]
       }
     },
     {
       "id": "np5fz7aj",
-      "x": 23796.401190637254,
-      "y": 1176.7310771584055,
+      "x": 24067.736813785694,
+      "y": 1138.205742266238,
       "w": 320,
       "h": 773,
       "group": null,
@@ -2851,100 +2873,133 @@
     },
     {
       "id": "n8aa0mh0",
-      "x": 24287.865580711907,
-      "y": 1601.6155504211833,
+      "x": 24458.19342568312,
+      "y": 1507.3434400039127,
       "w": 320,
-      "h": 238,
+      "h": 356,
       "group": null,
       "data": {
         "date": "2025-11-11",
-        "title": "ipotesi nostre post rev",
-        "type": "",
-        "action": null,
-        "mainArea": null,
+        "title": "Same shape different effect output hypothesis",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Interaction",
         "areas": [],
         "tags": [],
-        "desc": "stesso output ma lavorare sul suono -> provocare dissonanza cognitiva letteralmente con l'effetto orso polare o impiantare falsi ricordi che ti calmino",
+        "desc": "Following the review, efforts were concentrated on enhancing the product's provocation without implementing substantial changes to the form factor, given the advanced stage of development. The strategic focus was therefore shifted entirely to the sound output. This function is now intended to provoke literal cognitive dissonance, achieved either through triggering the \"polar bear effect\" (attempted thought suppression leading to obsession) or by actively implanting false, calming memories into the user's experience.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nrzfm982",
-      "x": 24481.475307109697,
-      "y": 2086.639049609122,
+      "x": 24806.939200943725,
+      "y": 1793.9530508866872,
       "w": 320,
-      "h": 255,
+      "h": 1093,
       "group": null,
       "data": {
         "date": "2025-11-12",
-        "title": "ipotesi nuove direzione identità visiva",
+        "title": "Hypotesis on more provocative visual direction",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "tutto più pazzo e diretto.\nCercare nuovi soggetti più provocatori per i poster -> social distancing imposto durante covid?\nnuove idee payoff, copy, nuovi soggetti, tipografia",
+        "desc": "The observed general difficulty in effectively synthesizing all competing elements into a cohesive output persists. A potential strategic shift involves adopting a more radical and direct communication style, embracing a deliberately \"crazier\" aesthetic. This would necessitate seeking out new, highly provocative subjects for poster campaigns, potentially drawing inspiration from the imagery of social distancing enforced during the COVID-19 pandemic. Concurrently, efforts would focus on developing new payoffs and copy, exploring fresh subject matter, and refining the typography to align with this more assertive and disruptive direction.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 164605.png",
+            "size": 140048,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_164605.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 164548.png",
+            "size": 451208,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_164548.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 164531.png",
+            "size": 458869,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_164531.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 164526.png",
+            "size": 694001,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_164526.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nzosf7qc",
-      "x": 25273.63873679952,
-      "y": 1415.824033270891,
+      "x": 25549.63873679952,
+      "y": 1319.824033270891,
       "w": 320,
-      "h": 326,
+      "h": 406,
       "group": null,
       "data": {
         "date": "2025-11-12",
-        "title": "",
+        "title": "Structural Failure and Mandatory Project Relaunch",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "Confusione generale, i pezzi non quadrano più tra di loro e non si riesce più a trovare quadra né su prodotto, né su comunicazione perché non si sa come rendere più efficace la direzione già presa. Il problema è strutturale ed è per tanto necessario riprendere tutto dall'inizio. L'isolamento è arrivato come cosa collaterale rispetto al contesto pensato ma diventa alla fine la manifestazione + concreta del conflitto che abbiamo quindi deve essere reso centrale, manca una chiave di lettura critica che sia realmente interessante",
+        "desc": "A state of general conceptual dissonance has been identified, indicating that the various project components no longer align. It is evident that an effective strategic direction for both product development and communication is currently unattainable, confirming a structural problem that necessitates a complete restart of the process. While isolation emerged incidentally, it is recognized as the most concrete manifestation of the central conflict and must therefore be rendered the core theme. Crucially, the current framework lacks a truly compelling and interesting critical key insight to drive the narrative forward.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n9kuj691",
-      "x": 25678.08659783224,
-      "y": 1399.5639665605336,
+      "x": 25962.62054096068,
+      "y": 1242.1195760357593,
       "w": 320,
-      "h": 322,
+      "h": 423,
       "group": null,
       "data": {
         "date": "2025-11-13",
-        "title": "rifacimento totale concept",
+        "title": "Isolation as Synthetic Progress",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "L'isolamento viene concepito come soluzione al conflitto ma anche come progresso naturale della mente umana che si sta adattando a una nuova società individualista, autoriferita, e in cui la mente può prosperare solo quando è completamente da sola e lontana dal prossimo come l'eden: un posto secluso che si evolve solo su se stesso apice del piacere e della beatitudine che si perde col contatto con ciò che sta all'esterno.",
+        "desc": "Isolation is conceptualized not merely as a temporary resolution to conflict, but as a natural evolutionary progression of the human mind adapting to a contemporary society characterized by increasing individualism and self-reference. Within this new paradigm, the mind can only achieve optimal prosperity and development when completely autonomous and distanced from others. This state is defined by the Eden metaphor: a perfectly secluded, self-contained environment that evolves solely upon itself, representing the apex of pleasure and beatitude. This absolute state of perfection, the text implies, is inevitably corrupted and lost the moment contact is established with the external world.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n2rsm7f6",
-      "x": 25702.14459637203,
-      "y": 1840.1693278683365,
+      "x": 25978.14459637203,
+      "y": 1744.1693278683365,
       "w": 320,
       "h": 591,
       "group": null,
       "data": {
         "date": "2025-11-13",
-        "title": "rifacimento totale identità visiva",
+        "title": "The visual logic of the new scenario",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "Più nessi visivi a aziende biotech come neuralink, etc. Il prodotto casco ora ha funzione di training attraverso riflesso condizionato: Ti insegna a provare fastidio, repulsione, etc. quando si è vicini alle altre persone. \nIdentità visiva: semplificazione\ntrasparenza/opacità come segnalatori: trasparenza = non ho più bisogno di te ma anche parte integrante del prodotto casco, trasparenza come completa comprensione di tutto: mente, come migliorare, etc. promessa di controllo assoluto che passa attraverso la visione\n\nMetallo, freddezza, logicità, miglioramento sintetico attraverso tecnologia. riprende cervello, ibridazione uomo-macchina, protezione\n\nFollia poster: ispirazione forte da swiss style, fortissima logicità. L'isolamento come progressione logica dell'uomo\n\nSfocatura -> pellicola, interferenza, interposizione, creare una barriera\n\nPalette neutra",
+        "desc": "The visual language is now reinforced with stronger ties to the biotech industry (e.g., Neuralink). The product—a helmet—functions as a training device that utilizes conditioned reflexes to actively teach the user to feel discomfort and repulsion when in proximity to other individuals. The visual identity is defined by radical simplification, coldness, and strict logic, emphasizing synthetic improvement through technology.\n\nTransparency and opacity function as key visual signifiers: transparency not only indicates the product’s integration but serves as a metaphor for the promise of absolute comprehension and control over the mind, with the promise of absolute control being achieved through vision. The aesthetic relies on metallic textures, cold tonalities, and imagery centered on the brain and human-machine hybridization for protection. The poster campaign adopts a stark Swiss Style (International Typographic Style) to communicate that isolation is the inevitable, logical progression of humanity. Finally, blurring and soft focus are employed to visually represent the barrier created by the helmet’s film, signifying interference and interposition. The overall palette remains neutral.",
         "links": [],
         "files": []
       }
@@ -2982,60 +3037,60 @@
     },
     {
       "id": "nuszry6e",
-      "x": 26326.41072745997,
-      "y": 1068.8332827424797,
+      "x": 26335.437981194835,
+      "y": 689.0945679533597,
       "w": 320,
-      "h": 191,
+      "h": 389,
       "group": null,
       "data": {
         "date": "2025-11-14",
-        "title": "",
+        "title": "Integral helmet output",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "nuovo prodotto casco con pellicola e suono, bacchette. Primo prototipo di cartone",
+        "desc": "The final strategic decision aligns with the repeatedly emphasized insight: that provocation emerges primarily from the form factor itself. The chosen output is a large, cumbersome, almost childish full-face helmet that instantly communicates the project's core concept of isolation. This transparent helmet incorporates both the sound functionality and the switchable opacity film, creating a dual output for both the wearer and their surroundings. Crucially, the product is redefined as a training device intended to use sound and conditioned reflexes to teach the consumer to maintain distance from others.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nt5l7bsl",
-      "x": 26793.10569728265,
-      "y": 1502.9759506698892,
+      "x": 26755.01100912926,
+      "y": 1625.7255013863778,
       "w": 320,
-      "h": 208,
+      "h": 272,
       "group": null,
       "data": {
         "date": "2025-11-15",
-        "title": "",
+        "title": "Monochromatic and blurry visual identity",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "prove nuova identità con colori fallite, rimane disturbo, glass effect, opacità, sfocatura, colori neutri ma soggetti umani",
+        "desc": "Initial trials with new color palettes proved unsuccessful. The final visual identity will therefore be refined based on the successful concepts of disturbance, glass effects, opacity, and blur. The aesthetic will rely on neutral color palettes and the inclusion of human subjects.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nj545f68",
-      "x": 26853.331294579235,
-      "y": 1164.4891305839446,
+      "x": 26796.088708199357,
+      "y": 937.8219946668412,
       "w": 320,
-      "h": 242,
+      "h": 574,
       "group": null,
       "data": {
         "date": "2025-11-16",
-        "title": "",
-        "type": "",
-        "action": null,
+        "title": "Material evaluation",
+        "type": "Finding",
+        "action": "Exploring",
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "informazioni su produzione output -> 3d o termoformatura?\nacquisto componenti\nprime lavorazioni in 3d di casco integrale con appoggio su spalle",
+        "desc": "During the initial production assessment for the full-face helmet with shoulder support, a key evaluation focused on the primary fabrication method: 3D printing versus thermoforming. Planning for the procurement of electronic components was initiated concurrently.\n\nBefore the final material selection was made, the first stage of physical development involved creating the full-face helmet prototype via 3D modeling with the required shoulder support. Pros and cons for each manufacturing method were rigorously weighed:\n\nThermoforming was considered for its potential to produce large, transparent, and uniform shells efficiently, but it was noted to lack the capacity for highly complex geometries.\n\n3D printing offered superior design complexity, quicker iteration, and easier integration of internal fixtures, but presented challenges regarding the final surface finish, the difficulty of achieving perfect transparency on a large scale, and the potential for increased material costs for a structure of that size.",
         "links": [],
         "files": []
       }
@@ -3045,17 +3100,17 @@
       "x": 27418.93515109803,
       "y": 1510.0750591770948,
       "w": 320,
-      "h": 175,
+      "h": 272,
       "group": null,
       "data": {
         "date": "2025-11-17",
-        "title": "",
+        "title": "First successful tests",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "prime prove con sensori, poster che funzionano, suono",
+        "desc": "Initial tests conducted on the sensors proved successful, validating their intended function. Concurrently, the preliminary posters have been validated as effective communication tools, and the desired sound functionality has been successfully implemented.",
         "links": [],
         "files": []
       }
@@ -3065,17 +3120,17 @@
       "x": 27876.240923618585,
       "y": 1819.0180303945485,
       "w": 320,
-      "h": 208,
+      "h": 288,
       "group": null,
       "data": {
         "date": "2025-11-18",
-        "title": "",
+        "title": "Typographic and detail rework",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "sistemazioni varie identità: tipografia, più caratterizzazione, prime proposte logo animation, proposta teaser. Progetto globalmente approvato",
+        "desc": "Various refinements have been implemented across the brand identity, including final adjustments to the typography and enhanced overall characterization. Initial proposals for the logo animation and the teaser campaign have been completed and presented. The project has mostly received approval.",
         "links": [],
         "files": []
       }
@@ -3085,17 +3140,17 @@
       "x": 28528.008905635295,
       "y": 2072.906148845412,
       "w": 320,
-      "h": 191,
+      "h": 406,
       "group": null,
       "data": {
         "date": "2025-11-19",
-        "title": "",
+        "title": "New visual identity applications",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "fatti social, packaging, nuovi poster, sistemata identità visiva globale",
+        "desc": "Final assets, including the social media content, packaging design, and a series of new promotional posters, have been completed. These efforts culminated in the comprehensive systematization of the global visual identity, which now operates under a unified aesthetic. This finalized identity is characterized by a look that is simultaneously rigorous and direct, maintaining an aseptic quality in its presentation. This rigorous framework is utilized to focus attention squarely on the potential for human improvement and technological enhancement, positioning the brand as a precise and clinical means toward self-optimization and controlled betterment.",
         "links": [],
         "files": []
       }
@@ -3137,17 +3192,17 @@
       "x": 28899.70691050036,
       "y": 1782.3829486320374,
       "w": 320,
-      "h": 175,
+      "h": 305,
       "group": null,
       "data": {
         "date": "2025-11-24",
-        "title": "",
+        "title": "Teaser video concept and filming",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "realizzazione teaser",
+        "desc": "The realization of the teaser required two separate phases of filming. The campaign is built upon a very simple concept: the demonstration of the product's core functionality. Crucially, the teaser effectively communicates that maintaining distance from others represents the optimal and most functional state for the user.",
         "links": [],
         "files": []
       }
@@ -3161,7 +3216,7 @@
       "group": null,
       "data": {
         "date": "2025-11-25",
-        "title": "Simplified design preview",
+        "title": "Simplified output design review",
         "type": "",
         "action": null,
         "mainArea": null,
@@ -3185,20 +3240,20 @@
     },
     {
       "id": "nbtny3e9",
-      "x": 29704.37185595375,
-      "y": 1440.3955364171136,
+      "x": 30304.477897029672,
+      "y": 1276.6882895798924,
       "w": 320,
-      "h": 175,
+      "h": 322,
       "group": null,
       "data": {
         "date": "2025-11-25",
-        "title": "",
-        "type": "",
+        "title": "Material output decision",
+        "type": "Decision",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "acquisizione base prototipo, pellicola. ",
+        "desc": "Following a consultation on materials, the decision was made to utilize a Plexiglass tube for the main body. This material provides the required balance of lightness and rigidity while, crucially, delivering a perfectly transparent finish that would have been difficult to achieve using thermoforming or 3D printing. For the remaining structural components, 3D printing was selected due to its inherent lightness and ease of coloration.",
         "links": [],
         "files": []
       }
@@ -3245,20 +3300,20 @@
     },
     {
       "id": "nnvzao9n",
-      "x": 28454.176435993144,
-      "y": 1614.912044020161,
+      "x": 28401.610160727836,
+      "y": 1554.2586494832665,
       "w": 320,
-      "h": 175,
+      "h": 255,
       "group": null,
       "data": {
         "date": "2025-11-21",
-        "title": "",
+        "title": "Functional code and circuit",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "codice e circuito prototipato funzionante ",
+        "desc": "The prototyped code and circuit have been finalized and are confirmed to be fully functional. Sound tests have been replaced with LED lights to try different levels and their respective functionality.",
         "links": [],
         "files": []
       }
@@ -3576,42 +3631,76 @@
     },
     {
       "id": "nut6xt6s",
-      "x": 20583.82007128503,
-      "y": 1945.67155835096,
+      "x": 20622.08571412308,
+      "y": 1147.208376620707,
       "w": 320,
-      "h": 175,
+      "h": 1176,
       "group": null,
       "data": {
         "date": "2025-11-03",
-        "title": "",
+        "title": "E-den visual identity proposal",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "identità visiva eden",
+        "desc": "The first identity draws inspiration directly from the dreamlike Y2K aesthetic, focusing on technological optimism and the transposition of technology to a personal level. The color palette is dominated by blue and cyan, with deliberate accents of orange and neutral tones that, as evidenced by the image, evoke an artificial and futuristic luminosity. The visual identity is constructed through the repetition of distortion and blur effects, typical of the era, suggesting a digital transition, a hyper-real space (such as the perspective corridors), and a sensation of the ethereal, given the frequent presence of figures immersed in skies or bright environments. The adopted typography is intentionally linear and simple, a choice intended to contrast with the visual complexity of the luminous and reflective effects. Direct product references (such as the clear plastic headphones, attributable to a Sony aesthetic) and the presence of transparent surfaces reinforce the idea of a personal technology that transcends the physical object.\n\nThe e-den brand identity is characterized by a sleek, aseptic technological optimism. The name and its payoff, \"Paradise, untouched,\" suggest a state of curated, protected digital perfection. The logotype uses simple, rounded, lowercase typography with a clean, digital-era aesthetic, emphasizing accessibility and modernity. The visual campaign utilizes bright, airy backgrounds and a high-fidelity photographic style with subtle digital blurring. The core messaging, driven by statements such as \"Every mind deserves a firewall\" and the highly detached statement, \"She is safe. You aren't,\" frames the product as an indispensable, preemptive digital defense mechanism. This identity focuses on external threats and internal optimization, positioning the technology as a functional barrier against the chaotic influences of the outside world.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 161713.png",
+            "size": 1014952,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_161713.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 161653.png",
+            "size": 76788,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_161653.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nfbrkac7",
-      "x": 20640.50982545828,
-      "y": 2306.373111332529,
+      "x": 20627.495634474035,
+      "y": 2503.755007926942,
       "w": 320,
-      "h": 175,
+      "h": 1142,
       "group": null,
       "data": {
         "date": "2025-11-03",
-        "title": "",
+        "title": "Sheru visual identity proposal",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "identità visiva sheru",
+        "desc": "The second identity explores a visual identity defined by rigorous structure and aseptic precision, utilizing highly controlled textures and materials. The aesthetic centers on the paradox of fragility within strength, combining clear biological references (such as shell structures and the visible mechanisms of the artificial heart) with refined, engineered elements. The visual language is dominated by a tight palette of whites, blacks, greys, suggesting clinical confidence and control, with minor accents of muted purple. Key textural components include embossing, subtle surface fracturing, and complex etched patterning, often applied to surfaces that evoke high-quality paper or precise engineered materials. The motif of transparency is central, employed to reveal internal mechanisms and structural layers. The focus remains on a highly refined, almost architectural presentation where structure and mechanism—rather than explicit ornamentation—convey the product's protective narrative.\n\nThe SHERU brand identity centers on the theme of biological and technological protection. The naming, derived from the phonetic transliteration of \"shell,\" is directly supported by the payoff, \"Protecting you from reality.\" The logo utilizes a layered, armored graphic—a stylized shell or visor—that communicates containment and focused observation. The visual campaign is characterized by high contrast and a slightly aged texture, employing the strong, literal imagery of a Nautilus shell spiral integrated into a complex headpiece. The messaging, highlighted by phrases such as \"safest when you're alone\" and \"a shell for the modern mind,\" conveys a tone of deep, internal refuge, positioning the product as an essential biological-technological armor for the modern psychological self.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 161707.png",
+            "size": 935935,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_161707.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 161700.png",
+            "size": 117532,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_161700.jpg"
+          }
+        ]
       }
     },
     {
@@ -3773,8 +3862,8 @@
     },
     {
       "id": "nmtw2l1q",
-      "x": 21805.451582197562,
-      "y": 1567.4908137463412,
+      "x": 21606.277381996722,
+      "y": 1814.2026116711857,
       "w": 320,
       "h": 306,
       "group": null,
@@ -3802,48 +3891,73 @@
     },
     {
       "id": "n2w0la8s",
-      "x": 22621.695853770863,
-      "y": 2127.7680509127704,
+      "x": 22769.774807075217,
+      "y": 2244.851384945111,
       "w": 320,
-      "h": 175,
+      "h": 989,
       "group": null,
       "data": {
         "date": "2025-11-07",
-        "title": "",
+        "title": "Sheru visual identity after loss of organic elements",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "cosa non funzionava nelle identità precedenti",
+        "desc": "The purely organic visual path was ultimately discarded because, beyond the physical product's limitations, the aesthetic failed to sustain the required provocation. Imagery associated with the sea and literal shells conveyed passivity and generic notions of wellbeing, directly undermining the brand's core assertive message of forced isolation and cognitive armor. The shift toward the mind and the cognitive sphere was subsequently initiated by adopting visual metaphors of structural and technological barriers. This involved integrating elements like the Turing pattern and generalized representations of the brain's structure onto the product’s surface (the headband) and throughout the visual identity. This approach uses aseptic precision and technological patterning to visually represent the internal, controlled defense mechanism of the mind, providing a functional, abstract visual language for the concept of psychological isolation.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 163135.png",
+            "size": 1890312,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163135.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 163326.png",
+            "size": 1434467,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163326.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 163321.png",
+            "size": 1613625,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163321.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nbx7x9f9",
-      "x": 24869.086093900853,
-      "y": 1484.776525182207,
+      "x": 25145.086093900853,
+      "y": 1388.776525182207,
       "w": 320,
-      "h": 238,
+      "h": 288,
       "group": null,
       "data": {
         "date": "2025-11-12",
-        "title": "confusione generale",
+        "title": "Rethinking the speculation from the beginning",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "Il what if perde gradualmente di potenza e non trova più legame con prodotto finale, rendere isolamento più centrale. ",
+        "desc": "The initial \"What If\" scenario is progressively losing its conceptual potency and relevance, weakening its connection to the final product output. It is therefore critical to revise the narrative framework to ensure the concept of isolation is rendered the central and most compelling theme.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nq2z1aye",
-      "x": 19815.58368023776,
-      "y": 74.27901645171266,
+      "x": 19794.77606296321,
+      "y": 41.3336224336727,
       "w": 320,
       "h": 238,
       "group": null,
@@ -3862,40 +3976,40 @@
     },
     {
       "id": "nvhp6f3c",
-      "x": 26133.27748651812,
-      "y": 1455.3952348073544,
+      "x": 26389.562650475058,
+      "y": 1131.2334899512493,
       "w": 320,
-      "h": 165,
+      "h": 591,
       "group": null,
       "data": {
         "date": "2025-11-26",
-        "title": "decisione contesto definitivo",
-        "type": "",
+        "title": "Definitive concept decision",
+        "type": "Decision",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "The project's structural coherence is achieved by repositioning isolation as the central, proactive thesis—not a failure to cope, but the logical, evolutionary progression toward synthetic human improvement. Earlier attempts at passive, organic forms (the literal shell) and soft aesthetics were discarded as they failed to deliver the required provocation.\n\nThe final concept resolves this confusion by establishing a calculated philosophical framework: the mind achieves its apex state (Eden) only through complete, technological detachment. The physical product, a biotech-inspired training device (the cylinder/band), functions effectively by teaching social repulsion via conditioned sound reflexes, directly translating the philosophy into an active user experience. The overall system functions because the visual identity—characterized by aseptic coldness, Swiss Style rigor, and metallic transparency—perfectly mirrors this cold, calculated functional purpose, ensuring that the design's strict logic validates the logic of aggressive detachment. All elements, from the provocative E-DEN name to the repulsive training mechanism, synthesize into a single, cohesive message: Isolation is optimal control.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nsex62s4",
-      "x": 27019.404557547277,
-      "y": 938.7533429612779,
+      "x": 29725.829158467288,
+      "y": 1240.761625965288,
       "w": 320,
-      "h": 165,
+      "h": 339,
       "group": null,
       "data": {
         "date": "2025-11-18",
-        "title": "decisione output definitivo",
-        "type": "",
+        "title": "Final output decision",
+        "type": "Decision",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "The definitive final output is a simplified version of the full-face helmet concept. The chosen form is a cylinder featuring an opaque film band and internal bone transducers for sound conduction. The functionality is defined by contextual sound: the output is disturbing noise when near other individuals and calming noise when distant. Visually, the device incorporates metallic spikes and rods to communicate, in an even more evident manner, the user's repulsion toward others.",
         "links": [],
         "files": []
       }
@@ -3922,8 +4036,8 @@
     },
     {
       "id": "niqwiqiu",
-      "x": 20354.897201207947,
-      "y": 74.08090928841466,
+      "x": 20335.807107772616,
+      "y": 35.90072241775226,
       "w": 320,
       "h": 757,
       "group": null,
@@ -4016,48 +4130,57 @@
     },
     {
       "id": "nekzvawy",
-      "x": 23176.67534890783,
-      "y": 1899.045541451187,
+      "x": 23334.096197833627,
+      "y": 1726.0220078267128,
       "w": 320,
-      "h": 175,
+      "h": 339,
       "group": null,
       "data": {
         "date": "2025-11-07",
-        "title": "",
-        "type": "",
+        "title": "Company name decision",
+        "type": "Decision",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "decisione nome compagnia",
+        "desc": "The final decision retained the name e-den. This choice was purely strategic, as the name is used to generate conceptual provocation. By applying an extremely positive designation to a company fundamentally centered on the negative act of forced isolation and social repulsion, the juxtaposition creates a necessary friction and immediately highlights the brand's challenging philosophical stance. The name itself functions as a form of initial cognitive dissonance.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nstmtshm",
-      "x": 22184.45103637122,
-      "y": 2248.491745287799,
+      "x": 22127.273056053484,
+      "y": 1962.6018436991267,
       "w": 320,
-      "h": 175,
+      "h": 658,
       "group": null,
       "data": {
         "date": "2025-11-06",
-        "title": "",
+        "title": "Sheru visual identity development",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "sviluppo sheru",
+        "desc": "Based on the observed difficulties in execution—particularly concerning applications, subject photography, and complex visual effects—the decision was made to halt the advanced visual development of the E-DEN aesthetic. The project will proceed by developing the SHERU identity further. However, the name E-DEN is retained as a source of conceptual provocation, leveraging an extremely positive designation for a fundamentally negative concept. The existing moodboard remains substantially unchanged, guiding the visual identity towards implementing the dual valence of technological and organic elements. There will be a definitive prevalence of the organic in the final visual execution because the structural, biological imagery is deemed more effective at immediately conveying the core concept of psychological armor and containment than a purely digital aesthetic.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 163312.png",
+            "size": 92535,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163312.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n9u8hs73",
-      "x": 30380.13520934134,
-      "y": 1403.8169581285138,
+      "x": 31046.366027148328,
+      "y": 1267.9999769760666,
       "w": 320,
       "h": 175,
       "group": null,
@@ -4096,8 +4219,8 @@
     },
     {
       "id": "n7a298c7",
-      "x": 23195.982492520652,
-      "y": 1483.6771778852585,
+      "x": 23335.982492520652,
+      "y": 1415.6771778852585,
       "w": 320,
       "h": 238,
       "group": null,
@@ -4112,6 +4235,91 @@
         "desc": "The brand identity faces a complete revision, resulting in the definitive elimination of all elements that are strictly organic, biological, or representative of the shell motif.",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "n8nr279x",
+      "x": 24417.39107042739,
+      "y": 2292.0196131453777,
+      "w": 320,
+      "h": 1897,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "New identity trial poster applications ",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "\nThe overarching philosophy driving the diverse campaign concepts is the establishment of a provocative cognitive firewall, achieved by explicitly framing external engagement and self-confrontation as undesirable, painful states. The aesthetic maintains an aseptic, rigorous tonality, utilizing high contrast and textural elements—such as embossed paper and heavily blurred, plasticized imagery—to create visual tension. These campaigns consistently employ unsettling, direct rhetorical questions and adversarial messaging (e.g., \"Who said you have to come out of your shell?\") to position isolation as the only sensible solution for mental security. The visual execution explores several key metaphors, ranging from the abstract representation of cognitive structures (topographical lines and patterns) and the primal symbolism of containment and retreat (the Nautilus shell motif), to the raw, visceral display of human discomfort and the pain of intrusion. This multi-faceted approach ensures the brand communicates an aggressive self-protection strategy, yet risks still avoiding the main conflict core.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 163501.png",
+            "size": 1339814,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163501.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 163455.png",
+            "size": 863284,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163455.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 163450.png",
+            "size": 658351,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163450.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 163439.png",
+            "size": 1764207,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163439.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 163429.png",
+            "size": 2010734,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163429.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 163423.png",
+            "size": 954847,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163423.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 163326.png",
+            "size": 1434467,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163326.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 163321.png",
+            "size": 1613625,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_163321.jpg"
+          }
+        ]
       }
     }
   ],
@@ -4627,11 +4835,6 @@
       "dashed": false
     },
     {
-      "s": "nfbrkac7",
-      "t": "n40et86f",
-      "dashed": false
-    },
-    {
       "s": "n08m24d5",
       "t": "npab9v9w",
       "dashed": false
@@ -4642,16 +4845,6 @@
       "dashed": false
     },
     {
-      "s": "nut6xt6s",
-      "t": "n40et86f",
-      "dashed": false
-    },
-    {
-      "s": "n40et86f",
-      "t": "nmtw2l1q",
-      "dashed": false
-    },
-    {
       "s": "nienxach",
       "t": "ng070brk",
       "dashed": false
@@ -4659,11 +4852,6 @@
     {
       "s": "ndm2t4kq",
       "t": "ng070brk",
-      "dashed": false
-    },
-    {
-      "s": "nmtw2l1q",
-      "t": "n2w0la8s",
       "dashed": false
     },
     {
@@ -4687,17 +4875,7 @@
       "dashed": false
     },
     {
-      "s": "nkw08phq",
-      "t": "nrzfm982",
-      "dashed": false
-    },
-    {
       "s": "n8aa0mh0",
-      "t": "nbx7x9f9",
-      "dashed": false
-    },
-    {
-      "s": "nrzfm982",
       "t": "nbx7x9f9",
       "dashed": false
     },
@@ -4812,11 +4990,6 @@
       "dashed": false
     },
     {
-      "s": "n00i2zlf",
-      "t": "nbtny3e9",
-      "dashed": false
-    },
-    {
       "s": "n8r30cqz",
       "t": "na6shhpe",
       "dashed": false
@@ -4867,18 +5040,8 @@
       "dashed": false
     },
     {
-      "s": "np5fz7aj",
-      "t": "niqgebug",
-      "dashed": false
-    },
-    {
       "s": "nxg2jra8",
       "t": "np5fz7aj",
-      "dashed": false
-    },
-    {
-      "s": "nut6xt6s",
-      "t": "nekzvawy",
       "dashed": false
     },
     {
@@ -4965,6 +5128,46 @@
       "s": "n2w0la8s",
       "t": "n7a298c7",
       "dashed": false
+    },
+    {
+      "s": "n00i2zlf",
+      "t": "nsex62s4",
+      "dashed": false
+    },
+    {
+      "s": "nut6xt6s",
+      "t": "nmtw2l1q",
+      "dashed": false
+    },
+    {
+      "s": "nfbrkac7",
+      "t": "nmtw2l1q",
+      "dashed": false
+    },
+    {
+      "s": "nstmtshm",
+      "t": "n2w0la8s",
+      "dashed": false
+    },
+    {
+      "s": "nstmtshm",
+      "t": "nekzvawy",
+      "dashed": false
+    },
+    {
+      "s": "nkw08phq",
+      "t": "n8nr279x",
+      "dashed": false
+    },
+    {
+      "s": "n8aa0mh0",
+      "t": "nrzfm982",
+      "dashed": false
+    },
+    {
+      "s": "nrzfm982",
+      "t": "nbx7x9f9",
+      "dashed": false
     }
   ],
   "vocab": {
@@ -5006,10 +5209,10 @@
       "Sea"
     ],
     "type": [
-      "Sketch",
       "Decision",
-      "Feedback",
       "Finding",
+      "Feedback",
+      "Sketch",
       "Collection",
       "Concept",
       "Brief",
