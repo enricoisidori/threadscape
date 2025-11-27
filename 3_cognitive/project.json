@@ -2532,42 +2532,60 @@
     },
     {
       "id": "nxabmofp",
-      "x": 21520.49174500924,
-      "y": 1039.9516132334572,
+      "x": 21871.233826668522,
+      "y": 406.6685340906832,
       "w": 320,
-      "h": 191,
+      "h": 469,
       "group": null,
       "data": {
         "date": "2025-11-05",
-        "title": "",
+        "title": "Reversal to Literal helmet shape",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "nuovo output più provocatorio post revisione casco, schizzi, ",
+        "desc": "The decision has been made to revert to a more literal and provocative form, with the strategic goal of decisively emphasizing the idea of a protective shell or armor. This necessitates initiating a second attempt at developing the shell-inspired helmet concept.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 123852.png",
+            "size": 921720,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_123852.jpg"
+          }
+        ]
       }
     },
     {
       "id": "ndm2t4kq",
-      "x": 18328.632608551718,
-      "y": 843.4314585865693,
+      "x": 18202.470459377077,
+      "y": 513.5140379971937,
       "w": 320,
-      "h": 175,
+      "h": 648,
       "group": null,
       "data": {
         "date": "2025-10-30",
-        "title": "",
-        "type": "",
+        "title": "Pointer output integration",
+        "type": "Collection",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "puntatore insieme a casco",
+        "desc": "The Pointer device is conceived as a portable sensor designed to detect potential detrimental triggers from another individual when directed at them. To signal potential danger, the device emits a sound or illuminates. The prescribed protective response involves the user donning the helmet, thereby distancing themselves from the resulting discomfort and potential negative thoughts. The Pointer could be implemented either as a wearable item or as a small accessory, such as a keychain.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 121732.png",
+            "size": 438916,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_121732.jpg"
+          }
+        ]
       }
     },
     {
@@ -2622,8 +2640,8 @@
     },
     {
       "id": "n40et86f",
-      "x": 21179.783762738418,
-      "y": 2529.8217257813913,
+      "x": 21016.656687030692,
+      "y": 2126.620840541545,
       "w": 320,
       "h": 175,
       "group": null,
@@ -2662,14 +2680,14 @@
     },
     {
       "id": "n3vdq6k3",
-      "x": 21095.06328473076,
-      "y": 769.9595003029176,
+      "x": 21393.00064265713,
+      "y": 271.4049596343025,
       "w": 320,
       "h": 790,
       "group": null,
       "data": {
         "date": "2025-11-04",
-        "title": "Presentation review",
+        "title": "Presentation output review",
         "type": "Feedback",
         "action": null,
         "mainArea": null,
@@ -2695,14 +2713,14 @@
     },
     {
       "id": "nypc5xu4",
-      "x": 19034.911916511002,
-      "y": 1091.8793694991944,
+      "x": 19451.971557222187,
+      "y": 599.4632263166184,
       "w": 320,
       "h": 488,
       "group": null,
       "data": {
         "date": "2025-10-31",
-        "title": "shell-helmet output feedback",
+        "title": "Shell-helmet output feedback",
         "type": "Feedback",
         "action": "Exploring",
         "mainArea": "Interaction",
@@ -2730,28 +2748,37 @@
     },
     {
       "id": "nxg2jra8",
-      "x": 23265.414673354942,
-      "y": 686.5851999170859,
+      "x": 23354.94335400869,
+      "y": 711.3484520128034,
       "w": 320,
-      "h": 208,
+      "h": 652,
       "group": null,
       "data": {
         "date": "2025-11-07",
-        "title": "",
-        "type": "",
+        "title": "New metallic pattern ouput design",
+        "type": "Sketch",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "casco trama metallica, solo suono. Cercare di implementare equilibrio vuoto-pieno, sviluppi arduino e idee per identità visiva: metallo, trasparenza, etc.",
+        "desc": "The central concept chosen is protection, emphasizing an armor for the mind. The output form has been simplified to a headband housing the necessary components for the bone transducers, which generate a relaxing sound intended to suppress intrusive thoughts. The decoration features a metallic, slightly organic pattern that references both the shape of the brain and the Turing pattern. All internal components are rendered visible through a semi-opaque casing.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 124002.png",
+            "size": 513841,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_124002.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nn6zfgx4",
-      "x": 22918.47711901579,
-      "y": 2320.538293021516,
+      "x": 23096.390548733467,
+      "y": 2200.719044436142,
       "w": 320,
       "h": 208,
       "group": null,
@@ -2770,8 +2797,8 @@
     },
     {
       "id": "nkw08phq",
-      "x": 23303.144008993044,
-      "y": 2114.278883379197,
+      "x": 23560.936937767634,
+      "y": 2139.695087624579,
       "w": 320,
       "h": 225,
       "group": null,
@@ -2924,8 +2951,8 @@
     },
     {
       "id": "niqgebug",
-      "x": 25563.06614737244,
-      "y": 299.03292641852636,
+      "x": 25495.158929453246,
+      "y": 194.34263212643486,
       "w": 320,
       "h": 967,
       "group": null,
@@ -2955,8 +2982,8 @@
     },
     {
       "id": "nuszry6e",
-      "x": 26279.589423991958,
-      "y": 915.755532236585,
+      "x": 26326.41072745997,
+      "y": 1068.8332827424797,
       "w": 320,
       "h": 191,
       "group": null,
@@ -2975,8 +3002,8 @@
     },
     {
       "id": "nt5l7bsl",
-      "x": 26738.663686083157,
-      "y": 1434.9759506698892,
+      "x": 26793.10569728265,
+      "y": 1502.9759506698892,
       "w": 320,
       "h": 208,
       "group": null,
@@ -2995,8 +3022,8 @@
     },
     {
       "id": "nj545f68",
-      "x": 26813.331294579235,
-      "y": 1144.4891305839446,
+      "x": 26853.331294579235,
+      "y": 1164.4891305839446,
       "w": 320,
       "h": 242,
       "group": null,
@@ -3238,20 +3265,20 @@
     },
     {
       "id": "ng070brk",
-      "x": 19160.81050441486,
-      "y": 327.8642224143541,
+      "x": 19875.432674584306,
+      "y": -575.3562099591152,
       "w": 320,
-      "h": 175,
+      "h": 305,
       "group": null,
       "data": {
         "date": "2025-10-31",
-        "title": "",
-        "type": "",
+        "title": "Mobile app ouput decision",
+        "type": "Decision",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "decisione applicazione invece che altre robe",
+        "desc": "The current strategy necessitates focusing on a singular product offering, potentially an application, to achieve maximum narrative efficacy through output simplification. It is a critical requirement that the selected product must integrate a mechanism to return a meaningful experience or reflective feedback to the user. A mobile application was ultimately the preferred choice.",
         "links": [],
         "files": []
       }
@@ -3371,8 +3398,8 @@
     },
     {
       "id": "n08m24d5",
-      "x": 15112.482086754717,
-      "y": 316.4383777020721,
+      "x": 16247.57529753148,
+      "y": 413.05360614968413,
       "w": 320,
       "h": 849,
       "group": null,
@@ -3623,20 +3650,20 @@
     },
     {
       "id": "n8r30cqz",
-      "x": 17293.421112438522,
-      "y": 130.92596271054072,
+      "x": 17146.778306829845,
+      "y": -233.6993917759046,
       "w": 320,
-      "h": 409,
+      "h": 607,
       "group": null,
       "data": {
         "date": "2025-10-30",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
+        "title": "Second shell-helmet output design",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
         "areas": [],
         "tags": [],
-        "desc": "nuovi disegni prodotto conchiglia",
+        "desc": "The new helmet concept incorporates a metallic, tactile pattern intended to disguise the internal Arduino components. A key feature is a front-facing film over the eyes that possesses an opacity control and can be rendered opaque. In comparison to the earcuff concept, this device features visual signaling for communication with external parties and is designed for activation via biological stress signals. Furthermore, the helmet offers the possibility of becoming non-removable for a defined period of time. The overall form of the helmet will be strongly inspired by the shape of the shell.",
         "links": [],
         "files": [
           {
@@ -3652,8 +3679,8 @@
     },
     {
       "id": "npab9v9w",
-      "x": 15649.785928543182,
-      "y": 871.3926173335665,
+      "x": 16965.495133783632,
+      "y": 1117.7865131793014,
       "w": 320,
       "h": 537,
       "group": null,
@@ -3682,8 +3709,8 @@
     },
     {
       "id": "nw4illg3",
-      "x": 16529.849284376014,
-      "y": 649.9659231745982,
+      "x": 17736.88956756579,
+      "y": 881.0715567959194,
       "w": 320,
       "h": 628,
       "group": null,
@@ -3717,20 +3744,20 @@
     },
     {
       "id": "nienxach",
-      "x": 18287.512397015624,
-      "y": 413.9059697301775,
+      "x": 18148.085715085625,
+      "y": -1.2322505070188754,
       "w": 320,
-      "h": 363,
+      "h": 443,
       "group": null,
       "data": {
         "date": "2025-10-30",
-        "title": "",
-        "type": "",
+        "title": "Interface output integration",
+        "type": "Collection",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "interfaccia + casco",
+        "desc": "The product architecture should integrate a dedicated domestic interface designed to present a comprehensive summary of all missed external information at the end of the day.",
         "links": [],
         "files": [
           {
@@ -3746,14 +3773,14 @@
     },
     {
       "id": "nmtw2l1q",
-      "x": 21621.781936363255,
-      "y": 2671.551129708423,
+      "x": 21805.451582197562,
+      "y": 1567.4908137463412,
       "w": 320,
       "h": 306,
       "group": null,
       "data": {
         "date": "2025-11-04",
-        "title": "Branding identity review",
+        "title": "Branding identity presentation review",
         "type": "Feedback",
         "action": null,
         "mainArea": null,
@@ -3775,8 +3802,8 @@
     },
     {
       "id": "n2w0la8s",
-      "x": 22377.007651829746,
-      "y": 2682.4052802355127,
+      "x": 22621.695853770863,
+      "y": 2127.7680509127704,
       "w": 320,
       "h": 175,
       "group": null,
@@ -3815,28 +3842,28 @@
     },
     {
       "id": "nq2z1aye",
-      "x": 20110.226485846437,
-      "y": 502.90437093815797,
+      "x": 19815.58368023776,
+      "y": 74.27901645171266,
       "w": 320,
-      "h": 204,
+      "h": 238,
       "group": null,
       "data": {
         "date": "2025-10-31",
-        "title": "forma output",
+        "title": "Output shape simplification",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "semplificare output al massimo",
+        "desc": "The decision was made to simplify the final output form to the maximum extent, marking a strategic pivot away from the shell-inspired helmet concept.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nvhp6f3c",
-      "x": 26257.77405270331,
-      "y": 1387.4880168881598,
+      "x": 26133.27748651812,
+      "y": 1455.3952348073544,
       "w": 320,
       "h": 165,
       "group": null,
@@ -3875,43 +3902,41 @@
     },
     {
       "id": "na6shhpe",
-      "x": 17777.03064491367,
-      "y": 615.4493311544777,
+      "x": 17630.387839304993,
+      "y": 250.8239766680324,
       "w": 320,
-      "h": 175,
+      "h": 322,
       "group": null,
       "data": {
-        "date": "2025-11-27",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
+        "date": "2025-12-30",
+        "title": "Output experience integration",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Interaction",
         "areas": [],
         "tags": [],
-        "desc": "manca qualcosa che restituisca exp",
+        "desc": "A mechanism for providing a synthesized post-session experience or retrospective data to the user is currently absent and must be integrated. This final feedback loop, delivered at the end of the day or use session, should effectively quantify the success of the intended isolation, potentially through metrics related to proximity avoidance or time effectively spent within the personal boundary.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "niqwiqiu",
-      "x": 20640.7100596599,
-      "y": 647.2291284720379,
+      "x": 20354.897201207947,
+      "y": 74.08090928841466,
       "w": 320,
-      "h": 590,
+      "h": 757,
       "group": null,
       "data": {
         "date": "2025-11-03",
-        "title": "",
-        "type": "",
+        "title": "Double output and differentiation of sound and visual outputs",
+        "type": "Sketch",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
-        "links": [
-          "solo trasduttori e casco visiera"
-        ],
+        "desc": "The form of the output requires maximum simplification, prioritizing the interplay between positive and negative space rather than relying on highly literal representation. The dual core functionalities—utilizing the occluding film for one output and sound for the other—will be maintained. Concurrently, the design aesthetic must transition toward a substantially more generically technological form.",
+        "links": [],
         "files": [
           {
             "name": "casco visiera 2.jpg",
@@ -3933,29 +3958,9 @@
       }
     },
     {
-      "id": "n9dqc1ds",
-      "x": 21880.929450534695,
-      "y": 685.4399829072253,
-      "w": 320,
-      "h": 175,
-      "group": null,
-      "data": {
-        "date": "2025-11-06",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "si torna su conchiglia",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "nf1adtbo",
-      "x": 22382.36420702907,
-      "y": 1039.625001056152,
+      "x": 22712.822532063798,
+      "y": 751.5423035549599,
       "w": 320,
       "h": 869,
       "group": null,
@@ -3991,28 +3996,28 @@
     },
     {
       "id": "nzgfvkqn",
-      "x": 22690.534767708632,
-      "y": 779.2576095119351,
+      "x": 22707.077399976075,
+      "y": 296.8869932228338,
       "w": 320,
-      "h": 175,
+      "h": 376,
       "group": null,
       "data": {
-        "date": "2025-11-27",
+        "date": "2025-11-06",
         "title": "",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "pk no conchiglia",
+        "desc": "The literal interpretation of the shell form proves ultimately ineffective in conveying the desired provocation. Due to its intrinsic association with natural elements, passive protection, and gentle wellbeing, the literal shell aesthetic risks diluting the brand's core message by channeling connotations towards passivity and sustainability. The form lacks the necessary aggressive edge and technological assertiveness required to make a powerful statement about avoiding confrontation and forcing isolation. To achieve the intended provocation, the design must communicate an active, disruptive, and uncompromising barrier rather than a passive, organic retreat.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nekzvawy",
-      "x": 22777.214751626198,
-      "y": 1908.210177027156,
+      "x": 23176.67534890783,
+      "y": 1899.045541451187,
       "w": 320,
       "h": 175,
       "group": null,
@@ -4031,8 +4036,8 @@
     },
     {
       "id": "nstmtshm",
-      "x": 22000.88490912825,
-      "y": 2243.27436012388,
+      "x": 22184.45103637122,
+      "y": 2248.491745287799,
       "w": 320,
       "h": 175,
       "group": null,
@@ -4065,6 +4070,46 @@
         "areas": [],
         "tags": [],
         "desc": "difficoltà prototipazione materiale",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nj8oxqa4",
+      "x": 22236.38159481994,
+      "y": 1150.9983195131151,
+      "w": 320,
+      "h": 372,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Helmet output decision",
+        "type": "Decision",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The strategic decision has been finalized to pursue the helmet form factor rather than a simplified earcuff or audio-only output. This choice is deemed the most sensible as the helmet provides the necessary physical dimension and communicative power to effectively embody the core concept of provocative isolation and complete external shielding. Its scale allows for the literal interpretation of a protective shell or armor, which is crucial for conveying the brand's assertive message against confrontation, unlike the more passive communication offered by smaller wearable accessories.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7a298c7",
+      "x": 23195.982492520652,
+      "y": 1483.6771778852585,
+      "w": 320,
+      "h": 238,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Loss of organic elements from visual identity",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The brand identity faces a complete revision, resulting in the definitive elimination of all elements that are strictly organic, biological, or representative of the shell motif.",
         "links": [],
         "files": []
       }
@@ -4772,16 +4817,6 @@
       "dashed": false
     },
     {
-      "s": "n08m24d5",
-      "t": "n8r30cqz",
-      "dashed": false
-    },
-    {
-      "s": "nw4illg3",
-      "t": "n8r30cqz",
-      "dashed": false
-    },
-    {
       "s": "n8r30cqz",
       "t": "na6shhpe",
       "dashed": false
@@ -4819,21 +4854,6 @@
     {
       "s": "n9kuj691",
       "t": "nuszry6e",
-      "dashed": false
-    },
-    {
-      "s": "nxabmofp",
-      "t": "n9dqc1ds",
-      "dashed": false
-    },
-    {
-      "s": "n9dqc1ds",
-      "t": "nf1adtbo",
-      "dashed": false
-    },
-    {
-      "s": "n9dqc1ds",
-      "t": "nzgfvkqn",
       "dashed": false
     },
     {
@@ -4890,6 +4910,61 @@
       "s": "nbtny3e9",
       "t": "n9u8hs73",
       "dashed": false
+    },
+    {
+      "s": "nyb5rnuj",
+      "t": "n8r30cqz",
+      "dashed": false
+    },
+    {
+      "s": "nw4illg3",
+      "t": "nj8oxqa4",
+      "dashed": false
+    },
+    {
+      "s": "ng070brk",
+      "t": "n3vdq6k3",
+      "dashed": false
+    },
+    {
+      "s": "n3vdq6k3",
+      "t": "nmtw2l1q",
+      "dashed": false
+    },
+    {
+      "s": "n3vdq6k3",
+      "t": "nj8oxqa4",
+      "dashed": false
+    },
+    {
+      "s": "nxabmofp",
+      "t": "nf1adtbo",
+      "dashed": false
+    },
+    {
+      "s": "nxabmofp",
+      "t": "nzgfvkqn",
+      "dashed": false
+    },
+    {
+      "s": "nxabmofp",
+      "t": "nj8oxqa4",
+      "dashed": false
+    },
+    {
+      "s": "nj8oxqa4",
+      "t": "nf1adtbo",
+      "dashed": false
+    },
+    {
+      "s": "nzgfvkqn",
+      "t": "n7a298c7",
+      "dashed": false
+    },
+    {
+      "s": "n2w0la8s",
+      "t": "n7a298c7",
+      "dashed": false
     }
   ],
   "vocab": {
@@ -4931,13 +5006,14 @@
       "Sea"
     ],
     "type": [
+      "Sketch",
+      "Decision",
       "Feedback",
       "Finding",
+      "Collection",
       "Concept",
-      "Sketch",
       "Brief",
-      "Source",
-      "Collection"
+      "Source"
     ]
   }
 }
