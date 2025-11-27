@@ -2649,6 +2649,88 @@
           }
         ]
       }
+    },
+    {
+      "id": "nz0a1m7o",
+      "x": 18374.362388809084,
+      "y": 6004.999370788456,
+      "w": 320,
+      "h": 361,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Concretizing Algospeak Hypotheses",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Linguistic",
+          "Censorship",
+          "Evolution"
+        ],
+        "tags": [],
+        "desc": "Provide concrete examples with sentences and transformations - e.g., written conversation in various degrees of algospeak. We are still in the realm of hypotheses - struggling to make it concrete. Conflictual dimension must be maintained. How do I represent it? - e.g., anger project. Imagine forms of depiction - to understand if it is credible and if it works.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6uxmk42",
+      "x": 18235.532647535554,
+      "y": 3637.3561853103756,
+      "w": 320,
+      "h": 478,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "Language Adaptation and User Perception",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Censorship",
+          "Conflict",
+          "Society"
+        ],
+        "tags": [],
+        "desc": "The text suggests expanding the project's scope beyond media to include interpersonal communication, noting that people naturally adjust language for different audiences (e.g., children vs. peers) to either soothe or manipulate emotions (e.g., creating urgency). It defines naming and language as a \"battlefield\" that actively constructs reality.\n\nPractically, there is a need to create visual aids like storyboards to define the user experience. A specific challenge is identified: currently, users only see their personalized version, masking the conflict with other perspectives. The goal is for the user to intuitively grasp—without external explanation—that their personal parameters are what shape the narrative, proving that language creates reality.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1yqnyhv",
+      "x": 18854.362388809084,
+      "y": 6004.999370788456,
+      "w": 320,
+      "h": 647,
+      "group": null,
+      "data": {
+        "date": "2025-11-27",
+        "title": "The Algospeak Conflict and Future Scenarios",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Linguistic",
+          "Censorship",
+          "Evolution"
+        ],
+        "tags": [],
+        "desc": "The notes analyze the tension between user expression and algorithmic control. Users adopt \"algospeak\" (e.g., using \"unalive\") to avoid censorship, but this \"sterilizes\" language, reduces the impact of reality, and destabilizes shared meaning. The author envisions a future where moderation is hyper-adaptive, forcing language to update every second like software. Two technical solutions are brainstormed: a tool that encodes messages based on the rules of the exact moment (decodable via metadata), or a user-side tool to decode the constantly shifting vocabulary of others, bypassing the platform's censorship.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 17.56.58.png",
+            "size": 300917,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_17.56.58.jpg"
+          }
+        ]
+      }
     }
   ],
   "edges": [
@@ -4586,35 +4668,51 @@
       "s": "ngc67jcu",
       "t": "n78itqex",
       "dashed": false
+    },
+    {
+      "s": "nm92wanr",
+      "t": "nz0a1m7o",
+      "dashed": false
+    },
+    {
+      "s": "n78itqex",
+      "t": "n6uxmk42",
+      "dashed": false
+    },
+    {
+      "s": "nz0a1m7o",
+      "t": "n1yqnyhv",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "Evolution",
-      "Linguistic",
-      "Informatics",
-      "Information",
-      "Cognitive science",
-      "Research",
-      "Philosophy",
-      "Mental health",
-      "Morphology",
-      "Arts",
       "Censorship",
+      "Linguistic",
+      "Society",
       "Conflict",
-      "Society"
+      "Arts",
+      "Morphology",
+      "Mental health",
+      "Philosophy",
+      "Research",
+      "Cognitive science",
+      "Information",
+      "Informatics"
     ],
     "tags": [],
     "type": [
-      "Collection",
-      "Source",
-      "Sketch",
-      "Decision",
-      "Finding",
-      "Slides",
+      "Observation",
       "Feedback",
+      "Slides",
+      "Brief",
       "What-if",
-      "Brief"
+      "Finding",
+      "Decision",
+      "Sketch",
+      "Source",
+      "Collection"
     ]
   }
 }
