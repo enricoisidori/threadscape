@@ -2175,7 +2175,7 @@
     },
     {
       "id": "niby426n",
-      "x": 14737.852267559858,
+      "x": 14736.49723028337,
       "y": 2562.967739990056,
       "w": 320,
       "h": 371,
@@ -2201,7 +2201,7 @@
     },
     {
       "id": "n6jvknds",
-      "x": 14737.852267559858,
+      "x": 14736.49723028337,
       "y": 2973.967739990056,
       "w": 320,
       "h": 462,
@@ -2225,7 +2225,7 @@
     },
     {
       "id": "nfg5lom8",
-      "x": 14713.254927451455,
+      "x": 14711.899890174967,
       "y": 3517.80940439402,
       "w": 320,
       "h": 262,
@@ -2251,7 +2251,7 @@
     },
     {
       "id": "nr7c7s34",
-      "x": 14715.511768061322,
+      "x": 14714.156730784835,
       "y": 3819.80940439402,
       "w": 320,
       "h": 411,
@@ -2448,7 +2448,7 @@
     },
     {
       "id": "nm92wanr",
-      "x": 17760.564895834676,
+      "x": 17759.209858558188,
       "y": 5560.356185310376,
       "w": 320,
       "h": 1961,
@@ -2652,8 +2652,8 @@
     },
     {
       "id": "nz0a1m7o",
-      "x": 18374.362388809084,
-      "y": 6004.999370788456,
+      "x": 18377.732260674624,
+      "y": 5725.300005948692,
       "w": 320,
       "h": 361,
       "group": null,
@@ -2701,8 +2701,8 @@
     },
     {
       "id": "n1yqnyhv",
-      "x": 18854.362388809084,
-      "y": 6004.999370788456,
+      "x": 19056.554700741443,
+      "y": 6129.6846298134105,
       "w": 320,
       "h": 647,
       "group": null,
@@ -2728,6 +2728,469 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-11-27_alle_17.56.58.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nyinl0sy",
+      "x": 18715.532647535554,
+      "y": 3637.3561853103756,
+      "w": 320,
+      "h": 603,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "The emotional linguistic mediation platform",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "Censorship",
+          "Conflict",
+          "Society"
+        ],
+        "tags": [],
+        "desc": "The text describes a future scenario centered on a start-up that turns news into a \"therapeutic good.\" To combat global cognitive fatigue and information saturation, the company uses AI and biometric data to rewrite news in real-time, adapting the language to the user's specific stress tolerance and emotional state. While the stated mission is to \"humanize information\" and protect mental health, the underlying implication is a \"linguistic conflict\": users consensually surrender complexity and delegate the regulation of their emotional reality to an algorithm, creating an information bubble designed solely not to hurt them.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.10.14.png",
+            "size": 296629,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.10.14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n61tvfos",
+      "x": 19603.240568255213,
+      "y": 3909.737503014065,
+      "w": 320,
+      "h": 540,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Media Framing and Linguistic Bias in the Israel-Palestine Conflict",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Conflict",
+          "Society",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "\nThis document analyzes the \"framing\" of the Israel-Palestine conflict by comparing two Italian newspapers, Corriere della Sera and Libero Quotidiano. Through word frequency analysis (Table 5) and headline comparison, it demonstrates how linguistic choices shape reality.\n\nLibero uses polarized language, focusing on \"Hamas,\" \"Attacks,\" and security, prioritizing the Israeli viewpoint.\n\nCorriere focuses on \"Diplomacy,\" \"International Organizations,\" and institutional discourse.\n\nThe text also provides a theoretical example of how language sanitizes reality in international politics: labeling a combat mission as \"Peacekeeping\" or \"Stabilization\" instead of \"Military Intervention\" changes the public's perception from one of violence to one of neutrality, fitting the user's broader theme of how language constructs (or distorts) reality.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4irjbek",
+      "x": 19613.60549360044,
+      "y": 4513.554126258686,
+      "w": 320,
+      "h": 958,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Linguistic Framing in Rape Trials",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Society",
+          "Information",
+          "Linguistic"
+        ],
+        "tags": [],
+        "desc": "The text analyzes how lexical choices in legal settings manipulate the perception of reality, specifically in rape trials. Citing studies by Loftus & Palmer, Pritchard, and Trinch, it highlights that explicit terms like \"rape\" are often banned to protect the accused's innocence, a restriction unique to this crime. Consequently, the violence of the act is obscured: judges and lawyers frequently use \"erotic,\" \"neutral,\" or \"euphemistic\" language (over 80% of references), rather than direct (\"orthophemistic\") terms. The text also notes a classification system for these words (sexual, violent, physical, disapproving, oxymoronic) and a \"spectrum of directness,\" showing that legal language systematically softens the reality of sexual violence.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.19.26.png",
+            "size": 414517,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.19.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nk0kg6g0",
+      "x": 20326.80274680022,
+      "y": 4370,
+      "w": 320,
+      "h": 491,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Collection of types of framing",
+        "type": "Collection",
+        "action": null,
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "Information",
+          "Society"
+        ],
+        "tags": [],
+        "desc": "collection of types of framing. We have realised that framign could be what is interesting in our project in order to understand how words influence our mentality",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.20.21.png",
+            "size": 810079,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.20.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5tmy4zl",
+      "x": 20743.654412590822,
+      "y": 5755.785103724751,
+      "w": 320,
+      "h": 835,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "Our brand",
+        "type": "Collection",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Weapon",
+          "War"
+        ],
+        "tags": [
+          "Engeneering"
+        ],
+        "desc": "we've defined that our agency works with parameters and produces linguistic weapons, so we started searching inspo for our brand",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.27.01.png",
+            "size": 587289,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.27.01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncguk3et",
+      "x": 21219.654412590822,
+      "y": 5755.785103724751,
+      "w": 320,
+      "h": 484,
+      "group": null,
+      "data": {
+        "date": "2025-10-18",
+        "title": "moodboard for our brand",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Weapon",
+          "War"
+        ],
+        "tags": [
+          "Video-games",
+          "Pixel",
+          "Futuristic"
+        ],
+        "desc": "we defined our first moodboard that is our guidline to keep going on searching something else",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.30.21.png",
+            "size": 892572,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.30.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ndfybqxt",
+      "x": 21232.729932456405,
+      "y": 6400.879614954229,
+      "w": 320,
+      "h": 266,
+      "group": null,
+      "data": {
+        "date": "2025-11-27",
+        "title": "First definition of our values",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Society"
+        ],
+        "tags": [
+          "Futuristic",
+          "Pixel",
+          "Video-games",
+          "Engeneering"
+        ],
+        "desc": "first definition of vision, mission , target, values and tone of voice",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nfomb0wn",
+      "x": 21751.18456910908,
+      "y": 5998.976952645598,
+      "w": 320,
+      "h": 439,
+      "group": null,
+      "data": {
+        "date": "2025-11-27",
+        "title": "First brand identity feedback",
+        "type": "Feedback",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Linguistic",
+          "War"
+        ],
+        "tags": [],
+        "desc": "These notes reframe the project's identity: the fictional entity should operate and present itself specifically as a linguistic arms dealer. The core concept is that words are weapons, and the \"parameters\" chosen by users are akin to selecting a specific model of weaponry. A distinction is drawn between the \"Machine\" (an installation/marketing tool used to project the company's vision) and the actual \"Weapons\" (the linguistic tools sold to different clients, from state to civilians). The summary questions the scale of production (one vs. many weapons) and emphasizes the mission of \"helping to create a different world\" through linguistic control.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ny57yxu9",
+      "x": 22273.58491034339,
+      "y": 6177.745130254298,
+      "w": 320,
+      "h": 249,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "first round of possible names",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "War",
+          "Linguistic",
+          "Weapon"
+        ],
+        "tags": [
+          "Futuristic",
+          "Engeneering"
+        ],
+        "desc": "Phragma, Phrakt, Semphra",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "niw8dxqd",
+      "x": 22749.58491034339,
+      "y": 6521.745130254298,
+      "w": 320,
+      "h": 443,
+      "group": null,
+      "data": {
+        "date": "2025-10-22",
+        "title": "New Mission and Vision",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "War",
+          "Linguistic",
+          "Weapon"
+        ],
+        "tags": [
+          "Engeneering"
+        ],
+        "desc": "vertical work on vision and mission of our brand",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.37.12.png",
+            "size": 346374,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.37.12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nchfbkmc",
+      "x": 22953.548980626012,
+      "y": 5551.977807817099,
+      "w": 320,
+      "h": 394,
+      "group": null,
+      "data": {
+        "date": "2025-11-27",
+        "title": "definition of our name",
+        "type": "Decision",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic"
+        ],
+        "tags": [
+          "Engeneering",
+          "Futuristic"
+        ],
+        "desc": "FRAGMA",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.38.29.png",
+            "size": 29167,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.38.29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3cbp1fc",
+      "x": 23489.548980626012,
+      "y": 6075.977807817099,
+      "w": 320,
+      "h": 753,
+      "group": null,
+      "data": {
+        "date": "2025-10-23",
+        "title": "Initial logo inspo",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Weapon",
+          "War",
+          "Linguistic"
+        ],
+        "tags": [
+          "Engeneering",
+          "Video-games",
+          "Futuristic",
+          "Pixel"
+        ],
+        "desc": "moodboard about an aim that could be right for our meaning",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.40.12.png",
+            "size": 606894,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.40.12.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 alle 18.41.55.png",
+            "size": 653868,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.41.55.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n41uyh13",
+      "x": 23979.959817195977,
+      "y": 5737.016654648386,
+      "w": 320,
+      "h": 476,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "First Framga logo version",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "War",
+          "Weapon"
+        ],
+        "tags": [
+          "Pixel",
+          "Futuristic",
+          "Engeneering"
+        ],
+        "desc": "this logo could be similar to a weapon or to someone pointing at something ",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.42.38.png",
+            "size": 550031,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.42.38.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsk41rrl",
+      "x": 23996.853229384113,
+      "y": 6388.090033983894,
+      "w": 320,
+      "h": 640,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "Second Fragma logo version",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "War",
+          "Weapon"
+        ],
+        "tags": [
+          "Engeneering",
+          "Futuristic"
+        ],
+        "desc": "This logo was more about the fragmentation of reality which is one of Fragma values and main themes",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.45.24.png",
+            "size": 869226,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.45.24.jpg"
           }
         ]
       }
@@ -4683,36 +5146,401 @@
       "s": "nz0a1m7o",
       "t": "n1yqnyhv",
       "dashed": false
+    },
+    {
+      "s": "nm92wanr",
+      "t": "n1yqnyhv",
+      "dashed": false
+    },
+    {
+      "s": "niby426n",
+      "t": "n1yqnyhv",
+      "dashed": false
+    },
+    {
+      "s": "n6jvknds",
+      "t": "n1yqnyhv",
+      "dashed": false
+    },
+    {
+      "s": "nfg5lom8",
+      "t": "n1yqnyhv",
+      "dashed": false
+    },
+    {
+      "s": "nr7c7s34",
+      "t": "n1yqnyhv",
+      "dashed": false
+    },
+    {
+      "s": "nvpm4fnc",
+      "t": "n1yqnyhv",
+      "dashed": false
+    },
+    {
+      "s": "naooa3t6",
+      "t": "n6uxmk42",
+      "dashed": false
+    },
+    {
+      "s": "njtn1rat",
+      "t": "n6uxmk42",
+      "dashed": false
+    },
+    {
+      "s": "netntlrq",
+      "t": "n6uxmk42",
+      "dashed": false
+    },
+    {
+      "s": "ng10uyuq",
+      "t": "n6uxmk42",
+      "dashed": false
+    },
+    {
+      "s": "n074afct",
+      "t": "n6uxmk42",
+      "dashed": false
+    },
+    {
+      "s": "nt3ny5fd",
+      "t": "n6uxmk42",
+      "dashed": false
+    },
+    {
+      "s": "n1fwi80h",
+      "t": "n6uxmk42",
+      "dashed": false
+    },
+    {
+      "s": "nfuv2zkr",
+      "t": "n6uxmk42",
+      "dashed": false
+    },
+    {
+      "s": "nk8vvnap",
+      "t": "n6uxmk42",
+      "dashed": false
+    },
+    {
+      "s": "nwyec8wu",
+      "t": "n6uxmk42",
+      "dashed": false
+    },
+    {
+      "s": "n6uxmk42",
+      "t": "nyinl0sy",
+      "dashed": false
+    },
+    {
+      "s": "ng10uyuq",
+      "t": "nyinl0sy",
+      "dashed": false
+    },
+    {
+      "s": "nt3ny5fd",
+      "t": "nyinl0sy",
+      "dashed": false
+    },
+    {
+      "s": "nles9exy",
+      "t": "nyinl0sy",
+      "dashed": false
+    },
+    {
+      "s": "nwyec8wu",
+      "t": "nyinl0sy",
+      "dashed": false
+    },
+    {
+      "s": "nyrm6lbd",
+      "t": "nyinl0sy",
+      "dashed": false
+    },
+    {
+      "s": "nxglqn9t",
+      "t": "nyinl0sy",
+      "dashed": false
+    },
+    {
+      "s": "ntzkv8l2",
+      "t": "n61tvfos",
+      "dashed": false
+    },
+    {
+      "s": "nce2t8vu",
+      "t": "n61tvfos",
+      "dashed": false
+    },
+    {
+      "s": "nkye3xd9",
+      "t": "n61tvfos",
+      "dashed": false
+    },
+    {
+      "s": "nq0y5nxt",
+      "t": "n61tvfos",
+      "dashed": false
+    },
+    {
+      "s": "n363omuc",
+      "t": "n61tvfos",
+      "dashed": false
+    },
+    {
+      "s": "ntv42eb9",
+      "t": "n61tvfos",
+      "dashed": false
+    },
+    {
+      "s": "nlyzatnl",
+      "t": "n61tvfos",
+      "dashed": false
+    },
+    {
+      "s": "nwyec8wu",
+      "t": "n61tvfos",
+      "dashed": false
+    },
+    {
+      "s": "nyrm6lbd",
+      "t": "n61tvfos",
+      "dashed": false
+    },
+    {
+      "s": "n78itqex",
+      "t": "n61tvfos",
+      "dashed": false
+    },
+    {
+      "s": "nyinl0sy",
+      "t": "n61tvfos",
+      "dashed": false
+    },
+    {
+      "s": "n4irjbek",
+      "t": "nk0kg6g0",
+      "dashed": false
+    },
+    {
+      "s": "n61tvfos",
+      "t": "nk0kg6g0",
+      "dashed": false
+    },
+    {
+      "s": "ncvs9w0i",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "nce2t8vu",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "n6fradse",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "nq0y5nxt",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "n363omuc",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "nf4lf2kd",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "n0663t9d",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "nth33s4s",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "ntq8xu6b",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "natd18wh",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "ntv42eb9",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "nt3ny5fd",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "nyrm6lbd",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "nxglqn9t",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "n78itqex",
+      "t": "n4irjbek",
+      "dashed": false
+    },
+    {
+      "s": "n5tmy4zl",
+      "t": "ncguk3et",
+      "dashed": false
+    },
+    {
+      "s": "n5tmy4zl",
+      "t": "ndfybqxt",
+      "dashed": false
+    },
+    {
+      "s": "ncguk3et",
+      "t": "ndfybqxt",
+      "dashed": false
+    },
+    {
+      "s": "ndfybqxt",
+      "t": "ncguk3et",
+      "dashed": false
+    },
+    {
+      "s": "ncguk3et",
+      "t": "nfomb0wn",
+      "dashed": false
+    },
+    {
+      "s": "ndfybqxt",
+      "t": "nfomb0wn",
+      "dashed": false
+    },
+    {
+      "s": "nfomb0wn",
+      "t": "ny57yxu9",
+      "dashed": false
+    },
+    {
+      "s": "ny57yxu9",
+      "t": "niw8dxqd",
+      "dashed": false
+    },
+    {
+      "s": "ny57yxu9",
+      "t": "nchfbkmc",
+      "dashed": false
+    },
+    {
+      "s": "nfomb0wn",
+      "t": "niw8dxqd",
+      "dashed": false
+    },
+    {
+      "s": "ndfybqxt",
+      "t": "niw8dxqd",
+      "dashed": false
+    },
+    {
+      "s": "ncguk3et",
+      "t": "niw8dxqd",
+      "dashed": false
+    },
+    {
+      "s": "ncguk3et",
+      "t": "n3cbp1fc",
+      "dashed": false
+    },
+    {
+      "s": "ndfybqxt",
+      "t": "n3cbp1fc",
+      "dashed": false
+    },
+    {
+      "s": "nfomb0wn",
+      "t": "n3cbp1fc",
+      "dashed": false
+    },
+    {
+      "s": "niw8dxqd",
+      "t": "n3cbp1fc",
+      "dashed": false
+    },
+    {
+      "s": "n3cbp1fc",
+      "t": "n41uyh13",
+      "dashed": false
+    },
+    {
+      "s": "niw8dxqd",
+      "t": "n41uyh13",
+      "dashed": false
+    },
+    {
+      "s": "n3cbp1fc",
+      "t": "nsk41rrl",
+      "dashed": false
+    },
+    {
+      "s": "niw8dxqd",
+      "t": "nsk41rrl",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Evolution",
-      "Censorship",
+      "Conflict",
+      "Weapon",
+      "War",
       "Linguistic",
       "Society",
-      "Conflict",
-      "Arts",
-      "Morphology",
-      "Mental health",
-      "Philosophy",
-      "Research",
-      "Cognitive science",
       "Information",
-      "Informatics"
+      "Media",
+      "Informatics",
+      "Cognitive science",
+      "Research",
+      "Philosophy",
+      "Mental health",
+      "Morphology",
+      "Arts",
+      "Censorship",
+      "Evolution"
     ],
-    "tags": [],
+    "tags": [
+      "Futuristic",
+      "Engeneering",
+      "Pixel",
+      "Video-games",
+      "Video-games pixel"
+    ],
     "type": [
-      "Observation",
-      "Feedback",
-      "Slides",
-      "Brief",
-      "What-if",
-      "Finding",
-      "Decision",
       "Sketch",
+      "Collection",
+      "Concept",
+      "Feedback",
+      "Decision",
+      "Finding",
       "Source",
-      "Collection"
+      "Observation",
+      "Slides",
+      "What-if",
+      "Brief"
     ]
   }
 }
