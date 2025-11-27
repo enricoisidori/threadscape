@@ -2858,8 +2858,8 @@
     },
     {
       "id": "n5tmy4zl",
-      "x": 20743.654412590822,
-      "y": 5755.785103724751,
+      "x": 21155.654412590822,
+      "y": 6451.785103724751,
       "w": 320,
       "h": 835,
       "group": null,
@@ -2892,8 +2892,8 @@
     },
     {
       "id": "ncguk3et",
-      "x": 21219.654412590822,
-      "y": 5755.785103724751,
+      "x": 21631.654412590822,
+      "y": 6451.785103724751,
       "w": 320,
       "h": 484,
       "group": null,
@@ -2928,8 +2928,8 @@
     },
     {
       "id": "ndfybqxt",
-      "x": 21232.729932456405,
-      "y": 6400.879614954229,
+      "x": 21644.729932456405,
+      "y": 7096.879614954229,
       "w": 320,
       "h": 266,
       "group": null,
@@ -2957,8 +2957,8 @@
     },
     {
       "id": "nfomb0wn",
-      "x": 21751.18456910908,
-      "y": 5998.976952645598,
+      "x": 22163.18456910908,
+      "y": 6694.976952645598,
       "w": 320,
       "h": 439,
       "group": null,
@@ -2980,8 +2980,8 @@
     },
     {
       "id": "ny57yxu9",
-      "x": 22273.58491034339,
-      "y": 6177.745130254298,
+      "x": 22681.58491034339,
+      "y": 6873.745130254298,
       "w": 320,
       "h": 249,
       "group": null,
@@ -3007,8 +3007,8 @@
     },
     {
       "id": "niw8dxqd",
-      "x": 22749.58491034339,
-      "y": 6521.745130254298,
+      "x": 23157.58491034339,
+      "y": 7221.745130254298,
       "w": 320,
       "h": 443,
       "group": null,
@@ -3042,8 +3042,8 @@
     },
     {
       "id": "nchfbkmc",
-      "x": 22953.548980626012,
-      "y": 5551.977807817099,
+      "x": 23361.548980626012,
+      "y": 6251.977807817099,
       "w": 320,
       "h": 394,
       "group": null,
@@ -3078,8 +3078,8 @@
     },
     {
       "id": "n3cbp1fc",
-      "x": 23489.548980626012,
-      "y": 6075.977807817099,
+      "x": 23897.548980626012,
+      "y": 6775.977807817099,
       "w": 320,
       "h": 753,
       "group": null,
@@ -3124,8 +3124,8 @@
     },
     {
       "id": "n41uyh13",
-      "x": 23979.959817195977,
-      "y": 5737.016654648386,
+      "x": 24391.959817195977,
+      "y": 6433.016654648386,
       "w": 320,
       "h": 476,
       "group": null,
@@ -3161,8 +3161,8 @@
     },
     {
       "id": "nsk41rrl",
-      "x": 23996.853229384113,
-      "y": 6388.090033983894,
+      "x": 24408.853229384113,
+      "y": 7084.090033983894,
       "w": 320,
       "h": 640,
       "group": null,
@@ -3191,6 +3191,193 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-11-27_alle_18.45.24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntiid07n",
+      "x": 24536.853229384113,
+      "y": 7956.090033983894,
+      "w": 320,
+      "h": 448,
+      "group": null,
+      "data": {
+        "date": "2025-10-26",
+        "title": "Third Fragma logo version",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Linguistic",
+          "War",
+          "Weapon"
+        ],
+        "tags": [
+          "Futuristic"
+        ],
+        "desc": "These logos try to show the frammentation of the letter F",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.48.35.png",
+            "size": 1061808,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.48.35.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "newtx4qz",
+      "x": 25394.476153650205,
+      "y": 7144.054683235907,
+      "w": 320,
+      "h": 413,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "Some ASCII reference",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Conflict",
+          "Weapon",
+          "War"
+        ],
+        "tags": [
+          "Futuristic",
+          "Pixel",
+          "Video-games"
+        ],
+        "desc": "we've collected some other reference to complete our style",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.50.16.png",
+            "size": 1477722,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.50.16.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nr4sl3qi",
+      "x": 25425.848491539247,
+      "y": 8070.65659268994,
+      "w": 320,
+      "h": 564,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "Decision, evolution and application of our logo",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [
+          "Video-games",
+          "Pixel",
+          "Futuristic",
+          "Engeneering"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.51.53.png",
+            "size": 1259049,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.51.53.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-27 alle 18.53.35.png",
+            "size": 2834932,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.53.35.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nez51po0",
+      "x": 26037.37803530178,
+      "y": 7963.05215962339,
+      "w": 320,
+      "h": 742,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "FRAGMA: Brand Identity and Copywriting Strategy",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "The document outlines the branding and content strategy for \"FRAGMA,\" a fictional corporation that treats language as \"engineered weaponry.\" The brand presents itself as a scientific, authoritative, and determined entity offering \"strategic linguistics\" to governments (via SuperComputers) and corporations/individuals (via limited devices). The core philosophy is that reality should not be passively experienced but actively constructed and controlled through specific \"rhetorical artifacts\" (e.g., polarization, urgency). The proposed marketing copy emphasizes control, precision, and the power to define reality rather than discuss it, targeting an elite audience while treating the general public as subjects of this linguistic engineering.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.56.31.png",
+            "size": 491285,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.56.31.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njezn2rq",
+      "x": 26517.37803530178,
+      "y": 7963.05215962339,
+      "w": 320,
+      "h": 431,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Copywriting update",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "We understood that our payoff and our claim weren't enough strong, so we tried to do something more",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.57.54.png",
+            "size": 265298,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.57.54.jpg"
           }
         ]
       }
@@ -5501,18 +5688,98 @@
       "s": "niw8dxqd",
       "t": "nsk41rrl",
       "dashed": false
+    },
+    {
+      "s": "n3cbp1fc",
+      "t": "ntiid07n",
+      "dashed": false
+    },
+    {
+      "s": "niw8dxqd",
+      "t": "ntiid07n",
+      "dashed": false
+    },
+    {
+      "s": "niw8dxqd",
+      "t": "newtx4qz",
+      "dashed": false
+    },
+    {
+      "s": "nchfbkmc",
+      "t": "newtx4qz",
+      "dashed": false
+    },
+    {
+      "s": "ncguk3et",
+      "t": "newtx4qz",
+      "dashed": false
+    },
+    {
+      "s": "nfomb0wn",
+      "t": "newtx4qz",
+      "dashed": false
+    },
+    {
+      "s": "ny57yxu9",
+      "t": "newtx4qz",
+      "dashed": false
+    },
+    {
+      "s": "n3cbp1fc",
+      "t": "nr4sl3qi",
+      "dashed": false
+    },
+    {
+      "s": "niw8dxqd",
+      "t": "nr4sl3qi",
+      "dashed": false
+    },
+    {
+      "s": "nchfbkmc",
+      "t": "nr4sl3qi",
+      "dashed": false
+    },
+    {
+      "s": "ncguk3et",
+      "t": "nr4sl3qi",
+      "dashed": false
+    },
+    {
+      "s": "nfomb0wn",
+      "t": "nr4sl3qi",
+      "dashed": false
+    },
+    {
+      "s": "nr4sl3qi",
+      "t": "nez51po0",
+      "dashed": false
+    },
+    {
+      "s": "niw8dxqd",
+      "t": "nez51po0",
+      "dashed": false
+    },
+    {
+      "s": "nfomb0wn",
+      "t": "nez51po0",
+      "dashed": false
+    },
+    {
+      "s": "nez51po0",
+      "t": "njezn2rq",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Conflict",
+      "Informatics",
+      "Linguistic",
       "Weapon",
       "War",
-      "Linguistic",
+      "Conflict",
       "Society",
       "Information",
       "Media",
-      "Informatics",
       "Cognitive science",
       "Research",
       "Philosophy",
@@ -5523,18 +5790,18 @@
       "Evolution"
     ],
     "tags": [
-      "Futuristic",
       "Engeneering",
+      "Futuristic",
       "Pixel",
       "Video-games",
       "Video-games pixel"
     ],
     "type": [
-      "Sketch",
-      "Collection",
-      "Concept",
-      "Feedback",
       "Decision",
+      "Concept",
+      "Collection",
+      "Sketch",
+      "Feedback",
       "Finding",
       "Source",
       "Observation",
