@@ -1746,8 +1746,8 @@
     },
     {
       "id": "nk7iomyx",
-      "x": 9521.409785954105,
-      "y": 484.6629230775941,
+      "x": 9447.956349894012,
+      "y": 457.60113084492775,
       "w": 320,
       "h": 566,
       "group": null,
@@ -1785,21 +1785,135 @@
       }
     },
     {
-      "id": "nctmzen5",
-      "x": 313,
-      "y": 122,
+      "id": "nnvityo6",
+      "x": 11422.899219744259,
+      "y": 1062.860462905699,
       "w": 320,
-      "h": 135,
+      "h": 412,
       "group": null,
       "data": {
-        "date": "2025-11-25",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
+        "date": "2025-11-04",
+        "title": "Revision",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "The first feedback we received was that the first visual identity proposal works better, though some aspects still need refinement.\nThe shape is not right, it should resemble a tree, but at the moment it looks more like a mushroom, partly because of the cover that makes it bulkier.\n\nSome did not understand the purpose of the interactive machine: we focused too much on how the product works (within the scenario) and overlooked its role in communicating our values.\nThe paradox should be made explicit during the interaction.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3a4q01f",
+      "x": 11957.411534331613,
+      "y": 909.3132950352091,
+      "w": 320,
+      "h": 589,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Refining identity",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "We chose the first identity option and we are refining it.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 alle 12.24.01.png",
+            "size": 878772,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_alle_12.24.01.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-28 alle 12.24.12.png",
+            "size": 1314538,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_alle_12.24.12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n01qphts",
+      "x": 11965.40773031379,
+      "y": 1651.0447806932104,
+      "w": 320,
+      "h": 574,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Refining interaction",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [
+          "Ideas"
+        ],
+        "desc": "Rethinking the tree’s shape: adding a screen to display the data and changing the ‘canopy’ so that it resembles a tree more closely.\nWe also rethought the data visualization and how users interact with it, which could be connected to data from real forest trees (through an app? Or a screen?)",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 alle 12.24.29.png",
+            "size": 704722,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_alle_12.24.29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5nmswmc",
+      "x": 12566.471753346303,
+      "y": 990.6038460736303,
+      "w": 320,
+      "h": 775,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Revisione",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "We shouldn’t present two different product families. The large tree is our only real product, while the small tree is the communication device connected to it and that support our storytelling. We only produce the large artificial trees, which aligns with our mission.\n\nTreeal therefore becomes an energy-producing company, not just a product maker. Like an energy provider, it buys land to install artificial trees that generate energy.\n\nWe also reconsidered data visualization and the user experience: we need a digital journey showing what happens step by step. For example, when the user selects a tree, they can see it on a map and know where it comes from.\n\nWe defined different communication levels:\n\nLevel 0: the device shows the energy produced.\n\nLevel 1: the cover explains that a real tree was cut down (e.g., one oak equals 800 covers) and where it came from.\n\nLevel 2: the object at home reinforces our message — for example, making a sound when a real tree is cut down or intensifying purification as the selected forest is deforested.\n\nIn short: the company doesn’t sell a home product. The small tree is only a communication machine that talks about our single product: the large artificial trees.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3yd1jao",
+      "x": 12947.174339212868,
+      "y": 1925.547393144144,
+      "w": 320,
+      "h": 725,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Revisione 2",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "The idea of installing artificial trees because “everyone is doing a good deed” (like long-distance adoption) is too fragile. The communication cannot focus only on the household device—the powerful part of the narrative is the Treeal forests.\n\nWe need to return to our original scenario, focusing less on the product and its catalog, and more on what we actually do (create artificial forests) and communicate this clearly through videos, posters, and storytelling. We also need to understand our real audience: investors, governments, and institutions that fund ecological restoration. We offer an alternative to real trees, more efficient and impactful in fighting climate change.\n\nThe device should trigger a speculative reflection, but we must strengthen the communication: highlight the conflict, clarify Treeal’s rhetoric, and address people’s environmental sensitivity and desire to participate in a revolutionary change. Underline the paradox.\n\nThe cover works: more covers mean more forests cut down. The form doesn’t necessarily have to look like a tree. Posters should not just express the concept; they must show how Treeal communicates and what service it provides.\n\nWe also need to clarify the added value of the object (why not just an app?) and explain where the captured CO₂ goes.",
         "links": [],
         "files": []
       }
@@ -2145,29 +2259,80 @@
       "s": "nk7iomyx",
       "t": "n2h8n6uk",
       "dashed": false
+    },
+    {
+      "s": "n9qw5t6y",
+      "t": "nnvityo6",
+      "dashed": false
+    },
+    {
+      "s": "nnvityo6",
+      "t": "n3a4q01f",
+      "dashed": false
+    },
+    {
+      "s": "nnvityo6",
+      "t": "n01qphts",
+      "dashed": false
+    },
+    {
+      "s": "n9qw5t6y",
+      "t": "n5nmswmc",
+      "dashed": false
+    },
+    {
+      "s": "n3a4q01f",
+      "t": "n5nmswmc",
+      "dashed": false
+    },
+    {
+      "s": "n01qphts",
+      "t": "n5nmswmc",
+      "dashed": false
+    },
+    {
+      "s": "n5nmswmc",
+      "t": "n3yd1jao",
+      "dashed": false
+    },
+    {
+      "s": "n3a4q01f",
+      "t": "n3yd1jao",
+      "dashed": false
+    },
+    {
+      "s": "n01qphts",
+      "t": "n3yd1jao",
+      "dashed": false
+    },
+    {
+      "s": "nnvityo6",
+      "t": "n3yd1jao",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "Communication",
-      "Ideas",
-      "Design research",
-      "Research",
-      "Media studies",
-      "Socio-political",
+      "Critical design",
       "Critical theory",
-      "Critical design"
+      "Socio-political",
+      "Media studies",
+      "Research",
+      "Design research",
+      "Ideas"
     ],
     "tags": [
-      "Speculation",
       "Ideas",
+      "Scenarios",
       "Research",
-      "Scenarios"
+      "Speculation"
     ],
     "type": [
-      "Ideas",
       "Feedback",
+      "Decision",
       "Brief",
+      "Ideas",
       "Internal review"
     ]
   }
