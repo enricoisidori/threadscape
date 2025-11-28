@@ -6905,7 +6905,7 @@
       "x": 29005.702936729293,
       "y": 7520.260012664523,
       "w": 320,
-      "h": 684,
+      "h": 729,
       "group": null,
       "data": {
         "date": "2025-11-13",
@@ -6925,7 +6925,11 @@
           "Algorithmic governance",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Device render",
+          "Physical prototype",
+          "Mockup"
+        ],
         "desc": "",
         "links": [],
         "files": [
@@ -7255,6 +7259,270 @@
           "Visual identity"
         ],
         "desc": "Interface Design: Reduce colored dot size to mitigate toy-like aesthetic - avoid rotational mechanisms (requires bimanual operation, compromises stability). Recommended: minimal colored indicator + icon/text label. Color conventions provide baseline recognition, but contextual variation necessitates verbal/pictographic reinforcement.\n\nNomenclature: \n- Chronodex - preferred device designation: conveys technical precision, establishes \"temporal indexing\" semantics \n- Zero Hour Day - literal yet semantically accurate\n\nVisual Elements & Brand Identity: Icons require accompanying text labels. Scale testing essential - complex iconography degrades at reduced dimensions, warranting simplification.\n\nLogo: insufficient proximity between symbol and text requires adjustment. Implement superior iteration with integrated payoff. Conduct scale testing for legibility. Reduce tick marks, calibrate stroke weights - disparity between ring and typographic elements excessive. Typeface requires reinforcement.\n\nCommunication Framework - Critical gap: organizational partnership undefined. Recommend UN departmental affiliation - \"UN [designation]\" with \"powered by Synchro\" as subordinate attribution. \n\nNarrative: \"We are Synchro - we collaborate with this entity advocating for: one world one time zone\". Synchro maintains secondary positioning. Prioritize intrigue over comprehensive exposition.\n\nProduction: News broadcast format viable. Develop storyboard, integrate device interaction. Grey iteration effective. Sci-fi iconography redundant. Tile insertion demonstrates temporal inefficiency - three-step process superior.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnbms97o",
+      "x": 31241.857620490016,
+      "y": 5668.557370575635,
+      "w": 320,
+      "h": 492,
+      "group": null,
+      "data": {
+        "date": "2025-11-15",
+        "title": "Brand Palette and Logo",
+        "type": "Collection",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Experience design"
+        ],
+        "tags": [],
+        "desc": "Final color palette and logo spacing specifications",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 at 18.25.33.png",
+            "size": 197894,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_at_18.25.33.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvdzvy5e",
+      "x": 31627.117409289614,
+      "y": 6329.4102883205705,
+      "w": 320,
+      "h": 422,
+      "group": null,
+      "data": {
+        "date": "2025-11-16",
+        "title": "Prototype",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Experience design",
+          "Sensor technology",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [
+          "Device render",
+          "Physical prototype",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 at 18.27.32.png",
+            "size": 215810,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_at_18.27.32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0pbqpx1",
+      "x": 31247.594170037428,
+      "y": 6191.5321523939865,
+      "w": 320,
+      "h": 645,
+      "group": null,
+      "data": {
+        "date": "2025-11-15",
+        "title": "Prototype functionality",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Experience design",
+          "Sensor technology",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [
+          "Data perception",
+          "Temporal sovereignty",
+          "Identities",
+          "Data representation",
+          "Metric system"
+        ],
+        "desc": "The prototype operates through a dual LED ring system: an outer ring that illuminates white to indicate progress through inserted actions, and an inner ring that displays user-selected colors for each hour. A central button performs two functions: powering on the device (triggering a brief LED animation on the outer ring, displaying an ID on the screen, and optionally producing a startup sound for each voting session), and submitting data at the conclusion of voting. A single rotating knob functions as an hour selector, associating each hour with a value based on the currently active button as the user advances forward. Rotating the knob in the opposite direction deletes entries in a manner analogous to undo functionality, allowing users to backtrack to the point requiring correction.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nrpd4at6",
+      "x": 31251.932411300037,
+      "y": 6873.973237378687,
+      "w": 320,
+      "h": 786,
+      "group": null,
+      "data": {
+        "date": "2025-11-15",
+        "title": "Time Zone Map",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Data representation",
+          "Visual communication",
+          "Product design",
+          "Design research",
+          "Chronopolitics",
+          "Sensor technology",
+          "Experience design"
+        ],
+        "tags": [
+          "Time zones",
+          "Data representation",
+          "Physical computing",
+          "Metric system",
+          "Temporal sovereignty",
+          "Speculative projects",
+          "Data visualization"
+        ],
+        "desc": "Three distinct implementation strategies. \n- The first method involves a physical artifact combining a printed map with LED illumination controlled by Arduino. This approach presents fire safety considerations, requiring a protective plastic layer over the paper map. LED placement, either beneath (requiring high-intensity light sources) or above (necessitating tubular LED configurations), significantly impacts the technical requirements. \n- The second approach employs digital screens, offering greater modularity and direct access to existing data sources, though requiring careful design to conceal the screen's presence. \n- The third option utilizes projection technology, either for the complete visualization or exclusively for time zone data, though this raises spatial constraints. Each method presents distinct technical, material, and spatial trade-offs in representing temporal-geographic information.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nw6p4j3n",
+      "x": 32088.13842303032,
+      "y": 5234.249805607902,
+      "w": 320,
+      "h": 581,
+      "group": null,
+      "data": {
+        "date": "2025-11-16",
+        "title": "",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Design research",
+          "Branding",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity",
+          "Print media",
+          "Poster design",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 at 18.40.16.png",
+            "size": 124161,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_at_18.40.16.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nio8ewgt",
+      "x": 32092.895289072392,
+      "y": 5829.253134409722,
+      "w": 320,
+      "h": 654,
+      "group": null,
+      "data": {
+        "date": "2025-11-16",
+        "title": "",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Experience design"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity",
+          "Print media",
+          "Poster design",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 at 18.40.09.png",
+            "size": 160508,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_at_18.40.09.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrxxf4gx",
+      "x": 31628.768764870758,
+      "y": 5786.569166169417,
+      "w": 320,
+      "h": 364,
+      "group": null,
+      "data": {
+        "date": "2025-11-15",
+        "title": "Brand Comunication",
+        "type": "Decision",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Design research",
+          "Branding",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity",
+          "Print media",
+          "Poster design",
+          "Mockup"
+        ],
+        "desc": "Synchro maintains secondary positioning. Prioritize intrigue over comprehensive exposition.\n",
         "links": [],
         "files": []
       }
@@ -8850,91 +9118,129 @@
       "s": "nxt7l4u7",
       "t": "n5wgywpm",
       "dashed": false
+    },
+    {
+      "s": "n5wgywpm",
+      "t": "nnbms97o",
+      "dashed": false
+    },
+    {
+      "s": "n5wgywpm",
+      "t": "n0pbqpx1",
+      "dashed": false
+    },
+    {
+      "s": "n0pbqpx1",
+      "t": "nvdzvy5e",
+      "dashed": false
+    },
+    {
+      "s": "n5wgywpm",
+      "t": "nrpd4at6",
+      "dashed": false
+    },
+    {
+      "s": "nnbms97o",
+      "t": "nrxxf4gx",
+      "dashed": false
+    },
+    {
+      "s": "nrxxf4gx",
+      "t": "nw6p4j3n",
+      "dashed": false
+    },
+    {
+      "s": "nrxxf4gx",
+      "t": "nio8ewgt",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "Interaction design",
-      "Data perception",
       "Sensor technology",
-      "Sensor systems",
-      "Biometric data",
-      "Metric system",
-      "Media studies",
-      "Critical theory",
-      "Surveillance studies",
-      "Science and technology studies (sts)",
       "Chronopolitics",
-      "Critical design",
-      "Data ethics",
-      "Critical data studies",
-      "Socio-political",
-      "Communication",
-      "Visual communication",
-      "Metric governance",
-      "Algorithmic governance",
-      "Design research",
-      "Branding",
-      "Speculative design",
       "Data representation",
-      ": interaction design",
+      "Nteraction design",
+      "Design research",
+      "Experience design",
+      "Science and technology studies (sts)",
       "Product design",
-      "Experience design"
+      "Speculative design",
+      "Algorithmic governance",
+      "Metric governance",
+      "Socio-political",
+      "Critical data studies",
+      "Data ethics",
+      "Critical design",
+      "Branding",
+      "Visual communication",
+      "Communication",
+      "Surveillance studies",
+      "Critical theory",
+      "Media studies",
+      "Metric system",
+      "Biometric data",
+      "Sensor systems",
+      "Data perception"
     ],
     "tags": [
-      "Device render",
-      "Editorial design",
-      "Design research",
-      "Social media content",
-      "Data perception",
-      "Normalization bias",
-      "Subjective reality",
-      "Measuring the unmeasurable",
-      "Sensor technology",
-      "Alternative values",
-      "Body-politics",
-      "Algorithmic bias",
-      "Big data",
-      "Cognitive bias",
-      "Statistic bias",
-      "Senolytics",
-      "Cellular senescence",
-      "Relativity",
-      "Biometric data",
-      "Metric system",
-      "Identities",
-      "Metrics distortion",
-      "Deceptive pattern",
-      "Real-time data",
-      "Physical prototype",
-      "Power dynamics",
-      "Algorithmic governance",
-      "Socio-political",
-      "Metric governance",
-      "Temporal sovereignty",
-      "Mechanical computing",
-      "Print media",
       "Mockup",
-      "Data representation",
-      "Speculative projects",
-      "Interface design",
-      "Usability testing",
-      "Typography",
-      "Brand communication",
       "Poster design",
-      "Visual identity"
+      "Print media",
+      "Visual identity",
+      "Brand communication",
+      "Typography",
+      "Data visualization",
+      "Speculative projects",
+      "Temporal sovereignty",
+      "Metric system",
+      "Physical computing",
+      "Data representation",
+      "Time zones",
+      "Physical prototype",
+      "Device render",
+      "Identities",
+      "Data perception",
+      "Usability testing",
+      "Interface design",
+      "Mechanical computing",
+      "Metric governance",
+      "Socio-political",
+      "Algorithmic governance",
+      "Power dynamics",
+      "Real-time data",
+      "Deceptive pattern",
+      "Metrics distortion",
+      "Biometric data",
+      "Relativity",
+      "Cellular senescence",
+      "Senolytics",
+      "Statistic bias",
+      "Cognitive bias",
+      "Big data",
+      "Algorithmic bias",
+      "Body-politics",
+      "Alternative values",
+      "Sensor technology",
+      "Measuring the unmeasurable",
+      "Subjective reality",
+      "Normalization bias",
+      "Social media content",
+      "Design research",
+      "Editorial design"
     ],
     "type": [
-      "Feedback",
       "Artefact",
-      "Collection",
+      "Decision",
       "Observation",
       "Sketch",
-      "Finding",
-      "Brief",
-      "Source",
+      "Collection",
+      "Feedback",
       "Concept",
-      "Decision"
+      "Source",
+      "Brief",
+      "Finding"
     ]
   }
 }
