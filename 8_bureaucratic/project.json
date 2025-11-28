@@ -3028,7 +3028,7 @@
     {
       "id": "nm95qjd6",
       "x": 10517.681179340234,
-      "y": -474.8931961646018,
+      "y": -470.8931961646018,
       "w": 320,
       "h": 618,
       "group": null,
@@ -3209,20 +3209,25 @@
     },
     {
       "id": "nvaf3sqn",
-      "x": 11757.681179340234,
-      "y": 869.1068038353982,
+      "x": 11110.04306400469,
+      "y": 154.81975207259887,
       "w": 320,
-      "h": 173,
+      "h": 333,
       "group": null,
       "data": {
         "date": "2025-11-07",
-        "title": "OUTPUT",
-        "type": "Source",
+        "title": "progettazione per output",
+        "type": "Observation",
         "action": "Exploring",
         "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "To develop our communication engine, we prioritized analyzing the steps of our core service. We have decided to focus on the initial phase, which involves assessing the couple across various aspects to create a highly personalized contract.",
         "links": [],
         "files": []
       }
@@ -3347,83 +3352,36 @@
       "x": 10533.177950151645,
       "y": -1433.9674088451497,
       "w": 320,
-      "h": 202,
+      "h": 283,
       "group": null,
       "data": {
         "date": "2025-11-21",
-        "title": "branding ",
-        "type": "Source",
-        "action": null,
+        "title": "Creation of a Brand Identity",
+        "type": "Brief",
+        "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication"
+          "Communication",
+          "Brand identity"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "It is essential that we begin developing a complete brand identity for our insurance agency.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "np3g1208",
-      "x": 11238.282461958683,
-      "y": -2440.2177274362616,
+      "x": 11102.282461958683,
+      "y": -2128.2177274362616,
       "w": 320,
-      "h": 294,
+      "h": 300,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "branding formale ",
-        "type": "Source",
-        "action": null,
-        "mainArea": "Communication",
-        "areas": [
-          "Insurance",
-          "Administration",
-          "Communication"
-        ],
-        "tags": [],
-        "desc": "decisione di intraprendere un branding che rispecchiasse la formalità e il rigore di un'assicurazione e tenere anche un aspetto di clinicità e sicurezza rispetto al servizio che offriamo",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nuenuyrk",
-      "x": 11165.177950151645,
-      "y": -1313.9674088451497,
-      "w": 320,
-      "h": 230,
-      "group": null,
-      "data": {
-        "date": "2025-11-28",
-        "title": "",
-        "type": "Source",
-        "action": null,
-        "mainArea": "Communication",
-        "areas": [
-          "Insurance",
-          "Administration",
-          "Communication"
-        ],
-        "tags": [],
-        "desc": "richiesta di fare anche una brand identity diversa da quella proposta per averne due tra cui scegliere",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "ng53g0u4",
-      "x": 11625.177950151645,
-      "y": -1341.9674088451497,
-      "w": 320,
-      "h": 333,
-      "group": null,
-      "data": {
-        "date": "2025-11-28",
-        "title": "branding giocoso",
+        "title": "Formal Branding",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -3434,7 +3392,57 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "decisione di intraprendere un branding andasse nella direzione opposta rispetto alla prima opzione per rendere l'assicurazione più giocosa e meno intimidante -> obiettivo far sentire a proprio agio i clienti ",
+        "desc": "We opted for branding that projects the formality and rigor of insurance, alongside the trustworthiness and security of our service.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nuenuyrk",
+      "x": 11105.177950151645,
+      "y": -1301.9674088451497,
+      "w": 320,
+      "h": 300,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Feedback",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "Request to develop an alternative brand identity to the current proposal, ensuring we have two distinct options for selection.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ng53g0u4",
+      "x": 11553.020716506539,
+      "y": -1327.5359621161283,
+      "w": 320,
+      "h": 333,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Approachable Branding",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "The decision was made to pursue a contrasting branding strategy aimed at making insurance approachable and significantly less intimidating. The primary objective is to ensure absolute client comfort.",
         "links": [],
         "files": []
       }
@@ -3442,13 +3450,13 @@
     {
       "id": "nt8ya7j7",
       "x": 12070.452739324615,
-      "y": -3218.060207831417,
+      "y": -3222.060207831417,
       "w": 320,
-      "h": 384,
+      "h": 367,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "naming",
+        "title": "Naming",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -3459,21 +3467,21 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "nome: Quadra Assicurazioni\nspiegazione: evocativo e Professionale:  solido, affidabile e istituzionale\nRiferimento alla Risoluzione:  connessione con \"trovare la quadra\" suggerisce che l'ente si occupa di \"risolvere\" le cose, anche se il \"risolvere\" è in realtà un atto di quadrare ogni aspetto della vita delle persone.",
+        "desc": "Name: Quadra Assicurazioni\nThe name is both evocative and professional, immediately suggesting stability, reliability, and institutional trust. It strategically references the Italian idiom 'trovare la quadra' (to find the perfect balance or solution), positioning the company as an expert in resolving complex issues.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "npxqn2tn",
-      "x": 12078.452739324615,
-      "y": -2812.849375403178,
+      "x": 12072.175803973672,
+      "y": -2828.5417137805334,
       "w": 320,
-      "h": 333,
+      "h": 316,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "tono di voce",
+        "title": "Tone of voice",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -3484,22 +3492,22 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "tono di voce che privilegia l'efficienza e la chiarezza operativa sopra ogni altra cosa. Si spoglia di qualsiasi sovrastruttura emotiva per concentrarsi esclusivamente sulla trasmissione fattuale delle informazioni.",
+        "desc": "The tone is defined by operational efficiency and absolute clarity. It is strictly objective, stripping away all emotional language to focus exclusively on the precise, factual transmission of information.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n62vhlvo",
-      "x": 12434.890176544024,
-      "y": -2808.2018681436093,
+      "x": 12422.336305842138,
+      "y": -2830.1711418719074,
       "w": 320,
-      "h": 333,
+      "h": 384,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "vision e mission",
-        "type": "Source",
+        "title": "Vision and Mission",
+        "type": "Concept",
         "action": null,
         "mainArea": "Communication",
         "areas": [
@@ -3509,21 +3517,21 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "vision: Vogliamo un futuro dove tutte le relazioni abbiano riconoscimento, protezione e regole eque \nmission: La gestione delle tue relazioni è la nostra missione. Mettiamo a disposizione strumenti concreti per governare le complessità dei legami umani.",
+        "desc": "Vision\nTo establish a future where every relationship is formally recognized, protected, and governed by equitable rules.\n\nMission\nOur core mission is managing your relationships. We provide concrete tools to effectively govern the complexities of human connections.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nizpn7tz",
-      "x": 12090.269127433221,
-      "y": -2454.370420703539,
+      "x": 12074.576789055867,
+      "y": -2482.616629782779,
       "w": 320,
-      "h": 619,
+      "h": 535,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "valori",
+        "title": "Values",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -3534,21 +3542,21 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "INTEGRITÀ:\nL'Integrità non è un'opzione, è il nostro standard operativo: onestà e responsabilità assoluta.\nSignifica agire con imparzialità totale. Il nostro impegno è mantenere una condotta incorrotta, che garantisca un equilibrio costante in ogni decisione e interazione. Siamo responsabili dei risultati e operiamo con la trasparenza di chi è sempre intatto nel principio, assicurando che la fiducia riposta in noi non venga mai compromessa. \nRIGORE: \nIl Rigore è l'unica via del nostro operato: precisione assoluta e metodo non negoziabile.\nSignifica operare con aderenza inflessibile alle regole, ai principi e agli standard stabiliti, rifiutando ogni approssimazione. \nIl nostro è un approccio analitico e metodico, che garantisce che ogni azione, valutazione o strumento sia eseguito con la massima esattezza.\nNon tolleriamo l'errore né l'ambiguità. Il Rigore assicura l'affidabilità dei nostri risultati e la coerenza delle nostre tutele.",
+        "desc": "INTEGRITY\nIntegrity is our absolute operational standard, defined by unwavering honesty and responsibility. We maintain total impartiality and uncorrupted conduct, ensuring constant ethical balance in every decision. We operate with complete transparency, guaranteeing that the trust placed in us is never compromised.\n\nRIGOR\nRigor is the sole approach to our work, characterized by absolute precision and non-negotiable methodology. We maintain inflexible adherence to all established rules and standards, ensuring every action and assessment is executed with maximum exactness. Rigor eliminates error and ambiguity, guaranteeing the reliability of our results and the consistency of our protections.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n0sqtvts",
-      "x": 12429.11077040716,
-      "y": -3170.0870662429493,
+      "x": 12422.833835056217,
+      "y": -3217.1640813750164,
       "w": 320,
-      "h": 333,
+      "h": 350,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "payoff",
+        "title": "Payoff",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -3559,15 +3567,15 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "payoff: il tuo rapporto nero su bianco\nspiegazione: rapporto ha la doppia valenza di relazione, legame ma anche di contratto formale e resoconto nero su bianco è un’espressione che indica trasparenza, concretezza e sicurezza",
+        "desc": "\"Il tuo rapporto nero su bianco\"\nThe term 'rapporto' captures the dual meaning of a lasting client relationship and a formal, signed agreement. The phrase 'nero su bianco' is an established idiom that clearly conveys transparency, concreteness, and absolute security.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "njvqfhdw",
-      "x": 13278.344928923856,
-      "y": -3388.055786987646,
+      "x": 13249.795092847022,
+      "y": -3403.170406087147,
       "w": 320,
       "h": 1733,
       "group": null,
@@ -3639,7 +3647,7 @@
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "palette",
+        "title": "Color Palette",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -3666,14 +3674,14 @@
     },
     {
       "id": "nsnnbkkz",
-      "x": 14026.106751753057,
-      "y": -2797.3923909597415,
+      "x": 14016.030339020057,
+      "y": -2847.774454624744,
       "w": 320,
-      "h": 416,
+      "h": 467,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "marchio",
+        "title": "Logo Mark",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -3684,7 +3692,7 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "quadra dove la q diventa il nostro logo che con forme squadrare rappresenta \"quadra\" che incorpora due \"persone\" dentro al suo sistema per proteggerle",
+        "desc": "Quadra with a stylized 'Q' utilizing geometric, squared forms to embody the 'Quadra' concept of balance and resolution. The design integrates two abstract figures within its structure, symbolizing the absolute protection of client relationships within our system.",
         "links": [],
         "files": [
           {
@@ -3700,14 +3708,14 @@
     },
     {
       "id": "n37lh9cm",
-      "x": 12890.452607059593,
-      "y": -3398.8873974618227,
+      "x": 12845.10874976109,
+      "y": -3404.1459403971853,
       "w": 320,
       "h": 316,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "messaggio che vogliamo far trasparire",
+        "title": "Our Key Message",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -3718,15 +3726,15 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "siamo affidabili perchè ogni cosa con noi è sicura perchè razionale e clinicamente corretta. non c’è grigio o incertezza, o bianco o nero se ti assiucri con noi",
+        "desc": "Our reliability is rooted in rational, clinically precise operations, ensuring absolute security. We eliminate uncertainty and the gray areas; with us, your coverage is strictly black or white.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nvejy3jg",
-      "x": 14406.106751753057,
-      "y": -2921.3923909597415,
+      "x": 14365.801100821056,
+      "y": -2847.498697584404,
       "w": 320,
       "h": 795,
       "group": null,
@@ -4237,11 +4245,11 @@
       "x": 12105.177950151645,
       "y": -1462.5196418190294,
       "w": 320,
-      "h": 300,
+      "h": 350,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "naming",
+        "title": "Naming",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4252,7 +4260,7 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "OPS Assicurazioni\nrichiamo all'onomatopea che si usa quando si sbaglia e si fa qualcosa di dannoso ",
+        "desc": "OPS Assicurazioni.\nThe name directly references the 'oops' onomatopoeia, immediately connecting the brand to the moment a mistake or mishap occurs and positioning insurance as the simple, immediate solution.",
         "links": [],
         "files": []
       }
@@ -4262,7 +4270,7 @@
       "x": 12465.477765698613,
       "y": -1456.971321433815,
       "w": 320,
-      "h": 283,
+      "h": 384,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -4277,21 +4285,21 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "sh*t happens\nmodo di dire inglese per dire che ...",
+        "desc": "\"sh*t happens\"\nThe tagline utilizes a highly common, informal English idiom to directly acknowledge that unpredictable mishaps and mistakes are a normal part of life. This breaks down traditional insurance formality, reassuring clients that the company understands and covers life’s unavoidable unpredictability without judgment.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nc3dlwp3",
-      "x": 12107.259026165864,
-      "y": -1141.615829485024,
+      "x": 12104.37273682006,
+      "y": -1095.4351999521555,
       "w": 320,
-      "h": 266,
+      "h": 316,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "tono di voce",
+        "title": "Tone of Voice",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4302,21 +4310,21 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "ironica, confidenziale, funny, brioso, giovane, cool",
+        "desc": "The tone is defined as ironic, humorous, and highly familiar. It utilizes a spirited, modern, and youthful voice to make complex topics relatable and engaging.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nipvj0g9",
-      "x": 12467.718581895695,
-      "y": -1143.2644375987793,
+      "x": 12464.83229254989,
+      "y": -1056.6757572246506,
       "w": 320,
-      "h": 367,
+      "h": 384,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "vison e mission",
+        "title": "Vison and Mission",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4327,21 +4335,21 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "vision: Immaginiamo un futuro in cui ogni relazione è regolata e rimborsabile... perchè litigare va bene, ma con un piano di copertura è meglio\nmission: Offriamo protezione totale per ogni tipo di relazione, con amanti, amici e anche con la suocera. Drammi e conflitti? Li trasformiamo in pratiche risolvibili",
+        "desc": "Vision: We envision a future where every relationship is regulated and reimbursable. Because arguing is inevitable, but having a coverage plan is undeniably better.\n\nMission: We offer total protection for every type of relationship, including those with lovers, friends, and even the mother-in-law. We take all the drama and conflict and transform it into easily resolvable claims.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ni8aidva",
-      "x": 12103.096874137425,
-      "y": -854.0212095561211,
+      "x": 12108.869452829033,
+      "y": -761.659950490384,
       "w": 320,
-      "h": 434,
+      "h": 417,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "valori",
+        "title": "Values",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4352,7 +4360,7 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "AFFIDABILITÀ\nFacciamo quello che diciamo di fare, senza giri di parole né sorprese: puoi contare su di noi anche quando tutto il resto sembra complicato. \nCerto, non promettiamo miracoli... ma di sicuro ci saremo sempre\nEMPATIA\nImmaginiamo ogni possibile imprevisto per farti sentire sempre un passo avanti: perché capire davvero le persone significa pensare a tutto quello che potrebbe accadere, prima che accada.",
+        "desc": "RELIABILITY\nWe do what we say, without the confusing language or surprise fees. You can count on us even when life gets messy. While we won't promise miracles, we guarantee we will always show up.\n\nEMPATHY\nWe think through every possible hiccup so you always feel one step ahead. For us, real empathy means anticipating every bit of chaos before it lands on your doorstep.",
         "links": [],
         "files": []
       }
@@ -4366,7 +4374,7 @@
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "messaggio che vogliamo veicolare",
+        "title": "Our Key Message",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4377,7 +4385,7 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "creare una comunicazione affidabile che ispiri le persone a venire da noi, con toni più ironici vogliamo far riflette sulle conflittualità quotidiane presenti nelle relazioni. vogliamo anche invogliare le persone, creando una identità he faccia sentire a proprio agio",
+        "desc": "Our communication is designed to inspire action through reliability. We utilize irony to prompt reflection on everyday relationship conflicts, successfully building an identity that entices clients by prioritizing their comfort and ease.",
         "links": [],
         "files": []
       }
@@ -4391,7 +4399,7 @@
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "moodboard",
+        "title": "Moodboard",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
@@ -4449,7 +4457,7 @@
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "palette",
+        "title": "Color Palette",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4479,11 +4487,11 @@
       "x": 14069.177950151645,
       "y": -1278.9674088451497,
       "w": 320,
-      "h": 494,
+      "h": 452,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "marchio",
+        "title": "Logo Mark",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4494,7 +4502,7 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "utilizzo dell'asterisco",
+        "desc": "",
         "links": [],
         "files": [
           {
@@ -4510,14 +4518,14 @@
     },
     {
       "id": "n06zqy0k",
-      "x": 14499.021135976847,
-      "y": -1286.095692806753,
+      "x": 14421.091323640132,
+      "y": -1283.2094034609488,
       "w": 320,
       "h": 957,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "applications",
+        "title": "Applications",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4567,7 +4575,7 @@
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "feedback dopo la presentazione delle due brand identity",
+        "title": "Feedback on the Two Brand Identities",
         "type": "Feedback",
         "action": null,
         "mainArea": "Communication",
@@ -4578,7 +4586,7 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "identità ops vista più interessante ma da migliorare\nidentità quadra più solida ma troppo tech",
+        "desc": "The OPS Identity is perceived as more interesting but requires refinement. The Quadra Identity is solid but is viewed as overly technical.",
         "links": [],
         "files": []
       }
@@ -4588,11 +4596,11 @@
       "x": 15310.106751753057,
       "y": -1933.3923909597415,
       "w": 320,
-      "h": 253,
+      "h": 300,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "",
+        "title": "Improving OPS",
         "type": "Observation",
         "action": "Exploring",
         "mainArea": "Communication",
@@ -4603,7 +4611,7 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "decisione di continuare con Ops cercando di renderla un po' più credibile modificandone alcuni elementi",
+        "desc": "We have decided to move forward with the OPS identity, focusing on improving its credibility by strategically modifying key elements.",
         "links": [],
         "files": []
       }
@@ -4617,7 +4625,7 @@
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "modifica palette",
+        "title": "New Color Palette",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4651,7 +4659,7 @@
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "nuovo marchio",
+        "title": "New Logo Mark",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4685,7 +4693,7 @@
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "new applications",
+        "title": "New Applications",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4731,11 +4739,11 @@
       "x": 15836.967326868195,
       "y": -2148.437916359353,
       "w": 320,
-      "h": 270,
+      "h": 300,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "",
+        "title": "Feedback",
         "type": "Feedback",
         "action": null,
         "mainArea": "Communication",
@@ -4746,21 +4754,21 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "meglio ma comunuqe i poster non sono piaciuti e nessuno ne. noi ne i prof sembrano convinti al massimo di questa identità ",
+        "desc": "While the direction is an improvement, the posters failed to resonate, and this identity does not fully convince either our team or the professors.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nyozbn2f",
-      "x": 16504.967326868195,
-      "y": -2552.437916359353,
+      "x": 16556.967326868195,
+      "y": -2172.437916359353,
       "w": 320,
-      "h": 316,
+      "h": 333,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "nuova identità",
+        "title": "New Brand Identity",
         "type": "Observation",
         "action": null,
         "mainArea": "Communication",
@@ -4771,7 +4779,334 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "decisione di eliminare tutto, prendendo solo alcuni elementi che ci piacciono, e ripartire da zero creando una nuova idenittà che ci appatenesse al massimo e che ci piacesse di più",
+        "desc": "The decision has been made to discard both proposals. We will restart from scratch, retaining only a few preferred elements, to create a new brand identity that maximizes our ownership and satisfaction.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n39nwkle",
+      "x": 12088.464950235279,
+      "y": 2723.8232392615837,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "contrattp",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nv9ldyt7",
+      "x": 11750.04306400469,
+      "y": 107.69033463602392,
+      "w": 320,
+      "h": 316,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Elementi fondamentali",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "macchina che avrà sicuramente una fase di definizione della natura della relazione e poi avrà un momento di rilevazione di parametri fisiologici mentre i due stanno avendo un'interazione",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6nm8x2a",
+      "x": 11746.04306400469,
+      "y": 446.6903346360239,
+      "w": 320,
+      "h": 300,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Posizione delle sue persone",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "le due persone o staranno una di fianco all'altra con la macchina davanti oppure staranno uno davanti all'altro con la macchina in mezzo",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nikh64c3",
+      "x": 12705.284980434373,
+      "y": 354.2445069300475,
+      "w": 320,
+      "h": 333,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Guardarsi negli occhi",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "prendendo ispirazione dalla performance \"The artist is present\" di marina abramovich le due persone dovranno guardarsi neli occhi per un minuto, questo porterà a forti emozioni che varieranno i parametri fisiologici e quindi il risultato del rischio tra i due ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nr1m0u83",
+      "x": 12701.79108810782,
+      "y": 739.6105474935819,
+      "w": 320,
+      "h": 442,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Joint Action",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "fare fare alle due persone un'azione di collaborazione che li pone con lo stesso obiettivo -> opzione quindi di creare una task che ne veda la risoluzione mentre i due collaborano \n\nquesta collaborazione potrà essere funzionale o disfunzionale facnedo modificare i parametri fisiologici che rileveremo e quindi modificando la valutazione del rischio tra le due persone",
+        "links": [
+          "https:​​/​/watermark02​.silverchair​.com​/nsaf075​.pdf​?token​=​AQECAHi208BE49Ooan9kkhW​_Ercy7Dm3ZL​_..."
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nd82ii6y",
+      "x": 12700.87039070283,
+      "y": -161.30062818747675,
+      "w": 320,
+      "h": 427,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "parametri fisiologici",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "basandoci sugli studi di Gottman useremo due parametri che usa anche lui: Conduttanza SCL e Interbeat interval IBI. Dai sui studi è stato rilevato che più l'IBI diminuisce e la SCL aumenta allora la persona sarà più aroused. Piu le persone sono aroused più sono insoddisfatte nella loro relazione e quindi più a rischio.",
+        "links": [
+          "https://bpl.studentorg.berkeley.edu/docs/28-Physiological%20and%20affective%20predictors85.pdf"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nf1uuft5",
+      "x": 13321.79108810782,
+      "y": 703.6105474935819,
+      "w": 320,
+      "h": 283,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Feedback sulla azione condivisa ",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "Piace di più e esembra più forte l'azione del guardarsi negli occhi",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ng36lgpt",
+      "x": 13797.79108810782,
+      "y": 567.6105474935819,
+      "w": 320,
+      "h": 253,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "necessità di definire le fasi che vorremmo far fare alle persone ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nd2u8w6i",
+      "x": 14305.79108810782,
+      "y": -48.38945250641814,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Phase One",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nf6wd9qs",
+      "x": 14305.79108810782,
+      "y": 186.61054749358186,
+      "w": 320,
+      "h": 195,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6naot6q",
+      "x": 14305.79108810782,
+      "y": 421.61054749358186,
+      "w": 320,
+      "h": 195,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nx7uyrcr",
+      "x": 14305.79108810782,
+      "y": 656.6105474935819,
+      "w": 320,
+      "h": 195,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n39vcv05",
+      "x": 14305.79108810782,
+      "y": 891.6105474935819,
+      "w": 320,
+      "h": 195,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
         "links": [],
         "files": []
       }
@@ -6407,18 +6742,104 @@
       "s": "n0oqgof5",
       "t": "nyozbn2f",
       "dashed": false
+    },
+    {
+      "s": "n1zjshle",
+      "t": "n39nwkle",
+      "dashed": false
+    },
+    {
+      "s": "nvaf3sqn",
+      "t": "nv9ldyt7",
+      "dashed": false
+    },
+    {
+      "s": "nvaf3sqn",
+      "t": "n6nm8x2a",
+      "dashed": false
+    },
+    {
+      "s": "nv9ldyt7",
+      "t": "nikh64c3",
+      "dashed": false
+    },
+    {
+      "s": "nv9ldyt7",
+      "t": "nr1m0u83",
+      "dashed": false
+    },
+    {
+      "s": "n6nm8x2a",
+      "t": "nikh64c3",
+      "dashed": false
+    },
+    {
+      "s": "n6nm8x2a",
+      "t": "nr1m0u83",
+      "dashed": false
+    },
+    {
+      "s": "nv9ldyt7",
+      "t": "nd82ii6y",
+      "dashed": false
+    },
+    {
+      "s": "nr1m0u83",
+      "t": "nf1uuft5",
+      "dashed": false
+    },
+    {
+      "s": "nikh64c3",
+      "t": "nf1uuft5",
+      "dashed": false
+    },
+    {
+      "s": "nf1uuft5",
+      "t": "ng36lgpt",
+      "dashed": false
+    },
+    {
+      "s": "ng36lgpt",
+      "t": "nd2u8w6i",
+      "dashed": false
+    },
+    {
+      "s": "ng36lgpt",
+      "t": "nf6wd9qs",
+      "dashed": false
+    },
+    {
+      "s": "ng36lgpt",
+      "t": "n6naot6q",
+      "dashed": false
+    },
+    {
+      "s": "ng36lgpt",
+      "t": "nx7uyrcr",
+      "dashed": false
+    },
+    {
+      "s": "ng36lgpt",
+      "t": "n39vcv05",
+      "dashed": false
+    },
+    {
+      "s": "nd82ii6y",
+      "t": "n6naot6q",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Conflict",
+      "Science",
+      "Public administration",
+      "Insurance",
       "Brand identity",
       "Identity",
       "Socio-political",
       "Law",
-      "Public administration",
-      "Science",
       "Communication",
-      "Conflict",
       "Hystory",
       "Media studies",
       "Cultural studies",
@@ -6429,7 +6850,6 @@
       "Envirionment",
       "Power",
       "Administration",
-      "Insurance",
       "Literature",
       "Sociology",
       "Cinema"
@@ -6444,11 +6864,11 @@
       "Feelings"
     ],
     "type": [
-      "Observation",
-      "Feedback",
       "Concept",
-      "Collection",
+      "Feedback",
+      "Observation",
       "Source",
+      "Collection",
       "Brief"
     ]
   }
