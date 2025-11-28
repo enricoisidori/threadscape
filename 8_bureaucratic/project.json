@@ -2905,8 +2905,8 @@
     },
     {
       "id": "nmdlznj9",
-      "x": 8419.538356033981,
-      "y": 483.9143348305812,
+      "x": 8794.912999576074,
+      "y": 441.9469833786702,
       "w": 320,
       "h": 361,
       "group": null,
@@ -2979,8 +2979,8 @@
     },
     {
       "id": "njbfb8r6",
-      "x": 8828.451879448034,
-      "y": 474.02423275486,
+      "x": 9203.826522990126,
+      "y": 432.056881302949,
       "w": 320,
       "h": 730,
       "group": null,
@@ -3047,8 +3047,8 @@
     },
     {
       "id": "njlffpf3",
-      "x": 10116.469258961612,
-      "y": 496.0589755218342,
+      "x": 9713.116381118245,
+      "y": 607.9719127269302,
       "w": 320,
       "h": 523,
       "group": null,
@@ -3209,8 +3209,8 @@
     },
     {
       "id": "nvaf3sqn",
-      "x": 11593.681179340234,
-      "y": -550.8931961646018,
+      "x": 11757.681179340234,
+      "y": 869.1068038353982,
       "w": 320,
       "h": 173,
       "group": null,
@@ -3321,8 +3321,8 @@
     },
     {
       "id": "n6t95pcf",
-      "x": 10485.080494645248,
-      "y": 349.0350788022755,
+      "x": 10081.727616801882,
+      "y": 460.9480160073715,
       "w": 320,
       "h": 506,
       "group": null,
@@ -3338,6 +3338,30 @@
         ],
         "tags": [],
         "desc": "quantified bureaucracy: every interaction is rated, and one’s numerical score dictates housing, work, and relationships. The final scene—two prisoners freed from ratings—reveals the cathartic liberation found outside bureaucratic judgment. In Yorgos Lanthimos’ The Lobster (2015), love itself is institutionalized: singles are confined to a hotel where they must find a partner within 45 days or be transformed into animals. Compatibility becomes a bureaucratic algorithm—love reduced to shared defects. Finally, Terry Gilliam’s Brazil (1985) imagines a dystopia consumed by paperwork, stamps, and mechanical inefficiency. Bureaucracy crushes imagination and individuality, while power circulates meaninglessly among inept officials. Across these works, bureaucracy emerges as both absurd and tragic—a system that promises order but suffocates humanity in its own regulations",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9qv7p93",
+      "x": 11665.177950151645,
+      "y": -2301.9674088451497,
+      "w": 320,
+      "h": 172,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "",
+        "type": "Source",
+        "action": null,
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "",
         "links": [],
         "files": []
       }
@@ -4483,48 +4507,58 @@
       "s": "nuigem8f",
       "t": "n6t95pcf",
       "dashed": false
+    },
+    {
+      "s": "nnlzurwy",
+      "t": "n9qv7p93",
+      "dashed": false
+    },
+    {
+      "s": "nlvi0ue8",
+      "t": "n9qv7p93",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Socio-political",
-      "Law",
-      "Identity",
-      "Public administration",
-      "Science",
-      "Communication",
-      "Conflict",
-      "Hystory",
-      "Media studies",
-      "Cultural studies",
-      "Critical design",
-      "Spatial design",
-      "Design research",
-      "Philosophy",
-      "Envirionment",
-      "Power",
-      "Administration",
-      "Insurance",
-      "Literature",
+      "Cinema",
       "Sociology",
-      "Cinema"
+      "Literature",
+      "Insurance",
+      "Administration",
+      "Power",
+      "Envirionment",
+      "Philosophy",
+      "Design research",
+      "Spatial design",
+      "Critical design",
+      "Cultural studies",
+      "Media studies",
+      "Hystory",
+      "Conflict",
+      "Communication",
+      "Science",
+      "Public administration",
+      "Identity",
+      "Law",
+      "Socio-political"
     ],
     "tags": [
-      "Power abuse",
-      "Corruption",
-      "Conflict",
-      "Opposition",
-      "Social tension",
+      "Feelings",
       "Emotion",
-      "Feelings"
+      "Social tension",
+      "Opposition",
+      "Conflict",
+      "Corruption",
+      "Power abuse"
     ],
     "type": [
-      "Feedback",
-      "Concept",
-      "Observation",
-      "Brief",
       "Source",
-      "Collection"
+      "Collection",
+      "Brief",
+      "Observation",
+      "Concept",
+      "Feedback"
     ]
   }
 }
