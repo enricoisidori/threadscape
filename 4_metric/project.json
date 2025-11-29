@@ -7615,8 +7615,8 @@
     },
     {
       "id": "n4r3q1ul",
-      "x": 33550.717391282036,
-      "y": 4997.89357777186,
+      "x": 33546.717391282036,
+      "y": 4957.89357777186,
       "w": 320,
       "h": 919,
       "group": null,
@@ -7714,8 +7714,8 @@
     },
     {
       "id": "nnofr8v7",
-      "x": 33911.3751676048,
-      "y": 4988.55110501966,
+      "x": 33943.3751676048,
+      "y": 4948.55110501966,
       "w": 320,
       "h": 380,
       "group": null,
@@ -7840,8 +7840,8 @@
     },
     {
       "id": "nylzbr7z",
-      "x": 33544.35298260062,
-      "y": 6818.907666100046,
+      "x": 33548.35298260062,
+      "y": 6690.907666100046,
       "w": 320,
       "h": 693,
       "group": null,
@@ -7880,8 +7880,8 @@
     },
     {
       "id": "njoxwel7",
-      "x": 35146.06270648508,
-      "y": 4669.915158141094,
+      "x": 35106.06270648508,
+      "y": 4761.915158141094,
       "w": 320,
       "h": 1122,
       "group": null,
@@ -7959,8 +7959,8 @@
     },
     {
       "id": "n0lm4tdo",
-      "x": 33549.51783451987,
-      "y": 5966.195561178658,
+      "x": 33545.51783451987,
+      "y": 5954.195561178658,
       "w": 320,
       "h": 719,
       "group": null,
@@ -7969,7 +7969,7 @@
         "title": "Web app prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
+        "mainArea": "Communication",
         "areas": [
           "Interaction design",
           "Web design",
@@ -8034,6 +8034,45 @@
         "desc": "00:00-00:06 | Opening - problem\nBlack screen.\nA deep sound signal, like a global broadcast.\nA white line crosses the screen and breaks.\n00:05-00:10 - Geopolitical scenario\nThe Greenwich meridian dissolves, replaced by multiple “pulsating” time axes.\nVO: \"Today, in a multipolar world, time is no longer neutral.\nIt defines trade, communication... everyday life.\"\nNetworks of cities light up one after the other. No drama: just order, regularity.\n00:11-00:15 - UN intervention\nAbstract UN logo (lines, orbits, no direct text).\nA single timeline emerges from many, restoring order.\nVO: ‘The United Nations envisions a new balance: a single global time zone governed by an independent and transparent institution.’\n00:15-00:21 | One single time zone\nVisual: View of the planet from satellite. Lights turning on in sequence.\nOR map of time zones pulsing until only one lights up.\nVO: ‘Its Department for Measurement Neutrality determines the world's reference time.’\n00:21-00:24 | Invitation to Zero Hour Day, the annual mechanism\nVisual: A simple circle closing in on itself, like a cycle coming full circle.\nIn the centre appears: ZERO HOUR DAY VO: \"Every year, nations are evaluated.\nThe leading state earns the right to define the world's reference time.\"",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "nl9n7xky",
+      "x": 35559.87387180491,
+      "y": 4772.5753197608,
+      "w": 320,
+      "h": 414,
+      "group": null,
+      "data": {
+        "date": "2025-11-22",
+        "title": "UN logo",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Chronopolitics"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 20.05.28.png",
+            "size": 97120,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_20.05.28.jpg"
+          }
+        ]
       }
     }
   ],
@@ -9782,10 +9821,16 @@
       "s": "nef5f9rs",
       "t": "njoxwel7",
       "dashed": false
+    },
+    {
+      "s": "njoxwel7",
+      "t": "nl9n7xky",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Chronopolitics",
       "Design research",
       "Algorithmic governance",
       "Socio-political",
@@ -9793,7 +9838,6 @@
       "Metric governance",
       "Critical design",
       "Speculative design",
-      "Chronopolitics",
       "Data representation",
       "Branding",
       "Visual communication",
@@ -9816,6 +9860,9 @@
       "Sensor technology"
     ],
     "tags": [
+      "Visual identity",
+      "Brand communication",
+      "Typography",
       "Metrics distortion",
       "Algorithmic governance",
       "Data representation",
@@ -9831,9 +9878,6 @@
       "Mockup",
       "Poster design",
       "Print media",
-      "Visual identity",
-      "Brand communication",
-      "Typography",
       "Usability testing",
       "Data perception",
       "Map",
@@ -9862,8 +9906,8 @@
       "Mechanical computing"
     ],
     "type": [
-      "Decision",
       "Artefact",
+      "Decision",
       "Feedback",
       "Observation",
       "Sketch",
