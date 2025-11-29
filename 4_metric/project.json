@@ -7232,7 +7232,7 @@
     },
     {
       "id": "n5wgywpm",
-      "x": 30793.79764387393,
+      "x": 30791.304144124708,
       "y": 4736.197998348293,
       "w": 320,
       "h": 1110,
@@ -7269,7 +7269,7 @@
     },
     {
       "id": "nnbms97o",
-      "x": 31241.81044795682,
+      "x": 31238.176062211747,
       "y": 4430.689799891099,
       "w": 320,
       "h": 492,
@@ -7281,15 +7281,15 @@
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
-          "Interaction design",
-          "Product design",
           "Communication",
           "Visual communication",
-          "Branding",
-          "Design research",
-          "Experience design"
+          "Branding"
         ],
-        "tags": [],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity"
+        ],
         "desc": "Final color palette and logo spacing specifications",
         "links": [],
         "files": [
@@ -7416,7 +7416,7 @@
     },
     {
       "id": "nw6p4j3n",
-      "x": 32088.091250497124,
+      "x": 32087.189513028618,
       "y": 3868.382234923366,
       "w": 320,
       "h": 581,
@@ -7457,10 +7457,10 @@
     },
     {
       "id": "nio8ewgt",
-      "x": 32088.848116539197,
-      "y": 4483.385563725186,
+      "x": 32086.667296761403,
+      "y": 4476.953087394531,
       "w": 320,
-      "h": 654,
+      "h": 585,
       "group": null,
       "data": {
         "date": "2025-11-16",
@@ -7469,13 +7469,10 @@
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
-          "Interaction design",
-          "Product design",
-          "Communication",
-          "Visual communication",
-          "Branding",
           "Design research",
-          "Experience design"
+          "Branding",
+          "Communication",
+          "Visual communication"
         ],
         "tags": [
           "Typography",
@@ -7533,8 +7530,8 @@
     },
     {
       "id": "nnmu4hgl",
-      "x": 32092.72765537919,
-      "y": 5203.296378460667,
+      "x": 32088.727655379193,
+      "y": 5199.296378460667,
       "w": 320,
       "h": 854,
       "group": null,
@@ -7590,15 +7587,16 @@
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
-          "Web design",
-          ": communication",
-          "Visual communication",
-          "Product design",
-          "Branding",
           "Interaction design",
-          "Experience design",
+          "Product design",
+          "Communication",
+          "Visual communication",
+          "Branding",
           "Design research",
-          "Chronopolitics"
+          "Experience design",
+          "Ui design",
+          "Map",
+          "Web design"
         ],
         "tags": [
           "Data representation",
@@ -7611,6 +7609,429 @@
           "Visual identity"
         ],
         "desc": "Identity Development: Create a specific UN agency designation (e.g., \"United Nations for Time Zone Normalization\") that explains the program. The clock-based visual from the final poster works well but needs consistency across materials. The circular motif should recur throughout all posters. Current approach spreads elements across three poster types without coherence; eliminate redundancies.\n\nContent Strategy: Replace vague terms like \"establish\" and \"define\" with direct language. Reduce excessive content: one component for SYNCHRO communication, one for the circular concept. Better structure the launch campaign.\n\nLogo: Maximum 15pt with increased letter spacing. Column width approximately one and a half standard units.\n\nPhysical Map: Print on forex or 3-4mm plexiglass with map pieces mounted above and LED strips behind. Alternative: laser-cut wood/plywood with drilled holes at time zone markers, film layer, and LED backing. Frame required for cables and wall mounting. Size: A1. Test a section first. Use flexible LED neon strips programmable via Arduino.\n\nWeb Application: Make misalignment more evident in the radial visualization—better alignment with the standard should show more aligned SVG elements.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4r3q1ul",
+      "x": 33550.717391282036,
+      "y": 4997.89357777186,
+      "w": 320,
+      "h": 919,
+      "group": null,
+      "data": {
+        "date": "2025-11-19",
+        "title": "UN program logo research",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Design research",
+          "Branding",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [],
+        "desc": "Hypothetical UN department responsible for preventing measures (of time, space, etc.) from becoming a political weapon - security.\n\n- UN Department for Global Measurement Integrity/Unification\n- UN Department for Non-Political Standards\n- UN Department for the Defense of Measurement Neutrality (DDMN)\n- Department for Standards Protection and Security (DSPS)\n- United Nations Office for Universal Time Regulation (UN-OUTR)\n- United Nations Department for Global Time Coordination (UN-DGTC)\n- United Nations Directorate for Temporal Harmonization (UN-DTH)\n- Global Order of Standards (GOS)\n- L'Ordine Globale degli Standard. Solenne, quasi\n\"nuovo ordine mondiale\"\n- Metric Integration Authority (MIA)\nIntegrare le metriche = integrare i comportamenti.\n- Harmonized Measures Bureau (HMB)",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 19.06.04.png",
+            "size": 496298,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_19.06.04.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9uyb9p5",
+      "x": 33044.196082636,
+      "y": 4621.161629732678,
+      "w": 320,
+      "h": 434,
+      "group": null,
+      "data": {
+        "date": "2025-11-19",
+        "title": "Definitive logo",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 19.02.33.png",
+            "size": 79208,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_19.02.33.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nzyadm7p",
+      "x": 33044.755362639036,
+      "y": 5119.692375673029,
+      "w": 320,
+      "h": 369,
+      "group": null,
+      "data": {
+        "date": "2025-11-19",
+        "title": "Comunication update",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research"
+        ],
+        "tags": [
+          "Brand communication",
+          "Visual identity"
+        ],
+        "desc": "- naming agency/United Nations department\n- arrange text on poster zerohourday\n- standardise posters for zerohourday day\n- synchro and zerohourday with alternative color palette",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnofr8v7",
+      "x": 33911.3751676048,
+      "y": 4988.55110501966,
+      "w": 320,
+      "h": 380,
+      "group": null,
+      "data": {
+        "date": "2025-11-19",
+        "title": "UN program logo",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Chronopolitics"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 19.03.59.png",
+            "size": 52456,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_19.03.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nd4c7c8c",
+      "x": 34473.62392100773,
+      "y": 4493.836880163516,
+      "w": 320,
+      "h": 832,
+      "group": null,
+      "data": {
+        "date": "2025-11-19",
+        "title": "ZeroHourDay Comunication",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Chronopolitics",
+          "Speculative design",
+          "Critical design",
+          "Metric governance",
+          "Science and technology studies (sts)",
+          "Socio-political",
+          "Algorithmic governance",
+          "Design research",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity",
+          "Print media",
+          "Poster design",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 19.22.41.png",
+            "size": 241596,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_19.22.41.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntrknbvg",
+      "x": 33541.00589696605,
+      "y": 4054.5164323433455,
+      "w": 320,
+      "h": 885,
+      "group": null,
+      "data": {
+        "date": "2025-11-19",
+        "title": "",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity",
+          "Print media",
+          "Poster design",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 19.24.37.png",
+            "size": 170698,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_19.24.37.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nylzbr7z",
+      "x": 33544.35298260062,
+      "y": 6818.907666100046,
+      "w": 320,
+      "h": 693,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Hardware testing",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Sensor technology",
+          "Product design"
+        ],
+        "tags": [
+          "Real-time data",
+          "Mechanical computing",
+          "Data representation",
+          "Metric system",
+          "Sensor technology",
+          "Usability testing"
+        ],
+        "desc": "Hardware testing procedure utilizing the ESP32 microcontroller platform. The testing protocol encompasses several physical interface components: a push button and tactile switch for discrete input, an RGB LED for multi-color output indication, a rotary encoder for analog input with discrete positioning (measured in degrees), a display module for visual feedback, and a standard switch for binary state control.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 19.28.56.png",
+            "size": 2492508,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_19.28.56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njoxwel7",
+      "x": 35146.06270648508,
+      "y": 4669.915158141094,
+      "w": 320,
+      "h": 1122,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Project review",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Experience design",
+          "Ui design",
+          "Map",
+          "Web design"
+        ],
+        "tags": [
+          "Data representation",
+          "Speculative projects",
+          "Interface design",
+          "Usability testing",
+          "Typography",
+          "Brand communication",
+          "Poster design",
+          "Visual identity"
+        ],
+        "desc": "Department Naming: Rename to \"Programme for [Time]\" to better reflect temporal focus and align with UN conventions. This designation emphasizes the temporal aspect while maintaining institutional consistency.\n\nConceptual Refinement: Reconsider the neutrality concept given ISO's standardization role. Current messaging like \"time is no longer neutral\" reads as too pessimistic for UN communication standards. Adopt more assertive and positive language rather than verbose or negative framing.\n\nPoster Compositions: Avoid catalog-style imagery. Choose between two clear visual directions: bold color approach or minimal graphic approach. The current hybrid lacks decisive visual language.\n\nTactile Text Design: Improve physical implementation by combining relief printing with black ink overlay, creating both tactile and visual hierarchy.\n\nUser Experience: Clarify flows, particularly around daily code generation functionality. The current interaction sequence lacks clarity about timing and user actions.\n\nLogo Redesign: Avoid star-like appearance by converting internal radiating elements to small squares while maintaining the overall radiating structure. This preserves the temporal/circular concept while improving legibility and reducing unintended symbolic associations.\n\nMotion Graphics: Develop video teasers using timezone reference lines as animated elements. Reference Royksopp's \"Remind Me\" music video for aesthetic direction—data visualization integrated with motion design.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkpqcd00",
+      "x": 34477.37209563439,
+      "y": 6338.458237003386,
+      "w": 320,
+      "h": 1253,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Experience Step Poster",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding"
+        ],
+        "tags": [
+          "Brand communication",
+          "Visual identity",
+          "Print media",
+          "Poster design",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 19.37.32.png",
+            "size": 64422,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_19.37.32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0lm4tdo",
+      "x": 33549.51783451987,
+      "y": 5966.195561178658,
+      "w": 320,
+      "h": 719,
+      "group": null,
+      "data": {
+        "date": "2025-11-19",
+        "title": "Web app prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Web design",
+          "Ui design",
+          "Experience design",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [
+          "Mockup",
+          "Data representation",
+          "Measuring the unmeasurable",
+          "Design research",
+          "Sensor technology",
+          "Metric governance",
+          "Interface design",
+          "Temporal sovereignty"
+        ],
+        "desc": "Pe rsonal page update:misalignment more evident in the radial visualization (confrontation between personal data and mandated standard time)",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 19.39.03.png",
+            "size": 508758,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_19.39.03.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nef5f9rs",
+      "x": 34470.550854911184,
+      "y": 5377.317501455258,
+      "w": 320,
+      "h": 907,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Teaser storyboard",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Metric system",
+          "Speculative projects",
+          "Socio-political",
+          "Data representation",
+          "Algorithmic governance",
+          "Metrics distortion"
+        ],
+        "desc": "00:00-00:06 | Opening - problem\nBlack screen.\nA deep sound signal, like a global broadcast.\nA white line crosses the screen and breaks.\n00:05-00:10 - Geopolitical scenario\nThe Greenwich meridian dissolves, replaced by multiple “pulsating” time axes.\nVO: \"Today, in a multipolar world, time is no longer neutral.\nIt defines trade, communication... everyday life.\"\nNetworks of cities light up one after the other. No drama: just order, regularity.\n00:11-00:15 - UN intervention\nAbstract UN logo (lines, orbits, no direct text).\nA single timeline emerges from many, restoring order.\nVO: ‘The United Nations envisions a new balance: a single global time zone governed by an independent and transparent institution.’\n00:15-00:21 | One single time zone\nVisual: View of the planet from satellite. Lights turning on in sequence.\nOR map of time zones pulsing until only one lights up.\nVO: ‘Its Department for Measurement Neutrality determines the world's reference time.’\n00:21-00:24 | Invitation to Zero Hour Day, the annual mechanism\nVisual: A simple circle closing in on itself, like a cycle coming full circle.\nIn the centre appears: ZERO HOUR DAY VO: \"Every year, nations are evaluated.\nThe leading state earns the right to define the world's reference time.\"",
         "links": [],
         "files": []
       }
@@ -9271,77 +9692,159 @@
       "s": "nrpd4at6",
       "t": "ng3tw7fq",
       "dashed": false
+    },
+    {
+      "s": "ng3tw7fq",
+      "t": "nzyadm7p",
+      "dashed": false
+    },
+    {
+      "s": "nzyadm7p",
+      "t": "n4r3q1ul",
+      "dashed": false
+    },
+    {
+      "s": "ng3tw7fq",
+      "t": "n9uyb9p5",
+      "dashed": false
+    },
+    {
+      "s": "n4r3q1ul",
+      "t": "nnofr8v7",
+      "dashed": false
+    },
+    {
+      "s": "nnofr8v7",
+      "t": "nd4c7c8c",
+      "dashed": false
+    },
+    {
+      "s": "n9uyb9p5",
+      "t": "ntrknbvg",
+      "dashed": false
+    },
+    {
+      "s": "n9uyb9p5",
+      "t": "nnofr8v7",
+      "dashed": false
+    },
+    {
+      "s": "nzyadm7p",
+      "t": "ntrknbvg",
+      "dashed": false
+    },
+    {
+      "s": "ng3tw7fq",
+      "t": "nylzbr7z",
+      "dashed": false
+    },
+    {
+      "s": "ntrknbvg",
+      "t": "njoxwel7",
+      "dashed": false
+    },
+    {
+      "s": "nd4c7c8c",
+      "t": "njoxwel7",
+      "dashed": false
+    },
+    {
+      "s": "nylzbr7z",
+      "t": "nkpqcd00",
+      "dashed": false
+    },
+    {
+      "s": "nkpqcd00",
+      "t": "njoxwel7",
+      "dashed": false
+    },
+    {
+      "s": "nzyadm7p",
+      "t": "nkpqcd00",
+      "dashed": false
+    },
+    {
+      "s": "nzyadm7p",
+      "t": "n0lm4tdo",
+      "dashed": false
+    },
+    {
+      "s": "n0lm4tdo",
+      "t": "njoxwel7",
+      "dashed": false
+    },
+    {
+      "s": "nnofr8v7",
+      "t": "nef5f9rs",
+      "dashed": false
+    },
+    {
+      "s": "nef5f9rs",
+      "t": "njoxwel7",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Chronopolitics",
-      "Branding",
-      "Product design",
-      "Visual communication",
-      ": communication",
-      "Data representation",
       "Design research",
-      "Ui design",
+      "Algorithmic governance",
+      "Socio-political",
+      "Science and technology studies (sts)",
+      "Metric governance",
+      "Critical design",
+      "Speculative design",
+      "Chronopolitics",
+      "Data representation",
+      "Branding",
+      "Visual communication",
+      "Communication",
       "Web design",
       "Map",
-      "Ui/ux design",
-      "Ui and ux design",
-      "Ui-ux design",
-      "Sensor technology",
+      "Ui design",
       "Experience design",
+      "Product design",
       "Interaction design",
-      "Nteraction design",
-      "Science and technology studies (sts)",
-      "Speculative design",
-      "Algorithmic governance",
-      "Metric governance",
-      "Socio-political",
       "Critical data studies",
       "Data ethics",
-      "Critical design",
-      "Communication",
       "Surveillance studies",
       "Critical theory",
       "Media studies",
       "Metric system",
       "Biometric data",
       "Sensor systems",
-      "Data perception"
+      "Data perception",
+      "Sensor technology"
     ],
     "tags": [
-      "Visual identity",
-      "Poster design",
-      "Brand communication",
-      "Typography",
-      "Usability testing",
-      "Interface design",
-      "Speculative projects",
+      "Metrics distortion",
+      "Algorithmic governance",
       "Data representation",
-      "Temporal sovereignty",
+      "Socio-political",
+      "Speculative projects",
+      "Metric system",
       "Metric governance",
+      "Temporal sovereignty",
+      "Interface design",
       "Sensor technology",
       "Design research",
       "Measuring the unmeasurable",
+      "Mockup",
+      "Poster design",
+      "Print media",
+      "Visual identity",
+      "Brand communication",
+      "Typography",
+      "Usability testing",
       "Data perception",
       "Map",
       "Biometric data",
-      "Mockup",
-      "Print media",
       "Data visualization",
-      "Metric system",
       "Physical computing",
-      "Time zones",
       "Physical prototype",
       "Device render",
       "Identities",
-      "Mechanical computing",
-      "Socio-political",
-      "Algorithmic governance",
       "Power dynamics",
-      "Real-time data",
       "Deceptive pattern",
-      "Metrics distortion",
       "Relativity",
       "Cellular senescence",
       "Senolytics",
@@ -9354,19 +9857,21 @@
       "Subjective reality",
       "Normalization bias",
       "Social media content",
-      "Editorial design"
+      "Editorial design",
+      "Real-time data",
+      "Mechanical computing"
     ],
     "type": [
       "Feedback",
       "Artefact",
       "Decision",
-      "Sketch",
       "Observation",
-      "Collection",
+      "Sketch",
       "Concept",
       "Source",
       "Brief",
-      "Finding"
+      "Finding",
+      "Collection"
     ]
   }
 }
