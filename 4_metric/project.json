@@ -7872,7 +7872,7 @@
     },
     {
       "id": "njoxwel7",
-      "x": 35302.06270648508,
+      "x": 35298.06270648508,
       "y": 4761.915158141094,
       "w": 320,
       "h": 1122,
@@ -8436,6 +8436,70 @@
             "path": "assets/Screenshot_2025-11-29_at_22.28.18.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "nnli6gt2",
+      "x": 37696.27430701574,
+      "y": 4867.2585108533385,
+      "w": 320,
+      "h": 976,
+      "group": null,
+      "data": {
+        "date": "2025-11-25",
+        "title": "Project review",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Experience design",
+          "Interaction design",
+          "Visual communication",
+          "Communication",
+          "Data representation",
+          "Design research",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [
+          "Data representation",
+          "Temporal sovereignty",
+          "Speculative projects",
+          "Data perception",
+          "User interface design"
+        ],
+        "desc": "Experience Design: The project emphasizes progressive user onboarding through visual documentation. Step-by-step flowcharts map all system processes, while abstract panels explain rationale, current state, and subsequent actions, establishing preliminary understanding before direct instruction.\n\nInteraction Model: The system employs a three-phase structure: comprehensive reading, procedural understanding, and data insertion. Temporal navigation operates hourly, with users selecting specific time slots. A customizable starting point replaces the midnight default, allowing entries to begin at personally relevant times.\n\nReal-time Visualization: Individual contributions dynamically affect overall data hierarchy through live ranking displays. Installation contexts benefit from external screens showing live updates, engaging observers and strengthening narrative coherence.\n\nVisual Identity: Logo optimization maintains recognition at 7pt minimum. Design refinements target visual consistency between logo elements and machine components, with animation timing extended through pauses before text appearance.\n\nCommunication Materials: Deliverables require improved clock alignment and Synchro circle integration. Timezone emphasis reduces while logo visibility increases across scales, ensuring recognition in reduced formats.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9qap4n0",
+      "x": 38174.069922888,
+      "y": 4867.2585108533385,
+      "w": 320,
+      "h": 532,
+      "group": null,
+      "data": {
+        "date": "2025-11-25",
+        "title": "Presentation structure",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Experience design",
+          "Interaction design",
+          "Visual communication",
+          "Communication",
+          "Data representation",
+          "Design research",
+          "Product design",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "1) scenario\n2) brand presentation (brief overview of scenario and concept)\n- logos / visuals\n- synchro mock-up (aesthetics to better understand the brand identity) e.g. synchro website\n- zerohourday communication \n3) prototype and interaction  \n- prototype\n- map \n4) teaser \n5) project checklist",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -10244,13 +10308,50 @@
       "s": "nsi9h3vb",
       "t": "n1z11wp4",
       "dashed": false
+    },
+    {
+      "s": "nu91a596",
+      "t": "nnli6gt2",
+      "dashed": false
+    },
+    {
+      "s": "n1z11wp4",
+      "t": "nnli6gt2",
+      "dashed": false
+    },
+    {
+      "s": "n336ev3r",
+      "t": "nnli6gt2",
+      "dashed": false
+    },
+    {
+      "s": "nokle434",
+      "t": "nnli6gt2",
+      "dashed": false
+    },
+    {
+      "s": "nsiq1iap",
+      "t": "nnli6gt2",
+      "dashed": false
+    },
+    {
+      "s": "nnli6gt2",
+      "t": "n9qap4n0",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Data representation",
+      "Web design",
+      "Map",
+      "Ui design",
+      "Experience design",
+      "Design research",
+      "Product design",
+      "Interaction design",
       "Branding",
       "Visual communication",
-      "Data representation",
       "Motion design",
       "Chronopolitics",
       "Speculative design",
@@ -10264,14 +10365,7 @@
       "Critical theory",
       "Surveillance studies",
       "Critical data studies",
-      "Interaction design",
-      "Product design",
-      "Experience design",
-      "Ui design",
-      "Map",
-      "Web design",
       "Socio-political",
-      "Design research",
       "Algorithmic governance",
       "Critical design",
       "Data ethics",
@@ -10279,20 +10373,22 @@
       "Science and technology studies (sts)"
     ],
     "tags": [
-      "Visual identity",
+      "User interface design",
+      "Data perception",
+      "Speculative projects",
       "Temporal sovereignty",
+      "Data representation",
+      "Visual identity",
       "Interface design",
       "Metric governance",
       "Sensor technology",
       "Design research",
       "Measuring the unmeasurable",
-      "Data representation",
       "Mockup",
       "Brand communication",
       "Metrics distortion",
       "Algorithmic governance",
       "Socio-political",
-      "Speculative projects",
       "Metric system",
       "Poster design",
       "Print media",
@@ -10320,15 +10416,14 @@
       "Data visualization",
       "Biometric data",
       "Map",
-      "Data perception",
       "Usability testing",
       "Deceptive pattern"
     ],
     "type": [
-      "Decision",
-      "Artefact",
-      "Sketch",
       "Collection",
+      "Artefact",
+      "Decision",
+      "Sketch",
       "Finding",
       "Brief",
       "Source",
