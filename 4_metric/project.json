@@ -8035,37 +8035,6 @@
         "links": [],
         "files": []
       }
-    },
-    {
-      "id": "nf3w7lfj",
-      "x": 35626.06270648508,
-      "y": 4669.915158141094,
-      "w": 320,
-      "h": 301,
-      "group": null,
-      "data": {
-        "date": "2025-11-29",
-        "title": "",
-        "type": "Artefact",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Interaction design",
-          "Product design",
-          "Communication",
-          "Visual communication",
-          "Branding",
-          "Design research",
-          "Experience design",
-          "Ui design",
-          "Map",
-          "Web design"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
     }
   ],
   "edges": [
@@ -9812,11 +9781,6 @@
     {
       "s": "nef5f9rs",
       "t": "njoxwel7",
-      "dashed": false
-    },
-    {
-      "s": "njoxwel7",
-      "t": "nf3w7lfj",
       "dashed": false
     }
   ],
