@@ -6524,10 +6524,11 @@
         "mainArea": "Interaction",
         "areas": [
           "Interaction design",
-          "Visual communication",
+          "Web design",
+          "Ui design",
           "Experience design",
-          "Product design",
-          "Data perception"
+          "Design research",
+          "Data representation"
         ],
         "tags": [
           "Data representation",
@@ -6554,7 +6555,7 @@
       "x": 27388.586386436036,
       "y": 5910.063664702704,
       "w": 320,
-      "h": 699,
+      "h": 722,
       "group": null,
       "data": {
         "date": "2025-11-10",
@@ -6575,7 +6576,8 @@
           "Data representation",
           "Real-time data",
           "Temporal sovereignty",
-          "Metric governance"
+          "Metric governance",
+          "Map"
         ],
         "desc": "Twenty-four LED \"lines\", it divides the world into international time zones. The LED strips are not straight and evenly spaced but, as in all things political, individual countries have opted to adopt time standards that do not follow the expected patterns, resulting in the bent form of the tubes. LED strips light up one at a time to give an idea of voting around the world.",
         "links": [],
@@ -6719,8 +6721,8 @@
     },
     {
       "id": "nm9g3nap",
-      "x": 28013.00477689851,
-      "y": 5549.9589497334255,
+      "x": 28005.0991219649,
+      "y": 4754.298822787446,
       "w": 320,
       "h": 1245,
       "group": null,
@@ -6756,8 +6758,8 @@
     },
     {
       "id": "nse149dj",
-      "x": 28656.848266834786,
-      "y": 4759.773490086809,
+      "x": 28652.848266834786,
+      "y": 3867.773490086809,
       "w": 320,
       "h": 792,
       "group": null,
@@ -6795,8 +6797,8 @@
     },
     {
       "id": "ntqnei4e",
-      "x": 30135.37253003824,
-      "y": 5119.266934121333,
+      "x": 30131.37253003824,
+      "y": 4227.266934121333,
       "w": 320,
       "h": 385,
       "group": null,
@@ -6833,8 +6835,8 @@
     },
     {
       "id": "nqrbpnct",
-      "x": 30135.819153071967,
-      "y": 4414.611393170042,
+      "x": 30131.819153071967,
+      "y": 3522.611393170042,
       "w": 320,
       "h": 687,
       "group": null,
@@ -6871,8 +6873,8 @@
     },
     {
       "id": "nlut3w56",
-      "x": 28657.70713580319,
-      "y": 5565.601657178255,
+      "x": 28653.70713580319,
+      "y": 4673.601657178255,
       "w": 320,
       "h": 712,
       "group": null,
@@ -6902,10 +6904,10 @@
     },
     {
       "id": "nv9cac8b",
-      "x": 29005.702936729293,
-      "y": 7520.260012664523,
+      "x": 29001.702936729293,
+      "y": 6628.260012664523,
       "w": 320,
-      "h": 684,
+      "h": 729,
       "group": null,
       "data": {
         "date": "2025-11-13",
@@ -6925,7 +6927,11 @@
           "Algorithmic governance",
           "Speculative design"
         ],
-        "tags": [],
+        "tags": [
+          "Device render",
+          "Physical prototype",
+          "Mockup"
+        ],
         "desc": "",
         "links": [],
         "files": [
@@ -6950,8 +6956,8 @@
     },
     {
       "id": "newokwwm",
-      "x": 28659.247624712072,
-      "y": 7523.482720165923,
+      "x": 28655.247624712072,
+      "y": 6631.482720165923,
       "w": 320,
       "h": 623,
       "group": null,
@@ -6983,8 +6989,8 @@
     },
     {
       "id": "nl7luvdn",
-      "x": 28660.853013860633,
-      "y": 6857.869223078946,
+      "x": 28656.853013860633,
+      "y": 5961.869223078946,
       "w": 320,
       "h": 642,
       "group": null,
@@ -6995,6 +7001,7 @@
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
+          "Map",
           "Visual communication",
           "Interaction design",
           "Experience design",
@@ -7010,7 +7017,8 @@
           "Metric governance",
           "Mockup",
           "Poster design",
-          "Print media"
+          "Print media",
+          "Map"
         ],
         "desc": "Dimensions: 42x32 cm\nOperation: LED bands that light up one at a time to give an idea of voting around the world.",
         "links": [],
@@ -7028,8 +7036,8 @@
     },
     {
       "id": "ncgekv6r",
-      "x": 28661.52072107758,
-      "y": 6295.65145274454,
+      "x": 28657.52072107758,
+      "y": 5403.65145274454,
       "w": 320,
       "h": 544,
       "group": null,
@@ -7059,8 +7067,8 @@
     },
     {
       "id": "nxt7l4u7",
-      "x": 30135.526635049402,
-      "y": 5528.424711226055,
+      "x": 30131.526635049402,
+      "y": 4636.424711226055,
       "w": 320,
       "h": 545,
       "group": null,
@@ -7100,8 +7108,8 @@
     },
     {
       "id": "n6ks6ms9",
-      "x": 29023.678469187296,
-      "y": 4762.068078049774,
+      "x": 29019.678469187296,
+      "y": 3870.068078049774,
       "w": 320,
       "h": 585,
       "group": null,
@@ -7138,8 +7146,8 @@
     },
     {
       "id": "n1aaqr44",
-      "x": 29405.792658137456,
-      "y": 4765.876617641385,
+      "x": 29401.792658137456,
+      "y": 3873.8766176413847,
       "w": 320,
       "h": 417,
       "group": null,
@@ -7176,8 +7184,8 @@
     },
     {
       "id": "n40ptl0l",
-      "x": 29777.248168971986,
-      "y": 4760.388644725876,
+      "x": 29773.248168971986,
+      "y": 3868.3886447258756,
       "w": 320,
       "h": 944,
       "group": null,
@@ -7224,8 +7232,8 @@
     },
     {
       "id": "n5wgywpm",
-      "x": 30789.844816407127,
-      "y": 5670.065569032829,
+      "x": 30793.79764387393,
+      "y": 4736.197998348293,
       "w": 320,
       "h": 1110,
       "group": null,
@@ -7255,6 +7263,354 @@
           "Visual identity"
         ],
         "desc": "Interface Design: Reduce colored dot size to mitigate toy-like aesthetic - avoid rotational mechanisms (requires bimanual operation, compromises stability). Recommended: minimal colored indicator + icon/text label. Color conventions provide baseline recognition, but contextual variation necessitates verbal/pictographic reinforcement.\n\nNomenclature: \n- Chronodex - preferred device designation: conveys technical precision, establishes \"temporal indexing\" semantics \n- Zero Hour Day - literal yet semantically accurate\n\nVisual Elements & Brand Identity: Icons require accompanying text labels. Scale testing essential - complex iconography degrades at reduced dimensions, warranting simplification.\n\nLogo: insufficient proximity between symbol and text requires adjustment. Implement superior iteration with integrated payoff. Conduct scale testing for legibility. Reduce tick marks, calibrate stroke weights - disparity between ring and typographic elements excessive. Typeface requires reinforcement.\n\nCommunication Framework - Critical gap: organizational partnership undefined. Recommend UN departmental affiliation - \"UN [designation]\" with \"powered by Synchro\" as subordinate attribution. \n\nNarrative: \"We are Synchro - we collaborate with this entity advocating for: one world one time zone\". Synchro maintains secondary positioning. Prioritize intrigue over comprehensive exposition.\n\nProduction: News broadcast format viable. Develop storyboard, integrate device interaction. Grey iteration effective. Sci-fi iconography redundant. Tile insertion demonstrates temporal inefficiency - three-step process superior.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnbms97o",
+      "x": 31241.81044795682,
+      "y": 4430.689799891099,
+      "w": 320,
+      "h": 492,
+      "group": null,
+      "data": {
+        "date": "2025-11-15",
+        "title": "Brand Palette and Logo",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Experience design"
+        ],
+        "tags": [],
+        "desc": "Final color palette and logo spacing specifications",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 at 18.25.33.png",
+            "size": 197894,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_at_18.25.33.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvdzvy5e",
+      "x": 31619.07023675642,
+      "y": 4955.5427176360345,
+      "w": 320,
+      "h": 422,
+      "group": null,
+      "data": {
+        "date": "2025-11-16",
+        "title": "Prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Experience design",
+          "Sensor technology",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [
+          "Device render",
+          "Physical prototype",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 at 18.27.32.png",
+            "size": 215810,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_at_18.27.32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0pbqpx1",
+      "x": 31247.546997504232,
+      "y": 4953.66458170945,
+      "w": 320,
+      "h": 645,
+      "group": null,
+      "data": {
+        "date": "2025-11-15",
+        "title": "Prototype functionality",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Experience design",
+          "Sensor technology",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [
+          "Data perception",
+          "Temporal sovereignty",
+          "Identities",
+          "Data representation",
+          "Metric system"
+        ],
+        "desc": "The prototype operates through a dual LED ring system: an outer ring that illuminates white to indicate progress through inserted actions, and an inner ring that displays user-selected colors for each hour. A central button performs two functions: powering on the device (triggering a brief LED animation on the outer ring, displaying an ID on the screen, and optionally producing a startup sound for each voting session), and submitting data at the conclusion of voting. A single rotating knob functions as an hour selector, associating each hour with a value based on the currently active button as the user advances forward. Rotating the knob in the opposite direction deletes entries in a manner analogous to undo functionality, allowing users to backtrack to the point requiring correction.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nrpd4at6",
+      "x": 31251.88523876684,
+      "y": 5636.105666694151,
+      "w": 320,
+      "h": 763,
+      "group": null,
+      "data": {
+        "date": "2025-11-15",
+        "title": "Time Zone Map",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Data representation",
+          "Visual communication",
+          "Product design",
+          "Design research",
+          "Chronopolitics",
+          "Sensor technology",
+          "Experience design"
+        ],
+        "tags": [
+          "Map",
+          "Data representation",
+          "Physical computing",
+          "Metric system",
+          "Temporal sovereignty",
+          "Speculative projects",
+          "Data visualization"
+        ],
+        "desc": "Three distinct implementation strategies. \n- The first method involves a physical artifact combining a printed map with LED illumination controlled by Arduino. This approach presents fire safety considerations, requiring a protective plastic layer over the paper map. LED placement, either beneath (requiring high-intensity light sources) or above (necessitating tubular LED configurations), significantly impacts the technical requirements. \n- The second approach employs digital screens, offering greater modularity and direct access to existing data sources, though requiring careful design to conceal the screen's presence. \n- The third option utilizes projection technology, either for the complete visualization or exclusively for time zone data, though this raises spatial constraints. Each method presents distinct technical, material, and spatial trade-offs in representing temporal-geographic information.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nw6p4j3n",
+      "x": 32088.091250497124,
+      "y": 3868.382234923366,
+      "w": 320,
+      "h": 581,
+      "group": null,
+      "data": {
+        "date": "2025-11-16",
+        "title": "",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research",
+          "Branding",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity",
+          "Print media",
+          "Poster design",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 at 18.40.16.png",
+            "size": 124161,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_at_18.40.16.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nio8ewgt",
+      "x": 32088.848116539197,
+      "y": 4483.385563725186,
+      "w": 320,
+      "h": 654,
+      "group": null,
+      "data": {
+        "date": "2025-11-16",
+        "title": "",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Experience design"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity",
+          "Print media",
+          "Poster design",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 at 18.40.09.png",
+            "size": 160508,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_at_18.40.09.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrxxf4gx",
+      "x": 31620.721592337562,
+      "y": 4429.502444760806,
+      "w": 320,
+      "h": 364,
+      "group": null,
+      "data": {
+        "date": "2025-11-15",
+        "title": "Brand Comunication",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research",
+          "Branding",
+          "Communication",
+          "Visual communication"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity",
+          "Print media",
+          "Poster design",
+          "Mockup"
+        ],
+        "desc": "Synchro maintains secondary positioning. Prioritize intrigue over comprehensive exposition.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnmu4hgl",
+      "x": 32092.72765537919,
+      "y": 5203.296378460667,
+      "w": 320,
+      "h": 854,
+      "group": null,
+      "data": {
+        "date": "2025-11-17",
+        "title": "Web app prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Web design",
+          "Ui design",
+          "Experience design",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [
+          "Mockup",
+          "Data representation",
+          "Measuring the unmeasurable",
+          "Design research",
+          "Sensor technology",
+          "Metric governance",
+          "Interface design",
+          "Temporal sovereignty"
+        ],
+        "desc": "Final web app prototype, including a personal page that updates based on the score obtained and the global ranking",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 09.24.32.png",
+            "size": 599509,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_09.24.32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ng3tw7fq",
+      "x": 32561.517834519873,
+      "y": 4740.96779519598,
+      "w": 320,
+      "h": 971,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "Project Reviews",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Web design",
+          ": communication",
+          "Visual communication",
+          "Product design",
+          "Branding",
+          "Interaction design",
+          "Experience design",
+          "Design research",
+          "Chronopolitics"
+        ],
+        "tags": [
+          "Data representation",
+          "Speculative projects",
+          "Interface design",
+          "Usability testing",
+          "Typography",
+          "Brand communication",
+          "Poster design",
+          "Visual identity"
+        ],
+        "desc": "Identity Development: Create a specific UN agency designation (e.g., \"United Nations for Time Zone Normalization\") that explains the program. The clock-based visual from the final poster works well but needs consistency across materials. The circular motif should recur throughout all posters. Current approach spreads elements across three poster types without coherence; eliminate redundancies.\n\nContent Strategy: Replace vague terms like \"establish\" and \"define\" with direct language. Reduce excessive content: one component for SYNCHRO communication, one for the circular concept. Better structure the launch campaign.\n\nLogo: Maximum 15pt with increased letter spacing. Column width approximately one and a half standard units.\n\nPhysical Map: Print on forex or 3-4mm plexiglass with map pieces mounted above and LED strips behind. Alternative: laser-cut wood/plywood with drilled holes at time zone markers, film layer, and LED backing. Frame required for cables and wall mounting. Size: A1. Test a section first. Use flexible LED neon strips programmable via Arduino.\n\nWeb Application: Make misalignment more evident in the radial visualization—better alignment with the standard should show more aligned SVG elements.",
         "links": [],
         "files": []
       }
@@ -8850,91 +9206,167 @@
       "s": "nxt7l4u7",
       "t": "n5wgywpm",
       "dashed": false
+    },
+    {
+      "s": "n5wgywpm",
+      "t": "nnbms97o",
+      "dashed": false
+    },
+    {
+      "s": "n5wgywpm",
+      "t": "n0pbqpx1",
+      "dashed": false
+    },
+    {
+      "s": "n0pbqpx1",
+      "t": "nvdzvy5e",
+      "dashed": false
+    },
+    {
+      "s": "n5wgywpm",
+      "t": "nrpd4at6",
+      "dashed": false
+    },
+    {
+      "s": "nnbms97o",
+      "t": "nrxxf4gx",
+      "dashed": false
+    },
+    {
+      "s": "nrxxf4gx",
+      "t": "nw6p4j3n",
+      "dashed": false
+    },
+    {
+      "s": "nrxxf4gx",
+      "t": "nio8ewgt",
+      "dashed": false
+    },
+    {
+      "s": "nrxxf4gx",
+      "t": "nnmu4hgl",
+      "dashed": false
+    },
+    {
+      "s": "nvdzvy5e",
+      "t": "nnmu4hgl",
+      "dashed": false
+    },
+    {
+      "s": "nnmu4hgl",
+      "t": "ng3tw7fq",
+      "dashed": false
+    },
+    {
+      "s": "nw6p4j3n",
+      "t": "ng3tw7fq",
+      "dashed": false
+    },
+    {
+      "s": "nio8ewgt",
+      "t": "ng3tw7fq",
+      "dashed": false
+    },
+    {
+      "s": "nrpd4at6",
+      "t": "ng3tw7fq",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Interaction design",
-      "Data perception",
-      "Sensor technology",
-      "Sensor systems",
-      "Biometric data",
-      "Metric system",
-      "Media studies",
-      "Critical theory",
-      "Surveillance studies",
-      "Science and technology studies (sts)",
       "Chronopolitics",
-      "Critical design",
-      "Data ethics",
-      "Critical data studies",
-      "Socio-political",
-      "Communication",
-      "Visual communication",
-      "Metric governance",
-      "Algorithmic governance",
-      "Design research",
       "Branding",
-      "Speculative design",
-      "Data representation",
-      ": interaction design",
       "Product design",
-      "Experience design"
+      "Visual communication",
+      ": communication",
+      "Data representation",
+      "Design research",
+      "Ui design",
+      "Web design",
+      "Map",
+      "Ui/ux design",
+      "Ui and ux design",
+      "Ui-ux design",
+      "Sensor technology",
+      "Experience design",
+      "Interaction design",
+      "Nteraction design",
+      "Science and technology studies (sts)",
+      "Speculative design",
+      "Algorithmic governance",
+      "Metric governance",
+      "Socio-political",
+      "Critical data studies",
+      "Data ethics",
+      "Critical design",
+      "Communication",
+      "Surveillance studies",
+      "Critical theory",
+      "Media studies",
+      "Metric system",
+      "Biometric data",
+      "Sensor systems",
+      "Data perception"
     ],
     "tags": [
-      "Device render",
-      "Editorial design",
-      "Design research",
-      "Social media content",
-      "Data perception",
-      "Normalization bias",
-      "Subjective reality",
-      "Measuring the unmeasurable",
-      "Sensor technology",
-      "Alternative values",
-      "Body-politics",
-      "Algorithmic bias",
-      "Big data",
-      "Cognitive bias",
-      "Statistic bias",
-      "Senolytics",
-      "Cellular senescence",
-      "Relativity",
-      "Biometric data",
-      "Metric system",
-      "Identities",
-      "Metrics distortion",
-      "Deceptive pattern",
-      "Real-time data",
-      "Physical prototype",
-      "Power dynamics",
-      "Algorithmic governance",
-      "Socio-political",
-      "Metric governance",
-      "Temporal sovereignty",
-      "Mechanical computing",
-      "Print media",
-      "Mockup",
-      "Data representation",
-      "Speculative projects",
-      "Interface design",
-      "Usability testing",
-      "Typography",
-      "Brand communication",
+      "Visual identity",
       "Poster design",
-      "Visual identity"
+      "Brand communication",
+      "Typography",
+      "Usability testing",
+      "Interface design",
+      "Speculative projects",
+      "Data representation",
+      "Temporal sovereignty",
+      "Metric governance",
+      "Sensor technology",
+      "Design research",
+      "Measuring the unmeasurable",
+      "Data perception",
+      "Map",
+      "Biometric data",
+      "Mockup",
+      "Print media",
+      "Data visualization",
+      "Metric system",
+      "Physical computing",
+      "Time zones",
+      "Physical prototype",
+      "Device render",
+      "Identities",
+      "Mechanical computing",
+      "Socio-political",
+      "Algorithmic governance",
+      "Power dynamics",
+      "Real-time data",
+      "Deceptive pattern",
+      "Metrics distortion",
+      "Relativity",
+      "Cellular senescence",
+      "Senolytics",
+      "Statistic bias",
+      "Cognitive bias",
+      "Big data",
+      "Algorithmic bias",
+      "Body-politics",
+      "Alternative values",
+      "Subjective reality",
+      "Normalization bias",
+      "Social media content",
+      "Editorial design"
     ],
     "type": [
       "Feedback",
       "Artefact",
-      "Collection",
-      "Observation",
+      "Decision",
       "Sketch",
-      "Finding",
-      "Brief",
-      "Source",
+      "Observation",
+      "Collection",
       "Concept",
-      "Decision"
+      "Source",
+      "Brief",
+      "Finding"
     ]
   }
 }
