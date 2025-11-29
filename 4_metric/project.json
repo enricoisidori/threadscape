@@ -7074,7 +7074,7 @@
       "data": {
         "date": "2025-11-12",
         "title": "Brand communication ",
-        "type": "Artefact",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -7423,7 +7423,7 @@
       "data": {
         "date": "2025-11-16",
         "title": "",
-        "type": "Artefact",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
@@ -7464,7 +7464,7 @@
       "data": {
         "date": "2025-11-16",
         "title": "",
-        "type": "Artefact",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
@@ -7752,28 +7752,21 @@
     },
     {
       "id": "nd4c7c8c",
-      "x": 34473.62392100773,
-      "y": 4493.836880163516,
+      "x": 34461.62392100773,
+      "y": 4605.836880163516,
       "w": 320,
-      "h": 832,
+      "h": 655,
       "group": null,
       "data": {
         "date": "2025-11-19",
         "title": "ZeroHourDay Comunication",
-        "type": "Artefact",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
-          "Chronopolitics",
-          "Speculative design",
-          "Critical design",
-          "Metric governance",
-          "Science and technology studies (sts)",
-          "Socio-political",
-          "Algorithmic governance",
-          "Design research",
           "Communication",
-          "Visual communication"
+          "Visual communication",
+          "Branding"
         ],
         "tags": [
           "Typography",
@@ -7807,7 +7800,7 @@
       "data": {
         "date": "2025-11-19",
         "title": "",
-        "type": "Artefact",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
@@ -7879,7 +7872,7 @@
     },
     {
       "id": "njoxwel7",
-      "x": 35106.06270648508,
+      "x": 35302.06270648508,
       "y": 4761.915158141094,
       "w": 320,
       "h": 1122,
@@ -7959,7 +7952,7 @@
     {
       "id": "n0lm4tdo",
       "x": 33545.51783451987,
-      "y": 5954.195561178658,
+      "y": 5958.195561178658,
       "w": 320,
       "h": 719,
       "group": null,
@@ -8037,8 +8030,8 @@
     },
     {
       "id": "nl9n7xky",
-      "x": 35559.87387180491,
-      "y": 4772.5753197608,
+      "x": 36066.519344358865,
+      "y": 3434.1688097459923,
       "w": 320,
       "h": 414,
       "group": null,
@@ -8075,39 +8068,374 @@
       }
     },
     {
-      "id": "njie5nqh",
-      "x": 35563.90897062862,
-      "y": 5226.5753197608,
+      "id": "n0wf01oy",
+      "x": 36051.48822508373,
+      "y": 4024.562424954416,
       "w": 320,
-      "h": 730,
+      "h": 420,
       "group": null,
       "data": {
         "date": "2025-11-22",
-        "title": "Synchro narration",
+        "title": "Visual Comunication",
         "type": "Decision",
         "action": "Making",
-        "mainArea": "Speculation",
+        "mainArea": "Communication",
         "areas": [
-          "Algorithmic governance",
-          "Chronopolitics",
-          "Critical design",
-          "Speculative design",
-          "Data ethics",
-          "Metric governance",
-          "Science and technology studies (sts)"
+          "Interaction design",
+          "Product design",
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Experience design",
+          "Ui design",
+          "Map",
+          "Web design"
+        ],
+        "tags": [],
+        "desc": "More typographic communication for Synchro's collaboration with the UN programme for Zero Hour Day, while a graphic font for Synchro forms a ‘ triad’ of posters.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nu91a596",
+      "x": 36540.27430701574,
+      "y": 3399.2585108533385,
+      "w": 320,
+      "h": 767,
+      "group": null,
+      "data": {
+        "date": "2025-11-22",
+        "title": "Visual Comunication",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding"
+        ],
+        "tags": [
+          "Typography",
+          "Brand communication",
+          "Visual identity",
+          "Print media",
+          "Poster design",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 21.59.24.png",
+            "size": 280150,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_21.59.24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfosdpsd",
+      "x": 36079.39297995779,
+      "y": 4973.714483488449,
+      "w": 320,
+      "h": 652,
+      "group": null,
+      "data": {
+        "date": "2025-11-22",
+        "title": "Teaser characteristics",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Experience design",
+          "Ui design",
+          "Map",
+          "Web design"
         ],
         "tags": [
           "Temporal sovereignty",
-          "Algorithmic governance",
+          "Metric governance",
           "Metric system",
-          "Measuring the unmeasurable",
+          "Speculative projects",
+          "Socio-political",
           "Data representation",
-          "Deceptive pattern",
-          "Speculative projects"
+          "Algorithmic governance",
+          "Metrics distortion"
         ],
-        "desc": "SYNCHRO deals with time management:\n• Once a year, all citizens (identified by ID number) are summoned to their respective offices to enter their data and participate in the selection of the Zero Hour winning country.\n• Each registration is analysed and compared with standard parameters defined as ideal by the authority that each individual should comply with during their day: hours dedicated to sleep, work, leisure and nutrition.\nDuring the procedure, each citizen is given 24 hours to distribute, indicating how much time is actually\nspent on each activity.\nNo one knows the exact values set by the Authority.\nYet everyone will be evaluated based on their adherence to the perfect model.",
+        "desc": "duration 30 seconds\nawareness campaign on issues\nformal, clinical, direct tone of voice\nsomewhat disturbing style\n\naspects to focus on:\nmeasurement (in this case of time/the day)\nalignment\n\n\n\n",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "n863ut1i",
+      "x": 36519.39297995779,
+      "y": 4996.246516287836,
+      "w": 320,
+      "h": 605,
+      "group": null,
+      "data": {
+        "date": "2025-11-23",
+        "title": "Teaser script",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding",
+          "Communication",
+          "Speculative design",
+          "Chronopolitics"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Metric system",
+          "Speculative projects",
+          "Socio-political",
+          "Data representation",
+          "Algorithmic governance",
+          "Metrics distortion"
+        ],
+        "desc": "00:00-00:05 | Opening\nGrey screen. A line appears.\n00:06-00:15— Geopolitical scenario\nmultiple time axes that...\nVO: ‘Today, in a multipolar world, time is no longer neutral.’\n00:16-00:21— single time zone clocks\nThe time zone lines BREAK clocks with hands all positioned differently and turning → they synchronise to a single time\nVO: ‘A new balance: a single global time zone’\n00:22-00:30—closing logo\nSYNCHRO logo animation → SYNCHRO shrinks to reveal a triptych\nthen information about the day is shown",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n336ev3r",
+      "x": 36910.07188606694,
+      "y": 5003.788824941996,
+      "w": 320,
+      "h": 590,
+      "group": null,
+      "data": {
+        "date": "2025-11-23",
+        "title": "Teaser storyboard",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding",
+          "Communication",
+          "Motion design",
+          "Chronopolitics"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Brand communication"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 22.09.59.png",
+            "size": 80617,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_22.09.59.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-29 at 22.11.48.png",
+            "size": 62908,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_22.11.48.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nokle434",
+      "x": 36073.74226584021,
+      "y": 5851.776783714575,
+      "w": 320,
+      "h": 453,
+      "group": null,
+      "data": {
+        "date": "2025-11-22",
+        "title": "Logo Animation development",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Motion design"
+        ],
+        "tags": [
+          "Brand communication",
+          "Visual identity"
+        ],
+        "desc": "logo animation based on the clock concept ",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 22.14.44.png",
+            "size": 119219,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_22.14.44.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ny15wqtf",
+      "x": 36062.06270648508,
+      "y": 6356.776783714575,
+      "w": 320,
+      "h": 387,
+      "group": null,
+      "data": {
+        "date": "2025-11-24",
+        "title": "Prototype update",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Experience design",
+          "Ui design",
+          "Map",
+          "Web design"
+        ],
+        "tags": [],
+        "desc": "• thin white PLA layer to diffuse LED light\n• proposed internal structure for cable management",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nsiq1iap",
+      "x": 36439.751699905995,
+      "y": 6380.776783714575,
+      "w": 320,
+      "h": 351,
+      "group": null,
+      "data": {
+        "date": "2025-11-24",
+        "title": "Prototype inside render",
+        "type": "Sketch",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Design research"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 22.25.21.png",
+            "size": 124651,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_22.25.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsi9h3vb",
+      "x": 36530.882297930606,
+      "y": 4208.249510858191,
+      "w": 320,
+      "h": 602,
+      "group": null,
+      "data": {
+        "date": "2025-11-22",
+        "title": "Synchro website",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Interaction design",
+          "Web design",
+          "Ui design",
+          "Experience design",
+          "Design research",
+          "Data representation",
+          "Visual communication",
+          "Branding"
+        ],
+        "tags": [
+          "Mockup",
+          "Interface design",
+          "Visual identity"
+        ],
+        "desc": "Landing page with a background slideshow of videos and project images. Call to action for the latest product, Chronodex.\nOn the About page: company values, vision and mission, and finally contact details.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 22.34.26.png",
+            "size": 103661,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_22.34.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1z11wp4",
+      "x": 36910.49433175762,
+      "y": 4238.798732554926,
+      "w": 320,
+      "h": 529,
+      "group": null,
+      "data": {
+        "date": "2025-11-23",
+        "title": "Synchro website mockup",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Interaction design",
+          "Web design",
+          "Ui design",
+          "Experience design",
+          "Design research",
+          "Data representation",
+          "Visual communication",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 at 22.28.18.png",
+            "size": 413706,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_at_22.28.18.jpg"
+          }
+        ]
       }
     }
   ],
@@ -9864,98 +10192,149 @@
     },
     {
       "s": "njoxwel7",
-      "t": "njie5nqh",
+      "t": "n0wf01oy",
+      "dashed": false
+    },
+    {
+      "s": "n0wf01oy",
+      "t": "nu91a596",
+      "dashed": false
+    },
+    {
+      "s": "njoxwel7",
+      "t": "nfosdpsd",
+      "dashed": false
+    },
+    {
+      "s": "nfosdpsd",
+      "t": "n863ut1i",
+      "dashed": false
+    },
+    {
+      "s": "n863ut1i",
+      "t": "n336ev3r",
+      "dashed": false
+    },
+    {
+      "s": "nl9n7xky",
+      "t": "nu91a596",
+      "dashed": false
+    },
+    {
+      "s": "njoxwel7",
+      "t": "nokle434",
+      "dashed": false
+    },
+    {
+      "s": "njoxwel7",
+      "t": "ny15wqtf",
+      "dashed": false
+    },
+    {
+      "s": "ny15wqtf",
+      "t": "nsiq1iap",
+      "dashed": false
+    },
+    {
+      "s": "n0wf01oy",
+      "t": "nsi9h3vb",
+      "dashed": false
+    },
+    {
+      "s": "nsi9h3vb",
+      "t": "n1z11wp4",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Science and technology studies (sts)",
-      "Metric governance",
-      "Data ethics",
-      "Speculative design",
-      "Critical design",
-      "Chronopolitics",
-      "Algorithmic governance",
-      "Design research",
-      "Socio-political",
-      "Data representation",
       "Branding",
       "Visual communication",
+      "Data representation",
+      "Motion design",
+      "Chronopolitics",
+      "Speculative design",
       "Communication",
-      "Web design",
-      "Map",
-      "Ui design",
-      "Experience design",
-      "Product design",
-      "Interaction design",
-      "Critical data studies",
-      "Surveillance studies",
-      "Critical theory",
-      "Media studies",
-      "Metric system",
-      "Biometric data",
-      "Sensor systems",
+      "Sensor technology",
       "Data perception",
-      "Sensor technology"
+      "Sensor systems",
+      "Biometric data",
+      "Metric system",
+      "Media studies",
+      "Critical theory",
+      "Surveillance studies",
+      "Critical data studies",
+      "Interaction design",
+      "Product design",
+      "Experience design",
+      "Ui design",
+      "Map",
+      "Web design",
+      "Socio-political",
+      "Design research",
+      "Algorithmic governance",
+      "Critical design",
+      "Data ethics",
+      "Metric governance",
+      "Science and technology studies (sts)"
     ],
     "tags": [
-      "Speculative projects",
-      "Deceptive pattern",
-      "Data representation",
-      "Measuring the unmeasurable",
-      "Metric system",
-      "Algorithmic governance",
-      "Temporal sovereignty",
       "Visual identity",
-      "Brand communication",
-      "Typography",
-      "Metrics distortion",
-      "Socio-political",
-      "Metric governance",
+      "Temporal sovereignty",
       "Interface design",
+      "Metric governance",
       "Sensor technology",
       "Design research",
+      "Measuring the unmeasurable",
+      "Data representation",
       "Mockup",
+      "Brand communication",
+      "Metrics distortion",
+      "Algorithmic governance",
+      "Socio-political",
+      "Speculative projects",
+      "Metric system",
       "Poster design",
       "Print media",
-      "Usability testing",
-      "Data perception",
-      "Map",
-      "Biometric data",
-      "Data visualization",
-      "Physical computing",
-      "Physical prototype",
-      "Device render",
-      "Identities",
-      "Power dynamics",
-      "Relativity",
-      "Cellular senescence",
-      "Senolytics",
-      "Statistic bias",
-      "Cognitive bias",
-      "Big data",
-      "Algorithmic bias",
-      "Body-politics",
-      "Alternative values",
-      "Subjective reality",
-      "Normalization bias",
-      "Social media content",
-      "Editorial design",
+      "Typography",
+      "Mechanical computing",
       "Real-time data",
-      "Mechanical computing"
+      "Editorial design",
+      "Social media content",
+      "Normalization bias",
+      "Subjective reality",
+      "Alternative values",
+      "Body-politics",
+      "Algorithmic bias",
+      "Big data",
+      "Cognitive bias",
+      "Statistic bias",
+      "Senolytics",
+      "Cellular senescence",
+      "Relativity",
+      "Power dynamics",
+      "Identities",
+      "Device render",
+      "Physical prototype",
+      "Physical computing",
+      "Data visualization",
+      "Biometric data",
+      "Map",
+      "Data perception",
+      "Usability testing",
+      "Deceptive pattern"
     ],
     "type": [
       "Decision",
-      "Feedback",
       "Artefact",
-      "Observation",
       "Sketch",
-      "Concept",
-      "Source",
-      "Brief",
+      "Collection",
       "Finding",
-      "Collection"
+      "Brief",
+      "Source",
+      "Concept",
+      "Observation",
+      "Feedback"
     ]
   }
 }
