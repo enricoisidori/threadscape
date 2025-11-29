@@ -7049,7 +7049,6 @@
         "mainArea": "Interaction",
         "areas": [
           "Critical design",
-          "Data ethics",
           "Critical data studies",
           "Socio-political",
           "Communication",
@@ -8073,6 +8072,42 @@
             "path": "assets/Screenshot_2025-11-29_at_20.05.28.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "njie5nqh",
+      "x": 35563.90897062862,
+      "y": 5226.5753197608,
+      "w": 320,
+      "h": 730,
+      "group": null,
+      "data": {
+        "date": "2025-11-22",
+        "title": "Synchro narration",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Algorithmic governance",
+          "Chronopolitics",
+          "Critical design",
+          "Speculative design",
+          "Data ethics",
+          "Metric governance",
+          "Science and technology studies (sts)"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Algorithmic governance",
+          "Metric system",
+          "Measuring the unmeasurable",
+          "Data representation",
+          "Deceptive pattern",
+          "Speculative projects"
+        ],
+        "desc": "SYNCHRO deals with time management:\n• Once a year, all citizens (identified by ID number) are summoned to their respective offices to enter their data and participate in the selection of the Zero Hour winning country.\n• Each registration is analysed and compared with standard parameters defined as ideal by the authority that each individual should comply with during their day: hours dedicated to sleep, work, leisure and nutrition.\nDuring the procedure, each citizen is given 24 hours to distribute, indicating how much time is actually\nspent on each activity.\nNo one knows the exact values set by the Authority.\nYet everyone will be evaluated based on their adherence to the perfect model.",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -9826,18 +9861,24 @@
       "s": "njoxwel7",
       "t": "nl9n7xky",
       "dashed": false
+    },
+    {
+      "s": "njoxwel7",
+      "t": "njie5nqh",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Chronopolitics",
-      "Design research",
-      "Algorithmic governance",
-      "Socio-political",
       "Science and technology studies (sts)",
       "Metric governance",
-      "Critical design",
+      "Data ethics",
       "Speculative design",
+      "Critical design",
+      "Chronopolitics",
+      "Algorithmic governance",
+      "Design research",
+      "Socio-political",
       "Data representation",
       "Branding",
       "Visual communication",
@@ -9849,7 +9890,6 @@
       "Product design",
       "Interaction design",
       "Critical data studies",
-      "Data ethics",
       "Surveillance studies",
       "Critical theory",
       "Media studies",
@@ -9860,21 +9900,22 @@
       "Sensor technology"
     ],
     "tags": [
+      "Speculative projects",
+      "Deceptive pattern",
+      "Data representation",
+      "Measuring the unmeasurable",
+      "Metric system",
+      "Algorithmic governance",
+      "Temporal sovereignty",
       "Visual identity",
       "Brand communication",
       "Typography",
       "Metrics distortion",
-      "Algorithmic governance",
-      "Data representation",
       "Socio-political",
-      "Speculative projects",
-      "Metric system",
       "Metric governance",
-      "Temporal sovereignty",
       "Interface design",
       "Sensor technology",
       "Design research",
-      "Measuring the unmeasurable",
       "Mockup",
       "Poster design",
       "Print media",
@@ -9888,7 +9929,6 @@
       "Device render",
       "Identities",
       "Power dynamics",
-      "Deceptive pattern",
       "Relativity",
       "Cellular senescence",
       "Senolytics",
@@ -9906,9 +9946,9 @@
       "Mechanical computing"
     ],
     "type": [
-      "Artefact",
       "Decision",
       "Feedback",
+      "Artefact",
       "Observation",
       "Sketch",
       "Concept",
