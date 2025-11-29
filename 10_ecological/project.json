@@ -1793,7 +1793,7 @@
       "group": null,
       "data": {
         "date": "2025-11-04",
-        "title": "Revision",
+        "title": "Review",
         "type": "Feedback",
         "action": "Making",
         "mainArea": "Interaction",
@@ -1887,7 +1887,7 @@
       "group": null,
       "data": {
         "date": "2025-11-07",
-        "title": "Revisione",
+        "title": "Review",
         "type": "Feedback",
         "action": "Making",
         "mainArea": "Interaction",
@@ -1900,14 +1900,14 @@
     },
     {
       "id": "n3yd1jao",
-      "x": 12947.174339212868,
-      "y": 1925.547393144144,
+      "x": 13420.20509466669,
+      "y": 1622.8321108771179,
       "w": 320,
       "h": 725,
       "group": null,
       "data": {
         "date": "2025-11-07",
-        "title": "Revisione 2",
+        "title": "Review",
         "type": "Feedback",
         "action": "Making",
         "mainArea": "Interaction",
@@ -1916,6 +1916,897 @@
         "desc": "The idea of installing artificial trees because “everyone is doing a good deed” (like long-distance adoption) is too fragile. The communication cannot focus only on the household device—the powerful part of the narrative is the Treeal forests.\n\nWe need to return to our original scenario, focusing less on the product and its catalog, and more on what we actually do (create artificial forests) and communicate this clearly through videos, posters, and storytelling. We also need to understand our real audience: investors, governments, and institutions that fund ecological restoration. We offer an alternative to real trees, more efficient and impactful in fighting climate change.\n\nThe device should trigger a speculative reflection, but we must strengthen the communication: highlight the conflict, clarify Treeal’s rhetoric, and address people’s environmental sensitivity and desire to participate in a revolutionary change. Underline the paradox.\n\nThe cover works: more covers mean more forests cut down. The form doesn’t necessarily have to look like a tree. Posters should not just express the concept; they must show how Treeal communicates and what service it provides.\n\nWe also need to clarify the added value of the object (why not just an app?) and explain where the captured CO₂ goes.",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "nr4r5dn7",
+      "x": 13978.489357792148,
+      "y": 1132.5988778757483,
+      "w": 320,
+      "h": 641,
+      "group": null,
+      "data": {
+        "date": "2025-11-08",
+        "title": "Function and Connection",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "We further clarified every point of the scenario, especially how it works. Now the audience can support the cause by acquiring the small tree, which:\n\nPerforms the functions of the large tree (e.g., converting CO₂ into oxygen…), and\n\nActs like a ‘modem’, connecting users to the artificial forest. By choosing to participate, users can monitor the progress of the company and engage with the cause.”",
+        "links": [],
+        "files": [
+          {
+            "name": "Antidisciplinary Design 1.jpg",
+            "size": 486036,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Antidisciplinary_Design_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntb8f9vp",
+      "x": 13019.47622286581,
+      "y": 773.5727245913727,
+      "w": 320,
+      "h": 429,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "",
+        "type": "Internal review",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "After the revision, we tried to reconnect all the points and adjust the scenario to ensure coherence and alignment with what the interactive machine is meant to be.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 alle 15.33.17.png",
+            "size": 698968,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_alle_15.33.17.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "npgu7p6e",
+      "x": 14488.547788120206,
+      "y": 1185.3724783701784,
+      "w": 320,
+      "h": 826,
+      "group": null,
+      "data": {
+        "date": "2025-11-08",
+        "title": "Sketching the tree shape",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "We began sketching possible forms for the big tree starting by choosing some references, both to visualize it and to get an idea of how to proceed with the development of the interactive machine.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 alle 15.57.00.png",
+            "size": 2486374,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_alle_15.57.00.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-28 alle 16.00.26.png",
+            "size": 342853,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_alle_16.00.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlasqfu0",
+      "x": 14494.083760704652,
+      "y": 2120.1099337150663,
+      "w": 320,
+      "h": 1218,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Sketching the interaction machine ",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "We also started brainstorming different ideas for the communication device, realizing that it doesn’t need to look like a tree, but should focus on its communicative functions. Its operation would remain similar: the user inserts a piece of wood (from the different types available), and the device reveals data about the origin of that wood as well as the performance and efficiency of our artificial tree, derived from the same tree that provided the inserted piece of wood.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 alle 15.57.13.png",
+            "size": 356287,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_alle_15.57.13.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n54srbx6",
+      "x": 14515.682165181475,
+      "y": 3539.6362825225283,
+      "w": 320,
+      "h": 600,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Refining identity",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "We have defined a direction for the visual identity:\n\nFont choice: Serotiva\n\nImages: Focused on the natural degradation of nature (not caused by humans)\n\nPosters: Phrases that position us above nature in a slightly sharp and provocative way—the idea being that nature is outdated or surpassed.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 alle 15.57.32.png",
+            "size": 2349439,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_alle_15.57.32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbcf6kuq",
+      "x": 16673.49599831218,
+      "y": 2945.941833323001,
+      "w": 320,
+      "h": 568,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Teaser trailer",
+        "type": "Ideas",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Research"
+        ],
+        "tags": [],
+        "desc": "We researched references and inspirations to develop the project teaser.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 alle 15.58.24.png",
+            "size": 403992,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_alle_15.58.24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxp4artb",
+      "x": 17280.864956571197,
+      "y": 2729.7592849491557,
+      "w": 320,
+      "h": 489,
+      "group": null,
+      "data": {
+        "date": "2025-11-11",
+        "title": "First teaser idea",
+        "type": "Ideas",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "The first teaser idea is to show the same tree with civilization developing around it, conveying that nature has remained unchanged and now needs to evolve.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 alle 16.28.28.png",
+            "size": 668453,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_alle_16.28.28.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nepy67kk",
+      "x": 15818.750843656813,
+      "y": 1617.5004517888233,
+      "w": 320,
+      "h": 645,
+      "group": null,
+      "data": {
+        "date": "2025-11-11",
+        "title": "Review",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "The small tree is the merchandise, while our activity is supported by governments.\nThe communication device is the way the company presents the product to the public—it doesn’t actually filter air or absorb co2. It’s purely for communication. \n\nIt’s important to separate the device (showroom experience) from the product (what the user has at home), which remains fiction. The theme of consumerism should be part of the storytelling, but not through the product itself.\n\nIn the showroom, users test different types of wood and then choose one, with which the company “sells” the product -> configurator.\n\nWe also need to decide which data to show and how, so next time we can prepare interface sketches.\nThe posters work well: nature in decay with contrasting copy, combined with a very technical interface.",
+        "links": [
+          "https://www.figma.com/deck/FpzxfGt1a8lGwBa1jFrZ5a/revisione-11.11?t=Y7UKue3IDX8t4hcH-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=1-125"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n2t6z8fn",
+      "x": 15274.402457244598,
+      "y": 1271.7242711536592,
+      "w": 320,
+      "h": 353,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Posters",
+        "type": "Ideas",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-28 alle 16.51.12.png",
+            "size": 4661750,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-28_alle_16.51.12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "newt4ihu",
+      "x": 16502.696513248677,
+      "y": 2051.8536553561125,
+      "w": 320,
+      "h": 479,
+      "group": null,
+      "data": {
+        "date": "2025-11-12",
+        "title": "New interaction ideas",
+        "type": "Ideas",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "After the review on November 11, we continued working on the interaction of the communication device. We wanted to find an interaction that could evoke the core values of our project. Among the ideas we explored, we developed one that involves “cutting” the wooden blocks away from the table on which they rest, making the paradox more explicit.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 10.33.54.png",
+            "size": 402037,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_10.33.54.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "np5pl4sb",
+      "x": 17158.946418975007,
+      "y": 807.7411626116088,
+      "w": 320,
+      "h": 563,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "Review",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "We realized that the way we present and interact with the communication machine needs to be simplified. The idea of cutting the wooden models doesn’t work: it’s too complex, hard to design, and the limited number of models reduces its impact. A clearer direction is to use a small tree-shaped token that the user detaches and inserts into the device—an act that symbolically mirrors planting a real tree in the forest.\n\nThe experience must remain simple: one gesture that immediately triggers useful feedback. The machine should communicate the performance of the real tree in our forests, not the miniature one. We also need to improve how we visualize maps and data, and better define what happens before, during, and after the interaction.\n\nOverall, the device should guide the user toward a meaningful, coherent action without unnecessary spectacle—simple operations with significant, thought-provoking feedback.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1oaihu4",
+      "x": 17850.73185636871,
+      "y": 214.84222779811142,
+      "w": 320,
+      "h": 316,
+      "group": null,
+      "data": {
+        "date": "2025-11-15",
+        "title": "Refining identity",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 10.52.16.png",
+            "size": 2371293,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_10.52.16.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nu0s3aif",
+      "x": 17834.871233953018,
+      "y": 934.020415514402,
+      "w": 320,
+      "h": 435,
+      "group": null,
+      "data": {
+        "date": "2025-11-16",
+        "title": "New communication device 1",
+        "type": "Ideas",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 10.56.10.png",
+            "size": 457739,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_10.56.10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngvnlr9z",
+      "x": 17837.52947367168,
+      "y": 1429.6262279033235,
+      "w": 320,
+      "h": 408,
+      "group": null,
+      "data": {
+        "date": "2025-11-16",
+        "title": "New communication device 2",
+        "type": "Ideas",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 10.56.16.png",
+            "size": 680727,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_10.56.16.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ng6u8izg",
+      "x": 17838.018217436143,
+      "y": 1917.8233418052077,
+      "w": 320,
+      "h": 727,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "New communication device 3",
+        "type": "Ideas",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "In the end, we decided to completely change direction and focus on something fundamental yet invisible: performance. This is why we chose to develop a communication machine that allows users to actively discover the performance of our artificial trees—something that would otherwise remain hidden.\n\nThe user always has eight different types of wood to choose from, representing our Treeal forests, where those specific species are harvested. The idea is that the user selects one type of wood and inserts it into the communication machine, so that all the data displayed afterward refers to the chosen species. The performance metrics change depending on the wood type, because the data is shown through comparison—for example: “To absorb this amount of CO₂ you would normally need this many cedar trees, whereas one single Treeal achieves the same result.”\n\nTo do this, we have imagined two possible options:",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 10.56.59.png",
+            "size": 456772,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_10.56.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nc26r4zh",
+      "x": 18527.13825982558,
+      "y": 1737.3304061705464,
+      "w": 320,
+      "h": 362,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "First option",
+        "type": "Ideas",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "The first option is to use a monitor with augmented reality to frame our small tree. In this scenario, the miniature tree is no longer a product but purely a communication tool. It doesn’t perform any function on its own—its sole purpose is to convey our values.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 10.57.05.png",
+            "size": 307170,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_10.57.05.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nam0swce",
+      "x": 18520.37613565606,
+      "y": 2205.833957668328,
+      "w": 320,
+      "h": 440,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "Second option",
+        "type": "Ideas",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "The second option involves a device that resembles a portable electronic microscope—or, more generally, a handheld monitor. By placing this device onto specific areas of the communication machine (its “hotspots” or touchpoints), the user can reveal data about the tree’s performance: CO₂-to-oxygen conversion, temperature, electricity production, and so on. The idea is that the user must actively search for the information, just like a scientist, rather than receiving data passively on a screen.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 10.57.10.png",
+            "size": 352802,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_10.57.10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nw11qn3e",
+      "x": 19531.96576582203,
+      "y": 1625.5788280837317,
+      "w": 320,
+      "h": 914,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "Review",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The current grid layout is unclear, and the centering points for the circles are missing.\n\nPosters need shorter, more direct copy, for example: “Nature fails. Treeal doesn’t.” They feel more suited for indoor use. The focus should be on the “cut” and one key data point, using images of unhealthy or moldy trees. The grid can be reduced or removed, and zoomed-in details added.\n\nThe website layout works, but line spacing could be tighter, headings bolder, and text hierarchy clearer. The color palette should be reconsidered, particularly the use of orange.\n\nTeasers should be under 20 seconds, narrative-driven, and clearly communicate the project’s promise. Stock footage is too detached, and pacing should be faster. The main video should highlight the performance of the forests first, revealing the small tree only at the end. Martina’s teaser proposal works well, slowly revealing degraded nature before delivering the claim: it’s time to move forward.\n\nThe communication machine works up to pairing with the wood pieces. 3D mapping is tricky, but placing a device on hotspots to explore data is promising. Roots reveal root data, canopy shows leaf data, making the interaction active and engaging. Device design should be refined for clarity.\n\nFinally, the home kit needs clarification. Users should understand that buying a tree allows additional chips to be purchased. The viewing device could be included in the kit alongside instructions for the web app. The lens could be part of the tree, and the app should have a clear interface, possibly with NFC interaction",
+        "links": [
+          "https://www.figma.com/deck/nnsYUUowHJgwDhH3rV1oTT/revisione-18.11-v1?node-id=1-125&p=f&t=CVakHnT1DhkwxJ0M-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ny3pt9c2",
+      "x": 17317.970443350194,
+      "y": 3317.5620209482904,
+      "w": 320,
+      "h": 278,
+      "group": null,
+      "data": {
+        "date": "2025-11-11",
+        "title": "Second teaser idea",
+        "type": "Ideas",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "The second teaser concept is to show nature gradually failing on its own. As this happens, our graphic signs begin to appear one by one, until we finally reveal close-up details of our Treeal tree lighting up.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0oh0sf6",
+      "x": 17329.083360978017,
+      "y": 3676.8796909145317,
+      "w": 320,
+      "h": 294,
+      "group": null,
+      "data": {
+        "date": "2025-11-11",
+        "title": "Third teaser idea",
+        "type": "Ideas",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Ideas"
+        ],
+        "tags": [],
+        "desc": "The third teaser concept is a directorial experiment that involves a group of people gathered around a tree. After hearing an off-screen signal hinting at the presence of a “better” tree—ours—they slowly decide to leave the first tree and move toward the Treeal.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5u0v67i",
+      "x": 20167.42022109647,
+      "y": 2940.10364569062,
+      "w": 320,
+      "h": 765,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "Review",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "The storytelling needs to be stronger. Previously, the interaction was simple but conceptually powerful. Now, by introducing multiple devices and scenarios, we risk losing the focus on the company’s core values: performance, green, technology, and transparency. These values need to be clearly reflected in the machine and its interaction.\n\nThe wood token should be raw, unprocessed wood—something rare, almost only like a museum fossil. This becomes a clear touchpoint for the audience, linking the value of sustainability to the interaction.\n\nCurrently, the modem—the object sent to the user—is not fully justified. Its role needs to celebrate the performance of the artificial tree while marking the “end” of nature. The concept could be that users receive a piece of the tree as a memorial, highlighting both the inefficiency of real nature and the superiority of the Treeal. The object should convey critical reflection, not just interactivity. \nThe content—what the data communicates—is more important than the medium. The goal is to show comparative data that makes the user reflect immediately: for example, how much CO₂, PM10, or energy a single Treeal can manage versus dozens of real trees.\n\n\nThe storytelling should make users reflect on the contrast between natural and artificial performance, while the machine communicates these facts clearly in a short, engaging interaction—ideally within 10 seconds",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncpobipd",
+      "x": 20709.391716124162,
+      "y": 2301.410701897647,
+      "w": 320,
+      "h": 382,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Review",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "During the review, we were advised to refine several aspects: both the communication—especially the use of our graphic sign—and the communication machine itself. We now need to clearly define the user experience, as well as the form of the device and the machine.",
+        "links": [
+          "https://www.figma.com/deck/EMSqmDYcBHBxsfmQF7neX4/revisione-21.11?node-id=2003-279&p=f&t=uuulSzQfWSazSj9u-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nke9cr2c",
+      "x": 20268.44765519228,
+      "y": 1310.296143260506,
+      "w": 320,
+      "h": 710,
+      "group": null,
+      "data": {
+        "date": "2025-11-29",
+        "title": "Refining identity",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Consolidation of the distinctive graphic element in our visual communication: an orange circle that highlights the negative aspects of nature.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 15.53.30.png",
+            "size": 2223193,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_15.53.30.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-29 alle 15.54.14.png",
+            "size": 657468,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_15.54.14.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-29 alle 15.54.27.png",
+            "size": 1323184,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_15.54.27.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqkxdnrl",
+      "x": 21322.627337165803,
+      "y": 1581.920613713517,
+      "w": 320,
+      "h": 418,
+      "group": null,
+      "data": {
+        "date": "2025-11-22",
+        "title": "Refining identity",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "We created a visual identity guidelines manual to ensure consistency across all communication artifacts.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 16.04.56.png",
+            "size": 281542,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_16.04.56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0q27br8",
+      "x": 21283.200889859567,
+      "y": 2479.853847097811,
+      "w": 320,
+      "h": 977,
+      "group": null,
+      "data": {
+        "date": "2025-11-22",
+        "title": "Technical components",
+        "type": "Ideas",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "We began outlining the technical components of the communication machine to understand how it can be built and which parts we will need.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 16.13.51.png",
+            "size": 389105,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_16.13.51.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-29 alle 16.14.00.png",
+            "size": 808348,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_16.14.00.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-29 alle 16.34.35.png",
+            "size": 378521,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_16.34.35.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqz6tf60",
+      "x": 22337.14510636102,
+      "y": 2114.8027745984446,
+      "w": 320,
+      "h": 819,
+      "group": null,
+      "data": {
+        "date": "2025-11-25",
+        "title": "Review",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "For the website, we need to simplify the layout, emphasize the real lens effect using the circle, and include a dedicated subscription page with a clear call to action.\n\nFor the posters, we should adjust the padding of the content boxes, make the data inside them clearer, highlight the elements within the circles more effectively, add direct calls to action, and brighten the imagery since the photos are currently too dark.\n\nRegarding the teaser, the sound should be simplified: instead of a rising beat that gets cut off, we should use a soft, steady pulse that fades gently, with less pronounced rhythm. The text should be placed at the center rather than in the bottom left corner.\n\nOn the technical side, the lens will use an RFID tag while the readers are placed inside the tree, allowing us to remove the magnet. Adding distance sensors will enhance immersion—data can blur and sharpen depending on proximity, and both the tree and the lens can pulse with light to indicate alignment. Each touchpoint must trigger a clear response.\n\nFor data visualization, we should use a framing element and make better use of the circle to fill space and communicate the contrast between “having the tree” and “not having it.”\n\nThe large tree should be redesigned to resemble the current small model rather than appearing too round.",
+        "links": [
+          "https://www.figma.com/deck/TaOKTiwai83lD1ElRzUrcd/revisione-25.11?t=sy9PtiNT6UdMznq8-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=1-125"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n7cvlw2w",
+      "x": 21879.030824817703,
+      "y": 3408.0817294337567,
+      "w": 320,
+      "h": 691,
+      "group": null,
+      "data": {
+        "date": "2025-11-24",
+        "title": "Shaping the communication device",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "We clarified the form of the communication machine and defined the overall user experience, supported by a storyboard that maps out each step of the interaction.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 16.30.57.png",
+            "size": 1232184,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_16.30.57.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-29 alle 16.31.03.png",
+            "size": 884747,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_16.31.03.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5vttk8t",
+      "x": 22968.721159185814,
+      "y": 1735.5047499073303,
+      "w": 320,
+      "h": 559,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "Refining identity",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 16.35.33.png",
+            "size": 2007857,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_16.35.33.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-29 alle 16.35.44.png",
+            "size": 2984051,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_16.35.44.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsf6ade0",
+      "x": 13613.873859769765,
+      "y": 2973.1562164203665,
+      "w": 320,
+      "h": 887,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Data definition",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Research"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 16.38.11.png",
+            "size": 479610,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_16.38.11.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-29 alle 16.38.18.png",
+            "size": 623127,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_16.38.18.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-29 alle 16.38.26.png",
+            "size": 476385,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_16.38.26.jpg"
+          }
+        ]
       }
     }
   ],
@@ -2309,30 +3200,371 @@
       "s": "nnvityo6",
       "t": "n3yd1jao",
       "dashed": false
+    },
+    {
+      "s": "n5nmswmc",
+      "t": "ntb8f9vp",
+      "dashed": false
+    },
+    {
+      "s": "ntb8f9vp",
+      "t": "n3yd1jao",
+      "dashed": false
+    },
+    {
+      "s": "n3yd1jao",
+      "t": "nr4r5dn7",
+      "dashed": false
+    },
+    {
+      "s": "ntb8f9vp",
+      "t": "nr4r5dn7",
+      "dashed": false
+    },
+    {
+      "s": "nr4r5dn7",
+      "t": "npgu7p6e",
+      "dashed": false
+    },
+    {
+      "s": "n3yd1jao",
+      "t": "npgu7p6e",
+      "dashed": false
+    },
+    {
+      "s": "nr4r5dn7",
+      "t": "nlasqfu0",
+      "dashed": false
+    },
+    {
+      "s": "n5nmswmc",
+      "t": "nlasqfu0",
+      "dashed": false
+    },
+    {
+      "s": "nr4r5dn7",
+      "t": "n54srbx6",
+      "dashed": false
+    },
+    {
+      "s": "n3yd1jao",
+      "t": "n54srbx6",
+      "dashed": false
+    },
+    {
+      "s": "nbcf6kuq",
+      "t": "nxp4artb",
+      "dashed": false
+    },
+    {
+      "s": "nlasqfu0",
+      "t": "nepy67kk",
+      "dashed": false
+    },
+    {
+      "s": "nr4r5dn7",
+      "t": "nepy67kk",
+      "dashed": false
+    },
+    {
+      "s": "n9qw5t6y",
+      "t": "nepy67kk",
+      "dashed": false
+    },
+    {
+      "s": "n54srbx6",
+      "t": "n2t6z8fn",
+      "dashed": false
+    },
+    {
+      "s": "n2t6z8fn",
+      "t": "nepy67kk",
+      "dashed": false
+    },
+    {
+      "s": "n3a4q01f",
+      "t": "n2t6z8fn",
+      "dashed": false
+    },
+    {
+      "s": "nepy67kk",
+      "t": "newt4ihu",
+      "dashed": false
+    },
+    {
+      "s": "nlasqfu0",
+      "t": "newt4ihu",
+      "dashed": false
+    },
+    {
+      "s": "newt4ihu",
+      "t": "np5pl4sb",
+      "dashed": false
+    },
+    {
+      "s": "nepy67kk",
+      "t": "np5pl4sb",
+      "dashed": false
+    },
+    {
+      "s": "n2t6z8fn",
+      "t": "np5pl4sb",
+      "dashed": false
+    },
+    {
+      "s": "np5pl4sb",
+      "t": "n1oaihu4",
+      "dashed": false
+    },
+    {
+      "s": "n2t6z8fn",
+      "t": "n1oaihu4",
+      "dashed": false
+    },
+    {
+      "s": "np5pl4sb",
+      "t": "nu0s3aif",
+      "dashed": false
+    },
+    {
+      "s": "np5pl4sb",
+      "t": "ngvnlr9z",
+      "dashed": false
+    },
+    {
+      "s": "np5pl4sb",
+      "t": "ng6u8izg",
+      "dashed": false
+    },
+    {
+      "s": "newt4ihu",
+      "t": "ng6u8izg",
+      "dashed": false
+    },
+    {
+      "s": "newt4ihu",
+      "t": "ngvnlr9z",
+      "dashed": false
+    },
+    {
+      "s": "newt4ihu",
+      "t": "nu0s3aif",
+      "dashed": false
+    },
+    {
+      "s": "ng6u8izg",
+      "t": "nc26r4zh",
+      "dashed": false
+    },
+    {
+      "s": "ng6u8izg",
+      "t": "nam0swce",
+      "dashed": false
+    },
+    {
+      "s": "n1oaihu4",
+      "t": "nw11qn3e",
+      "dashed": false
+    },
+    {
+      "s": "nam0swce",
+      "t": "nw11qn3e",
+      "dashed": false
+    },
+    {
+      "s": "ng6u8izg",
+      "t": "nw11qn3e",
+      "dashed": false
+    },
+    {
+      "s": "n3yd1jao",
+      "t": "nbcf6kuq",
+      "dashed": false
+    },
+    {
+      "s": "n54srbx6",
+      "t": "nbcf6kuq",
+      "dashed": false
+    },
+    {
+      "s": "nbcf6kuq",
+      "t": "ny3pt9c2",
+      "dashed": false
+    },
+    {
+      "s": "nbcf6kuq",
+      "t": "n0oh0sf6",
+      "dashed": false
+    },
+    {
+      "s": "nxp4artb",
+      "t": "nw11qn3e",
+      "dashed": false
+    },
+    {
+      "s": "ny3pt9c2",
+      "t": "nw11qn3e",
+      "dashed": false
+    },
+    {
+      "s": "n0oh0sf6",
+      "t": "nw11qn3e",
+      "dashed": false
+    },
+    {
+      "s": "nc26r4zh",
+      "t": "nw11qn3e",
+      "dashed": false
+    },
+    {
+      "s": "nw11qn3e",
+      "t": "n5u0v67i",
+      "dashed": false
+    },
+    {
+      "s": "n1oaihu4",
+      "t": "n5u0v67i",
+      "dashed": false
+    },
+    {
+      "s": "nam0swce",
+      "t": "n5u0v67i",
+      "dashed": false
+    },
+    {
+      "s": "ny3pt9c2",
+      "t": "n5u0v67i",
+      "dashed": false
+    },
+    {
+      "s": "nw11qn3e",
+      "t": "nke9cr2c",
+      "dashed": false
+    },
+    {
+      "s": "nke9cr2c",
+      "t": "ncpobipd",
+      "dashed": false
+    },
+    {
+      "s": "ng6u8izg",
+      "t": "ncpobipd",
+      "dashed": false
+    },
+    {
+      "s": "nam0swce",
+      "t": "ncpobipd",
+      "dashed": false
+    },
+    {
+      "s": "n5u0v67i",
+      "t": "ncpobipd",
+      "dashed": false
+    },
+    {
+      "s": "ny3pt9c2",
+      "t": "ncpobipd",
+      "dashed": false
+    },
+    {
+      "s": "n1oaihu4",
+      "t": "nke9cr2c",
+      "dashed": false
+    },
+    {
+      "s": "nke9cr2c",
+      "t": "nqkxdnrl",
+      "dashed": false
+    },
+    {
+      "s": "ncpobipd",
+      "t": "nqkxdnrl",
+      "dashed": false
+    },
+    {
+      "s": "ncpobipd",
+      "t": "n0q27br8",
+      "dashed": false
+    },
+    {
+      "s": "n0q27br8",
+      "t": "n7cvlw2w",
+      "dashed": false
+    },
+    {
+      "s": "ncpobipd",
+      "t": "n7cvlw2w",
+      "dashed": false
+    },
+    {
+      "s": "nam0swce",
+      "t": "n7cvlw2w",
+      "dashed": false
+    },
+    {
+      "s": "n7cvlw2w",
+      "t": "nqz6tf60",
+      "dashed": false
+    },
+    {
+      "s": "n0q27br8",
+      "t": "nqz6tf60",
+      "dashed": false
+    },
+    {
+      "s": "nqkxdnrl",
+      "t": "nqz6tf60",
+      "dashed": false
+    },
+    {
+      "s": "nqkxdnrl",
+      "t": "n5vttk8t",
+      "dashed": false
+    },
+    {
+      "s": "nqz6tf60",
+      "t": "n5vttk8t",
+      "dashed": false
+    },
+    {
+      "s": "n01qphts",
+      "t": "nsf6ade0",
+      "dashed": false
+    },
+    {
+      "s": "nsf6ade0",
+      "t": "nlasqfu0",
+      "dashed": false
+    },
+    {
+      "s": "nsf6ade0",
+      "t": "nepy67kk",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Communication",
-      "Critical design",
-      "Critical theory",
-      "Socio-political",
-      "Media studies",
       "Research",
+      "Communication",
       "Design research",
+      "Media studies",
+      "Socio-political",
+      "Critical theory",
+      "Critical design",
       "Ideas"
     ],
     "tags": [
-      "Ideas",
-      "Scenarios",
+      "Speculation",
       "Research",
-      "Speculation"
+      "Scenarios",
+      "Ideas"
     ],
     "type": [
-      "Feedback",
-      "Decision",
       "Brief",
+      "Sketch",
+      "Feedback",
       "Ideas",
+      "Decision",
       "Internal review"
     ]
   }
