@@ -7656,8 +7656,8 @@
       "group": null,
       "data": {
         "date": "2025-11-19",
-        "title": "Definitive logo",
-        "type": "Artefact",
+        "title": "Logo spacing ",
+        "type": "Decision",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -8032,6 +8032,37 @@
           "Metrics distortion"
         ],
         "desc": "00:00-00:06 | Opening - problem\nBlack screen.\nA deep sound signal, like a global broadcast.\nA white line crosses the screen and breaks.\n00:05-00:10 - Geopolitical scenario\nThe Greenwich meridian dissolves, replaced by multiple “pulsating” time axes.\nVO: \"Today, in a multipolar world, time is no longer neutral.\nIt defines trade, communication... everyday life.\"\nNetworks of cities light up one after the other. No drama: just order, regularity.\n00:11-00:15 - UN intervention\nAbstract UN logo (lines, orbits, no direct text).\nA single timeline emerges from many, restoring order.\nVO: ‘The United Nations envisions a new balance: a single global time zone governed by an independent and transparent institution.’\n00:15-00:21 | One single time zone\nVisual: View of the planet from satellite. Lights turning on in sequence.\nOR map of time zones pulsing until only one lights up.\nVO: ‘Its Department for Measurement Neutrality determines the world's reference time.’\n00:21-00:24 | Invitation to Zero Hour Day, the annual mechanism\nVisual: A simple circle closing in on itself, like a cycle coming full circle.\nIn the centre appears: ZERO HOUR DAY VO: \"Every year, nations are evaluated.\nThe leading state earns the right to define the world's reference time.\"",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nf3w7lfj",
+      "x": 35626.06270648508,
+      "y": 4669.915158141094,
+      "w": 320,
+      "h": 301,
+      "group": null,
+      "data": {
+        "date": "2025-11-29",
+        "title": "",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Design research",
+          "Experience design",
+          "Ui design",
+          "Map",
+          "Web design"
+        ],
+        "tags": [],
+        "desc": "",
         "links": [],
         "files": []
       }
@@ -9782,6 +9813,11 @@
       "s": "nef5f9rs",
       "t": "njoxwel7",
       "dashed": false
+    },
+    {
+      "s": "njoxwel7",
+      "t": "nf3w7lfj",
+      "dashed": false
     }
   ],
   "vocab": {
@@ -9862,9 +9898,9 @@
       "Mechanical computing"
     ],
     "type": [
-      "Feedback",
-      "Artefact",
       "Decision",
+      "Artefact",
+      "Feedback",
       "Observation",
       "Sketch",
       "Concept",
