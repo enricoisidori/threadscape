@@ -3232,8 +3232,8 @@
     },
     {
       "id": "newtx4qz",
-      "x": 25394.476153650205,
-      "y": 7143.305078374665,
+      "x": 25365.84479958645,
+      "y": 7140.4419429682885,
       "w": 320,
       "h": 413,
       "group": null,
@@ -3252,7 +3252,7 @@
           "Pixel",
           "Video-games"
         ],
-        "desc": "we've collected some other reference to complete our style",
+        "desc": "we've collected some ascii reference to complete our style",
         "links": [],
         "files": [
           {
@@ -3379,6 +3379,147 @@
             "path": "assets/Screenshot_2025-11-27_alle_18.57.54.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "ngknws7j",
+      "x": 26997.37803530178,
+      "y": 7963.05215962339,
+      "w": 320,
+      "h": 172,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ns6njd26",
+      "x": 25836.479464137778,
+      "y": 7073.648739630999,
+      "w": 320,
+      "h": 556,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon"
+        ],
+        "tags": [
+          "Futuristic",
+          "Pixel",
+          "Video-games"
+        ],
+        "desc": "Testing the creation of graphic artifacts based on the ASCII character set. Visual inputs are translated into ASCII image reconstructions using character-density mapping and grid-based raster techniques. The resulting graphics adopt a distinctly digital aesthetic, enhanced through controlled color application.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-02 alle 12.01.22.png",
+            "size": 594276,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-02_alle_12.01.22.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nz2uv899",
+      "x": 40,
+      "y": 40,
+      "w": 320,
+      "h": 413,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "Some ASCII reference",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Weapon",
+          "War"
+        ],
+        "tags": [
+          "Futuristic",
+          "Pixel",
+          "Video-games"
+        ],
+        "desc": "we've collected some ascii reference to complete our style",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-27 alle 18.50.16.png",
+            "size": 1477722,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-27_alle_18.50.16.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9zq7zkx",
+      "x": 25314.012031122216,
+      "y": 6704.264292811653,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n58tp4r4",
+      "x": 23841.548980626012,
+      "y": 8674.65659268994,
+      "w": 320,
+      "h": 149,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "",
+        "type": "Decision",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -5767,6 +5908,21 @@
       "s": "nez51po0",
       "t": "njezn2rq",
       "dashed": false
+    },
+    {
+      "s": "njezn2rq",
+      "t": "ngknws7j",
+      "dashed": false
+    },
+    {
+      "s": "newtx4qz",
+      "t": "ns6njd26",
+      "dashed": false
+    },
+    {
+      "s": "nchfbkmc",
+      "t": "n9zq7zkx",
+      "dashed": false
     }
   ],
   "vocab": {
@@ -5795,14 +5951,14 @@
       "Engeneering"
     ],
     "type": [
-      "Collection",
       "Decision",
+      "Collection",
+      "Finding",
       "Brief",
       "What-if",
       "Slides",
       "Observation",
       "Source",
-      "Finding",
       "Feedback",
       "Sketch",
       "Concept"
