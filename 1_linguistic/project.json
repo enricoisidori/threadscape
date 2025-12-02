@@ -3233,7 +3233,7 @@
     {
       "id": "newtx4qz",
       "x": 25394.476153650205,
-      "y": 7144.054683235907,
+      "y": 7143.305078374665,
       "w": 320,
       "h": 413,
       "group": null,
@@ -3244,7 +3244,6 @@
         "action": "Exploring",
         "mainArea": "Communication",
         "areas": [
-          "Conflict",
           "Weapon",
           "War"
         ],
@@ -5772,42 +5771,41 @@
   ],
   "vocab": {
     "areas": [
-      "Informatics",
-      "Linguistic",
-      "Weapon",
-      "War",
-      "Conflict",
-      "Society",
-      "Information",
-      "Media",
-      "Cognitive science",
-      "Research",
-      "Philosophy",
-      "Mental health",
-      "Morphology",
-      "Arts",
+      "Evolution",
       "Censorship",
-      "Evolution"
+      "Arts",
+      "Morphology",
+      "Mental health",
+      "Philosophy",
+      "Research",
+      "Cognitive science",
+      "Media",
+      "Information",
+      "Society",
+      "Conflict",
+      "War",
+      "Weapon",
+      "Linguistic",
+      "Informatics"
     ],
     "tags": [
-      "Engeneering",
-      "Futuristic",
-      "Pixel",
       "Video-games",
-      "Video-games pixel"
+      "Pixel",
+      "Futuristic",
+      "Engeneering"
     ],
     "type": [
-      "Decision",
-      "Concept",
       "Collection",
-      "Sketch",
-      "Feedback",
-      "Finding",
-      "Source",
-      "Observation",
-      "Slides",
+      "Decision",
+      "Brief",
       "What-if",
-      "Brief"
+      "Slides",
+      "Observation",
+      "Source",
+      "Finding",
+      "Feedback",
+      "Sketch",
+      "Concept"
     ]
   }
 }

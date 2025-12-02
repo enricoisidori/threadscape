@@ -2452,9 +2452,9 @@
     {
       "id": "ny3pt9c2",
       "x": 17317.970443350194,
-      "y": 3317.5620209482904,
+      "y": 3269.5620209482904,
       "w": 320,
-      "h": 278,
+      "h": 332,
       "group": null,
       "data": {
         "date": "2025-11-11",
@@ -2467,7 +2467,9 @@
         ],
         "tags": [],
         "desc": "The second teaser concept is to show nature gradually failing on its own. As this happens, our graphic signs begin to appear one by one, until we finally reveal close-up details of our Treeal tree lighting up.",
-        "links": [],
+        "links": [
+          "https://drive.google.com/file/d/19zx07mF4Dhmv2BMIAXNi6qX0uKCyk4cx/view?usp=sharing"
+        ],
         "files": []
       }
     },
@@ -2495,8 +2497,8 @@
     },
     {
       "id": "n5u0v67i",
-      "x": 20167.42022109647,
-      "y": 2940.10364569062,
+      "x": 19952.686240407493,
+      "y": 2988.5919639107115,
       "w": 320,
       "h": 765,
       "group": null,
@@ -2517,8 +2519,8 @@
     },
     {
       "id": "ncpobipd",
-      "x": 20709.391716124162,
-      "y": 2301.410701897647,
+      "x": 20685.391716124162,
+      "y": 2077.410701897647,
       "w": 320,
       "h": 382,
       "group": null,
@@ -2617,8 +2619,8 @@
     },
     {
       "id": "n0q27br8",
-      "x": 21283.200889859567,
-      "y": 2479.853847097811,
+      "x": 21267.200889859567,
+      "y": 2615.853847097811,
       "w": 320,
       "h": 977,
       "group": null,
@@ -2694,7 +2696,7 @@
       "data": {
         "date": "2025-11-24",
         "title": "Shaping the communication device",
-        "type": "Sketch",
+        "type": "Artefact",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -2725,14 +2727,14 @@
     },
     {
       "id": "n5vttk8t",
-      "x": 22968.721159185814,
-      "y": 1735.5047499073303,
+      "x": 22792.311388483628,
+      "y": 1460.1245386947494,
       "w": 320,
-      "h": 559,
+      "h": 377,
       "group": null,
       "data": {
         "date": "2025-11-26",
-        "title": "Refining identity",
+        "title": "Refining visual identity",
         "type": "Sketch",
         "action": "Making",
         "mainArea": "Communication",
@@ -2750,14 +2752,6 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-11-29_alle_16.35.33.jpg"
-          },
-          {
-            "name": "Screenshot 2025-11-29 alle 16.35.44.png",
-            "size": 2984051,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/Screenshot_2025-11-29_alle_16.35.44.jpg"
           }
         ]
       }
@@ -2807,6 +2801,224 @@
             "path": "assets/Screenshot_2025-11-29_alle_16.38.26.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "nuv16yg7",
+      "x": 23028.99102214228,
+      "y": 2370.3849227699193,
+      "w": 320,
+      "h": 696,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Refining the communication device",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "a.png",
+            "size": 2116391,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/a.jpg"
+          },
+          {
+            "name": "d.png",
+            "size": 2105146,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/d.jpg"
+          },
+          {
+            "name": "e.png",
+            "size": 2229583,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/e.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ndzjqss6",
+      "x": 23779.17774191362,
+      "y": 2026.1423700978344,
+      "w": 320,
+      "h": 227,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Review",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "In this revision, small corrections were suggested in view of the December 2 presentation.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ng7es5a1",
+      "x": 23350.766876304868,
+      "y": 1357.271637120538,
+      "w": 320,
+      "h": 335,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Refining visual identity",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-01 alle 15.12.47.png",
+            "size": 3935764,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-01_alle_15.12.47.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nv0x08ia",
+      "x": 24317.75309148159,
+      "y": 1574.5103379707907,
+      "w": 320,
+      "h": 582,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "Refining visual identity",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-29 alle 16.35.44.png",
+            "size": 2984051,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-29_alle_16.35.44.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-01 alle 16.23.50.png",
+            "size": 4641153,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-01_alle_16.23.50.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nm9pf96g",
+      "x": 24312.19035849313,
+      "y": 2242.884472104166,
+      "w": 320,
+      "h": 538,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "Refining the communication device",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Immagine 01-12-25 - 15.06.jpg",
+            "size": 1162736,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Immagine_01-12-25_-_15.06.jpg"
+          },
+          {
+            "name": "Immagine 01-12-25 - 15.03.jpg",
+            "size": 596950,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Immagine_01-12-25_-_15.03.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nldn64nb",
+      "x": 25054.83231497002,
+      "y": 1942.9460254490145,
+      "w": 320,
+      "h": 399,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "Presentation",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "We presented the development of the project. Once the scenario was consolidated, we refined the communication and visual identity through various applications such as posters, billboards, and the website. We also defined the experience and appearance of the communication machine, and we presented the project teaser.",
+        "links": [
+          "https://www.figma.com/deck/1drDxTE00GX3R1v90VtvFV/presentazione-02.12?node-id=1-98&p=f&t=i7BpDEk8kwX5xChd-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nkbjyzxg",
+      "x": 24327.778441622846,
+      "y": 2928.0360470496025,
+      "w": 320,
+      "h": 210,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "Teaser",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "The final version of the teaser.",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -3432,11 +3644,6 @@
       "dashed": false
     },
     {
-      "s": "ny3pt9c2",
-      "t": "n5u0v67i",
-      "dashed": false
-    },
-    {
       "s": "nw11qn3e",
       "t": "nke9cr2c",
       "dashed": false
@@ -3540,32 +3747,119 @@
       "s": "nsf6ade0",
       "t": "nepy67kk",
       "dashed": false
+    },
+    {
+      "s": "n7cvlw2w",
+      "t": "nuv16yg7",
+      "dashed": false
+    },
+    {
+      "s": "nqz6tf60",
+      "t": "nuv16yg7",
+      "dashed": false
+    },
+    {
+      "s": "nuv16yg7",
+      "t": "ndzjqss6",
+      "dashed": false
+    },
+    {
+      "s": "n5vttk8t",
+      "t": "ndzjqss6",
+      "dashed": false
+    },
+    {
+      "s": "n5vttk8t",
+      "t": "ng7es5a1",
+      "dashed": false
+    },
+    {
+      "s": "ng7es5a1",
+      "t": "ndzjqss6",
+      "dashed": false
+    },
+    {
+      "s": "ny3pt9c2",
+      "t": "n5u0v67i",
+      "dashed": false
+    },
+    {
+      "s": "ny3pt9c2",
+      "t": "ndzjqss6",
+      "dashed": false
+    },
+    {
+      "s": "ng7es5a1",
+      "t": "nv0x08ia",
+      "dashed": false
+    },
+    {
+      "s": "ndzjqss6",
+      "t": "nv0x08ia",
+      "dashed": false
+    },
+    {
+      "s": "nuv16yg7",
+      "t": "nm9pf96g",
+      "dashed": false
+    },
+    {
+      "s": "ndzjqss6",
+      "t": "nm9pf96g",
+      "dashed": false
+    },
+    {
+      "s": "nv0x08ia",
+      "t": "nldn64nb",
+      "dashed": false
+    },
+    {
+      "s": "nm9pf96g",
+      "t": "nldn64nb",
+      "dashed": false
+    },
+    {
+      "s": "ny3pt9c2",
+      "t": "nkbjyzxg",
+      "dashed": false
+    },
+    {
+      "s": "ndzjqss6",
+      "t": "nkbjyzxg",
+      "dashed": false
+    },
+    {
+      "s": "nkbjyzxg",
+      "t": "nldn64nb",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Research",
       "Communication",
-      "Design research",
-      "Media studies",
-      "Socio-political",
-      "Critical theory",
+      "Ideas",
       "Critical design",
-      "Ideas"
+      "Critical theory",
+      "Socio-political",
+      "Media studies",
+      "Design research",
+      "Research"
     ],
     "tags": [
-      "Speculation",
-      "Research",
+      "Ideas",
       "Scenarios",
-      "Ideas"
+      "Research",
+      "Speculation"
     ],
     "type": [
-      "Brief",
-      "Sketch",
-      "Feedback",
-      "Ideas",
+      "Artefact",
+      "Output",
+      "Internal review",
       "Decision",
-      "Internal review"
+      "Sketch",
+      "Brief",
+      "Ideas",
+      "Feedback"
     ]
   }
 }
