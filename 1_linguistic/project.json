@@ -3521,6 +3521,52 @@
         "links": [],
         "files": []
       }
+    },
+    {
+      "id": "nrktn61y",
+      "x": 21326.80274680022,
+      "y": 4486.785103724751,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "what if language was engineered as a weapon",
+        "type": "What-if",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwysul8q",
+      "x": 21142.83830307305,
+      "y": 4050.5895458503282,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "CHECKPOINT - AGGIUNGERE DA QUA",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
     }
   ],
   "edges": [
@@ -5923,10 +5969,35 @@
       "s": "nchfbkmc",
       "t": "n9zq7zkx",
       "dashed": false
+    },
+    {
+      "s": "nk0kg6g0",
+      "t": "n5tmy4zl",
+      "dashed": false
+    },
+    {
+      "s": "nk0kg6g0",
+      "t": "nrktn61y",
+      "dashed": false
+    },
+    {
+      "s": "nrktn61y",
+      "t": "nwysul8q",
+      "dashed": false
+    },
+    {
+      "s": "nwysul8q",
+      "t": "nrktn61y",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Media",
+      "Linguistic",
+      "Informatics",
+      "War",
+      "Weapon",
       "Evolution",
       "Censorship",
       "Arts",
@@ -5935,14 +6006,9 @@
       "Philosophy",
       "Research",
       "Cognitive science",
-      "Media",
       "Information",
       "Society",
-      "Conflict",
-      "War",
-      "Weapon",
-      "Linguistic",
-      "Informatics"
+      "Conflict"
     ],
     "tags": [
       "Video-games",
@@ -5951,11 +6017,11 @@
       "Engeneering"
     ],
     "type": [
-      "Decision",
+      "What-if",
       "Collection",
+      "Decision",
       "Finding",
       "Brief",
-      "What-if",
       "Slides",
       "Observation",
       "Source",
