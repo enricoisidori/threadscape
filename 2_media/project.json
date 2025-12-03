@@ -4251,25 +4251,37 @@
     },
     {
       "id": "nplhx2fm",
-      "x": 18909.597720858645,
-      "y": 11434.62954748164,
+      "x": 19277.473479529937,
+      "y": 11275.434858770017,
       "w": 320,
-      "h": 202,
+      "h": 664,
       "group": null,
       "data": {
-        "date": "2025-12-03",
+        "date": "2025-11-23",
         "title": "Physical Prototype: The Machine",
-        "type": "Concept",
-        "action": "Exploring",
+        "type": "Artefact",
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Media studies",
-          "Sociological studies"
+          "Design research"
         ],
-        "tags": [],
-        "desc": "",
+        "tags": [
+          "Scale",
+          "Prototype"
+        ],
+        "desc": "We built the wooden internal structure that will sit inside the machine’s outer shell, allowing us to test proportions, stability, and the mechanics of the scale-based system.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2025-12-03 at 19.01.58.png",
+            "size": 745299,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.01.58.jpg"
+          }
+        ]
       }
     },
     {
@@ -4334,7 +4346,8 @@
           "Trial by media",
           "Discover the truth",
           "Tabloid",
-          "Wisdom of the crowd"
+          "Wisdom of the crowd",
+          "Teaser"
         ],
         "desc": "We began researching and collecting video clips to create a dynamic teaser, exploring material that could capture attention and convey the core experience of U-Judge.",
         "links": [],
@@ -4346,6 +4359,493 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-12-03_at_11.58.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3j4n6ll",
+      "x": 19930.117132313902,
+      "y": 10967.647528239237,
+      "w": 320,
+      "h": 1279,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "Physical Prototype: The Machine",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Media studies",
+          "Design research"
+        ],
+        "tags": [
+          "Scale",
+          "Prototype"
+        ],
+        "desc": "We added the springs, Arduino, gyroscope, and all necessary cables (HDMI, Arduino, power), completing the core technical setup for testing the interaction.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-03 at 19.02.47.png",
+            "size": 1531966,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.02.47.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.05.05.png",
+            "size": 1684719,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.05.05.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.05.12.png",
+            "size": 2531475,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.05.12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmm1nbnj",
+      "x": 20314.984622517954,
+      "y": 10956.770935930417,
+      "w": 320,
+      "h": 1301,
+      "group": null,
+      "data": {
+        "date": "2025-11-27",
+        "title": "Physical Prototype: The Machine",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Media studies",
+          "Design research"
+        ],
+        "tags": [
+          "Scale",
+          "Prototype"
+        ],
+        "desc": "We also mounted the outer shell in forex, completing the first fully assembled version of the device.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-03 at 19.08.57.png",
+            "size": 2851731,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.08.57.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.09.31.png",
+            "size": 1058396,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.09.31.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.09.47.png",
+            "size": 2396853,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.09.47.jpg"
+          },
+          {
+            "name": "video_macchina.mov",
+            "size": 43379798,
+            "type": "video/quicktime",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/video_macchina.mov"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0v0xwgo",
+      "x": 21394.304012350032,
+      "y": 11247.940685553503,
+      "w": 320,
+      "h": 712,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "Physical Prototype: The Machine",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Media studies",
+          "Design research"
+        ],
+        "tags": [
+          "Scale",
+          "Prototype"
+        ],
+        "desc": "We produced a new 3D-printed internal structure to replace the wooden one, improving precision, stability, and overall integration with the outer shell.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-03 at 19.11.30.png",
+            "size": 2174474,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.11.30.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.11.38.png",
+            "size": 2973174,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.11.38.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "newof1d7",
+      "x": 19585.344165090875,
+      "y": 8960.201957926374,
+      "w": 320,
+      "h": 1529,
+      "group": null,
+      "data": {
+        "date": "2025-11-25",
+        "title": "Visual Development",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Tabloid",
+          "Trial by media",
+          "Media court",
+          "Discover the truth",
+          "Media",
+          "Immediacy"
+        ],
+        "desc": "We created the first logo animation test, developed additional posters, finalized the app icon, and drafted a proposed payoff line to strengthen the overall identity.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-03 at 19.16.18.png",
+            "size": 51953,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.16.18.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.16.23.png",
+            "size": 19952,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.16.23.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.18.40.png",
+            "size": 2087820,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.18.40.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.18.47.png",
+            "size": 1373154,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.18.47.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.18.53.png",
+            "size": 2293492,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.18.53.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.19.02.png",
+            "size": 2252034,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.19.02.jpg"
+          },
+          {
+            "name": "logo_animation.mov",
+            "size": 598628,
+            "type": "video/quicktime",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/logo_animation.mov"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ne1lrgvt",
+      "x": 20658.014771986425,
+      "y": 8943.002088018397,
+      "w": 320,
+      "h": 1573,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Case of the Week",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Crime news"
+        ],
+        "tags": [
+          "Crime news",
+          "Trial by media",
+          "Media court",
+          "Case of the week"
+        ],
+        "desc": "We initially considered using a real foreign case—less familiar to the local audience—as the basis for the public judgment. Starting from that material, we planned to adapt and “translate” it into an Italian context. \nIn the end, we chose to build an entirely new case inspired by that real story: new names, places, and faces, using the original footage as raw material to craft fresh, fictionalized content for U-Judge. \nWe experimented with generating new votes and alternative narrative angles for the Menendez case to test how an existing story could be reinterpreted within the system.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-03 at 19.31.52.png",
+            "size": 924959,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.31.52.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.32.14.png",
+            "size": 882579,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.32.14.jpg"
+          },
+          {
+            "name": "davanti_porta.png",
+            "size": 5560801,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/davanti_porta.jpg"
+          },
+          {
+            "name": "foto_famiglia.png",
+            "size": 5273570,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/foto_famiglia.jpg"
+          },
+          {
+            "name": "tribunale.png",
+            "size": 6889837,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/tribunale.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsee3epu",
+      "x": 21032.45990043135,
+      "y": 8478.818161505245,
+      "w": 320,
+      "h": 2165,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "U-Judge Visual and Communication Updates",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Media court",
+          "Trial by media",
+          "Immediacy",
+          "Media",
+          "Tabloid",
+          "Transparency",
+          "Democracy",
+          "Detective boards",
+          "Case files",
+          "Polarization",
+          "Factions",
+          "Mediatic conflict",
+          "Wisdom of the crowd"
+        ],
+        "desc": "- We defined the logo of Sentra, the communication and service design agency that supported the State in developing the new Italian justice system 2030.\n\n- For U-Judge, the official logo was confirmed: white on a red background, accompanied by a new logo animation. A proposed payoff was introduced: “Il giudice sei tu.”\n\n- The first series of posters promotes the app while conveying the service’s core idea: with U-Judge, everyone can act as a judge at any moment of the day. \n- Another poster concept focuses on kinetic designs to dynamically update the public: during the week, showing the countdown to the weekend and encouraging users to get informed; during the weekend, showing remaining time to vote and inviting citizens to express their judgment.\n\n- Small improvements were made to the app interface.\n- Work has also begun on the machine packaging and user manual, combining functionality with a coherent visual identity.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-03 at 19.48.52.png",
+            "size": 8973,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.48.52.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.42.01.png",
+            "size": 39682,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.42.01.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.42.07.png",
+            "size": 23460,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.42.07.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.42.21.png",
+            "size": 2014463,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.42.21.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.42.29.png",
+            "size": 3950494,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.42.29.jpg"
+          },
+          {
+            "name": "poster_cinetici.mov",
+            "size": 8810731,
+            "type": "video/quicktime",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/poster_cinetici.mov"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.46.06.png",
+            "size": 1860485,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.46.06.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.46.14.png",
+            "size": 2054038,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.46.14.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.46.23.png",
+            "size": 601760,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.46.23.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.44.14.png",
+            "size": 2369507,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.44.14.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-03 at 19.45.01.png",
+            "size": 2027588,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-03_at_19.45.01.jpg"
+          },
+          {
+            "name": "logo_animation_def.mov",
+            "size": 756776,
+            "type": "video/quicktime",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/logo_animation_def.mov"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwcw07ld",
+      "x": 21032.16563532153,
+      "y": 10671.637060408259,
+      "w": 320,
+      "h": 475,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "First Teaser Proposal",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Mediatic conflict",
+          "Wisdom of the crowd",
+          "Factions",
+          "Transparency",
+          "Tabloid",
+          "Trial by media",
+          "Media court",
+          "Teaser"
+        ],
+        "desc": "The teaser was designed to depict the current judicial crisis, showing the challenges and limitations of the existing system. U-Judge is then introduced as the solution: a participatory platform that empowers citizens to engage directly with justice. The video sets the context, highlighting the urgency for a new approach while presenting U-Judge as a clear, immediate, and collective response.",
+        "links": [],
+        "files": [
+          {
+            "name": "#02-CONFLITTOMEDIATICO-video-02122025.mp4",
+            "size": 71202761,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/#02-CONFLITTOMEDIATICO-video-02122025.mp4"
           }
         ]
       }
@@ -5081,6 +5581,46 @@
       "s": "ngfpfbxj",
       "t": "nyiuxtrr",
       "dashed": false
+    },
+    {
+      "s": "nplhx2fm",
+      "t": "n3j4n6ll",
+      "dashed": false
+    },
+    {
+      "s": "n3j4n6ll",
+      "t": "nmm1nbnj",
+      "dashed": false
+    },
+    {
+      "s": "nmm1nbnj",
+      "t": "n0v0xwgo",
+      "dashed": false
+    },
+    {
+      "s": "ngfpfbxj",
+      "t": "newof1d7",
+      "dashed": false
+    },
+    {
+      "s": "newof1d7",
+      "t": "ne1lrgvt",
+      "dashed": false
+    },
+    {
+      "s": "newof1d7",
+      "t": "nsee3epu",
+      "dashed": false
+    },
+    {
+      "s": "nsee3epu",
+      "t": "nwcw07ld",
+      "dashed": false
+    },
+    {
+      "s": "nyiuxtrr",
+      "t": "nwcw07ld",
+      "dashed": false
     }
   ],
   "vocab": {
@@ -5091,29 +5631,16 @@
       "Internet studies",
       "Socio-political",
       "Critical design",
-      "Design research",
       "Media studies",
+      "Design research",
+      "Crime news",
       "Communication"
     ],
     "tags": [
-      "Wisdom of the crowd",
-      "Tabloid",
-      "Discover the truth",
-      "Trial by media",
-      "Media court",
-      "Immediacy",
       "Speed",
       "Vote",
-      "Scale",
-      "Mediatic conflict",
-      "Polarization",
-      "Case files",
-      "Factions",
-      "Detective boards",
-      "Media",
       "Digital media",
       "Social media",
-      "Democracy",
       "Plurality",
       "Scapegoating",
       "Monsters",
@@ -5202,15 +5729,33 @@
       "Accessibility",
       "Coexistence",
       "Resonance",
-      "Transparency"
+      "Scale",
+      "Prototype",
+      "Discover the truth",
+      "Crime news",
+      "Case of the week",
+      "Immediacy",
+      "Media",
+      "Democracy",
+      "Detective boards",
+      "Case files",
+      "Polarization",
+      "Mediatic conflict",
+      "Wisdom of the crowd",
+      "Factions",
+      "Transparency",
+      "Tabloid",
+      "Trial by media",
+      "Media court",
+      "Teaser"
     ],
     "type": [
-      "Sketch",
-      "Concept",
       "Artefact",
+      "Sketch",
       "Brief",
       "Source",
-      "Finding"
+      "Finding",
+      "Concept"
     ]
   }
 }
