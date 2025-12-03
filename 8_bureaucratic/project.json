@@ -4085,8 +4085,8 @@
     },
     {
       "id": "nmoy973m",
-      "x": 14890.106751753057,
-      "y": -1957.3923909597415,
+      "x": 14870.106751753057,
+      "y": -1857.3923909597415,
       "w": 320,
       "h": 300,
       "group": null,
@@ -4278,7 +4278,7 @@
     },
     {
       "id": "nyozbn2f",
-      "x": 16556.967326868195,
+      "x": 16384.967326868195,
       "y": -2172.437916359353,
       "w": 320,
       "h": 333,
@@ -4303,8 +4303,8 @@
     },
     {
       "id": "n39nwkle",
-      "x": 12088.464950235279,
-      "y": 2723.8232392615837,
+      "x": 12712.464950235279,
+      "y": 2731.8232392615837,
       "w": 320,
       "h": 179,
       "group": null,
@@ -4376,8 +4376,8 @@
     },
     {
       "id": "nikh64c3",
-      "x": 12705.284980434373,
-      "y": 354.2445069300475,
+      "x": 12709.284980434373,
+      "y": 326.2445069300476,
       "w": 320,
       "h": 333,
       "group": null,
@@ -4401,8 +4401,8 @@
     },
     {
       "id": "nr1m0u83",
-      "x": 12701.79108810782,
-      "y": 739.6105474935819,
+      "x": 12705.79108810782,
+      "y": 711.6105474935819,
       "w": 320,
       "h": 442,
       "group": null,
@@ -4428,8 +4428,8 @@
     },
     {
       "id": "nd82ii6y",
-      "x": 12700.87039070283,
-      "y": -161.30062818747675,
+      "x": 12712.87039070283,
+      "y": 1290.6993718125232,
       "w": 320,
       "h": 427,
       "group": null,
@@ -4455,8 +4455,8 @@
     },
     {
       "id": "nf1uuft5",
-      "x": 13321.79108810782,
-      "y": 703.6105474935819,
+      "x": 13281.79108810782,
+      "y": 687.6105474935819,
       "w": 320,
       "h": 283,
       "group": null,
@@ -4480,14 +4480,14 @@
     },
     {
       "id": "ng36lgpt",
-      "x": 13797.79108810782,
-      "y": 567.6105474935819,
+      "x": 13701.79108810782,
+      "y": 707.6105474935819,
       "w": 320,
-      "h": 253,
+      "h": 283,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "",
+        "title": "Phases",
         "type": "Feedback",
         "action": null,
         "mainArea": "Interaction",
@@ -4506,13 +4506,38 @@
     {
       "id": "nd2u8w6i",
       "x": 14305.79108810782,
-      "y": -48.38945250641814,
+      "y": 379.61054749358186,
       "w": 320,
-      "h": 224,
+      "h": 294,
       "group": null,
       "data": {
         "date": "2025-11-28",
         "title": "Phase One",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Conflict",
+          "Interaction",
+          "Experience"
+        ],
+        "tags": [],
+        "desc": "definizione da parte dei due individui di definire la natura della loro relazione. Ognuno nel suo spazio accenderà degli interruttori corrispondenti alla relaizone che pensano di avere con l'altra persona",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nf6wd9qs",
+      "x": 14300.856519427582,
+      "y": 690.2000246459911,
+      "w": 320,
+      "h": 316,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Phase Two",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -4523,48 +4548,23 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nf6wd9qs",
-      "x": 14305.79108810782,
-      "y": 186.61054749358186,
-      "w": 320,
-      "h": 195,
-      "group": null,
-      "data": {
-        "date": "2025-11-28",
-        "title": "",
-        "type": "Feedback",
-        "action": null,
-        "mainArea": "Interaction",
-        "areas": [
-          "Insurance",
-          "Public administration",
-          "Science",
-          "Conflict"
-        ],
-        "tags": [],
-        "desc": "",
+        "desc": "definire l'intensità della relazione, sempre singolarmente ognuno azionerà uno slider e metterà indicativamente la percentuale di intensità della relazione con l'altra persona ",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n6naot6q",
-      "x": 14305.79108810782,
-      "y": 421.61054749358186,
+      "x": 14304.143018434208,
+      "y": 1027.1010099071225,
       "w": 320,
-      "h": 195,
+      "h": 266,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "",
-        "type": "Feedback",
-        "action": null,
+        "title": "Phase Three",
+        "type": "Concept",
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Insurance",
@@ -4573,23 +4573,23 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "le persona dovranno mettere la mano sopra i sensori ",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nx7uyrcr",
-      "x": 14305.79108810782,
-      "y": 656.6105474935819,
+      "x": 14304.262600672893,
+      "y": 1310.4037015978038,
       "w": 320,
-      "h": 195,
+      "h": 316,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "",
-        "type": "Feedback",
-        "action": null,
+        "title": "Phase Four",
+        "type": "Concept",
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Insurance",
@@ -4598,23 +4598,23 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "le persone dovranno guardarsi negli occhi per un minuto, durante il minuto attraverso i sensori che toccano la mano verrano rilevati i parametri necessari per capire il loro livello di conflittualitò e ",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n39vcv05",
-      "x": 14305.79108810782,
-      "y": 891.6105474935819,
+      "x": 14304.030644907178,
+      "y": 1643.2176224349414,
       "w": 320,
-      "h": 195,
+      "h": 300,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "",
-        "type": "Feedback",
-        "action": null,
+        "title": "Phase Five",
+        "type": "Concept",
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Insurance",
@@ -4623,7 +4623,7 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "le persone usciranno dalle loro postazioni e riceveranno il contratto stampato e personalizzato per la loro situazione ",
         "links": [],
         "files": []
       }
@@ -4680,8 +4680,8 @@
     },
     {
       "id": "nq2gl79o",
-      "x": 17082.25481409392,
-      "y": -1675.3003780365254,
+      "x": 17460.996338903697,
+      "y": -1778.5484864914154,
       "w": 320,
       "h": 224,
       "group": null,
@@ -4705,16 +4705,16 @@
     },
     {
       "id": "nqph8s1z",
-      "x": 17887.811683646298,
-      "y": -2152.0128908108018,
+      "x": 17918.67146695858,
+      "y": -2054.2902436552376,
       "w": 320,
       "h": 224,
       "group": null,
       "data": {
         "date": "2025-12-02",
         "title": "Applications",
-        "type": "Observation",
-        "action": null,
+        "type": "Collection",
+        "action": "Making",
         "mainArea": "Communication",
         "areas": [
           "Insurance",
@@ -4730,8 +4730,8 @@
     },
     {
       "id": "nwwdofdn",
-      "x": 17676.36753125661,
-      "y": -2623.033039594008,
+      "x": 17611.260773533584,
+      "y": -2617.8566798419524,
       "w": 320,
       "h": 224,
       "group": null,
@@ -4749,6 +4749,154 @@
         ],
         "tags": [],
         "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvz5kopw",
+      "x": 18349.61945618432,
+      "y": -2616.154010036555,
+      "w": 320,
+      "h": 417,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "video teaser",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "script: \nImmagina  di poter assicurare ogni tuo legame\ncome la convivènza con il coinquilìno... che sembra marcare il territorio.\ncome i pranzi di famiglia... con la zìa che ti sottopone all’interrogatorio   \ncome l'amìca che al tèrzo bicchière... svela i tuoi segreti più intimi.      \nIl càos emotivo... che divènta contràtto.\nALUA... Agenzìa Legàmi Umàni Assicuràti.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nsivmeyg",
+      "x": 13524.87039070283,
+      "y": 1656.6105474935819,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "sistema di arduino",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Electronic system"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwawe225",
+      "x": 13224.87039070283,
+      "y": 2063.610547493582,
+      "w": 320,
+      "h": 241,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "elementi della ricerca di gottman per i parametri fisiologici",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nf9nyekj",
+      "x": 15302.895455989144,
+      "y": 506.1677999804724,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "naming della macchina",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nd79m87y",
+      "x": 15263.933612941782,
+      "y": 1398.9275060826787,
+      "w": 320,
+      "h": 350,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "necessità strutturali per l'espoerienza",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "la macchona avrà sicuramentre una zona con i sensori e le leve, una per ogni persona,in orizzonrale. \n le persone poi avranno necessità di essere uno davanti all'altra e avranno necessità di essere isolati dal resto dell'ambiente e poi ci sarà bisogno di luci e suoni che guidano l'esperienza",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nilj4cbu",
+      "x": 14760.234569233722,
+      "y": 204.20246202889064,
+      "w": 320,
+      "h": 260,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "categorie di relazioni",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Conflict",
+          "Interaction",
+          "Experience"
+        ],
+        "tags": [],
+        "desc": "romantica, familiare, amicale, professionale, di convivenza, di conoscenza",
         "links": [],
         "files": []
       }
@@ -6389,49 +6537,182 @@
       "s": "n4gt1tik",
       "t": "nwwdofdn",
       "dashed": false
+    },
+    {
+      "s": "nq2gl79o",
+      "t": "nqph8s1z",
+      "dashed": false
+    },
+    {
+      "s": "nqph8s1z",
+      "t": "nvz5kopw",
+      "dashed": false
+    },
+    {
+      "s": "n4gt1tik",
+      "t": "nvz5kopw",
+      "dashed": false
+    },
+    {
+      "s": "nbz8jxeo",
+      "t": "nvz5kopw",
+      "dashed": false
+    },
+    {
+      "s": "nwwdofdn",
+      "t": "nqph8s1z",
+      "dashed": false
+    },
+    {
+      "s": "nwwdofdn",
+      "t": "nvz5kopw",
+      "dashed": false
+    },
+    {
+      "s": "ncgmz84m",
+      "t": "nq2gl79o",
+      "dashed": false
+    },
+    {
+      "s": "nd82ii6y",
+      "t": "nsivmeyg",
+      "dashed": false
+    },
+    {
+      "s": "nd82ii6y",
+      "t": "nwawe225",
+      "dashed": false
+    },
+    {
+      "s": "nf1uuft5",
+      "t": "nf9nyekj",
+      "dashed": false
+    },
+    {
+      "s": "nd2u8w6i",
+      "t": "nf9nyekj",
+      "dashed": false
+    },
+    {
+      "s": "nf6wd9qs",
+      "t": "nf9nyekj",
+      "dashed": false
+    },
+    {
+      "s": "n6naot6q",
+      "t": "nf9nyekj",
+      "dashed": false
+    },
+    {
+      "s": "nx7uyrcr",
+      "t": "nf9nyekj",
+      "dashed": false
+    },
+    {
+      "s": "n39vcv05",
+      "t": "nf9nyekj",
+      "dashed": false
+    },
+    {
+      "s": "n39vcv05",
+      "t": "nd79m87y",
+      "dashed": false
+    },
+    {
+      "s": "nd2u8w6i",
+      "t": "nd79m87y",
+      "dashed": false
+    },
+    {
+      "s": "nf6wd9qs",
+      "t": "nd79m87y",
+      "dashed": false
+    },
+    {
+      "s": "n6naot6q",
+      "t": "nd79m87y",
+      "dashed": false
+    },
+    {
+      "s": "nx7uyrcr",
+      "t": "nd79m87y",
+      "dashed": false
+    },
+    {
+      "s": "nikh64c3",
+      "t": "nd79m87y",
+      "dashed": false
+    },
+    {
+      "s": "nd2u8w6i",
+      "t": "nilj4cbu",
+      "dashed": false
+    },
+    {
+      "s": "n6naot6q",
+      "t": "nsivmeyg",
+      "dashed": false
+    },
+    {
+      "s": "nwawe225",
+      "t": "n39vcv05",
+      "dashed": false
+    },
+    {
+      "s": "nwawe225",
+      "t": "nx7uyrcr",
+      "dashed": false
+    },
+    {
+      "s": "n39vcv05",
+      "t": "n39nwkle",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Cinema",
-      "Sociology",
-      "Literature",
-      "Administration",
-      "Power",
-      "Envirionment",
-      "Philosophy",
-      "Design research",
-      "Spatial design",
-      "Critical design",
-      "Cultural studies",
-      "Media studies",
-      "Hystory",
-      "Communication",
-      "Law",
-      "Socio-political",
-      "Identity",
-      "Brand identity",
-      "Insurance",
-      "Public administration",
+      "Experience",
+      "Interaction",
+      "Electronic system",
+      "Conflict",
       "Science",
-      "Conflict"
+      "Public administration",
+      "Insurance",
+      "Brand identity",
+      "Identity",
+      "Socio-political",
+      "Law",
+      "Communication",
+      "Hystory",
+      "Media studies",
+      "Cultural studies",
+      "Critical design",
+      "Spatial design",
+      "Design research",
+      "Philosophy",
+      "Envirionment",
+      "Power",
+      "Administration",
+      "Literature",
+      "Sociology",
+      "Cinema"
     ],
     "tags": [
-      "Feelings",
-      "Emotion",
-      "Social tension",
-      "Opposition",
-      "Conflict",
+      "Power abuse",
       "Corruption",
-      "Power abuse"
+      "Conflict",
+      "Opposition",
+      "Social tension",
+      "Emotion",
+      "Feelings"
     ],
     "type": [
-      "Concept",
       "Observation",
-      "Brief",
+      "Concept",
       "Collection",
       "Source",
-      "Feedback"
+      "Feedback",
+      "Brief"
     ]
   }
 }
