@@ -9393,7 +9393,7 @@
       "x": 44018.93757768125,
       "y": 4933.167148349882,
       "w": 320,
-      "h": 856,
+      "h": 947,
       "group": null,
       "data": {
         "date": "2025-12-02",
@@ -9408,7 +9408,13 @@
           "Sensor technology",
           "Science and technology studies (sts)"
         ],
-        "tags": [],
+        "tags": [
+          "Mechanical computing",
+          "Sensor technology",
+          "Physical computing",
+          "Physical prototype",
+          "Data representation"
+        ],
         "desc": "Prototype: The physical housing requires sanding and painting before use, with 3D printing as an optional fabrication method. The design incorporates LED lighting beneath a plexiglass ring insert and a 4-inch screen connected to a computer. \n\nExperience: The authentication system uses QR code scanning instead of traditional ID input: users scan their code, which directs them to a login page where the machine recognizes them. This mirrors standard voting authentication protocols—identification precedes system access. The application maintains state tracking, prompting users to complete authentication before machine operation begins. Time selection functionality is required. \n\nPresentation: the map's function and the distinction between Synchro and United Nations identities lack clarity. \n\nTeaser: The narrative approach feels flat; a decision is needed between full voiceover, music-only, or voice-only audio. Animation timing should use ease-out curves rather than linear motion. The workflow involves positioning lines in Illustrator, importing to After Effects, and copying keyframes. A black-and-white movement map with displacement effects is recommended. The visual sequence should clearly communicate transformation, with all circles converging centrally as clock hands fade. Include \"Provided/Supported by Synchro\" attribution. Structure: begin with Synchro, then transition to Zero Hour Day.\n",
         "links": [],
         "files": []
@@ -9416,10 +9422,10 @@
     },
     {
       "id": "nnx9bx0h",
-      "x": 44401.400082616565,
-      "y": 5101.167148349882,
+      "x": 44398.23216198992,
+      "y": 5097.999227723236,
       "w": 320,
-      "h": 520,
+      "h": 611,
       "group": null,
       "data": {
         "date": "2025-12-03",
@@ -9434,7 +9440,13 @@
           "Sensor technology",
           "Science and technology studies (sts)"
         ],
-        "tags": [],
+        "tags": [
+          "Mechanical computing",
+          "Sensor technology",
+          "Physical computing",
+          "Physical prototype",
+          "Data representation"
+        ],
         "desc": "By the 19th of December, the prototype must be operational, though not necessarily complete: prioritizing maximum functionality. This represents a critical testing phase for the project, where gaining end-to-end practical experience is essential. The improved video teaser must be finalized. The product manual requires attention: both content topics and layout structure need definition. The map prototype demands testing, including print trials and evaluation of technical implementation methods. Display specifications must be determined. Print tests for posters and flyers should be conducted to verify output quality and material suitability.",
         "links": [],
         "files": []
@@ -11616,14 +11628,14 @@
       "Social media"
     ],
     "tags": [
-      "Mechanical computing",
+      "Data representation",
       "Physical prototype",
+      "Physical computing",
+      "Sensor technology",
+      "Mechanical computing",
       "Usability testing",
       "Brand communication",
       "Temporal sovereignty",
-      "Data representation",
-      "Physical computing",
-      "Sensor technology",
       "Mockup",
       "Print media",
       "Device render",
@@ -11666,11 +11678,11 @@
     ],
     "type": [
       "Observation",
+      "Feedback",
+      "Sketch",
       "Artefact",
       "Decision",
-      "Sketch",
       "Collection",
-      "Feedback",
       "Finding",
       "Brief",
       "Source",
