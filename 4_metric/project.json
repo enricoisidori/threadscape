@@ -8215,9 +8215,9 @@
     {
       "id": "n336ev3r",
       "x": 36910.07188606694,
-      "y": 5003.788824941996,
+      "y": 4999.788824941996,
       "w": 320,
-      "h": 590,
+      "h": 613,
       "group": null,
       "data": {
         "date": "2025-11-23",
@@ -8229,7 +8229,8 @@
           "Branding",
           "Communication",
           "Motion design",
-          "Chronopolitics"
+          "Chronopolitics",
+          "Visual communication"
         ],
         "tags": [
           "Temporal sovereignty",
@@ -8522,7 +8523,7 @@
       "x": 38721.45079201089,
       "y": 5350.819554710741,
       "w": 320,
-      "h": 896,
+      "h": 897,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -8611,10 +8612,10 @@
     },
     {
       "id": "nqi8w2k5",
-      "x": 38723.121024864464,
+      "x": 38719.121024864464,
       "y": 6286.112503317272,
       "w": 320,
-      "h": 779,
+      "h": 762,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -8636,7 +8637,7 @@
           "Physical prototype",
           "Data representation"
         ],
-        "desc": "- Upon activation, the system generates a unique session identifier and initializes a 48-LED array (24 external white progress indicators, 24 internal activity-specific colored markers)\n- Users categorize time intervals into four activities—sleeping, working, eating, and other—via dedicated buttons, each associated with a distinct color (blue, red, yellow, green)\n- A rotary encoder controls LED activation, with clockwise rotation illuminating LEDs progressively and counterclockwise rotation erasing previous selections\n- Each activity selection automatically saves the preceding LED segment, recording color, quantity, and position data\n- Once all 24 LEDs are assigned, the system requires encoder confirmation to transmit segment data to Google Sheets via HTTP GET, including session ID and JSON-formatted activity arrays\n- Following data transmission, a white LED animation confirms completion, the session ID displays for one minute, then the system resets for subsequent use\n\n",
+        "desc": "- Upon activation, the system generates a unique session identifier and initializes a 48-LED array (24 external white progress indicators, 24 internal activity-specific colored markers)\n- Users categorize time intervals into four activities—sleeping, working, eating, and other—via dedicated buttons, each associated with a distinct color (blue, red, yellow, green)\n- A rotary encoder controls LED activation, with clockwise rotation illuminating LEDs progressively and counterclockwise rotation erasing previous selections\n- Each activity selection automatically saves the preceding LED segment, recording color, quantity, and position data\n- Once all 24 LEDs are assigned, the system requires encoder confirmation to transmit segment data to Google Sheets via HTTP GET, including session ID and JSON-formatted activity arrays\n- Following data transmission, a white LED animation confirms completion, the session ID displays for one minute, then the system resets for subsequent use\n",
         "links": [],
         "files": []
       }
@@ -8678,7 +8679,7 @@
     {
       "id": "n8ey8p07",
       "x": 41038.55339366823,
-      "y": 5501.758701223466,
+      "y": 6113.964901762965,
       "w": 320,
       "h": 758,
       "group": null,
@@ -8712,7 +8713,7 @@
     },
     {
       "id": "nnmt12if",
-      "x": 40433.752216856185,
+      "x": 40429.752216856185,
       "y": 5039.855714755116,
       "w": 320,
       "h": 964,
@@ -8747,7 +8748,7 @@
       "x": 41435.12077109006,
       "y": 4720.469933172696,
       "w": 320,
-      "h": 695,
+      "h": 728,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -8766,7 +8767,7 @@
           "Poster design",
           "Print media"
         ],
-        "desc": "U",
+        "desc": "Research to increase logo mark visibility in the visual identity and introduce a color accent to reinforce the brand",
         "links": [],
         "files": [
           {
@@ -8790,8 +8791,8 @@
     },
     {
       "id": "nku3cx6t",
-      "x": 41796.527322767724,
-      "y": 4642.239572234129,
+      "x": 41852.527322767724,
+      "y": 4225.433431267588,
       "w": 320,
       "h": 415,
       "group": null,
@@ -8867,7 +8868,7 @@
       "x": 38720.35206589433,
       "y": 4555.99835205342,
       "w": 320,
-      "h": 757,
+      "h": 756,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -8947,7 +8948,7 @@
     {
       "id": "n59vehvr",
       "x": 41413.70007181548,
-      "y": 5498.967095894799,
+      "y": 6108.317575495329,
       "w": 320,
       "h": 374,
       "group": null,
@@ -8981,8 +8982,8 @@
     },
     {
       "id": "n6upm38c",
-      "x": 42167.38832593332,
-      "y": 4634.475753026554,
+      "x": 42228.49053079043,
+      "y": 4227.428397371778,
       "w": 320,
       "h": 501,
       "group": null,
@@ -9020,8 +9021,8 @@
     },
     {
       "id": "nh91u3f7",
-      "x": 42538.320381977945,
-      "y": 4634.475753026554,
+      "x": 42594.320381977945,
+      "y": 4223.046040678645,
       "w": 320,
       "h": 466,
       "group": null,
@@ -9074,15 +9075,15 @@
           "Branding"
         ],
         "tags": [],
-        "desc": " We decided to design a ZeroHourDay image with more differences compared to the Synchro brand, starting with the colour palette as well as the brand communication design, to give greater prominence to the company.",
+        "desc": "We decided to design a ZeroHourDay image with more differences compared to the Synchro brand, starting with the colour palette as well as the brand communication design, to give greater prominence to the company.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ne3kilrg",
-      "x": 41794.847609919714,
-      "y": 5104.528854729301,
+      "x": 41850.847609919714,
+      "y": 4748.528854729301,
       "w": 320,
       "h": 474,
       "group": null,
@@ -9117,6 +9118,453 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-12-02_at_12.08.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nh4xt0u2",
+      "x": 41850.207539922085,
+      "y": 5264.985470313291,
+      "w": 320,
+      "h": 729,
+      "group": null,
+      "data": {
+        "date": "2025-11-30",
+        "title": "Social media content ",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Social media"
+        ],
+        "tags": [
+          "Social media content",
+          "Visual identity"
+        ],
+        "desc": "Post and content design for social media.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-02 at 12.32.00.png",
+            "size": 171934,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-02_at_12.32.00.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqu9usut",
+      "x": 42217.50907725172,
+      "y": 5342.832533517996,
+      "w": 320,
+      "h": 711,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Social media"
+        ],
+        "tags": [
+          "Social media content",
+          "Visual identity",
+          "Mockup"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-05 at 10.04.28.png",
+            "size": 360868,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-05_at_10.04.28.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfite0nr",
+      "x": 42219.373331493596,
+      "y": 4783.295266818814,
+      "w": 320,
+      "h": 537,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Interaction design",
+          "Web design",
+          "Ui design",
+          "Experience design",
+          "Design research",
+          "Data representation",
+          "Visual communication",
+          "Branding"
+        ],
+        "tags": [
+          "Mockup",
+          "Interface design",
+          "Visual identity"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-05 at 10.13.45.png",
+            "size": 721956,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-05_at_10.13.45.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nkozp8vo",
+      "x": 41776.322408665954,
+      "y": 6114.577717529971,
+      "w": 320,
+      "h": 391,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "Chronodex render",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design"
+        ],
+        "tags": [
+          "Mockup",
+          "Physical prototype",
+          "Device render"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-05 at 10.18.50.png",
+            "size": 452886,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-05_at_10.18.50.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nolwjo7r",
+      "x": 42130.29926120524,
+      "y": 6133.247813450077,
+      "w": 320,
+      "h": 507,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "Chronodex: user manual",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Visual communication"
+        ],
+        "tags": [
+          "Mockup",
+          "Print media"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-05 at 10.19.41.png",
+            "size": 697655,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-05_at_10.19.41.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nh3qhowy",
+      "x": 42959.76274463777,
+      "y": 4224.364689702968,
+      "w": 320,
+      "h": 540,
+      "group": null,
+      "data": {
+        "date": "2025-11-30",
+        "title": "Zerohourday artefacts",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Experience design"
+        ],
+        "tags": [
+          "Physical prototype",
+          "Brand communication",
+          "Mockup"
+        ],
+        "desc": "Gadgets designed for the Zero Hour Day.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-05 at 10.21.35.png",
+            "size": 1468713,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-05_at_10.21.35.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3w1qh0g",
+      "x": 43455.089993123496,
+      "y": 5093.167148349882,
+      "w": 320,
+      "h": 531,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "Project status",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Experience design",
+          "Sensor technology",
+          "Science and technology studies (sts)"
+        ],
+        "tags": [
+          "Mechanical computing",
+          "Sensor technology",
+          "Physical computing",
+          "Physical prototype",
+          "Data representation"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-05 at 10.23.14.png",
+            "size": 141999,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-05_at_10.23.14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfq37589",
+      "x": 44018.93757768125,
+      "y": 4933.167148349882,
+      "w": 320,
+      "h": 856,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "Project Review",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Experience design",
+          "Sensor technology",
+          "Science and technology studies (sts)"
+        ],
+        "tags": [],
+        "desc": "Prototype: The physical housing requires sanding and painting before use, with 3D printing as an optional fabrication method. The design incorporates LED lighting beneath a plexiglass ring insert and a 4-inch screen connected to a computer. \n\nExperience: The authentication system uses QR code scanning instead of traditional ID input: users scan their code, which directs them to a login page where the machine recognizes them. This mirrors standard voting authentication protocols—identification precedes system access. The application maintains state tracking, prompting users to complete authentication before machine operation begins. Time selection functionality is required. \n\nPresentation: the map's function and the distinction between Synchro and United Nations identities lack clarity. \n\nTeaser: The narrative approach feels flat; a decision is needed between full voiceover, music-only, or voice-only audio. Animation timing should use ease-out curves rather than linear motion. The workflow involves positioning lines in Illustrator, importing to After Effects, and copying keyframes. A black-and-white movement map with displacement effects is recommended. The visual sequence should clearly communicate transformation, with all circles converging centrally as clock hands fade. Include \"Provided/Supported by Synchro\" attribution. Structure: begin with Synchro, then transition to Zero Hour Day.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnx9bx0h",
+      "x": 44401.400082616565,
+      "y": 5101.167148349882,
+      "w": 320,
+      "h": 520,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "Project next step",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Experience design",
+          "Sensor technology",
+          "Science and technology studies (sts)"
+        ],
+        "tags": [],
+        "desc": "By the 19th of December, the prototype must be operational, though not necessarily complete: prioritizing maximum functionality. This represents a critical testing phase for the project, where gaining end-to-end practical experience is essential. The improved video teaser must be finalized. The product manual requires attention: both content topics and layout structure need definition. The map prototype demands testing, including print trials and evaluation of technical implementation methods. Display specifications must be determined. Print tests for posters and flyers should be conducted to verify output quality and material suitability.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npli3odz",
+      "x": 44839.44915495411,
+      "y": 4521.349411199189,
+      "w": 320,
+      "h": 568,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "Teaser storyboard improved",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding",
+          "Communication",
+          "Motion design",
+          "Chronopolitics"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Brand communication"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-05 at 10.33.00.png",
+            "size": 62504,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-05_at_10.33.00.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-05 at 10.33.08.png",
+            "size": 79384,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-05_at_10.33.08.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-05 at 10.33.19.png",
+            "size": 49530,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-05_at_10.33.19.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntdd34ai",
+      "x": 41863.55875270023,
+      "y": 3832.0243538024724,
+      "w": 320,
+      "h": 326,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "Video teaser",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding",
+          "Communication",
+          "Motion design",
+          "Chronopolitics",
+          "Visual communication"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Brand communication"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "teaser_0212.mp4",
+            "size": 11558254,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/teaser_0212.mp4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nojrhwv4",
+      "x": 44844.275710409966,
+      "y": 5129.349411199189,
+      "w": 320,
+      "h": 664,
+      "group": null,
+      "data": {
+        "date": "2025-12-04",
+        "title": "Chronodex technologies ",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Sensor technology",
+          "Design research"
+        ],
+        "tags": [
+          "Usability testing",
+          "Physical prototype",
+          "Mechanical computing"
+        ],
+        "desc": "To avoid the e-in refreshing the image, which occurs with a sort of ‘flicker’ or ‘flash’ (often white or grey) to reset the pigments in the microcapsules, allowing new content to be displayed clearly and sharply, we try to implement a 2.42inch OLED Display instead (with black backround and white text).",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-05 at 10.41.16.png",
+            "size": 1062784,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-05_at_10.41.16.jpg"
           }
         ]
       }
@@ -11052,101 +11500,181 @@
       "s": "ne2aas5d",
       "t": "ne3kilrg",
       "dashed": false
+    },
+    {
+      "s": "ne2aas5d",
+      "t": "nh4xt0u2",
+      "dashed": false
+    },
+    {
+      "s": "nh4xt0u2",
+      "t": "nqu9usut",
+      "dashed": false
+    },
+    {
+      "s": "ne3kilrg",
+      "t": "nfite0nr",
+      "dashed": false
+    },
+    {
+      "s": "n59vehvr",
+      "t": "nkozp8vo",
+      "dashed": false
+    },
+    {
+      "s": "nkozp8vo",
+      "t": "nolwjo7r",
+      "dashed": false
+    },
+    {
+      "s": "nh91u3f7",
+      "t": "nh3qhowy",
+      "dashed": false
+    },
+    {
+      "s": "nh3qhowy",
+      "t": "n3w1qh0g",
+      "dashed": false
+    },
+    {
+      "s": "nfite0nr",
+      "t": "n3w1qh0g",
+      "dashed": false
+    },
+    {
+      "s": "nqu9usut",
+      "t": "n3w1qh0g",
+      "dashed": false
+    },
+    {
+      "s": "nolwjo7r",
+      "t": "n3w1qh0g",
+      "dashed": false
+    },
+    {
+      "s": "n3w1qh0g",
+      "t": "nfq37589",
+      "dashed": false
+    },
+    {
+      "s": "nfq37589",
+      "t": "nnx9bx0h",
+      "dashed": false
+    },
+    {
+      "s": "nnx9bx0h",
+      "t": "npli3odz",
+      "dashed": false
+    },
+    {
+      "s": "ne2aas5d",
+      "t": "ntdd34ai",
+      "dashed": false
+    },
+    {
+      "s": "ntdd34ai",
+      "t": "n3w1qh0g",
+      "dashed": false
+    },
+    {
+      "s": "nnx9bx0h",
+      "t": "nojrhwv4",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Data representation",
       "Design research",
-      "Experience design",
-      "Ui design",
-      "Web design",
+      "Sensor technology",
       "Interaction design",
-      "Map",
+      "Chronopolitics",
+      "Motion design",
       "Visual communication",
-      "Product design",
       "Branding",
       "Communication",
       "Science and technology studies (sts)",
-      "Sensor technology",
-      "Metric governance",
-      "Data ethics",
-      "Critical design",
-      "Algorithmic governance",
-      "Socio-political",
-      "Critical data studies",
-      "Surveillance studies",
-      "Critical theory",
-      "Media studies",
-      "Metric system",
-      "Biometric data",
-      "Sensor systems",
-      "Data perception",
+      "Product design",
       "Speculative design",
-      "Chronopolitics",
-      "Motion design"
+      "Data perception",
+      "Sensor systems",
+      "Biometric data",
+      "Metric system",
+      "Media studies",
+      "Critical theory",
+      "Surveillance studies",
+      "Critical data studies",
+      "Socio-political",
+      "Algorithmic governance",
+      "Critical design",
+      "Data ethics",
+      "Metric governance",
+      "Map",
+      "Web design",
+      "Ui design",
+      "Experience design",
+      "Data representation",
+      "Social media"
     ],
     "tags": [
+      "Mechanical computing",
+      "Physical prototype",
+      "Usability testing",
+      "Brand communication",
+      "Temporal sovereignty",
+      "Data representation",
+      "Physical computing",
+      "Sensor technology",
+      "Mockup",
+      "Print media",
+      "Device render",
       "Visual identity",
       "Interface design",
-      "Mockup",
-      "Device render",
-      "Physical prototype",
-      "Print media",
-      "Poster design",
-      "Brand communication",
-      "Real-time data",
-      "Sensor technology",
-      "Data representation",
-      "Editorial design",
-      "Physical computing",
-      "Mechanical computing",
-      "User interface design",
-      "Data perception",
-      "Speculative projects",
-      "Temporal sovereignty",
-      "Prototype",
-      "Technical drawing",
-      "Technical",
-      "Usability testing",
-      "Deceptive pattern",
-      "Map",
-      "Biometric data",
-      "Data visualization",
-      "Identities",
-      "Power dynamics",
-      "Relativity",
-      "Cellular senescence",
-      "Senolytics",
-      "Statistic bias",
-      "Cognitive bias",
-      "Big data",
-      "Algorithmic bias",
-      "Body-politics",
-      "Alternative values",
-      "Subjective reality",
-      "Normalization bias",
       "Social media content",
-      "Typography",
-      "Metric system",
-      "Socio-political",
-      "Algorithmic governance",
-      "Metrics distortion",
-      "Measuring the unmeasurable",
+      "Media content",
+      "Metric governance",
       "Design research",
-      "Metric governance"
+      "Measuring the unmeasurable",
+      "Metrics distortion",
+      "Algorithmic governance",
+      "Socio-political",
+      "Metric system",
+      "Typography",
+      "Normalization bias",
+      "Subjective reality",
+      "Alternative values",
+      "Body-politics",
+      "Algorithmic bias",
+      "Big data",
+      "Cognitive bias",
+      "Statistic bias",
+      "Senolytics",
+      "Cellular senescence",
+      "Relativity",
+      "Power dynamics",
+      "Identities",
+      "Data visualization",
+      "Biometric data",
+      "Map",
+      "Deceptive pattern",
+      "Technical drawing",
+      "Speculative projects",
+      "Data perception",
+      "User interface design",
+      "Editorial design",
+      "Real-time data",
+      "Poster design"
     ],
     "type": [
-      "Artefact",
-      "Collection",
-      "Decision",
-      "Feedback",
-      "Sketch",
       "Observation",
-      "Concept",
-      "Source",
+      "Artefact",
+      "Decision",
+      "Sketch",
+      "Collection",
+      "Feedback",
+      "Finding",
       "Brief",
-      "Finding"
+      "Source",
+      "Concept"
     ]
   }
 }
