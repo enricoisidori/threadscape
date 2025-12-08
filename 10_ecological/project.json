@@ -3020,6 +3020,108 @@
         "links": [],
         "files": []
       }
+    },
+    {
+      "id": "ndojq3kb",
+      "x": 25606.445517861805,
+      "y": 1716.9987365900188,
+      "w": 320,
+      "h": 372,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "Communication machine updates",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Hardware & Electronics:\n- Procurement and bench-testing of components for the Arduino architecture: LED rings, Hall sensors, RFID system, circular display, and cabling.\n- Compatibility verification and preliminary circuit assembly.\n\n3D Printing:\n- Analysis of printing parameters and file preparation (slicing) for the production of the tree's physical parts.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nd3ljvzz",
+      "x": 26503.21541064046,
+      "y": 1841.6712193639103,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-12-06",
+        "title": "Communication machine updates",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Replacement component for the circular display and integration of the bill of materials with auxiliary components (dedicated LED power supply, extended cabling). \nAcquisition of consumables (filament) to start additive manufacturing.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkpzz3kc",
+      "x": 25606.48725076757,
+      "y": 2160.264349278605,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-12-04",
+        "title": "Communication machine ",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Communication Consolidation: made detailed refinements to communication assets and data visualization. \nThe strategy and visual identity are now fully consolidated, validated and definitive.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nef1wg2c",
+      "x": 26473.274320993558,
+      "y": 2493.635097957698,
+      "w": 320,
+      "h": 238,
+      "group": null,
+      "data": {
+        "date": "2025-12-06",
+        "title": "Teaser updates",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "We refined the sound design for clearer audio and reworked the animation curves to correct movement fluidity, eliminating previous jerkiness/stuttering",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nyd0c684",
+      "x": 26036.173225201943,
+      "y": 2084.5078297352893,
+      "w": 320,
+      "h": 261,
+      "group": null,
+      "data": {
+        "date": "2025-12-05",
+        "title": "Review",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Review"
+        ],
+        "tags": [],
+        "desc": "Fine-tuning on existing communication assets. \nIn parallel, we are integrating strategic feedback to define and develop the structural components of the communication ecosystem yet to be implemented.",
+        "links": [],
+        "files": []
+      }
     }
   ],
   "edges": [
@@ -3832,34 +3934,69 @@
       "s": "nkbjyzxg",
       "t": "nldn64nb",
       "dashed": false
+    },
+    {
+      "s": "nldn64nb",
+      "t": "ndojq3kb",
+      "dashed": false
+    },
+    {
+      "s": "nldn64nb",
+      "t": "nkpzz3kc",
+      "dashed": false
+    },
+    {
+      "s": "nldn64nb",
+      "t": "nef1wg2c",
+      "dashed": false
+    },
+    {
+      "s": "nkpzz3kc",
+      "t": "nyd0c684",
+      "dashed": false
+    },
+    {
+      "s": "ndojq3kb",
+      "t": "nyd0c684",
+      "dashed": false
+    },
+    {
+      "s": "nyd0c684",
+      "t": "nd3ljvzz",
+      "dashed": false
+    },
+    {
+      "s": "ndojq3kb",
+      "t": "nd3ljvzz",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Communication",
-      "Ideas",
-      "Critical design",
-      "Critical theory",
-      "Socio-political",
-      "Media studies",
+      "Review",
+      "Research",
       "Design research",
-      "Research"
+      "Media studies",
+      "Socio-political",
+      "Critical theory",
+      "Critical design",
+      "Ideas",
+      "Communication"
     ],
     "tags": [
-      "Ideas",
-      "Scenarios",
+      "Speculation",
       "Research",
-      "Speculation"
+      "Scenarios",
+      "Ideas"
     ],
     "type": [
+      "Feedback",
       "Artefact",
-      "Output",
-      "Internal review",
-      "Decision",
-      "Sketch",
       "Brief",
+      "Decision",
       "Ideas",
-      "Feedback"
+      "Sketch",
+      "Internal review"
     ]
   }
 }
