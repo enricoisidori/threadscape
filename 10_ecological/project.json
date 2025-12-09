@@ -3043,10 +3043,10 @@
     },
     {
       "id": "nd3ljvzz",
-      "x": 26503.21541064046,
-      "y": 1841.6712193639103,
+      "x": 26477.640047971214,
+      "y": 1611.4929553407158,
       "w": 320,
-      "h": 288,
+      "h": 830,
       "group": null,
       "data": {
         "date": "2025-12-06",
@@ -3058,7 +3058,24 @@
         "tags": [],
         "desc": "Replacement component for the circular display and integration of the bill of materials with auxiliary components (dedicated LED power supply, extended cabling). \nAcquisition of consumables (filament) to start additive manufacturing.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "IMG_5930.jpg",
+            "size": 3263177,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_5930.jpg"
+          },
+          {
+            "name": "3d.jpeg",
+            "size": 259451,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/3d.jpg"
+          }
+        ]
       }
     },
     {
@@ -3103,8 +3120,8 @@
     },
     {
       "id": "nyd0c684",
-      "x": 26036.173225201943,
-      "y": 2084.5078297352893,
+      "x": 26035.143431976216,
+      "y": 2016.5414768372116,
       "w": 320,
       "h": 261,
       "group": null,
@@ -3119,6 +3136,79 @@
         ],
         "tags": [],
         "desc": "Fine-tuning on existing communication assets. \nIn parallel, we are integrating strategic feedback to define and develop the structural components of the communication ecosystem yet to be implemented.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nha02nie",
+      "x": 26951.415582505233,
+      "y": 1848.7590568801295,
+      "w": 320,
+      "h": 597,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "aaa",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_5927.jpg",
+            "size": 3947643,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_5927.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsjsal9l",
+      "x": 27513.202404609554,
+      "y": 2317.7370970326647,
+      "w": 320,
+      "h": 141,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Review"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3xrlykx",
+      "x": 26946.92000208483,
+      "y": 2678.8013662872872,
+      "w": 320,
+      "h": 141,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Teaser update"
+        ],
+        "tags": [],
+        "desc": "",
         "links": [],
         "files": []
       }
@@ -3969,34 +4059,45 @@
       "s": "ndojq3kb",
       "t": "nd3ljvzz",
       "dashed": false
+    },
+    {
+      "s": "nd3ljvzz",
+      "t": "nha02nie",
+      "dashed": false
+    },
+    {
+      "s": "nef1wg2c",
+      "t": "n3xrlykx",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Teaser update",
       "Review",
-      "Research",
-      "Design research",
-      "Media studies",
-      "Socio-political",
-      "Critical theory",
-      "Critical design",
+      "Communication",
       "Ideas",
-      "Communication"
+      "Critical design",
+      "Critical theory",
+      "Socio-political",
+      "Media studies",
+      "Design research",
+      "Research"
     ],
     "tags": [
-      "Speculation",
-      "Research",
+      "Ideas",
       "Scenarios",
-      "Ideas"
+      "Research",
+      "Speculation"
     ],
     "type": [
-      "Feedback",
       "Artefact",
-      "Brief",
       "Decision",
-      "Ideas",
+      "Feedback",
+      "Internal review",
       "Sketch",
-      "Internal review"
+      "Ideas",
+      "Brief"
     ]
   }
 }
