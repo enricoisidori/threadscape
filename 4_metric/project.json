@@ -9311,7 +9311,7 @@
     },
     {
       "id": "nh3qhowy",
-      "x": 42959.76274463777,
+      "x": 42956.55323937117,
       "y": 4224.364689702968,
       "w": 320,
       "h": 540,
@@ -9454,8 +9454,8 @@
     },
     {
       "id": "npli3odz",
-      "x": 44839.44915495411,
-      "y": 4521.349411199189,
+      "x": 44835.44915495411,
+      "y": 4097.349411199189,
       "w": 320,
       "h": 568,
       "group": null,
@@ -9545,8 +9545,8 @@
     },
     {
       "id": "nojrhwv4",
-      "x": 44844.275710409966,
-      "y": 5129.349411199189,
+      "x": 44840.275710409966,
+      "y": 4705.349411199189,
       "w": 320,
       "h": 664,
       "group": null,
@@ -9579,6 +9579,193 @@
             "path": "assets/Screenshot_2025-12-05_at_10.41.16.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "n9qj7ab7",
+      "x": 45196.258705192246,
+      "y": 5969.361705199966,
+      "w": 320,
+      "h": 804,
+      "group": null,
+      "data": {
+        "date": "2025-12-07",
+        "title": "Product manual design",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Product design"
+        ],
+        "tags": [
+          "Brand communication",
+          "Print media",
+          "Editorial design",
+          "Technical drawing"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-11 at 09.39.20.png",
+            "size": 560074,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-11_at_09.39.20.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-11 at 09.39.15.png",
+            "size": 322745,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-11_at_09.39.15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwcwbby5",
+      "x": 45183.5937831775,
+      "y": 5411.484357498287,
+      "w": 320,
+      "h": 348,
+      "group": null,
+      "data": {
+        "date": "2025-12-06",
+        "title": "Product brochure design ",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Product design"
+        ],
+        "tags": [
+          "Brand communication",
+          "Print media",
+          "Editorial design"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-11 at 09.42.14.png",
+            "size": 75843,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-11_at_09.42.14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhu3udcj",
+      "x": 44834.54778300488,
+      "y": 5970.6803447571965,
+      "w": 320,
+      "h": 687,
+      "group": null,
+      "data": {
+        "date": "2025-12-07",
+        "title": "Product manual",
+        "type": "Decision",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Product design",
+          "Design research"
+        ],
+        "tags": [
+          "Brand communication",
+          "Print media",
+          "Editorial design",
+          "Technical drawing"
+        ],
+        "desc": "Alternative folding format to the traditional product brochure. The proposed layout serves as a preliminary design concept, pending approval for implementation with finalized content and technical illustrations. The production specifications call for standard lightweight uncoated paper stock, selected for its suitability in presenting technical machinery information. A potential enhancement under consideration involves incorporating power-on instructions within the operational step sequence, addressing a fundamental usability requirement in technical documentation design.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-11 at 09.47.13.png",
+            "size": 1947631,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-11_at_09.47.13.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0zf6at3",
+      "x": 44830.05136164923,
+      "y": 5413.438500546362,
+      "w": 320,
+      "h": 515,
+      "group": null,
+      "data": {
+        "date": "2025-12-06",
+        "title": "Product brochure ",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Communication",
+          "Visual communication",
+          "Branding",
+          "Product design",
+          "Design research"
+        ],
+        "tags": [
+          "Brand communication",
+          "Print media",
+          "Editorial design"
+        ],
+        "desc": "A5 format, selected due to the limited content density per page, which renders a smaller dimension sufficient. The background employs a black color scheme, primarily chosen for compatibility with rendered images; this aesthetic choice aligns more closely with the project's \"synchro\" identity than with \"giornata,\" and will be maintained unless it proves problematic for readability. Current renderings are provisional and subject to replacement with photographic documentation in the final version. \n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0cqjwxi",
+      "x": 45867.44915495411,
+      "y": 5053.349411199189,
+      "w": 320,
+      "h": 783,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Interaction design",
+          "Product design",
+          "Experience design",
+          "Sensor technology",
+          "Science and technology studies (sts)"
+        ],
+        "tags": [
+          "Mechanical computing",
+          "Sensor technology",
+          "Physical computing",
+          "Physical prototype",
+          "Data representation"
+        ],
+        "desc": "This project examines the visual representation of global time standardization through an interactive display that materializes the arbitrary nature of temporal zones. The installation consists of a teaser sequence that abstracts the concept of the 24-hour division system, deliberately avoiding overly explicit representations of time zones. The design employs linear elements representing the 24 meridians, which initially appear dispersed before reassembling into a unified configuration, symbolizing both fragmentation and synchronization of global time. Clock hands continue their rotation throughout the sequence, ultimately realigning into a singular temporal indicator. The physical implementation requires technical refinements: enhancing the visibility of the green activation button, adding numerical markers to each time division, and simplifying the world map visualization to improve legibility. Material considerations include using performa.xyz filament for 3D-printed components and designing a triangular base to elevate instructional documentation. Production challenges involve managing ink bleed between black and white printed surfaces, requiring careful attention to color separation during the manufacturing process.",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -11592,40 +11779,80 @@
       "s": "nnx9bx0h",
       "t": "nojrhwv4",
       "dashed": false
+    },
+    {
+      "s": "nnx9bx0h",
+      "t": "nhu3udcj",
+      "dashed": false
+    },
+    {
+      "s": "nhu3udcj",
+      "t": "n9qj7ab7",
+      "dashed": false
+    },
+    {
+      "s": "nnx9bx0h",
+      "t": "n0zf6at3",
+      "dashed": false
+    },
+    {
+      "s": "n0zf6at3",
+      "t": "nwcwbby5",
+      "dashed": false
+    },
+    {
+      "s": "npli3odz",
+      "t": "n0cqjwxi",
+      "dashed": false
+    },
+    {
+      "s": "nojrhwv4",
+      "t": "n0cqjwxi",
+      "dashed": false
+    },
+    {
+      "s": "nwcwbby5",
+      "t": "n0cqjwxi",
+      "dashed": false
+    },
+    {
+      "s": "n9qj7ab7",
+      "t": "n0cqjwxi",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Design research",
-      "Sensor technology",
-      "Interaction design",
-      "Chronopolitics",
-      "Motion design",
-      "Visual communication",
-      "Branding",
-      "Communication",
       "Science and technology studies (sts)",
-      "Product design",
-      "Speculative design",
-      "Data perception",
-      "Sensor systems",
-      "Biometric data",
-      "Metric system",
-      "Media studies",
-      "Critical theory",
-      "Surveillance studies",
-      "Critical data studies",
-      "Socio-political",
-      "Algorithmic governance",
-      "Critical design",
-      "Data ethics",
-      "Metric governance",
-      "Map",
-      "Web design",
-      "Ui design",
+      "Sensor technology",
       "Experience design",
+      "Product design",
+      "Interaction design",
+      "Design research",
+      "Branding",
+      "Visual communication",
+      "Communication",
+      "Social media",
       "Data representation",
-      "Social media"
+      "Ui design",
+      "Web design",
+      "Map",
+      "Metric governance",
+      "Data ethics",
+      "Critical design",
+      "Algorithmic governance",
+      "Socio-political",
+      "Critical data studies",
+      "Surveillance studies",
+      "Critical theory",
+      "Media studies",
+      "Metric system",
+      "Biometric data",
+      "Sensor systems",
+      "Data perception",
+      "Speculative design",
+      "Motion design",
+      "Chronopolitics"
     ],
     "tags": [
       "Data representation",
@@ -11633,60 +11860,59 @@
       "Physical computing",
       "Sensor technology",
       "Mechanical computing",
-      "Usability testing",
-      "Brand communication",
-      "Temporal sovereignty",
-      "Mockup",
-      "Print media",
-      "Device render",
-      "Visual identity",
-      "Interface design",
-      "Social media content",
-      "Media content",
-      "Metric governance",
-      "Design research",
-      "Measuring the unmeasurable",
-      "Metrics distortion",
-      "Algorithmic governance",
-      "Socio-political",
-      "Metric system",
-      "Typography",
-      "Normalization bias",
-      "Subjective reality",
-      "Alternative values",
-      "Body-politics",
-      "Algorithmic bias",
-      "Big data",
-      "Cognitive bias",
-      "Statistic bias",
-      "Senolytics",
-      "Cellular senescence",
-      "Relativity",
-      "Power dynamics",
-      "Identities",
-      "Data visualization",
-      "Biometric data",
-      "Map",
-      "Deceptive pattern",
-      "Technical drawing",
-      "Speculative projects",
-      "Data perception",
-      "User interface design",
       "Editorial design",
+      "Print media",
+      "Brand communication",
+      "Technical drawing",
+      "Poster design",
+      "Mockup",
       "Real-time data",
-      "Poster design"
+      "User interface design",
+      "Data perception",
+      "Speculative projects",
+      "Deceptive pattern",
+      "Map",
+      "Biometric data",
+      "Data visualization",
+      "Identities",
+      "Power dynamics",
+      "Relativity",
+      "Cellular senescence",
+      "Senolytics",
+      "Statistic bias",
+      "Cognitive bias",
+      "Big data",
+      "Algorithmic bias",
+      "Body-politics",
+      "Alternative values",
+      "Subjective reality",
+      "Normalization bias",
+      "Typography",
+      "Metric system",
+      "Socio-political",
+      "Algorithmic governance",
+      "Metrics distortion",
+      "Measuring the unmeasurable",
+      "Design research",
+      "Metric governance",
+      "Social media content",
+      "Interface design",
+      "Visual identity",
+      "Device render",
+      "Temporal sovereignty",
+      "Usability testing"
     ],
     "type": [
-      "Observation",
       "Feedback",
       "Sketch",
+      "Observation",
       "Artefact",
       "Decision",
-      "Collection",
-      "Finding",
-      "Brief",
+      "Concept",
       "Source",
-      "Concept"
+      "Brief",
+      "Finding",
+      "Collection"
     ]
   }
 }
