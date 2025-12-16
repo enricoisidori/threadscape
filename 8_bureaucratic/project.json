@@ -4680,10 +4680,10 @@
     },
     {
       "id": "nq2gl79o",
-      "x": 17460.996338903697,
-      "y": -1778.5484864914154,
+      "x": 17480.973048608408,
+      "y": -2170.149224286468,
       "w": 320,
-      "h": 224,
+      "h": 512,
       "group": null,
       "data": {
         "date": "2025-12-02",
@@ -4700,15 +4700,24 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "34.png",
+            "size": 10936,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/34.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nqph8s1z",
-      "x": 17918.67146695858,
-      "y": -2054.2902436552376,
+      "x": 17914.711393179077,
+      "y": -2242.140520328382,
       "w": 320,
-      "h": 224,
+      "h": 1268,
       "group": null,
       "data": {
         "date": "2025-12-02",
@@ -4725,7 +4734,48 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "35.jpg",
+            "size": 2085264,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/35.jpg"
+          },
+          {
+            "name": "36.jpg",
+            "size": 15058376,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/36.jpg"
+          },
+          {
+            "name": "37.jpg",
+            "size": 12123275,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/37.jpg"
+          },
+          {
+            "name": "38.jpg",
+            "size": 2189136,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/38.jpg"
+          },
+          {
+            "name": "39.png",
+            "size": 3443645,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/39.jpg"
+          }
+        ]
       }
     },
     {
@@ -4733,7 +4783,7 @@
       "x": 17611.260773533584,
       "y": -2617.8566798419524,
       "w": 320,
-      "h": 224,
+      "h": 301,
       "group": null,
       "data": {
         "date": "2025-12-02",
@@ -4750,13 +4800,22 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "33.png",
+            "size": 144652,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/33.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nvz5kopw",
-      "x": 18349.61945618432,
-      "y": -2616.154010036555,
+      "x": 18271.78887092393,
+      "y": -2713.4422416120406,
       "w": 320,
       "h": 417,
       "group": null,
@@ -4897,6 +4956,156 @@
         ],
         "tags": [],
         "desc": "romantica, familiare, amicale, professionale, di convivenza, di conoscenza",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njsi8v07",
+      "x": 18880.767599542876,
+      "y": -2893.8930256253802,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "bagno",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7hbpilh",
+      "x": 18885.703794066932,
+      "y": -2637.0975158391384,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "pranzo",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nhjws1ab",
+      "x": 18876.287123322883,
+      "y": -2376.8705849640132,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "salotto",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnle662v",
+      "x": 18879.90579616935,
+      "y": -3149.4182636982414,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "stampante",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nlksu4gp",
+      "x": 18849.289959768015,
+      "y": -2128.053307113,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "studio",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nj0uazxg",
+      "x": 18849.289959768015,
+      "y": -1864.0533071129998,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "stampante",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "",
         "links": [],
         "files": []
       }
@@ -6667,52 +6876,82 @@
       "s": "n39vcv05",
       "t": "n39nwkle",
       "dashed": false
+    },
+    {
+      "s": "nvz5kopw",
+      "t": "njsi8v07",
+      "dashed": false
+    },
+    {
+      "s": "nvz5kopw",
+      "t": "n7hbpilh",
+      "dashed": false
+    },
+    {
+      "s": "nvz5kopw",
+      "t": "nhjws1ab",
+      "dashed": false
+    },
+    {
+      "s": "nvz5kopw",
+      "t": "nnle662v",
+      "dashed": false
+    },
+    {
+      "s": "nvz5kopw",
+      "t": "nlksu4gp",
+      "dashed": false
+    },
+    {
+      "s": "nvz5kopw",
+      "t": "nj0uazxg",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Experience",
-      "Interaction",
-      "Electronic system",
-      "Conflict",
-      "Science",
-      "Public administration",
-      "Insurance",
-      "Brand identity",
-      "Identity",
-      "Socio-political",
-      "Law",
-      "Communication",
-      "Hystory",
-      "Media studies",
-      "Cultural studies",
-      "Critical design",
-      "Spatial design",
-      "Design research",
-      "Philosophy",
-      "Envirionment",
-      "Power",
-      "Administration",
-      "Literature",
+      "Cinema",
       "Sociology",
-      "Cinema"
+      "Literature",
+      "Administration",
+      "Power",
+      "Envirionment",
+      "Philosophy",
+      "Design research",
+      "Spatial design",
+      "Critical design",
+      "Cultural studies",
+      "Media studies",
+      "Hystory",
+      "Communication",
+      "Law",
+      "Socio-political",
+      "Identity",
+      "Brand identity",
+      "Insurance",
+      "Public administration",
+      "Science",
+      "Conflict",
+      "Electronic system",
+      "Interaction",
+      "Experience"
     ],
     "tags": [
-      "Power abuse",
-      "Corruption",
-      "Conflict",
-      "Opposition",
-      "Social tension",
+      "Feelings",
       "Emotion",
-      "Feelings"
+      "Social tension",
+      "Opposition",
+      "Conflict",
+      "Corruption",
+      "Power abuse"
     ],
     "type": [
-      "Observation",
       "Concept",
       "Collection",
-      "Source",
+      "Brief",
       "Feedback",
-      "Brief"
+      "Source",
+      "Observation"
     ]
   }
 }
