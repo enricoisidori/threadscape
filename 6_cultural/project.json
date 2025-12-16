@@ -2624,8 +2624,8 @@
     },
     {
       "id": "ngwhljje",
-      "x": 10990.402718276144,
-      "y": 2174.2250703376685,
+      "x": 10974.402718276144,
+      "y": 1762.2250703376685,
       "w": 320,
       "h": 602,
       "group": null,
@@ -2702,8 +2702,8 @@
     },
     {
       "id": "nuoz9o75",
-      "x": 11442.224134785307,
-      "y": 2214.418157677013,
+      "x": 11426.224134785307,
+      "y": 1802.418157677013,
       "w": 320,
       "h": 425,
       "group": null,
@@ -3001,8 +3001,8 @@
     },
     {
       "id": "n0m45b8f",
-      "x": 11385.277612964508,
-      "y": 1427.7349678874318,
+      "x": 11573.277612964508,
+      "y": 359.7349678874318,
       "w": 320,
       "h": 408,
       "group": null,
@@ -3032,8 +3032,8 @@
     },
     {
       "id": "nus04p31",
-      "x": 11425.888090929855,
-      "y": 1004.1532546486947,
+      "x": 11613.888090929855,
+      "y": -63.846745351305344,
       "w": 320,
       "h": 408,
       "group": null,
@@ -3183,7 +3183,7 @@
       "x": 14403.324427657291,
       "y": 761.8935291948492,
       "w": 320,
-      "h": 2043,
+      "h": 2044,
       "group": null,
       "data": {
         "date": "2025-12-01",
@@ -3251,8 +3251,8 @@
     },
     {
       "id": "nmxxgwps",
-      "x": 11868.708328202087,
-      "y": 1885.8836169067629,
+      "x": 11516.708328202087,
+      "y": 841.8836169067629,
       "w": 320,
       "h": 391,
       "group": null,
@@ -3282,8 +3282,8 @@
     },
     {
       "id": "n3h2h894",
-      "x": 12428.868986939086,
-      "y": 1977.0639575719297,
+      "x": 12076.868986939086,
+      "y": 933.0639575719297,
       "w": 320,
       "h": 408,
       "group": null,
@@ -3313,8 +3313,8 @@
     },
     {
       "id": "n5zyzlt1",
-      "x": 12072.981170159146,
-      "y": 1198.1170183041388,
+      "x": 12260.981170159146,
+      "y": 130.1170183041388,
       "w": 320,
       "h": 585,
       "group": null,
@@ -3352,8 +3352,8 @@
     },
     {
       "id": "ns8aw5k0",
-      "x": 11944.26329643462,
-      "y": 543.6857031030324,
+      "x": 12132.26329643462,
+      "y": -524.3142968969676,
       "w": 320,
       "h": 568,
       "group": null,
@@ -3391,8 +3391,8 @@
     },
     {
       "id": "n8dwm2op",
-      "x": 11422.308752619223,
-      "y": 475.9130561486061,
+      "x": 11610.308752619223,
+      "y": -592.0869438513939,
       "w": 320,
       "h": 419,
       "group": null,
@@ -3571,6 +3571,288 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Section_1_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n6yhyjdc",
+      "x": 13426.999999999996,
+      "y": 554,
+      "w": 320,
+      "h": 1715,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Us working!",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Process"
+        ],
+        "tags": [],
+        "desc": "sketches, working process",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.14.jpeg",
+            "size": 181687,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.14.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.39.13.jpeg",
+            "size": 189147,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.39.13.jpg"
+          },
+          {
+            "name": "DSC_3949.jpeg",
+            "size": 2076509,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_3949.jpg"
+          },
+          {
+            "name": "DSC_3974.jpeg",
+            "size": 1862612,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_3974.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nefsgumi",
+      "x": 12352.428688807056,
+      "y": 1477.4571617476095,
+      "w": 320,
+      "h": 1163,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Making our Prototype",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Process documentation"
+        ],
+        "tags": [],
+        "desc": "Photos of the work behind the prototype",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.12.jpeg",
+            "size": 230182,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.12.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.12 (1).jpeg",
+            "size": 174858,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.12_(1).jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.13 (1).jpeg",
+            "size": 71818,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.13_(1).jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnauhcsn",
+      "x": 12933.776937493849,
+      "y": -748.88480914762,
+      "w": 320,
+      "h": 1734,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Printing the first prototype",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Process documentation"
+        ],
+        "tags": [
+          "3d print"
+        ],
+        "desc": "We went to Dotdotdot Studio tu print our Cryocare",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.14 (1).jpeg",
+            "size": 94968,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.14_(1).jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.15.jpeg",
+            "size": 131491,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.15.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.13.jpeg",
+            "size": 204548,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.13.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9q3zve6",
+      "x": 13725.405309666357,
+      "y": -417.23877674418645,
+      "w": 320,
+      "h": 519,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Studying Cryocare supporting base",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Process"
+        ],
+        "tags": [
+          "Exploring"
+        ],
+        "desc": "Ideas for Cryocare supporting base",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 alle 15.11.20.png",
+            "size": 846704,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_alle_15.11.20.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ng8w0gph",
+      "x": 15781.845305153021,
+      "y": 776.8947920039518,
+      "w": 320,
+      "h": 1637,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Defining Documentatiin",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding"
+        ],
+        "tags": [
+          "Branding"
+        ],
+        "desc": "Defining the documents that the people who will come to join UNEC cryopreservation program will have to sign when they join us, and that will be given to the Cryocare Adopter.",
+        "links": [],
+        "files": [
+          {
+            "name": "documenti folder unec2 1.png",
+            "size": 2289999,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/documenti_folder_unec2_1.jpg"
+          },
+          {
+            "name": "documenti folder unec3 1.png",
+            "size": 2297730,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/documenti_folder_unec3_1.jpg"
+          },
+          {
+            "name": "documenti folder unec4 1.png",
+            "size": 1415854,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/documenti_folder_unec4_1.jpg"
+          },
+          {
+            "name": "bracciale 1.png",
+            "size": 865159,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/bracciale_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njltw2wb",
+      "x": 15814.453589314297,
+      "y": 3226.0474940548947,
+      "w": 320,
+      "h": 613,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Defining Applications",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [
+          "Branding"
+        ],
+        "desc": "These applications will be given with are subscription and cryocare",
+        "links": [],
+        "files": [
+          {
+            "name": "Slide 16_9 - 36.png",
+            "size": 1958768,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Slide_16_9_-_36.jpg"
+          },
+          {
+            "name": "Slide 16_9 - 40.png",
+            "size": 1008664,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Slide_16_9_-_40.jpg"
           }
         ]
       }
@@ -4336,40 +4618,76 @@
       "s": "nh97x6a2",
       "t": "ndqvf5ra",
       "dashed": false
+    },
+    {
+      "s": "nwq55jfa",
+      "t": "n6yhyjdc",
+      "dashed": false
+    },
+    {
+      "s": "n3rwqok2",
+      "t": "nefsgumi",
+      "dashed": false
+    },
+    {
+      "s": "nefsgumi",
+      "t": "nnauhcsn",
+      "dashed": false
+    },
+    {
+      "s": "nnauhcsn",
+      "t": "n9q3zve6",
+      "dashed": false
+    },
+    {
+      "s": "neikewwt",
+      "t": "ng8w0gph",
+      "dashed": false
+    },
+    {
+      "s": "nyigc94o",
+      "t": "njltw2wb",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "Branding",
-      "Machine",
-      "Socio-cultural",
-      "Socio-political",
-      "Critical design",
-      "Conflicts",
-      "Critical theory",
-      "Amare i robot?",
-      "Media studies",
-      "People",
       "Communication",
-      "Design research"
+      "Process",
+      "Process documentation",
+      "Design research",
+      "People",
+      "Media studies",
+      "Amare i robot?",
+      "Critical theory",
+      "Conflicts",
+      "Critical design",
+      "Socio-political",
+      "Socio-cultural",
+      "Machine"
     ],
     "tags": [
-      "Already explored",
-      "Discarded",
+      "Branding",
+      "Exploring",
+      "3d print",
+      "Source",
       "Limited scope",
-      "Source"
+      "Discarded",
+      "Already explored"
     ],
     "type": [
-      "Sketch",
       "Artefact",
-      "Source",
-      "Concept",
-      "Collection",
-      "Feedback",
-      "Brief",
-      "Finding",
+      "Sketch",
+      "Observation",
+      "Output",
       "Case study",
-      "Output"
+      "Finding",
+      "Brief",
+      "Feedback",
+      "Collection",
+      "Concept",
+      "Source"
     ]
   }
 }
