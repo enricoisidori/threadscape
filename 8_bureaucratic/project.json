@@ -2981,7 +2981,7 @@
       "x": 10517.681179340234,
       "y": -470.8931961646018,
       "w": 320,
-      "h": 618,
+      "h": 646,
       "group": null,
       "data": {
         "date": "2025-11-07",
@@ -2989,7 +2989,11 @@
         "type": "Source",
         "action": "Exploring",
         "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Sociology",
+          "Interaction",
+          "Science"
+        ],
         "tags": [],
         "desc": "The physiological foundation of Gottman and Levenson’s research lies in the concept of Diffuse Physiological Arousal (DPA)—a fight-or-flight state triggered by interpersonal stress. Couples showing sustained activation across multiple physiological channels experienced a measurable decline in marital satisfaction over time, making biological responses stronger predictors than behavior alone. Four key measures defined this model: Cardiovascular Reactivity (heart rate, IBI, HRV)—where higher rates and reduced variability indicated acute stress and poor emotional regulation; Skin Conductance (GSR/SCL)—a sensitive marker of sympathetic activation linked to emotional alertness; Blood Pressure and Pulse Transit Time (PTT)—revealing the cardiovascular cost of conflict, particularly among avoidant partners; and Somatic Activity (ACT)—restlessness reflecting anxiety and tension. The most striking insight emerged from Physiological Linkage: the moment-to-moment covariation of bodily states between partners. Paradoxically, distressed couples displayed stronger synchronization—evidence not of harmony, but of negative co-regulation, where shared stress traps both in a feedback loop of emotional contagion and physiological escalation.",
         "links": [],
@@ -4303,8 +4307,8 @@
     },
     {
       "id": "n39nwkle",
-      "x": 13096.629266608184,
-      "y": 2706.22655594594,
+      "x": 15956.629266608184,
+      "y": 2994.22655594594,
       "w": 320,
       "h": 237,
       "group": null,
@@ -4837,8 +4841,8 @@
     },
     {
       "id": "nsivmeyg",
-      "x": 13370.806582924895,
-      "y": 1551.4654344650507,
+      "x": 13350.293063726267,
+      "y": 1544.6765561766335,
       "w": 320,
       "h": 408,
       "group": null,
@@ -4897,22 +4901,23 @@
       "x": 14927.933612941782,
       "y": 862.9275060826787,
       "w": 320,
-      "h": 350,
+      "h": 384,
       "group": null,
       "data": {
         "date": "2025-12-03",
-        "title": "necessità strutturali per l'espoerienza",
+        "title": "Structural requirements for the experience",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Insurance",
-          "Public administration",
-          "Science",
-          "Conflict"
+          "Interaction",
+          "Conflict",
+          "Brand identity",
+          "Spatial design"
         ],
         "tags": [],
-        "desc": "la macchona avrà sicuramentre una zona con i sensori e le leve, una per ogni persona,in orizzonrale. \n le persone poi avranno necessità di essere uno davanti all'altra e avranno necessità di essere isolati dal resto dell'ambiente e poi ci sarà bisogno di luci e suoni che guidano l'esperienza",
+        "desc": "The machine will include a dedicated area with sensors and control levers, one for each participant, arranged horizontally.\nThe participants will then need to stand facing one another, isolated from the surrounding environment.\nThe experience will also require a system of lights and sounds designed to guide and structure the interaction.",
         "links": [],
         "files": []
       }
@@ -4926,7 +4931,7 @@
       "group": null,
       "data": {
         "date": "2025-12-03",
-        "title": "categorie di relazioni",
+        "title": "Categories of relationships",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -4937,15 +4942,15 @@
           "Experience"
         ],
         "tags": [],
-        "desc": "romantica, familiare, amicale, professionale, di convivenza, di conoscenza",
+        "desc": "Romantic, familial, friendly, professional, cohabitation-based, situational",
         "links": [],
         "files": []
       }
     },
     {
       "id": "njsi8v07",
-      "x": 18914.81473584783,
-      "y": -1312.9207502006293,
+      "x": 18902.81473584783,
+      "y": -1888.9207502006293,
       "w": 320,
       "h": 687,
       "group": null,
@@ -4978,8 +4983,8 @@
     },
     {
       "id": "n7hbpilh",
-      "x": 19252.890006586207,
-      "y": -1311.946014089221,
+      "x": 19240.890006586207,
+      "y": -1887.946014089221,
       "w": 320,
       "h": 687,
       "group": null,
@@ -5012,8 +5017,8 @@
     },
     {
       "id": "nhjws1ab",
-      "x": 18565.11851770057,
-      "y": -602.0619977341194,
+      "x": 18553.11851770057,
+      "y": -1178.0619977341194,
       "w": 320,
       "h": 690,
       "group": null,
@@ -5046,8 +5051,8 @@
     },
     {
       "id": "nnle662v",
-      "x": 18565.905934452363,
-      "y": -1314.41266323622,
+      "x": 18553.905934452363,
+      "y": -1890.41266323622,
       "w": 320,
       "h": 690,
       "group": null,
@@ -5080,8 +5085,8 @@
     },
     {
       "id": "nlksu4gp",
-      "x": 18914.47154363697,
-      "y": -603.5311786325991,
+      "x": 18902.47154363697,
+      "y": -1179.5311786325992,
       "w": 320,
       "h": 690,
       "group": null,
@@ -5114,8 +5119,8 @@
     },
     {
       "id": "nj0uazxg",
-      "x": 19257.90758415565,
-      "y": -601.2336740956481,
+      "x": 19245.90758415565,
+      "y": -1177.233674095648,
       "w": 320,
       "h": 668,
       "group": null,
@@ -5148,10 +5153,10 @@
     },
     {
       "id": "nw793eel",
-      "x": 13767.69984395708,
-      "y": 1724.003271159041,
+      "x": 13728.60543814664,
+      "y": 1658.803273028714,
       "w": 320,
-      "h": 304,
+      "h": 338,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -5164,7 +5169,7 @@
           "Electronic system"
         ],
         "tags": [],
-        "desc": "dato che i sensori del battito sono estermamente sensibili e non calibrati bene preferiamo non usarli e concentrarci solo sulla conduttanza dato che qualunque dato che ci verrebbe dato da qualisasi sensore del battito sarebbe sbagliuato o comunqeu approssimativo",
+        "desc": "Since heart rate sensors are extremely sensitive and difficult to calibrate accurately, we decided not to use them. Any data obtained from these sensors would likely be inaccurate or, at best, approximate. For this reason, the system will focus exclusively on skin conductance measurements, which are considered more reliable and better aligned with the aims of the project.",
         "links": [],
         "files": []
       }
@@ -5174,7 +5179,7 @@
       "x": 15366.048366875079,
       "y": 870.283577825666,
       "w": 320,
-      "h": 1909,
+      "h": 1959,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -5189,7 +5194,7 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "concentrazione particolare sulla forma della struttura esterna della macchina che va a isolare le persone ",
+        "desc": "Particular attention will be given to the form of the machine’s external structure, which is designed to isolate the participants from the surrounding environment and focus their attention on the experience.",
         "links": [],
         "files": [
           {
@@ -5229,14 +5234,14 @@
     },
     {
       "id": "n2r6cb43",
-      "x": 15842.08195345408,
-      "y": 1642.0400003985292,
+      "x": 15831.468609632222,
+      "y": 1608.8733009552207,
       "w": 320,
-      "h": 487,
+      "h": 504,
       "group": null,
       "data": {
         "date": "2025-12-17",
-        "title": "momento di decisione tra tubo e rettanfolo",
+        "title": "Indecision between a tubular form and a rectangular form.",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -5331,7 +5336,7 @@
     },
     {
       "id": "njbz906l",
-      "x": 16789.167234140266,
+      "x": 16785.167234140266,
       "y": 2031.7900534774285,
       "w": 320,
       "h": 350,
@@ -5604,8 +5609,8 @@
     },
     {
       "id": "nrpqs3at",
-      "x": 18405.326110912578,
-      "y": 329.04836001665484,
+      "x": 18345.326110912578,
+      "y": 613.0483600166549,
       "w": 320,
       "h": 260,
       "group": null,
@@ -5628,8 +5633,8 @@
     },
     {
       "id": "nm5yes67",
-      "x": 13979.582774456714,
-      "y": 2530.22655594594,
+      "x": 16682.01210562609,
+      "y": 2956.446440885083,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5651,8 +5656,8 @@
     },
     {
       "id": "nq4mc3vh",
-      "x": 14399.287691667341,
-      "y": 2837.585696887299,
+      "x": 17259.28769166734,
+      "y": 3125.585696887299,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5674,8 +5679,8 @@
     },
     {
       "id": "n8lorgq9",
-      "x": 13870.825775393707,
-      "y": 3695.377959585163,
+      "x": 16730.825775393707,
+      "y": 3983.377959585163,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5697,8 +5702,8 @@
     },
     {
       "id": "n05ougjl",
-      "x": 13767.16019151254,
-      "y": 4126.85290370813,
+      "x": 17201.47933891292,
+      "y": 4699.883790173278,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5720,8 +5725,8 @@
     },
     {
       "id": "ncptzb23",
-      "x": 14728.803325799292,
-      "y": 3084.0306034591495,
+      "x": 17588.803325799294,
+      "y": 3372.0306034591495,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5743,8 +5748,8 @@
     },
     {
       "id": "n39s50vi",
-      "x": 13923.21821124291,
-      "y": 3165.2135994997157,
+      "x": 16783.218211242907,
+      "y": 3453.2135994997157,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5766,8 +5771,8 @@
     },
     {
       "id": "n8erxgvo",
-      "x": 14359.50429029799,
-      "y": 3415.007433470688,
+      "x": 17219.50429029799,
+      "y": 3703.007433470688,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5789,8 +5794,8 @@
     },
     {
       "id": "n485afqa",
-      "x": 15217.298124268962,
-      "y": 4258.560251670724,
+      "x": 17943.335711069172,
+      "y": 3911.6351774671416,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5812,10 +5817,10 @@
     },
     {
       "id": "n9z5767h",
-      "x": 15414.492199953145,
-      "y": 3186.8171976889525,
+      "x": 18150.714908408256,
+      "y": 3216.150054757927,
       "w": 320,
-      "h": 173,
+      "h": 552,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -5827,15 +5832,24 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "63.png",
+            "size": 226710,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/63.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nm3j6b5m",
-      "x": 14350.825775393707,
-      "y": 3695.377959585163,
+      "x": 17210.825775393707,
+      "y": 3983.377959585163,
       "w": 320,
-      "h": 179,
+      "h": 621,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -5850,15 +5864,24 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "64.png",
+            "size": 456783,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/64.jpg"
+          }
+        ]
       }
     },
     {
       "id": "ndq5cuui",
-      "x": 14247.16019151254,
-      "y": 4126.85290370813,
+      "x": 17656.43485248553,
+      "y": 4265.763413372142,
       "w": 320,
-      "h": 179,
+      "h": 1037,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -5873,7 +5896,24 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "65.png",
+            "size": 235757,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/65.jpg"
+          },
+          {
+            "name": "66.png",
+            "size": 326779,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/66.jpg"
+          }
+        ]
       }
     },
     {
@@ -5897,6 +5937,56 @@
         ],
         "tags": [],
         "desc": "- funzionamento audio e timing\n- funzionamento bottoni\n- funzionamento slider \n- funzionamento sensori SCL\n- funzionamento sensori capacità\n- funzionamento stampante",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbaom5hm",
+      "x": 19882.711393179077,
+      "y": -273.50225897047676,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "poster",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ng5d2oc2",
+      "x": 19910.711393179077,
+      "y": 614.4977410295232,
+      "w": 320,
+      "h": 224,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "invito",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Administration",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "",
         "links": [],
         "files": []
       }
@@ -7937,19 +8027,31 @@
       "s": "n39vcv05",
       "t": "nuc3mlcc",
       "dashed": false
+    },
+    {
+      "s": "nqph8s1z",
+      "t": "nbaom5hm",
+      "dashed": false
+    },
+    {
+      "s": "nqph8s1z",
+      "t": "ng5d2oc2",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Video",
-      "Experience",
-      "Interaction",
-      "Electronic system",
+      "Spatial design",
+      "Brand identity",
       "Conflict",
       "Science",
+      "Interaction",
+      "Sociology",
+      "Video",
+      "Experience",
+      "Electronic system",
       "Public administration",
       "Insurance",
-      "Brand identity",
       "Identity",
       "Socio-political",
       "Law",
@@ -7958,14 +8060,12 @@
       "Media studies",
       "Cultural studies",
       "Critical design",
-      "Spatial design",
       "Design research",
       "Philosophy",
       "Envirionment",
       "Power",
       "Administration",
       "Literature",
-      "Sociology",
       "Cinema"
     ],
     "tags": [
@@ -7978,11 +8078,11 @@
       "Feelings"
     ],
     "type": [
-      "Observation",
-      "Concept",
-      "Feedback",
       "Source",
+      "Concept",
       "Collection",
+      "Observation",
+      "Feedback",
       "Brief"
     ]
   }
