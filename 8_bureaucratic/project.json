@@ -4303,10 +4303,10 @@
     },
     {
       "id": "n39nwkle",
-      "x": 12472.629266608184,
-      "y": 3394.22655594594,
+      "x": 13096.629266608184,
+      "y": 2706.22655594594,
       "w": 320,
-      "h": 179,
+      "h": 237,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -4319,7 +4319,7 @@
           "Insurance"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "come output finale dell'esperienza è il contratto assicurativo che assicura la relazione ",
         "links": [],
         "files": []
       }
@@ -5081,7 +5081,7 @@
     {
       "id": "nlksu4gp",
       "x": 18914.47154363697,
-      "y": -597.8404138465389,
+      "y": -603.5311786325991,
       "w": 320,
       "h": 690,
       "group": null,
@@ -5114,8 +5114,8 @@
     },
     {
       "id": "nj0uazxg",
-      "x": 19256.378295965646,
-      "y": -602.7629622856557,
+      "x": 19257.90758415565,
+      "y": -601.2336740956481,
       "w": 320,
       "h": 668,
       "group": null,
@@ -5171,7 +5171,7 @@
     },
     {
       "id": "n9lg1sci",
-      "x": 15386.048366875079,
+      "x": 15366.048366875079,
       "y": 870.283577825666,
       "w": 320,
       "h": 1909,
@@ -5600,6 +5600,305 @@
             "path": "assets/62.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "nrpqs3at",
+      "x": 18322.711393179077,
+      "y": 330.49774102952324,
+      "w": 320,
+      "h": 260,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "Typographic palette",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "Neue Haas Grotesk \nBergen Mono",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nm5yes67",
+      "x": 13980.629266608184,
+      "y": 2530.22655594594,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "calolo della percentuale di affinità",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nq4mc3vh",
+      "x": 14399.287691667341,
+      "y": 2837.585696887299,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "fasce di rischio",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8lorgq9",
+      "x": 13870.825775393707,
+      "y": 3695.377959585163,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "clausole",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n05ougjl",
+      "x": 13767.16019151254,
+      "y": 4126.85290370813,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "parte fissa",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncptzb23",
+      "x": 14728.803325799292,
+      "y": 3084.0306034591495,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "id ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n39s50vi",
+      "x": 13923.21821124291,
+      "y": 3165.2135994997157,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "frase",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8erxgvo",
+      "x": 14359.50429029799,
+      "y": 3415.007433470688,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "qr code",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n485afqa",
+      "x": 15217.298124268962,
+      "y": 4258.560251670724,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "app",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9z5767h",
+      "x": 15414.492199953145,
+      "y": 3186.8171976889525,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "grafica",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nm3j6b5m",
+      "x": 14350.825775393707,
+      "y": 3695.377959585163,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "grafica",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndq5cuui",
+      "x": 14247.16019151254,
+      "y": 4126.85290370813,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "grafica",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9pmymc9",
+      "x": 18499.301060564354,
+      "y": 1042.9324464008148,
+      "w": 320,
+      "h": 350,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "montaggio arduino con tutte le componenti",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "- funzionamento audio e timing\n- funzionamento bottoni\n- funzionamento slider \n- funzionamento sensori SCL\n- funzionamento sensori capacità\n- funzionamento stampante",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -7503,53 +7802,163 @@
       "s": "nbz8jxeo",
       "t": "nf9nyekj",
       "dashed": false
+    },
+    {
+      "s": "nqph8s1z",
+      "t": "nrpqs3at",
+      "dashed": false
+    },
+    {
+      "s": "nbz8jxeo",
+      "t": "nrpqs3at",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "nm5yes67",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "nq4mc3vh",
+      "dashed": false
+    },
+    {
+      "s": "nm5yes67",
+      "t": "nq4mc3vh",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "n8lorgq9",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "n05ougjl",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "ncptzb23",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "n39s50vi",
+      "dashed": false
+    },
+    {
+      "s": "n39s50vi",
+      "t": "n8erxgvo",
+      "dashed": false
+    },
+    {
+      "s": "n8erxgvo",
+      "t": "ncptzb23",
+      "dashed": false
+    },
+    {
+      "s": "n8erxgvo",
+      "t": "n485afqa",
+      "dashed": false
+    },
+    {
+      "s": "nm5yes67",
+      "t": "n9z5767h",
+      "dashed": false
+    },
+    {
+      "s": "nq4mc3vh",
+      "t": "n9z5767h",
+      "dashed": false
+    },
+    {
+      "s": "ncptzb23",
+      "t": "n9z5767h",
+      "dashed": false
+    },
+    {
+      "s": "n39s50vi",
+      "t": "n9z5767h",
+      "dashed": false
+    },
+    {
+      "s": "n8erxgvo",
+      "t": "n9z5767h",
+      "dashed": false
+    },
+    {
+      "s": "n8lorgq9",
+      "t": "nm3j6b5m",
+      "dashed": false
+    },
+    {
+      "s": "n05ougjl",
+      "t": "ndq5cuui",
+      "dashed": false
+    },
+    {
+      "s": "nhhsff6m",
+      "t": "n9pmymc9",
+      "dashed": false
+    },
+    {
+      "s": "n6qaz4vx",
+      "t": "n9pmymc9",
+      "dashed": false
+    },
+    {
+      "s": "n9pmymc9",
+      "t": "nnr23qj8",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Cinema",
-      "Sociology",
-      "Literature",
-      "Administration",
-      "Power",
-      "Envirionment",
-      "Philosophy",
-      "Design research",
-      "Spatial design",
-      "Critical design",
-      "Cultural studies",
-      "Media studies",
-      "Hystory",
-      "Communication",
-      "Law",
-      "Socio-political",
-      "Identity",
-      "Brand identity",
-      "Insurance",
-      "Public administration",
-      "Science",
-      "Conflict",
-      "Electronic system",
-      "Interaction",
+      "Video",
       "Experience",
-      "Video"
+      "Interaction",
+      "Electronic system",
+      "Conflict",
+      "Science",
+      "Public administration",
+      "Insurance",
+      "Brand identity",
+      "Identity",
+      "Socio-political",
+      "Law",
+      "Communication",
+      "Hystory",
+      "Media studies",
+      "Cultural studies",
+      "Critical design",
+      "Spatial design",
+      "Design research",
+      "Philosophy",
+      "Envirionment",
+      "Power",
+      "Administration",
+      "Literature",
+      "Sociology",
+      "Cinema"
     ],
     "tags": [
-      "Feelings",
-      "Emotion",
-      "Social tension",
-      "Opposition",
-      "Conflict",
+      "Power abuse",
       "Corruption",
-      "Power abuse"
+      "Conflict",
+      "Opposition",
+      "Social tension",
+      "Emotion",
+      "Feelings"
     ],
     "type": [
       "Concept",
-      "Feedback",
-      "Observation",
       "Source",
+      "Collection",
       "Brief",
-      "Collection"
+      "Observation",
+      "Feedback"
     ]
   }
 }
