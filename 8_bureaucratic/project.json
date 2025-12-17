@@ -4409,7 +4409,7 @@
       "data": {
         "date": "2025-11-28",
         "title": "Joint Action",
-        "type": "Source",
+        "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -4460,7 +4460,7 @@
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "Feedback sulla azione condivisa ",
+        "title": "Feedback on the main interaction",
         "type": "Feedback",
         "action": null,
         "mainArea": "Interaction",
@@ -4471,15 +4471,15 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "Piace di più e esembra più forte l'azione del guardarsi negli occhi",
+        "desc": "The act of looking into each other’s eyes is more compelling and appears more powerful.\n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ng36lgpt",
-      "x": 13701.79108810782,
-      "y": 707.6105474935819,
+      "x": 13690.240381905724,
+      "y": 653.7072518837986,
       "w": 320,
       "h": 283,
       "group": null,
@@ -4496,17 +4496,17 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "necessità di definire le fasi che vorremmo far fare alle persone ",
+        "desc": "Need to clearly define the stages that participants will be asked to go through.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nd2u8w6i",
-      "x": 14305.79108810782,
-      "y": 379.61054749358186,
+      "x": 14300.657440906889,
+      "y": 350.0920760882243,
       "w": 320,
-      "h": 294,
+      "h": 310,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -4521,7 +4521,7 @@
           "Experience"
         ],
         "tags": [],
-        "desc": "definizione da parte dei due individui di definire la natura della loro relazione. Ognuno nel suo spazio accenderà degli interruttori corrispondenti alla relaizone che pensano di avere con l'altra persona",
+        "desc": "The two individuals are asked to define the nature of their relationship. Each of them, within their own space, activates a set of switches corresponding to the type of relationship they believe they have with the other person.",
         "links": [],
         "files": []
       }
@@ -4531,7 +4531,7 @@
       "x": 14300.856519427582,
       "y": 690.2000246459911,
       "w": 320,
-      "h": 316,
+      "h": 333,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -4546,17 +4546,17 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "definire l'intensità della relazione, sempre singolarmente ognuno azionerà uno slider e metterà indicativamente la percentuale di intensità della relazione con l'altra persona ",
+        "desc": "Each individual is asked to define the intensity of the relationship. Acting separately, they adjust a slider to indicate the approximate percentage representing how intense they perceive their relationship with the other person to be.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n6naot6q",
-      "x": 14304.143018434208,
-      "y": 1027.1010099071225,
+      "x": 14302.199729502852,
+      "y": 1060.1369217401946,
       "w": 320,
-      "h": 266,
+      "h": 300,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -4571,7 +4571,7 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "le persona dovranno mettere la mano sopra i sensori ",
+        "desc": "Participants will be required to place their hand on the conductance sensors in order to measure skin conductance.",
         "links": [],
         "files": []
       }
@@ -4579,9 +4579,9 @@
     {
       "id": "nx7uyrcr",
       "x": 14304.262600672893,
-      "y": 1310.4037015978038,
+      "y": 1374.5322363325906,
       "w": 320,
-      "h": 316,
+      "h": 333,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -4596,7 +4596,7 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "le persone dovranno guardarsi negli occhi per un minuto, durante il minuto attraverso i sensori che toccano la mano verrano rilevati i parametri necessari per capire il loro livello di conflittualitò e ",
+        "desc": "Participants will be asked to look into each other’s eyes for one minute. During this time, the sensors in contact with their hands will record the necessary physiological parameters to assess their level of conflict.",
         "links": [],
         "files": []
       }
@@ -4604,7 +4604,7 @@
     {
       "id": "n39vcv05",
       "x": 14304.030644907178,
-      "y": 1643.2176224349414,
+      "y": 1736.495491140086,
       "w": 320,
       "h": 300,
       "group": null,
@@ -4621,7 +4621,7 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "le persone usciranno dalle loro postazioni e riceveranno il contratto stampato e personalizzato per la loro situazione ",
+        "desc": "The participants will leave their stations and receive a printed, personalized contract tailored to their specific situation.",
         "links": [],
         "files": []
       }
@@ -4853,7 +4853,7 @@
           "Electronic system"
         ],
         "tags": [],
-        "desc": "costruzione della parte di sistema che capta la conduttanza e il battito ",
+        "desc": "Construction of the system component responsible for capturing skin conductance and heart rate.",
         "links": [],
         "files": [
           {
@@ -5406,8 +5406,8 @@
     },
     {
       "id": "nuc3mlcc",
-      "x": 17640.70076497084,
-      "y": 2381.127369865645,
+      "x": 17688.70076497084,
+      "y": 2433.127369865645,
       "w": 320,
       "h": 686,
       "group": null,
@@ -5604,8 +5604,8 @@
     },
     {
       "id": "nrpqs3at",
-      "x": 18322.711393179077,
-      "y": 330.49774102952324,
+      "x": 18405.326110912578,
+      "y": 329.04836001665484,
       "w": 320,
       "h": 260,
       "group": null,
@@ -5628,7 +5628,7 @@
     },
     {
       "id": "nm5yes67",
-      "x": 13980.629266608184,
+      "x": 13979.582774456714,
       "y": 2530.22655594594,
       "w": 320,
       "h": 179,
@@ -7912,6 +7912,31 @@
       "s": "n9pmymc9",
       "t": "nnr23qj8",
       "dashed": false
+    },
+    {
+      "s": "nd2u8w6i",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "nf6wd9qs",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "n6naot6q",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "nx7uyrcr",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "n39vcv05",
+      "t": "nuc3mlcc",
+      "dashed": false
     }
   ],
   "vocab": {
@@ -7953,12 +7978,12 @@
       "Feelings"
     ],
     "type": [
+      "Observation",
       "Concept",
+      "Feedback",
       "Source",
       "Collection",
-      "Brief",
-      "Observation",
-      "Feedback"
+      "Brief"
     ]
   }
 }
