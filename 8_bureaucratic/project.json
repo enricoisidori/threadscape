@@ -4253,8 +4253,8 @@
     },
     {
       "id": "n0oqgof5",
-      "x": 15836.967326868195,
-      "y": -2148.437916359353,
+      "x": 15908.967326868195,
+      "y": -1956.437916359353,
       "w": 320,
       "h": 300,
       "group": null,
@@ -4278,8 +4278,8 @@
     },
     {
       "id": "nyozbn2f",
-      "x": 16384.967326868195,
-      "y": -2172.437916359353,
+      "x": 16448.967326868195,
+      "y": -1616.437916359353,
       "w": 320,
       "h": 333,
       "group": null,
@@ -4303,8 +4303,8 @@
     },
     {
       "id": "n39nwkle",
-      "x": 12712.464950235279,
-      "y": 2731.8232392615837,
+      "x": 12472.629266608184,
+      "y": 3394.22655594594,
       "w": 320,
       "h": 179,
       "group": null,
@@ -4404,7 +4404,7 @@
       "x": 12705.79108810782,
       "y": 679.4448214944288,
       "w": 320,
-      "h": 476,
+      "h": 417,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -4420,9 +4420,7 @@
         ],
         "tags": [],
         "desc": "The two individuals will be asked to perform a collaborative action that places them toward a shared objective. One option is to introduce a task whose resolution requires active cooperation between them.\nThis collaboration may be functional or dysfunctional, leading to variations in the physiological parameters recorded and, consequently, to changes in the risk assessment between the two individuals.",
-        "links": [
-          "https:​​/​/watermark02​.silverchair​.com​/nsaf075​.pdf​?token​=​AQECAHi208BE49Ooan9kkhW​_Ercy7Dm3ZL​_..."
-        ],
+        "links": [],
         "files": []
       }
     },
@@ -4431,11 +4429,11 @@
       "x": 12712.87039070283,
       "y": 1290.6993718125232,
       "w": 320,
-      "h": 427,
+      "h": 511,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "parametri fisiologici",
+        "title": "Physiological parameters ",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -4446,7 +4444,7 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "basandoci sugli studi di Gottman useremo due parametri che usa anche lui: Conduttanza SCL e Interbeat interval IBI. Dai sui studi è stato rilevato che più l'IBI diminuisce e la SCL aumenta allora la persona sarà più aroused. Piu le persone sono aroused più sono insoddisfatte nella loro relazione e quindi più a rischio.",
+        "desc": "Based on Gottman’s studies, we adopt two key physiological parameters also used in his research: Skin Conductance Level (SCL) and Interbeat Interval (IBI). Empirical findings show that as IBI decreases and SCL increases, an individual’s level of physiological arousal rises. Higher arousal corresponds to greater stress activation, which, in relational contexts, is associated with increased dissatisfaction. The more physiologically aroused individuals are, the higher the relational risk becomes, as elevated arousal undermines emotional regulation and constructive interaction.",
         "links": [
           "https://bpl.studentorg.berkeley.edu/docs/28-Physiological%20and%20affective%20predictors85.pdf"
         ],
@@ -4630,8 +4628,8 @@
     },
     {
       "id": "n4gt1tik",
-      "x": 17085.611070481056,
-      "y": -2571.6069921033873,
+      "x": 16957.611070481056,
+      "y": -739.6069921033873,
       "w": 320,
       "h": 266,
       "group": null,
@@ -4655,14 +4653,14 @@
     },
     {
       "id": "nbz8jxeo",
-      "x": 17085.611070481056,
-      "y": -2276.194377134905,
+      "x": 16929.611070481056,
+      "y": -52.19437713490515,
       "w": 320,
       "h": 585,
       "group": null,
       "data": {
         "date": "2025-12-02",
-        "title": "Tone of Voice",
+        "title": "Tone of Voice and Identity",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4680,8 +4678,8 @@
     },
     {
       "id": "nq2gl79o",
-      "x": 17480.973048608408,
-      "y": -2170.149224286468,
+      "x": 17352.973048608408,
+      "y": -338.14922428646787,
       "w": 320,
       "h": 512,
       "group": null,
@@ -4714,8 +4712,8 @@
     },
     {
       "id": "nqph8s1z",
-      "x": 18014.711393179077,
-      "y": -2242.140520328382,
+      "x": 17886.711393179077,
+      "y": -410.1405203283821,
       "w": 320,
       "h": 1268,
       "group": null,
@@ -4780,8 +4778,8 @@
     },
     {
       "id": "nwwdofdn",
-      "x": 17611.260773533584,
-      "y": -2617.8566798419524,
+      "x": 17483.260773533584,
+      "y": -785.8566798419524,
       "w": 320,
       "h": 301,
       "group": null,
@@ -4814,8 +4812,8 @@
     },
     {
       "id": "nvz5kopw",
-      "x": 18271.78887092393,
-      "y": -2713.4422416120406,
+      "x": 18143.78887092393,
+      "y": -881.4422416120406,
       "w": 320,
       "h": 394,
       "group": null,
@@ -4839,14 +4837,14 @@
     },
     {
       "id": "nsivmeyg",
-      "x": 13524.87039070283,
-      "y": 1656.6105474935819,
+      "x": 13370.806582924895,
+      "y": 1551.4654344650507,
       "w": 320,
-      "h": 179,
+      "h": 408,
       "group": null,
       "data": {
         "date": "2025-12-03",
-        "title": "sistema di arduino",
+        "title": "IBI E SCL with Arduino",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -4855,42 +4853,26 @@
           "Electronic system"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "costruzione della parte di sistema che capta la conduttanza e il battito ",
         "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nwawe225",
-      "x": 13224.87039070283,
-      "y": 2063.610547493582,
-      "w": 320,
-      "h": 241,
-      "group": null,
-      "data": {
-        "date": "2025-12-03",
-        "title": "elementi della ricerca di gottman per i parametri fisiologici",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [
-          "Insurance",
-          "Public administration",
-          "Science",
-          "Conflict"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "46.jpeg",
+            "size": 80921,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/46.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nf9nyekj",
-      "x": 15302.895455989144,
-      "y": 506.1677999804724,
+      "x": 17360.262589879203,
+      "y": 1399.4263735671968,
       "w": 320,
-      "h": 224,
+      "h": 400,
       "group": null,
       "data": {
         "date": "2025-12-03",
@@ -4905,15 +4887,15 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "EYE.DEAL unione di vari concetti racchiusi nell'esperienza\nEYE perchè ci si guarda negli occhi, DEAL sia perchè ci si stringe la mano come quando si fa un patto e ache perchè la macchina stessa e il contratto che produce è un accordo\n\neye deal tutto insieme quindi fa capire che attraverso l'esperienza di guardarsi si crea un patto, un accordo indelebile ",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nd79m87y",
-      "x": 15263.933612941782,
-      "y": 1398.9275060826787,
+      "x": 14927.933612941782,
+      "y": 862.9275060826787,
       "w": 320,
       "h": 350,
       "group": null,
@@ -4962,8 +4944,8 @@
     },
     {
       "id": "njsi8v07",
-      "x": 19042.81473584783,
-      "y": -3144.9207502006293,
+      "x": 18914.81473584783,
+      "y": -1312.9207502006293,
       "w": 320,
       "h": 687,
       "group": null,
@@ -4996,8 +4978,8 @@
     },
     {
       "id": "n7hbpilh",
-      "x": 19380.890006586207,
-      "y": -3143.946014089221,
+      "x": 19252.890006586207,
+      "y": -1311.946014089221,
       "w": 320,
       "h": 687,
       "group": null,
@@ -5030,8 +5012,8 @@
     },
     {
       "id": "nhjws1ab",
-      "x": 18693.11851770057,
-      "y": -2434.0619977341194,
+      "x": 18565.11851770057,
+      "y": -602.0619977341194,
       "w": 320,
       "h": 690,
       "group": null,
@@ -5064,8 +5046,8 @@
     },
     {
       "id": "nnle662v",
-      "x": 18693.905934452363,
-      "y": -3146.41266323622,
+      "x": 18565.905934452363,
+      "y": -1314.41266323622,
       "w": 320,
       "h": 690,
       "group": null,
@@ -5098,8 +5080,8 @@
     },
     {
       "id": "nlksu4gp",
-      "x": 19042.47154363697,
-      "y": -2429.840413846539,
+      "x": 18914.47154363697,
+      "y": -597.8404138465389,
       "w": 320,
       "h": 690,
       "group": null,
@@ -5132,8 +5114,8 @@
     },
     {
       "id": "nj0uazxg",
-      "x": 19384.378295965646,
-      "y": -2434.7629622856557,
+      "x": 19256.378295965646,
+      "y": -602.7629622856557,
       "w": 320,
       "h": 668,
       "group": null,
@@ -5160,6 +5142,462 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/45.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nw793eel",
+      "x": 13767.69984395708,
+      "y": 1724.003271159041,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "No IBI",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Electronic system"
+        ],
+        "tags": [],
+        "desc": "dato che i sensori del battito sono estermamente sensibili e non calibrati bene preferiamo non usarli e concentrarci solo sulla conduttanza dato che qualunque dato che ci verrebbe dato da qualisasi sensore del battito sarebbe sbagliuato o comunqeu approssimativo",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9lg1sci",
+      "x": 15386.048366875079,
+      "y": 870.283577825666,
+      "w": 320,
+      "h": 1909,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "Brainstorming on the shape of the machine",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "concentrazione particolare sulla forma della struttura esterna della macchina che va a isolare le persone ",
+        "links": [],
+        "files": [
+          {
+            "name": "47.jpg",
+            "size": 403971,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/47.jpg"
+          },
+          {
+            "name": "48.jpg",
+            "size": 454905,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/48.jpg"
+          },
+          {
+            "name": "49.jpg",
+            "size": 484664,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/49.jpg"
+          },
+          {
+            "name": "50.jpg",
+            "size": 453496,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/50.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2r6cb43",
+      "x": 15842.08195345408,
+      "y": 1642.0400003985292,
+      "w": 320,
+      "h": 487,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "momento di decisione tra tubo e rettanfolo",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "tubo più immerisvo ma molto più scomodo, isola la testa ma meccanico il movimento per vedere la plancia. rettangolo molto più comodo ma meno isolante ",
+        "links": [],
+        "files": [
+          {
+            "name": "56.JPG",
+            "size": 2546306,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhhsff6m",
+      "x": 16339.883480709243,
+      "y": 1652.4977410295232,
+      "w": 320,
+      "h": 586,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "decisione sulla forma ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "decisione di procedere cpn una struttura rettangolare che comunque isola grazie ai pannelli esterni ma che comunque dia agio di movimento e sia intuitiva ",
+        "links": [],
+        "files": [
+          {
+            "name": "51.png",
+            "size": 1700702,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/51.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "noydlprf",
+      "x": 16802.85454147427,
+      "y": 1410.5027112848054,
+      "w": 320,
+      "h": 437,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "forma della plancia ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "foto 1 render",
+        "links": [],
+        "files": [
+          {
+            "name": "52.png",
+            "size": 616854,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/52.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njbz906l",
+      "x": 16789.167234140266,
+      "y": 2031.7900534774285,
+      "w": 320,
+      "h": 350,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "inserimento del gesto di stringersi la mano",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "per dare ancora più importanza alla fase dello sguardo abbiamo voluto aggiugere un altro gesto che si fa per dare via al tempo di sguardo, strimngersi la mano destra durante il minuto. Da senso di collegamernto ma anche di obbligo a rimanere li. Il tocco aggiunge emozione positiva e negativa ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6qaz4vx",
+      "x": 17200.738133053233,
+      "y": 1954.1870737401314,
+      "w": 320,
+      "h": 270,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "modifica della posizione dei vari elementi della plancia e aggiunta di un supporto per stringersi la mano",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ns7zf6ff",
+      "x": 17264.70076497084,
+      "y": 2369.127369865645,
+      "w": 320,
+      "h": 384,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "possibilità di aggiungere musica",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "dato che le persone si toccano con ulteriori sensori si può recepire la capacità elettrica delle due persone aggiungendo due placche metalliche che bisogna toccare mentre ci si tiene la mano. questa aggiunta ci da la possibilità di aggiungere una musica di sottofondo che renda ancorsa pià immersiva l'eperienxa e che possa anche cambiare valori e suoni in base a come cambiano i valori della capacitìà",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nuc3mlcc",
+      "x": 17640.70076497084,
+      "y": 2381.127369865645,
+      "w": 320,
+      "h": 686,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "script dei comandi audio ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "1. Benvenuti al servizio eyedeal di alua\n2. Eyedeal è progettata per stipulare il vostro contratto assicurativo sulla base della vostra affinità interpersonale\n3. Per prima cosa ognuno selezioni, utilizzando i bottoni, i tipi di relazione che vi uniscono\n4. Il tempo per la selezione sta per finire\n4.1. suono DADANNN\n5. Adesso definite l’intensità del vostro rapporto tramite lo slider sulla vostra destra.\n6. il tempo per la selezione sta per finire\n6.1 suono dadannn\n7. Sta per iniziare la fase di valutazione biometrica che durerà 60 secondi \n8. Appoggiate la mano  sul sensore alla vostra sinistra.\n9. Ora guardatevi negli occhi in silenzio.\n10. Per avviare il minuto di analisi, stringetevi la mano destra appoggiando il polso sul supporto al centro.\n11. Mantenete lo sguardo\n12. Manca poco alla fine dell’analisi\n12.1 suono DADANNN\n13. La rilevazione biometrica è terminata, potete togliere le mani dai sensori.\n14. Il vostro contratto è in stampa, ritiratelo all’esterno della struttura.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n57q8b7u",
+      "x": 18085.540916735692,
+      "y": 1090.8537215346637,
+      "w": 320,
+      "h": 1417,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "costruzione struttura in metallo",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "con profili di alluminio angolari e piatti da 4 cm è stata costruita la struttura che poi conterrà la macchina e che poi verrà completata da pareti di plexiglass\n\ndimensioni: \naltezza: 200 cm\nlarghezza: 70 cm\nprofondità: 150 cm dove ogni 50 cm c'è una linea di divisione \naltezza dell'appoggio per la macchina: 80 cm",
+        "links": [],
+        "files": [
+          {
+            "name": "53.jpeg",
+            "size": 98744,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/53.jpg"
+          },
+          {
+            "name": "54.jpeg",
+            "size": 59316,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/54.jpg"
+          },
+          {
+            "name": "55.jpeg",
+            "size": 96665,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/55.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nu1qkjm1",
+      "x": 18464.52334976993,
+      "y": 1315.5753603354374,
+      "w": 320,
+      "h": 1195,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "costruzione della plancia ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "prototipo in legno con costruzione dell'ingombro della plancia con presenza di un cassetto dove si porranno tutta la componentistica elettronica necessaria \n\naltezza: 20 cm \nlarghezza: 70 cm\nprofondità: 50 cm \naltezza divisorio: 20 cm\n",
+        "links": [],
+        "files": [
+          {
+            "name": "57.jpeg",
+            "size": 61000,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/57.jpg"
+          },
+          {
+            "name": "58.JPG",
+            "size": 3568392,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/58.jpg"
+          },
+          {
+            "name": "59.jpeg",
+            "size": 186099,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n51095ca",
+      "x": 10143.685839503982,
+      "y": 315.0217392117361,
+      "w": 320,
+      "h": 149,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnr23qj8",
+      "x": 18904.559641976757,
+      "y": 1051.5753603354374,
+      "w": 320,
+      "h": 749,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "montaggio delle due parti insieme",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "60.JPG",
+            "size": 2038103,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/60.jpg"
+          },
+          {
+            "name": "61.JPG",
+            "size": 2519090,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/61.jpg"
+          },
+          {
+            "name": "62.JPG",
+            "size": 2814142,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/62.jpg"
           }
         ]
       }
@@ -6842,11 +7280,6 @@
       "dashed": false
     },
     {
-      "s": "nd82ii6y",
-      "t": "nwawe225",
-      "dashed": false
-    },
-    {
       "s": "nf1uuft5",
       "t": "nf9nyekj",
       "dashed": false
@@ -6917,16 +7350,6 @@
       "dashed": false
     },
     {
-      "s": "nwawe225",
-      "t": "n39vcv05",
-      "dashed": false
-    },
-    {
-      "s": "nwawe225",
-      "t": "nx7uyrcr",
-      "dashed": false
-    },
-    {
       "s": "n39vcv05",
       "t": "n39nwkle",
       "dashed": false
@@ -6960,54 +7383,173 @@
       "s": "nvz5kopw",
       "t": "nj0uazxg",
       "dashed": false
+    },
+    {
+      "s": "nsivmeyg",
+      "t": "nw793eel",
+      "dashed": false
+    },
+    {
+      "s": "nd79m87y",
+      "t": "n9lg1sci",
+      "dashed": false
+    },
+    {
+      "s": "nd79m87y",
+      "t": "n2r6cb43",
+      "dashed": false
+    },
+    {
+      "s": "n9lg1sci",
+      "t": "n2r6cb43",
+      "dashed": false
+    },
+    {
+      "s": "n2r6cb43",
+      "t": "nhhsff6m",
+      "dashed": false
+    },
+    {
+      "s": "nhhsff6m",
+      "t": "noydlprf",
+      "dashed": false
+    },
+    {
+      "s": "nhhsff6m",
+      "t": "njbz906l",
+      "dashed": false
+    },
+    {
+      "s": "njbz906l",
+      "t": "n6qaz4vx",
+      "dashed": false
+    },
+    {
+      "s": "noydlprf",
+      "t": "n6qaz4vx",
+      "dashed": false
+    },
+    {
+      "s": "njbz906l",
+      "t": "ns7zf6ff",
+      "dashed": false
+    },
+    {
+      "s": "nd79m87y",
+      "t": "ns7zf6ff",
+      "dashed": false
+    },
+    {
+      "s": "ns7zf6ff",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "nhhsff6m",
+      "t": "n57q8b7u",
+      "dashed": false
+    },
+    {
+      "s": "njbz906l",
+      "t": "n57q8b7u",
+      "dashed": false
+    },
+    {
+      "s": "n6qaz4vx",
+      "t": "nu1qkjm1",
+      "dashed": false
+    },
+    {
+      "s": "nhhsff6m",
+      "t": "nu1qkjm1",
+      "dashed": false
+    },
+    {
+      "s": "nvub86c3",
+      "t": "n51095ca",
+      "dashed": false
+    },
+    {
+      "s": "nu1qkjm1",
+      "t": "nnr23qj8",
+      "dashed": false
+    },
+    {
+      "s": "n57q8b7u",
+      "t": "nnr23qj8",
+      "dashed": false
+    },
+    {
+      "s": "njbz906l",
+      "t": "nf9nyekj",
+      "dashed": false
+    },
+    {
+      "s": "nqph8s1z",
+      "t": "noydlprf",
+      "dashed": false
+    },
+    {
+      "s": "nqph8s1z",
+      "t": "nhhsff6m",
+      "dashed": false
+    },
+    {
+      "s": "nbz8jxeo",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "nbz8jxeo",
+      "t": "nf9nyekj",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Video",
-      "Experience",
-      "Interaction",
-      "Electronic system",
-      "Conflict",
-      "Science",
-      "Public administration",
-      "Insurance",
-      "Brand identity",
-      "Identity",
-      "Socio-political",
-      "Law",
-      "Communication",
-      "Hystory",
-      "Media studies",
-      "Cultural studies",
-      "Critical design",
-      "Spatial design",
-      "Design research",
-      "Philosophy",
-      "Envirionment",
-      "Power",
-      "Administration",
-      "Literature",
+      "Cinema",
       "Sociology",
-      "Cinema"
+      "Literature",
+      "Administration",
+      "Power",
+      "Envirionment",
+      "Philosophy",
+      "Design research",
+      "Spatial design",
+      "Critical design",
+      "Cultural studies",
+      "Media studies",
+      "Hystory",
+      "Communication",
+      "Law",
+      "Socio-political",
+      "Identity",
+      "Brand identity",
+      "Insurance",
+      "Public administration",
+      "Science",
+      "Conflict",
+      "Electronic system",
+      "Interaction",
+      "Experience",
+      "Video"
     ],
     "tags": [
-      "Power abuse",
-      "Corruption",
-      "Conflict",
-      "Opposition",
-      "Social tension",
+      "Feelings",
       "Emotion",
-      "Feelings"
+      "Social tension",
+      "Opposition",
+      "Conflict",
+      "Corruption",
+      "Power abuse"
     ],
     "type": [
-      "Source",
       "Concept",
-      "To look into each others eyes",
-      "Observation",
-      "Collection",
       "Feedback",
-      "Brief"
+      "Observation",
+      "Source",
+      "Brief",
+      "Collection"
     ]
   }
 }
