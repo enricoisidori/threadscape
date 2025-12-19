@@ -250,8 +250,8 @@
     },
     {
       "id": "nij45h41",
-      "x": -144.9478672538139,
-      "y": -1744.9949384988572,
+      "x": -184.9478672538139,
+      "y": -1660.9949384988572,
       "w": 320,
       "h": 428,
       "group": null,
@@ -2981,7 +2981,7 @@
       "x": 10517.681179340234,
       "y": -470.8931961646018,
       "w": 320,
-      "h": 618,
+      "h": 646,
       "group": null,
       "data": {
         "date": "2025-11-07",
@@ -2989,7 +2989,11 @@
         "type": "Source",
         "action": "Exploring",
         "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Sociology",
+          "Interaction",
+          "Science"
+        ],
         "tags": [],
         "desc": "The physiological foundation of Gottman and Levenson’s research lies in the concept of Diffuse Physiological Arousal (DPA)—a fight-or-flight state triggered by interpersonal stress. Couples showing sustained activation across multiple physiological channels experienced a measurable decline in marital satisfaction over time, making biological responses stronger predictors than behavior alone. Four key measures defined this model: Cardiovascular Reactivity (heart rate, IBI, HRV)—where higher rates and reduced variability indicated acute stress and poor emotional regulation; Skin Conductance (GSR/SCL)—a sensitive marker of sympathetic activation linked to emotional alertness; Blood Pressure and Pulse Transit Time (PTT)—revealing the cardiovascular cost of conflict, particularly among avoidant partners; and Somatic Activity (ACT)—restlessness reflecting anxiety and tension. The most striking insight emerged from Physiological Linkage: the moment-to-moment covariation of bodily states between partners. Paradoxically, distressed couples displayed stronger synchronization—evidence not of harmony, but of negative co-regulation, where shared stress traps both in a feedback loop of emotional contagion and physiological escalation.",
         "links": [],
@@ -3167,7 +3171,7 @@
       "group": null,
       "data": {
         "date": "2025-11-07",
-        "title": "progettazione per output",
+        "title": "Output-oriented design",
         "type": "Observation",
         "action": "Exploring",
         "mainArea": "Interaction",
@@ -4253,8 +4257,8 @@
     },
     {
       "id": "n0oqgof5",
-      "x": 15836.967326868195,
-      "y": -2148.437916359353,
+      "x": 15908.967326868195,
+      "y": -1956.437916359353,
       "w": 320,
       "h": 300,
       "group": null,
@@ -4278,8 +4282,8 @@
     },
     {
       "id": "nyozbn2f",
-      "x": 16384.967326868195,
-      "y": -2172.437916359353,
+      "x": 16448.967326868195,
+      "y": -1616.437916359353,
       "w": 320,
       "h": 333,
       "group": null,
@@ -4303,10 +4307,10 @@
     },
     {
       "id": "n39nwkle",
-      "x": 12712.464950235279,
-      "y": 2731.8232392615837,
+      "x": 15956.629266608184,
+      "y": 2994.22655594594,
       "w": 320,
-      "h": 179,
+      "h": 237,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -4319,7 +4323,7 @@
           "Insurance"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "come output finale dell'esperienza è il contratto assicurativo che assicura la relazione ",
         "links": [],
         "files": []
       }
@@ -4333,7 +4337,7 @@
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "Elementi fondamentali",
+        "title": "Core elements",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -4344,7 +4348,7 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "macchina che avrà sicuramente una fase di definizione della natura della relazione e poi avrà un momento di rilevazione di parametri fisiologici mentre i due stanno avendo un'interazione",
+        "desc": "The machine will first include a phase dedicated to defining the nature of the relationship, followed by a moment in which physiological parameters are recorded while the two individuals are interacting.",
         "links": [],
         "files": []
       }
@@ -4358,7 +4362,7 @@
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "Posizione delle sue persone",
+        "title": "Relative positioning of the two individuals",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -4369,21 +4373,21 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "le due persone o staranno una di fianco all'altra con la macchina davanti oppure staranno uno davanti all'altro con la macchina in mezzo",
+        "desc": "The two individuals will either stand side by side with the machine positioned in front of them, or face each other with the machine placed between them.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nikh64c3",
-      "x": 12709.284980434373,
-      "y": 326.2445069300476,
+      "x": 12703.673201583677,
+      "y": 275.738497273785,
       "w": 320,
-      "h": 333,
+      "h": 384,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "Guardarsi negli occhi",
+        "title": "To look into each other’s eyes",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -4394,7 +4398,7 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "prendendo ispirazione dalla performance \"The artist is present\" di marina abramovich le due persone dovranno guardarsi neli occhi per un minuto, questo porterà a forti emozioni che varieranno i parametri fisiologici e quindi il risultato del rischio tra i due ",
+        "desc": "Drawing inspiration from Marina Abramović’s performance The Artist Is Present, the two individuals will be required to look into each other’s eyes for one minute. This prolonged gaze is expected to trigger intense emotional responses, altering physiological parameters and, consequently, influencing the resulting risk assessment between the two.",
         "links": [],
         "files": []
       }
@@ -4402,14 +4406,14 @@
     {
       "id": "nr1m0u83",
       "x": 12705.79108810782,
-      "y": 711.6105474935819,
+      "y": 679.4448214944288,
       "w": 320,
-      "h": 442,
+      "h": 417,
       "group": null,
       "data": {
         "date": "2025-11-28",
         "title": "Joint Action",
-        "type": "Source",
+        "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -4419,10 +4423,8 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "fare fare alle due persone un'azione di collaborazione che li pone con lo stesso obiettivo -> opzione quindi di creare una task che ne veda la risoluzione mentre i due collaborano \n\nquesta collaborazione potrà essere funzionale o disfunzionale facnedo modificare i parametri fisiologici che rileveremo e quindi modificando la valutazione del rischio tra le due persone",
-        "links": [
-          "https:​​/​/watermark02​.silverchair​.com​/nsaf075​.pdf​?token​=​AQECAHi208BE49Ooan9kkhW​_Ercy7Dm3ZL​_..."
-        ],
+        "desc": "The two individuals will be asked to perform a collaborative action that places them toward a shared objective. One option is to introduce a task whose resolution requires active cooperation between them.\nThis collaboration may be functional or dysfunctional, leading to variations in the physiological parameters recorded and, consequently, to changes in the risk assessment between the two individuals.",
+        "links": [],
         "files": []
       }
     },
@@ -4431,11 +4433,11 @@
       "x": 12712.87039070283,
       "y": 1290.6993718125232,
       "w": 320,
-      "h": 427,
+      "h": 511,
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "parametri fisiologici",
+        "title": "Physiological parameters ",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -4446,7 +4448,7 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "basandoci sugli studi di Gottman useremo due parametri che usa anche lui: Conduttanza SCL e Interbeat interval IBI. Dai sui studi è stato rilevato che più l'IBI diminuisce e la SCL aumenta allora la persona sarà più aroused. Piu le persone sono aroused più sono insoddisfatte nella loro relazione e quindi più a rischio.",
+        "desc": "Based on Gottman’s studies, we adopt two key physiological parameters also used in his research: Skin Conductance Level (SCL) and Interbeat Interval (IBI). Empirical findings show that as IBI decreases and SCL increases, an individual’s level of physiological arousal rises. Higher arousal corresponds to greater stress activation, which, in relational contexts, is associated with increased dissatisfaction. The more physiologically aroused individuals are, the higher the relational risk becomes, as elevated arousal undermines emotional regulation and constructive interaction.",
         "links": [
           "https://bpl.studentorg.berkeley.edu/docs/28-Physiological%20and%20affective%20predictors85.pdf"
         ],
@@ -4462,7 +4464,7 @@
       "group": null,
       "data": {
         "date": "2025-11-28",
-        "title": "Feedback sulla azione condivisa ",
+        "title": "Feedback on the main interaction",
         "type": "Feedback",
         "action": null,
         "mainArea": "Interaction",
@@ -4473,15 +4475,15 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "Piace di più e esembra più forte l'azione del guardarsi negli occhi",
+        "desc": "The act of looking into each other’s eyes is more compelling and appears more powerful.\n",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ng36lgpt",
-      "x": 13701.79108810782,
-      "y": 707.6105474935819,
+      "x": 13690.240381905724,
+      "y": 653.7072518837986,
       "w": 320,
       "h": 283,
       "group": null,
@@ -4498,17 +4500,17 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "necessità di definire le fasi che vorremmo far fare alle persone ",
+        "desc": "Need to clearly define the stages that participants will be asked to go through.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nd2u8w6i",
-      "x": 14305.79108810782,
-      "y": 379.61054749358186,
+      "x": 14300.657440906889,
+      "y": 350.0920760882243,
       "w": 320,
-      "h": 294,
+      "h": 310,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -4523,7 +4525,7 @@
           "Experience"
         ],
         "tags": [],
-        "desc": "definizione da parte dei due individui di definire la natura della loro relazione. Ognuno nel suo spazio accenderà degli interruttori corrispondenti alla relaizone che pensano di avere con l'altra persona",
+        "desc": "The two individuals are asked to define the nature of their relationship. Each of them, within their own space, activates a set of switches corresponding to the type of relationship they believe they have with the other person.",
         "links": [],
         "files": []
       }
@@ -4533,7 +4535,7 @@
       "x": 14300.856519427582,
       "y": 690.2000246459911,
       "w": 320,
-      "h": 316,
+      "h": 333,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -4548,17 +4550,17 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "definire l'intensità della relazione, sempre singolarmente ognuno azionerà uno slider e metterà indicativamente la percentuale di intensità della relazione con l'altra persona ",
+        "desc": "Each individual is asked to define the intensity of the relationship. Acting separately, they adjust a slider to indicate the approximate percentage representing how intense they perceive their relationship with the other person to be.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n6naot6q",
-      "x": 14304.143018434208,
-      "y": 1027.1010099071225,
+      "x": 14302.199729502852,
+      "y": 1060.1369217401946,
       "w": 320,
-      "h": 266,
+      "h": 300,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -4573,7 +4575,7 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "le persona dovranno mettere la mano sopra i sensori ",
+        "desc": "Participants will be required to place their hand on the conductance sensors in order to measure skin conductance.",
         "links": [],
         "files": []
       }
@@ -4581,9 +4583,9 @@
     {
       "id": "nx7uyrcr",
       "x": 14304.262600672893,
-      "y": 1310.4037015978038,
+      "y": 1374.5322363325906,
       "w": 320,
-      "h": 316,
+      "h": 333,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -4598,7 +4600,7 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "le persone dovranno guardarsi negli occhi per un minuto, durante il minuto attraverso i sensori che toccano la mano verrano rilevati i parametri necessari per capire il loro livello di conflittualitò e ",
+        "desc": "Participants will be asked to look into each other’s eyes for one minute. During this time, the sensors in contact with their hands will record the necessary physiological parameters to assess their level of conflict.",
         "links": [],
         "files": []
       }
@@ -4606,7 +4608,7 @@
     {
       "id": "n39vcv05",
       "x": 14304.030644907178,
-      "y": 1643.2176224349414,
+      "y": 1736.495491140086,
       "w": 320,
       "h": 300,
       "group": null,
@@ -4623,15 +4625,15 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "le persone usciranno dalle loro postazioni e riceveranno il contratto stampato e personalizzato per la loro situazione ",
+        "desc": "The participants will leave their stations and receive a printed, personalized contract tailored to their specific situation.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n4gt1tik",
-      "x": 17085.611070481056,
-      "y": -2571.6069921033873,
+      "x": 16957.611070481056,
+      "y": -739.6069921033873,
       "w": 320,
       "h": 266,
       "group": null,
@@ -4655,14 +4657,14 @@
     },
     {
       "id": "nbz8jxeo",
-      "x": 17085.611070481056,
-      "y": -2276.194377134905,
+      "x": 16929.611070481056,
+      "y": -52.19437713490515,
       "w": 320,
-      "h": 568,
+      "h": 585,
       "group": null,
       "data": {
         "date": "2025-12-02",
-        "title": "Tone of Voice",
+        "title": "Tone of Voice and Identity",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4673,15 +4675,15 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "L'identità di ALUA si distacca completamente dalla narrazione polverosa del settore. \nÈ magnetica, ha quella sicurezza contagiosa di chi entra in una stanza e sa esattamente come andranno le cose, prima ancora che accadano. Non è arrogante, è competente. Ha il fascino di chi regola gli eventi, non li subisce. \n\nHa un’estetica raffinata, editoriale, (che rende il trattamento comunicativo quasi più da brand di moda che da assicurazione). Proprio per questo, pur essendo un servizio aperto a tutti, ALUA viene percepita come qualcosa di esclusivo. Le persone vogliono assicurarsi con noi non solo per il servizio che offriamo ma per entrare nella nostra cerchia, per ottenere uno status. \n\nE questa scelta estetica mira a donare all’assicurazione l’identità di un brand sicuro di sè, perchè è solo ad una persona che consideri sicura di se stessa che affideresti i tuoi rapporti ",
+        "desc": "ALUA’s identity breaks away completely from the dusty, outdated narrative of the insurance sector.\nIt is magnetic, carrying the contagious confidence of someone who walks into a room already knowing how things will unfold, even before they happen. It is not arrogant; it is competent. It has the allure of those who shape events rather than endure them.\n\nALUA embraces a refined, editorial aesthetic, one that places its communication closer to the world of fashion brands than to traditional insurance. For this very reason, while remaining a service accessible to everyone, ALUA is perceived as something exclusive. People choose to insure with us not only for the service we provide, but to enter our circle, to gain status.\n\nThis aesthetic choice is designed to give insurance the identity of a brand that is confident in itself, because it is only to someone who appears truly self-assured that you would entrust your most personal relationships.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nq2gl79o",
-      "x": 17480.973048608408,
-      "y": -2170.149224286468,
+      "x": 17352.973048608408,
+      "y": -338.14922428646787,
       "w": 320,
       "h": 512,
       "group": null,
@@ -4714,8 +4716,8 @@
     },
     {
       "id": "nqph8s1z",
-      "x": 17914.711393179077,
-      "y": -2242.140520328382,
+      "x": 17886.711393179077,
+      "y": -410.1405203283821,
       "w": 320,
       "h": 1268,
       "group": null,
@@ -4780,8 +4782,8 @@
     },
     {
       "id": "nwwdofdn",
-      "x": 17611.260773533584,
-      "y": -2617.8566798419524,
+      "x": 17483.260773533584,
+      "y": -785.8566798419524,
       "w": 320,
       "h": 301,
       "group": null,
@@ -4814,10 +4816,10 @@
     },
     {
       "id": "nvz5kopw",
-      "x": 18271.78887092393,
-      "y": -2713.4422416120406,
+      "x": 18143.78887092393,
+      "y": -881.4422416120406,
       "w": 320,
-      "h": 417,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-12-03",
@@ -4827,9 +4829,9 @@
         "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Administration",
           "Communication",
-          "Brand identity"
+          "Brand identity",
+          "Video"
         ],
         "tags": [],
         "desc": "script: \nImmagina  di poter assicurare ogni tuo legame\ncome la convivènza con il coinquilìno... che sembra marcare il territorio.\ncome i pranzi di famiglia... con la zìa che ti sottopone all’interrogatorio   \ncome l'amìca che al tèrzo bicchière... svela i tuoi segreti più intimi.      \nIl càos emotivo... che divènta contràtto.\nALUA... Agenzìa Legàmi Umàni Assicuràti.",
@@ -4839,14 +4841,14 @@
     },
     {
       "id": "nsivmeyg",
-      "x": 13524.87039070283,
-      "y": 1656.6105474935819,
+      "x": 13350.293063726267,
+      "y": 1544.6765561766335,
       "w": 320,
-      "h": 179,
+      "h": 408,
       "group": null,
       "data": {
         "date": "2025-12-03",
-        "title": "sistema di arduino",
+        "title": "IBI E SCL with Arduino",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -4855,42 +4857,26 @@
           "Electronic system"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Construction of the system component responsible for capturing skin conductance and heart rate.",
         "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nwawe225",
-      "x": 13224.87039070283,
-      "y": 2063.610547493582,
-      "w": 320,
-      "h": 241,
-      "group": null,
-      "data": {
-        "date": "2025-12-03",
-        "title": "elementi della ricerca di gottman per i parametri fisiologici",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [
-          "Insurance",
-          "Public administration",
-          "Science",
-          "Conflict"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "46.jpeg",
+            "size": 80921,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/46.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nf9nyekj",
-      "x": 15302.895455989144,
-      "y": 506.1677999804724,
+      "x": 17360.262589879203,
+      "y": 1399.4263735671968,
       "w": 320,
-      "h": 224,
+      "h": 400,
       "group": null,
       "data": {
         "date": "2025-12-03",
@@ -4905,32 +4891,33 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "EYE.DEAL unione di vari concetti racchiusi nell'esperienza\nEYE perchè ci si guarda negli occhi, DEAL sia perchè ci si stringe la mano come quando si fa un patto e ache perchè la macchina stessa e il contratto che produce è un accordo\n\neye deal tutto insieme quindi fa capire che attraverso l'esperienza di guardarsi si crea un patto, un accordo indelebile ",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nd79m87y",
-      "x": 15263.933612941782,
-      "y": 1398.9275060826787,
+      "x": 14927.933612941782,
+      "y": 862.9275060826787,
       "w": 320,
-      "h": 350,
+      "h": 384,
       "group": null,
       "data": {
         "date": "2025-12-03",
-        "title": "necessità strutturali per l'espoerienza",
+        "title": "Structural requirements for the experience",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Insurance",
-          "Public administration",
-          "Science",
-          "Conflict"
+          "Interaction",
+          "Conflict",
+          "Brand identity",
+          "Spatial design"
         ],
         "tags": [],
-        "desc": "la macchona avrà sicuramentre una zona con i sensori e le leve, una per ogni persona,in orizzonrale. \n le persone poi avranno necessità di essere uno davanti all'altra e avranno necessità di essere isolati dal resto dell'ambiente e poi ci sarà bisogno di luci e suoni che guidano l'esperienza",
+        "desc": "The machine will include a dedicated area with sensors and control levers, one for each participant, arranged horizontally.\nThe participants will then need to stand facing one another, isolated from the surrounding environment.\nThe experience will also require a system of lights and sounds designed to guide and structure the interaction.",
         "links": [],
         "files": []
       }
@@ -4944,7 +4931,7 @@
       "group": null,
       "data": {
         "date": "2025-12-03",
-        "title": "categorie di relazioni",
+        "title": "Categories of relationships",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -4955,121 +4942,1015 @@
           "Experience"
         ],
         "tags": [],
-        "desc": "romantica, familiare, amicale, professionale, di convivenza, di conoscenza",
+        "desc": "Romantic, familial, friendly, professional, cohabitation-based, situational",
         "links": [],
         "files": []
       }
     },
     {
       "id": "njsi8v07",
-      "x": 18880.767599542876,
-      "y": -2893.8930256253802,
+      "x": 18902.81473584783,
+      "y": -1888.9207502006293,
       "w": 320,
-      "h": 224,
+      "h": 687,
       "group": null,
       "data": {
         "date": "2025-12-16",
-        "title": "bagno",
+        "title": "Scene 2: bathroom",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Administration",
+          "Video",
           "Communication",
           "Brand identity"
         ],
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "41.png",
+            "size": 11670606,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/41.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n7hbpilh",
-      "x": 18885.703794066932,
-      "y": -2637.0975158391384,
+      "x": 19240.890006586207,
+      "y": -1887.946014089221,
       "w": 320,
-      "h": 224,
+      "h": 687,
       "group": null,
       "data": {
         "date": "2025-12-16",
-        "title": "pranzo",
+        "title": "Scene 3: dining room",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Administration",
+          "Video",
           "Communication",
           "Brand identity"
         ],
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "42.png",
+            "size": 13434069,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/42.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nhjws1ab",
-      "x": 18876.287123322883,
-      "y": -2376.8705849640132,
+      "x": 18553.11851770057,
+      "y": -1178.0619977341194,
       "w": 320,
-      "h": 224,
+      "h": 690,
       "group": null,
       "data": {
         "date": "2025-12-16",
-        "title": "salotto",
+        "title": "Scene 4: living room",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Administration",
+          "Video",
           "Communication",
           "Brand identity"
         ],
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "43.png",
+            "size": 12530909,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/43.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nnle662v",
-      "x": 18879.90579616935,
-      "y": -3149.4182636982414,
+      "x": 18553.905934452363,
+      "y": -1890.41266323622,
       "w": 320,
-      "h": 224,
+      "h": 690,
       "group": null,
       "data": {
         "date": "2025-12-16",
-        "title": "stampante",
+        "title": "Scene 1: printer",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Administration",
+          "Video",
           "Communication",
           "Brand identity"
         ],
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "40.png",
+            "size": 10384230,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/40.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nlksu4gp",
-      "x": 18849.289959768015,
-      "y": -2128.053307113,
+      "x": 18902.47154363697,
+      "y": -1179.5311786325992,
+      "w": 320,
+      "h": 690,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Scene 5: studio",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Video",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "44.png",
+            "size": 11471550,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/44.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nj0uazxg",
+      "x": 19245.90758415565,
+      "y": -1177.233674095648,
+      "w": 320,
+      "h": 668,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Scene 6: printer",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Communication",
+          "Brand identity",
+          "Video"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "45.png",
+            "size": 9572940,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/45.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nw793eel",
+      "x": 13728.60543814664,
+      "y": 1658.803273028714,
+      "w": 320,
+      "h": 338,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "No IBI",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Electronic system"
+        ],
+        "tags": [],
+        "desc": "Since heart rate sensors are extremely sensitive and difficult to calibrate accurately, we decided not to use them. Any data obtained from these sensors would likely be inaccurate or, at best, approximate. For this reason, the system will focus exclusively on skin conductance measurements, which are considered more reliable and better aligned with the aims of the project.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9lg1sci",
+      "x": 15366.048366875079,
+      "y": 870.283577825666,
+      "w": 320,
+      "h": 1959,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "Brainstorming on the shape of the machine",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "Particular attention will be given to the form of the machine’s external structure, which is designed to isolate the participants from the surrounding environment and focus their attention on the experience.",
+        "links": [],
+        "files": [
+          {
+            "name": "47.jpg",
+            "size": 403971,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/47.jpg"
+          },
+          {
+            "name": "48.jpg",
+            "size": 454905,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/48.jpg"
+          },
+          {
+            "name": "49.jpg",
+            "size": 484664,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/49.jpg"
+          },
+          {
+            "name": "50.jpg",
+            "size": 453496,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/50.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2r6cb43",
+      "x": 15831.468609632222,
+      "y": 1608.8733009552207,
+      "w": 320,
+      "h": 504,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "Indecision between a tubular form and a rectangular form.",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "tubo più immerisvo ma molto più scomodo, isola la testa ma meccanico il movimento per vedere la plancia. rettangolo molto più comodo ma meno isolante ",
+        "links": [],
+        "files": [
+          {
+            "name": "56.JPG",
+            "size": 2546306,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhhsff6m",
+      "x": 16339.883480709243,
+      "y": 1652.4977410295232,
+      "w": 320,
+      "h": 586,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "decisione sulla forma ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "decisione di procedere cpn una struttura rettangolare che comunque isola grazie ai pannelli esterni ma che comunque dia agio di movimento e sia intuitiva ",
+        "links": [],
+        "files": [
+          {
+            "name": "51.png",
+            "size": 1700702,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/51.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "noydlprf",
+      "x": 16802.85454147427,
+      "y": 1410.5027112848054,
+      "w": 320,
+      "h": 437,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "forma della plancia ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "foto 1 render",
+        "links": [],
+        "files": [
+          {
+            "name": "52.png",
+            "size": 616854,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/52.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njbz906l",
+      "x": 16785.167234140266,
+      "y": 2031.7900534774285,
+      "w": 320,
+      "h": 350,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "inserimento del gesto di stringersi la mano",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "per dare ancora più importanza alla fase dello sguardo abbiamo voluto aggiugere un altro gesto che si fa per dare via al tempo di sguardo, strimngersi la mano destra durante il minuto. Da senso di collegamernto ma anche di obbligo a rimanere li. Il tocco aggiunge emozione positiva e negativa ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n6qaz4vx",
+      "x": 17200.738133053233,
+      "y": 1954.1870737401314,
+      "w": 320,
+      "h": 270,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "modifica della posizione dei vari elementi della plancia e aggiunta di un supporto per stringersi la mano",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ns7zf6ff",
+      "x": 17264.70076497084,
+      "y": 2369.127369865645,
+      "w": 320,
+      "h": 384,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "possibilità di aggiungere musica",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "dato che le persone si toccano con ulteriori sensori si può recepire la capacità elettrica delle due persone aggiungendo due placche metalliche che bisogna toccare mentre ci si tiene la mano. questa aggiunta ci da la possibilità di aggiungere una musica di sottofondo che renda ancorsa pià immersiva l'eperienxa e che possa anche cambiare valori e suoni in base a come cambiano i valori della capacitìà",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nuc3mlcc",
+      "x": 17688.70076497084,
+      "y": 2433.127369865645,
+      "w": 320,
+      "h": 686,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "script dei comandi audio ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "1. Benvenuti al servizio eyedeal di alua\n2. Eyedeal è progettata per stipulare il vostro contratto assicurativo sulla base della vostra affinità interpersonale\n3. Per prima cosa ognuno selezioni, utilizzando i bottoni, i tipi di relazione che vi uniscono\n4. Il tempo per la selezione sta per finire\n4.1. suono DADANNN\n5. Adesso definite l’intensità del vostro rapporto tramite lo slider sulla vostra destra.\n6. il tempo per la selezione sta per finire\n6.1 suono dadannn\n7. Sta per iniziare la fase di valutazione biometrica che durerà 60 secondi \n8. Appoggiate la mano  sul sensore alla vostra sinistra.\n9. Ora guardatevi negli occhi in silenzio.\n10. Per avviare il minuto di analisi, stringetevi la mano destra appoggiando il polso sul supporto al centro.\n11. Mantenete lo sguardo\n12. Manca poco alla fine dell’analisi\n12.1 suono DADANNN\n13. La rilevazione biometrica è terminata, potete togliere le mani dai sensori.\n14. Il vostro contratto è in stampa, ritiratelo all’esterno della struttura.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n57q8b7u",
+      "x": 18085.540916735692,
+      "y": 1090.8537215346637,
+      "w": 320,
+      "h": 1417,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "costruzione struttura in metallo",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "con profili di alluminio angolari e piatti da 4 cm è stata costruita la struttura che poi conterrà la macchina e che poi verrà completata da pareti di plexiglass\n\ndimensioni: \naltezza: 200 cm\nlarghezza: 70 cm\nprofondità: 150 cm dove ogni 50 cm c'è una linea di divisione \naltezza dell'appoggio per la macchina: 80 cm",
+        "links": [],
+        "files": [
+          {
+            "name": "53.jpeg",
+            "size": 98744,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/53.jpg"
+          },
+          {
+            "name": "54.jpeg",
+            "size": 59316,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/54.jpg"
+          },
+          {
+            "name": "55.jpeg",
+            "size": 96665,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/55.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nu1qkjm1",
+      "x": 18464.52334976993,
+      "y": 1315.5753603354374,
+      "w": 320,
+      "h": 1195,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "costruzione della plancia ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "prototipo in legno con costruzione dell'ingombro della plancia con presenza di un cassetto dove si porranno tutta la componentistica elettronica necessaria \n\naltezza: 20 cm \nlarghezza: 70 cm\nprofondità: 50 cm \naltezza divisorio: 20 cm\n",
+        "links": [],
+        "files": [
+          {
+            "name": "57.jpeg",
+            "size": 61000,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/57.jpg"
+          },
+          {
+            "name": "58.JPG",
+            "size": 3568392,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/58.jpg"
+          },
+          {
+            "name": "59.jpeg",
+            "size": 186099,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n51095ca",
+      "x": 10143.685839503982,
+      "y": 315.0217392117361,
+      "w": 320,
+      "h": 149,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Science",
+          "Sociology"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnr23qj8",
+      "x": 18904.559641976757,
+      "y": 1051.5753603354374,
+      "w": 320,
+      "h": 749,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "montaggio delle due parti insieme",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "60.JPG",
+            "size": 2038103,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/60.jpg"
+          },
+          {
+            "name": "61.JPG",
+            "size": 2519090,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/61.jpg"
+          },
+          {
+            "name": "62.JPG",
+            "size": 2814142,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/62.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrpqs3at",
+      "x": 18345.326110912578,
+      "y": 613.0483600166549,
+      "w": 320,
+      "h": 260,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "Typographic palette",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Communication",
+          "Brand identity"
+        ],
+        "tags": [],
+        "desc": "Neue Haas Grotesk \nBergen Mono",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nm5yes67",
+      "x": 16682.01210562609,
+      "y": 2956.446440885083,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "calolo della percentuale di affinità",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nq4mc3vh",
+      "x": 17259.28769166734,
+      "y": 3125.585696887299,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "fasce di rischio",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8lorgq9",
+      "x": 16730.825775393707,
+      "y": 3983.377959585163,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "clausole",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n05ougjl",
+      "x": 17201.47933891292,
+      "y": 4699.883790173278,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "parte fissa",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncptzb23",
+      "x": 17588.803325799294,
+      "y": 3372.0306034591495,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "id ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n39s50vi",
+      "x": 16783.218211242907,
+      "y": 3453.2135994997157,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "frase",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8erxgvo",
+      "x": 17219.50429029799,
+      "y": 3703.007433470688,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "qr code",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n485afqa",
+      "x": 17943.335711069172,
+      "y": 3911.6351774671416,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "app",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9z5767h",
+      "x": 18150.714908408256,
+      "y": 3216.150054757927,
+      "w": 320,
+      "h": 552,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "grafica",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "63.png",
+            "size": 226710,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/63.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nm3j6b5m",
+      "x": 17210.825775393707,
+      "y": 3983.377959585163,
+      "w": 320,
+      "h": 621,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "grafica",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "64.png",
+            "size": 456783,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/64.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ndq5cuui",
+      "x": 17656.43485248553,
+      "y": 4265.763413372142,
+      "w": 320,
+      "h": 1037,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "grafica",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "65.png",
+            "size": 235757,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/65.jpg"
+          },
+          {
+            "name": "66.png",
+            "size": 326779,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/66.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9pmymc9",
+      "x": 18499.301060564354,
+      "y": 1042.9324464008148,
+      "w": 320,
+      "h": 350,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "montaggio arduino con tutte le componenti",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
+        ],
+        "tags": [],
+        "desc": "- funzionamento audio e timing\n- funzionamento bottoni\n- funzionamento slider \n- funzionamento sensori SCL\n- funzionamento sensori capacità\n- funzionamento stampante",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbaom5hm",
+      "x": 19882.711393179077,
+      "y": -273.50225897047676,
       "w": 320,
       "h": 224,
       "group": null,
       "data": {
-        "date": "2025-12-16",
-        "title": "studio",
+        "date": "2025-12-17",
+        "title": "poster",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
@@ -5086,15 +5967,15 @@
       }
     },
     {
-      "id": "nj0uazxg",
-      "x": 18849.289959768015,
-      "y": -1864.0533071129998,
+      "id": "ng5d2oc2",
+      "x": 19910.711393179077,
+      "y": 614.4977410295232,
       "w": 320,
       "h": 224,
       "group": null,
       "data": {
-        "date": "2025-12-16",
-        "title": "stampante",
+        "date": "2025-12-17",
+        "title": "invito",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
@@ -6788,11 +7669,6 @@
       "dashed": false
     },
     {
-      "s": "nd82ii6y",
-      "t": "nwawe225",
-      "dashed": false
-    },
-    {
       "s": "nf1uuft5",
       "t": "nf9nyekj",
       "dashed": false
@@ -6863,16 +7739,6 @@
       "dashed": false
     },
     {
-      "s": "nwawe225",
-      "t": "n39vcv05",
-      "dashed": false
-    },
-    {
-      "s": "nwawe225",
-      "t": "nx7uyrcr",
-      "dashed": false
-    },
-    {
       "s": "n39vcv05",
       "t": "n39nwkle",
       "dashed": false
@@ -6906,52 +7772,318 @@
       "s": "nvz5kopw",
       "t": "nj0uazxg",
       "dashed": false
+    },
+    {
+      "s": "nsivmeyg",
+      "t": "nw793eel",
+      "dashed": false
+    },
+    {
+      "s": "nd79m87y",
+      "t": "n9lg1sci",
+      "dashed": false
+    },
+    {
+      "s": "nd79m87y",
+      "t": "n2r6cb43",
+      "dashed": false
+    },
+    {
+      "s": "n9lg1sci",
+      "t": "n2r6cb43",
+      "dashed": false
+    },
+    {
+      "s": "n2r6cb43",
+      "t": "nhhsff6m",
+      "dashed": false
+    },
+    {
+      "s": "nhhsff6m",
+      "t": "noydlprf",
+      "dashed": false
+    },
+    {
+      "s": "nhhsff6m",
+      "t": "njbz906l",
+      "dashed": false
+    },
+    {
+      "s": "njbz906l",
+      "t": "n6qaz4vx",
+      "dashed": false
+    },
+    {
+      "s": "noydlprf",
+      "t": "n6qaz4vx",
+      "dashed": false
+    },
+    {
+      "s": "njbz906l",
+      "t": "ns7zf6ff",
+      "dashed": false
+    },
+    {
+      "s": "nd79m87y",
+      "t": "ns7zf6ff",
+      "dashed": false
+    },
+    {
+      "s": "ns7zf6ff",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "nhhsff6m",
+      "t": "n57q8b7u",
+      "dashed": false
+    },
+    {
+      "s": "njbz906l",
+      "t": "n57q8b7u",
+      "dashed": false
+    },
+    {
+      "s": "n6qaz4vx",
+      "t": "nu1qkjm1",
+      "dashed": false
+    },
+    {
+      "s": "nhhsff6m",
+      "t": "nu1qkjm1",
+      "dashed": false
+    },
+    {
+      "s": "nvub86c3",
+      "t": "n51095ca",
+      "dashed": false
+    },
+    {
+      "s": "nu1qkjm1",
+      "t": "nnr23qj8",
+      "dashed": false
+    },
+    {
+      "s": "n57q8b7u",
+      "t": "nnr23qj8",
+      "dashed": false
+    },
+    {
+      "s": "njbz906l",
+      "t": "nf9nyekj",
+      "dashed": false
+    },
+    {
+      "s": "nqph8s1z",
+      "t": "noydlprf",
+      "dashed": false
+    },
+    {
+      "s": "nqph8s1z",
+      "t": "nhhsff6m",
+      "dashed": false
+    },
+    {
+      "s": "nbz8jxeo",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "nbz8jxeo",
+      "t": "nf9nyekj",
+      "dashed": false
+    },
+    {
+      "s": "nqph8s1z",
+      "t": "nrpqs3at",
+      "dashed": false
+    },
+    {
+      "s": "nbz8jxeo",
+      "t": "nrpqs3at",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "nm5yes67",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "nq4mc3vh",
+      "dashed": false
+    },
+    {
+      "s": "nm5yes67",
+      "t": "nq4mc3vh",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "n8lorgq9",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "n05ougjl",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "ncptzb23",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "n39s50vi",
+      "dashed": false
+    },
+    {
+      "s": "n39s50vi",
+      "t": "n8erxgvo",
+      "dashed": false
+    },
+    {
+      "s": "n8erxgvo",
+      "t": "ncptzb23",
+      "dashed": false
+    },
+    {
+      "s": "n8erxgvo",
+      "t": "n485afqa",
+      "dashed": false
+    },
+    {
+      "s": "nm5yes67",
+      "t": "n9z5767h",
+      "dashed": false
+    },
+    {
+      "s": "nq4mc3vh",
+      "t": "n9z5767h",
+      "dashed": false
+    },
+    {
+      "s": "ncptzb23",
+      "t": "n9z5767h",
+      "dashed": false
+    },
+    {
+      "s": "n39s50vi",
+      "t": "n9z5767h",
+      "dashed": false
+    },
+    {
+      "s": "n8erxgvo",
+      "t": "n9z5767h",
+      "dashed": false
+    },
+    {
+      "s": "n8lorgq9",
+      "t": "nm3j6b5m",
+      "dashed": false
+    },
+    {
+      "s": "n05ougjl",
+      "t": "ndq5cuui",
+      "dashed": false
+    },
+    {
+      "s": "nhhsff6m",
+      "t": "n9pmymc9",
+      "dashed": false
+    },
+    {
+      "s": "n6qaz4vx",
+      "t": "n9pmymc9",
+      "dashed": false
+    },
+    {
+      "s": "n9pmymc9",
+      "t": "nnr23qj8",
+      "dashed": false
+    },
+    {
+      "s": "nd2u8w6i",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "nf6wd9qs",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "n6naot6q",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "nx7uyrcr",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "n39vcv05",
+      "t": "nuc3mlcc",
+      "dashed": false
+    },
+    {
+      "s": "nqph8s1z",
+      "t": "nbaom5hm",
+      "dashed": false
+    },
+    {
+      "s": "nqph8s1z",
+      "t": "ng5d2oc2",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Cinema",
-      "Sociology",
-      "Literature",
-      "Administration",
-      "Power",
-      "Envirionment",
-      "Philosophy",
-      "Design research",
       "Spatial design",
-      "Critical design",
-      "Cultural studies",
-      "Media studies",
-      "Hystory",
-      "Communication",
-      "Law",
-      "Socio-political",
-      "Identity",
       "Brand identity",
-      "Insurance",
-      "Public administration",
-      "Science",
       "Conflict",
-      "Electronic system",
+      "Science",
       "Interaction",
-      "Experience"
+      "Sociology",
+      "Video",
+      "Experience",
+      "Electronic system",
+      "Public administration",
+      "Insurance",
+      "Identity",
+      "Socio-political",
+      "Law",
+      "Communication",
+      "Hystory",
+      "Media studies",
+      "Cultural studies",
+      "Critical design",
+      "Design research",
+      "Philosophy",
+      "Envirionment",
+      "Power",
+      "Administration",
+      "Literature",
+      "Cinema"
     ],
     "tags": [
-      "Feelings",
-      "Emotion",
-      "Social tension",
-      "Opposition",
-      "Conflict",
+      "Power abuse",
       "Corruption",
-      "Power abuse"
+      "Conflict",
+      "Opposition",
+      "Social tension",
+      "Emotion",
+      "Feelings"
     ],
     "type": [
+      "Source",
       "Concept",
       "Collection",
-      "Brief",
+      "Observation",
       "Feedback",
-      "Source",
-      "Observation"
+      "Brief"
     ]
   }
 }
