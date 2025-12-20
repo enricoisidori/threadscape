@@ -3393,46 +3393,6 @@
       }
     },
     {
-      "id": "n1oeqkru",
-      "x": 40,
-      "y": 40,
-      "w": 320,
-      "h": 238,
-      "group": null,
-      "data": {
-        "date": "2025-11-21",
-        "title": "revisione",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "più caratterizzazione prodotto per rendere estremamente evidente provocazione, che può passare anche attraverso logotipo prodotto. ",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "npqdn3gz",
-      "x": 40,
-      "y": 40,
-      "w": 320,
-      "h": 238,
-      "group": null,
-      "data": {
-        "date": "2025-11-21",
-        "title": "revisione",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "più caratterizzazione prodotto per rendere estremamente evidente provocazione, che può passare anche attraverso logotipo prodotto. ",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "nnvzao9n",
       "x": 28185.12926402898,
       "y": 1116.8226588061832,
@@ -3699,26 +3659,6 @@
             "path": "assets/Screenshot_2025-11-26_171526.jpg"
           }
         ]
-      }
-    },
-    {
-      "id": "n8xgy3lc",
-      "x": 40,
-      "y": 40,
-      "w": 320,
-      "h": 174,
-      "group": null,
-      "data": {
-        "date": "2025-10-31",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "nuove identità visive più oniriche e meno organiche",
-        "links": [],
-        "files": []
       }
     },
     {
@@ -4487,6 +4427,630 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-11-27_163321.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nt6yneoh",
+      "x": 29422.82022608658,
+      "y": 2909.4472006097576,
+      "w": 320,
+      "h": 586,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "additional logo rework",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Digital aesthetics",
+          "Design research"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 164250.png",
+            "size": 163332,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_164250.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-16 164235.png",
+            "size": 1539999,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_164235.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmu0rokr",
+      "x": 30911.973728203517,
+      "y": 1495.7819752559772,
+      "w": 320,
+      "h": 780,
+      "group": null,
+      "data": {
+        "date": "2025-11-27",
+        "title": "Prototyping and sizing",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction",
+          "Brain interfaces",
+          "Cognitive science"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 164343.png",
+            "size": 1280672,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_164343.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhswaq6m",
+      "x": 31191.09315492615,
+      "y": 985.8433599073066,
+      "w": 320,
+      "h": 446,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Circuit with speakers",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Cognitive science",
+          "Brain interfaces",
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 164622.png",
+            "size": 3518975,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_164622.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ng8moudc",
+      "x": 31698.11219108137,
+      "y": 1839.333870031359,
+      "w": 320,
+      "h": 608,
+      "group": null,
+      "data": {
+        "date": "2025-11-28",
+        "title": "Shoulder cutting tests",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction",
+          "Design research"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 164800.png",
+            "size": 701183,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_164800.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nre4u0sx",
+      "x": 32777.828172366004,
+      "y": 1376.13213438826,
+      "w": 320,
+      "h": 790,
+      "group": null,
+      "data": {
+        "date": "2025-11-29",
+        "title": "Screw selection",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 165326.png",
+            "size": 1281681,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_165326.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2iouhmn",
+      "x": 32435.37148345601,
+      "y": 2179.049851315991,
+      "w": 320,
+      "h": 924,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "3D-printed helmet",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 165102.png",
+            "size": 1016716,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_165102.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-16 165143.png",
+            "size": 946793,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_165143.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n72nvtp2",
+      "x": 30281.349500834567,
+      "y": 3129.7194107211562,
+      "w": 320,
+      "h": 341,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "logos updates",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 165227.png",
+            "size": 1098241,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_165227.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "no0bf05r",
+      "x": 32925.34950083456,
+      "y": 2377.7194107211562,
+      "w": 320,
+      "h": 572,
+      "group": null,
+      "data": {
+        "date": "2025-12-10",
+        "title": "Plexiglass cuts",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 165621.png",
+            "size": 393324,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_165621.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "niulwyrx",
+      "x": 31189.152807299313,
+      "y": 2590.443484331183,
+      "w": 320,
+      "h": 193,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "nuovo teaser ",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research",
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nt2lrypk",
+      "x": 30353.032421119166,
+      "y": 2196.1007087812254,
+      "w": 320,
+      "h": 386,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "Historical-themed teaser",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Society studies",
+          "Digital aesthetics",
+          "Communication",
+          "Media studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-19 alle 17.13.52.png",
+            "size": 59074,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-19_alle_17.13.52.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngbtgxg8",
+      "x": 33217.59573114303,
+      "y": 544.3254761960586,
+      "w": 320,
+      "h": 921,
+      "group": null,
+      "data": {
+        "date": "2025-12-10",
+        "title": "Problems with Arduino and moving to Raspberry",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "During the ongoing development phase, work continued on the Arduino-based code. However, it was determined that the Arduino board's processing capacity was insufficient to simultaneously support the operation of four sensors while maintaining high-quality audio output.\n\nFollowing a consultation with the project's code supervisor, the decision was made to migrate the system's hardware platform. The Arduino board was replaced with a Raspberry Pi 3B+ to meet the required computational and audio processing specifications.\n\nConsequently, all software development has recommenced from the initial stage, utilizing a programming language appropriate for the new platform.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 165927.png",
+            "size": 1013677,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_165927.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njfbluv4",
+      "x": 33428.41853926024,
+      "y": 2533.255370970786,
+      "w": 320,
+      "h": 1076,
+      "group": null,
+      "data": {
+        "date": "2025-12-13",
+        "title": "Finished 3D model",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 170038.png",
+            "size": 161605,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_170038.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-16 170159.png",
+            "size": 355825,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_170159.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-16 170138.png",
+            "size": 1437708,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_170138.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-16 170126.png",
+            "size": 1341249,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_170126.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nyt6tmov",
+      "x": 31982.960273904304,
+      "y": 3615.6692582266323,
+      "w": 320,
+      "h": 400,
+      "group": null,
+      "data": {
+        "date": "2025-12-12",
+        "title": "new website (+ responsive) and app",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Digital aesthetics",
+          "Design research",
+          "Human-computer interaction",
+          "Media studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-19 alle 17.24.34.png",
+            "size": 857268,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-19_alle_17.24.34.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nct6x61s",
+      "x": 33082.960273904304,
+      "y": 3775.6692582266323,
+      "w": 320,
+      "h": 410,
+      "group": null,
+      "data": {
+        "date": "2025-12-14",
+        "title": "new social layout",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Digital aesthetics",
+          "Communication",
+          "Design research",
+          "Media studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-19 alle 17.25.10.png",
+            "size": 980540,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-19_alle_17.25.10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntyxn24t",
+      "x": 34022.71191200073,
+      "y": 2066.9275349361205,
+      "w": 320,
+      "h": 425,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Prototype",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-19 alle 17.32.07.png",
+            "size": 4267626,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-19_alle_17.32.07.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nub05f5i",
+      "x": 34530.71191200073,
+      "y": 2086.9275349361205,
+      "w": 320,
+      "h": 468,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "Prototype build",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-19 alle 17.32.18.png",
+            "size": 2698083,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-19_alle_17.32.18.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njzv25ja",
+      "x": 33916.284793465245,
+      "y": 945.3098509420827,
+      "w": 320,
+      "h": 416,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "Raspberry Pi coding",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "e623ef20-a7b2-4f58-9053-78cd1552a358.JPG",
+            "size": 500414,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/e623ef20-a7b2-4f58-9053-78cd1552a358.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nx6l8i6t",
+      "x": 34306.960273904304,
+      "y": 3427.6692582266323,
+      "w": 320,
+      "h": 879,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "User manual",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Digital aesthetics",
+          "Communication",
+          "Design research",
+          "Media studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-19 alle 17.36.10.png",
+            "size": 1440595,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-19_alle_17.36.10.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-19 alle 17.37.00.png",
+            "size": 147062,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-19_alle_17.37.00.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-19 alle 17.36.53.png",
+            "size": 173767,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-19_alle_17.36.53.jpg"
           }
         ]
       }
@@ -5442,56 +6006,156 @@
       "s": "nmvgfitc",
       "t": "n8f7gtqz",
       "dashed": false
+    },
+    {
+      "s": "nmvgfitc",
+      "t": "nt6yneoh",
+      "dashed": false
+    },
+    {
+      "s": "nbtny3e9",
+      "t": "nmu0rokr",
+      "dashed": false
+    },
+    {
+      "s": "nnvzao9n",
+      "t": "nhswaq6m",
+      "dashed": false
+    },
+    {
+      "s": "nmu0rokr",
+      "t": "ng8moudc",
+      "dashed": false
+    },
+    {
+      "s": "ng8moudc",
+      "t": "nre4u0sx",
+      "dashed": false
+    },
+    {
+      "s": "ng8moudc",
+      "t": "n2iouhmn",
+      "dashed": false
+    },
+    {
+      "s": "nt6yneoh",
+      "t": "n72nvtp2",
+      "dashed": false
+    },
+    {
+      "s": "n2iouhmn",
+      "t": "no0bf05r",
+      "dashed": false
+    },
+    {
+      "s": "n8f7gtqz",
+      "t": "nt2lrypk",
+      "dashed": false
+    },
+    {
+      "s": "nhswaq6m",
+      "t": "ngbtgxg8",
+      "dashed": false
+    },
+    {
+      "s": "no0bf05r",
+      "t": "njfbluv4",
+      "dashed": false
+    },
+    {
+      "s": "n72nvtp2",
+      "t": "njfbluv4",
+      "dashed": false
+    },
+    {
+      "s": "n72nvtp2",
+      "t": "nyt6tmov",
+      "dashed": false
+    },
+    {
+      "s": "nyt6tmov",
+      "t": "nct6x61s",
+      "dashed": false
+    },
+    {
+      "s": "nt2lrypk",
+      "t": "niulwyrx",
+      "dashed": false
+    },
+    {
+      "s": "nre4u0sx",
+      "t": "ntyxn24t",
+      "dashed": false
+    },
+    {
+      "s": "njfbluv4",
+      "t": "ntyxn24t",
+      "dashed": false
+    },
+    {
+      "s": "ntyxn24t",
+      "t": "nub05f5i",
+      "dashed": false
+    },
+    {
+      "s": "ngbtgxg8",
+      "t": "njzv25ja",
+      "dashed": false
+    },
+    {
+      "s": "nct6x61s",
+      "t": "nx6l8i6t",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Design research",
-      "Brain interfaces",
       "Human-computer interaction",
-      "Digital aesthetics",
-      "Society studies",
-      "Communication",
-      "Cognitive science",
+      "Design research",
       "Media studies",
-      "Socio-political",
-      "Critical design",
-      "Neuroscience",
-      "Anthropology",
-      "Archeoacustics",
+      "Communication",
+      "Digital aesthetics",
+      "Cognitive science",
+      "Brain interfaces",
+      "Society studies",
+      "Critical theory",
       "Japanese aesthetics",
-      "Critical theory"
+      "Archeoacustics",
+      "Anthropology",
+      "Neuroscience",
+      "Critical design",
+      "Socio-political"
     ],
     "tags": [
-      "Sea",
-      "Shell",
-      "Organic",
-      "Y2k",
-      "Technological optimism",
-      "Protection",
-      "White noise",
-      "Confrontation",
-      "Swiss design",
-      "Disturbing",
-      "Sound",
-      "Calming",
-      "Opaque film",
-      "Output",
-      "Branding",
-      "Blur",
+      "Grotesque typography",
       "Isolation",
-      "Grotesque typography"
+      "Blur",
+      "Branding",
+      "Output",
+      "Opaque film",
+      "Calming",
+      "Sound",
+      "Disturbing",
+      "Swiss design",
+      "Confrontation",
+      "White noise",
+      "Protection",
+      "Technological optimism",
+      "Y2k",
+      "Organic",
+      "Shell",
+      "Sea"
     ],
     "type": [
       "Output",
-      "Decision",
-      "Concept",
-      "Feedback",
-      "Finding",
-      "Collection",
       "Sketch",
+      "Concept",
+      "Finding",
+      "Brief",
       "Source",
-      "Brief"
+      "Collection",
+      "Feedback",
+      "Decision"
     ]
   }
 }
