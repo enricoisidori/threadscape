@@ -2943,7 +2943,7 @@
       "x": 24312.19035849313,
       "y": 2242.884472104166,
       "w": 320,
-      "h": 538,
+      "h": 780,
       "group": null,
       "data": {
         "date": "2025-12-01",
@@ -2971,6 +2971,14 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Immagine_01-12-25_-_15.03.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-23 alle 22.58.42.png",
+            "size": 180721,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_alle_22.58.42.jpg"
           }
         ]
       }
@@ -3001,8 +3009,8 @@
     },
     {
       "id": "nkbjyzxg",
-      "x": 24327.778441622846,
-      "y": 2928.0360470496025,
+      "x": 24316.87267290589,
+      "y": 3085.6739766855776,
       "w": 320,
       "h": 210,
       "group": null,
@@ -3046,7 +3054,7 @@
       "x": 26477.640047971214,
       "y": 1611.4929553407158,
       "w": 320,
-      "h": 830,
+      "h": 831,
       "group": null,
       "data": {
         "date": "2025-12-06",
@@ -3142,20 +3150,20 @@
     },
     {
       "id": "nha02nie",
-      "x": 26951.415582505233,
+      "x": 26950.28493558849,
       "y": 1848.7590568801295,
       "w": 320,
-      "h": 597,
+      "h": 678,
       "group": null,
       "data": {
         "date": "2025-12-09",
-        "title": "",
+        "title": "Communication machine updates- connecting arduino",
         "type": "",
         "action": null,
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "aaa",
+        "desc": "Connecting the first cables to the Arduino (in particular the LEDs), routing them through the 3D-printed parts.",
         "links": [],
         "files": [
           {
@@ -3171,36 +3179,36 @@
     },
     {
       "id": "nsjsal9l",
-      "x": 27513.202404609554,
-      "y": 2317.7370970326647,
+      "x": 27705.64706552007,
+      "y": 1720.1376934572431,
       "w": 320,
-      "h": 141,
+      "h": 227,
       "group": null,
       "data": {
-        "date": "2025-12-09",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
+        "date": "2025-12-10",
+        "title": "Review",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
         "areas": [
           "Review"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Short review on comunication machine updates and data visualization animation",
         "links": [],
         "files": []
       }
     },
     {
       "id": "n3xrlykx",
-      "x": 26946.92000208483,
+      "x": 26946.097607888023,
       "y": 2678.8013662872872,
       "w": 320,
-      "h": 141,
+      "h": 171,
       "group": null,
       "data": {
         "date": "2025-12-09",
-        "title": "",
+        "title": "Teaser update",
         "type": "",
         "action": null,
         "mainArea": null,
@@ -3209,6 +3217,384 @@
         ],
         "tags": [],
         "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nghqm8tk",
+      "x": 29854.60760289756,
+      "y": 1775.9442389139267,
+      "w": 320,
+      "h": 1412,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "Presentation",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "For this presentation, we bring:\n– a defined concept and identity\n– communication materials: finalized posters and various applications, with the exception of the website\n– the communicative machine: fully functional from a technical standpoint, but still to be completed from an aesthetic point of view",
+        "links": [],
+        "files": [
+          {
+            "name": "#10-ecologico-presentazione-19122025.pdf",
+            "size": 11411668,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/#10-ecologico-presentazione-19122025.pdf"
+          },
+          {
+            "name": "IMG_6215.jpeg",
+            "size": 2882821,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_6215.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-23 alle 22.36.50.png",
+            "size": 1441842,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_alle_22.36.50.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-23 alle 22.37.06.png",
+            "size": 819573,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_alle_22.37.06.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nv04vw6t",
+      "x": 30384.592663324496,
+      "y": 1929.073675562934,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "Review post presentation",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "The presentation went well, but it could be slightly improved.\n\nThe communicative machine is fine, but the lens animations and the overall interaction need to be enhanced, as they currently feel a bit mechanical.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nrpjy1cr",
+      "x": 26949.238026574454,
+      "y": 2922.49327023395,
+      "w": 320,
+      "h": 355,
+      "group": null,
+      "data": {
+        "date": "2025-12-11",
+        "title": "Data visualization updates",
+        "type": "",
+        "action": null,
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Storyboard for the future data animation (esempi in allegato)",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-23 alle 23.02.20.png",
+            "size": 295263,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_alle_23.02.20.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-23 alle 23.32.51.png",
+            "size": 276721,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_alle_23.32.51.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-23 alle 23.33.19.png",
+            "size": 153939,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_alle_23.33.19.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2uonbx0",
+      "x": 28550.092663134328,
+      "y": 628.1788002785297,
+      "w": 320,
+      "h": 702,
+      "group": null,
+      "data": {
+        "date": "2025-12-14",
+        "title": "Communication machine updates",
+        "type": "",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Review"
+        ],
+        "tags": [],
+        "desc": "We continue 3D printing the parts needed for assembly.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_6161.jpeg",
+            "size": 2298126,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_6161.jpg"
+          },
+          {
+            "name": "IMG_6155.jpeg",
+            "size": 3992425,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_6155.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n6ly1lz4",
+      "x": 28545.38560222714,
+      "y": 1371.9652327809004,
+      "w": 320,
+      "h": 1029,
+      "group": null,
+      "data": {
+        "date": "2025-12-15",
+        "title": "Communication machine updates",
+        "type": "",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "We install the first sensors and cables.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_6168.jpeg",
+            "size": 3539497,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_6168.jpg"
+          },
+          {
+            "name": "IMG_6176.jpeg",
+            "size": 2447396,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_6176.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nr49amco",
+      "x": 29175.902817078786,
+      "y": 705.3333150127705,
+      "w": 320,
+      "h": 1758,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "Communication machina updates",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Starting from the leaves at the top, we assemble the tree and progressively install the LEDs and Hall sensors, connecting the appropriate cables and routing them through the designated channels.\n\nFinally, we install the RFID reader located in the trunk and connect it to Arduino and TouchDesigner.\n\nThe LEDs are also connected to a dedicated power supply to ensure proper current flow.\n\nWe also connect the lens to the PC via an HDMI cable.\n\nEverything works.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_6171.jpeg",
+            "size": 2566211,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_6171.jpg"
+          },
+          {
+            "name": "8762B7A9-B474-4B27-9651-0074A08C3CAE.jpg",
+            "size": 2714312,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/8762B7A9-B474-4B27-9651-0074A08C3CAE.jpg"
+          },
+          {
+            "name": "C217BFB9-F3BF-4FF7-ADED-D192DA5FF2CC.jpg",
+            "size": 1555123,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/C217BFB9-F3BF-4FF7-ADED-D192DA5FF2CC.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nw4tuz97",
+      "x": 29191.522493811313,
+      "y": 3078.653058626532,
+      "w": 320,
+      "h": 535,
+      "group": null,
+      "data": {
+        "date": "2025-12-18",
+        "title": "Communication updates - poster",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Various printouts and minor corrections to the posters.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-23 at 22.43.09.jpeg",
+            "size": 171539,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-23_at_22.43.09.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "niipvw5s",
+      "x": 28545.139558268682,
+      "y": 2423.370407464041,
+      "w": 320,
+      "h": 1329,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Communication machine updates",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Cutting a small wooden cube, which will be inserted into the dedicated housing where an identification sticker for the RFID sensor is attached.",
+        "links": [],
+        "files": [
+          {
+            "name": "813971C1-7B64-4EEA-A93F-06EDB2844B77.jpg",
+            "size": 1316862,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/813971C1-7B64-4EEA-A93F-06EDB2844B77.jpg"
+          },
+          {
+            "name": "C3C8D9A8-E3B6-4C17-9787-60C217CD3D09.jpg",
+            "size": 1506486,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/C3C8D9A8-E3B6-4C17-9787-60C217CD3D09.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nw56a7cu",
+      "x": 30919.659409238735,
+      "y": 1819.7006546577413,
+      "w": 320,
+      "h": 745,
+      "group": null,
+      "data": {
+        "date": "2025-12-20",
+        "title": "Christmas break",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "We’ll take a few days’ break before enhancing the project.\nNext steps will be:\n– Strengthening the physical prototype: improving the 3D model, cables, and interaction\n– Integrating sensors with the eight types of wood\n– Developing the digital ecosystem: aligning the physical experience with the online experience",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_6223.jpeg",
+            "size": 2709760,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_6223.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7hjht7p",
+      "x": 27877.412019454365,
+      "y": 3167.493571737496,
+      "w": 320,
+      "h": 227,
+      "group": null,
+      "data": {
+        "date": "2025-12-11",
+        "title": "Teaser update",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Teaser update"
+        ],
+        "tags": [],
+        "desc": "Some videos have been regenerated and replaced, and several texts have been refined and improved.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nr3v0ghl",
+      "x": 27890.662519585458,
+      "y": 3459.8401904944394,
+      "w": 320,
+      "h": 210,
+      "group": null,
+      "data": {
+        "date": "2025-12-12",
+        "title": "Communication update - Data visualization",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "Data animation (using after effects)",
         "links": [],
         "files": []
       }
@@ -4069,35 +4455,130 @@
       "s": "nef1wg2c",
       "t": "n3xrlykx",
       "dashed": false
+    },
+    {
+      "s": "nha02nie",
+      "t": "nsjsal9l",
+      "dashed": false
+    },
+    {
+      "s": "n3xrlykx",
+      "t": "nsjsal9l",
+      "dashed": false
+    },
+    {
+      "s": "nm9pf96g",
+      "t": "nrpjy1cr",
+      "dashed": false
+    },
+    {
+      "s": "nrpjy1cr",
+      "t": "nsjsal9l",
+      "dashed": false
+    },
+    {
+      "s": "nha02nie",
+      "t": "n2uonbx0",
+      "dashed": false
+    },
+    {
+      "s": "nha02nie",
+      "t": "n6ly1lz4",
+      "dashed": false
+    },
+    {
+      "s": "n2uonbx0",
+      "t": "nr49amco",
+      "dashed": false
+    },
+    {
+      "s": "n6ly1lz4",
+      "t": "nr49amco",
+      "dashed": false
+    },
+    {
+      "s": "nr49amco",
+      "t": "nghqm8tk",
+      "dashed": false
+    },
+    {
+      "s": "nghqm8tk",
+      "t": "nv04vw6t",
+      "dashed": false
+    },
+    {
+      "s": "nha02nie",
+      "t": "niipvw5s",
+      "dashed": false
+    },
+    {
+      "s": "niipvw5s",
+      "t": "nghqm8tk",
+      "dashed": false
+    },
+    {
+      "s": "nv0x08ia",
+      "t": "nw4tuz97",
+      "dashed": false
+    },
+    {
+      "s": "n3xrlykx",
+      "t": "n7hjht7p",
+      "dashed": false
+    },
+    {
+      "s": "nrpjy1cr",
+      "t": "nr3v0ghl",
+      "dashed": false
+    },
+    {
+      "s": "nv04vw6t",
+      "t": "nw56a7cu",
+      "dashed": false
+    },
+    {
+      "s": "nw4tuz97",
+      "t": "nghqm8tk",
+      "dashed": false
+    },
+    {
+      "s": "nr3v0ghl",
+      "t": "nghqm8tk",
+      "dashed": false
+    },
+    {
+      "s": "n7hjht7p",
+      "t": "nghqm8tk",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
       "Teaser update",
-      "Review",
       "Communication",
-      "Ideas",
-      "Critical design",
-      "Critical theory",
-      "Socio-political",
-      "Media studies",
+      "Review",
+      "Research",
       "Design research",
-      "Research"
+      "Media studies",
+      "Socio-political",
+      "Critical theory",
+      "Critical design",
+      "Ideas"
     ],
     "tags": [
-      "Ideas",
-      "Scenarios",
+      "Speculation",
       "Research",
-      "Speculation"
+      "Scenarios",
+      "Ideas"
     ],
     "type": [
-      "Artefact",
-      "Decision",
       "Feedback",
-      "Internal review",
-      "Sketch",
+      "Decision",
+      "Artefact",
+      "Brief",
       "Ideas",
-      "Brief"
+      "Sketch",
+      "Internal review"
     ]
   }
 }
