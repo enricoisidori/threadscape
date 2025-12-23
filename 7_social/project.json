@@ -47,7 +47,7 @@
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": "Linguistic conflict",
+        "title": "Linguistic conflicts",
         "type": "Brief",
         "action": null,
         "mainArea": null,
@@ -456,12 +456,12 @@
   ],
   "vocab": {
     "areas": [
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Socio-political",
+      "Critical theory",
       "Design research",
-      "Critical theory"
+      "Socio-political",
+      "Media studies",
+      "Communication",
+      "Critical design"
     ],
     "tags": [],
     "type": [
