@@ -4849,6 +4849,898 @@
           }
         ]
       }
+    },
+    {
+      "id": "nalk58yl",
+      "x": 21759.8534572587,
+      "y": 8675.076547813338,
+      "w": 320,
+      "h": 1092,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "Fictional Case Development: The Valgrande Murder",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Crime news"
+        ],
+        "tags": [
+          "Crime news",
+          "Trial by media",
+          "Media court",
+          "Case of the week"
+        ],
+        "desc": "We began developing the “case of the week,” which will be entirely fictional: The Valgrande Murder. Elena Furlan, 20, disappears on May 8, 2028, along the dark road near her home in Valgrande (VR) and is later found brutally murdered 40 km away. The prosecution focuses on cellphone tower data and weak circumstantial clues pointing to an unsuspected mechanic. The defense highlights the possessive boyfriend and the fragility of the evidence. At this stage, we are mapping out which pieces of evidence could support or undermine the accused, creating a balanced framework of potential proofs and contradictions to shape the narrative and public perception.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-23 at 23.59.56.png",
+            "size": 513876,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_at_23.59.56.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-24 at 00.00.13.png",
+            "size": 313343,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.00.13.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-23 at 23.37.21.png",
+            "size": 2231153,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_at_23.37.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "niq7gyhc",
+      "x": 21761.03413896949,
+      "y": 9799.010477329402,
+      "w": 320,
+      "h": 688,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "Packaging and Instruction Booklet",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Immediacy",
+          "Trial by media",
+          "Media court",
+          "Transparency"
+        ],
+        "desc": "We worked on the packaging and the instruction booklet, producing new tests and iterations. The main goal was to achieve stronger coherence between the two elements.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-24 at 00.03.53.png",
+            "size": 124578,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.03.53.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-24 at 00.04.00.png",
+            "size": 221048,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.04.00.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhmydgz0",
+      "x": 21761.716021105196,
+      "y": 10501.116658162104,
+      "w": 320,
+      "h": 557,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "“You know what they deserve” – new poster proposal",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Immediacy",
+          "Transparency",
+          "Media court",
+          "Trial by media",
+          "Tabloid",
+          "Wisdom of the crowd"
+        ],
+        "desc": "The new poster proposal starts from the slogan “You know what they deserve.” We aimed to be more provocative by using real legal cases and bringing them together into a single composition.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-24 at 00.06.06.png",
+            "size": 1157299,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.06.06.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ni8incgs",
+      "x": 18009.527749582532,
+      "y": 11080.38080784804,
+      "w": 320,
+      "h": 722,
+      "group": null,
+      "data": {
+        "date": "2025-11-11",
+        "title": "First Physical Prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Trial by media",
+          "Media court",
+          "Scale",
+          "Vote",
+          "Speed",
+          "Immediacy",
+          "Wisdom of the crowd",
+          "Factions"
+        ],
+        "desc": "The first physical prototype of the communicative machine was made of cardboard. This initial model allowed us to better understand the overall form, dimensions, and proportions of the object. Working at a real scale helped us evaluate spatial relationships, volume, and usability, revealing issues that were not evident in sketches or digital models. The cardboard prototype became a fundamental step in translating the concept into a tangible form and guided the next phases of design refinement.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-24 at 00.15.09.png",
+            "size": 1305250,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.15.09.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n52oae1o",
+      "x": 22118.39404901387,
+      "y": 11244.047184939325,
+      "w": 320,
+      "h": 1349,
+      "group": null,
+      "data": {
+        "date": "2025-12-11",
+        "title": "Choosing 3D Printing",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Media studies",
+          "Design research"
+        ],
+        "tags": [
+          "Scale",
+          "Prototype"
+        ],
+        "desc": "We decided to produce the machine using 3D printing, as it was the most convenient solution to achieve the slightly rounded shape we wanted for the scale’s base. Since we did not want to mix different materials between the body and the base, we chose to make the entire object using the same 3D printing process. After creating the 3D models, we tested the printing of both the base and the body. While the base was successful, the body presented several issues. To solve them, we decided to divide the body into four separate parts, making the printing process more reliable and manageable.",
+        "links": [],
+        "files": [
+          {
+            "name": "PHOTO-2025-12-11-11-31-00.jpg",
+            "size": 58832,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PHOTO-2025-12-11-11-31-00.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-24 at 00.18.45.png",
+            "size": 640833,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.18.45.jpg"
+          },
+          {
+            "name": "PHOTO-2025-12-12-21-12-28.jpg",
+            "size": 338645,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PHOTO-2025-12-12-21-12-28.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nzajv9xz",
+      "x": 22520.796887964036,
+      "y": 11244.848131256047,
+      "w": 320,
+      "h": 925,
+      "group": null,
+      "data": {
+        "date": "2025-12-12",
+        "title": "Removable Lid Design",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Media studies",
+          "Design research"
+        ],
+        "tags": [
+          "Prototype",
+          "Scale"
+        ],
+        "desc": "We then printed the lid of the scale. Through an interlocking system combined with magnets, we found a solution that allowed the lid to be easily removable. This design choice made the machine fully inspectable, enabling access to the internal components when needed while keeping the structure stable and clean when closed.",
+        "links": [],
+        "files": [
+          {
+            "name": "PHOTO-2025-12-12-11-18-39.jpg",
+            "size": 287621,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PHOTO-2025-12-12-11-18-39.jpg"
+          },
+          {
+            "name": "02ad30fb-73d4-4b9a-be90-a9287559e74d.mov",
+            "size": 2354909,
+            "type": "video/quicktime",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/02ad30fb-73d4-4b9a-be90-a9287559e74d.mov"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvr86jc6",
+      "x": 22937.148474513793,
+      "y": 11244.848131256047,
+      "w": 320,
+      "h": 1083,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Preliminary Assembly ",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Media studies",
+          "Design research"
+        ],
+        "tags": [
+          "Scale",
+          "Prototype"
+        ],
+        "desc": "We temporarily assembled all the components to check whether everything was working correctly. With this step, the preliminary shell of our machine can be considered complete. The next phase will focus on finishing: filling imperfections and sanding the surfaces carefully. After that, the different parts will be permanently glued together and finally painted, giving the machine its final appearance.",
+        "links": [],
+        "files": [
+          {
+            "name": "4cae5e2a-a44b-4f1b-b43a-07a3a36fd3dc.JPG",
+            "size": 249248,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/4cae5e2a-a44b-4f1b-b43a-07a3a36fd3dc.jpg"
+          },
+          {
+            "name": "9b950d34-e3a4-407e-8107-8b8a671a0041.JPG",
+            "size": 252717,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/9b950d34-e3a4-407e-8107-8b8a671a0041.jpg"
+          },
+          {
+            "name": "d1c65047-fe4d-4355-b25b-b7c64fb3d684.JPG",
+            "size": 249571,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/d1c65047-fe4d-4355-b25b-b7c64fb3d684.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5na7l2l",
+      "x": 22520.98649321274,
+      "y": 9127.466932697187,
+      "w": 320,
+      "h": 1233,
+      "group": null,
+      "data": {
+        "date": "2025-12-12",
+        "title": "New Packaging and Instruction Booklet Proposals",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Immediacy",
+          "Trial by media",
+          "Media court",
+          "Transparency"
+        ],
+        "desc": "We developed new proposals for the packaging and instruction materials. The booklet is now divided into individual cards: one focuses on technical information, while the other explains practical usage.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-24 at 00.27.45.png",
+            "size": 177518,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.27.45.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-24 at 00.27.55.png",
+            "size": 143735,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.27.55.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-24 at 00.28.08.png",
+            "size": 155352,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.28.08.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-24 at 00.28.15.png",
+            "size": 278162,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.28.15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n89vbsmp",
+      "x": 22520.941441669376,
+      "y": 10382.047878755093,
+      "w": 320,
+      "h": 796,
+      "group": null,
+      "data": {
+        "date": "2025-12-12",
+        "title": "Poster Campaign Development: “You Know What They Deserve”",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Media court",
+          "Trial by media",
+          "Immediacy",
+          "Wisdom of the crowd",
+          "Tabloid",
+          "Transparency",
+          "Polarization",
+          "Factions"
+        ],
+        "desc": "We focused on developing the poster direction that already had a stronger tabloid-inspired aesthetic. The campaign features a central summary poster accompanied by more specific ones, each highlighting a single character. Above each figure, a devil’s horns or angel’s halo indicates guilt or innocence. These posters are deliberately provocative, not reflecting commonly shared opinions. Instead, they convey the core idea of U-Judge: through this service, users decide what the accused deserves, effectively labeling them guilty or innocent.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-24 at 00.31.09.png",
+            "size": 563262,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.31.09.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-24 at 00.31.31.png",
+            "size": 1069297,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.31.31.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3eabyio",
+      "x": 22932.487864034487,
+      "y": 10474.661542614062,
+      "w": 320,
+      "h": 610,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Refined Poster Series",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Polarization",
+          "Factions",
+          "Transparency",
+          "Tabloid",
+          "Wisdom of the crowd",
+          "Immediacy",
+          "Trial by media",
+          "Media court"
+        ],
+        "desc": "The posters have been improved and now feature all five protagonists from the central summary poster. The text is rendered in black to ensure stronger coherence with our visual style. This refinement creates a unified, tabloid-inspired aesthetic while maintaining the provocative concept of U-Judge, where users label the accused as guilty or innocent.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-24 at 00.34.22.png",
+            "size": 815518,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.34.22.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nyz9v34v",
+      "x": 22930.794111363222,
+      "y": 9190.921436682627,
+      "w": 320,
+      "h": 424,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Improved Teaser",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Media court",
+          "Trial by media",
+          "Immediacy",
+          "Wisdom of the crowd",
+          "Tabloid",
+          "Transparency",
+          "Factions",
+          "Teaser"
+        ],
+        "desc": "The teaser has been enhanced with smoother camera movements and a faster, more engaging rhythm. A clear call to action, “Download the app,” has been added at the end, making the message more direct and prompting user engagement.",
+        "links": [],
+        "files": [
+          {
+            "name": "#2-mediatico-teaser-19122025.mp4",
+            "size": 73056952,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/#2-mediatico-teaser-19122025.mp4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwx0usha",
+      "x": 22931.61363147179,
+      "y": 9639.624717882647,
+      "w": 320,
+      "h": 810,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Kinetic Poster Development: Voting Reminder",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Factions",
+          "Transparency",
+          "Tabloid",
+          "Wisdom of the crowd",
+          "Immediacy",
+          "Trial by media",
+          "Media court",
+          "Polarization",
+          "Case of the week"
+        ],
+        "desc": "From the “You Know What They Deserve” campaign, we decided to create a kinetic poster to remind users of the remaining time to vote during the weekend. The poster centers on a flip-down card featuring the fictional accused, Flavio Sartori. The card rotates, first showing devil’s horns for guilty, then an angel’s halo for innocent. We chose this card as the final takeaway of the voting experience: it serves as a certificate of the user’s vote, displaying the accused’s photo, name, case title, and the chosen verdict.",
+        "links": [],
+        "files": [
+          {
+            "name": "poster_cinetico.MP4",
+            "size": 12834753,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/poster_cinetico.MP4"
+          },
+          {
+            "name": "Screenshot 2025-12-23 at 23.42.45.png",
+            "size": 366659,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_at_23.42.45.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ne32gosu",
+      "x": 23333.063554498975,
+      "y": 9642.748411277513,
+      "w": 320,
+      "h": 564,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "U-Judge Style Guidelines",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Consistency",
+          "Key elements",
+          "Coherence"
+        ],
+        "desc": "We defined the key elements that characterize the U-Judge aesthetic to ensure consistency across all artifacts:\n- Marquee text: used in the app, kinetic posters, and machine interface.\n- Lines: applied hierarchically; extend to edges only when paired with a title or an element that relates to the overall composition; otherwise, they stop before edges for simple division. No vertical lines.\n- Color palette: consistent across all outputs.\n- Underlines: especially for white text on black backgrounds, but also red and blue for emphasis.\n- Fonts: Zuume and IBM Plex Serif.\n- Cut-out figures: for all accused characters.\nThese guidelines define the visual language of U-Judge, allowing us to replicate its style across different media while maintaining coherence.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndgsym71",
+      "x": 23334.887935543662,
+      "y": 10221.859786950408,
+      "w": 320,
+      "h": 951,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "First “Case of the Week” Content",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Crime news"
+        ],
+        "tags": [
+          "Case of the week",
+          "Media court",
+          "Trial by media",
+          "Immediacy",
+          "Wisdom of the crowd",
+          "Factions",
+          "Speed",
+          "Polarization"
+        ],
+        "desc": "We began developing initial content for the Case of the Week. Three main types of content are planned: short and medium-length articles, vertical videos, and horizontal videos. The approach combines real footage from other cases, videos recorded by our team, and AI-generated clips. This mix aims to create engaging, diverse storytelling that supports the fictional case while maintaining a sense of realism and variety across formats.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-23 at 23.27.36.png",
+            "size": 1945125,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_at_23.27.36.jpg"
+          },
+          {
+            "name": "#2-mediatico-contenuto-orizzontale-19122025.mp4",
+            "size": 92005268,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/#2-mediatico-contenuto-orizzontale-19122025.mp4"
+          },
+          {
+            "name": "#2-mediatico-contenuto-verticale-19122025.MP4",
+            "size": 39584076,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/#2-mediatico-contenuto-verticale-19122025.MP4"
+          },
+          {
+            "name": "Screenshot 2025-12-24 at 00.49.52.png",
+            "size": 776701,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.49.52.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "neeqdx44",
+      "x": 23332.427570298172,
+      "y": 8763.950912668002,
+      "w": 320,
+      "h": 858,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "Finalized Packaging and Booklet Design",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Immediacy",
+          "Trial by media",
+          "Media court",
+          "Transparency"
+        ],
+        "desc": "The packaging and instruction booklet have been fully defined. The booklet now clearly separates technical information from practical usage instructions through individual cards, ensuring both clarity and ease of use.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-24 at 00.53.33.png",
+            "size": 48145,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.53.33.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-24 at 00.54.06.png",
+            "size": 360891,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-24_at_00.54.06.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncwkfqyc",
+      "x": 23332.40717298284,
+      "y": 7825.601972715984,
+      "w": 320,
+      "h": 922,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "App Refinements",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Media court",
+          "Trial by media",
+          "Transparency",
+          "Immediacy",
+          "Polarization",
+          "Factions",
+          "Speed",
+          "Wisdom of the crowd",
+          "Coherence"
+        ],
+        "desc": "The app has been improved in several areas. Navigation between news items has been enhanced through the “You Might Be Interested” section. Tabs in the Featured section now clearly indicate the category of each news item. Additionally, scrolling through folders in the Cases to Explore section has been optimized, providing a smoother and more intuitive user experience.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-23 at 23.25.27.png",
+            "size": 1623339,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_at_23.25.27.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-23 at 23.25.36.png",
+            "size": 1862905,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_at_23.25.36.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-23 at 23.25.45.png",
+            "size": 1738158,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_at_23.25.45.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlmd8hnt",
+      "x": 23333.66665550801,
+      "y": 11244.848131256045,
+      "w": 320,
+      "h": 578,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "TALLY: The Voting Machine",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Media studies",
+          "Design research"
+        ],
+        "tags": [
+          "Scale",
+          "Prototype"
+        ],
+        "desc": "The machine has been named Tally, from the English verb meaning to record and add up votes, scores, or results. Tally is activated by tapping the “Vote Now” button in the dedicated Case of the Week section of the app, and then bringing the smartphone close to the sensor. This interaction connects the digital voting phase with the physical machine, reinforcing the ritual and materiality of the decision-making process.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-23 at 23.26.44.png",
+            "size": 1031902,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-23_at_23.26.44.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nczkarwj",
+      "x": 23334.426327806606,
+      "y": 11843.820466882793,
+      "w": 320,
+      "h": 412,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "Machine Interface – Current State",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Media studies",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Prototype",
+          "Scale",
+          "Immediacy",
+          "Speed",
+          "Vote",
+          "Wisdom of the crowd",
+          "Trial by media"
+        ],
+        "desc": "The machine interface, currently developed using TouchDesigner, is in this preliminary state. It represents a first functional version and will need further refinement and improvement, both visually and in terms of interaction, to better align with the overall U-Judge aesthetic and user experience.",
+        "links": [],
+        "files": [
+          {
+            "name": "#2-mediatico-animazione_macchina-19122025.mp4",
+            "size": 10078322,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/#2-mediatico-animazione_macchina-19122025.mp4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwb030o5",
+      "x": 23333.10469602099,
+      "y": 7321.896692864668,
+      "w": 320,
+      "h": 481,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "Animated Trailer Storyboard",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Trial by media",
+          "Wisdom of the crowd",
+          "Immediacy",
+          "Factions",
+          "Polarization",
+          "Transparency",
+          "Media court",
+          "Case of the week",
+          "Media",
+          "Democracy",
+          "Trailer"
+        ],
+        "desc": "We created an animated storyboard for the trailer as a draft of how we want to develop it. The trailer is conceived like an advertisement, designed to introduce people to a new Italian system of participatory justice. This initial storyboard defines the narrative flow, tone, and visual rhythm, serving as a foundation for refining the final trailer.",
+        "links": [],
+        "files": [
+          {
+            "name": "#2-mediatico-storyboard-trailer-19122025.mp4",
+            "size": 85769810,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/#2-mediatico-storyboard-trailer-19122025.mp4"
+          }
+        ]
+      }
     }
   ],
   "edges": [
@@ -5558,11 +6450,6 @@
       "dashed": false
     },
     {
-      "s": "nke6siiw",
-      "t": "np1fjscn",
-      "dashed": false
-    },
-    {
       "s": "ntbux3d8",
       "t": "ngfpfbxj",
       "dashed": false
@@ -5621,141 +6508,249 @@
       "s": "nyiuxtrr",
       "t": "nwcw07ld",
       "dashed": false
+    },
+    {
+      "s": "ne1lrgvt",
+      "t": "nalk58yl",
+      "dashed": false
+    },
+    {
+      "s": "nsee3epu",
+      "t": "niq7gyhc",
+      "dashed": false
+    },
+    {
+      "s": "nsee3epu",
+      "t": "nhmydgz0",
+      "dashed": false
+    },
+    {
+      "s": "nke6siiw",
+      "t": "ni8incgs",
+      "dashed": false
+    },
+    {
+      "s": "ni8incgs",
+      "t": "np1fjscn",
+      "dashed": false
+    },
+    {
+      "s": "n0v0xwgo",
+      "t": "n52oae1o",
+      "dashed": false
+    },
+    {
+      "s": "n52oae1o",
+      "t": "nzajv9xz",
+      "dashed": false
+    },
+    {
+      "s": "nzajv9xz",
+      "t": "nvr86jc6",
+      "dashed": false
+    },
+    {
+      "s": "niq7gyhc",
+      "t": "n5na7l2l",
+      "dashed": false
+    },
+    {
+      "s": "nhmydgz0",
+      "t": "n89vbsmp",
+      "dashed": false
+    },
+    {
+      "s": "n89vbsmp",
+      "t": "n3eabyio",
+      "dashed": false
+    },
+    {
+      "s": "nwcw07ld",
+      "t": "nyz9v34v",
+      "dashed": false
+    },
+    {
+      "s": "nsee3epu",
+      "t": "nwx0usha",
+      "dashed": false
+    },
+    {
+      "s": "n3eabyio",
+      "t": "nwx0usha",
+      "dashed": false
+    },
+    {
+      "s": "nsee3epu",
+      "t": "ne32gosu",
+      "dashed": false
+    },
+    {
+      "s": "nalk58yl",
+      "t": "ndgsym71",
+      "dashed": false
+    },
+    {
+      "s": "n5na7l2l",
+      "t": "neeqdx44",
+      "dashed": false
+    },
+    {
+      "s": "nsee3epu",
+      "t": "ncwkfqyc",
+      "dashed": false
+    },
+    {
+      "s": "nvr86jc6",
+      "t": "nlmd8hnt",
+      "dashed": false
+    },
+    {
+      "s": "nrxpvovu",
+      "t": "nczkarwj",
+      "dashed": false
+    },
+    {
+      "s": "nyz9v34v",
+      "t": "nwb030o5",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Sociological studies",
-      "Psychology",
-      "Word studies",
-      "Internet studies",
-      "Socio-political",
-      "Critical design",
-      "Media studies",
-      "Design research",
+      "Communication",
       "Crime news",
-      "Communication"
+      "Design research",
+      "Media studies",
+      "Critical design",
+      "Socio-political",
+      "Internet studies",
+      "Word studies",
+      "Psychology",
+      "Sociological studies"
     ],
     "tags": [
-      "Speed",
+      "Trailer",
+      "Democracy",
+      "Media",
+      "Case of the week",
+      "Media court",
+      "Transparency",
+      "Polarization",
+      "Factions",
+      "Immediacy",
+      "Wisdom of the crowd",
+      "Trial by media",
       "Vote",
-      "Digital media",
-      "Social media",
-      "Plurality",
-      "Scapegoating",
-      "Monsters",
-      "Demonization",
-      "Dehumanization",
-      "Common enemy",
-      "Discrimination",
-      "Washing",
-      "Slacktivism",
-      "Filter bubbles",
-      "Click baiting",
-      "False balance",
-      "Mediatic void",
-      "Cherry picking",
-      "Deviancy amplification",
-      "Censorship",
-      "Rumor cascade",
-      "Debate",
-      "Tension",
-      "Conflict",
-      "Distorted perception",
-      "Prospective",
-      "Fact-checking",
-      "Rumor machine",
-      "Contrast",
-      "Inconclusive activism",
-      "Automation",
-      "Sensationalized",
-      "Spam",
-      "Advertising purposes",
-      "Rainbow-washing",
-      "Social symbols",
-      "Activism",
-      "Symbolic",
-      "Low-effort",
-      "Portion",
-      "Conflict node",
-      "Storytelling",
-      "Echo chambers",
-      "Participation",
-      "Rhythm",
-      "Code",
-      "Livestreaming",
-      "Messaging apps",
-      "Podcast",
-      "Blogs",
-      "News website",
-      "Television",
-      "Radio",
-      "Press",
-      "Emerging media",
-      "Interactive and instant media",
-      "Traditional media",
-      "Filter",
-      "Mediatic",
-      "Bots",
-      "Dead internet theory",
-      "Non-human",
-      "Post-truth",
-      "Pseudo-environments",
-      "Digital agnotology",
-      "Infodemic",
-      "Information inflation",
-      "Framing",
-      "Media overshadowing",
-      "Rage baiting",
-      "Argument culture",
-      "Shitstorm",
-      "Cancel culture",
-      "Algorithm",
-      "Ai",
-      "Artificial",
-      "Manipulation",
-      "Deepfake",
-      "Interaction",
-      "Personalized",
-      "Entertainment",
-      "Fake news",
-      "Anger",
-      "Tribalism",
-      "Spectacularization",
-      "Cognitive laziness",
-      "Negativity bias",
-      "Media desensitization",
-      "Political party",
-      "Accessibility",
-      "Coexistence",
-      "Resonance",
+      "Speed",
       "Scale",
       "Prototype",
-      "Discover the truth",
-      "Crime news",
-      "Case of the week",
-      "Immediacy",
-      "Media",
-      "Democracy",
-      "Detective boards",
-      "Case files",
-      "Polarization",
-      "Mediatic conflict",
-      "Wisdom of the crowd",
-      "Factions",
-      "Transparency",
+      "Coherence",
+      "Key elements",
+      "Consistency",
       "Tabloid",
-      "Trial by media",
-      "Media court",
-      "Teaser"
+      "Teaser",
+      "Crime news",
+      "Mediatic conflict",
+      "Case files",
+      "Detective boards",
+      "Discover the truth",
+      "Resonance",
+      "Coexistence",
+      "Accessibility",
+      "Political party",
+      "Media desensitization",
+      "Negativity bias",
+      "Cognitive laziness",
+      "Spectacularization",
+      "Tribalism",
+      "Anger",
+      "Fake news",
+      "Entertainment",
+      "Personalized",
+      "Interaction",
+      "Deepfake",
+      "Manipulation",
+      "Artificial",
+      "Ai",
+      "Algorithm",
+      "Cancel culture",
+      "Shitstorm",
+      "Argument culture",
+      "Rage baiting",
+      "Media overshadowing",
+      "Framing",
+      "Information inflation",
+      "Infodemic",
+      "Digital agnotology",
+      "Pseudo-environments",
+      "Post-truth",
+      "Non-human",
+      "Dead internet theory",
+      "Bots",
+      "Mediatic",
+      "Filter",
+      "Traditional media",
+      "Interactive and instant media",
+      "Emerging media",
+      "Press",
+      "Radio",
+      "Television",
+      "News website",
+      "Blogs",
+      "Podcast",
+      "Messaging apps",
+      "Livestreaming",
+      "Code",
+      "Rhythm",
+      "Participation",
+      "Echo chambers",
+      "Storytelling",
+      "Conflict node",
+      "Portion",
+      "Low-effort",
+      "Symbolic",
+      "Activism",
+      "Social symbols",
+      "Rainbow-washing",
+      "Advertising purposes",
+      "Spam",
+      "Sensationalized",
+      "Automation",
+      "Inconclusive activism",
+      "Contrast",
+      "Rumor machine",
+      "Fact-checking",
+      "Prospective",
+      "Distorted perception",
+      "Conflict",
+      "Tension",
+      "Debate",
+      "Rumor cascade",
+      "Censorship",
+      "Deviancy amplification",
+      "Cherry picking",
+      "Mediatic void",
+      "False balance",
+      "Click baiting",
+      "Filter bubbles",
+      "Slacktivism",
+      "Washing",
+      "Discrimination",
+      "Common enemy",
+      "Dehumanization",
+      "Demonization",
+      "Monsters",
+      "Scapegoating",
+      "Plurality",
+      "Social media",
+      "Digital media"
     ],
     "type": [
       "Artefact",
-      "Sketch",
-      "Brief",
-      "Source",
+      "Concept",
       "Finding",
-      "Concept"
+      "Source",
+      "Brief"
     ]
   }
 }
