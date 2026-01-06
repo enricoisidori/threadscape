@@ -3349,8 +3349,8 @@
     },
     {
       "id": "njezn2rq",
-      "x": 26517.37803530178,
-      "y": 7963.05215962339,
+      "x": 26434.795934270416,
+      "y": 8121.713241833688,
       "w": 320,
       "h": 431,
       "group": null,
@@ -3383,14 +3383,14 @@
     },
     {
       "id": "ngknws7j",
-      "x": 26997.37803530178,
-      "y": 7963.05215962339,
+      "x": 26914.795934270416,
+      "y": 8121.713241833688,
       "w": 320,
-      "h": 172,
+      "h": 423,
       "group": null,
       "data": {
         "date": "2025-12-02",
-        "title": "",
+        "title": "Copywriting update",
         "type": "Decision",
         "action": "Making",
         "mainArea": "Communication",
@@ -3401,9 +3401,18 @@
           "Informatics"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Our payoff was developed through a benchmark analysis of leading defense companies. It emphasizes power and control through a sophisticated lexicon, focusing on strategic authority while maintaining a refined and non-explicit tone.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Schermata 2025-12-30 alle 16.49.48.png",
+            "size": 22865,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2025-12-30_alle_16.49.48.jpg"
+          }
+        ]
       }
     },
     {
@@ -3479,50 +3488,6 @@
       }
     },
     {
-      "id": "n9zq7zkx",
-      "x": 25314.012031122216,
-      "y": 6704.264292811653,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2025-12-02",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n58tp4r4",
-      "x": 23841.548980626012,
-      "y": 8674.65659268994,
-      "w": 320,
-      "h": 149,
-      "group": null,
-      "data": {
-        "date": "2025-12-02",
-        "title": "",
-        "type": "Decision",
-        "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [
-          "War",
-          "Weapon",
-          "Linguistic"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "nrktn61y",
       "x": 21326.80274680022,
       "y": 4486.785103724751,
@@ -3562,6 +3527,130 @@
         "action": null,
         "mainArea": null,
         "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkcj6ckb",
+      "x": 27333.57119244879,
+      "y": 8110.501269222751,
+      "w": 320,
+      "h": 446,
+      "group": null,
+      "data": {
+        "date": "2025-12-30",
+        "title": "Copywriting update",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "After an initial phase using 'Power of words', we shifted our brand messaging from the conceptual 'Power of words' to the more impactful 'Words to dominate'. This change aligns our visual identity with a more aggressive market positioning, emphasizing mastery and results.",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2025-12-30 alle 16.55.40.png",
+            "size": 24994,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2025-12-30_alle_16.55.40.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9bug27o",
+      "x": 23751.84637439379,
+      "y": 8529.436017506983,
+      "w": 320,
+      "h": 536,
+      "group": null,
+      "data": {
+        "date": "2025-12-30",
+        "title": "Positioning",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "War",
+          "Linguistic",
+          "Weapon"
+        ],
+        "tags": [],
+        "desc": "We conducted a comprehensive analysis of contemporary warfare doctrines. By examining numerous academic and technical papers, we explored the intersection of the cognitive, physical, and virtual domains to define our strategic positioning within these multi-dimensional environments.",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2025-12-30 alle 17.37.45.png",
+            "size": 518991,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2025-12-30_alle_17.37.45.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqa8h7xw",
+      "x": 24173.607750012372,
+      "y": 8569.646179253235,
+      "w": 320,
+      "h": 455,
+      "group": null,
+      "data": {
+        "date": "2025-12-30",
+        "title": "Positioning",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "War",
+          "Linguistic",
+          "Weapon"
+        ],
+        "tags": [],
+        "desc": "We have positioned our operations at the intersection of the virtual domain, the intangible space where information flows, and the cognitive domain, the environment where information is processed to drive decision-making.",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2025-12-30 alle 17.20.32.png",
+            "size": 365993,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2025-12-30_alle_17.20.32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4yji5ga",
+      "x": 23637.58491034339,
+      "y": 9105.436017506983,
+      "w": 320,
+      "h": 149,
+      "group": null,
+      "data": {
+        "date": "2025-12-30",
+        "title": "",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "War",
+          "Linguistic",
+          "Weapon"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -5966,11 +6055,6 @@
       "dashed": false
     },
     {
-      "s": "nchfbkmc",
-      "t": "n9zq7zkx",
-      "dashed": false
-    },
-    {
       "s": "nk0kg6g0",
       "t": "n5tmy4zl",
       "dashed": false
@@ -5989,45 +6073,65 @@
       "s": "nwysul8q",
       "t": "nrktn61y",
       "dashed": false
+    },
+    {
+      "s": "ngknws7j",
+      "t": "nkcj6ckb",
+      "dashed": false
+    },
+    {
+      "s": "niw8dxqd",
+      "t": "n9bug27o",
+      "dashed": false
+    },
+    {
+      "s": "n9bug27o",
+      "t": "nqa8h7xw",
+      "dashed": false
+    },
+    {
+      "s": "niw8dxqd",
+      "t": "n4yji5ga",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Media",
-      "Linguistic",
-      "Informatics",
-      "War",
-      "Weapon",
-      "Evolution",
-      "Censorship",
-      "Arts",
-      "Morphology",
-      "Mental health",
-      "Philosophy",
-      "Research",
-      "Cognitive science",
-      "Information",
+      "Conflict",
       "Society",
-      "Conflict"
+      "Information",
+      "Cognitive science",
+      "Research",
+      "Philosophy",
+      "Mental health",
+      "Morphology",
+      "Arts",
+      "Censorship",
+      "Evolution",
+      "Weapon",
+      "War",
+      "Informatics",
+      "Linguistic",
+      "Media"
     ],
     "tags": [
-      "Video-games",
-      "Pixel",
+      "Engeneering",
       "Futuristic",
-      "Engeneering"
+      "Pixel",
+      "Video-games"
     ],
     "type": [
-      "What-if",
-      "Collection",
+      "Concept",
       "Decision",
-      "Finding",
-      "Brief",
-      "Slides",
-      "Observation",
-      "Source",
-      "Feedback",
       "Sketch",
-      "Concept"
+      "Feedback",
+      "Source",
+      "Observation",
+      "Slides",
+      "Brief",
+      "Finding",
+      "Collection",
+      "What-if"
     ]
   }
 }
