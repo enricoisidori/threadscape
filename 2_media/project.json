@@ -4995,7 +4995,7 @@
       "x": 18009.527749582532,
       "y": 11080.38080784804,
       "w": 320,
-      "h": 722,
+      "h": 723,
       "group": null,
       "data": {
         "date": "2025-11-11",
@@ -5130,7 +5130,7 @@
       "x": 22937.148474513793,
       "y": 11244.848131256047,
       "w": 320,
-      "h": 1083,
+      "h": 2015,
       "group": null,
       "data": {
         "date": "2025-12-16",
@@ -5172,6 +5172,38 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/d1c65047-fe4d-4355-b25b-b7c64fb3d684.jpg"
+          },
+          {
+            "name": "1.jpg",
+            "size": 234953,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/1.jpg"
+          },
+          {
+            "name": "4.jpg",
+            "size": 248029,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/4.jpg"
+          },
+          {
+            "name": "6.jpg",
+            "size": 249765,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/6.jpg"
+          },
+          {
+            "name": "5.jpg",
+            "size": 282480,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/5.jpg"
           }
         ]
       }
@@ -5738,6 +5770,324 @@
             "isImage": false,
             "isPDF": false,
             "path": "assets/#2-mediatico-storyboard-trailer-19122025.mp4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nr22f6bq",
+      "x": 23729.961587203725,
+      "y": 11247.050896211422,
+      "w": 320,
+      "h": 929,
+      "group": null,
+      "data": {
+        "date": "2025-12-21",
+        "title": "Structuring the Presentation Experience",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Design research",
+          "Sociological studies"
+        ],
+        "tags": [
+          "Scale",
+          "Vote",
+          "Trial by media",
+          "Media court",
+          "Polarization",
+          "Factions",
+          "Case of the week",
+          "Democracy",
+          "Wisdom of the crowd",
+          "Media",
+          "Speed"
+        ],
+        "desc": "We started to think about how the experience should be structured on the day of the presentation: which posters should be visible and what kind of flow visitors should follow. \nWe decided to divide the experience into two main moments, and therefore into two distinct zones.\n- The first zone is more informative. It is the space where visitors come into contact with the project as a whole. Here, they can watch the teaser and the trailer, download the application, and begin to learn about the \"case of the week\". This area also includes the editorial product that synthesizes and explains the entire project.\n- The second zone represents the actual voting moment. In this space, a computer equipped with headphones allows visitors to watch the recap video from the “innocent” or “guilty” perspective, or both. Next to it, a dedicated machine enables them to cast their vote, choosing between guilty or innocent.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 at 22.00.07.png",
+            "size": 2104646,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_at_22.00.07.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nm3yhai0",
+      "x": 24099.6637494924,
+      "y": 11249.042447718237,
+      "w": 320,
+      "h": 982,
+      "group": null,
+      "data": {
+        "date": "2025-12-23",
+        "title": "Surface Refinement",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Media studies",
+          "Design research"
+        ],
+        "tags": [
+          "Scale",
+          "Prototype"
+        ],
+        "desc": "The 3D-printed parts were sanded and filled with putty to smooth and refine the surfaces.",
+        "links": [],
+        "files": [
+          {
+            "name": "8.jpg",
+            "size": 238292,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/8.jpg"
+          },
+          {
+            "name": "9.jpg",
+            "size": 275649,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/9.jpg"
+          },
+          {
+            "name": "10.jpg",
+            "size": 292648,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqj588ur",
+      "x": 24473.32914805683,
+      "y": 11249.042447718237,
+      "w": 320,
+      "h": 677,
+      "group": null,
+      "data": {
+        "date": "2025-12-26",
+        "title": "Painting the Machine",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Media studies",
+          "Design research"
+        ],
+        "tags": [
+          "Scale",
+          "Prototype"
+        ],
+        "desc": "The machine was painted using spray paint to achieve its final surface finish.",
+        "links": [],
+        "files": [
+          {
+            "name": "11.jpg",
+            "size": 177381,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/11.jpg"
+          },
+          {
+            "name": "12.png",
+            "size": 1347135,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7apq153",
+      "x": 24843.417196204286,
+      "y": 11251.005161144176,
+      "w": 320,
+      "h": 920,
+      "group": null,
+      "data": {
+        "date": "2025-12-28",
+        "title": "Adding Cables",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Media studies",
+          "Design research"
+        ],
+        "tags": [
+          "Scale",
+          "Prototype"
+        ],
+        "desc": "Cables were installed to connect the machine’s electronic components and enable full functionality. ",
+        "links": [],
+        "files": [
+          {
+            "name": "13.jpg",
+            "size": 184887,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/13.jpg"
+          },
+          {
+            "name": "14.png",
+            "size": 753160,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwxt97r1",
+      "x": 25329.10469602099,
+      "y": 7337.896692864668,
+      "w": 320,
+      "h": 464,
+      "group": null,
+      "data": {
+        "date": "2026-01-06",
+        "title": "Developing the Trailer",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Trial by media",
+          "Wisdom of the crowd",
+          "Media court",
+          "Factions",
+          "Polarization",
+          "Case of the week",
+          "Transparency",
+          "Trailer",
+          "Democracy",
+          "Media"
+        ],
+        "desc": "Regarding the trailer, we began by filming the realistic scenes that we will need. These shots will later be edited together and enriched with a strong motion graphics layer. The motion graphics component will represent the core and most central element of the trailer, shaping its visual identity and narrative impact.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nw3can6j",
+      "x": 25700.427570298172,
+      "y": 8679.950912668002,
+      "w": 320,
+      "h": 1034,
+      "group": null,
+      "data": {
+        "date": "2026-01-07",
+        "title": "From Leaflets to a User Manual",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Communication"
+        ],
+        "tags": [
+          "Scale",
+          "Vote",
+          "Wisdom of the crowd",
+          "Immediacy",
+          "Trial by media",
+          "Case of the week"
+        ],
+        "desc": "The two informational leaflets we had at the beginning were merged into a single booklet: the machine user manual. This booklet is specifically designed to explain how the voting machine works and how to interact with it correctly. The manual is still a work in progress and its completion is currently ongoing.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 at 21.59.39.png",
+            "size": 31323,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_at_21.59.39.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 at 21.59.49.png",
+            "size": 184521,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_at_21.59.49.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 at 21.59.59.png",
+            "size": 89474,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_at_21.59.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "np7ca8fl",
+      "x": 26182.887935543662,
+      "y": 10385.859786950408,
+      "w": 320,
+      "h": 641,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "Developing the Case Content",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Media studies",
+          "Sociological studies",
+          "Crime news"
+        ],
+        "tags": [
+          "Case of the week",
+          "Trial by media",
+          "Immediacy",
+          "Wisdom of the crowd",
+          "Vote",
+          "Media",
+          "Democracy",
+          "Polarization",
+          "Media court",
+          "Factions",
+          "Speed"
+        ],
+        "desc": "Regarding the content of the case of the week, we better defined the map in which the case takes place, as well as the evidence both in favor of and against the defendant, Flavio Sartori. We then wrote the scripts for the two recap videos in order to clearly identify which contents are the most important and should be created using AI tools or filmed live. Several articles were also drafted. The next step will be to concretely produce and finalize all these different types of media content.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 at 21.59.17.png",
+            "size": 580130,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_at_21.59.17.jpg"
           }
         ]
       }
@@ -6613,144 +6963,185 @@
       "s": "nyz9v34v",
       "t": "nwb030o5",
       "dashed": false
+    },
+    {
+      "s": "nlmd8hnt",
+      "t": "nr22f6bq",
+      "dashed": false
+    },
+    {
+      "s": "nvr86jc6",
+      "t": "nm3yhai0",
+      "dashed": false
+    },
+    {
+      "s": "nlmd8hnt",
+      "t": "nm3yhai0",
+      "dashed": false
+    },
+    {
+      "s": "nm3yhai0",
+      "t": "nqj588ur",
+      "dashed": false
+    },
+    {
+      "s": "nqj588ur",
+      "t": "n7apq153",
+      "dashed": false
+    },
+    {
+      "s": "nwb030o5",
+      "t": "nwxt97r1",
+      "dashed": false
+    },
+    {
+      "s": "neeqdx44",
+      "t": "nw3can6j",
+      "dashed": false
+    },
+    {
+      "s": "ndgsym71",
+      "t": "np7ca8fl",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Communication",
-      "Crime news",
-      "Design research",
-      "Media studies",
-      "Critical design",
-      "Socio-political",
-      "Internet studies",
-      "Word studies",
+      "Sociological studies",
       "Psychology",
-      "Sociological studies"
+      "Word studies",
+      "Internet studies",
+      "Socio-political",
+      "Critical design",
+      "Media studies",
+      "Design research",
+      "Crime news",
+      "Communication"
     ],
     "tags": [
-      "Trailer",
+      "Speed",
+      "Factions",
+      "Media court",
+      "Polarization",
       "Democracy",
       "Media",
-      "Case of the week",
-      "Media court",
-      "Transparency",
-      "Polarization",
-      "Factions",
-      "Immediacy",
-      "Wisdom of the crowd",
-      "Trial by media",
       "Vote",
-      "Speed",
+      "Wisdom of the crowd",
+      "Immediacy",
+      "Trial by media",
+      "Case of the week",
       "Scale",
+      "Trailer",
+      "Transparency",
       "Prototype",
-      "Coherence",
-      "Key elements",
-      "Consistency",
-      "Tabloid",
-      "Teaser",
-      "Crime news",
-      "Mediatic conflict",
-      "Case files",
-      "Detective boards",
-      "Discover the truth",
-      "Resonance",
-      "Coexistence",
-      "Accessibility",
-      "Political party",
-      "Media desensitization",
-      "Negativity bias",
-      "Cognitive laziness",
-      "Spectacularization",
-      "Tribalism",
-      "Anger",
-      "Fake news",
-      "Entertainment",
-      "Personalized",
-      "Interaction",
-      "Deepfake",
-      "Manipulation",
-      "Artificial",
-      "Ai",
-      "Algorithm",
-      "Cancel culture",
-      "Shitstorm",
-      "Argument culture",
-      "Rage baiting",
-      "Media overshadowing",
-      "Framing",
-      "Information inflation",
-      "Infodemic",
-      "Digital agnotology",
-      "Pseudo-environments",
-      "Post-truth",
-      "Non-human",
-      "Dead internet theory",
-      "Bots",
-      "Mediatic",
-      "Filter",
-      "Traditional media",
-      "Interactive and instant media",
-      "Emerging media",
-      "Press",
-      "Radio",
-      "Television",
-      "News website",
-      "Blogs",
-      "Podcast",
-      "Messaging apps",
-      "Livestreaming",
-      "Code",
-      "Rhythm",
-      "Participation",
-      "Echo chambers",
-      "Storytelling",
-      "Conflict node",
-      "Portion",
-      "Low-effort",
-      "Symbolic",
-      "Activism",
-      "Social symbols",
-      "Rainbow-washing",
-      "Advertising purposes",
-      "Spam",
-      "Sensationalized",
-      "Automation",
-      "Inconclusive activism",
-      "Contrast",
-      "Rumor machine",
-      "Fact-checking",
-      "Prospective",
-      "Distorted perception",
-      "Conflict",
-      "Tension",
-      "Debate",
-      "Rumor cascade",
-      "Censorship",
-      "Deviancy amplification",
-      "Cherry picking",
-      "Mediatic void",
-      "False balance",
-      "Click baiting",
-      "Filter bubbles",
-      "Slacktivism",
-      "Washing",
-      "Discrimination",
-      "Common enemy",
-      "Dehumanization",
-      "Demonization",
-      "Monsters",
-      "Scapegoating",
-      "Plurality",
+      "Digital media",
       "Social media",
-      "Digital media"
+      "Plurality",
+      "Scapegoating",
+      "Monsters",
+      "Demonization",
+      "Dehumanization",
+      "Common enemy",
+      "Discrimination",
+      "Washing",
+      "Slacktivism",
+      "Filter bubbles",
+      "Click baiting",
+      "False balance",
+      "Mediatic void",
+      "Cherry picking",
+      "Deviancy amplification",
+      "Censorship",
+      "Rumor cascade",
+      "Debate",
+      "Tension",
+      "Conflict",
+      "Distorted perception",
+      "Prospective",
+      "Fact-checking",
+      "Rumor machine",
+      "Contrast",
+      "Inconclusive activism",
+      "Automation",
+      "Sensationalized",
+      "Spam",
+      "Advertising purposes",
+      "Rainbow-washing",
+      "Social symbols",
+      "Activism",
+      "Symbolic",
+      "Low-effort",
+      "Portion",
+      "Conflict node",
+      "Storytelling",
+      "Echo chambers",
+      "Participation",
+      "Rhythm",
+      "Code",
+      "Livestreaming",
+      "Messaging apps",
+      "Podcast",
+      "Blogs",
+      "News website",
+      "Television",
+      "Radio",
+      "Press",
+      "Emerging media",
+      "Interactive and instant media",
+      "Traditional media",
+      "Filter",
+      "Mediatic",
+      "Bots",
+      "Dead internet theory",
+      "Non-human",
+      "Post-truth",
+      "Pseudo-environments",
+      "Digital agnotology",
+      "Infodemic",
+      "Information inflation",
+      "Framing",
+      "Media overshadowing",
+      "Rage baiting",
+      "Argument culture",
+      "Shitstorm",
+      "Cancel culture",
+      "Algorithm",
+      "Ai",
+      "Artificial",
+      "Manipulation",
+      "Deepfake",
+      "Interaction",
+      "Personalized",
+      "Entertainment",
+      "Fake news",
+      "Anger",
+      "Tribalism",
+      "Spectacularization",
+      "Cognitive laziness",
+      "Negativity bias",
+      "Media desensitization",
+      "Political party",
+      "Accessibility",
+      "Coexistence",
+      "Resonance",
+      "Discover the truth",
+      "Detective boards",
+      "Case files",
+      "Mediatic conflict",
+      "Crime news",
+      "Teaser",
+      "Tabloid",
+      "Consistency",
+      "Key elements",
+      "Coherence"
     ],
     "type": [
-      "Artefact",
       "Concept",
-      "Finding",
+      "Artefact",
+      "Sketch",
+      "Brief",
       "Source",
-      "Brief"
+      "Finding"
     ]
   }
 }
