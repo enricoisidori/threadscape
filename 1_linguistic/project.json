@@ -3417,8 +3417,8 @@
     },
     {
       "id": "ns6njd26",
-      "x": 25836.479464137778,
-      "y": 7073.648739630999,
+      "x": 25786.94019086507,
+      "y": 7068.854616411059,
       "w": 320,
       "h": 556,
       "group": null,
@@ -3541,7 +3541,7 @@
       "h": 446,
       "group": null,
       "data": {
-        "date": "2025-12-30",
+        "date": "2025-12-10",
         "title": "Copywriting update",
         "type": "Decision",
         "action": "Making",
@@ -3568,47 +3568,14 @@
       }
     },
     {
-      "id": "n9bug27o",
-      "x": 23751.84637439379,
-      "y": 8529.436017506983,
-      "w": 320,
-      "h": 536,
-      "group": null,
-      "data": {
-        "date": "2025-12-30",
-        "title": "Positioning",
-        "type": "Concept",
-        "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [
-          "War",
-          "Linguistic",
-          "Weapon"
-        ],
-        "tags": [],
-        "desc": "We conducted a comprehensive analysis of contemporary warfare doctrines. By examining numerous academic and technical papers, we explored the intersection of the cognitive, physical, and virtual domains to define our strategic positioning within these multi-dimensional environments.",
-        "links": [],
-        "files": [
-          {
-            "name": "Schermata 2025-12-30 alle 17.37.45.png",
-            "size": 518991,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/Schermata_2025-12-30_alle_17.37.45.jpg"
-          }
-        ]
-      }
-    },
-    {
       "id": "nqa8h7xw",
-      "x": 24173.607750012372,
-      "y": 8569.646179253235,
+      "x": 27742.996375630675,
+      "y": 9652.1972347786,
       "w": 320,
       "h": 455,
       "group": null,
       "data": {
-        "date": "2025-12-30",
+        "date": "2025-12-12",
         "title": "Positioning",
         "type": "Concept",
         "action": "Exploring",
@@ -3634,25 +3601,590 @@
       }
     },
     {
-      "id": "n4yji5ga",
-      "x": 23637.58491034339,
-      "y": 9105.436017506983,
+      "id": "nzddw4kk",
+      "x": 26592.873598281574,
+      "y": 8894.562300533225,
       "w": 320,
-      "h": 149,
+      "h": 243,
       "group": null,
       "data": {
-        "date": "2025-12-30",
+        "date": "2025-11-10",
+        "title": "STORYTELLING: research",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "research about",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvopg886",
+      "x": 27746.134310544865,
+      "y": 8771.46107421895,
+      "w": 320,
+      "h": 310,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "Resource Definition",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "Language as an Engineered Weapon: the evolution of language from a simple communication tool to advanced military technology. Words are treated as high-potential strategic assets, becoming the foundational pillar of modern cognitive warfare.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nrkavume",
+      "x": 27747.7693507867,
+      "y": 9115.779946867642,
+      "w": 320,
+      "h": 514,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Domain Analysis",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "Mapping the Cognitive Battlefield: Identification of the human mind as the primary operational theater. Conflict shifts from the physical dimension to a systemic environment where three planes interact: Physical (action), Virtual (information), and Cognitive (processing).",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2026-01-06 alle 19.24.49.png",
+            "size": 136316,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2026-01-06_alle_19.24.49.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrgauvlt",
+      "x": 27734.259788230807,
+      "y": 10168.506910334172,
+      "w": 320,
+      "h": 327,
+      "group": null,
+      "data": {
+        "date": "2025-12-12",
+        "title": "operational process",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "Fragmentation and Reality Reconstruction: Deployment of linguistic technologies to dismantle the target's perceived reality. Once perception is fragmented, a \"tailored reality\" is reconstructed, ensuring the client’s narrative dominance and the affirmation of their strategic truth.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "np9s1rv6",
+      "x": 27390.11617975151,
+      "y": 9066.409463949874,
+      "w": 320,
+      "h": 530,
+      "group": null,
+      "data": {
+        "date": "0002-12-15",
+        "title": "research on war domain",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "We conducted a comprehensive analysis of contemporary warfare doctrines. By examining numerous academic and technical papers, we explored the intersection of the cognitive, physical, and virtual domains to define our strategic positioning within these multi-dimensional environments.",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2025-12-30 alle 17.37.45.png",
+            "size": 518991,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2025-12-30_alle_17.37.45.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nkio9iw7",
+      "x": 27079.388366509138,
+      "y": 11076.666923055944,
+      "w": 320,
+      "h": 327,
+      "group": null,
+      "data": {
+        "date": "2025-11-10",
+        "title": "PRODUCT PORTFOLIO",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "We have developed a product portfolio that integrates our linguistic engineering technology into scalable solutions, modeled directly on the needs of strategic partners. Assets are categorized and prioritized based on their cognitive impact power and the specific target profile",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ns70s18u",
+      "x": 40,
+      "y": 40,
+      "w": 320,
+      "h": 143,
+      "group": null,
+      "data": {
+        "date": "2026-01-08",
         "title": "",
-        "type": "Concept",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8da1ej2",
+      "x": 476.0642044748565,
+      "y": 56.1466545455969,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2026-01-06",
+        "title": "PRODUCT PORTFOLIO",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nw7u4xc5",
+      "x": 27737.874071567265,
+      "y": 10618.05141404157,
+      "w": 320,
+      "h": 370,
+      "group": null,
+      "data": {
+        "date": "2026-01-08",
+        "title": "SYNTAX-F1",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2026-01-09 alle 16.09.14.png",
+            "size": 2754920,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2026-01-09_alle_16.09.14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nkh6e81y",
+      "x": 27736.06908218801,
+      "y": 11393.516739491231,
+      "w": 320,
+      "h": 463,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "neuro lexis",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "We defined neuro lexis as a neural interface capable of reading and modifying language-based thoughts. We designed it to intercept and rewrite a person’s words and intentions directly within the brain.",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2026-01-09 alle 16.09.00.png",
+            "size": 945512,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2026-01-09_alle_16.09.00.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "npi03vmn",
+      "x": 27737.065924523667,
+      "y": 11112.57900041749,
+      "w": 320,
+      "h": 264,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "",
+        "type": "Collection",
         "action": "Exploring",
         "mainArea": "Speculation",
         "areas": [
           "War",
-          "Linguistic",
-          "Weapon"
+          "Cognitive science",
+          "Research",
+          "Informatics"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "We studied scientific papers and technical videos of medical prototypes. We analyzed these technologies to understand how to repurpose a medical device into a strategic control tool.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbmn7my8",
+      "x": 27737.010334587427,
+      "y": 12302.004016489394,
+      "w": 320,
+      "h": 479,
+      "group": null,
+      "data": {
+        "date": "2025-11-29",
+        "title": " project synapse-overlay",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "War",
+          "Weapon",
+          "Linguistic",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "We defined project synapse-overlay as software that intercepts and alters digital messages in real-time. We developed it to manipulate how people react to information by influencing their emotions through language.",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2026-01-09 alle 16.09.06.png",
+            "size": 473810,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2026-01-09_alle_16.09.06.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5v30iaq",
+      "x": 27738.654730441507,
+      "y": 12017.283992564146,
+      "w": 320,
+      "h": 264,
+      "group": null,
+      "data": {
+        "date": "2025-11-20",
+        "title": "",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "War",
+          "Cognitive science",
+          "Research",
+          "Informatics"
+        ],
+        "tags": [],
+        "desc": "We researched online studies and white papers on social media algorithms. We gathered data on how words can alter brain chemistry to transform a writing tool into a psychological weapon.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nru01lp9",
+      "x": 26665.765072246468,
+      "y": 11071.1675003755,
+      "w": 320,
+      "h": 344,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "reasearch on products",
+        "type": "Observation",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Research",
+          "Weapon",
+          "War",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "Research into the product portfolios and catalogs of leading arms companies to extract communication models, technical frameworks, and aesthetic standards. The objective is to analyze and acquire key sector insights in order to replicate their specialized language and authoritative positioning within our own strategic offering.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ng5gtvdb",
+      "x": 28595.074183591667,
+      "y": 9625.071317195569,
+      "w": 320,
+      "h": 248,
+      "group": null,
+      "data": {
+        "date": "2025-11-20",
+        "title": "Material List & Contextual Mapping",
+        "type": "Decision",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "We created a list of materials to prepare, matching each one to the specific context in which it would be used",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n70p9axm",
+      "x": 29357.923452117935,
+      "y": 9892.489792916207,
+      "w": 320,
+      "h": 585,
+      "group": null,
+      "data": {
+        "date": "2025-11-29",
+        "title": "infographics making",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Weapon",
+          "Linguistic"
+        ],
+        "tags": [],
+        "desc": "For each of our core themes, we created dedicated infographics capable of explaining the logical and scientific foundations of our projects. These visuals translate complex concepts into clear technical diagrams",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2026-01-09 alle 17.21.03.png",
+            "size": 1147800,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2026-01-09_alle_17.21.03.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9r9trqn",
+      "x": 29361.34018997081,
+      "y": 9132.129764303214,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-10-31",
+        "title": "video n.1",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Weapon",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "We produced the first version of the video using After Effects for editing and digital effects, integrating AI-generated content. This allowed us to create complex, modern visuals consistent with the project's high-tech identity.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nogniani",
+      "x": 29361.674109931853,
+      "y": 8534.534673535094,
+      "w": 320,
+      "h": 502,
+      "group": null,
+      "data": {
+        "date": "2025-10-15",
+        "title": "thirty sec teaser reserch and collecting",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Weapon",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "We developed an initial storyboard for the video teaser, based on our core corporate values and the message we wanted to convey. To define the tone and style, we drew inspiration from leading defense companies like Palantir, aiming for a high-tech and authoritative aesthetic.",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2026-01-09 alle 16.47.51.png",
+            "size": 379963,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2026-01-09_alle_16.47.51.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9gx1pto",
+      "x": 29796.481769197402,
+      "y": 9066.713242762964,
+      "w": 320,
+      "h": 418,
+      "group": null,
+      "data": {
+        "date": "2025-12-06",
+        "title": "thirty sec teaser reserch and collecting",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Weapon",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "Analyzing the weaknesses of the first video, we designed a new, more effective storyboard. In this phase, we decided to use a voice-over as the primary guide, writing a specific script to set the narrative pace and make the message clearer and more engaging.",
+        "links": [],
+        "files": [
+          {
+            "name": "Schermata 2026-01-09 alle 16.45.57.png",
+            "size": 944092,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Schermata_2026-01-09_alle_16.45.57.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n6qf99wx",
+      "x": 30200.361507910748,
+      "y": 9132.100226850253,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-12-10",
+        "title": "video n.2",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Weapon",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "We completed the production of the new video version, synchronizing the visuals with the vocal track. This final step allowed us to consolidate the union between the power of language (the narrated text) and the visual impact of our technology.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nvnkbn7b",
+      "x": 28595.303632349896,
+      "y": 9288.301133752153,
+      "w": 320,
+      "h": 315,
+      "group": null,
+      "data": {
+        "date": "2025-10-25",
+        "title": "research on comunication material",
+        "type": "Collection",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "We researched the actual documents and visual materials used in scientific, military, and engineering fields. We analyzed technical diagrams, manuals, and operational interfaces to understand how professionals in these sectors communicate. Our goal was to replicate this visual style to make our project look as realistic and credible as possible.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n77219o3",
+      "x": 29357.604894439217,
+      "y": 9510.383771826891,
+      "w": 320,
+      "h": 321,
+      "group": null,
+      "data": {
+        "date": "2025-11-22",
+        "title": "research on infographics",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Media"
+        ],
+        "tags": [],
+        "desc": "We conducted specific research into infographics used in engineering and military fields, analyzing flowcharts, ballistic diagrams, and targeting interfaces. We studied how these visuals synthesize complex data in a cold, functional manner to extract a visual language of coordinates, vectors, and technical legends.",
         "links": [],
         "files": []
       }
@@ -6080,58 +6612,173 @@
       "dashed": false
     },
     {
-      "s": "niw8dxqd",
-      "t": "n9bug27o",
+      "s": "nez51po0",
+      "t": "nzddw4kk",
       "dashed": false
     },
     {
-      "s": "n9bug27o",
+      "s": "nzddw4kk",
+      "t": "nvopg886",
+      "dashed": false
+    },
+    {
+      "s": "nzddw4kk",
+      "t": "nrgauvlt",
+      "dashed": false
+    },
+    {
+      "s": "nkcj6ckb",
+      "t": "nzddw4kk",
+      "dashed": false
+    },
+    {
+      "s": "np9s1rv6",
+      "t": "nrkavume",
+      "dashed": false
+    },
+    {
+      "s": "nzddw4kk",
+      "t": "nrkavume",
+      "dashed": false
+    },
+    {
+      "s": "nrkavume",
       "t": "nqa8h7xw",
       "dashed": false
     },
     {
-      "s": "niw8dxqd",
-      "t": "n4yji5ga",
+      "s": "nzddw4kk",
+      "t": "nkio9iw7",
+      "dashed": false
+    },
+    {
+      "s": "ns70s18u",
+      "t": "n8da1ej2",
+      "dashed": false
+    },
+    {
+      "s": "nkio9iw7",
+      "t": "nw7u4xc5",
+      "dashed": false
+    },
+    {
+      "s": "nkio9iw7",
+      "t": "nkh6e81y",
+      "dashed": false
+    },
+    {
+      "s": "npi03vmn",
+      "t": "nkh6e81y",
+      "dashed": false
+    },
+    {
+      "s": "nkio9iw7",
+      "t": "nbmn7my8",
+      "dashed": false
+    },
+    {
+      "s": "n5v30iaq",
+      "t": "nbmn7my8",
+      "dashed": false
+    },
+    {
+      "s": "nru01lp9",
+      "t": "nkio9iw7",
+      "dashed": false
+    },
+    {
+      "s": "nvopg886",
+      "t": "ng5gtvdb",
+      "dashed": false
+    },
+    {
+      "s": "nrkavume",
+      "t": "ng5gtvdb",
+      "dashed": false
+    },
+    {
+      "s": "nqa8h7xw",
+      "t": "ng5gtvdb",
+      "dashed": false
+    },
+    {
+      "s": "nrgauvlt",
+      "t": "ng5gtvdb",
+      "dashed": false
+    },
+    {
+      "s": "ng5gtvdb",
+      "t": "n70p9axm",
+      "dashed": false
+    },
+    {
+      "s": "ng5gtvdb",
+      "t": "n9r9trqn",
+      "dashed": false
+    },
+    {
+      "s": "nogniani",
+      "t": "n9r9trqn",
+      "dashed": false
+    },
+    {
+      "s": "n9r9trqn",
+      "t": "n9gx1pto",
+      "dashed": false
+    },
+    {
+      "s": "n9gx1pto",
+      "t": "n6qf99wx",
+      "dashed": false
+    },
+    {
+      "s": "nvnkbn7b",
+      "t": "ng5gtvdb",
+      "dashed": false
+    },
+    {
+      "s": "n77219o3",
+      "t": "n70p9axm",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Conflict",
-      "Society",
+      "Evolution",
+      "Censorship",
+      "Morphology",
+      "Mental health",
+      "Philosophy",
       "Information",
+      "Society",
+      "Conflict",
+      "War",
       "Cognitive science",
       "Research",
-      "Philosophy",
-      "Mental health",
-      "Morphology",
-      "Arts",
-      "Censorship",
-      "Evolution",
-      "Weapon",
-      "War",
       "Informatics",
-      "Linguistic",
-      "Media"
+      "Arts",
+      "Media",
+      "Weapon",
+      "Linguistic"
     ],
     "tags": [
-      "Engeneering",
-      "Futuristic",
+      "Video-games",
       "Pixel",
-      "Video-games"
+      "Futuristic",
+      "Engeneering"
     ],
     "type": [
-      "Concept",
-      "Decision",
-      "Sketch",
-      "Feedback",
-      "Source",
-      "Observation",
-      "Slides",
-      "Brief",
-      "Finding",
       "Collection",
-      "What-if"
+      "Decision",
+      "Observation",
+      "Concept",
+      "What-if",
+      "Brief",
+      "Slides",
+      "Source",
+      "Feedback",
+      "Finding",
+      "Sketch"
     ]
   }
 }
