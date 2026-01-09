@@ -3315,8 +3315,8 @@
     },
     {
       "id": "n8f7gtqz",
-      "x": 29705.86694467246,
-      "y": 2036.30728165097,
+      "x": 29649.86694467246,
+      "y": 2584.3072816509703,
       "w": 320,
       "h": 357,
       "group": null,
@@ -4433,8 +4433,8 @@
     },
     {
       "id": "nt6yneoh",
-      "x": 29422.82022608658,
-      "y": 2909.4472006097576,
+      "x": 29062.82022608658,
+      "y": 3249.4472006097576,
       "w": 320,
       "h": 586,
       "group": null,
@@ -4506,8 +4506,8 @@
     },
     {
       "id": "nhswaq6m",
-      "x": 31191.09315492615,
-      "y": 985.8433599073066,
+      "x": 31106.926506651816,
+      "y": 782.5197818099552,
       "w": 320,
       "h": 446,
       "group": null,
@@ -4570,40 +4570,9 @@
       }
     },
     {
-      "id": "nre4u0sx",
-      "x": 32777.828172366004,
-      "y": 1376.13213438826,
-      "w": 320,
-      "h": 790,
-      "group": null,
-      "data": {
-        "date": "2025-11-29",
-        "title": "Screw selection",
-        "type": "Output",
-        "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [
-          "Human-computer interaction"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": [
-          {
-            "name": "Screenshot 2025-12-16 165326.png",
-            "size": 1281681,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/Screenshot_2025-12-16_165326.jpg"
-          }
-        ]
-      }
-    },
-    {
       "id": "n2iouhmn",
-      "x": 32435.37148345601,
-      "y": 2179.049851315991,
+      "x": 32292.001823571816,
+      "y": 1764.0690344428208,
       "w": 320,
       "h": 924,
       "group": null,
@@ -4641,8 +4610,8 @@
     },
     {
       "id": "n72nvtp2",
-      "x": 30281.349500834567,
-      "y": 3129.7194107211562,
+      "x": 29773.349500834567,
+      "y": 3361.7194107211562,
       "w": 320,
       "h": 341,
       "group": null,
@@ -4671,46 +4640,15 @@
       }
     },
     {
-      "id": "no0bf05r",
-      "x": 32925.34950083456,
-      "y": 2377.7194107211562,
-      "w": 320,
-      "h": 572,
-      "group": null,
-      "data": {
-        "date": "2025-12-10",
-        "title": "Plexiglass cuts",
-        "type": "Output",
-        "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [
-          "Human-computer interaction"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": [
-          {
-            "name": "Screenshot 2025-12-16 165621.png",
-            "size": 393324,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/Screenshot_2025-12-16_165621.jpg"
-          }
-        ]
-      }
-    },
-    {
       "id": "niulwyrx",
-      "x": 31189.152807299313,
-      "y": 2590.443484331183,
+      "x": 31007.30473478733,
+      "y": 2606.443484331183,
       "w": 320,
-      "h": 193,
+      "h": 317,
       "group": null,
       "data": {
         "date": "2025-12-09",
-        "title": "nuovo teaser ",
+        "title": "New teaser ",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Communication",
@@ -4719,15 +4657,15 @@
           "Human-computer interaction"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Production of the final teaser video: the opening scenes show blurred crowds, with a voice-over explaining the context of isolation, accompanied by subtitles. The audio tracks guide the understanding of the concept: the farther one is from people, the calmer the sound becomes.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nt2lrypk",
-      "x": 30353.032421119166,
-      "y": 2196.1007087812254,
+      "x": 30281.032421119166,
+      "y": 2556.1007087812254,
       "w": 320,
       "h": 386,
       "group": null,
@@ -4760,8 +4698,8 @@
     },
     {
       "id": "ngbtgxg8",
-      "x": 33217.59573114303,
-      "y": 544.3254761960586,
+      "x": 31765.04344982041,
+      "y": 411.62449072432196,
       "w": 320,
       "h": 921,
       "group": null,
@@ -4791,8 +4729,8 @@
     },
     {
       "id": "njfbluv4",
-      "x": 33428.41853926024,
-      "y": 2533.255370970786,
+      "x": 32765.679219491853,
+      "y": 1846.0177104913644,
       "w": 320,
       "h": 1076,
       "group": null,
@@ -4846,8 +4784,8 @@
     },
     {
       "id": "nyt6tmov",
-      "x": 31982.960273904304,
-      "y": 3615.6692582266323,
+      "x": 31235.061415029435,
+      "y": 3722.8074778528917,
       "w": 320,
       "h": 400,
       "group": null,
@@ -4880,8 +4818,8 @@
     },
     {
       "id": "nct6x61s",
-      "x": 33082.960273904304,
-      "y": 3775.6692582266323,
+      "x": 31311.07713932256,
+      "y": 3204.2610918710902,
       "w": 320,
       "h": 410,
       "group": null,
@@ -4914,8 +4852,8 @@
     },
     {
       "id": "ntyxn24t",
-      "x": 34022.71191200073,
-      "y": 2066.9275349361205,
+      "x": 33251.75463292719,
+      "y": 2017.0129767890567,
       "w": 320,
       "h": 425,
       "group": null,
@@ -4945,8 +4883,8 @@
     },
     {
       "id": "nub05f5i",
-      "x": 34530.71191200073,
-      "y": 2086.9275349361205,
+      "x": 33706.27599339043,
+      "y": 1996.7172488817032,
       "w": 320,
       "h": 468,
       "group": null,
@@ -4976,8 +4914,8 @@
     },
     {
       "id": "njzv25ja",
-      "x": 33916.284793465245,
-      "y": 945.3098509420827,
+      "x": 32188.942069744007,
+      "y": 903.6094032888418,
       "w": 320,
       "h": 416,
       "group": null,
@@ -5007,8 +4945,8 @@
     },
     {
       "id": "nx6l8i6t",
-      "x": 34306.960273904304,
-      "y": 3427.6692582266323,
+      "x": 32154.960273904304,
+      "y": 2955.6692582266323,
       "w": 320,
       "h": 879,
       "group": null,
@@ -5051,6 +4989,433 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2025-12-19_alle_17.36.53.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0wgtab5",
+      "x": 31815.3557125456,
+      "y": 1370.9549610698703,
+      "w": 320,
+      "h": 273,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "prima prova funzionante circuito con raspberry",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Cognitive science",
+          "Brain interfaces",
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "Nuovo circuito raspberry, due sensori, scheda audio integrata, audio modulato con libreria Numpy",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ngeojzam",
+      "x": 32191.616167790085,
+      "y": 498.2829226028926,
+      "w": 320,
+      "h": 227,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "First audio tests with Raspberry Pi",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "Audio playback based on distance range using the Pygame library. First mixer test using an audio library.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "netjzc11",
+      "x": 26947.69168605821,
+      "y": 362.12799888317835,
+      "w": 320,
+      "h": 306,
+      "group": null,
+      "data": {
+        "date": "2025-11-17",
+        "title": "Audio tracks",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Brain interfaces",
+          "Human-computer interaction",
+          "Design research"
+        ],
+        "tags": [],
+        "desc": "Creation of three audio tracks using Ableton. One ambient base track with a mix of calming frequencies, one with noise effects and a third with progressively more distorted noise.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ntj29vaf",
+      "x": 31774.45852405337,
+      "y": -16.477651474747375,
+      "w": 320,
+      "h": 273,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "Adjustments to the audio tracks",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Brain interfaces",
+          "Human-computer interaction",
+          "Design research"
+        ],
+        "tags": [],
+        "desc": "Final definition of the three audio tracks using Ableton.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nf9fi30x",
+      "x": 32674.8359740097,
+      "y": 491.08267812444126,
+      "w": 320,
+      "h": 751,
+      "group": null,
+      "data": {
+        "date": "2025-12-22",
+        "title": "SoundDevice library",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "Multi-track audio mixer for Raspberry Pi with distance-based volume control.\nMixes 3 stereo WAV files with independent volume control based on lookup tables.\nThe library used is SoundDevice.\n\nUtilizzo di due soli sensori, problemi con interferenze sul bus e I2c.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-01-09 at 11.21.30.jpeg",
+            "size": 844571,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-09_at_11.21.30.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "npflajxf",
+      "x": 30329.349500834567,
+      "y": 3327.6692582266323,
+      "w": 320,
+      "h": 530,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "Final logos",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "Final brand adjustments: added a blur effect to the Armor logo and an extended dash to the Eden logo, along with typographic refinements.",
+        "links": [],
+        "files": [
+          {
+            "name": "armor.svg",
+            "size": 877354,
+            "type": "image/svg+xml",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/armor.jpg"
+          },
+          {
+            "name": "armorbianco.svg",
+            "size": 1612776,
+            "type": "image/svg+xml",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/armorbianco.jpg"
+          },
+          {
+            "name": "eden def bianco.svg",
+            "size": 984,
+            "type": "image/svg+xml",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/eden_def_bianco.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nublnfqh",
+      "x": 33118.690997918806,
+      "y": 672.8880296488459,
+      "w": 320,
+      "h": 294,
+      "group": null,
+      "data": {
+        "date": "2025-12-23",
+        "title": "new sensors VL53L4CX",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "The new sensors allow us to increase the distance range up to 3 m (previously 1 m) and have no issues with color recognition (white and black caused problems before). New code written.\nSwitched to non-continuous mode to avoid sensor interference.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqsbac55",
+      "x": 33647.95630477223,
+      "y": 907.1705806927863,
+      "w": 320,
+      "h": 328,
+      "group": null,
+      "data": {
+        "date": "2025-12-27",
+        "title": "Code updates and new components.",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "Implementation of a relay to autonomously turn the switchable film on and off with the circuit.\n\nPrinting of the sensor mounts.\n\nTesting the addition of a camera for people recognition to address the issue of distance detection being triggered by objects or walls.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nhvebt37",
+      "x": 34270.85832331706,
+      "y": 1613.9397387158374,
+      "w": 320,
+      "h": 1052,
+      "group": null,
+      "data": {
+        "date": "2025-12-30",
+        "title": "Prototype progress",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "Tests with the new sensors and the camera.\nPrinting of the camera and sensor mounts.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-01-09 at 12.11.18 (1).jpeg",
+            "size": 84794,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-09_at_12.11.18_(1).jpg"
+          },
+          {
+            "name": "WhatsApp Image 2026-01-09 at 12.11.18.jpeg",
+            "size": 116954,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-09_at_12.11.18.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2026-01-09 at 12.12.30.jpeg",
+            "size": 142951,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-09_at_12.12.30.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nx9gbomr",
+      "x": 34853.142580335494,
+      "y": 1967.7677776693513,
+      "w": 320,
+      "h": 767,
+      "group": null,
+      "data": {
+        "date": "2026-01-03",
+        "title": "Assembly of the components",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction"
+        ],
+        "tags": [],
+        "desc": "Drilling the tube to secure the mounts with screws.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-01-09 at 11.24.50.jpeg",
+            "size": 119628,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-09_at_11.24.50.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ndk04iou",
+      "x": 33302.885602402595,
+      "y": 2993.1271587443603,
+      "w": 320,
+      "h": 901,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "User manual printed",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Digital aesthetics",
+          "Communication",
+          "Design research",
+          "Media studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7814.jpg",
+            "size": 1325558,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7814.jpg"
+          },
+          {
+            "name": "IMG_7815.jpg",
+            "size": 1413714,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7815.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfsev295",
+      "x": 32575.061415029435,
+      "y": 3570.8074778528917,
+      "w": 320,
+      "h": 2046,
+      "group": null,
+      "data": {
+        "date": "2025-12-27",
+        "title": "App screen adjustments",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Digital aesthetics",
+          "Design research",
+          "Human-computer interaction",
+          "Media studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 12.26.51.png",
+            "size": 440465,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_12.26.51.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 12.27.15.png",
+            "size": 200689,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_12.27.15.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 12.27.49.png",
+            "size": 440705,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_12.27.49.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxhsdbzq",
+      "x": 33307.24357908244,
+      "y": 4114.807477852892,
+      "w": 320,
+      "h": 640,
+      "group": null,
+      "data": {
+        "date": "2025-12-20",
+        "title": "White paper",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research",
+          "Digital aesthetics"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 12.30.59.png",
+            "size": 407102,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_12.30.59.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 12.31.11.png",
+            "size": 664053,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_12.31.11.jpg"
           }
         ]
       }
@@ -6029,22 +6394,12 @@
     },
     {
       "s": "ng8moudc",
-      "t": "nre4u0sx",
-      "dashed": false
-    },
-    {
-      "s": "ng8moudc",
       "t": "n2iouhmn",
       "dashed": false
     },
     {
       "s": "nt6yneoh",
       "t": "n72nvtp2",
-      "dashed": false
-    },
-    {
-      "s": "n2iouhmn",
-      "t": "no0bf05r",
       "dashed": false
     },
     {
@@ -6058,33 +6413,13 @@
       "dashed": false
     },
     {
-      "s": "no0bf05r",
-      "t": "njfbluv4",
-      "dashed": false
-    },
-    {
       "s": "n72nvtp2",
       "t": "njfbluv4",
-      "dashed": false
-    },
-    {
-      "s": "n72nvtp2",
-      "t": "nyt6tmov",
-      "dashed": false
-    },
-    {
-      "s": "nyt6tmov",
-      "t": "nct6x61s",
       "dashed": false
     },
     {
       "s": "nt2lrypk",
       "t": "niulwyrx",
-      "dashed": false
-    },
-    {
-      "s": "nre4u0sx",
-      "t": "ntyxn24t",
       "dashed": false
     },
     {
@@ -6103,59 +6438,154 @@
       "dashed": false
     },
     {
-      "s": "nct6x61s",
+      "s": "n2iouhmn",
+      "t": "njfbluv4",
+      "dashed": false
+    },
+    {
+      "s": "nhswaq6m",
+      "t": "n0wgtab5",
+      "dashed": false
+    },
+    {
+      "s": "ngbtgxg8",
+      "t": "ngeojzam",
+      "dashed": false
+    },
+    {
+      "s": "nuszry6e",
+      "t": "netjzc11",
+      "dashed": false
+    },
+    {
+      "s": "netjzc11",
+      "t": "nublc4i8",
+      "dashed": false
+    },
+    {
+      "s": "netjzc11",
+      "t": "ntj29vaf",
+      "dashed": false
+    },
+    {
+      "s": "ntj29vaf",
+      "t": "ngeojzam",
+      "dashed": false
+    },
+    {
+      "s": "ngeojzam",
+      "t": "nf9fi30x",
+      "dashed": false
+    },
+    {
+      "s": "n72nvtp2",
+      "t": "npflajxf",
+      "dashed": false
+    },
+    {
+      "s": "nmvgfitc",
+      "t": "nyt6tmov",
+      "dashed": false
+    },
+    {
+      "s": "nf9fi30x",
+      "t": "nublnfqh",
+      "dashed": false
+    },
+    {
+      "s": "nublnfqh",
+      "t": "nqsbac55",
+      "dashed": false
+    },
+    {
+      "s": "nub05f5i",
+      "t": "nhvebt37",
+      "dashed": false
+    },
+    {
+      "s": "nqsbac55",
+      "t": "nhvebt37",
+      "dashed": false
+    },
+    {
+      "s": "nhvebt37",
+      "t": "nx9gbomr",
+      "dashed": false
+    },
+    {
+      "s": "nmvgfitc",
+      "t": "nct6x61s",
+      "dashed": false
+    },
+    {
+      "s": "nmvgfitc",
       "t": "nx6l8i6t",
+      "dashed": false
+    },
+    {
+      "s": "nx6l8i6t",
+      "t": "ndk04iou",
+      "dashed": false
+    },
+    {
+      "s": "nyt6tmov",
+      "t": "nfsev295",
+      "dashed": false
+    },
+    {
+      "s": "nmvgfitc",
+      "t": "nxhsdbzq",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Human-computer interaction",
-      "Design research",
-      "Media studies",
-      "Communication",
       "Digital aesthetics",
-      "Cognitive science",
-      "Brain interfaces",
-      "Society studies",
-      "Critical theory",
-      "Japanese aesthetics",
-      "Archeoacustics",
-      "Anthropology",
-      "Neuroscience",
+      "Communication",
+      "Socio-political",
       "Critical design",
-      "Socio-political"
+      "Neuroscience",
+      "Anthropology",
+      "Archeoacustics",
+      "Japanese aesthetics",
+      "Critical theory",
+      "Society studies",
+      "Brain interfaces",
+      "Cognitive science",
+      "Media studies",
+      "Design research",
+      "Human-computer interaction"
     ],
     "tags": [
-      "Grotesque typography",
-      "Isolation",
-      "Blur",
-      "Branding",
-      "Output",
-      "Opaque film",
-      "Calming",
-      "Sound",
-      "Disturbing",
-      "Swiss design",
-      "Confrontation",
-      "White noise",
-      "Protection",
-      "Technological optimism",
-      "Y2k",
-      "Organic",
+      "Sea",
       "Shell",
-      "Sea"
+      "Organic",
+      "Y2k",
+      "Technological optimism",
+      "Protection",
+      "White noise",
+      "Confrontation",
+      "Swiss design",
+      "Disturbing",
+      "Sound",
+      "Calming",
+      "Opaque film",
+      "Output",
+      "Branding",
+      "Blur",
+      "Isolation",
+      "Grotesque typography"
     ],
     "type": [
+      "Concept",
       "Output",
       "Sketch",
-      "Concept",
-      "Finding",
-      "Brief",
-      "Source",
-      "Collection",
+      "Decision",
       "Feedback",
-      "Decision"
+      "Collection",
+      "Source",
+      "Brief",
+      "Finding"
     ]
   }
 }
