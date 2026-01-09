@@ -3313,8 +3313,8 @@
     },
     {
       "id": "n5zyzlt1",
-      "x": 12260.981170159146,
-      "y": 130.1170183041388,
+      "x": 12184.981170159146,
+      "y": 98.11701830413881,
       "w": 320,
       "h": 585,
       "group": null,
@@ -3352,8 +3352,8 @@
     },
     {
       "id": "ns8aw5k0",
-      "x": 12132.26329643462,
-      "y": -524.3142968969676,
+      "x": 12288.26329643462,
+      "y": -1540.3142968969676,
       "w": 320,
       "h": 568,
       "group": null,
@@ -3545,7 +3545,7 @@
       "group": null,
       "data": {
         "date": "2025-12-01",
-        "title": "storyboard",
+        "title": "storyboard teaser",
         "type": "Sketch",
         "action": "Exploring",
         "mainArea": null,
@@ -3580,7 +3580,7 @@
       "x": 13426.999999999996,
       "y": 554,
       "w": 320,
-      "h": 1715,
+      "h": 1714,
       "group": null,
       "data": {
         "date": "2025-12-16",
@@ -3679,8 +3679,8 @@
     },
     {
       "id": "nnauhcsn",
-      "x": 12933.776937493849,
-      "y": -748.88480914762,
+      "x": 13873.776937493849,
+      "y": -1108.88480914762,
       "w": 320,
       "h": 1734,
       "group": null,
@@ -3728,8 +3728,8 @@
     },
     {
       "id": "n9q3zve6",
-      "x": 13725.405309666357,
-      "y": -417.23877674418645,
+      "x": 14445.405309666357,
+      "y": -85.23877674418645,
       "w": 320,
       "h": 519,
       "group": null,
@@ -3821,7 +3821,7 @@
       "x": 15814.453589314297,
       "y": 3226.0474940548947,
       "w": 320,
-      "h": 613,
+      "h": 614,
       "group": null,
       "data": {
         "date": "2025-12-16",
@@ -3853,6 +3853,494 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Slide_16_9_-_40.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntzrjlid",
+      "x": 13520.805956122422,
+      "y": 4320.088054999059,
+      "w": 320,
+      "h": 537,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "teaser",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "In the teaser video we give space to the people of the culture that UNEC protects, letting them guide the narration by explaining why they can't keep on living without the choice of cryopreservation. We choose to link this stories with the concept of fading, to give a concrete idea of what its happening to people, explaining why UNEC is crucial in the surviving of human species. (since the video file is quite heavy here we only upload the first frame of the teaser, to see the full video go on google drive)",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 14.28.50.png",
+            "size": 1594955,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.28.50.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ns7qiv6l",
+      "x": 13517.202796588701,
+      "y": 5005.527864366168,
+      "w": 320,
+      "h": 915,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "video animatic and updates",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "we define the script and the scenes in the video",
+        "links": [],
+        "files": [
+          {
+            "name": "animatic storyboard.png",
+            "size": 3137545,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/animatic_storyboard.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 14.02.59.png",
+            "size": 233519,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.02.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njv2e59d",
+      "x": 12718.829931446573,
+      "y": -186.59720850673912,
+      "w": 320,
+      "h": 386,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "defining character identities",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "All the dress worn by the characters",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 15.03.21.png",
+            "size": 174193,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_15.03.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nj3ube1l",
+      "x": 13267.656128078963,
+      "y": -2781.416139235041,
+      "w": 320,
+      "h": 1793,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "app interface definition",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "We define the interfaces of the integrated app on mobile. Adding new areas and features.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 14.05.02.png",
+            "size": 272555,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.05.02.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 14.05.11.png",
+            "size": 176966,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.05.11.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 14.05.22.png",
+            "size": 427821,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.05.22.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na127mu9",
+      "x": 12767.603647165846,
+      "y": -2792.197534894988,
+      "w": 320,
+      "h": 917,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "tablet app interface",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "To make people choose their favourite culture that they want to adopt, we study the interface that will be put on frames in order to have an efficient webapp.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 14.05.45.png",
+            "size": 792453,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.05.45.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 14.05.53.png",
+            "size": 474417,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.05.53.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 14.05.58.png",
+            "size": 33516,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.05.58.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "npza5mej",
+      "x": 14553.725873491985,
+      "y": -1789.3956651746814,
+      "w": 320,
+      "h": 1546,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "linking linear actuator to code",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "integrating the vibration to the code structure and continuing by developing the interface on javascript.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7466.PNG",
+            "size": 8535241,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7466.jpg"
+          },
+          {
+            "name": "IMG_7467.PNG",
+            "size": 8786075,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7467.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7in0k52",
+      "x": 16300.733824504045,
+      "y": 3452.357005351963,
+      "w": 320,
+      "h": 622,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "first print of the artefacts",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "We printed the first version of the posters.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7138.png",
+            "size": 14389230,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7138.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "npqfd13j",
+      "x": 16332.028987364087,
+      "y": 780.7849790816595,
+      "w": 320,
+      "h": 673,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "defining the identities for the characters",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "Defining and creating the reports of each of the six characters.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 14.06.23.png",
+            "size": 880848,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.06.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncqd76dh",
+      "x": 16320.028987364087,
+      "y": 1491.7816447081582,
+      "w": 320,
+      "h": 1506,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "collecting artefacts",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "We collected a lot of objects of the cultures represented during the exhibition, in order to put them in the folders of the report, like sorts of heirlooms that the people cherish, the last evidence of their presence.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7177.png",
+            "size": 16286812,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7177.jpg"
+          },
+          {
+            "name": "IMG_7178.png",
+            "size": 14026100,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7178.jpg"
+          },
+          {
+            "name": "IMG_7180.png",
+            "size": 13941445,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7180.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n05t8vqi",
+      "x": 16815.43169209344,
+      "y": 500.2653395035218,
+      "w": 320,
+      "h": 1185,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "the first finished folder",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Socio-cultural",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7140.png",
+            "size": 11977117,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7140.jpg"
+          },
+          {
+            "name": "IMG_7134.png",
+            "size": 11928493,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7134.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 15.04.28.png",
+            "size": 1100491,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_15.04.28.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n39v0jhy",
+      "x": 12707.275026865922,
+      "y": 245.5311461935005,
+      "w": 320,
+      "h": 345,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "defining recipes",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 15.03.41.png",
+            "size": 191435,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_15.03.41.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nimf0a4r",
+      "x": 12698.421008263496,
+      "y": 639.4363187825295,
+      "w": 320,
+      "h": 345,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "defining rituals",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 15.03.26.png",
+            "size": 146339,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_15.03.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncep8wxf",
+      "x": 14895.539805487953,
+      "y": -115.12208875700497,
+      "w": 320,
+      "h": 688,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "cryocare render+support+inside",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 15.03.00.png",
+            "size": 329045,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_15.03.00.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 15.03.10.png",
+            "size": 456394,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_15.03.10.jpg"
           }
         ]
       }
@@ -4648,46 +5136,111 @@
       "s": "nyigc94o",
       "t": "njltw2wb",
       "dashed": false
+    },
+    {
+      "s": "ndqvf5ra",
+      "t": "ntzrjlid",
+      "dashed": false
+    },
+    {
+      "s": "ndqvf5ra",
+      "t": "ns7qiv6l",
+      "dashed": false
+    },
+    {
+      "s": "n5zyzlt1",
+      "t": "njv2e59d",
+      "dashed": false
+    },
+    {
+      "s": "ns8aw5k0",
+      "t": "nj3ube1l",
+      "dashed": false
+    },
+    {
+      "s": "ns8aw5k0",
+      "t": "na127mu9",
+      "dashed": false
+    },
+    {
+      "s": "nnauhcsn",
+      "t": "npza5mej",
+      "dashed": false
+    },
+    {
+      "s": "njltw2wb",
+      "t": "n7in0k52",
+      "dashed": false
+    },
+    {
+      "s": "ng8w0gph",
+      "t": "npqfd13j",
+      "dashed": false
+    },
+    {
+      "s": "ng8w0gph",
+      "t": "ncqd76dh",
+      "dashed": false
+    },
+    {
+      "s": "npqfd13j",
+      "t": "n05t8vqi",
+      "dashed": false
+    },
+    {
+      "s": "n5zyzlt1",
+      "t": "n39v0jhy",
+      "dashed": false
+    },
+    {
+      "s": "n5zyzlt1",
+      "t": "nimf0a4r",
+      "dashed": false
+    },
+    {
+      "s": "n9q3zve6",
+      "t": "ncep8wxf",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Machine",
       "Branding",
-      "Communication",
-      "Process",
-      "Process documentation",
-      "Design research",
-      "People",
-      "Media studies",
-      "Amare i robot?",
-      "Critical theory",
-      "Conflicts",
-      "Critical design",
-      "Socio-political",
       "Socio-cultural",
-      "Machine"
+      "Socio-political",
+      "Critical design",
+      "Conflicts",
+      "Critical theory",
+      "Amare i robot?",
+      "Media studies",
+      "People",
+      "Design research",
+      "Process documentation",
+      "Process",
+      "Communication"
     ],
     "tags": [
-      "Branding",
-      "Exploring",
-      "3d print",
-      "Source",
-      "Limited scope",
+      "Already explored",
       "Discarded",
-      "Already explored"
+      "Limited scope",
+      "Source",
+      "3d print",
+      "Exploring",
+      "Branding"
     ],
     "type": [
       "Artefact",
+      "Finding",
+      "Concept",
+      "Output",
       "Sketch",
       "Observation",
-      "Output",
-      "Case study",
-      "Finding",
-      "Brief",
-      "Feedback",
+      "Source",
       "Collection",
-      "Concept",
-      "Source"
+      "Feedback",
+      "Brief",
+      "Case study"
     ]
   }
 }
