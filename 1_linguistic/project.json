@@ -4225,10 +4225,10 @@
     },
     {
       "id": "nehnzqu2",
-      "x": 22954.810843428062,
-      "y": 4229.153410060063,
+      "x": 22970.493620110017,
+      "y": 3918.98293790582,
       "w": 320,
-      "h": 535,
+      "h": 742,
       "group": null,
       "data": {
         "date": "2025-10-30",
@@ -4256,6 +4256,14 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2026-01-10_alle_18.02.39.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-10 alle 22.13.58.png",
+            "size": 1500044,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-10_alle_22.13.58.jpg"
           }
         ]
       }
@@ -4303,7 +4311,7 @@
       "h": 488,
       "group": null,
       "data": {
-        "date": "2026-01-10",
+        "date": "2025-11-06",
         "title": "Experiments about interaction and sensors",
         "type": "Source",
         "action": null,
@@ -4328,6 +4336,356 @@
             "path": "assets/Screenshot_2026-01-10_alle_18.08.23.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "nqehq7co",
+      "x": 23434.810843428062,
+      "y": 5332.153410060063,
+      "w": 320,
+      "h": 628,
+      "group": null,
+      "data": {
+        "date": "2025-11-06",
+        "title": "First User-experience",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-10 alle 22.10.39.png",
+            "size": 1668297,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-10_alle_22.10.39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nslgajy4",
+      "x": 24111.895551174006,
+      "y": 4933.482869810952,
+      "w": 320,
+      "h": 899,
+      "group": null,
+      "data": {
+        "date": "2025-11-12",
+        "title": "Idea of creating a machine that evocates more the strategy and war",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "this was our first sketch where we thinked that it could be nice for the project and its own story if it was totally inside the \"strategy\" world.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-10 alle 22.15.21.png",
+            "size": 1553457,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-10_alle_22.15.21.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-10 alle 22.17.41.png",
+            "size": 3280538,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-10_alle_22.17.41.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsq2waiu",
+      "x": 24607.895551174006,
+      "y": 4445.482869810952,
+      "w": 320,
+      "h": 673,
+      "group": null,
+      "data": {
+        "date": "2025-11-19",
+        "title": "Idea of the total experience ",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "ths sketch explains our idea for the experience in its total, from teh machine to the background",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-10 alle 22.18.46.png",
+            "size": 1677930,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-10_alle_22.18.46.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7u5wvvn",
+      "x": 25087.895551174006,
+      "y": 4445.482869810952,
+      "w": 320,
+      "h": 629,
+      "group": null,
+      "data": {
+        "date": "2025-11-19",
+        "title": "Technical explanation of our first idea ",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "this helped us understand what was useful to use, and what we had to try and see if it worked as we wanted. The Hall sensors for example are something that we never thought about, and we had to try them to understand if they could work and fit perfectly for us",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-11-05 at 12.39.45 (1).jpeg",
+            "size": 102514,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-11-05_at_12.39.45_(1).jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngxjrhx9",
+      "x": 25564.65882898776,
+      "y": 4445.482869810952,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2026-01-10",
+        "title": "LLM",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n49uhy2u",
+      "x": 25564.65882898776,
+      "y": 4658.552436728214,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2026-01-10",
+        "title": "Hall sensor",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nak9vhqw",
+      "x": 25564.65882898776,
+      "y": 4869.482869810952,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2026-01-10",
+        "title": "Led Matrix",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nb594y06",
+      "x": 25564.65882898776,
+      "y": 5111.482869810952,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2026-01-10",
+        "title": "Plexiglass panel",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4y4iegi",
+      "x": 25567.895551174006,
+      "y": 5353.482869810952,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2026-01-10",
+        "title": "Arduino ",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4tavs5l",
+      "x": 26047.895551174006,
+      "y": 4658.552436728214,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2026-01-10",
+        "title": "Kinect",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ntxrjket",
+      "x": 26466.397829635396,
+      "y": 4716.813436080581,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2026-01-10",
+        "title": "TOF sensors",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzyevors",
+      "x": 26955.117813110264,
+      "y": 5083.733507253871,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2026-01-10",
+        "title": "prototype",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -6911,45 +7269,145 @@
       "s": "nu2edqyt",
       "t": "nrgtdgvx",
       "dashed": false
+    },
+    {
+      "s": "nu2edqyt",
+      "t": "nqehq7co",
+      "dashed": false
+    },
+    {
+      "s": "nu2edqyt",
+      "t": "nslgajy4",
+      "dashed": false
+    },
+    {
+      "s": "nfcz39dz",
+      "t": "nslgajy4",
+      "dashed": false
+    },
+    {
+      "s": "nehnzqu2",
+      "t": "nslgajy4",
+      "dashed": false
+    },
+    {
+      "s": "nslgajy4",
+      "t": "nsq2waiu",
+      "dashed": false
+    },
+    {
+      "s": "nqehq7co",
+      "t": "nsq2waiu",
+      "dashed": false
+    },
+    {
+      "s": "nsq2waiu",
+      "t": "n7u5wvvn",
+      "dashed": false
+    },
+    {
+      "s": "n7u5wvvn",
+      "t": "ngxjrhx9",
+      "dashed": false
+    },
+    {
+      "s": "n7u5wvvn",
+      "t": "n49uhy2u",
+      "dashed": false
+    },
+    {
+      "s": "n7u5wvvn",
+      "t": "nak9vhqw",
+      "dashed": false
+    },
+    {
+      "s": "n7u5wvvn",
+      "t": "nb594y06",
+      "dashed": false
+    },
+    {
+      "s": "n7u5wvvn",
+      "t": "n4y4iegi",
+      "dashed": false
+    },
+    {
+      "s": "n49uhy2u",
+      "t": "n4tavs5l",
+      "dashed": false
+    },
+    {
+      "s": "n4tavs5l",
+      "t": "ntxrjket",
+      "dashed": false
+    },
+    {
+      "s": "ntxrjket",
+      "t": "nzyevors",
+      "dashed": false
+    },
+    {
+      "s": "ngxjrhx9",
+      "t": "nzyevors",
+      "dashed": false
+    },
+    {
+      "s": "n49uhy2u",
+      "t": "nzyevors",
+      "dashed": false
+    },
+    {
+      "s": "nak9vhqw",
+      "t": "nzyevors",
+      "dashed": false
+    },
+    {
+      "s": "nb594y06",
+      "t": "nzyevors",
+      "dashed": false
+    },
+    {
+      "s": "n4y4iegi",
+      "t": "nzyevors",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Linguistic",
-      "Weapon",
-      "Media",
-      "Arts",
-      "Informatics",
-      "Research",
-      "Cognitive science",
-      "War",
-      "Conflict",
-      "Society",
-      "Information",
-      "Philosophy",
-      "Mental health",
-      "Morphology",
+      "Evolution",
       "Censorship",
-      "Evolution"
+      "Morphology",
+      "Mental health",
+      "Philosophy",
+      "Information",
+      "Society",
+      "Conflict",
+      "War",
+      "Cognitive science",
+      "Research",
+      "Informatics",
+      "Arts",
+      "Media",
+      "Weapon",
+      "Linguistic"
     ],
     "tags": [
-      "Engeneering",
-      "Futuristic",
+      "Video-games",
       "Pixel",
-      "Video-games"
+      "Futuristic",
+      "Engeneering"
     ],
     "type": [
-      "Source",
       "Concept",
-      "Sketch",
-      "What-if",
-      "Decision",
-      "Collection",
-      "Finding",
-      "Feedback",
-      "Slides",
+      "Source",
+      "Observation",
       "Brief",
-      "Observation"
+      "Slides",
+      "Feedback",
+      "Finding",
+      "Collection",
+      "Decision",
+      "What-if",
+      "Sketch"
     ]
   }
 }
