@@ -181,8 +181,8 @@
     },
     {
       "id": "ntzkv8l2",
-      "x": 2400,
-      "y": 0,
+      "x": 2379.112927278704,
+      "y": 4.351473483603371,
       "w": 320,
       "h": 281,
       "group": null,
@@ -3453,8 +3453,8 @@
     },
     {
       "id": "nz2uv899",
-      "x": 40,
-      "y": 40,
+      "x": 31381.258453338523,
+      "y": 10489.151375656445,
       "w": 320,
       "h": 413,
       "group": null,
@@ -3489,10 +3489,10 @@
     },
     {
       "id": "nrktn61y",
-      "x": 21326.80274680022,
-      "y": 4486.785103724751,
+      "x": 21545.046966848757,
+      "y": 4660.404307533331,
       "w": 320,
-      "h": 202,
+      "h": 260,
       "group": null,
       "data": {
         "date": "2025-10-17",
@@ -3508,27 +3508,7 @@
           "Media"
         ],
         "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nwysul8q",
-      "x": 21142.83830307305,
-      "y": 4050.5895458503282,
-      "w": 320,
-      "h": 173,
-      "group": null,
-      "data": {
-        "date": "2025-12-02",
-        "title": "CHECKPOINT - AGGIUNGERE DA QUA",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
+        "desc": "we started exploring the idea of doing a machine that could simulate a new level of weapon.",
         "links": [],
         "files": []
       }
@@ -3764,29 +3744,9 @@
       }
     },
     {
-      "id": "ns70s18u",
-      "x": 40,
-      "y": 40,
-      "w": 320,
-      "h": 143,
-      "group": null,
-      "data": {
-        "date": "2026-01-08",
-        "title": "",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "n8da1ej2",
-      "x": 476.0642044748565,
-      "y": 56.1466545455969,
+      "x": 31499.915381026636,
+      "y": 9781.926679635239,
       "w": 320,
       "h": 202,
       "group": null,
@@ -4187,6 +4147,187 @@
         "desc": "We conducted specific research into infographics used in engineering and military fields, analyzing flowcharts, ballistic diagrams, and targeting interfaces. We studied how these visuals synthesize complex data in a cold, functional manner to extract a visual language of coordinates, vectors, and technical legends.",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "nna0onk9",
+      "x": 21990.810843428062,
+      "y": 4229.153410060063,
+      "w": 320,
+      "h": 566,
+      "group": null,
+      "data": {
+        "date": "2025-10-20",
+        "title": "Parameters for a linguistic weapon",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [
+          "Engeneering"
+        ],
+        "desc": "we tried tyo search some linguistic parameters that could fit perfectly in this situation.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-10 alle 16.08.18.png",
+            "size": 236881,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-10_alle_16.08.18.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfcz39dz",
+      "x": 22474.810843428062,
+      "y": 4229.153410060063,
+      "w": 320,
+      "h": 579,
+      "group": null,
+      "data": {
+        "date": "2026-10-22",
+        "title": "First idea of the machine ",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [
+          "Engeneering"
+        ],
+        "desc": "this is the first idea of our experiencial machine. it's a console where each button controls a parameters",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-10 alle 17.59.19.png",
+            "size": 104851,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-10_alle_17.59.19.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nehnzqu2",
+      "x": 22954.810843428062,
+      "y": 4229.153410060063,
+      "w": 320,
+      "h": 535,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "Screen visualization",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [
+          "Engeneering"
+        ],
+        "desc": "this was our first  idea of the screen visualization, it had to remember something similar to a computer used in a war ambient ",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-10 alle 18.02.39.png",
+            "size": 246371,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-10_alle_18.02.39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nu2edqyt",
+      "x": 22954.810843428062,
+      "y": 4804.153410060063,
+      "w": 320,
+      "h": 648,
+      "group": null,
+      "data": {
+        "date": "2025-10-30",
+        "title": "First approach to Interaction",
+        "type": "Concept",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "we tried to imagine the interaction that could fit in our machine",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-10 alle 18.06.29.png",
+            "size": 1601220,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-10_alle_18.06.29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrgtdgvx",
+      "x": 23434.810843428062,
+      "y": 4804.153410060063,
+      "w": 320,
+      "h": 488,
+      "group": null,
+      "data": {
+        "date": "2026-01-10",
+        "title": "Experiments about interaction and sensors",
+        "type": "Source",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "this is our first approach to the hand tracking sensors",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-10 alle 18.08.23.png",
+            "size": 774974,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-10_alle_18.08.23.jpg"
+          }
+        ]
       }
     }
   ],
@@ -6597,16 +6738,6 @@
       "dashed": false
     },
     {
-      "s": "nrktn61y",
-      "t": "nwysul8q",
-      "dashed": false
-    },
-    {
-      "s": "nwysul8q",
-      "t": "nrktn61y",
-      "dashed": false
-    },
-    {
       "s": "ngknws7j",
       "t": "nkcj6ckb",
       "dashed": false
@@ -6649,11 +6780,6 @@
     {
       "s": "nzddw4kk",
       "t": "nkio9iw7",
-      "dashed": false
-    },
-    {
-      "s": "ns70s18u",
-      "t": "n8da1ej2",
       "dashed": false
     },
     {
@@ -6740,45 +6866,90 @@
       "s": "n77219o3",
       "t": "n70p9axm",
       "dashed": false
+    },
+    {
+      "s": "nrktn61y",
+      "t": "n5tmy4zl",
+      "dashed": false
+    },
+    {
+      "s": "nrktn61y",
+      "t": "nna0onk9",
+      "dashed": false
+    },
+    {
+      "s": "n4irjbek",
+      "t": "nna0onk9",
+      "dashed": false
+    },
+    {
+      "s": "nk0kg6g0",
+      "t": "nna0onk9",
+      "dashed": false
+    },
+    {
+      "s": "n61tvfos",
+      "t": "nna0onk9",
+      "dashed": false
+    },
+    {
+      "s": "nna0onk9",
+      "t": "nfcz39dz",
+      "dashed": false
+    },
+    {
+      "s": "nfcz39dz",
+      "t": "nehnzqu2",
+      "dashed": false
+    },
+    {
+      "s": "nfcz39dz",
+      "t": "nu2edqyt",
+      "dashed": false
+    },
+    {
+      "s": "nu2edqyt",
+      "t": "nrgtdgvx",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Evolution",
-      "Censorship",
-      "Morphology",
-      "Mental health",
-      "Philosophy",
-      "Information",
-      "Society",
-      "Conflict",
-      "War",
-      "Cognitive science",
-      "Research",
-      "Informatics",
-      "Arts",
-      "Media",
+      "Linguistic",
       "Weapon",
-      "Linguistic"
+      "Media",
+      "Arts",
+      "Informatics",
+      "Research",
+      "Cognitive science",
+      "War",
+      "Conflict",
+      "Society",
+      "Information",
+      "Philosophy",
+      "Mental health",
+      "Morphology",
+      "Censorship",
+      "Evolution"
     ],
     "tags": [
-      "Video-games",
-      "Pixel",
+      "Engeneering",
       "Futuristic",
-      "Engeneering"
+      "Pixel",
+      "Video-games"
     ],
     "type": [
-      "Collection",
-      "Decision",
-      "Observation",
-      "Concept",
-      "What-if",
-      "Brief",
-      "Slides",
       "Source",
-      "Feedback",
+      "Concept",
+      "Sketch",
+      "What-if",
+      "Decision",
+      "Collection",
       "Finding",
-      "Sketch"
+      "Feedback",
+      "Slides",
+      "Brief",
+      "Observation"
     ]
   }
 }
