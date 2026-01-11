@@ -3452,42 +3452,6 @@
       }
     },
     {
-      "id": "nz2uv899",
-      "x": 31381.258453338523,
-      "y": 10489.151375656445,
-      "w": 320,
-      "h": 413,
-      "group": null,
-      "data": {
-        "date": "2025-10-30",
-        "title": "Some ASCII reference",
-        "type": "Collection",
-        "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [
-          "Weapon",
-          "War"
-        ],
-        "tags": [
-          "Futuristic",
-          "Pixel",
-          "Video-games"
-        ],
-        "desc": "we've collected some ascii reference to complete our style",
-        "links": [],
-        "files": [
-          {
-            "name": "Screenshot 2025-11-27 alle 18.50.16.png",
-            "size": 1477722,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/Screenshot_2025-11-27_alle_18.50.16.jpg"
-          }
-        ]
-      }
-    },
-    {
       "id": "nrktn61y",
       "x": 21545.046966848757,
       "y": 4660.404307533331,
@@ -3739,31 +3703,6 @@
         ],
         "tags": [],
         "desc": "We have developed a product portfolio that integrates our linguistic engineering technology into scalable solutions, modeled directly on the needs of strategic partners. Assets are categorized and prioritized based on their cognitive impact power and the specific target profile",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n8da1ej2",
-      "x": 31499.915381026636,
-      "y": 9781.926679635239,
-      "w": 320,
-      "h": 202,
-      "group": null,
-      "data": {
-        "date": "2026-01-06",
-        "title": "PRODUCT PORTFOLIO",
-        "type": "Decision",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "War",
-          "Weapon",
-          "Linguistic",
-          "Informatics"
-        ],
-        "tags": [],
-        "desc": "",
         "links": [],
         "files": []
       }
@@ -4197,7 +4136,7 @@
         "date": "2026-10-22",
         "title": "First idea of the machine ",
         "type": "Concept",
-        "action": null,
+        "action": "Exploring",
         "mainArea": "Interaction",
         "areas": [
           "Weapon",
@@ -4234,7 +4173,7 @@
         "date": "2025-10-30",
         "title": "Screen visualization",
         "type": "Concept",
-        "action": null,
+        "action": "Exploring",
         "mainArea": "Interaction",
         "areas": [
           "Weapon",
@@ -4279,7 +4218,7 @@
         "date": "2025-10-30",
         "title": "First approach to Interaction",
         "type": "Concept",
-        "action": null,
+        "action": "Exploring",
         "mainArea": "Interaction",
         "areas": [
           "Weapon",
@@ -4314,7 +4253,7 @@
         "date": "2025-11-06",
         "title": "Experiments about interaction and sensors",
         "type": "Source",
-        "action": null,
+        "action": "Exploring",
         "mainArea": "Interaction",
         "areas": [
           "Weapon",
@@ -4349,7 +4288,7 @@
         "date": "2025-11-06",
         "title": "First User-experience",
         "type": "Concept",
-        "action": null,
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Weapon",
@@ -4384,7 +4323,7 @@
         "date": "2025-11-12",
         "title": "Idea of creating a machine that evocates more the strategy and war",
         "type": "Concept",
-        "action": null,
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Weapon",
@@ -4427,7 +4366,7 @@
         "date": "2025-11-19",
         "title": "Idea of the total experience ",
         "type": "Concept",
-        "action": null,
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Weapon",
@@ -4462,7 +4401,7 @@
         "date": "2025-11-19",
         "title": "Technical explanation of our first idea ",
         "type": "Concept",
-        "action": null,
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Weapon",
@@ -4488,16 +4427,16 @@
     },
     {
       "id": "ngxjrhx9",
-      "x": 25564.65882898776,
-      "y": 4445.482869810952,
+      "x": 25571.98620780253,
+      "y": 3724.095672462104,
       "w": 320,
-      "h": 202,
+      "h": 833,
       "group": null,
       "data": {
-        "date": "2026-01-10",
-        "title": "LLM",
-        "type": "Concept",
-        "action": null,
+        "date": "2025-11-20",
+        "title": "LLM - first approach",
+        "type": "Decision",
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Weapon",
@@ -4507,23 +4446,40 @@
           "Media"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "We moved on LLM through Ollama portal. Ollama allowed us to use some large language models that had not any limit or restrictions ",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-01-11 alle 10.56.22.png",
+            "size": 8234,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-11_alle_10.56.22.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-11-03 at 13.16.22.jpeg",
+            "size": 194234,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-11-03_at_13.16.22.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n49uhy2u",
-      "x": 25564.65882898776,
-      "y": 4658.552436728214,
+      "x": 25611.656913837192,
+      "y": 4575.900632337834,
       "w": 320,
-      "h": 202,
+      "h": 477,
       "group": null,
       "data": {
-        "date": "2026-01-10",
+        "date": "2025-11-20",
         "title": "Hall sensor",
-        "type": "Concept",
-        "action": null,
+        "type": "Observation",
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Weapon",
@@ -4533,23 +4489,32 @@
           "Media"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "We tried to use Hall sensors for our project. These sensors are used to calculate in presence of a magnetic field, but this condition created us some problems because there were some interferences.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-01-11 alle 11.07.13.png",
+            "size": 266521,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-11_alle_11.07.13.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nak9vhqw",
-      "x": 25564.65882898776,
-      "y": 4869.482869810952,
+      "x": 26098.380538852583,
+      "y": 5153.747693543303,
       "w": 320,
-      "h": 202,
+      "h": 1148,
       "group": null,
       "data": {
-        "date": "2026-01-10",
+        "date": "2025-11-25",
         "title": "Led Matrix",
-        "type": "Concept",
-        "action": null,
+        "type": "Decision",
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Weapon",
@@ -4559,23 +4524,40 @@
           "Media"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "We bought some led matrix with different dimensions and we plugged them together so they worked as one. We had to give them energy with an external charger but they worked well, it was only time to connect everything together.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-14 at 19.51.40.jpeg",
+            "size": 591763,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-14_at_19.51.40.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-11-20 at 23.20.42.jpeg",
+            "size": 81420,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-11-20_at_23.20.42.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nb594y06",
-      "x": 25564.65882898776,
-      "y": 5111.482869810952,
+      "x": 25507.129624326062,
+      "y": 5174.750639291078,
       "w": 320,
-      "h": 202,
+      "h": 846,
       "group": null,
       "data": {
-        "date": "2026-01-10",
+        "date": "2025-11-19",
         "title": "Plexiglass panel",
         "type": "Concept",
-        "action": null,
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Weapon",
@@ -4585,48 +4567,31 @@
           "Media"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "we bought a plexiglass panel and we used UV stamp as it was perfect for us because it allowed us not to damage plexiglass and neither to allow what was under that (magnets). Just the light from the led panel was able to be seen.",
         "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n4y4iegi",
-      "x": 25567.895551174006,
-      "y": 5353.482869810952,
-      "w": 320,
-      "h": 202,
-      "group": null,
-      "data": {
-        "date": "2026-01-10",
-        "title": "Arduino ",
-        "type": "Concept",
-        "action": null,
-        "mainArea": "Interaction",
-        "areas": [
-          "Weapon",
-          "War",
-          "Informatics",
-          "Linguistic",
-          "Media"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-15 at 13.31.23.jpeg",
+            "size": 184091,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-15_at_13.31.23.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n4tavs5l",
-      "x": 26047.895551174006,
-      "y": 4658.552436728214,
+      "x": 26046.27492755851,
+      "y": 4533.764418334896,
       "w": 320,
-      "h": 202,
+      "h": 580,
       "group": null,
       "data": {
-        "date": "2026-01-10",
+        "date": "2025-11-22",
         "title": "Kinect",
-        "type": "Concept",
+        "type": "Observation",
         "action": null,
         "mainArea": "Interaction",
         "areas": [
@@ -4637,20 +4602,29 @@
           "Media"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "We moved to the idea of using the kinect to understand the position of the pieces on the board but it was too much confused.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-01-11 alle 11.09.53.png",
+            "size": 134258,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-11_alle_11.09.53.jpg"
+          }
+        ]
       }
     },
     {
       "id": "ntxrjket",
-      "x": 26466.397829635396,
-      "y": 4716.813436080581,
+      "x": 26530.21238190184,
+      "y": 4206.297017949013,
       "w": 320,
-      "h": 202,
+      "h": 1002,
       "group": null,
       "data": {
-        "date": "2026-01-10",
+        "date": "2025-11-25",
         "title": "TOF sensors",
         "type": "Concept",
         "action": null,
@@ -4663,29 +4637,130 @@
           "Media"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Our last decision was using the TOF Sensors. These sensors work with laser distance and they're very precise and they could be perfect for us understanding the position of the pieces on the board",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-01-11 alle 11.11.48.png",
+            "size": 495292,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-11_alle_11.11.48.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-12-14 at 19.51.41.jpeg",
+            "size": 394184,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-14_at_19.51.41.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nzyevors",
-      "x": 26955.117813110264,
-      "y": 5083.733507253871,
+      "x": 28300.64072737355,
+      "y": 4855.587866054563,
       "w": 320,
-      "h": 173,
+      "h": 746,
       "group": null,
       "data": {
-        "date": "2026-01-10",
-        "title": "prototype",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [],
+        "date": "2025-12-19",
+        "title": "Prototype presentation",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Linguistic",
+          "Weapon",
+          "Informatics",
+          "War"
+        ],
         "tags": [],
-        "desc": "",
+        "desc": "This was our last presentation, we brought everything together for the first time. There were some things that worked perfectly and other that weren't perfect, but we gave the idea of what we were thinking about. During the next days we will adjust everything and we'll be ready for the presentation in February.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-19 at 19.04.10.jpeg",
+            "size": 221948,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-19_at_19.04.10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nf45wvhl",
+      "x": 26088.53953420709,
+      "y": 3923.848544655488,
+      "w": 320,
+      "h": 431,
+      "group": null,
+      "data": {
+        "date": "2025-11-24",
+        "title": "LLM on Touchdesigner",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "We managed to bring LLM on Touchdesigner with positive results ",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-11-12 at 19.58.53.jpeg",
+            "size": 339571,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-11-12_at_19.58.53.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9nfpv22",
+      "x": 26908.53953420709,
+      "y": 3527.848544655488,
+      "w": 320,
+      "h": 432,
+      "group": null,
+      "data": {
+        "date": "2025-12-03",
+        "title": "LLM on screen",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Weapon",
+          "War",
+          "Informatics",
+          "Linguistic",
+          "Media"
+        ],
+        "tags": [],
+        "desc": "Now it's time to make what we had on touchdesigner fluent with our style and our idea for the experience ",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-11-13 at 00.24.34.jpeg",
+            "size": 62097,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-11-13_at_00.24.34.jpg"
+          }
+        ]
       }
     }
   ],
@@ -7326,11 +7401,6 @@
       "dashed": false
     },
     {
-      "s": "n7u5wvvn",
-      "t": "n4y4iegi",
-      "dashed": false
-    },
-    {
       "s": "n49uhy2u",
       "t": "n4tavs5l",
       "dashed": false
@@ -7366,48 +7436,78 @@
       "dashed": false
     },
     {
-      "s": "n4y4iegi",
+      "s": "ngxjrhx9",
+      "t": "nf45wvhl",
+      "dashed": false
+    },
+    {
+      "s": "nf45wvhl",
+      "t": "n9nfpv22",
+      "dashed": false
+    },
+    {
+      "s": "nsq2waiu",
+      "t": "n9nfpv22",
+      "dashed": false
+    },
+    {
+      "s": "nslgajy4",
+      "t": "n9nfpv22",
+      "dashed": false
+    },
+    {
+      "s": "nez51po0",
+      "t": "n9nfpv22",
+      "dashed": false
+    },
+    {
+      "s": "ns6njd26",
+      "t": "n9nfpv22",
+      "dashed": false
+    },
+    {
+      "s": "n9nfpv22",
       "t": "nzyevors",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Evolution",
-      "Censorship",
-      "Morphology",
-      "Mental health",
-      "Philosophy",
-      "Information",
-      "Society",
-      "Conflict",
       "War",
-      "Cognitive science",
-      "Research",
       "Informatics",
-      "Arts",
-      "Media",
       "Weapon",
-      "Linguistic"
+      "Linguistic",
+      "Media",
+      "Arts",
+      "Research",
+      "Cognitive science",
+      "Conflict",
+      "Society",
+      "Information",
+      "Philosophy",
+      "Mental health",
+      "Morphology",
+      "Censorship",
+      "Evolution"
     ],
     "tags": [
-      "Video-games",
-      "Pixel",
+      "Engeneering",
       "Futuristic",
-      "Engeneering"
+      "Pixel",
+      "Video-games"
     ],
     "type": [
       "Concept",
-      "Source",
-      "Observation",
-      "Brief",
-      "Slides",
-      "Feedback",
-      "Finding",
-      "Collection",
       "Decision",
+      "Observation",
+      "Source",
+      "Sketch",
       "What-if",
-      "Sketch"
+      "Collection",
+      "Finding",
+      "Feedback",
+      "Slides",
+      "Brief"
     ]
   }
 }
