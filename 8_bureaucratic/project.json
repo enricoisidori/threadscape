@@ -4307,8 +4307,8 @@
     },
     {
       "id": "n39nwkle",
-      "x": 15956.629266608184,
-      "y": 2994.22655594594,
+      "x": 15064.629266608184,
+      "y": 2990.22655594594,
       "w": 320,
       "h": 237,
       "group": null,
@@ -4891,7 +4891,7 @@
           "Conflict"
         ],
         "tags": [],
-        "desc": "EYE.DEAL unione di vari concetti racchiusi nell'esperienza\nEYE perchè ci si guarda negli occhi, DEAL sia perchè ci si stringe la mano come quando si fa un patto e ache perchè la macchina stessa e il contratto che produce è un accordo\n\neye deal tutto insieme quindi fa capire che attraverso l'esperienza di guardarsi si crea un patto, un accordo indelebile ",
+        "desc": "EyeDeal unione di vari concetti racchiusi nell'esperienza\nEYE perchè ci si guarda negli occhi, DEAL sia perchè ci si stringe la mano come quando si fa un patto e ache perchè la macchina stessa e il contratto che produce è un accordo.\n\neye deal tutto insieme quindi fa capire che attraverso l'esperienza di guardarsi si crea un patto, un accordo indelebile ",
         "links": [],
         "files": []
       }
@@ -5411,8 +5411,8 @@
     },
     {
       "id": "nuc3mlcc",
-      "x": 17688.70076497084,
-      "y": 2433.127369865645,
+      "x": 16796.70076497084,
+      "y": 2429.127369865645,
       "w": 320,
       "h": 686,
       "group": null,
@@ -5436,10 +5436,10 @@
     },
     {
       "id": "n57q8b7u",
-      "x": 18085.540916735692,
-      "y": 1090.8537215346637,
+      "x": 18189.540916735692,
+      "y": 1434.8537215346637,
       "w": 320,
-      "h": 1417,
+      "h": 1440,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -5451,7 +5451,8 @@
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Product design"
         ],
         "tags": [],
         "desc": "con profili di alluminio angolari e piatti da 4 cm è stata costruita la struttura che poi conterrà la macchina e che poi verrà completata da pareti di plexiglass\n\ndimensioni: \naltezza: 200 cm\nlarghezza: 70 cm\nprofondità: 150 cm dove ogni 50 cm c'è una linea di divisione \naltezza dell'appoggio per la macchina: 80 cm",
@@ -5486,10 +5487,10 @@
     },
     {
       "id": "nu1qkjm1",
-      "x": 18464.52334976993,
-      "y": 1315.5753603354374,
+      "x": 18568.52334976993,
+      "y": 1659.5753603354374,
       "w": 320,
-      "h": 1195,
+      "h": 1218,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -5501,7 +5502,8 @@
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Product design"
         ],
         "tags": [],
         "desc": "prototipo in legno con costruzione dell'ingombro della plancia con presenza di un cassetto dove si porranno tutta la componentistica elettronica necessaria \n\naltezza: 20 cm \nlarghezza: 70 cm\nprofondità: 50 cm \naltezza divisorio: 20 cm\n",
@@ -5559,14 +5561,14 @@
     },
     {
       "id": "nnr23qj8",
-      "x": 18904.559641976757,
-      "y": 1051.5753603354374,
+      "x": 19008.559641976757,
+      "y": 1395.5753603354374,
       "w": 320,
-      "h": 749,
+      "h": 772,
       "group": null,
       "data": {
         "date": "2025-12-17",
-        "title": "montaggio delle due parti insieme",
+        "title": "primo montaggio delle due parti insieme",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -5574,7 +5576,8 @@
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Product design"
         ],
         "tags": [],
         "desc": "",
@@ -5609,8 +5612,8 @@
     },
     {
       "id": "nrpqs3at",
-      "x": 18345.326110912578,
-      "y": 613.0483600166549,
+      "x": 18337.326110912578,
+      "y": 653.0483600166549,
       "w": 320,
       "h": 260,
       "group": null,
@@ -5633,8 +5636,8 @@
     },
     {
       "id": "nm5yes67",
-      "x": 16682.01210562609,
-      "y": 2956.446440885083,
+      "x": 15062.01210562609,
+      "y": 3448.446440885083,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5656,8 +5659,8 @@
     },
     {
       "id": "nq4mc3vh",
-      "x": 17259.28769166734,
-      "y": 3125.585696887299,
+      "x": 15879.287691667341,
+      "y": 3421.585696887299,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5679,8 +5682,8 @@
     },
     {
       "id": "n8lorgq9",
-      "x": 16730.825775393707,
-      "y": 3983.377959585163,
+      "x": 15350.825775393707,
+      "y": 4279.377959585163,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5702,8 +5705,8 @@
     },
     {
       "id": "n05ougjl",
-      "x": 17201.47933891292,
-      "y": 4699.883790173278,
+      "x": 15821.479338912919,
+      "y": 4995.883790173278,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5725,8 +5728,8 @@
     },
     {
       "id": "ncptzb23",
-      "x": 17588.803325799294,
-      "y": 3372.0306034591495,
+      "x": 16208.803325799294,
+      "y": 3668.0306034591495,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5748,8 +5751,8 @@
     },
     {
       "id": "n39s50vi",
-      "x": 16783.218211242907,
-      "y": 3453.2135994997157,
+      "x": 15403.218211242907,
+      "y": 3749.2135994997157,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5771,8 +5774,8 @@
     },
     {
       "id": "n8erxgvo",
-      "x": 17219.50429029799,
-      "y": 3703.007433470688,
+      "x": 15839.504290297991,
+      "y": 3999.007433470688,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5794,8 +5797,8 @@
     },
     {
       "id": "n485afqa",
-      "x": 17943.335711069172,
-      "y": 3911.6351774671416,
+      "x": 16563.335711069172,
+      "y": 4207.635177467142,
       "w": 320,
       "h": 179,
       "group": null,
@@ -5817,8 +5820,8 @@
     },
     {
       "id": "n9z5767h",
-      "x": 18150.714908408256,
-      "y": 3216.150054757927,
+      "x": 16770.714908408256,
+      "y": 3512.150054757927,
       "w": 320,
       "h": 552,
       "group": null,
@@ -5846,8 +5849,8 @@
     },
     {
       "id": "nm3j6b5m",
-      "x": 17210.825775393707,
-      "y": 3983.377959585163,
+      "x": 15830.825775393707,
+      "y": 4279.377959585163,
       "w": 320,
       "h": 621,
       "group": null,
@@ -5878,8 +5881,8 @@
     },
     {
       "id": "ndq5cuui",
-      "x": 17656.43485248553,
-      "y": 4265.763413372142,
+      "x": 16276.43485248553,
+      "y": 4561.763413372142,
       "w": 320,
       "h": 1037,
       "group": null,
@@ -5918,8 +5921,8 @@
     },
     {
       "id": "n9pmymc9",
-      "x": 18499.301060564354,
-      "y": 1042.9324464008148,
+      "x": 18569.290120933045,
+      "y": 1277.3393527595058,
       "w": 320,
       "h": 350,
       "group": null,
@@ -5943,8 +5946,8 @@
     },
     {
       "id": "nbaom5hm",
-      "x": 19882.711393179077,
-      "y": -273.50225897047676,
+      "x": 19262.711393179077,
+      "y": -229.50225897047676,
       "w": 320,
       "h": 224,
       "group": null,
@@ -5968,8 +5971,8 @@
     },
     {
       "id": "ng5d2oc2",
-      "x": 19910.711393179077,
-      "y": 614.4977410295232,
+      "x": 19498.711393179077,
+      "y": 566.4977410295232,
       "w": 320,
       "h": 224,
       "group": null,
@@ -5984,6 +5987,82 @@
           "Administration",
           "Communication",
           "Brand identity"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkkemi6v",
+      "x": 20035.78887092393,
+      "y": -1033.233674095648,
+      "w": 320,
+      "h": 202,
+      "group": null,
+      "data": {
+        "date": "2026-01-20",
+        "title": "Video Lungo",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Communication",
+          "Brand identity",
+          "Video"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nn8iag5h",
+      "x": 19436.42871620851,
+      "y": 1393.6408232195604,
+      "w": 320,
+      "h": 247,
+      "group": null,
+      "data": {
+        "date": "2026-01-20",
+        "title": "ultima fase di finiture della macchina",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict",
+          "Product design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmfacjlu",
+      "x": 17908.018584170655,
+      "y": 2958.069748773658,
+      "w": 320,
+      "h": 241,
+      "group": null,
+      "data": {
+        "date": "2026-01-20",
+        "title": "decisione di togliere la capacità ma mantenere la stretta di mano",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Insurance",
+          "Public administration",
+          "Science",
+          "Conflict"
         ],
         "tags": [],
         "desc": "",
@@ -8037,53 +8116,79 @@
       "s": "nqph8s1z",
       "t": "ng5d2oc2",
       "dashed": false
+    },
+    {
+      "s": "nvz5kopw",
+      "t": "nkkemi6v",
+      "dashed": false
+    },
+    {
+      "s": "nnr23qj8",
+      "t": "nn8iag5h",
+      "dashed": false
+    },
+    {
+      "s": "nu1qkjm1",
+      "t": "nn8iag5h",
+      "dashed": false
+    },
+    {
+      "s": "n57q8b7u",
+      "t": "nn8iag5h",
+      "dashed": false
+    },
+    {
+      "s": "ns7zf6ff",
+      "t": "nmfacjlu",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Spatial design",
-      "Brand identity",
-      "Conflict",
-      "Science",
-      "Interaction",
-      "Sociology",
-      "Video",
-      "Experience",
-      "Electronic system",
-      "Public administration",
-      "Insurance",
-      "Identity",
-      "Socio-political",
-      "Law",
-      "Communication",
-      "Hystory",
-      "Media studies",
-      "Cultural studies",
-      "Critical design",
-      "Design research",
-      "Philosophy",
-      "Envirionment",
-      "Power",
-      "Administration",
+      "Product design",
+      "Cinema",
       "Literature",
-      "Cinema"
+      "Administration",
+      "Power",
+      "Envirionment",
+      "Philosophy",
+      "Design research",
+      "Critical design",
+      "Cultural studies",
+      "Media studies",
+      "Hystory",
+      "Communication",
+      "Law",
+      "Socio-political",
+      "Identity",
+      "Insurance",
+      "Public administration",
+      "Electronic system",
+      "Experience",
+      "Video",
+      "Sociology",
+      "Interaction",
+      "Science",
+      "Conflict",
+      "Brand identity",
+      "Spatial design"
     ],
     "tags": [
-      "Power abuse",
-      "Corruption",
-      "Conflict",
-      "Opposition",
-      "Social tension",
+      "Feelings",
       "Emotion",
-      "Feelings"
+      "Social tension",
+      "Opposition",
+      "Conflict",
+      "Corruption",
+      "Power abuse"
     ],
     "type": [
-      "Source",
       "Concept",
       "Collection",
-      "Observation",
+      "Source",
+      "Brief",
       "Feedback",
-      "Brief"
+      "Observation"
     ]
   }
 }
