@@ -1379,7 +1379,7 @@
       "x": 2975.4102495574625,
       "y": 2128.5070717137005,
       "w": 320,
-      "h": 739,
+      "h": 879,
       "group": null,
       "data": {
         "date": "2025-09-25",
@@ -1408,7 +1408,16 @@
           "https://pmc.ncbi.nlm.nih.gov/articles/PMC11300163/",
           "https://nqsti.it/news/la-parola-della-settimana-il-principio-di-indeterminazione"
         ],
-        "files": []
+        "files": [
+          {
+            "name": "WhatsApp_Image_2025-09-25_at_15.44.55.jpg",
+            "size": 154580,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-09-25_at_15.44.55.jpg"
+          }
+        ]
       }
     },
     {
@@ -1416,7 +1425,7 @@
       "x": 3044.656093332349,
       "y": 10210.183915129526,
       "w": 320,
-      "h": 550,
+      "h": 685,
       "group": null,
       "data": {
         "date": "2025-09-25",
@@ -1436,7 +1445,16 @@
           "https://www.aiko.blog/crash-test-manichini-disparita-di-genere/",
           "https://www.behance.net/gallery/170898823/CLIO-NO-STANDARD-KIT?locale=ja_JP"
         ],
-        "files": []
+        "files": [
+          {
+            "name": "WhatsApp_Image_2025-09-25_at_15.46.29.jpg",
+            "size": 92517,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-09-25_at_15.46.29.jpg"
+          }
+        ]
       }
     },
     {
@@ -9281,6 +9299,207 @@
         "links": [],
         "files": []
       }
+    },
+    {
+      "id": "n0od609l",
+      "x": 51872.767497359026,
+      "y": 4235.655818372725,
+      "w": 320,
+      "h": 1276,
+      "group": null,
+      "data": {
+        "date": "2026-01-03",
+        "title": "Hardware chronodex update",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Science and technology studies (sts)",
+          "Sensor systems"
+        ],
+        "tags": [
+          "Metric system",
+          "Temporal sovereignty",
+          "Data representation",
+          "Measuring the unmeasurable",
+          "Self-trackin"
+        ],
+        "desc": "ESP32-S3 microcontroller mounted on a custom PCB with screw terminal breakouts. The board features: \n- ESP32-S3 development board as the main controller\n- Custom green breakout PCB with screw terminals for easy LED strip and peripheral connections\n- Multiple GPIO breakouts for rotary encoder input, button interfaces, and OLED display connection\n- USB-C ports for programming and power\n- Clean wire routing channels on the PCB for organized assembly\n\nThe mechanical design uses a compact stacked architecture where the ESP32-S3 sits on header pins above the breakout board, providing access to all GPIO while maintaining a small footprint. The screw terminals eliminate soldering requirements for LED strips and sensors, making assembly and maintenance straightforward.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-24 at 10.09.22.png",
+            "size": 3140174,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-24_at_10.09.22.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-24 at 10.27.00.png",
+            "size": 2585339,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-24_at_10.27.00.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsrdbwuf",
+      "x": 51869.2544927494,
+      "y": 5542.886658818828,
+      "w": 320,
+      "h": 1018,
+      "group": null,
+      "data": {
+        "date": "2026-01-04",
+        "title": "Individual alignment score",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion",
+          "Normalization techniques"
+        ],
+        "desc": "Score calculated by comparing citizens' daily routines against population-level temporal patterns. Each citizen's 24-hour routine is encoded as a 96-dimensional vector, where each hour is represented by four binary components corresponding to Sleep, Work, Other, and Eating activities. The population model T aggregates these individual routines into a weighted average, indicating the empirical probability of each activity per hour. To prevent circular bias, individual scores are calculated using a leave-one-out approach: citizen i is evaluated against model T₋ᵢ, which excludes that citizen's data. The Euclidean distance between individual routine and leave-one-out model quantifies behavioral deviation across all temporal-activity components. Maximum theoretical distance (4√6 ≈ 9.80) occurs when individual behavior is completely inverse to population average. Scores are normalized to 0-100 scale, where 100 indicates perfect alignment with collective patterns and 0 indicates maximum divergence. Country-level scores represent averaged individual scores, enabling cross-national comparison of temporal synchronization patterns.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-24 at 10.29.21.png",
+            "size": 107456,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-24_at_10.29.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhqsqmo1",
+      "x": 52273.37796785498,
+      "y": 5828.886658818828,
+      "w": 320,
+      "h": 516,
+      "group": null,
+      "data": {
+        "date": "2026-01-05",
+        "title": "Country ranking",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion",
+          "Normalization techniques"
+        ],
+        "desc": "Italy's score is calculated as the average of individual scores of citizens belonging to that country. Each individual score is already calculated using the leave-one-out method, ensuring an unbiased evaluation. This indicator (in the scenario) allows comparing the average degree of routine synchronization between different countries.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nyy5k578",
+      "x": 52641.37796785498,
+      "y": 5296.886658818828,
+      "w": 320,
+      "h": 993,
+      "group": null,
+      "data": {
+        "date": "2026-01-05",
+        "title": "Sleeping average Italy",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion",
+          "Normalization techniques"
+        ],
+        "desc": "On average, in 2014, Italians dedicated 8 hours and 32 minutes per day to sleep (including daytime naps); limiting the analysis to nighttime hours (11:00 PM - 7:00 AM), the average duration is 7 hours and 54 minutes.\n\nBedtime varies significantly between weekdays and weekends:\nWeekdays and Sunday: The schedule is similar since the following day is a work or school day. At 11:00 PM, 50% of people are asleep. This rises to 80% just after midnight. At 1:00 AM, 90% of Italians are sleeping.\nSaturday: Times shift forward by about half an hour. At midnight, 3 out of 10 Italians are still awake. The 50% threshold of people sleeping is reached at 11:30 PM, while 90% of the population goes to sleep around 1:30 AM.\n\nWake-up time has different patterns depending on the day:\nWeekdays: The alarm goes off early. A quarter of people are awake by 6:30 AM. At 7:00 AM, almost 50% of the population (47.5%) is awake, and at 8:00 AM three-quarters of Italians are awake.\nSunday: The time shifts forward by one hour. You have to wait until 8:00 AM for half of people to be awake, and 9:00 AM for three-quarters.\nSaturday: Falls in between, with times shifting about 30 minutes compared to weekdays (50% are awake at 7:30 AM).",
+        "links": [
+          "https://www.ilpost.it/2016/05/08/chi-dorme-di-piu/",
+          "https://www.istat.it/it/files/2019/05/ebook-I-tempi-della-vita-quotidiana.pdf"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ndoch237",
+      "x": 52645.37796785498,
+      "y": 6321.886658818828,
+      "w": 320,
+      "h": 1028,
+      "group": null,
+      "data": {
+        "date": "2026-01-05",
+        "title": "Eating average Italy",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion",
+          "Normalization techniques"
+        ],
+        "desc": "Breakfast: 7:00-8:00 AM\nOn weekdays, breakfast occurs in a narrow time window, squeezed between waking up and leaving for work or school.\n\nLunch: 1:00-2:00 PM\nData shows strong population synchronization around lunch time, which remains a central part of the day:\n- Work participation drops sharply during the 1:00-2:00 PM lunch break - only ~30% of employed people are working during this time\n- For commuters, peak movement (returning home or going to lunch) occurs between 12:30-1:20 PM\n- There's a preparatory phase (often done by women) with a peak in domestic activities between 12:00-1:00 PM\n- Average lunch break duration for workers: 58 minutes\n\nDinner: 7:30-8:30 PM\nDinner time is more spread out than lunch, but falls mainly in the early evening before leisure time: activities related to dinner preparation show significant differences in time use (especially between men and women) from 6:30-9:20 PM.",
+        "links": [
+          "https://www.istat.it/it/files/2019/05/ebook-I-tempi-della-vita-quotidiana.pdf",
+          "https://www.un-industria.it/notizia/123612/altroconsumo-7-italiani-su-10-fanno-colazione-a/#:~:text=Altroconsumo:%207%20italiani%20su%2010,tempo%20medio%2015%20minuti%20%2D%20UNINDUSTRIA",
+          "https://www.ilmattino.it/societa/piaceri/colazione_italiani_maggioranza_ultime_notizie_oggi-5979633.html"
+        ],
+        "files": []
+      }
     }
   ],
   "edges": [
@@ -11498,101 +11717,128 @@
       "s": "n172tnef",
       "t": "nka4qp64",
       "dashed": false
+    },
+    {
+      "s": "nka4qp64",
+      "t": "n0od609l",
+      "dashed": false
+    },
+    {
+      "s": "nka4qp64",
+      "t": "nsrdbwuf",
+      "dashed": false
+    },
+    {
+      "s": "nhqsqmo1",
+      "t": "nyy5k578",
+      "dashed": false
+    },
+    {
+      "s": "nsrdbwuf",
+      "t": "nhqsqmo1",
+      "dashed": false
+    },
+    {
+      "s": "nhqsqmo1",
+      "t": "ndoch237",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Chronopolitics",
-      "Motion design",
-      "Design research",
-      "Experience design",
-      "Communication",
-      "Map",
-      "Data representation",
-      "Ui design",
-      "Web design",
-      "Interaction design",
-      "Branding",
-      "Visual communication",
-      "Science and technology studies (sts)",
-      "Sensor technology",
-      "Product design",
-      "Social media",
-      "Metric governance",
-      "Data ethics",
-      "Critical design",
-      "Algorithmic governance",
-      "Socio-political",
-      "Critical data studies",
-      "Surveillance studies",
-      "Critical theory",
-      "Media studies",
       "Metric system",
-      "Biometric data",
+      "Algorithmic governance",
+      "Metric governance",
+      "Chronopolitics",
       "Sensor systems",
+      "Science and technology studies (sts)",
+      "Speculative design",
       "Data perception",
-      "Speculative design"
+      "Biometric data",
+      "Media studies",
+      "Critical theory",
+      "Surveillance studies",
+      "Critical data studies",
+      "Socio-political",
+      "Critical design",
+      "Data ethics",
+      "Social media",
+      "Product design",
+      "Sensor technology",
+      "Visual communication",
+      "Branding",
+      "Interaction design",
+      "Web design",
+      "Ui design",
+      "Data representation",
+      "Map",
+      "Communication",
+      "Experience design",
+      "Design research",
+      "Motion design"
     ],
     "tags": [
-      "Temporal sovereignty",
-      "Poster design",
-      "Design research",
-      "User interface design",
-      "Usability testing",
-      "Interface design",
-      "Brand communication",
-      "Print media",
-      "Device render",
-      "Visual identity",
-      "Social media content",
-      "Data representation",
-      "Speculative projects",
-      "Technical drawing",
-      "Editorial design",
-      "Mockup",
-      "Physical prototype",
-      "Metric governance",
-      "Video content",
-      "Identities",
-      "Measuring the unmeasurable",
-      "Metric system",
-      "Sensor technology",
-      "Physical computing",
-      "Mechanical computing",
-      "Real-time data",
-      "Data perception",
-      "Deceptive pattern",
-      "Map",
-      "Biometric data",
-      "Data visualization",
-      "Power dynamics",
-      "Relativity",
-      "Cellular senescence",
-      "Senolytics",
-      "Statistic bias",
-      "Cognitive bias",
-      "Big data",
-      "Algorithmic bias",
-      "Body-politics",
-      "Alternative values",
-      "Subjective reality",
-      "Normalization bias",
-      "Typography",
-      "Socio-political",
+      "Normalization techniques",
+      "Metrics distortion",
       "Algorithmic governance",
-      "Metrics distortion"
+      "Metric system",
+      "Data representation",
+      "Metric governance",
+      "Temporal sovereignty",
+      "Self-trackin",
+      "Measuring the unmeasurable",
+      "Socio-political",
+      "Typography",
+      "Normalization bias",
+      "Subjective reality",
+      "Alternative values",
+      "Body-politics",
+      "Algorithmic bias",
+      "Big data",
+      "Cognitive bias",
+      "Statistic bias",
+      "Senolytics",
+      "Cellular senescence",
+      "Relativity",
+      "Power dynamics",
+      "Data visualization",
+      "Biometric data",
+      "Map",
+      "Deceptive pattern",
+      "Data perception",
+      "Real-time data",
+      "Mechanical computing",
+      "Physical computing",
+      "Sensor technology",
+      "Identities",
+      "Video content",
+      "Physical prototype",
+      "Mockup",
+      "Editorial design",
+      "Technical drawing",
+      "Speculative projects",
+      "Social media content",
+      "Visual identity",
+      "Device render",
+      "Print media",
+      "Brand communication",
+      "Interface design",
+      "Usability testing",
+      "User interface design",
+      "Design research",
+      "Poster design"
     ],
     "type": [
-      "Feedback",
-      "Sketch",
-      "Collection",
-      "Decision",
-      "Observation",
-      "Finding",
-      "Concept",
       "Source",
+      "Decision",
+      "Finding",
+      "Artefact",
+      "Feedback",
+      "Concept",
       "Brief",
-      "Artefact"
+      "Observation",
+      "Collection",
+      "Sketch"
     ]
   }
 }
