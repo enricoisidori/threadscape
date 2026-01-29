@@ -3956,8 +3956,8 @@
     },
     {
       "id": "nj3ube1l",
-      "x": 13267.656128078963,
-      "y": -2781.416139235041,
+      "x": 15335.656128078963,
+      "y": -5545.416139235042,
       "w": 320,
       "h": 1793,
       "group": null,
@@ -4003,8 +4003,8 @@
     },
     {
       "id": "na127mu9",
-      "x": 12767.603647165846,
-      "y": -2792.197534894988,
+      "x": 15327.603647165846,
+      "y": -3580.197534894988,
       "w": 320,
       "h": 917,
       "group": null,
@@ -4123,7 +4123,7 @@
       "x": 16332.028987364087,
       "y": 780.7849790816595,
       "w": 320,
-      "h": 673,
+      "h": 674,
       "group": null,
       "data": {
         "date": "2026-01-09",
@@ -4341,6 +4341,249 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2026-01-09_alle_15.03.10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nexpx9uf",
+      "x": 15342.496572920913,
+      "y": -2427.642763010532,
+      "w": 320,
+      "h": 1176,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "developing the interface and the sensor",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Process"
+        ],
+        "tags": [],
+        "desc": "We developed the interface of the app and adapted it to the triggers present in the iOS system. The code is mainly made with javascript, incorporating a firebase library and another script on python to make the app link to the linear servo and the tablet app. Here we link a screenshot of the structure of the app on visual studio code",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7628.jpg",
+            "size": 3315646,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7628.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-29 alle 13.25.01.png",
+            "size": 82388,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-29_alle_13.25.01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nh7ykssv",
+      "x": 15347.16183616678,
+      "y": -1169.8263793626597,
+      "w": 320,
+      "h": 667,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "firebase-python library",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Process"
+        ],
+        "tags": [],
+        "desc": "this protocol links all the components of the app by making them communicate between themselves, this way the character can be selected on the tablet and automatically reupdates the github page.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-29 alle 13.14.49.png",
+            "size": 332855,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-29_alle_13.14.49.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-29 alle 13.14.59.png",
+            "size": 152209,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-29_alle_13.14.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsy3qjj8",
+      "x": 15387.621141323363,
+      "y": 52.34835891815865,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "new cryocare support printed",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Process"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nsa8c5gl",
+      "x": 14155.777796868579,
+      "y": 5183.19626249977,
+      "w": 320,
+      "h": 1132,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "first video prototype",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Process",
+          "Process documentation"
+        ],
+        "tags": [
+          "Exploring"
+        ],
+        "desc": "We decided to try to make a first wireframe of the final video, by studying the subjects and the camera positioning, even if the scene objects were not available yet.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7552.jpg",
+            "size": 2626932,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7552.jpg"
+          },
+          {
+            "name": "IMG_7556.jpg",
+            "size": 1876278,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7556.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nd1pc2c2",
+      "x": 16814.11820223172,
+      "y": 3663.9771206226706,
+      "w": 320,
+      "h": 690,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "adding new posters",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "we printed other posters with new subjects, the photographies come from the archive of a family member of the team, that has kindly given the rights to use them for the projects, other come from public archives and Jimmy Nelson's reportage.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7550.jpg",
+            "size": 2690558,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7550.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n56jzbwt",
+      "x": 17458.704026574356,
+      "y": 964.6528703359754,
+      "w": 320,
+      "h": 639,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "printing the final artefacts",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Process documentation"
+        ],
+        "tags": [],
+        "desc": "we printed the communication artefacts to make print tests and to see the outputs.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7555.jpg",
+            "size": 2769850,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7555.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxklri5g",
+      "x": 15894.921215966033,
+      "y": -3362.7307375275263,
+      "w": 320,
+      "h": 645,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "tablet app developing",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Process documentation"
+        ],
+        "tags": [],
+        "desc": "with the tablet app (made with framer) you can learn about cultures and select the culture you will make the experience with. The process starts with information about the culture and then you can select the culture you want to adopt.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-29 alle 13.27.18.png",
+            "size": 119953,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-29_alle_13.27.18.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-29 alle 13.27.00.png",
+            "size": 414531,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-29_alle_13.27.00.jpg"
           }
         ]
       }
@@ -5201,46 +5444,81 @@
       "s": "n9q3zve6",
       "t": "ncep8wxf",
       "dashed": false
+    },
+    {
+      "s": "npza5mej",
+      "t": "nexpx9uf",
+      "dashed": false
+    },
+    {
+      "s": "npza5mej",
+      "t": "nh7ykssv",
+      "dashed": false
+    },
+    {
+      "s": "ncep8wxf",
+      "t": "nsy3qjj8",
+      "dashed": false
+    },
+    {
+      "s": "ns7qiv6l",
+      "t": "nsa8c5gl",
+      "dashed": false
+    },
+    {
+      "s": "n7in0k52",
+      "t": "nd1pc2c2",
+      "dashed": false
+    },
+    {
+      "s": "n05t8vqi",
+      "t": "n56jzbwt",
+      "dashed": false
+    },
+    {
+      "s": "na127mu9",
+      "t": "nxklri5g",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Machine",
-      "Branding",
-      "Socio-cultural",
-      "Socio-political",
-      "Critical design",
-      "Conflicts",
-      "Critical theory",
-      "Amare i robot?",
-      "Media studies",
-      "People",
-      "Design research",
       "Process documentation",
       "Process",
-      "Communication"
+      "Communication",
+      "Design research",
+      "People",
+      "Media studies",
+      "Amare i robot?",
+      "Critical theory",
+      "Conflicts",
+      "Critical design",
+      "Socio-political",
+      "Socio-cultural",
+      "Branding",
+      "Machine"
     ],
     "tags": [
-      "Already explored",
-      "Discarded",
-      "Limited scope",
-      "Source",
-      "3d print",
       "Exploring",
-      "Branding"
+      "Branding",
+      "3d print",
+      "Source",
+      "Limited scope",
+      "Discarded",
+      "Already explored"
     ],
     "type": [
       "Artefact",
-      "Finding",
       "Concept",
-      "Output",
       "Sketch",
-      "Observation",
-      "Source",
-      "Collection",
-      "Feedback",
+      "Output",
+      "Case study",
       "Brief",
-      "Case study"
+      "Feedback",
+      "Collection",
+      "Source",
+      "Observation",
+      "Finding"
     ]
   }
 }
