@@ -4848,8 +4848,8 @@
     },
     {
       "id": "nf9nyekj",
-      "x": 17004.36067756172,
-      "y": 1034.8521505145245,
+      "x": 16996.36067756172,
+      "y": 1362.8521505145245,
       "w": 320,
       "h": 400,
       "group": null,
@@ -5336,8 +5336,8 @@
     },
     {
       "id": "n6qaz4vx",
-      "x": 17038.705145029824,
-      "y": 1936.8263964519092,
+      "x": 16986.705145029824,
+      "y": 1888.8263964519092,
       "w": 320,
       "h": 270,
       "group": null,
@@ -5386,8 +5386,8 @@
     },
     {
       "id": "nuc3mlcc",
-      "x": 16166.705089300816,
-      "y": 2116.3891247731713,
+      "x": 16170.705089300816,
+      "y": 2128.3891247731713,
       "w": 320,
       "h": 686,
       "group": null,
@@ -5611,7 +5611,7 @@
     },
     {
       "id": "nm5yes67",
-      "x": 15214.030609697058,
+      "x": 15218.030609697058,
       "y": 3056.9460508012066,
       "w": 320,
       "h": 179,
@@ -5634,7 +5634,7 @@
     },
     {
       "id": "nq4mc3vh",
-      "x": 15210.808414233772,
+      "x": 15214.808414233772,
       "y": 3301.456168390526,
       "w": 320,
       "h": 179,
@@ -5657,7 +5657,7 @@
     },
     {
       "id": "n8lorgq9",
-      "x": 15214.988551043125,
+      "x": 15218.988551043125,
       "y": 4055.236588814342,
       "w": 320,
       "h": 179,
@@ -5703,7 +5703,7 @@
     },
     {
       "id": "ncptzb23",
-      "x": 15214.964782292613,
+      "x": 15218.964782292613,
       "y": 3797.798708888451,
       "w": 320,
       "h": 179,
@@ -5726,7 +5726,7 @@
     },
     {
       "id": "n39s50vi",
-      "x": 15212.032390365477,
+      "x": 15216.032390365477,
       "y": 3554.058009270038,
       "w": 320,
       "h": 179,
@@ -5749,7 +5749,7 @@
     },
     {
       "id": "n8erxgvo",
-      "x": 15641.505584447914,
+      "x": 15645.505584447914,
       "y": 3785.542452625912,
       "w": 320,
       "h": 179,
@@ -5896,8 +5896,8 @@
     },
     {
       "id": "n9pmymc9",
-      "x": 17817.290120933045,
-      "y": 1165.3393527595058,
+      "x": 17813.290120933045,
+      "y": 1145.3393527595058,
       "w": 320,
       "h": 350,
       "group": null,
@@ -5943,36 +5943,36 @@
         "links": [],
         "files": [
           {
-            "name": "poster alua 1.jpg",
+            "name": "67.jpg",
             "size": 2934370,
             "type": "image/jpeg",
             "isImage": true,
             "isPDF": false,
-            "path": null
+            "path": "assets/67.jpg"
           },
           {
-            "name": "poster alua 2.jpg",
+            "name": "68.jpg",
             "size": 2445221,
             "type": "image/jpeg",
             "isImage": true,
             "isPDF": false,
-            "path": null
+            "path": "assets/68.jpg"
           },
           {
-            "name": "poster alua 3.jpg",
+            "name": "69.jpg",
             "size": 4252652,
             "type": "image/jpeg",
             "isImage": true,
             "isPDF": false,
-            "path": null
+            "path": "assets/69.jpg"
           },
           {
-            "name": "poster alua 4.jpg",
+            "name": "70.jpg",
             "size": 2139815,
             "type": "image/jpeg",
             "isImage": true,
             "isPDF": false,
-            "path": null
+            "path": "assets/70.jpg"
           }
         ]
       }
@@ -5982,7 +5982,7 @@
       "x": 19311.267433402136,
       "y": -16.8319282083053,
       "w": 320,
-      "h": 300,
+      "h": 502,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -5999,7 +5999,16 @@
         "tags": [],
         "desc": "creazione di u invito con il quale una delle due persone della relazione pyuò invitare l'altra ad assicurarsi con ALUA",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "86.jpeg",
+            "size": 3680604,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/86.jpg"
+          }
+        ]
       }
     },
     {
@@ -6007,7 +6016,7 @@
       "x": 19844.792692389157,
       "y": -1454.9740153210366,
       "w": 320,
-      "h": 202,
+      "h": 562,
       "group": null,
       "data": {
         "date": "2026-01-20",
@@ -6022,7 +6031,7 @@
           "Video"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Il concept del video è vincolato alla sua durata, 60 secondi, che corrisponde approssimativamente alla durata dell’esperienza Eyedeal. La struttura visiva adotta una tripartizione orizzontale dello schermo per scandire le fasi del processo.  L’incipit immerge lo spettatore in un ambiente sonoro d’ufficio, dove il click asettico di un mouse ritma lo scorrere di tracce visive che vengono lasciate dalle persone nella loro quotidianità, fino a una caotica frammentazione visiva. La narrazione si sposta quindi sull’esperienza EyeDeal, in cui avviene la stipula del contratto: mentre le fasce esterne isolano alcuni dettagli anatomici dei due contraenti, quella centrale focalizza la gestualità sulla plancia, e una voce automatizzata li accompagna nei vari passaggi. Il video si conclude in un unico shot finale a pieno formato: i due soggetti, statici, vengono separati visivamente e fisicamente dall’emissione del contratto, che si frappone tra loro come nuova, inappellabile distanza di sicurezza.",
         "links": [],
         "files": []
       }
@@ -6032,7 +6041,7 @@
       "x": 18579.64910749115,
       "y": 1283.2780046057692,
       "w": 320,
-      "h": 247,
+      "h": 1367,
       "group": null,
       "data": {
         "date": "2026-01-20",
@@ -6050,7 +6059,32 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "75.jpeg",
+            "size": 4311305,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/75.jpg"
+          },
+          {
+            "name": "76.jpeg",
+            "size": 1077127,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/76.jpg"
+          },
+          {
+            "name": "77.JPG",
+            "size": 2373720,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/77.jpg"
+          }
+        ]
       }
     },
     {
@@ -6141,7 +6175,7 @@
       "x": 18979.64910749115,
       "y": 1283.2780046057692,
       "w": 320,
-      "h": 247,
+      "h": 1259,
       "group": null,
       "data": {
         "date": "2026-01-26",
@@ -6157,17 +6191,50 @@
           "Product design"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "materiali definitivi usati:\nPLANCIA\n- lastre di metallo zincato tagliato laser \n- legno verniciato di viola\n- vetro sintetico con stampa uv\n- bottoni e slider\n\nSTRUTTURA \n- lastre di policarbonati alveolare da 6mm\n- standers in alluminio liscio opaco\n\n",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "78.JPG",
+            "size": 3605833,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/78.jpg"
+          },
+          {
+            "name": "79.JPG",
+            "size": 3357360,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/79.jpg"
+          },
+          {
+            "name": "80.jpg",
+            "size": 6799181,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/80.jpg"
+          },
+          {
+            "name": "81.jpeg",
+            "size": 6626473,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/81.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n1rljxme",
-      "x": 20975.260773533584,
-      "y": 1877.0612488869763,
+      "x": 22719.260773533584,
+      "y": 1605.0612488869763,
       "w": 320,
-      "h": 224,
+      "h": 1091,
       "group": null,
       "data": {
         "date": "2026-01-26",
@@ -6184,7 +6251,155 @@
         "tags": [],
         "desc": "",
         "links": [],
+        "files": [
+          {
+            "name": "82.png",
+            "size": 1917998,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/82.jpg"
+          },
+          {
+            "name": "83.png",
+            "size": 541860,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/83.jpg"
+          },
+          {
+            "name": "84.png",
+            "size": 1672380,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/84.jpg"
+          },
+          {
+            "name": "85.png",
+            "size": 151742,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/85.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nme1viv8",
+      "x": 20229.265197002675,
+      "y": -1453.5450491012248,
+      "w": 320,
+      "h": 1513,
+      "group": null,
+      "data": {
+        "date": "2026-02-01",
+        "title": "creazione dietro le quinte ",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Communication",
+          "Brand identity",
+          "Video"
+        ],
+        "tags": [],
+        "desc": "set: anticamera davanti all'aula magna dell'edificio BL28\nattori: Marianna Massari, Francesco Zanchetta, Siria Brivio , Lorenzo Marrone",
+        "links": [],
+        "files": [
+          {
+            "name": "87.jpeg",
+            "size": 1894624,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/87.jpg"
+          },
+          {
+            "name": "88.jpeg",
+            "size": 2386381,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/88.jpg"
+          },
+          {
+            "name": "89.jpeg",
+            "size": 1412074,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/89.jpg"
+          },
+          {
+            "name": "90.jpeg",
+            "size": 1452495,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/90.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7guyq6i",
+      "x": 20235.04988615712,
+      "y": 97.61511547296368,
+      "w": 320,
+      "h": 172,
+      "group": null,
+      "data": {
+        "date": "2026-02-01",
+        "title": "",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Communication",
+          "Brand identity",
+          "Video"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "n9jniqnv",
+      "x": 18201.505584447914,
+      "y": 2108.7987088884515,
+      "w": 320,
+      "h": 2188,
+      "group": null,
+      "data": {
+        "date": "2026-02-01",
+        "title": "struttura codice ",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Administration",
+          "Insurance"
+        ],
+        "tags": [],
+        "desc": "1. Arduino Firmware (main.ino)\nRole: Embedded Sensor Controller & Hardware Abstraction \nDescription: Manages hard-realtime I/O operations. It continuously polls biometric sensors (SCL), capacitive sliders, and push-buttons, streaming raw telemetry via Serial/UART to the host. It also acts as the actuator driver, controlling LED states (ON/OFF) based on received serial commands, effectively decoupling hardware timing from the high-level application logic.\n\n2. Serial Data Bridge (monitor_arduino.py)\nRole: Hardware-Software Interface & Data Ingestion \nDescription: Acts as the middleware between the embedded system and the OS. It establishes the serial connection, parses incoming byte streams into structured JSON objects, and handles error recovery. It performs dual dispatch of telemetry: persistence (appending to arduino_data.jsonl) and broadcasting (IPC/Socket) for real-time monitoring.\n\n3. Session Orchestrator (main.py)\nRole: Finite State Machine & Application Controller \nDescription: The central control unit that enforces the temporal structure of the user experience. It manages the application lifecycle, including:\n* Subprocess Management: Spawning and terminating the monitor_arduino and process_data processes.\n* Audio Sequencing: Synchronizing playback (afplay) with specific interaction phases.\n* State Transitions: Controlling time-based triggers (e.g., transition from Phase 1 to Phase 2).\n\n4. Data Persistence Layer (arduino_data.jsonl)\nRole: Time-Series Database (Flat File) \nDescription: A line-delimited JSON log serving as the system's persistent memory. It captures the complete high-frequency sensor stream (sampling rate). This design decouples data collection (write-heavy) from data analysis (read-heavy), ensuring that the complex post-processing does not block real-time acquisition.\n\n5. Data Analysis Engine (process_data.py)\nRole: Statistical Processor & Logic Evaluator \nDescription: A batch processing module triggered at the end of the session. It ingests the full time-series data to compute derived metrics:\n* Signal Processing: Filters and segments SCL data to detect arousal events (phasic changes).\n* Compatibility Algorithms: Calculates the \"compatibility score\" (0-100%) by weighting button matches, slider synchronization, and physiological alignment.\n* Classification: Determines the \"Risk Band\" and identifies any \"Culprit\" (asymmetric arousal state).\n\n6. Visualization & Asset Generation (contract_blocks/)\nRole: Data Visualization Subsystem \nDescription: A collection of specialized modules responsible for rendering data into graphical formats for the final document:\n* Lissajous Generator: Plots the phase space relationship between the two users' SCL signals.\n* Conductance Grapher: Renders the time-domain evolution of the physiological signals.\n* Visualizer: Generates static representations of user inputs (selected buttons and slider positions).\n\n7. Monitoring Server (server.py)\nRole: Observability & Telemetry Dashboard \nDescription: A FastAPI-based web server providing a real-time window into the system's internal state. It exposes WebSocket endpoints to stream sensor data and application status to a frontend interface, allowing operators to monitor system health and session progress without interfering with the core logic.\n\n8. Document Composer & Print Spooler (contract_generator.py)\nRole: Report Generation & Physical Output \nDescription: The final output pipeline. It aggregates the computed metrics and generated assets to dynamically compose a PDF report (\"The Contract\"). It calculates the required physical media length and interfaces with the thermal printer driver to produce the hard copy, handling print queue logic and error management.",
+        "links": [],
+        "files": [
+          {
+            "name": "91.jpeg",
+            "size": 68421,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/91.jpg"
+          }
+        ]
       }
     }
   ],
@@ -8393,6 +8608,86 @@
       "s": "nd2u8w6i",
       "t": "n39nwkle",
       "dashed": false
+    },
+    {
+      "s": "nkkemi6v",
+      "t": "nme1viv8",
+      "dashed": false
+    },
+    {
+      "s": "nkkemi6v",
+      "t": "n7guyq6i",
+      "dashed": false
+    },
+    {
+      "s": "n8erxgvo",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "nm5yes67",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "nq4mc3vh",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "n8lorgq9",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "ncptzb23",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "n39s50vi",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "nuc3mlcc",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "nd2u8w6i",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "nf6wd9qs",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "n6naot6q",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "nx7uyrcr",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "n39vcv05",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "n39nwkle",
+      "t": "n9jniqnv",
+      "dashed": false
+    },
+    {
+      "s": "n9pmymc9",
+      "t": "n9jniqnv",
+      "dashed": false
     }
   ],
   "vocab": {
@@ -8435,9 +8730,9 @@
       "Feelings"
     ],
     "type": [
+      "Collection",
       "Concept",
       "Source",
-      "Collection",
       "Observation",
       "Feedback",
       "Brief"
