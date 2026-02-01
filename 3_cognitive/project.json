@@ -4818,8 +4818,8 @@
     },
     {
       "id": "nct6x61s",
-      "x": 31311.07713932256,
-      "y": 3204.2610918710902,
+      "x": 31192.35449558045,
+      "y": 3234.8991934819564,
       "w": 320,
       "h": 410,
       "group": null,
@@ -4945,8 +4945,8 @@
     },
     {
       "id": "nx6l8i6t",
-      "x": 32154.960273904304,
-      "y": 2955.6692582266323,
+      "x": 31868.048699629002,
+      "y": 3168.0583456771797,
       "w": 320,
       "h": 879,
       "group": null,
@@ -5089,8 +5089,8 @@
     },
     {
       "id": "nf9fi30x",
-      "x": 32674.8359740097,
-      "y": 491.08267812444126,
+      "x": 32670.8359740097,
+      "y": 811.0826781244413,
       "w": 320,
       "h": 751,
       "group": null,
@@ -5169,7 +5169,7 @@
     {
       "id": "nublnfqh",
       "x": 33118.690997918806,
-      "y": 672.8880296488459,
+      "y": 1188.888029648846,
       "w": 320,
       "h": 294,
       "group": null,
@@ -5191,7 +5191,7 @@
     {
       "id": "nqsbac55",
       "x": 33647.95630477223,
-      "y": 907.1705806927863,
+      "y": 1515.1705806927862,
       "w": 320,
       "h": 328,
       "group": null,
@@ -5259,8 +5259,8 @@
     },
     {
       "id": "nx9gbomr",
-      "x": 34853.142580335494,
-      "y": 1967.7677776693513,
+      "x": 34742.69671014454,
+      "y": 2198.506347418226,
       "w": 320,
       "h": 767,
       "group": null,
@@ -5290,8 +5290,8 @@
     },
     {
       "id": "ndk04iou",
-      "x": 33302.885602402595,
-      "y": 2993.1271587443603,
+      "x": 32858.89077157266,
+      "y": 3103.6714619746635,
       "w": 320,
       "h": 901,
       "group": null,
@@ -5332,8 +5332,8 @@
     },
     {
       "id": "nfsev295",
-      "x": 32575.061415029435,
-      "y": 3570.8074778528917,
+      "x": 32303.054338119084,
+      "y": 3734.7569488673494,
       "w": 320,
       "h": 2046,
       "group": null,
@@ -5382,10 +5382,10 @@
     },
     {
       "id": "nxhsdbzq",
-      "x": 33307.24357908244,
-      "y": 4114.807477852892,
+      "x": 32845.47191010641,
+      "y": 4335.294005981253,
       "w": 320,
-      "h": 640,
+      "h": 686,
       "group": null,
       "data": {
         "date": "2025-12-20",
@@ -5395,7 +5395,9 @@
         "mainArea": "Communication",
         "areas": [
           "Design research",
-          "Digital aesthetics"
+          "Digital aesthetics",
+          "Cognitive science",
+          "Human-computer interaction"
         ],
         "tags": [],
         "desc": "",
@@ -5416,6 +5418,355 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2026-01-09_alle_12.31.11.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrche33d",
+      "x": 35246.69671014454,
+      "y": 2442.506347418226,
+      "w": 320,
+      "h": 895,
+      "group": null,
+      "data": {
+        "date": "2026-01-14",
+        "title": "Final Armor",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Human-computer interaction",
+          "Cognitive science"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "P1120805.JPG",
+            "size": 1850880,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/P1120805.jpg"
+          },
+          {
+            "name": "P1120768.JPG",
+            "size": 2700800,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/P1120768.jpg"
+          },
+          {
+            "name": "P1120767.JPG",
+            "size": 2634752,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/P1120767.jpg"
+          },
+          {
+            "name": "P1120806.JPG",
+            "size": 2267136,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/P1120806.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9b4fiz3",
+      "x": 33974.524198180574,
+      "y": 3164.398922671757,
+      "w": 320,
+      "h": 471,
+      "group": null,
+      "data": {
+        "date": "2026-01-22",
+        "title": "Final user manual",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Digital aesthetics",
+          "Communication",
+          "Design research",
+          "Media studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "bugiardino.jpg",
+            "size": 537764,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/bugiardino.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfyp42d3",
+      "x": 33931.24357908244,
+      "y": 3878.8074778528917,
+      "w": 320,
+      "h": 486,
+      "group": null,
+      "data": {
+        "date": "2026-01-26",
+        "title": "Booklet",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research",
+          "Digital aesthetics"
+        ],
+        "tags": [],
+        "desc": "The creation of a 32-page booklet presenting the scenario, concept, product, and experience",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 15.44.46.png",
+            "size": 319976,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_15.44.46.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n63d4nki",
+      "x": 33281.65500500287,
+      "y": 5122.642387614295,
+      "w": 320,
+      "h": 666,
+      "group": null,
+      "data": {
+        "date": "2026-01-17",
+        "title": "More poster proposals",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-01-19 at 16.14.26.jpeg",
+            "size": 63978,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-19_at_16.14.26.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2026-01-19 at 16.15.16.jpeg",
+            "size": 57255,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-19_at_16.15.16.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2026-01-19 at 16.15.44.jpeg",
+            "size": 62244,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-19_at_16.15.44.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1zdk6xw",
+      "x": 33934.31615890266,
+      "y": 5454.467506741144,
+      "w": 320,
+      "h": 342,
+      "group": null,
+      "data": {
+        "date": "2026-01-26",
+        "title": "Final posters",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research",
+          "Media studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-01-27 at 19.31.17.jpeg",
+            "size": 152362,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-27_at_19.31.17.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nyiaux62",
+      "x": 35195.24357908244,
+      "y": 3698.8074778528917,
+      "w": 320,
+      "h": 383,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "Printing of all artifacts",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research",
+          "Digital aesthetics"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-01-29 at 14.14.24.jpeg",
+            "size": 123076,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-29_at_14.14.24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "npsxos4n",
+      "x": 33255.24357908244,
+      "y": 4354.807477852892,
+      "w": 320,
+      "h": 660,
+      "group": null,
+      "data": {
+        "date": "2026-01-14",
+        "title": "Armor performance reports",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research",
+          "Digital aesthetics",
+          "Human-computer interaction",
+          "Cognitive science"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "270768cd-4978-4c2b-abd5-17f97475367c.jpg",
+            "size": 207487,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/270768cd-4978-4c2b-abd5-17f97475367c.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n6gh6lql",
+      "x": 33927.24357908244,
+      "y": 4491.01284380546,
+      "w": 320,
+      "h": 794,
+      "group": null,
+      "data": {
+        "date": "2026-01-21",
+        "title": "Floor distancing sticker",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research",
+          "Digital aesthetics",
+          "Society studies",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-01-29 at 14.14.25.jpeg",
+            "size": 96656,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-29_at_14.14.25.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ng0cov4z",
+      "x": 33405.21264209769,
+      "y": 2925.7515546659292,
+      "w": 320,
+      "h": 1233,
+      "group": null,
+      "data": {
+        "date": "2026-01-15",
+        "title": "Final video shoot",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Design research",
+          "Human-computer interaction",
+          "Society studies",
+          "Media studies"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "P1120723.JPG",
+            "size": 3371008,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/P1120723.jpg"
+          },
+          {
+            "name": "e67faa7c-011c-434c-9bf5-ff86d362214d.JPG",
+            "size": 381541,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/e67faa7c-011c-434c-9bf5-ff86d362214d.jpg"
+          },
+          {
+            "name": "IMG_7919.jpg",
+            "size": 1616651,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7919.jpg"
           }
         ]
       }
@@ -6536,56 +6887,126 @@
       "s": "nmvgfitc",
       "t": "nxhsdbzq",
       "dashed": false
+    },
+    {
+      "s": "nx9gbomr",
+      "t": "nrche33d",
+      "dashed": false
+    },
+    {
+      "s": "ndk04iou",
+      "t": "n9b4fiz3",
+      "dashed": false
+    },
+    {
+      "s": "nmvgfitc",
+      "t": "nfyp42d3",
+      "dashed": false
+    },
+    {
+      "s": "n8nr279x",
+      "t": "nmvgfitc",
+      "dashed": false
+    },
+    {
+      "s": "nmvgfitc",
+      "t": "n63d4nki",
+      "dashed": false
+    },
+    {
+      "s": "n63d4nki",
+      "t": "n1zdk6xw",
+      "dashed": false
+    },
+    {
+      "s": "nfyp42d3",
+      "t": "nyiaux62",
+      "dashed": false
+    },
+    {
+      "s": "n1zdk6xw",
+      "t": "nyiaux62",
+      "dashed": false
+    },
+    {
+      "s": "n9b4fiz3",
+      "t": "nyiaux62",
+      "dashed": false
+    },
+    {
+      "s": "nxhsdbzq",
+      "t": "nyiaux62",
+      "dashed": false
+    },
+    {
+      "s": "nxhsdbzq",
+      "t": "npsxos4n",
+      "dashed": false
+    },
+    {
+      "s": "nmvgfitc",
+      "t": "n6gh6lql",
+      "dashed": false
+    },
+    {
+      "s": "n6gh6lql",
+      "t": "nyiaux62",
+      "dashed": false
+    },
+    {
+      "s": "niulwyrx",
+      "t": "ng0cov4z",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Digital aesthetics",
-      "Communication",
-      "Socio-political",
-      "Critical design",
-      "Neuroscience",
-      "Anthropology",
-      "Archeoacustics",
-      "Japanese aesthetics",
-      "Critical theory",
-      "Society studies",
-      "Brain interfaces",
-      "Cognitive science",
       "Media studies",
+      "Society studies",
+      "Human-computer interaction",
+      "Cognitive science",
       "Design research",
-      "Human-computer interaction"
+      "Communication",
+      "Brain interfaces",
+      "Critical theory",
+      "Japanese aesthetics",
+      "Archeoacustics",
+      "Anthropology",
+      "Neuroscience",
+      "Critical design",
+      "Socio-political",
+      "Digital aesthetics"
     ],
     "tags": [
-      "Sea",
-      "Shell",
-      "Organic",
-      "Y2k",
-      "Technological optimism",
-      "Protection",
-      "White noise",
-      "Confrontation",
-      "Swiss design",
-      "Disturbing",
-      "Sound",
-      "Calming",
-      "Opaque film",
-      "Output",
-      "Branding",
-      "Blur",
+      "Grotesque typography",
       "Isolation",
-      "Grotesque typography"
+      "Blur",
+      "Branding",
+      "Output",
+      "Opaque film",
+      "Calming",
+      "Sound",
+      "Disturbing",
+      "Swiss design",
+      "Confrontation",
+      "White noise",
+      "Protection",
+      "Technological optimism",
+      "Y2k",
+      "Organic",
+      "Shell",
+      "Sea"
     ],
     "type": [
-      "Concept",
       "Output",
+      "Concept",
       "Sketch",
-      "Decision",
-      "Feedback",
-      "Collection",
-      "Source",
+      "Finding",
       "Brief",
-      "Finding"
+      "Source",
+      "Collection",
+      "Feedback",
+      "Decision"
     ]
   }
 }
