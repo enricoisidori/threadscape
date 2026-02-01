@@ -8809,17 +8809,17 @@
     },
     {
       "id": "nwh2g5o7",
-      "x": 49149.37796785498,
+      "x": 49145.37796785498,
       "y": 4884.478044689608,
       "w": 320,
-      "h": 1033,
+      "h": 942,
       "group": null,
       "data": {
         "date": "2025-12-16",
         "title": "Project review",
         "type": "Feedback",
-        "action": "Making",
-        "mainArea": "Interaction",
+        "action": null,
+        "mainArea": null,
         "areas": [
           "Product design",
           "Visual communication",
@@ -8831,19 +8831,11 @@
           "Data representation"
         ],
         "tags": [
-          "Speculative projects",
+          "Metric system",
+          "Temporal sovereignty",
           "Data representation",
-          "Social media content",
-          "Visual identity",
-          "Device render",
-          "Print media",
-          "Brand communication",
-          "Interface design",
-          "Usability testing",
-          "User interface design",
-          "Design research",
-          "Poster design",
-          "Temporal sovereignty"
+          "Speculative projects",
+          "User interface design"
         ],
         "desc": "Visual Identity: The logo requires optical weight adjustment at reduced scales, with horizontal stroke thickness matching the H stem. Typography spacing and negative version contrast need refinement.\n\nInstruction Design: User interface text requires simplification following information design principles (Ladislav Sutnar). Sequential steps (1-4) should be numbered explicitly, text reduced to imperative commands (\"delete\" vs. \"remove incorrect hours\"), and rotary encoder operation separated from activity selection. QR code scanning instruction added for data access.\n\nPresentation Materials: Teaser video repositioned to opening, with modified transition timing between time-themed segments. Audio design requires deeper voiceover and neutral background music. Instagram/website sequence reordered for visual flow.\n\nPackaging: Custom-fitted shipping carton with foam protection and designated instruction space.\n\nWeb Application: Text compression to improve legibility and increase whitespace in instructional areas.\n\nBrand Context: Website requires 2-3 additional \"controversial\" time-measurement products to establish editorial positioning.",
         "links": [],
@@ -9262,7 +9254,7 @@
       "x": 51401.37796785498,
       "y": 5106.87145647994,
       "w": 320,
-      "h": 916,
+      "h": 825,
       "group": null,
       "data": {
         "date": "2025-12-19",
@@ -9281,19 +9273,11 @@
           "Data representation"
         ],
         "tags": [
-          "Speculative projects",
+          "Metric system",
+          "Temporal sovereignty",
           "Data representation",
-          "Social media content",
-          "Visual identity",
-          "Device render",
-          "Print media",
-          "Brand communication",
-          "Interface design",
-          "Usability testing",
-          "User interface design",
-          "Design research",
-          "Poster design",
-          "Temporal sovereignty"
+          "Speculative projects",
+          "User interface design"
         ],
         "desc": "Teaser: the map design must appear more organic while maintaining visual unity through a single continuous drawing technique inspired by Cavandoli-style line work. Subtitles should be consistently added to animations to establish coherent connections. The teaser's \"powered by\" placement was identified as problematic; institutional distribution requires a more restrained aesthetic without decorative elements.\n\nThe visual representation of temporal elements—specifically time zones in the Zero Hour Day concept—requires consistent graphic treatment across video and poster formats to maintain conceptual clarity.\n\n The packaging solution should present the logo inline rather than prominently featured, as the product's value lies in its institutional function rather than retail appeal. The introductory video's step-by-step structure was deemed useful. For task completion interface, alphabetical task labels (A-B-C-D) should precede the confirm action, with the confirmation button enlarged and differentiated through color for improved usability.",
         "links": [],
@@ -9302,13 +9286,13 @@
     },
     {
       "id": "n0od609l",
-      "x": 51872.767497359026,
-      "y": 4235.655818372725,
+      "x": 51917.73932597069,
+      "y": 2281.395756585172,
       "w": 320,
-      "h": 1276,
+      "h": 1230,
       "group": null,
       "data": {
-        "date": "2026-01-03",
+        "date": "2026-01-02",
         "title": "Hardware chronodex update",
         "type": "Artefact",
         "action": "Making",
@@ -9321,11 +9305,8 @@
           "Sensor systems"
         ],
         "tags": [
-          "Metric system",
-          "Temporal sovereignty",
-          "Data representation",
-          "Measuring the unmeasurable",
-          "Self-trackin"
+          "Sensor technology",
+          "Physical prototype"
         ],
         "desc": "ESP32-S3 microcontroller mounted on a custom PCB with screw terminal breakouts. The board features: \n- ESP32-S3 development board as the main controller\n- Custom green breakout PCB with screw terminals for easy LED strip and peripheral connections\n- Multiple GPIO breakouts for rotary encoder input, button interfaces, and OLED display connection\n- USB-C ports for programming and power\n- Clean wire routing channels on the PCB for organized assembly\n\nThe mechanical design uses a compact stacked architecture where the ESP32-S3 sits on header pins above the breakout board, providing access to all GPIO while maintaining a small footprint. The screw terminals eliminate soldering requirements for LED strips and sensors, making assembly and maintenance straightforward.",
         "links": [],
@@ -9351,10 +9332,10 @@
     },
     {
       "id": "nsrdbwuf",
-      "x": 51869.2544927494,
-      "y": 5542.886658818828,
+      "x": 51874.05053888088,
+      "y": 6302.101883408049,
       "w": 320,
-      "h": 1018,
+      "h": 996,
       "group": null,
       "data": {
         "date": "2026-01-04",
@@ -9375,8 +9356,7 @@
           "Data representation",
           "Metric system",
           "Algorithmic governance",
-          "Metrics distortion",
-          "Normalization techniques"
+          "Metrics distortion"
         ],
         "desc": "Score calculated by comparing citizens' daily routines against population-level temporal patterns. Each citizen's 24-hour routine is encoded as a 96-dimensional vector, where each hour is represented by four binary components corresponding to Sleep, Work, Other, and Eating activities. The population model T aggregates these individual routines into a weighted average, indicating the empirical probability of each activity per hour. To prevent circular bias, individual scores are calculated using a leave-one-out approach: citizen i is evaluated against model T₋ᵢ, which excludes that citizen's data. The Euclidean distance between individual routine and leave-one-out model quantifies behavioral deviation across all temporal-activity components. Maximum theoretical distance (4√6 ≈ 9.80) occurs when individual behavior is completely inverse to population average. Scores are normalized to 0-100 scale, where 100 indicates perfect alignment with collective patterns and 0 indicates maximum divergence. Country-level scores represent averaged individual scores, enabling cross-national comparison of temporal synchronization patterns.",
         "links": [],
@@ -9394,14 +9374,14 @@
     },
     {
       "id": "nhqsqmo1",
-      "x": 52273.37796785498,
-      "y": 5828.886658818828,
+      "x": 52277.26779490728,
+      "y": 6555.466869951772,
       "w": 320,
-      "h": 516,
+      "h": 494,
       "group": null,
       "data": {
         "date": "2026-01-05",
-        "title": "Country ranking",
+        "title": "Italy score",
         "type": "Decision",
         "action": "Making",
         "mainArea": "Speculation",
@@ -9418,8 +9398,7 @@
           "Data representation",
           "Metric system",
           "Algorithmic governance",
-          "Metrics distortion",
-          "Normalization techniques"
+          "Metrics distortion"
         ],
         "desc": "Italy's score is calculated as the average of individual scores of citizens belonging to that country. Each individual score is already calculated using the leave-one-out method, ensuring an unbiased evaluation. This indicator (in the scenario) allows comparing the average degree of routine synchronization between different countries.",
         "links": [],
@@ -9428,10 +9407,10 @@
     },
     {
       "id": "nyy5k578",
-      "x": 52641.37796785498,
-      "y": 5296.886658818828,
+      "x": 52669.3632241356,
+      "y": 6554.182681827958,
       "w": 320,
-      "h": 993,
+      "h": 970,
       "group": null,
       "data": {
         "date": "2026-01-05",
@@ -9452,8 +9431,7 @@
           "Data representation",
           "Metric system",
           "Algorithmic governance",
-          "Metrics distortion",
-          "Normalization techniques"
+          "Metrics distortion"
         ],
         "desc": "On average, in 2014, Italians dedicated 8 hours and 32 minutes per day to sleep (including daytime naps); limiting the analysis to nighttime hours (11:00 PM - 7:00 AM), the average duration is 7 hours and 54 minutes.\n\nBedtime varies significantly between weekdays and weekends:\nWeekdays and Sunday: The schedule is similar since the following day is a work or school day. At 11:00 PM, 50% of people are asleep. This rises to 80% just after midnight. At 1:00 AM, 90% of Italians are sleeping.\nSaturday: Times shift forward by about half an hour. At midnight, 3 out of 10 Italians are still awake. The 50% threshold of people sleeping is reached at 11:30 PM, while 90% of the population goes to sleep around 1:30 AM.\n\nWake-up time has different patterns depending on the day:\nWeekdays: The alarm goes off early. A quarter of people are awake by 6:30 AM. At 7:00 AM, almost 50% of the population (47.5%) is awake, and at 8:00 AM three-quarters of Italians are awake.\nSunday: The time shifts forward by one hour. You have to wait until 8:00 AM for half of people to be awake, and 9:00 AM for three-quarters.\nSaturday: Falls in between, with times shifting about 30 minutes compared to weekdays (50% are awake at 7:30 AM).",
         "links": [
@@ -9465,10 +9443,10 @@
     },
     {
       "id": "ndoch237",
-      "x": 52645.37796785498,
-      "y": 6321.886658818828,
+      "x": 52676.96321613775,
+      "y": 7576.143938220353,
       "w": 320,
-      "h": 1028,
+      "h": 1005,
       "group": null,
       "data": {
         "date": "2026-01-05",
@@ -9489,8 +9467,7 @@
           "Data representation",
           "Metric system",
           "Algorithmic governance",
-          "Metrics distortion",
-          "Normalization techniques"
+          "Metrics distortion"
         ],
         "desc": "Breakfast: 7:00-8:00 AM\nOn weekdays, breakfast occurs in a narrow time window, squeezed between waking up and leaving for work or school.\n\nLunch: 1:00-2:00 PM\nData shows strong population synchronization around lunch time, which remains a central part of the day:\n- Work participation drops sharply during the 1:00-2:00 PM lunch break - only ~30% of employed people are working during this time\n- For commuters, peak movement (returning home or going to lunch) occurs between 12:30-1:20 PM\n- There's a preparatory phase (often done by women) with a peak in domestic activities between 12:00-1:00 PM\n- Average lunch break duration for workers: 58 minutes\n\nDinner: 7:30-8:30 PM\nDinner time is more spread out than lunch, but falls mainly in the early evening before leisure time: activities related to dinner preparation show significant differences in time use (especially between men and women) from 6:30-9:20 PM.",
         "links": [
@@ -9499,6 +9476,942 @@
           "https://www.ilmattino.it/societa/piaceri/colazione_italiani_maggioranza_ultime_notizie_oggi-5979633.html"
         ],
         "files": []
+      }
+    },
+    {
+      "id": "ni3zjos5",
+      "x": 52681.63023289086,
+      "y": 8622.872732967116,
+      "w": 320,
+      "h": 699,
+      "group": null,
+      "data": {
+        "date": "2026-01-05",
+        "title": "Other average Italy",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion"
+        ],
+        "desc": "True leisure time (recreational activities, TV, relaxation) tends to begin massively after dinner, with over half of employed people concentrating their leisure between 9:00 PM and 11:00 PM.\n\nThe time slot with the highest share of afternoon travel is between 5:30/6:00 PM and 7:00 PM.\n\nThe resident population in Italy has 4 hours and 53 minutes of free time available on an average day.\n\nBetween 7:40 and 8:00 AM, the moment when 12.9% of the population is traveling.\n\nAt 7:50 AM, the moment when 12.9% of the population aged 15 and over is traveling.",
+        "links": [
+          "https://www.istat.it/it/files/2019/05/ebook-I-tempi-della-vita-quotidiana.pdf"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "ns16dqem",
+      "x": 52687.70772010607,
+      "y": 9360.027250255522,
+      "w": 320,
+      "h": 516,
+      "group": null,
+      "data": {
+        "date": "2026-01-05",
+        "title": "Work average Italy",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion"
+        ],
+        "desc": "The average Italian workday runs from around 8:30 AM to 1:00 PM, followed by a lunch break, then resumes from 2:00 PM until 5:30 or 6:00 PM.",
+        "links": [
+          "https://www.statista.com/statistics/419589/main-job-average-weekly-working-hours-italy-y-on-y/",
+          "https://www.istat.it/it/files/2019/05/ebook-I-tempi-della-vita-quotidiana.pdf"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nru7igik",
+      "x": 52281.708648137814,
+      "y": 5581.341433941161,
+      "w": 320,
+      "h": 602,
+      "group": null,
+      "data": {
+        "date": "2026-01-06",
+        "title": "Country Average routine",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion"
+        ],
+        "desc": "",
+        "links": [
+          "https://data-explorer.oecd.org/vis?df[ds]=DisseminateFinalDMZ&df[id]=DSD_TIME_USE@DF_TIME_USE&df[ag]=OECD.WISE.INE",
+          "https://www.timeuse.org/mtus",
+          "https://www.timeuse.org/sites/default/files/public/ctur_technical_paper/869/CTUR_Technical_Paper_2010-01.pdf",
+          "https://www.weforum.org/stories/2020/12/how-people-spend-their-time-globally/",
+          "https://ourworldindata.org/time-use",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC3046343/",
+          "https://ec.europa.eu/eurostat/documents/3930297/5953614/KS-58-04-998-EN.PDF"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nwx96wij",
+      "x": 53095.984034326204,
+      "y": 6565.553595885038,
+      "w": 320,
+      "h": 567,
+      "group": null,
+      "data": {
+        "date": "2026-01-05",
+        "title": "Italy's average (TN)",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion",
+          "Speculative projects"
+        ],
+        "desc": "00:00-7:00 = sleeping time \n7:00-8:00 = eating time\n8:00-9:00 = other time\n9:00-13:00 = working time\n13:00-14:00 = eating time \n14:00-18:00 = working time \n18:00-19:00 = other time \n19:00-20:00 = eating time \n20:00-23:00 = other time \n23:00-00:00 = sleeping time",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ntu3ynjf",
+      "x": 52661.68039602977,
+      "y": 5317.622852236326,
+      "w": 320,
+      "h": 449,
+      "group": null,
+      "data": {
+        "date": "2026-01-06",
+        "title": "Ranking country scores",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion",
+          "Speculative projects"
+        ],
+        "desc": "The country scores remain somewhat arbitrary, since we still don't know what proportion of the population is actually \"aligned.\"",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n281h8jm",
+      "x": 53096.9867778659,
+      "y": 5278.755591762718,
+      "w": 320,
+      "h": 1167,
+      "group": null,
+      "data": {
+        "date": "2026-01-06",
+        "title": "Methodology score ranking",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion"
+        ],
+        "desc": "Synchronization scores are estimates, not direct measurements—no global sensor tracks everyone's daily routines. The approach uses proxy indicators that scientific literature links to routine regularity. Key proxies:\n\n- Informal economy rates (ILO): Formal employment enforces rigid schedules (clocking in, office hours, factory shifts), while informal work is flexibility-driven. Countries with 90% informal labor cannot achieve high synchronization: this is the methodology's strongest pillar.\n\n- Time Use Survey availability: TUS measure duration, not timing. Crucially, countries capable of conducting complex TUS are inherently more structured societies, making data availability itself a proxy for social organization.\n\n- Cultural factors: Germany's punctuality culture (\"arriving on time means 10 minutes early\") reflects industrial and Prussian discipline. Spain shows high internal meal synchronization (everyone eats at 14:30) despite differing from European norms.\n\n- Social jetlag data: Studies show 30-44 minute average social jetlag in organized populations, confirming synchronization patterns.",
+        "links": [
+          "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150312",
+          "https://pubmed.ncbi.nlm.nih.gov/2017534/",
+          "https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/Chronotype-and-Social-Jetlag-A-Self-/99783252702346",
+          "https://www.timeuse.org/sites/default/files/2021-02/User%20Guide_2021.pdf",
+          "https://www.oecd.org/en/data/datasets/time-use-database.html",
+          "https://www.ilo.org/sites/default/files/2024-04/Women_men_informal_economy_statistical_picture.pdf",
+          "https://www.wiego.org/wp-content/uploads/2019/09/Chen_WIEGO_WP1.pdf",
+          "https://academic.oup.com/sleep/article-abstract/39/6/1311/2454030?redirectedFrom=fulltext"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "npgm7qch",
+      "x": 52666.25169391585,
+      "y": 5789.906269354915,
+      "w": 320,
+      "h": 634,
+      "group": null,
+      "data": {
+        "date": "2026-01-06",
+        "title": "Population weight Adjustment",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion",
+          "Speculative projects"
+        ],
+        "desc": "Problem: Coordinating 800 people (Vatican) is structurally simpler than coordinating 125 million (Japan). The original 15% weight artificially favored micro-states.\n\nSolution: A dynamic weight that recognizes:\n\n- < 100k inhabitants: Small size offers no advantage for temporal synchronization, only administrative ease → weight reduced to 2%\n- 100k – 1M inhabitants: Still relatively easy to coordinate → weight reduced to 7%\n- > 1M inhabitants: Size becomes a significant factor → standard weight of 15%",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmkczo6n",
+      "x": 53481.22821469086,
+      "y": 5335.918200052755,
+      "w": 320,
+      "h": 1133,
+      "group": null,
+      "data": {
+        "date": "2026-01-06",
+        "title": "Initial Ranking Estimates",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion",
+          "Speculative projects"
+        ],
+        "desc": "Weights for countries > 1 million inhabitants:\n\n- Formal economy: 40% – formal employment rate (source: ILO 2023)\n- Cultural uniformity: 25% – ethnic and religious homogeneity (source: World Factbook)\n- Population size: 15% – logarithmically normalized (source: World Bank, UN DESA)\n- Political stability: 10% – Fragile States Index (source: Fund for Peace)\n- **Punctuality norms:** 10% – cultural studies (sources: academic literature)\n\nWeights are then dynamically adjusted to avoid artificial advantages: for countries with 100k–1M inhabitants, the population size weight drops to 7%; for countries with <100k inhabitants, it drops to 2%, with a corresponding proportional increase in the other factors.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 19.46.18.png",
+            "size": 52143,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_19.46.18.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 at 19.46.13.png",
+            "size": 54992,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_19.46.13.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 at 19.46.09.png",
+            "size": 64350,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_19.46.09.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1uyhmys",
+      "x": 52280.857871401626,
+      "y": 4699.7130380850585,
+      "w": 320,
+      "h": 767,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "Hardware map",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Science and technology studies (sts)",
+          "Sensor systems",
+          "Map"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 19.51.26.png",
+            "size": 213912,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_19.51.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nan5o6p4",
+      "x": 51880.40078675137,
+      "y": 5511.261570443735,
+      "w": 320,
+      "h": 651,
+      "group": null,
+      "data": {
+        "date": "2026-01-03",
+        "title": "Ranking logic",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Chronopolitics",
+          "Metric governance",
+          "Algorithmic governance",
+          "Data representation",
+          "Metric system"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Metric governance",
+          "Data representation",
+          "Metric system",
+          "Algorithmic governance",
+          "Metrics distortion",
+          "Speculative projects"
+        ],
+        "desc": "- If a nation wins, the time zone it decides internally is imposed (though the strongest cities—typically the capital—continue to dominate, which is what we'll display in the app)\n\n- The map used for the presentation is the current one, which may or may not follow political borders, since this is the first vote\n\n- The time zone of the winning country is illuminated; however, countries like France or Spain that visually fall outside their actual time zone (because they follow political rather than geographical boundaries) won't appear illuminated if their time zone is winning—only the straight meridian-based zone lights up",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nnwa2okl",
+      "x": 52666.07603718768,
+      "y": 4713.386572413565,
+      "w": 320,
+      "h": 402,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "Final Map hardware project",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Science and technology studies (sts)",
+          "Sensor systems",
+          "Map"
+        ],
+        "tags": [],
+        "desc": "1× ESP32 (30 pin, WiFi)\n1× Power supply 5V 5A (25W) \n2× LED Strips WS2812B 5V 150 LED/strip, 5m, 30 LED/m, IP20\n\n24 columns about 12leds ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nheiuq6q",
+      "x": 53065.48780929085,
+      "y": 4700.592250017934,
+      "w": 320,
+      "h": 472,
+      "group": null,
+      "data": {
+        "date": "2026-01-13",
+        "title": "Making of time-zones map",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Science and technology studies (sts)",
+          "Sensor systems",
+          "Map"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 20.33.33.png",
+            "size": 1086657,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_20.33.33.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3phn7bb",
+      "x": 52312.97400141616,
+      "y": 3884.339590594973,
+      "w": 320,
+      "h": 600,
+      "group": null,
+      "data": {
+        "date": "2026-01-04",
+        "title": "Web app ui prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Ui design",
+          "Web design"
+        ],
+        "tags": [
+          "Mockup",
+          "Interface design",
+          "Visual identity",
+          "Data representation"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 20.06.54.png",
+            "size": 114660,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_20.06.54.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 at 20.07.01.png",
+            "size": 77985,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_20.07.01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsdom15b",
+      "x": 51933.49777594264,
+      "y": 3905.4215287402694,
+      "w": 320,
+      "h": 549,
+      "group": null,
+      "data": {
+        "date": "2026-01-04",
+        "title": "Web app design",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Ui design",
+          "Web design"
+        ],
+        "tags": [
+          "Mockup",
+          "Interface design",
+          "Visual identity",
+          "Data representation",
+          "User interface design"
+        ],
+        "desc": "The web application is structured into three main sections, each designed to offer different levels of information and engagement. The \"Alignment\" page allows users to view their contribution by comparing it with the national average. The \"World\" section displays the global competition in real time through a representation of the 24 time zones and a live-updated ranking. The \"Recap\" page, accessible only after data collection ends, presents the final results and visualizes the transition from the previous time to the one established by the winning country, making the impact of collective participation tangible.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nd9erv3k",
+      "x": 53538.58114247643,
+      "y": 2870.596549697378,
+      "w": 320,
+      "h": 469,
+      "group": null,
+      "data": {
+        "date": "2026-01-07",
+        "title": "Technical drawing",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Science and technology studies (sts)",
+          "Sensor systems"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 20.19.17.png",
+            "size": 137861,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_20.19.17.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nx74nqzb",
+      "x": 52542.55824006805,
+      "y": 3304.07772203345,
+      "w": 320,
+      "h": 472,
+      "group": null,
+      "data": {
+        "date": "2026-01-05",
+        "title": "Product brochure design",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Science and technology studies (sts)",
+          "Sensor systems"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 20.15.57.png",
+            "size": 521492,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_20.15.57.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3gn04dr",
+      "x": 54120.49766214224,
+      "y": 2164.1467652505785,
+      "w": 320,
+      "h": 782,
+      "group": null,
+      "data": {
+        "date": "2026-01-26",
+        "title": "Product user manual",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Science and technology studies (sts)",
+          "Sensor systems"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "RETRO.png",
+            "size": 1271072,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/RETRO.jpg"
+          },
+          {
+            "name": "FRONTE.png",
+            "size": 1512732,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/FRONTE.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9d8evwo",
+      "x": 54133.400287122924,
+      "y": 3293.3849241863604,
+      "w": 320,
+      "h": 508,
+      "group": null,
+      "data": {
+        "date": "2026-01-26",
+        "title": "Product brochure",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Science and technology studies (sts)",
+          "Sensor systems"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "mockup.png",
+            "size": 6481606,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/mockup.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nn75hkep",
+      "x": 52540.21755055896,
+      "y": 2088.29754949753,
+      "w": 320,
+      "h": 837,
+      "group": null,
+      "data": {
+        "date": "2025-12-05",
+        "title": "Plastic button manufacturing",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Science and technology studies (sts)",
+          "Sensor systems"
+        ],
+        "tags": [
+          "User interface design",
+          "Usability testing",
+          "Physical prototype"
+        ],
+        "desc": "The central button has a distinct design so users can immediately recognize that its function differs from the other activity buttons.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 20.24.49.png",
+            "size": 2950285,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_20.24.49.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 at 20.26.21.png",
+            "size": 1885332,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_20.26.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxaqt6cb",
+      "x": 52953.64858834967,
+      "y": 2246.39925010907,
+      "w": 320,
+      "h": 500,
+      "group": null,
+      "data": {
+        "date": "2026-01-06",
+        "title": "Final hardware manufacturing",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Science and technology studies (sts)",
+          "Sensor systems"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 20.28.21.png",
+            "size": 1855138,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_20.28.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nk1dfvtp",
+      "x": 54744.49766214224,
+      "y": 5128.146765250578,
+      "w": 320,
+      "h": 993,
+      "group": null,
+      "data": {
+        "date": "2026-01-20",
+        "title": "Project review",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Product design",
+          "Visual communication",
+          "Interaction design",
+          "Communication",
+          "Experience design",
+          "Branding",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [
+          "Metric system",
+          "Temporal sovereignty",
+          "Data representation",
+          "Speculative projects",
+          "User interface design"
+        ],
+        "desc": "The video should avoid stock images and focus on the voting day itself, covering only key aspects without explaining technical functionality. The goal is to spark curiosity and offer a reading key while keeping things simple, using motion graphics throughout.\n\nFor the webapp, include directions to the venue somewhere visible. The \"More\" section and lower content should be managed through scroll. Bold weights and text hierarchy need a consistent rule across the board. All highlights must function as buttons and clearly look like buttons. In the Recap section, labels should clarify who is who in the compared/measured view. The two radial charts in Alignment should be visually distinct to convey different information. The World section needs the full ranking list with a search function, and the map should appear below the time zones. Lines used in instructions require better handling regarding stroke and alignment. No iPad version is needed since the video already serves that purpose.\n\nOn the website, remove all rounded corners—they were never part of the identity—and include a fixed element at the bottom. The overall look should reflect our visual identity.\n\nFor the brochure, the bottom lines are not working. A technical manual aesthetic is preferred. This deliverable is not mandatory, but if produced, it should follow that style: lines running edge to edge without interruption, and if titles are in caps, use full caps consistently.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ng7zujmy",
+      "x": 51877.37796785498,
+      "y": 7478.101883408049,
+      "w": 320,
+      "h": 540,
+      "group": null,
+      "data": {
+        "date": "2026-01-08",
+        "title": "Poster redesign",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Visual communication",
+          "Interaction design",
+          "Communication",
+          "Experience design",
+          "Branding",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 20.38.25.png",
+            "size": 356108,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_20.38.25.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7c9xopx",
+      "x": 51885.37796785498,
+      "y": 8954.10188340805,
+      "w": 320,
+      "h": 700,
+      "group": null,
+      "data": {
+        "date": "2026-01-14",
+        "title": "Editorial artefact structure",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Product design",
+          "Visual communication",
+          "Interaction design",
+          "Communication",
+          "Experience design",
+          "Branding",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [],
+        "desc": "1 What if — Case studies: French Revolution, UTC/GMT, Chronopolitics (China). Issue: Time zones are based on objective measurement, but their implementation is shaped by political choices. A seemingly neutral standard conceals an act of imposition, where political borders override geographic logic. What if time were a tool of power?\n2 The scenario — In today's multipolar era, the Greenwich meridian has lost relevance. Time itself has become contested territory. Explanation of how nations enter this scenario, the event day, the program, the UN role, and Synchro's origin.\n3 The concept — Project purpose: what, why, and for whom.\n4 Key identity elements — Synchro: vision, mission, values, payoff, communication, graphics, color, logo, artifacts. Zero Hour Day: powered by Synchro, graphics, colors, artifacts.\n5 Prototype — Functionality, design choices, app design, technology, formula and ranking scores.\n6 Experience — Event day user flow, map visuals and technical elements, installation setup.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "niij2b5p",
+      "x": 51881.37796785498,
+      "y": 8114.10188340805,
+      "w": 320,
+      "h": 610,
+      "group": null,
+      "data": {
+        "date": "2026-02-12",
+        "title": "Video trailer storyboard",
+        "type": "Feedback",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Visual communication",
+          "Interaction design",
+          "Communication",
+          "Experience design",
+          "Branding",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [],
+        "desc": "Alternate between: typography, real footage, stock video, AI video if needed.\nVoice: same as the teaser.\nMood: institutional, informative, persuasive.\nStyle: consistent with the teaser.\nColors: black (1a1a1a), gray (f0f0f0), synchro violet.\nSound: ambient music that feels both positive and unsettling at the same time.\nPoint of view: the United Nations.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 20.43.15.png",
+            "size": 236017,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_20.43.15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfas328r",
+      "x": 55288.49766214224,
+      "y": 6216.146765250578,
+      "w": 320,
+      "h": 573,
+      "group": null,
+      "data": {
+        "date": "2026-01-26",
+        "title": "Trailer storyboard update",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Product design",
+          "Visual communication",
+          "Interaction design",
+          "Communication",
+          "Experience design",
+          "Branding",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 20.44.10.png",
+            "size": 295139,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_20.44.10.jpg"
+          }
+        ]
       }
     }
   ],
@@ -11742,103 +12655,308 @@
       "s": "nhqsqmo1",
       "t": "ndoch237",
       "dashed": false
+    },
+    {
+      "s": "nhqsqmo1",
+      "t": "ni3zjos5",
+      "dashed": false
+    },
+    {
+      "s": "nhqsqmo1",
+      "t": "ns16dqem",
+      "dashed": false
+    },
+    {
+      "s": "nsrdbwuf",
+      "t": "nru7igik",
+      "dashed": false
+    },
+    {
+      "s": "ns16dqem",
+      "t": "nwx96wij",
+      "dashed": false
+    },
+    {
+      "s": "ni3zjos5",
+      "t": "nwx96wij",
+      "dashed": false
+    },
+    {
+      "s": "ndoch237",
+      "t": "nwx96wij",
+      "dashed": false
+    },
+    {
+      "s": "nyy5k578",
+      "t": "nwx96wij",
+      "dashed": false
+    },
+    {
+      "s": "nru7igik",
+      "t": "ntu3ynjf",
+      "dashed": false
+    },
+    {
+      "s": "ntu3ynjf",
+      "t": "n281h8jm",
+      "dashed": false
+    },
+    {
+      "s": "nru7igik",
+      "t": "npgm7qch",
+      "dashed": false
+    },
+    {
+      "s": "npgm7qch",
+      "t": "n281h8jm",
+      "dashed": false
+    },
+    {
+      "s": "n281h8jm",
+      "t": "nmkczo6n",
+      "dashed": false
+    },
+    {
+      "s": "nka4qp64",
+      "t": "nan5o6p4",
+      "dashed": false
+    },
+    {
+      "s": "nan5o6p4",
+      "t": "n1uyhmys",
+      "dashed": false
+    },
+    {
+      "s": "nan5o6p4",
+      "t": "nru7igik",
+      "dashed": false
+    },
+    {
+      "s": "nan5o6p4",
+      "t": "nhqsqmo1",
+      "dashed": false
+    },
+    {
+      "s": "n1uyhmys",
+      "t": "nnwa2okl",
+      "dashed": false
+    },
+    {
+      "s": "nnwa2okl",
+      "t": "nheiuq6q",
+      "dashed": false
+    },
+    {
+      "s": "ngdyewby",
+      "t": "nka4qp64",
+      "dashed": false
+    },
+    {
+      "s": "nsdom15b",
+      "t": "n3phn7bb",
+      "dashed": false
+    },
+    {
+      "s": "nka4qp64",
+      "t": "nsdom15b",
+      "dashed": false
+    },
+    {
+      "s": "n0od609l",
+      "t": "nx74nqzb",
+      "dashed": false
+    },
+    {
+      "s": "nd9erv3k",
+      "t": "n3gn04dr",
+      "dashed": false
+    },
+    {
+      "s": "nx74nqzb",
+      "t": "n9d8evwo",
+      "dashed": false
+    },
+    {
+      "s": "nd9erv3k",
+      "t": "n9d8evwo",
+      "dashed": false
+    },
+    {
+      "s": "nn75hkep",
+      "t": "nxaqt6cb",
+      "dashed": false
+    },
+    {
+      "s": "n0od609l",
+      "t": "nn75hkep",
+      "dashed": false
+    },
+    {
+      "s": "nxaqt6cb",
+      "t": "nd9erv3k",
+      "dashed": false
+    },
+    {
+      "s": "n3gn04dr",
+      "t": "nk1dfvtp",
+      "dashed": false
+    },
+    {
+      "s": "n9d8evwo",
+      "t": "nk1dfvtp",
+      "dashed": false
+    },
+    {
+      "s": "n3phn7bb",
+      "t": "nk1dfvtp",
+      "dashed": false
+    },
+    {
+      "s": "nheiuq6q",
+      "t": "nk1dfvtp",
+      "dashed": false
+    },
+    {
+      "s": "nmkczo6n",
+      "t": "nk1dfvtp",
+      "dashed": false
+    },
+    {
+      "s": "nwx96wij",
+      "t": "nk1dfvtp",
+      "dashed": false
+    },
+    {
+      "s": "nka4qp64",
+      "t": "ng7zujmy",
+      "dashed": false
+    },
+    {
+      "s": "nka4qp64",
+      "t": "n7c9xopx",
+      "dashed": false
+    },
+    {
+      "s": "ng7zujmy",
+      "t": "nk1dfvtp",
+      "dashed": false
+    },
+    {
+      "s": "n7c9xopx",
+      "t": "nk1dfvtp",
+      "dashed": false
+    },
+    {
+      "s": "nka4qp64",
+      "t": "niij2b5p",
+      "dashed": false
+    },
+    {
+      "s": "niij2b5p",
+      "t": "nk1dfvtp",
+      "dashed": false
+    },
+    {
+      "s": "nk1dfvtp",
+      "t": "nfas328r",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Design research",
+      "Branding",
+      "Experience design",
+      "Communication",
+      "Visual communication",
+      "Map",
+      "Web design",
+      "Ui design",
+      "Sensor systems",
+      "Science and technology studies (sts)",
       "Metric system",
       "Algorithmic governance",
       "Metric governance",
       "Chronopolitics",
-      "Sensor systems",
-      "Science and technology studies (sts)",
-      "Speculative design",
-      "Data perception",
-      "Biometric data",
-      "Media studies",
-      "Critical theory",
-      "Surveillance studies",
-      "Critical data studies",
-      "Socio-political",
-      "Critical design",
-      "Data ethics",
-      "Social media",
-      "Product design",
-      "Sensor technology",
-      "Visual communication",
-      "Branding",
-      "Interaction design",
-      "Web design",
-      "Ui design",
+      "Motion design",
       "Data representation",
-      "Map",
-      "Communication",
-      "Experience design",
-      "Design research",
-      "Motion design"
+      "Interaction design",
+      "Sensor technology",
+      "Product design",
+      "Social media",
+      "Data ethics",
+      "Critical design",
+      "Socio-political",
+      "Critical data studies",
+      "Surveillance studies",
+      "Critical theory",
+      "Media studies",
+      "Biometric data",
+      "Data perception",
+      "Speculative design"
     ],
     "tags": [
-      "Normalization techniques",
+      "User interface design",
+      "Speculative projects",
+      "Data representation",
+      "Temporal sovereignty",
+      "Metric system",
+      "Physical prototype",
+      "Usability testing",
+      "Visual identity",
+      "Interface design",
+      "Mockup",
       "Metrics distortion",
       "Algorithmic governance",
-      "Metric system",
-      "Data representation",
       "Metric governance",
-      "Temporal sovereignty",
-      "Self-trackin",
-      "Measuring the unmeasurable",
-      "Socio-political",
-      "Typography",
-      "Normalization bias",
-      "Subjective reality",
-      "Alternative values",
-      "Body-politics",
-      "Algorithmic bias",
-      "Big data",
-      "Cognitive bias",
-      "Statistic bias",
-      "Senolytics",
-      "Cellular senescence",
-      "Relativity",
-      "Power dynamics",
-      "Data visualization",
-      "Biometric data",
-      "Map",
-      "Deceptive pattern",
-      "Data perception",
-      "Real-time data",
-      "Mechanical computing",
-      "Physical computing",
       "Sensor technology",
-      "Identities",
-      "Video content",
-      "Physical prototype",
-      "Mockup",
-      "Editorial design",
-      "Technical drawing",
-      "Speculative projects",
-      "Social media content",
-      "Visual identity",
-      "Device render",
-      "Print media",
-      "Brand communication",
-      "Interface design",
-      "Usability testing",
-      "User interface design",
+      "Normalization techniques",
+      "Poster design",
       "Design research",
-      "Poster design"
+      "Brand communication",
+      "Print media",
+      "Device render",
+      "Social media content",
+      "Technical drawing",
+      "Editorial design",
+      "Video content",
+      "Identities",
+      "Physical computing",
+      "Mechanical computing",
+      "Real-time data",
+      "Data perception",
+      "Deceptive pattern",
+      "Map",
+      "Biometric data",
+      "Data visualization",
+      "Power dynamics",
+      "Relativity",
+      "Cellular senescence",
+      "Senolytics",
+      "Statistic bias",
+      "Cognitive bias",
+      "Big data",
+      "Algorithmic bias",
+      "Body-politics",
+      "Alternative values",
+      "Subjective reality",
+      "Normalization bias",
+      "Typography",
+      "Socio-political",
+      "Measuring the unmeasurable",
+      "Self-trackin"
     ],
     "type": [
-      "Source",
-      "Decision",
-      "Finding",
-      "Artefact",
       "Feedback",
-      "Concept",
-      "Brief",
+      "Artefact",
+      "Decision",
+      "Source",
       "Observation",
+      "Sketch",
       "Collection",
-      "Sketch"
+      "Brief",
+      "Concept",
+      "Finding"
     ]
   }
 }
