@@ -3598,6 +3598,28 @@
         "links": [],
         "files": []
       }
+    },
+    {
+      "id": "nz6cgtp5",
+      "x": 31604.045832422333,
+      "y": 1848.1255095761865,
+      "w": 320,
+      "h": 614,
+      "group": null,
+      "data": {
+        "date": "2026-02-03",
+        "title": "Project Advancement Status",
+        "type": "Internal review",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "Quick temporary update about the advancement of the project, will catch up later with more precise descriptions.\n\nIn the last month we:\n- finalized the 3d printed tree (printing, sanding, refinement, painting, glueing, installation)\n- finalized the Arduino and touch designer part (electrical components and code)\n-designed and built the custom \"table\" for the tree model from scratch\n- tested and perfected the interaction\n- produced the 48 animations needed for the interaction\n- carved the wood blocks\n- filmed the longer video (ideas, script, actors, equipment, locations, shots, post production)\n- programmed the whole site and the \"unit\" personal page\n- produced the box for the \"unit\" as a phisical artefact (box, content of the box, wood block with tag, map and system overview/instructions)\n- generated all the images needed for the project\n- produced the requested 32 pages document about the project",
+        "links": [],
+        "files": []
+      }
     }
   ],
   "edges": [
@@ -4554,31 +4576,31 @@
   ],
   "vocab": {
     "areas": [
-      "Teaser update",
       "Communication",
-      "Review",
-      "Research",
-      "Design research",
-      "Media studies",
-      "Socio-political",
-      "Critical theory",
+      "Ideas",
       "Critical design",
-      "Ideas"
+      "Critical theory",
+      "Socio-political",
+      "Media studies",
+      "Design research",
+      "Research",
+      "Review",
+      "Teaser update"
     ],
     "tags": [
-      "Speculation",
-      "Research",
+      "Ideas",
       "Scenarios",
-      "Ideas"
+      "Research",
+      "Speculation"
     ],
     "type": [
-      "Feedback",
-      "Decision",
-      "Artefact",
-      "Brief",
-      "Ideas",
+      "Internal review",
       "Sketch",
-      "Internal review"
+      "Ideas",
+      "Brief",
+      "Artefact",
+      "Decision",
+      "Feedback"
     ]
   }
 }
