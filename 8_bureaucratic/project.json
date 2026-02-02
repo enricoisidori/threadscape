@@ -4848,25 +4848,25 @@
     },
     {
       "id": "nf9nyekj",
-      "x": 16996.36067756172,
-      "y": 1362.8521505145245,
+      "x": 16180.93144651928,
+      "y": 871.6502850760003,
       "w": 320,
-      "h": 400,
+      "h": 451,
       "group": null,
       "data": {
         "date": "2025-12-03",
-        "title": "naming della macchina",
+        "title": "naming for the machine",
         "type": "Concept",
-        "action": null,
+        "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
-          "Science",
-          "Conflict"
+          "Conflict",
+          "Communication"
         ],
         "tags": [],
-        "desc": "EyeDeal unione di vari concetti racchiusi nell'esperienza\nEYE perchè ci si guarda negli occhi, DEAL sia perchè ci si stringe la mano come quando si fa un patto e ache perchè la macchina stessa e il contratto che produce è un accordo.\n\neye deal tutto insieme quindi fa capire che attraverso l'esperienza di guardarsi si crea un patto, un accordo indelebile ",
+        "desc": "EyeDeal brings together multiple concepts within a single experience.\nEye refers to the act of sustained eye contact between participants. Deal recalls both the handshake traditionally used to seal an agreement and the machine itself, which functions as a contractual device by producing a formal contract.\n\nCombined into a single term, EyeDeal conveys the idea that, through the experience of looking at one another, an irreversible pact is created—an agreement that is generated, enforced, and made permanent by the system.",
         "links": [],
         "files": []
       }
@@ -5212,22 +5212,23 @@
       "x": 15789.425148071326,
       "y": 1346.5221008152369,
       "w": 320,
-      "h": 504,
+      "h": 544,
       "group": null,
       "data": {
         "date": "2025-12-17",
         "title": "Indecision between a tubular form and a rectangular form.",
-        "type": "Concept",
+        "type": "Observation",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
-          "Science",
-          "Conflict"
+          "Conflict",
+          "Product design",
+          "Communication"
         ],
         "tags": [],
-        "desc": "tubo più immerisvo ma molto più scomodo, isola la testa ma meccanico il movimento per vedere la plancia. rettangolo molto più comodo ma meno isolante ",
+        "desc": "The tubular shape is more immersive but significantly less comfortable: it isolates the head, yet requires a mechanical movement to view the control panel.\nThe rectangular shape is much more comfortable, but offers a lower degree of isolation.",
         "links": [],
         "files": [
           {
@@ -5246,22 +5247,23 @@
       "x": 16178.436588315408,
       "y": 1344.739602403773,
       "w": 320,
-      "h": 586,
+      "h": 609,
       "group": null,
       "data": {
         "date": "2025-12-17",
-        "title": "decisione sulla forma ",
-        "type": "Concept",
+        "title": "decision on structure",
+        "type": "Observation",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Communication"
         ],
         "tags": [],
-        "desc": "decisione di procedere cpn una struttura rettangolare che comunque isola grazie ai pannelli esterni ma che comunque dia agio di movimento e sia intuitiva ",
+        "desc": "The decision was made to proceed with a rectangular structure, which still provides isolation through external panels, while allowing freedom of movement and maintaining an intuitive user experience.",
         "links": [],
         "files": [
           {
@@ -5277,14 +5279,14 @@
     },
     {
       "id": "noydlprf",
-      "x": 16602.72766444441,
+      "x": 16559.88252763076,
       "y": 1355.0053420244242,
       "w": 320,
-      "h": 437,
+      "h": 441,
       "group": null,
       "data": {
         "date": "2025-12-17",
-        "title": "forma della plancia ",
+        "title": "Control panel shape",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -5292,10 +5294,12 @@
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Communication",
+          "Product design"
         ],
         "tags": [],
-        "desc": "foto 1 render",
+        "desc": "",
         "links": [],
         "files": [
           {
@@ -5311,14 +5315,14 @@
     },
     {
       "id": "njbz906l",
-      "x": 16600.17600327233,
-      "y": 1863.6162072338493,
+      "x": 16583.245898904883,
+      "y": 1827.21416722052,
       "w": 320,
-      "h": 350,
+      "h": 463,
       "group": null,
       "data": {
         "date": "2025-12-17",
-        "title": "inserimento del gesto di stringersi la mano",
+        "title": "Introduction of the hand-holding gesture",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -5326,49 +5330,26 @@
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Product design",
+          "Communication"
         ],
         "tags": [],
-        "desc": "per dare ancora più importanza alla fase dello sguardo abbiamo voluto aggiugere un altro gesto che si fa per dare via al tempo di sguardo, strimngersi la mano destra durante il minuto. Da senso di collegamernto ma anche di obbligo a rimanere li. Il tocco aggiunge emozione positiva e negativa ",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n6qaz4vx",
-      "x": 16986.705145029824,
-      "y": 1888.8263964519092,
-      "w": 320,
-      "h": 270,
-      "group": null,
-      "data": {
-        "date": "2025-12-17",
-        "title": "",
-        "type": "Concept",
-        "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [
-          "Insurance",
-          "Public administration",
-          "Science",
-          "Conflict"
-        ],
-        "tags": [],
-        "desc": "modifica della posizione dei vari elementi della plancia e aggiunta di un supporto per stringersi la mano",
+        "desc": "To further emphasize the phase of sustained eye contact, we introduced an additional gesture that activates the gaze timer: the participants must hold each other’s right hand for the duration of one minute.\nThis gesture conveys a sense of connection, while simultaneously imposing an obligation to remain in place. Touch introduces both positive and negative emotional responses, reinforcing the emotional tension of the experience",
         "links": [],
         "files": []
       }
     },
     {
       "id": "ns7zf6ff",
-      "x": 16564.70076497084,
-      "y": 2403.1320684541597,
+      "x": 16552.5077541817,
+      "y": 2340.134846043617,
       "w": 320,
-      "h": 384,
+      "h": 457,
       "group": null,
       "data": {
         "date": "2025-12-17",
-        "title": "possibilità di aggiungere musica",
+        "title": "Possibility of adding music",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -5376,24 +5357,25 @@
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Sound design"
         ],
         "tags": [],
-        "desc": "dato che le persone si toccano con ulteriori sensori si può recepire la capacità elettrica delle due persone aggiungendo due placche metalliche che bisogna toccare mentre ci si tiene la mano. questa aggiunta ci da la possibilità di aggiungere una musica di sottofondo che renda ancorsa pià immersiva l'eperienxa e che possa anche cambiare valori e suoni in base a come cambiano i valori della capacitìà",
+        "desc": "By introducing additional sensors, it is possible to measure the electrical capacitance of the two participants as they hold hands, using two metal plates that must be touched simultaneously. This addition allows the integration of background music, making the experience even more immersive. The music can also dynamically change in response to variations in the measured capacitance values, creating a direct connection between the participants’ interaction and the auditory environment.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nuc3mlcc",
-      "x": 16170.705089300816,
-      "y": 2128.3891247731713,
+      "x": 16199.1554478088,
+      "y": 2085.7135870111906,
       "w": 320,
-      "h": 686,
+      "h": 709,
       "group": null,
       "data": {
         "date": "2025-12-17",
-        "title": "script dei comandi audio ",
+        "title": "Audio instructions",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -5401,7 +5383,8 @@
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Sound design"
         ],
         "tags": [],
         "desc": "1. Benvenuti al servizio eyedeal di alua\n2. Eyedeal è progettata per stipulare il vostro contratto assicurativo sulla base della vostra affinità interpersonale\n3. Per prima cosa ognuno selezioni, utilizzando i bottoni, i tipi di relazione che vi uniscono\n4. Il tempo per la selezione sta per finire\n4.1. suono DADANNN\n5. Adesso definite l’intensità del vostro rapporto tramite lo slider sulla vostra destra.\n6. il tempo per la selezione sta per finire\n6.1 suono dadannn\n7. Sta per iniziare la fase di valutazione biometrica che durerà 60 secondi \n8. Appoggiate la mano  sul sensore alla vostra sinistra.\n9. Ora guardatevi negli occhi in silenzio.\n10. Per avviare il minuto di analisi, stringetevi la mano destra appoggiando il polso sul supporto al centro.\n11. Mantenete lo sguardo\n12. Manca poco alla fine dell’analisi\n12.1 suono DADANNN\n13. La rilevazione biometrica è terminata, potete togliere le mani dai sensori.\n14. Il vostro contratto è in stampa, ritiratelo all’esterno della struttura.",
@@ -5411,10 +5394,10 @@
     },
     {
       "id": "n57q8b7u",
-      "x": 17437.540916735692,
-      "y": 1322.8537215346637,
+      "x": 17430.439088594827,
+      "y": 1297.9973230416344,
       "w": 320,
-      "h": 1440,
+      "h": 1423,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -5430,7 +5413,7 @@
           "Product design"
         ],
         "tags": [],
-        "desc": "con profili di alluminio angolari e piatti da 4 cm è stata costruita la struttura che poi conterrà la macchina e che poi verrà completata da pareti di plexiglass\n\ndimensioni: \naltezza: 200 cm\nlarghezza: 70 cm\nprofondità: 150 cm dove ogni 50 cm c'è una linea di divisione \naltezza dell'appoggio per la macchina: 80 cm",
+        "desc": "The structure was built using 4 cm angular and flat aluminum profiles. It is designed to house the machine and will be completed with plexiglass panels forming the external enclosure.\n\nDimensions:\n– Height: 200 cm\n– Width: 70 cm\n– Depth: 150 cm, with a division line every 50 cm\n– Height of the machine support surface: 80 cm",
         "links": [],
         "files": [
           {
@@ -5462,14 +5445,14 @@
     },
     {
       "id": "nu1qkjm1",
-      "x": 17816.52334976993,
-      "y": 1547.5753603354374,
+      "x": 17793.421521629065,
+      "y": 1286.7189618424081,
       "w": 320,
-      "h": 1218,
+      "h": 1235,
       "group": null,
       "data": {
         "date": "2025-12-17",
-        "title": "costruzione della plancia ",
+        "title": "Construction of the control panel",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -5481,7 +5464,7 @@
           "Product design"
         ],
         "tags": [],
-        "desc": "prototipo in legno con costruzione dell'ingombro della plancia con presenza di un cassetto dove si porranno tutta la componentistica elettronica necessaria \n\naltezza: 20 cm \nlarghezza: 70 cm\nprofondità: 50 cm \naltezza divisorio: 20 cm\n",
+        "desc": "A wooden prototype was built to define the overall volume of the control panel. The structure includes a drawer designed to house all the necessary electronic components.\n\nDimensions:\n– Height: 20 cm\n– Width: 70 cm\n– Depth: 50 cm\n– Divider height: 25 cm",
         "links": [],
         "files": [
           {
@@ -5536,14 +5519,14 @@
     },
     {
       "id": "nnr23qj8",
-      "x": 18194.34674930083,
-      "y": 1283.5753603354374,
+      "x": 18167.244921159963,
+      "y": 1286.7189618424081,
       "w": 320,
       "h": 772,
       "group": null,
       "data": {
         "date": "2025-12-17",
-        "title": "primo montaggio delle due parti insieme",
+        "title": "Initial assembly of the two components together",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -5896,14 +5879,14 @@
     },
     {
       "id": "n9pmymc9",
-      "x": 17813.290120933045,
-      "y": 1145.3393527595058,
+      "x": 17805.290120933045,
+      "y": 2593.339352759506,
       "w": 320,
-      "h": 350,
+      "h": 356,
       "group": null,
       "data": {
         "date": "2025-12-17",
-        "title": "montaggio arduino con tutte le componenti",
+        "title": "Arduino assembly with all components",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -5911,10 +5894,11 @@
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Product design"
         ],
         "tags": [],
-        "desc": "- funzionamento audio e timing\n- funzionamento bottoni\n- funzionamento slider \n- funzionamento sensori SCL\n- funzionamento sensori capacità\n- funzionamento stampante",
+        "desc": "– Audio and timing functionality\n– Button functionality\n– Slider functionality\n– SCL sensor functionality\n– Printer functionality",
         "links": [],
         "files": []
       }
@@ -5928,7 +5912,7 @@
       "group": null,
       "data": {
         "date": "2025-12-17",
-        "title": "Poster definitivi ",
+        "title": "Final posters",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
@@ -5979,14 +5963,14 @@
     },
     {
       "id": "ng5d2oc2",
-      "x": 19311.267433402136,
-      "y": -16.8319282083053,
+      "x": 19268.994170070542,
+      "y": -13.2235947640429,
       "w": 320,
       "h": 502,
       "group": null,
       "data": {
         "date": "2025-12-17",
-        "title": "invito",
+        "title": "Invite",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
@@ -5997,7 +5981,7 @@
           "Brand identity"
         ],
         "tags": [],
-        "desc": "creazione di u invito con il quale una delle due persone della relazione pyuò invitare l'altra ad assicurarsi con ALUA",
+        "desc": "Design of an invitation through which one participant can invite the other to connect and interact with ALUA\n",
         "links": [],
         "files": [
           {
@@ -6020,7 +6004,7 @@
       "group": null,
       "data": {
         "date": "2026-01-20",
-        "title": "Video Lungo",
+        "title": "Longer Video",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
@@ -6031,21 +6015,21 @@
           "Video"
         ],
         "tags": [],
-        "desc": "Il concept del video è vincolato alla sua durata, 60 secondi, che corrisponde approssimativamente alla durata dell’esperienza Eyedeal. La struttura visiva adotta una tripartizione orizzontale dello schermo per scandire le fasi del processo.  L’incipit immerge lo spettatore in un ambiente sonoro d’ufficio, dove il click asettico di un mouse ritma lo scorrere di tracce visive che vengono lasciate dalle persone nella loro quotidianità, fino a una caotica frammentazione visiva. La narrazione si sposta quindi sull’esperienza EyeDeal, in cui avviene la stipula del contratto: mentre le fasce esterne isolano alcuni dettagli anatomici dei due contraenti, quella centrale focalizza la gestualità sulla plancia, e una voce automatizzata li accompagna nei vari passaggi. Il video si conclude in un unico shot finale a pieno formato: i due soggetti, statici, vengono separati visivamente e fisicamente dall’emissione del contratto, che si frappone tra loro come nuova, inappellabile distanza di sicurezza.",
+        "desc": "The concept of the video is constrained by its duration, which roughly corresponds to the length of the EyeDeal experience. The visual structure employs a horizontal tripartition of the screen to delineate the phases of the process.\n\nThe opening immerses the viewer in an office soundscape, where the sterile click of a mouse punctuates visual traces left by people in their daily routines, culminating in chaotic visual fragmentation. The narrative then shifts to the EyeDeal experience, where the contract is formalized: the outer bands isolate certain anatomical details of the two participants, while the central band focuses on the gestures performed on the control panel. An automated voice guides them through each step.\n\nThe video concludes with a single full-frame shot: the two participants, now static, are visually and physically separated by the emission of the contract, which interposes itself between them as a new, irrevocable safety distance.",
         "links": [],
         "files": []
       }
     },
     {
       "id": "nn8iag5h",
-      "x": 18579.64910749115,
-      "y": 1283.2780046057692,
+      "x": 18572.547279350285,
+      "y": 1258.42160611274,
       "w": 320,
-      "h": 1367,
+      "h": 1442,
       "group": null,
       "data": {
         "date": "2026-01-20",
-        "title": "ultima fase di finiture della macchina",
+        "title": "Final finishing phase of the machine",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Interaction",
@@ -6057,7 +6041,7 @@
           "Product design"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "– Color selection\n– Metal assembly\n– Final aesthetic decisions",
         "links": [],
         "files": [
           {
@@ -6089,14 +6073,14 @@
     },
     {
       "id": "nmfacjlu",
-      "x": 16992.361170405264,
-      "y": 2520.1466378423834,
+      "x": 16909.04226334616,
+      "y": 2408.377372275291,
       "w": 320,
-      "h": 241,
+      "h": 390,
       "group": null,
       "data": {
         "date": "2026-01-20",
-        "title": "decisione di togliere la capacità ma mantenere la stretta di mano",
+        "title": "Decision to remove the capacitance measurement while retaining the handshake",
         "type": "Concept",
         "action": "Making",
         "mainArea": "Interaction",
@@ -6104,10 +6088,11 @@
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Sound design"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Implementing responsive audio based on participants’ capacitance proved too challenging. The decision was made to maintain the handshake gesture itself, preserving its symbolic and experiential value, while omitting the capacitance-based interaction.",
         "links": [],
         "files": []
       }
@@ -6121,7 +6106,7 @@
       "group": null,
       "data": {
         "date": "2026-01-26",
-        "title": "piccole idee di campagne pubblicitarie",
+        "title": "Small advertising campaign ideas",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
@@ -6172,14 +6157,14 @@
     },
     {
       "id": "n1zpail0",
-      "x": 18979.64910749115,
-      "y": 1283.2780046057692,
+      "x": 18940.547279350285,
+      "y": 1258.42160611274,
       "w": 320,
       "h": 1259,
       "group": null,
       "data": {
         "date": "2026-01-26",
-        "title": "aspetto finale",
+        "title": "Final appearance",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Interaction",
@@ -6191,7 +6176,7 @@
           "Product design"
         ],
         "tags": [],
-        "desc": "materiali definitivi usati:\nPLANCIA\n- lastre di metallo zincato tagliato laser \n- legno verniciato di viola\n- vetro sintetico con stampa uv\n- bottoni e slider\n\nSTRUTTURA \n- lastre di policarbonati alveolare da 6mm\n- standers in alluminio liscio opaco\n\n",
+        "desc": "Materials used:\nControl panel\n– Laser-cut galvanized metal sheets\n– Painted wood in violet\n– Synthetic glass with UV printing\n– Buttons and sliders\n\nStructure\n– 6 mm cellular polycarbonate panels\n– Smooth matte aluminum standers\n",
         "links": [],
         "files": [
           {
@@ -6296,7 +6281,7 @@
       "group": null,
       "data": {
         "date": "2026-02-01",
-        "title": "creazione dietro le quinte ",
+        "title": "Process of creation and behind-the-scenes insights",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
@@ -6307,7 +6292,7 @@
           "Video"
         ],
         "tags": [],
-        "desc": "set: anticamera davanti all'aula magna dell'edificio BL28\nattori: Marianna Massari, Francesco Zanchetta, Siria Brivio , Lorenzo Marrone",
+        "desc": "Set: Antechamber in front of the main hall of the BL28 building\nActors: Marianna Massari, Francesco Zanchetta, Siria Brivio, Lorenzo Marrone",
         "links": [],
         "files": [
           {
@@ -6347,14 +6332,14 @@
     },
     {
       "id": "n7guyq6i",
-      "x": 20235.04988615712,
-      "y": 97.61511547296368,
+      "x": 20243.04988615712,
+      "y": 101.61511547296368,
       "w": 320,
-      "h": 172,
+      "h": 500,
       "group": null,
       "data": {
         "date": "2026-02-01",
-        "title": "",
+        "title": "Scene 1",
         "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
@@ -6365,27 +6350,39 @@
           "Video"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Demonstrations of the traces left by individuals in our relationships\nImages convey the context of uncomfortable elements present in relationships, those aspects you might want to secure or safeguard.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "92.png",
+            "size": 6185927,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/92.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n9jniqnv",
-      "x": 18201.505584447914,
-      "y": 2108.7987088884515,
+      "x": 18170.40375630705,
+      "y": 2575.9423103954223,
       "w": 320,
-      "h": 2188,
+      "h": 2233,
       "group": null,
       "data": {
         "date": "2026-02-01",
-        "title": "struttura codice ",
-        "type": "Source",
-        "action": "Exploring",
-        "mainArea": null,
+        "title": "code structure",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
         "areas": [
           "Administration",
-          "Insurance"
+          "Insurance",
+          "Communication",
+          "Interaction",
+          "Electronic system"
         ],
         "tags": [],
         "desc": "1. Arduino Firmware (main.ino)\nRole: Embedded Sensor Controller & Hardware Abstraction \nDescription: Manages hard-realtime I/O operations. It continuously polls biometric sensors (SCL), capacitive sliders, and push-buttons, streaming raw telemetry via Serial/UART to the host. It also acts as the actuator driver, controlling LED states (ON/OFF) based on received serial commands, effectively decoupling hardware timing from the high-level application logic.\n\n2. Serial Data Bridge (monitor_arduino.py)\nRole: Hardware-Software Interface & Data Ingestion \nDescription: Acts as the middleware between the embedded system and the OS. It establishes the serial connection, parses incoming byte streams into structured JSON objects, and handles error recovery. It performs dual dispatch of telemetry: persistence (appending to arduino_data.jsonl) and broadcasting (IPC/Socket) for real-time monitoring.\n\n3. Session Orchestrator (main.py)\nRole: Finite State Machine & Application Controller \nDescription: The central control unit that enforces the temporal structure of the user experience. It manages the application lifecycle, including:\n* Subprocess Management: Spawning and terminating the monitor_arduino and process_data processes.\n* Audio Sequencing: Synchronizing playback (afplay) with specific interaction phases.\n* State Transitions: Controlling time-based triggers (e.g., transition from Phase 1 to Phase 2).\n\n4. Data Persistence Layer (arduino_data.jsonl)\nRole: Time-Series Database (Flat File) \nDescription: A line-delimited JSON log serving as the system's persistent memory. It captures the complete high-frequency sensor stream (sampling rate). This design decouples data collection (write-heavy) from data analysis (read-heavy), ensuring that the complex post-processing does not block real-time acquisition.\n\n5. Data Analysis Engine (process_data.py)\nRole: Statistical Processor & Logic Evaluator \nDescription: A batch processing module triggered at the end of the session. It ingests the full time-series data to compute derived metrics:\n* Signal Processing: Filters and segments SCL data to detect arousal events (phasic changes).\n* Compatibility Algorithms: Calculates the \"compatibility score\" (0-100%) by weighting button matches, slider synchronization, and physiological alignment.\n* Classification: Determines the \"Risk Band\" and identifies any \"Culprit\" (asymmetric arousal state).\n\n6. Visualization & Asset Generation (contract_blocks/)\nRole: Data Visualization Subsystem \nDescription: A collection of specialized modules responsible for rendering data into graphical formats for the final document:\n* Lissajous Generator: Plots the phase space relationship between the two users' SCL signals.\n* Conductance Grapher: Renders the time-domain evolution of the physiological signals.\n* Visualizer: Generates static representations of user inputs (selected buttons and slider positions).\n\n7. Monitoring Server (server.py)\nRole: Observability & Telemetry Dashboard \nDescription: A FastAPI-based web server providing a real-time window into the system's internal state. It exposes WebSocket endpoints to stream sensor data and application status to a frontend interface, allowing operators to monitor system health and session progress without interfering with the core logic.\n\n8. Document Composer & Print Spooler (contract_generator.py)\nRole: Report Generation & Physical Output \nDescription: The final output pipeline. It aggregates the computed metrics and generated assets to dynamically compose a PDF report (\"The Contract\"). It calculates the required physical media length and interfaces with the thermal printer driver to produce the hard copy, handling print queue logic and error management.",
@@ -6398,6 +6395,132 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/91.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n24xcwth",
+      "x": 20592.792692389157,
+      "y": 106.38353386853382,
+      "w": 320,
+      "h": 1053,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "Scene 2",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Communication",
+          "Brand identity",
+          "Video"
+        ],
+        "tags": [],
+        "desc": "Instructions for the interaction between the two participants and the control panel during the EyeDeal assurance phase\n",
+        "links": [],
+        "files": [
+          {
+            "name": "93.png",
+            "size": 3818312,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/93.jpg"
+          },
+          {
+            "name": "94.png",
+            "size": 4210661,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/94.jpg"
+          },
+          {
+            "name": "95.png",
+            "size": 3838173,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/95.jpg"
+          },
+          {
+            "name": "96.png",
+            "size": 2155383,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/96.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na4gbrro",
+      "x": 20973.64742936456,
+      "y": 104.7333155652583,
+      "w": 320,
+      "h": 500,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "Scene 3",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Communication",
+          "Brand identity",
+          "Video"
+        ],
+        "tags": [],
+        "desc": "Emotional moment showing the feelings participants experience while looking into each other’s eyes, and how these emotions are then overshadowed and overwritten by bureaucratic formulas that will categorize and contain them",
+        "links": [],
+        "files": [
+          {
+            "name": "97.png",
+            "size": 4857963,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/97.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncwizfe9",
+      "x": 21335.923886487508,
+      "y": 107.72766722509752,
+      "w": 320,
+      "h": 433,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "Scene 4",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Insurance",
+          "Communication",
+          "Brand identity",
+          "Video"
+        ],
+        "tags": [],
+        "desc": "Receiving the insurance contract\n",
+        "links": [],
+        "files": [
+          {
+            "name": "98.png",
+            "size": 4445202,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/98.jpg"
           }
         ]
       }
@@ -8221,16 +8344,6 @@
     },
     {
       "s": "njbz906l",
-      "t": "n6qaz4vx",
-      "dashed": false
-    },
-    {
-      "s": "noydlprf",
-      "t": "n6qaz4vx",
-      "dashed": false
-    },
-    {
-      "s": "njbz906l",
       "t": "ns7zf6ff",
       "dashed": false
     },
@@ -8252,11 +8365,6 @@
     {
       "s": "njbz906l",
       "t": "n57q8b7u",
-      "dashed": false
-    },
-    {
-      "s": "n6qaz4vx",
-      "t": "nu1qkjm1",
       "dashed": false
     },
     {
@@ -8401,11 +8509,6 @@
     },
     {
       "s": "nhhsff6m",
-      "t": "n9pmymc9",
-      "dashed": false
-    },
-    {
-      "s": "n6qaz4vx",
       "t": "n9pmymc9",
       "dashed": false
     },
@@ -8688,54 +8791,85 @@
       "s": "n9pmymc9",
       "t": "n9jniqnv",
       "dashed": false
+    },
+    {
+      "s": "noydlprf",
+      "t": "n57q8b7u",
+      "dashed": false
+    },
+    {
+      "s": "njbz906l",
+      "t": "nmfacjlu",
+      "dashed": false
+    },
+    {
+      "s": "nmfacjlu",
+      "t": "n57q8b7u",
+      "dashed": false
+    },
+    {
+      "s": "nkkemi6v",
+      "t": "n24xcwth",
+      "dashed": false
+    },
+    {
+      "s": "nkkemi6v",
+      "t": "na4gbrro",
+      "dashed": false
+    },
+    {
+      "s": "nkkemi6v",
+      "t": "ncwizfe9",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Spatial design",
-      "Brand identity",
-      "Conflict",
-      "Science",
-      "Interaction",
-      "Sociology",
-      "Video",
-      "Experience",
+      "Sound design",
       "Electronic system",
-      "Public administration",
-      "Insurance",
-      "Identity",
-      "Socio-political",
-      "Law",
+      "Interaction",
       "Communication",
-      "Hystory",
-      "Media studies",
-      "Cultural studies",
-      "Critical design",
-      "Design research",
-      "Philosophy",
-      "Envirionment",
-      "Power",
-      "Administration",
-      "Literature",
+      "Product design",
       "Cinema",
-      "Product design"
+      "Literature",
+      "Administration",
+      "Power",
+      "Envirionment",
+      "Philosophy",
+      "Design research",
+      "Critical design",
+      "Cultural studies",
+      "Media studies",
+      "Hystory",
+      "Law",
+      "Socio-political",
+      "Identity",
+      "Insurance",
+      "Public administration",
+      "Experience",
+      "Video",
+      "Sociology",
+      "Science",
+      "Conflict",
+      "Brand identity",
+      "Spatial design"
     ],
     "tags": [
-      "Power abuse",
-      "Corruption",
-      "Conflict",
-      "Opposition",
-      "Social tension",
+      "Feelings",
       "Emotion",
-      "Feelings"
+      "Social tension",
+      "Opposition",
+      "Conflict",
+      "Corruption",
+      "Power abuse"
     ],
     "type": [
       "Collection",
       "Concept",
       "Source",
       "Observation",
-      "Feedback",
-      "Brief"
+      "Brief",
+      "Feedback"
     ]
   }
 }
