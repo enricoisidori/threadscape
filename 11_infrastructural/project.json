@@ -5060,7 +5060,7 @@
           "Branding"
         ],
         "tags": [],
-        "desc": "Sustainability\nTraceability\nSolidity",
+        "desc": "Solidity\nSustainability\nNarrativity\n",
         "links": [],
         "files": []
       }
@@ -6121,8 +6121,8 @@
     },
     {
       "id": "n3ayicy7",
-      "x": 19636.237523710846,
-      "y": 4577.647871250615,
+      "x": 19568.237523710846,
+      "y": 5269.647871250615,
       "w": 320,
       "h": 429,
       "group": null,
@@ -6166,8 +6166,8 @@
     },
     {
       "id": "nudi307u",
-      "x": 20030.64625088073,
-      "y": 4235.340070012883,
+      "x": 19962.64625088073,
+      "y": 4927.340070012883,
       "w": 320,
       "h": 885,
       "group": null,
@@ -6222,8 +6222,8 @@
     },
     {
       "id": "nud8o534",
-      "x": 17082.74027061993,
-      "y": 4797.318725665233,
+      "x": 16630.995881532734,
+      "y": 4801.212162383317,
       "w": 320,
       "h": 458,
       "group": null,
@@ -6247,8 +6247,8 @@
     },
     {
       "id": "njrgsqf6",
-      "x": 17578.91096770195,
-      "y": 4863.5470228916065,
+      "x": 17053.297010760572,
+      "y": 4865.493741250649,
       "w": 320,
       "h": 323,
       "group": null,
@@ -6309,8 +6309,8 @@
     },
     {
       "id": "nlc0adlp",
-      "x": 20016.597066013863,
-      "y": 3763.2347775571543,
+      "x": 19948.597066013863,
+      "y": 4455.234777557154,
       "w": 320,
       "h": 334,
       "group": null,
@@ -6332,8 +6332,8 @@
     },
     {
       "id": "ny7cd7pu",
-      "x": 20030.920362741585,
-      "y": 5148.631518774945,
+      "x": 19962.920362741585,
+      "y": 5840.631518774945,
       "w": 320,
       "h": 489,
       "group": null,
@@ -6364,8 +6364,8 @@
     },
     {
       "id": "noepqkkz",
-      "x": 20460.274831656505,
-      "y": 4022.781905898966,
+      "x": 20325.99029948864,
+      "y": 4654.802551444342,
       "w": 320,
       "h": 655,
       "group": null,
@@ -6396,8 +6396,8 @@
     },
     {
       "id": "nooityud",
-      "x": 20466.360065085548,
-      "y": 4688.808660078069,
+      "x": 20326.360065085548,
+      "y": 5572.808660078069,
       "w": 320,
       "h": 604,
       "group": null,
@@ -6428,14 +6428,14 @@
     },
     {
       "id": "ni3fx4tc",
-      "x": 19997.26681145398,
-      "y": 2516.754779439364,
+      "x": 19699.640941009766,
+      "y": 1384.754779439364,
       "w": 320,
       "h": 702,
       "group": null,
       "data": {
         "date": "2025-11-26",
-        "title": "OUTPUT",
+        "title": "COMMUNICATIVE MACHINE",
         "type": "Brief",
         "action": "Making",
         "mainArea": "Interaction",
@@ -6468,22 +6468,24 @@
     },
     {
       "id": "nk6ui6fz",
-      "x": 20006.071576808215,
-      "y": 1128.6377219805217,
+      "x": 19708.338339537742,
+      "y": -3.3622780194782536,
       "w": 320,
-      "h": 1322,
+      "h": 1368,
       "group": null,
       "data": {
         "date": "2025-11-26",
-        "title": "SENSORS",
-        "type": "Brief",
+        "title": "COMMUNICATIVE MACHINE",
+        "type": "Design",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "User experience",
           "Arduino"
         ],
-        "tags": [],
+        "tags": [
+          "Sensor"
+        ],
         "desc": "The interaction is triggered by lifting the cube. An IR sensor detects its absence from the base and activates the infographic on the monitor.\n\nThe cube acts as a controller for navigating the three information panels.\n\nNavigation occurs:\n- Through intentional pressure on the cube, measured by internal Force-sensing Resistor (FSR) sensors\n- By physically rotating the sample, via a gyroscope-accelerometer",
         "links": [],
         "files": [
@@ -6516,8 +6518,8 @@
     },
     {
       "id": "ns1swtbd",
-      "x": 20790.840871866316,
-      "y": 2659.0477823321803,
+      "x": 19682.840871866316,
+      "y": 2875.0477823321803,
       "w": 320,
       "h": 395,
       "group": null,
@@ -6539,8 +6541,8 @@
     },
     {
       "id": "njklha5d",
-      "x": 21176.1785352507,
-      "y": 1334.4497060419503,
+      "x": 21380.1785352507,
+      "y": 3432.652288392578,
       "w": 320,
       "h": 676,
       "group": null,
@@ -6572,8 +6574,8 @@
     },
     {
       "id": "nheo5v6z",
-      "x": 21175.30076999147,
-      "y": 3735.359422010491,
+      "x": 19687.30076999147,
+      "y": 3307.359422010491,
       "w": 320,
       "h": 860,
       "group": null,
@@ -6605,8 +6607,8 @@
     },
     {
       "id": "n4x6orf2",
-      "x": 21600.54104110693,
-      "y": 1692.4695881682192,
+      "x": 20049.18385701758,
+      "y": 3464.1363960372382,
       "w": 320,
       "h": 714,
       "group": null,
@@ -6638,8 +6640,8 @@
     },
     {
       "id": "ncpthlyd",
-      "x": 21623.22437452872,
-      "y": 3235.88239867303,
+      "x": 20543.22437452872,
+      "y": 3371.88239867303,
       "w": 320,
       "h": 784,
       "group": null,
@@ -6671,8 +6673,8 @@
     },
     {
       "id": "nwn7p5mu",
-      "x": 22023.789673131,
-      "y": 1971.9384276812807,
+      "x": 20110.455210178847,
+      "y": 2736.6048119432426,
       "w": 320,
       "h": 641,
       "group": null,
@@ -6704,8 +6706,8 @@
     },
     {
       "id": "nxbl8y62",
-      "x": 22045.731522725673,
-      "y": 2703.602717791561,
+      "x": 20984.585715890214,
+      "y": 2813.171274107065,
       "w": 320,
       "h": 750,
       "group": null,
@@ -6737,154 +6739,608 @@
     },
     {
       "id": "n1q3xld9",
-      "x": 22530.149006169384,
-      "y": 2982.035652803695,
+      "x": 21363.65694718153,
+      "y": 2826.1958422383477,
       "w": 320,
-      "h": 171,
+      "h": 360,
       "group": null,
       "data": {
         "date": "2025-11-26",
-        "title": "ALBUPHAS",
+        "title": "GRAND ETHIOPIAN RENAISSANCE DAM (GERD)",
         "type": "Brief",
-        "action": "Making",
-        "mainArea": "Communication",
+        "action": null,
+        "mainArea": "Speculation",
         "areas": [
-          "Materials"
+          "Materials",
+          "Infrastructure"
         ],
-        "tags": [],
+        "tags": [
+          "Victims",
+          "Human rights"
+        ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 00.24.28.png",
+            "size": 310996,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.24.28.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n4fhdx4i",
-      "x": 21551.03708587137,
-      "y": 1012.1958906164998,
+      "x": 21749.396081495728,
+      "y": 3456.951626636911,
       "w": 320,
-      "h": 141,
+      "h": 641,
       "group": null,
       "data": {
-        "date": "2025-11-26",
-        "title": "",
+        "date": "2025-11-28",
+        "title": "FIFA WORLD CUP QATAR 2K22",
         "type": "Brief",
         "action": "Making",
-        "mainArea": "Communication",
+        "mainArea": "Speculation",
         "areas": [
-          "Materials"
+          "Materials",
+          "Infrastructure"
         ],
-        "tags": [],
+        "tags": [
+          "Victims",
+          "Human rights"
+        ],
         "desc": "",
         "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "ncc9w28j",
-      "x": 22020.95012996991,
-      "y": 1421.9871950263541,
-      "w": 320,
-      "h": 141,
-      "group": null,
-      "data": {
-        "date": "2025-11-26",
-        "title": "",
-        "type": "Brief",
-        "action": "Making",
-        "mainArea": "Communication",
-        "areas": [
-          "Materials"
-        ],
-        "tags": [],
-        "desc": "",
-        "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 00.18.31.png",
+            "size": 543078,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.18.31.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nv95xlox",
-      "x": 22516.95012996991,
-      "y": 2209.987195026354,
+      "x": 20555.767828285727,
+      "y": 2770.12717288337,
       "w": 320,
-      "h": 141,
+      "h": 392,
       "group": null,
       "data": {
         "date": "2025-11-26",
-        "title": "",
+        "title": "CAN THO' BRIDGE",
         "type": "Brief",
-        "action": "Making",
-        "mainArea": "Communication",
+        "action": null,
+        "mainArea": "Speculation",
         "areas": [
-          "Materials"
+          "Materials",
+          "Infrastructure"
         ],
-        "tags": [],
+        "tags": [
+          "Victims",
+          "Human rights"
+        ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 00.22.53.png",
+            "size": 321567,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.22.53.jpg"
+          }
+        ]
       }
     },
     {
       "id": "ni2gxma0",
-      "x": 22172.95012996991,
-      "y": 3749.987195026354,
+      "x": 20964.508642537712,
+      "y": 3659.459801130758,
       "w": 320,
-      "h": 141,
+      "h": 438,
       "group": null,
       "data": {
         "date": "2025-11-26",
-        "title": "",
+        "title": "TREN MAYA",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials",
+          "Infrastructure"
+        ],
+        "tags": [
+          "Victims",
+          "Human rights"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 00.25.24.png",
+            "size": 365998,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.25.24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nkghqknz",
+      "x": 20941.747430647323,
+      "y": 4457.1782371587915,
+      "w": 320,
+      "h": 500,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "CATALOGUE TESTS",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Graphic design"
+        ],
+        "tags": [
+          "Publishing"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 00.30.08.png",
+            "size": 637569,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.30.08.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "neucdn26",
+      "x": 20059.686470579843,
+      "y": 0.2513720455051356,
+      "w": 320,
+      "h": 606,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "COMMUNICATIVE MACHINE",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Prototyping"
+        ],
+        "tags": [
+          "3d printing"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 00.45.08.png",
+            "size": 420849,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.45.08.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3j8j7hh",
+      "x": 20946.718263560295,
+      "y": 4979.695754992423,
+      "w": 320,
+      "h": 363,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "LOGOTYPE",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Graphic design"
+        ],
+        "tags": [
+          "Brand"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 00.56.59.png",
+            "size": 178651,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.56.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nosa49st",
+      "x": 17442.9031950598,
+      "y": 4879.720572138803,
+      "w": 320,
+      "h": 290,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "LAYERING",
         "type": "Brief",
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
-          "Materials"
+          "Concept"
         ],
-        "tags": [],
-        "desc": "",
+        "tags": [
+          "Brand"
+        ],
+        "desc": "The infrastructure's rational, external surface hides a physical\nand violent reality.",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "n62zzt5w",
-      "x": 21672.95012996991,
-      "y": 4277.987195026354,
+      "id": "n4jn1e5j",
+      "x": 21784.046833504395,
+      "y": 4789.127984753813,
       "w": 320,
-      "h": 141,
+      "h": 384,
       "group": null,
       "data": {
-        "date": "2025-11-26",
-        "title": "",
-        "type": "Brief",
+        "date": "2026-02-02",
+        "title": "BRAND GUIDELINES",
+        "type": "Design",
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
-          "Materials"
+          "Branding"
         ],
         "tags": [],
         "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 01.05.13.png",
+            "size": 44703,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_01.05.13.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxfx3ixq",
+      "x": 22326.35433551611,
+      "y": 5150.931869481516,
+      "w": 320,
+      "h": 447,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "LABEL TESTS",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding"
+        ],
+        "tags": [
+          "Key visual"
+        ],
+        "desc": "The label is the visual key of the project as it perfectly embodies the concept of layering",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 01.23.47.png",
+            "size": 214202,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_01.23.47.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nld9jlop",
+      "x": 23864.775356992523,
+      "y": 4618.546429291242,
+      "w": 320,
+      "h": 702,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "DPP (DIGITAL PRODUCT PASSPORT)",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding"
+        ],
+        "tags": [
+          "European legislation"
+        ],
+        "desc": "The DPP is a tool introduced by the EU's Ecodesign for Sustainable Products Regulation (ESPR), which aims to make production and consumption more sustainable.\nIn practice, each product can be identified (e.g., via QR code) to digitally access all relevant information throughout its life cycle.\nThe DPP also applies to construction materials.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 01.33.44.png",
+            "size": 74436,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_01.33.44.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "no0lit1u",
+      "x": 22321.769727621,
+      "y": 4686.339673956211,
+      "w": 320,
+      "h": 438,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "SQUARE SHAPE",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding"
+        ],
+        "tags": [
+          "Visual coefficient"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 01.32.31.png",
+            "size": 438663,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_01.32.31.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njv62a97",
+      "x": 23849.25983111998,
+      "y": 5391.626289464775,
+      "w": 320,
+      "h": 1045,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "SAMPLE BOOK",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Graphic design"
+        ],
+        "tags": [],
+        "desc": "Meant for architects and engeneers. It contains technical informations about each material, and sample strips of the textures.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 01.38.02.png",
+            "size": 863372,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_01.38.02.jpg"
+          },
+          {
+            "name": "DSC_8596.jpg",
+            "size": 9029117,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_8596.jpg"
+          },
+          {
+            "name": "DSC_8600.jpg",
+            "size": 9006476,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_8600.jpg"
+          },
+          {
+            "name": "DSC_8594.jpg",
+            "size": 8282793,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_8594.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbkb9tny",
+      "x": 22330.76157680646,
+      "y": 5639.286159108545,
+      "w": 320,
+      "h": 323,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "FONTS",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Graphic design"
+        ],
+        "tags": [
+          "Key visual",
+          "Brand"
+        ],
+        "desc": "The chosen fonts are Suisse Intl (for the body) and TWK Everett (for the titles and the materials' names), both San Serif, to convey solidity and clarity. \n\nThe logotype is inspired by Everett.",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "n8vt0bi6",
-      "x": 23414.274353949513,
-      "y": 2151.2489460340325,
+      "id": "nqfpyrtk",
+      "x": 22736.59412521567,
+      "y": 5863.154511656646,
       "w": 320,
-      "h": 171,
+      "h": 522,
       "group": null,
       "data": {
-        "date": "2026-02-01",
-        "title": "ciaooo",
-        "type": "Observation",
+        "date": "2026-02-02",
+        "title": "LOGOTYPE",
+        "type": "Design",
         "action": "Making",
-        "mainArea": null,
+        "mainArea": "Communication",
         "areas": [
-          "Materials"
+          "Graphic design",
+          "Branding"
+        ],
+        "tags": [
+          "Brand",
+          "Key visual"
+        ],
+        "desc": "The logotype is meant to convey elegance and solidity. It exhasperates Everett's shapes.\nThe brand's logo being a logotype emphasizes the importance of typografy in the brand identity.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 16.22.57.png",
+            "size": 35676,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": null
+          },
+          {
+            "name": "IMG_3525.jpg",
+            "size": 7083292,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3525.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbs2yws3",
+      "x": 23417.400513970028,
+      "y": 5319.328406405759,
+      "w": 320,
+      "h": 462,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "COMMUNICATIVE ARTEFACTS",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding",
+          "Graphic design"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Based on the brand guidelines, the following communicative artefacts were developed:\n- 4 catalogues\n- a sample book\n- some brochures \n- some foldables \n- business cards\n- the DPP (Digital Prduct Passport)\n- brand book\n- the physical prototype \n- the immersive screens' layout\n- ID cards\n- trailer \n- teaser\n- website\n\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "neepe0vr",
+      "x": 23848.5002601383,
+      "y": 6539.289636017193,
+      "w": 320,
+      "h": 756,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "CATALOGUES",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Graphic design"
+        ],
+        "tags": [
+          "Brand",
+          "Publishing",
+          "Design",
+          "Communication",
+          "Communicative artefacts"
+        ],
+        "desc": "A catalogue for each material of the exhibition. It recalls the concept of stratification through the use of a cover page in acetate, on which a label is applied. \nOpening a SOEMA's catalogue is a bit like unwrapping a package",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-31 alle 10.45.43.jpg",
+            "size": 7068521,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-31_alle_10.45.43.jpg"
+          },
+          {
+            "name": "DSC_8587.jpg",
+            "size": 8648434,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_8587.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nun76dlg",
+      "x": 23864.0018237744,
+      "y": 4259.95858098121,
+      "w": 320,
+      "h": 273,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "BROCHURE",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Graphic design",
+          "Materials supply",
+          "Communicative artefacts"
+        ],
+        "tags": [],
+        "desc": "A brochure describing the company: its purpose, its values, and its policies.",
         "links": [],
         "files": []
       }
@@ -8262,21 +8718,6 @@
       "dashed": false
     },
     {
-      "s": "njrgsqf6",
-      "t": "n8sh3r3y",
-      "dashed": false
-    },
-    {
-      "s": "njrgsqf6",
-      "t": "nl77jgz5",
-      "dashed": false
-    },
-    {
-      "s": "njrgsqf6",
-      "t": "nt9ax7mf",
-      "dashed": false
-    },
-    {
       "s": "n3ayicy7",
       "t": "nlc0adlp",
       "dashed": false
@@ -8372,11 +8813,6 @@
       "dashed": false
     },
     {
-      "s": "n4x6orf2",
-      "t": "ncc9w28j",
-      "dashed": false
-    },
-    {
       "s": "nwn7p5mu",
       "t": "nv95xlox",
       "dashed": false
@@ -8387,132 +8823,239 @@
       "dashed": false
     },
     {
-      "s": "nheo5v6z",
-      "t": "n62zzt5w",
-      "dashed": false
-    },
-    {
       "s": "n68e18t0",
       "t": "ni3fx4tc",
       "dashed": false
     },
     {
-      "s": "nv95xlox",
-      "t": "n8vt0bi6",
+      "s": "noepqkkz",
+      "t": "nkghqknz",
+      "dashed": false
+    },
+    {
+      "s": "nk6ui6fz",
+      "t": "neucdn26",
+      "dashed": false
+    },
+    {
+      "s": "noepqkkz",
+      "t": "n3j8j7hh",
+      "dashed": false
+    },
+    {
+      "s": "nosa49st",
+      "t": "n8sh3r3y",
+      "dashed": false
+    },
+    {
+      "s": "nosa49st",
+      "t": "nl77jgz5",
+      "dashed": false
+    },
+    {
+      "s": "nosa49st",
+      "t": "nt9ax7mf",
+      "dashed": false
+    },
+    {
+      "s": "njrgsqf6",
+      "t": "nosa49st",
+      "dashed": false
+    },
+    {
+      "s": "n4jn1e5j",
+      "t": "nxfx3ixq",
+      "dashed": false
+    },
+    {
+      "s": "noepqkkz",
+      "t": "n4jn1e5j",
+      "dashed": false
+    },
+    {
+      "s": "n4jn1e5j",
+      "t": "no0lit1u",
+      "dashed": false
+    },
+    {
+      "s": "n4jn1e5j",
+      "t": "nbkb9tny",
+      "dashed": false
+    },
+    {
+      "s": "nbkb9tny",
+      "t": "nqfpyrtk",
+      "dashed": false
+    },
+    {
+      "s": "n3j8j7hh",
+      "t": "nqfpyrtk",
+      "dashed": false
+    },
+    {
+      "s": "no0lit1u",
+      "t": "nbs2yws3",
+      "dashed": false
+    },
+    {
+      "s": "nxfx3ixq",
+      "t": "nbs2yws3",
+      "dashed": false
+    },
+    {
+      "s": "nbkb9tny",
+      "t": "nbs2yws3",
+      "dashed": false
+    },
+    {
+      "s": "nbs2yws3",
+      "t": "njv62a97",
+      "dashed": false
+    },
+    {
+      "s": "nbs2yws3",
+      "t": "nld9jlop",
+      "dashed": false
+    },
+    {
+      "s": "nqfpyrtk",
+      "t": "nbs2yws3",
+      "dashed": false
+    },
+    {
+      "s": "nbs2yws3",
+      "t": "neepe0vr",
+      "dashed": false
+    },
+    {
+      "s": "nbs2yws3",
+      "t": "nun76dlg",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Materials",
-      "Organic materials",
-      "User experience",
-      "Materials supply companies",
+      "Communicative artefacts",
+      "Materials supply",
+      "Graphic design",
       "Branding",
-      "Arduino",
-      "Infrastructure",
-      "Human body",
-      "Landgrabbing",
-      "Construction",
+      "Concept",
       "Prototyping",
-      "Political sci",
-      "Development economics",
-      "Transport engineering",
-      "Indigenous rights",
-      "Development studies",
-      "History",
-      "International relations",
-      "Economic geography",
-      "Maritime engineering",
-      "Indigenous studies",
-      "Environmental studies",
-      "Hydraulic engineering",
-      "Political science",
-      "Archaeology",
-      "Social movements",
-      "Urban planning",
-      "Anthropology",
-      "Energy engineering political science",
-      "Sociology of protest",
-      "Security studies",
-      "Human geography",
-      "International law",
-      "Cultural heritage",
-      "Energy studies",
-      "Aviation engineering",
-      "Economics",
-      "Urban/regional planning",
-      "Transportation engineering",
-      "Social anthropology",
-      "Geology",
-      "Civil engineering",
-      "Geography",
-      "Energy engineering",
-      "Disaster management",
-      "Humanitarian studies",
-      "Social psychology",
-      "Political economy",
-      "Security and defense studies",
-      "Infrastructure engineering",
-      "Extreme tourism",
-      "Transportation",
-      "Luxury tourism",
-      "Neuroscience",
-      "Utopian civilization",
-      "General knowledge",
-      "Socio-political",
-      "Design research",
-      "Media studies",
-      "Communication",
-      "Critical design",
-      "Critical theory",
-      "Humanitarian and development studies",
-      "International relations and human rights",
-      "Political economy and public policy",
-      "Geopolitics and international relations",
-      "Architecture",
-      "Touristification",
-      "Tourism",
-      "Legality",
-      "Human rights",
-      "War",
-      "Speculative design",
-      "Art",
       "Construction companies",
-      "Materials supply"
+      "Art",
+      "Speculative design",
+      "War",
+      "Human rights",
+      "Legality",
+      "Tourism",
+      "Touristification",
+      "Architecture",
+      "Geopolitics and international relations",
+      "Political economy and public policy",
+      "International relations and human rights",
+      "Humanitarian and development studies",
+      "Critical theory",
+      "Critical design",
+      "Communication",
+      "Media studies",
+      "Design research",
+      "Socio-political",
+      "General knowledge",
+      "Utopian civilization",
+      "Neuroscience",
+      "Luxury tourism",
+      "Transportation",
+      "Extreme tourism",
+      "Infrastructure engineering",
+      "Security and defense studies",
+      "Political economy",
+      "Social psychology",
+      "Humanitarian studies",
+      "Disaster management",
+      "Energy engineering",
+      "Geography",
+      "Civil engineering",
+      "Geology",
+      "Social anthropology",
+      "Transportation engineering",
+      "Urban/regional planning",
+      "Economics",
+      "Aviation engineering",
+      "Energy studies",
+      "Cultural heritage",
+      "International law",
+      "Human geography",
+      "Security studies",
+      "Sociology of protest",
+      "Energy engineering political science",
+      "Anthropology",
+      "Urban planning",
+      "Social movements",
+      "Archaeology",
+      "Political science",
+      "Hydraulic engineering",
+      "Environmental studies",
+      "Indigenous studies",
+      "Maritime engineering",
+      "Economic geography",
+      "International relations",
+      "History",
+      "Development studies",
+      "Indigenous rights",
+      "Transport engineering",
+      "Development economics",
+      "Political sci",
+      "Construction",
+      "Landgrabbing",
+      "Human body",
+      "Arduino",
+      "Materials supply companies",
+      "User experience",
+      "Organic materials",
+      "Materials",
+      "Infrastructure"
     ],
     "tags": [
-      "Human rights",
+      "Communicative artefacts",
+      "Communication",
+      "Design",
+      "Publishing",
+      "Brand",
+      "Key visual",
+      "European legislation",
+      "Visual coefficient",
+      "3d printing",
+      "Sensor",
+      "Denounce",
+      "Cultural loss",
+      "Landgrabbing",
+      "Infrastructure",
+      "Touristification",
+      "Welfare",
+      "Health",
+      "War",
+      "Extreme tourism",
+      "Definition",
+      "Overtourism",
+      "Conflict",
+      "Catastrophe",
+      "Useless investment",
+      "Isolation",
+      "Psychological distress",
+      "Structural failure",
+      "Work flow",
+      "Touchpoint",
+      "Danger",
       "Protests",
       "Victims",
-      "Danger",
-      "Touchpoint",
-      "Work flow",
-      "Structural failure",
-      "Psychological distress",
-      "Isolation",
-      "Useless investment",
-      "Catastrophe",
-      "Conflict",
-      "Communication",
-      "Overtourism",
-      "Definition",
-      "Extreme tourism",
-      "War",
-      "Health",
-      "Welfare",
-      "Touristification",
-      "Infrastructure",
-      "Landgrabbing",
-      "Cultural loss",
-      "Design",
-      "Denounce"
+      "Human rights"
     ],
     "type": [
+      "Design",
+      "Brief",
       "Observation",
       "Source",
-      "Research",
-      "Brief"
+      "Research"
     ]
   }
 }
