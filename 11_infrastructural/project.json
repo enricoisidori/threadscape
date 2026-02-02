@@ -1747,8 +1747,8 @@
     },
     {
       "id": "nciqu5g8",
-      "x": 5113.175006720024,
-      "y": 2987.611606589162,
+      "x": 4922.995142918478,
+      "y": 2966.7699776794034,
       "w": 320,
       "h": 537,
       "group": null,
@@ -3052,8 +3052,8 @@
     },
     {
       "id": "nf76rok1",
-      "x": 9472.10632578762,
-      "y": 7966.031581640233,
+      "x": 9364.10632578762,
+      "y": 8514.031581640233,
       "w": 320,
       "h": 826,
       "group": null,
@@ -3072,8 +3072,8 @@
     },
     {
       "id": "nbzdz9x9",
-      "x": 9468.422254723166,
-      "y": 8834.818096022625,
+      "x": 9360.422254723166,
+      "y": 9382.818096022625,
       "w": 320,
       "h": 1111,
       "group": null,
@@ -3092,8 +3092,8 @@
     },
     {
       "id": "nd2lcdjd",
-      "x": 9895.970532458536,
-      "y": 8351.831642075524,
+      "x": 9787.970532458536,
+      "y": 8899.831642075524,
       "w": 320,
       "h": 389,
       "group": null,
@@ -3112,8 +3112,8 @@
     },
     {
       "id": "n3s51flp",
-      "x": 9898.745917783652,
-      "y": 8850.175149976261,
+      "x": 9790.745917783652,
+      "y": 9398.175149976261,
       "w": 320,
       "h": 473,
       "group": null,
@@ -3132,8 +3132,8 @@
     },
     {
       "id": "n96gcfty",
-      "x": 9907.246634423509,
-      "y": 9416.72948179819,
+      "x": 9799.246634423509,
+      "y": 9964.72948179819,
       "w": 320,
       "h": 389,
       "group": null,
@@ -3152,8 +3152,8 @@
     },
     {
       "id": "nustnp6x",
-      "x": 8456.630947009322,
-      "y": 5850.842036371056,
+      "x": 8432.630947009322,
+      "y": 6050.842036371056,
       "w": 320,
       "h": 473,
       "group": null,
@@ -3172,8 +3172,8 @@
     },
     {
       "id": "nglpcgrg",
-      "x": 8801.440692470751,
-      "y": 5854.123293220495,
+      "x": 8777.440692470751,
+      "y": 6054.123293220495,
       "w": 320,
       "h": 507,
       "group": null,
@@ -3192,8 +3192,8 @@
     },
     {
       "id": "nyqohfat",
-      "x": 8461.773119453377,
-      "y": 6355.83890073642,
+      "x": 8437.773119453377,
+      "y": 6555.83890073642,
       "w": 320,
       "h": 608,
       "group": null,
@@ -3212,8 +3212,8 @@
     },
     {
       "id": "ncdxk01i",
-      "x": 8811.663807217295,
-      "y": 6387.877881635508,
+      "x": 8787.663807217295,
+      "y": 6587.877881635508,
       "w": 320,
       "h": 943,
       "group": null,
@@ -3232,8 +3232,8 @@
     },
     {
       "id": "nnv5mnpd",
-      "x": 9152.108056126592,
-      "y": 5858.520176716077,
+      "x": 9128.108056126592,
+      "y": 6058.520176716077,
       "w": 320,
       "h": 591,
       "group": null,
@@ -3252,8 +3252,8 @@
     },
     {
       "id": "na7mzbyh",
-      "x": 8473.306077876256,
-      "y": 2868.326741505826,
+      "x": 8809.91403927254,
+      "y": 2978.2581872663577,
       "w": 320,
       "h": 693,
       "group": null,
@@ -3278,7 +3278,7 @@
     {
       "id": "nfjmoc7h",
       "x": 8809.033445848847,
-      "y": 2869.812306420955,
+      "y": 2457.812306420955,
       "w": 320,
       "h": 502,
       "group": null,
@@ -3300,7 +3300,7 @@
     {
       "id": "njri5k4v",
       "x": 8470.13088799899,
-      "y": 3585.276615908035,
+      "y": 3001.190523284092,
       "w": 320,
       "h": 603,
       "group": null,
@@ -3321,8 +3321,8 @@
     },
     {
       "id": "neqv7hp8",
-      "x": 8809.155579568973,
-      "y": 3400.790195543448,
+      "x": 8472.547618172688,
+      "y": 2457.4034699684134,
       "w": 320,
       "h": 519,
       "group": null,
@@ -3343,14 +3343,14 @@
     },
     {
       "id": "nxo1uaqo",
-      "x": 8859.103116769926,
-      "y": 8447.162672527616,
+      "x": 8751.103116769926,
+      "y": 8995.162672527616,
       "w": 320,
-      "h": 651,
+      "h": 681,
       "group": null,
       "data": {
         "date": "2025-09-24",
-        "title": "",
+        "title": "NEUROARCHITECTURE",
         "type": "",
         "action": null,
         "mainArea": null,
@@ -3388,31 +3388,9 @@
       }
     },
     {
-      "id": "n3p9wgye",
-      "x": 40,
-      "y": 40,
-      "w": 320,
-      "h": 765,
-      "group": null,
-      "data": {
-        "date": "2025-09-24",
-        "title": "Infrastructure policies",
-        "type": "",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Infrastructure"
-        ],
-        "tags": [],
-        "desc": "Social, cultural, and political conflict can arise as early as the planning stage of infrastructure. Cases like Vajont, the Standard Gauge Railway in Kenya, the No TAV movement, and the bridge over the Strait of Messina demonstrate how economic interests, community rights, and cultural heritage can collide. Lack of dialogue fuels protests and delays, while construction often ignores human rights and local cultures. If protests themselves defined the value of infrastructure, how would we measure progress? Would the culture of dissent become the fundamental infrastructure for protecting our cultural heritage?\n\nProblem:\n- Non-transparent procedures\n- Human rights violations\n- Loss of cultural heritage\n\nAgents:\n- Minor populations\n- Civilians\n- Investors\n\nInfrastructures:\n- Dams\n- Railway networks\n- Hydroelectric power plants\n\nScenarios:\n- Reality\n- Culture\n- Migration\n- Uprooting\n",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "nrkvbkyd",
-      "x": 7872.946088015984,
-      "y": 3086.2191463868007,
+      "x": 7884.946088015984,
+      "y": 2634.2191463868007,
       "w": 320,
       "h": 821,
       "group": null,
@@ -3428,6 +3406,3485 @@
         ],
         "tags": [],
         "desc": "Social, cultural, and political conflict can arise as early as the planning stage of infrastructure. Cases like Vajont, the Standard Gauge Railway in Kenya, the No TAV movement, and the bridge over the Strait of Messina demonstrate how economic interests, community rights, and cultural heritage can collide. Lack of dialogue fuels protests and delays, while construction often ignores human rights and local cultures. If protests themselves defined the value of infrastructure, how would we measure progress? Would the culture of dissent become the fundamental infrastructure for protecting our cultural heritage?\n\nProblem:\n- Non-transparent procedures\n- Human rights violations\n- Loss of cultural heritage\n\nAgents:\n- Minor populations\n- Civilians\n- Investors\n\nInfrastructures:\n- Dams\n- Railway networks\n- Hydroelectric power plants\n\nScenarios:\n- Reality\n- Culture\n- Migration\n- Uprooting\n\n\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ng0qigt1",
+      "x": 9671.098951877235,
+      "y": 2755.038286620826,
+      "w": 320,
+      "h": 719,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "LAND GRABBING",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing"
+        ],
+        "tags": [
+          "Infrastructure",
+          "Cultural loss",
+          "Human rights",
+          "Victims"
+        ],
+        "desc": "OUR DEFINITION OF LANDGRABBING:\nLand grabbing refers to the buying and selling of land often in developing countries that is considered to be unused despite the many locals who live there. This ruthless action displaces these small communities leaving them with nothing and no where to go. Now considered the modern form of colonization, Land Grabbing is one of the most important topics in human rights and environmental law. Land Grabbing benefits governments and large multinational companies at the expense of peoples livelihoods.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 285.png",
+            "size": 119628,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_285.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nw2pvq5a",
+      "x": 10838.690860434523,
+      "y": 1182.38260697001,
+      "w": 320,
+      "h": 1296,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "2023 LAND GRABBING REPORT- FOCSIV",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing"
+        ],
+        "tags": [
+          "Victims"
+        ],
+        "desc": "LAND INVESTMENTS AROUND THE WORLD:\nThe chart shows the distribution of agreements concluded by geographic area in millions of hectares, totaling 114.8 million hectares. Africa is the leading continent for investments that can lead to land grabbing to the detriment of local communities, followed by Latin America, Eastern Europe, and then Asia. The distribution by investment intention is broken down as follows: 40% for forestry, 33% for other purposes, particularly mining, and 26% for agriculture. 67% of the area covered by agreements has ongoing operations, 25% is in the start-up phase, 5% of the area has operations abandoned, and 3% has not yet started. (image 1)\n\nINVESTOR COUNTRIES AND TARGETS OF LAND GRABBING:\nThe chart illustrates the top 10 countries with concluded and unconcluded agreements, expressed in millions of hectares. It shows that the Russian Federation is by far the country receiving the most foreign land investments, followed by Peru (especially for mining) and the Democratic Republic of the Congo (for agricultural monocultures and mining). This is followed by countries with large tropical and equatorial rainforests, such as Indonesia, Brazil, and Gabon, where investments are driving deforestation for monoculture agriculture, livestock farming, and mining. (images 2, 3)",
+        "links": [
+          "I padroni della terra, Rapporto sull’accaparramento della terra 2023: Conseguenze su diritti umani, ambiente e migrazioni",
+          "https://www.focsiv.it/wp-content/uploads/2023/10/LG2023-18.10.2023.pdf"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-08 alle 11.49.52 1.png",
+            "size": 40856,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_11.49.52_1.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 10.59.18 1.png",
+            "size": 186523,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_10.59.18_1.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-08 alle 10.59.37 1.png",
+            "size": 82389,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-08_alle_10.59.37_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlhgqh8m",
+      "x": 10489.50189441557,
+      "y": 1184.029022829067,
+      "w": 320,
+      "h": 1293,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "PAN ASIA-PACIFIC (PANAP)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing"
+        ],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
+        "desc": "PAN Asia Pacific (PANAP) is a regional network based in Malaysia, part of the global Pesticide Action Network movement. It focuses on environmental justice, food sovereignty, and human rights, particularly in the defense of rural communities, farmers, and agricultural workers in Asia and the Pacific.\n\nNO LAND, NO LIFE:\n\"No Land, No Life!\" is a PAN Asia Pacific campaign denouncing land and resource grabbing in the Asia-Pacific region.\nIt supports the rights of farmers, indigenous peoples, and rural communities by documenting land-related violence and conflict, and promoting agrarian reform and food sovereignty through monitoring, training, and international mobilization.",
+        "links": [
+          "https://panap.net/2022/10/repression-for-land-and-profits/?"
+        ],
+        "files": [
+          {
+            "name": "image 291.png",
+            "size": 54889,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_291.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 alle 16.09.48 1.png",
+            "size": 136321,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_16.09.48_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7q9ql0u",
+      "x": 11182.690628936765,
+      "y": 1210.6165553035814,
+      "w": 320,
+      "h": 1031,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "VIOLENCE AGAINST LAND OCCUPATION AND LAND TENOR (CPT)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing",
+          "Human rights"
+        ],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
+        "desc": "The Pastoral Land Commission (CPT) is an organization of the Brazilian Catholic Church, founded in 1975 to defend peasants, landless people, and indigenous peoples. It denounces violence and agrarian injustice, promotes land reform, and collects data on rural conflicts in Brazil, becoming one of the main reference sources on these issues.\n\nThe article presents an overview of partial data (January-August 2021) collected by the Pastoral Land Commission (CPT) on rural conflicts in Brazil, highlighting a sharp increase in violence over land occupation and ownership. 418 territories were recorded as affected, with marked increases in “home destruction,” “expropriation,” “expulsion,” and “land grabbing.” Deaths “due to conflict” rose from 9 (2020) to 103 (2021), of which 101 were indigenous Yanomami. Of the 26 homicides linked to rural conflicts, 6 were landless workers (5 in the state of Rondônia) and 3 were quilombolas in Maranhão. The article also denounces the invasion of Yanomami territories by illegal miners, with acts of violence, water contamination, disease, environmental destruction, and cases of children “swept up in dredges.”",
+        "links": [
+          "https://cptnacional.org.br/2021/12/10/cpt-partial-data-violence-against-occupation-and-land-tenure-murders-of-landless-people-and-deaths-as-a-result-of-conflicts-soar-in-2021/?"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-09 alle 22.14.52 1.png",
+            "size": 74281,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_22.14.52_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nm0s9av6",
+      "x": 11194.814081455532,
+      "y": 2273.6450597177923,
+      "w": 320,
+      "h": 828,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "LARGEST REPOSSESSION OPERATION IN RONDONIA REPETS THE TRACES OF THE CORUMBIARA MASSACRE",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing",
+          "Human rights"
+        ],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
+        "desc": "In November 2021, in the state of Rondônia, 300 landless families were forcibly evicted from the NorBrasil and Arco-Íris farms, in an operation conducted by military police and the National Force. The lands were claimed by the company Leme Empreendimentos Ltda., accused of illegal appropriation. The eviction resulted in serious human rights violations, with homes and documents destroyed and two farmers killed. According to the CPT, the lands were either public or illegally acquired.",
+        "links": [
+          "https://cptnacional.org.br/2021/11/22/maior-acao-de-reintegracao-de-posse-em-rondonia-repete-os-rastros-do-massacre-de-corumbiara/"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-09 alle 12.24.44 2.png",
+            "size": 177542,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_12.24.44_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "naeja7uy",
+      "x": 11539.197446789538,
+      "y": 1215.6455997148887,
+      "w": 320,
+      "h": 1058,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "GLOBAL WITNESS KILLINGS REPORT (2012-2024)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing",
+          "Human rights"
+        ],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
+        "desc": "2,253 land and environmental defenders were killed or disappeared between 2012 and 2024",
+        "links": [
+          "https://globalwitness.org/en/campaigns/land-and-environmental-defenders/in-numbers-lethal-attacks-against-defenders-since-2012/"
+        ],
+        "files": [
+          {
+            "name": "which-industries-have-been-linked-to-killings-and-disappearances- 1.png",
+            "size": 39896,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/which-industries-have-been-linked-to-killings-and-disappearances-_1.jpg"
+          },
+          {
+            "name": "how-has-the-number-of-documented-cases-changed-over-time- 1.png",
+            "size": 39562,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/how-has-the-number-of-documented-cases-changed-over-time-_1.jpg"
+          },
+          {
+            "name": "in-which-countries-have-defenders-been-killed-or-disappeared- 1.png",
+            "size": 76861,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/in-which-countries-have-defenders-been-killed-or-disappeared-_1.jpg"
+          },
+          {
+            "name": "how-have-defenders-been-targeted- 1.png",
+            "size": 20096,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/how-have-defenders-been-targeted-_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nx4vfs2g",
+      "x": 10104.755273320847,
+      "y": 2992.965585588218,
+      "w": 320,
+      "h": 614,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "DECLERATION OF TIRANA",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing"
+        ],
+        "tags": [],
+        "desc": "FIRST TIME LAND GRABBING IS RECOGNIZED AND CONDEMNED:\nWe denounce all forms of land grabbing, both international and national.\nWe denounce local land grabs by powerful local elites, within the community, or among\nfamily members. We denounce large-scale land grabbing, which has accelerated dramatically\nover the past three years and which we define as an acquisition or concession with one or more of the\nfollowing characteristics:\n\n(I) is in violation of human rights, particularly women's equal rights; (II) is not based on the free, prior, and informed\nconsent of affected land users; (III) is not based on, or fails to take into account, a comprehensive assessment of\nsocial, economic, and environmental impacts, including how gender aspects are addressed;\n(IV) is not based on transparent contracts specifying commitments regarding activities, work, and benefit-sharing;\n(V) is not based on effective democratic planning, independent oversight, and meaningful participation.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkck35ei",
+      "x": 9599.476896037733,
+      "y": 5899.078502710246,
+      "w": 320,
+      "h": 911,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "WHAT IF HOMES BECOME TRAPS FOR RESIDENTS?",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Tourism"
+        ],
+        "tags": [
+          "Infrastructure",
+          "Touristification"
+        ],
+        "desc": "SCENARIO:\nIn the near future, a private enterprise is ushering in the latest stage of touristification: private housing as an attraction. The enterprise offers residents the opportunity to stay in the city center for free, provided they live in showcase apartments designed for the tourist experience.\nVisitors purchase a ticket to observe the daily lives of the residents, with the option of requesting personalized performances for a fee. Reviews and interactions determine residents' extra earnings, while a curated catalog allows tourists to choose the human profile they want to \"visit.\"\n\nCONFLICT:\nA conflict arises between residents and urban infrastructure as homes become tourist attractions. Driven by the economic interests of private companies and urban policies, homes lose their intimate function, transforming into exposed and controlled spaces for the benefit of tourists.\n\nWHO:\nA private company, following its success in the tourist resort sector, is launching a new project: glass condominiums in the city center.\nThe aim is to pioneer a new market, offering residents the opportunity to live for free in the city center, provided they disclose their daily routines.\nTourists pay a fee and are provided with a kit for their reserved time slot.\n\nOUTPUT:\nUsers can identify with tourists by receiving the app and the kit with the watch that marks the visit slot, or with residents by wearing the collar that unlocks only when all tourists have finished their visits and given the OK from their watch.\n\n\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nyyndnw8",
+      "x": 9259.670887528819,
+      "y": 2676.484598596572,
+      "w": 320,
+      "h": 867,
+      "group": null,
+      "data": {
+        "date": "2025-10-03",
+        "title": "WHAT IF INFRASTRUCTURES WERE BUILT BY RECYCLING THE GOODS, MEMORIES, AND BLOOD OF THE OPPRESSED?",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human rights",
+          "Landgrabbing"
+        ],
+        "tags": [
+          "Infrastructure",
+          "Cultural loss",
+          "Victims"
+        ],
+        "desc": "SCENARIO:\nIn the near future, a major construction company is entering the market with an innovative and cost-effective solution: building large-scale infrastructure with materials and resources recovered from occupied territories. The company manages everything from land acquisition to infrastructure construction.\n\nCONFLICT:\nThe conflict pits local communities and investors against each other over the appropriation of land and its contents under the guise of \"public need.\" This dynamic causes casualties, which are then reused for infrastructure construction.\n\nWHO:\nThe agency is a construction company that serves large multi-utility companies, taking on the construction of strategic infrastructure such as dams, power plants, and railways. It carefully describes its materials, demonstrating their suitability based on parameters such as price, provenance, and efficiency.\n\nOUTPUT:\nUsers can assume the role of customers.\nThey are provided with a machine that shows whether or not it's worth building in a given location, based on the availability and quality of resources; and a sample of usable materials, which can be examined under a microscope for a detailed analysis of each element's composition.\n\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9n6z7bi",
+      "x": 10833.254060706133,
+      "y": 2491.558478320053,
+      "w": 320,
+      "h": 960,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "HUMAN RIGHTS DAY 2019: LAND RELATED KILLINGS GO UP (PANAP)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing",
+          "Human rights"
+        ],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
+        "desc": "According to the PAN Asia Pacific (PANAP) report of December 10, 2019, land conflict-related killings have been attributed to various actors, including:\nParamilitary groups and private security forces: often associated with economic interests, such as agribusiness and mining.\nState armed forces\nNon-state armed groups: Some conflicts involve armed groups fighting for control of land and resources.\nThese actors often act with impunity, facilitated by weak laws and a lack of accountability. The primary victims are farmers, community leaders, and land rights activists, especially in countries such as Colombia, the Philippines, and Mexico.\nPANAP emphasizes the need for independent investigations and greater protection for rural communities threatened by these conflicts.",
+        "links": [
+          "https://panap.net/2019/12/human-rights-day-2019-land-related-killings-go-up/?"
+        ],
+        "files": [
+          {
+            "name": "Land-and-Rights-Watch-2019-by-sector-2 2.png",
+            "size": 85628,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Land-and-Rights-Watch-2019-by-sector-2_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqje5a0x",
+      "x": 10118.191778023429,
+      "y": 1267.9769906584688,
+      "w": 320,
+      "h": 1568,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "LAND AND RIGHT WATHC - 2022 REPORT (PANAP)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing",
+          "Human rights"
+        ],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
+        "desc": "The report monitors human rights violations suffered by communities resisting land and resource grabbing in the Asia-Pacific.\n\nBiofuels despite being promoted as an alternative to fossil fuels, have caused deforestation, land degradation, and human rights violations. PANAP has monitored over 1.3 million hectares affected by biofuels and land conflicts. A case in point is San Mariano (Philippines), where Green Future Innovations Inc. expropriated peasant lands to grow sugarcane, causing environmental degradation, pollution, respiratory diseases, and threats to farmers, who have lost income and security.\n\nLarge-scale renewable energy projects, such as dams, wind turbines, and solar farms, have caused forced displacement and environmental damage. Examples include the Lower Sesan 2 dam in Cambodia, which has displaced up to 5,000 people; the K Rail project in India risks displacing 20,000 families. PANAP estimates that renewable infrastructure requires approximately 300,000 hectares of land, resulting in the loss of homes and livelihoods.\n\n",
+        "links": [
+          "https://files.panap.net/resources/Land-and-Rights-Watch-2022.pdf"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-09 at 20.04.00 1.png",
+            "size": 141399,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_at_20.04.00_1.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-09 at 20.05.02 1.png",
+            "size": 131107,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_at_20.05.02_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngwh4iy4",
+      "x": 10489.666723275923,
+      "y": 2502.839506864921,
+      "w": 320,
+      "h": 616,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "REPRESSION FOR LAND AND PROFITS - OCTOBER 2022 (PANAP)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing",
+          "Human rights"
+        ],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
+        "desc": "Data from PAN Asia Pacific (PANAP) shows that every week, over the past five years, at least two people in rural communities have been killed in conflicts over land grabbing.\nIt also claims that repression, land speculation, and violence are being used to protect corporate profits and interests at the expense of farmers.\nSpecific cases cited: Agbede (Nigeria), Edelira (Paraguay), Hacienda Tinang (Philippines)",
+        "links": [
+          "https://panap.net/no-land-no-life/"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-09 alle 12.10.50 2.png",
+            "size": 163727,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_12.10.50_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ne8dx3h1",
+      "x": 11548.51498117074,
+      "y": 2291.155106758082,
+      "w": 320,
+      "h": 1343,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": " GLOBAL WITNESS 2021 LAS LINE DEFENSE REPORT ANALYSIS",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing",
+          "Human rights"
+        ],
+        "tags": [
+          "Victims",
+          "Cultural loss"
+        ],
+        "desc": "NUMBER OF CASES AND VICTIMS OF HUMAN RIGHTS VIOLATIONS RELATED TO LAND CONFLICTS AND STRUGGLES, FROM JANUARY 1, 2017 TO JULY 31, 2025\nGlobal Witness is an investigative and activist organization that has been working for over 30 years to expose the links between environmental destruction, conflict, corruption, and human rights violations.\nThe organization investigates how industries fueling the climate crisis profit from destruction and supports people fighting to defend their communities and their rights.\n\nA GLOBAL ANALYSIS\nATTACKS ON THE RISE FOR ANOTHER YEAR\n\nIn 2020, Global Witness recorded 227 murdered land and environmental defenders – making it once again the most dangerous year on record for people defending their homes, land and livelihoods. However, our data on killings does not capture the true scale of the problem. In some countries, the situation facing defenders is hard to gauge – restrictions on a free press, or where the independent monitoring of attacks on defenders is not taking place, can lead to underreporting. Land disputes and environmental damage, two of the prominent underlying causes behind communities’ activism, can also be difficult to monitor in parts of the world  affected by conflict.\nWe know that beyond killings, many defenders and communities also experience attempts to silence them, with tactics like death threats, surveillance, sexual violence, or criminalisation – and that these\nkinds of attacks are even less well reported. These challenges, coupled with the requirement to meet strict verification criteria for recording killings, mean that our figures are almost certainly an underestimate.\n\nHIGHEST COUNTRIES PER CAPITA\n1. Nicaragua\n2. Honduras\n3. Colombia\n4. Guatemala\n5. Philippines",
+        "links": [
+          "https://globalwitness.org/en/campaigns/land-and-environmental-defenders/last-line-of-defence/"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-09 alle 23.03.11 1.png",
+            "size": 14724,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-09_alle_23.03.11_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9mkxoen",
+      "x": 12468.954240319434,
+      "y": 2390.8171550885254,
+      "w": 320,
+      "h": 693,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "IS LAND GRABBING LEGAL?",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Legality"
+        ],
+        "tags": [
+          "Landgrabbing",
+          "Human rights",
+          "Victims"
+        ],
+        "desc": "It must be stated immediately that this practice is not a crime: the type of litigation initiated cannot be assimilated to a criminal proceeding, but rather to a civil offense.\n\nLand occupation generally finds its legal basis in perfectly valid and lawful acts, because they comply with national laws. However, this occupation, while valid, can be substantially unjust and violate other laws (such as those protecting the fundamental rights to food and water, or to housing, or to the identity and culture of an indigenous people) because very often the legal framework justifying it does not respect all the rights at stake.\n\nSince militarily occupying a country is no longer accepted, it is better to occupy it 'economically.' And even better if we can legally extract the resources.\n\nAn indigenous community that occupies land collectively (and this is the typical way many indigenous communities manage spaces) or that has occupied it for centuries, almost never has the opportunity to demonstrate to have a property title. Also because the very concept of \"property\" is often unknown in these cultures, where the land belongs to everyone.\"",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8mjijsy",
+      "x": 11879.213085187715,
+      "y": 1268.1282080554884,
+      "w": 320,
+      "h": 996,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "GAZA STRIP CASE STUDY",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human rights",
+          "War",
+          "Landgrabbing"
+        ],
+        "tags": [
+          "Victims"
+        ],
+        "desc": "Approximately 82% of the Gaza Strip is currently occupied by Israeli forces, and 60%* of Palestinian land is expected to remain under Israeli control.\n\n*(Beit Lahiya, Beit Hanoon, some Gaza neighborhoods (Shujayea, Tuffah, Zeitoun), more than half of Khan Younis, and virtually all of Rafah).\nImpact on Palestinian Displacement\nThe continued Israeli presence in these key areas makes it unlikely that hundreds of thousands of displaced Palestinians will return to their homes in the short term, despite the ceasefire.\n\nIsrael's planning system, which is used as a legal pretext for demolitions, is described as fundamentally discriminatory, making building permits \"nearly impossible for Palestinians to obtain.\"\n\nAs of October 2023, none of the 282 applications submitted have been approved.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 290.png",
+            "size": 441576,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_290.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0147brt",
+      "x": 9325.97502199696,
+      "y": 1744.9409794644412,
+      "w": 320,
+      "h": 278,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": " WORKING ON THE WHAT IF",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Speculative design"
+        ],
+        "tags": [],
+        "desc": "WHAT IF INFRASTRUCTURE WAS BUILT BY RECYCLING THE BODIES OF THE OPPRESSED?\n\nWHAT IF INFRASTRUCTURE WAS BUILT BY RECYCLING BODIES?\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nxr4zyom",
+      "x": 10845.55932383885,
+      "y": 4463.276440734594,
+      "w": 320,
+      "h": 328,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HOW DOES A CONSTRUCTION COMPANY WORK?",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "A construction company is an organization or firm that deals with the construction, renovation, maintenance, and demolition of buildings or other physical structures such as bridges and roads.\nIt may be involved in various phases of the construction process, from planning and design to actual construction and post-construction management.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nviqui3g",
+      "x": 12858.067803433725,
+      "y": 2014.6367385208637,
+      "w": 320,
+      "h": 1437,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "ADRIANA VAREJAO: ART TO DENOUNCE LAND GRABBING",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Art"
+        ],
+        "tags": [
+          "Human rights",
+          "Denounce"
+        ],
+        "desc": "Adriana Varejão (born in Rio de Janeiro in 1964) is a contemporary Brazilian artist known for her multidisciplinary work exploring themes of colonialism, anthropology, and cultural syncretism. She uses painting, sculpture, photography, and installation, with a particular focus on azulejo (Portuguese tile), which she uses to reflect on Brazilian history and identity. Her works are included in the collections of major international museums.\n\nTHE MESSAGE:\nBeneath the outer and rational surface of the infrastructure lies a primordial, physical, and often violent reality.The building hides secrets and bears the marks of history and suffering.",
+        "links": [],
+        "files": [
+          {
+            "name": "adriana_varejao 1.png",
+            "size": 265158,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/adriana_varejao_1.jpg"
+          },
+          {
+            "name": "image 250.png",
+            "size": 256017,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_250.jpg"
+          },
+          {
+            "name": "wRE4LKZosmaJXRkNLTrEr 1.png",
+            "size": 301121,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/wRE4LKZosmaJXRkNLTrEr_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njnnpiya",
+      "x": 13246.57976682344,
+      "y": 869.2784533792073,
+      "w": 320,
+      "h": 1841,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "WHAT IS THE LINK BETWEEN BODIES AND INFRASTRUCTURE?",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Art",
+          "Infrastructure"
+        ],
+        "tags": [],
+        "desc": "THE CARYATIDS AND THE ATLASES/TELAMONS:\nThe human body, in an idealized and sometimes heroic form, is elevated to the role of a fundamental pillar of sacred architecture. (Image 1)\n\nGARGOYLE:\nIts function is primarily aesthetic and serves as a warning against evil or sin for the faithful, but it also serves to ward off evil spirits from the sacred building. (image 2)\n\nVITRUVIAN MANAND CORBUSIAN MODULOR:\nThe body has also been used as a canon and unit of measurement for space. (image 3)\n\nBONES AS A DECORATIVE ELEMENT:\nThe remains of bodies after death have been used in various cultures as an aesthetic and symbolic element.\n\nUSING INFRASTRUCTURES AS CULTURAL DOMINATION:\nIn many American construction sites, it was necessary to deface sacred Native American burial sites.",
+        "links": [],
+        "files": [
+          {
+            "name": "04.cariatidi-fanciulle-danzanti 1.png",
+            "size": 147701,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/04.cariatidi-fanciulle-danzanti_1.jpg"
+          },
+          {
+            "name": "image 256.png",
+            "size": 131290,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_256.jpg"
+          },
+          {
+            "name": "Da_Vinci_Vitruve_Luc_Viatour.png",
+            "size": 262156,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Da_Vinci_Vitruve_Luc_Viatour.jpg"
+          },
+          {
+            "name": "Modulor-Le-Corbusier-gabarit_en.png",
+            "size": 25459,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Modulor-Le-Corbusier-gabarit_en.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "neolk2jk",
+      "x": 11912.360886743067,
+      "y": 4596.449437538804,
+      "w": 320,
+      "h": 798,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "TYPES OF CONSTRUCTION COMPANIES",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "General contractors:\nThey handle complete construction projects, managing all aspects of the construction process, from foundation to roof.\nThey often subcontract specific parts of the work to specialized contractors.\nSpecialized construction contractors:\nFocus on specific niches in the construction industry, such as electrical, plumbing, carpentry, masonry, etc.\nThey can work as subcontractors for general construction contractors or directly for the client.\nRenovation contractors:\nSpecialize in the renovation, restoration, and renovation of existing buildings.\nThey can work on residential, commercial, or historic projects.\nResidential construction companies:\nFocused on residential construction, including single-family homes, condominiums, villas, etc.\nThey can develop large-scale projects or build on a one-off basis.\nCommercial construction companies:\nSpecialized in buildings and structures for commercial use, such as offices, shops, hotels, and industrial complexes.\nCivil and infrastructure engineering companies:\nFocused on large infrastructure projects such as bridges, roads, dams, and other civil engineering works.\nPublic sector construction companies:\nWork on projects commissioned by public entities, such as schools, hospitals, and public infrastructure.\nDemolition and remediation companies:\nSpecialized in building demolition and site remediation, often as a preparatory step for new construction projects.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzy58wta",
+      "x": 11204.27915159727,
+      "y": 4651.482681578431,
+      "w": 320,
+      "h": 748,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HOW TO START A BUSINESS",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "Legal and bureaucratic requirements for starting a construction business:\nChoice of legal form: Determine whether the business will operate as a sole proprietorship, limited liability company (LLC), joint stock company (SPA), etc. This choice will influence subsequent requirements.\nBusiness registration: Register the business with the local Chamber of Commerce, obtaining a registration number and VAT number.\nRegistration in the register of artisan businesses (if applicable): If the business qualifies as an artisan business, it is necessary to register with the Chamber of Commerce.\nProfessional qualification requirements: The owner or a technical manager of the business must meet specific professional requirements, which may include degrees in engineering, architecture, or proven experience in the construction sector.\nSpecific certifications and permits: Depending on the type of construction work you intend to undertake, specific certifications and permits may be required. For example, work involving work on load-bearing structures requires specific skills and certifications.\nInsurance policies: Specific insurance policies are required to cover professional risks, damage to third parties, and possible workplace injuries.\nOccupational safety: Comply with all occupational health and safety requirements, including appointing a safety manager and employee training.\nTax and accounting management: Establish adequate accounting management, including invoicing, accounting records, and tax compliance.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8fxbzor",
+      "x": 11545.324075562201,
+      "y": 3808.0564015876125,
+      "w": 320,
+      "h": 1000,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "JOB TITLES",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "Construction contractor or business owner:\nSkills: Strategic vision, knowledge of the construction industry, entrepreneurial skills.\nExperience: Often requires years of experience in the construction industry or specific training in civil engineering or architecture.\nTechnical manager or project manager:\nSkills: In-depth knowledge of construction techniques, building regulations, and project management.\nExperience: Training in civil engineering, architecture, or equivalent, as well as relevant experience, is required.\nSurveyor or construction technician:\nSkills: Ability to read technical drawings, plan, and supervise construction site work.\nExperience: Technical training as a surveyor or equivalent.\nSpecialized workers (bricklayers, carpenters, plumbers, electricians):\nSkills: Specific skills in their field of specialization, knowledge of safety regulations.\nExperience: Specific professional training and, often, practical experience in the sector.\nSafety officers:\nSkills: Knowledge of workplace safety regulations, ability to implement safety protocols.\nExperience: specific training in workplace safety.\nAdministrative Staff:\nSkills: Administrative management, accounting, human resources management.\nExperience: Training in administration or accounting.\nProcurement Manager:\nSkills: Ability to negotiate and manage supplies and contracts.\nExperience: Knowledge of the building materials market and procurement practices.\nSupport Staff (warehouse workers, drivers, etc.):\nSkills: Specific skills related to their role, such as warehouse management or driving heavy vehicles.\nExperience: Specific training or certifications (e.g., driver's license) are often required.\nExternal Consultants (Engineers, Architects, Lawyers):\nSkills: Technical or legal expertise required for complex projects or to manage legal matters.\nExperience: Highly specialized and trained in their specific field.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nb6vczx3",
+      "x": 11916.23232371703,
+      "y": 4087.5561871999107,
+      "w": 320,
+      "h": 462,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "PHASES OF A CONSTRUCTION PROJECT",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "Planning:\nClient requirements\nConcept and guidelines\nDesign:\nGraphic drawings\nFeasibility studies\nDocumentation:\nPresentation to the municipality\nProviding the contractor with bills of quantities\nTender:\nExecution by contractors\nConstruction:\nImplementation of the project\nCompletion:\nTesting\nDeclaration of compliance with Law 10",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nxmv72wa",
+      "x": 11544.117492554798,
+      "y": 4818.205228314881,
+      "w": 320,
+      "h": 614,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "USER FLOW DIAGRAM",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "[Client]\n↓ Request for Quote\n[Sales Office]\n↓ Request Analysis / Site Inspection\n[Technical Office]\n↓ Feasibility Study / Preliminary Design\n↓ Quote Sending to Client\n[Client]\n↓ Contract Approval / Signing\n[Administrative Office]\n↓ Order Opening / Paperwork\n[Technical Office]\n↓ Detailed Design / Project Planning\n[Construction Site Management]\n↓ Material Ordering / Supplier Coordination\n↓ Project Start-up\n[Operational Teams]\n↓ Project Execution\n↓ Quality Controls / Work Progress Report (WAR)\n[Construction Management]\n↓ Final Inspection / Testing\n[Client]\n↓ Delivery and Final Payment\n[After-Sales]\n↓ Maintenance / Assistance",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9y8f7y6",
+      "x": 11190.029918502129,
+      "y": 3796.148495697187,
+      "w": 320,
+      "h": 815,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HISTORY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "Origins and Antiquity\nEarly Civilizations: Construction arose from the human need to create safe, controlled environments to protect against the elements. In Mesopotamian and Egyptian civilizations, local materials such as mud and stone were used to build monumental structures, such as temples and pyramids.\nGreece and Rome: These civilizations introduced technical innovations and concepts of harmonious proportion. The Romans, in particular, developed advanced techniques such as the construction of vaults and domes, creating imposing buildings such as the Colosseum.\nMiddle Ages and Renaissance\n\nMiddle Ages: Medieval construction saw a regression in techniques, with simpler yet more majestic constructions such as castles and cathedrals.\nRenaissance: Classical Greco-Roman architecture was rediscovered. Figures such as Brunelleschi and Alberti promoted the design of symmetrical and elegant buildings.\nThe Industrial Age and the 20th Century\nIndustrial Revolution: The introduction of new materials such as steel and reinforced concrete revolutionized construction possibilities, leading to the construction of innovative skyscrapers and bridges.\nRegulation in Italy: At the beginning of the 20th century, the lack of regulations led to uneven construction and an irrational use of land. The fundamental law of 1942 introduced urban planning tools (such as the master plan) and the requirement for building permits in major urban centers. The subsequent \"bridge law\" of 1967 extended the requirement for building permits to the entire country.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbamkdfj",
+      "x": 12894.252410485802,
+      "y": 3741.6946818028837,
+      "w": 320,
+      "h": 435,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HISTORICAL MATERIALS",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Wood (structure and roofing)\nStone (structure and flooring)\nBricks (walls and vaults)\nLime and mortar (binding agent for masonry and plaster)\nAdobe or raw earth (walls, earth and straw mixture)\nStraw and hemp (insulation and reinforcement)\nAnimal hair and hair, human hair (plaster reinforcement)\nBlood and urine (mortar additives and pigments, rarely)\nHuman or animal bones (calcined as pigments or bone white)",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ns99bj2t",
+      "x": 12892.645015821674,
+      "y": 4180.21504149272,
+      "w": 320,
+      "h": 418,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "REVOLUTIONARY CONTEMPORARY MATERIALS",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Ultra-High Performance Concrete (UHPC)\nGeopolymer Concrete\nEngineered Wood (CLT, LVL)\nHemp-Lime (hempcrete)\nBio-based Bricks and Mortars (Mycelium, Algae)\nBio-Cement or Microbiological Lime (Self-Healing)\nElectrochromic Glass/Smart Glass\nBuilt-In Photovoltaic Materials (BIPV)\nAdvanced Lightweight Metals (Aluminum, Titanium)\nHigh-Performance Polymers and Aerogels\nPhase Change Materials (PCM) for Thermal Storage\n3D Printable Materials (Concrete, Clay, Bioplastics)",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ntc30yq0",
+      "x": 13352.683365710755,
+      "y": 3373.0150568960103,
+      "w": 320,
+      "h": 1241,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HUMAN MATERIALS IN BUILDING / BODY AS MATERIAL",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Blood: \nRare but attested in medieval and Renaissance sources. It was sometimes used in small quantities in mortars or pigments, similar to animal blood.\nIt was believed to improve the cohesion and adhesion of materials or to have apotropaic (magical-protective) value.\nHistorical examples:\nSome late medieval chronicles describe human or animal blood being added to the mortar of defensive walls or foundations \"to give strength to the construction.\"\nIn some ritual cases, the use of human blood was symbolic or mythical, not technical (e.g., \"walls consecrated with the blood of prisoners\").\nTechnical value: Similar to animal blood (rich in coagulant proteins), but exceptionally used for obvious ethical and practical reasons.\n\nHair: \nFibrous reinforcement for mortars, plasters, and plasters.\nUse: Mixed with lime, gypsum, or clay to prevent cracking. From the Renaissance to the 19th century in Europe. Usually sourced from barber shops or household scraps.\nCommon alternative: horsehair or ox hair, which are longer and more durable.\n\nBones and Teeth:\nBurnt human bones (rich in phosphates and carbonates) were sometimes ground to obtain limestone powders or white pigments (bone white).\nBone ash could be used in some mortars or ceramic glazes.\nDissemination: Limited, but well documented in the decorative arts and primitive cements.\n\nUrine:\nIt contained ammonia and urea, therefore used as a cleaner, degreaser, or alkaline additive.\nIn construction, it was used to prepare pigments, treat metal surfaces, or soften lime.\nExamples:\nIn ancient Rome, urine was collected in fullonicae (laundries) for the processing of fabrics, but it was also used to clean marble surfaces and frescoes.\nIn some medieval contexts, it was mixed with lime or earth to increase plasticity.\n\nOther secondary human organic materials:\nSweat and fat:\nTraces present in hand-mixed clays, but not intentional additives.\nAsh from human remains: \nIn rare ritual cases, used symbolically for plaster or commemorative decorations.\nPlacenta or birth blood: \nMentioned only in magico-ritual texts or building folklore (not as an actual building practice).",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbgje9yo",
+      "x": 11199.201720175757,
+      "y": 5463.727100642945,
+      "w": 320,
+      "h": 956,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HOW IT IS REPRESENT A CONSTRUCTION COMPANY?",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [
+          "Design"
+        ],
+        "desc": "All logos use a geometric san serif typeface.\nSimple colors, no gradients.\nBold\nGeometric shapes.\n\nWhy?\nSan serif fonts represent efficiency, cleanliness, and control.\nThe perception of reliability is guaranteed by the color blue, while red, I don't know why. Are the simple shapes related to the concept of construction and assembly?",
+        "links": [],
+        "files": [
+          {
+            "name": "img 1.png",
+            "size": 8920,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/img_1.jpg"
+          },
+          {
+            "name": "img 2.png",
+            "size": 23179,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/img_2.jpg"
+          },
+          {
+            "name": "img 3.png",
+            "size": 29411,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/img_3.jpg"
+          },
+          {
+            "name": "img4.png",
+            "size": 36056,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/img4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbpx5p5d",
+      "x": 13595.825278622684,
+      "y": 870.3748057402088,
+      "w": 320,
+      "h": 732,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "AI WEIWEI",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Art"
+        ],
+        "tags": [
+          "Human rights",
+          "Denounce"
+        ],
+        "desc": "Ai Weiwei è un artista, attivista e architetto cinese di fama internazionale, noto per aver legato indissolubilmente arte e impegno politico. Le sue opere, che spaziano tra scultura, installazione, fotografia e video, affrontano temi come la libertà d'espressione, i diritti umani e le contraddizioni della società contemporanea. È un dissidente che ha spesso criticato apertamente il governo cinese, motivo per cui è stato censurato, arrestato e persino detenuto. ",
+        "links": [],
+        "files": [
+          {
+            "name": "image 306.png",
+            "size": 434395,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_306.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5gve7a3",
+      "x": 14045.66419383829,
+      "y": 3377.723097951865,
+      "w": 320,
+      "h": 835,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "EXPERIMENTAL STUDY ON CONCRETE REINFORCED WITH HUMAN AND HORSE HAIR FIBERS",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Concrete is good in compression but week in tension that is, concrete is a brittle material. So, in order to improve the tensile properties of concrete, short fibers are used. Human and horse hairs consider a bio material and have a good strong in tension; hence it can be used as a fiber reinforcement material. Hair Fiber (HE) an alternate non-degradable matter is available in abundance and at a very cheap cost. Iti also creates environmental problem for its decompositions. The aim of this research work is to find out the propertiles (mechanical) of hair fiber reinforced concrete. Experiments were conducted on concrete cylinders, cubes and prisms with various percentages of human and horse hairs fibers i.e. 0%, 19%, 1.5%, and 2.5 % by weight of cement. Two grades of reference plain concrete were used, 20 and 40 MPa: The results showed that there is an increment in the various mechanical properties and strength of concrete by addition of human and horse hairs to concrete.",
+        "links": [
+          "https://jaes.journals.ekb.eg/article_103351.html?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "image 241.png",
+            "size": 137231,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_241.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3bhr55n",
+      "x": 13706.100224741238,
+      "y": 3379.10880906979,
+      "w": 320,
+      "h": 1024,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "EVALUATION OF THE BINDING EFFECT OF HUMAN SERUM ALBUMIN ON THE PROPERTIES OF GRANULES",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "The main objective of this study was the application of a solution of human serum albumin as a granulating fluid. The properties of the granules formed were evaluated and compared with those when a conventional binder was applied in the same concentration. The powder mixture contained a soluble (mannitol) and an insoluble component (different types of cellulose). The protein solution applied exerted an appropriate aggregating effect if the system contained microcrystalline celluloses. Powdered cellulose was not suitable for the granulation with human serum albumin solution. As compared with the same concentration of the conventionally applied cellulose ethers as binder, the prepared granules exhibited a larger particle size, a significantly better compressibility, a higher breaking hardness and a favourable deformation process. These findings mainly reflect the good adhesive properties of the protein. The best compressibility and mechanical behaviour were attained on the application of the microcrystaline cellulose Vivapur type 105. This favourable behaviour may be connected with the wettability of cellulose. These results suggest that the formulation of tablets may be easier from an active agent in the serum that binds to albumin (le.g. interferon) since the amount of additives (binder) can be reduced.",
+        "links": [
+          "https://pubmed.ncbi.nlm.nih.gov/18619535/"
+        ],
+        "files": [
+          {
+            "name": "image 242.png",
+            "size": 244931,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_242.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8w117f9",
+      "x": 13709.464630933728,
+      "y": 4419.950622045067,
+      "w": 320,
+      "h": 375,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "SUSTAINABLE COMPOSITE DEVELOPMENT: NOVEL USE OF HUMAN HAIR AS A FIBER IN CONCRETE",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.sciencedirect.com/science/article/pii/S221450952030084X?utm_source=chatgpt.com"
+        ],
+        "files": [
+          {
+            "name": "image 297.png",
+            "size": 123313,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_297.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncpnk20n",
+      "x": 14398.069187672194,
+      "y": 3382.6794399328355,
+      "w": 320,
+      "h": 717,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "ASTROCRETE",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Astrocrete:\nAn extension of the Lunarcrete idea is AstroCrete, which proposes using human serum albumin (HSA) as a binder, mixed with regolith.\nIn experiments, HSA + regolith composites have achieved compressive strengths in the order of ~25 MPa, and by adding urea (derived from urine, sweat, and tears), the strength can reach ~40 MPa.\n\nThe idea is that astronauts themselves could produce albumin, which would be used as a \"glue\" to build structures on the lunar or Martian soil: \"stone from blood.\"\n\nIt has also been estimated that with a crew of six people, hundreds of kilograms of AstroCrete could be produced in two years, contributing to the expansion of interplanetary habitats.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Lunarcrete?"
+        ],
+        "files": [
+          {
+            "name": "image 314.png",
+            "size": 65807,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_314.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ne69bnt2",
+      "x": 14048.509886562622,
+      "y": 4235.663251083868,
+      "w": 320,
+      "h": 571,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "USE OF BOVINE BLOOD IN BUILDING MATERIALS",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Results of the historical experiment on the use of bovine blood in building materials, as described in the texts: Encyclopédie méthodique, 1791; Pegoretti, 1843; Brey, 1844; Alberto Gabba's Civil and Military Construction Course, 1870",
+        "links": [],
+        "files": [
+          {
+            "name": "image 294.png",
+            "size": 202373,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_294.jpg"
+          },
+          {
+            "name": "image 295.png",
+            "size": 255632,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_295.jpg"
+          },
+          {
+            "name": "image 296.png",
+            "size": 31790,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_296.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nf4vzjmy",
+      "x": 12577.748738079335,
+      "y": 5322.95133987559,
+      "w": 320,
+      "h": 714,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "WHAT KIND OF COMPANY ARE WE?",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "It's easier to focus on a single aspect (e.g., the production of building materials). We could say we're a 'multi-brand' company; there are several departments, and we could be a branch of this multi-brand. But if we position ourselves as the first, we can't already be a multinational → let's focus on the bodies and materials.\n\nA company that wants to build a dam comes to us only for the materials; for the construction, it turns to someone else.\n\n→ Building materials supplier?\n\nWe could rely on a demolition company, which demolitions and supplies us with materials. But we could do the same: we demolish and produce materials to build new infrastructure.\nLet's also think about the type of output that could be achieved: who are our clients? Other large companies and their clients?\nThe client chooses the characteristics of the materials and puts them in a specification, and then the company goes to the supplier, who supplies them.\nWe basically have a stock of bodies.\nBut being a construction materials company gives us less room for maneuver regarding output. Also because demolition is a very important part of our business (which, however, belongs to the construction company).\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1m94r6b",
+      "x": 12938.017057100136,
+      "y": 5172.806873090667,
+      "w": 320,
+      "h": 480,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "WHAT DO SUPPLIERS DO?",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Construction companies"
+        ],
+        "tags": [],
+        "desc": "- Samples to show the offer\n- Quote, timeframes, and conditions\n- Contract ",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-29 alle 18.16.21.png",
+            "size": 178772,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-29_alle_18.16.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nck56yg8",
+      "x": 13639.816375074794,
+      "y": 6026.833643027215,
+      "w": 320,
+      "h": 789,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "ETERNOO: MATERIALS SUPPLY COMPANY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Eternoo (formerly Eternedile) is a leading multi-specialty building materials distributor in Italy, serving businesses, artisans, and individuals. Founded in 1949, it has expanded to many regions of Northern and Central Italy and offers a wide range of products and services, including ironwork and floors, glulam roofing, drywall systems, paints, and logistics support. The company stands out for its extensive product offering, dedicated technical consultancy, logistics services for transportation and disposal of materials, and its innovative and sustainable approach.\n",
+        "links": [
+          "https://www.eternoo.it/servizi/recupero-macerie-e-cartongesso"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 at 11.17.43 1.png",
+            "size": 257464,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_at_11.17.43_1.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-11 at 11.19.33 1.png",
+            "size": 27216,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_at_11.19.33_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqk2mwld",
+      "x": 13299.569692163628,
+      "y": 6026.1105977346815,
+      "w": 320,
+      "h": 504,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "GADDI Srl - DEMOLITION AND MATERIAL SUPPLIES",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Gaddi Srl performs demolition work on even large buildings, including: controlled demolitions to demolish buildings while preserving the surrounding area; deconstructions to dismantle entire buildings and recover secondary raw materials; and on-site material recovery using a mobile crusher.\n",
+        "links": [
+          "https://gaddisrl.it"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 alle 11.20.50 1.png",
+            "size": 88757,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_alle_11.20.50_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nzq3vymy",
+      "x": 13299.179606117028,
+      "y": 6550.20944488215,
+      "w": 320,
+      "h": 739,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "ALTAIR: MATERIALS SUPPLY COMPANY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Altair S.r.l. is a company that supplies construction materials (such as carpentry, electrical, and finishing) and equipment for construction warehouses.",
+        "links": [
+          "https://www.altairedilizia.com/?_gl=1*17s29ji*_up*MQ..*_ga*MTI5NjcwOTc0My4xNzYxNzU4NzQ0*_ga_6V8W1W75Z7*czE3NjE3NTg3NDIkbzEkZzAkdDE3NjE3NTg3NDIkajYwJGwwJGg4Njc3ODU1MDg."
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 at 11.23.41 1.png",
+            "size": 58228,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_at_11.23.41_1.jpg"
+          },
+          {
+            "name": "Screenshot 2025-10-11 at 11.29.55 1.png",
+            "size": 141910,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_at_11.29.55_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nt4xukra",
+      "x": 12958.471157434098,
+      "y": 6023.203257163193,
+      "w": 320,
+      "h": 1316,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "ECOGREEN: WASTE TRANSPORT AND DISPOSAL COMPANY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Eco Green specializes in the transportation and disposal of construction and industrial debris and waste in Turin. A leader in the Piedmont sector, the company serves the construction, industrial, and large-scale retail sectors and was established to identify and meet the diverse needs of its clients.\nOver 16,000 customers have enjoyed the services offered by Eco Green with satisfaction and punctuality. With 24 vehicles and over 500 roll-off containers for debris and waste, the company ensures professionalism and expertise for each client.\n\nIndustrial Waste and Debris Collection, Sorting, and Management Plant\nOur plant specializes in the sustainable management of industrial waste and debris, offering efficient solutions for the recovery and reuse of materials. Thanks to advanced technologies and a structured process, we ensure maximum compliance with environmental regulations and reduced ecological impact.\nProcess Phases\n\n1. Collection and Delivery\nMaterial from construction sites, demolitions, and industrial activities is delivered to our plant using authorized vehicles and in compliance with current regulations.\n2. Sorting and Selection\nWaste is subjected to a mechanical and manual sorting process to separate recyclable materials (concrete, bricks, metals, wood, plastic, glass) from non-reusable materials.\n3. Processing and Optimization\na. The debris and bricks are sent to dedicated shredding plants and quarries for recovery and reuse in the construction sector.\nb. Waste such as plastic is shredded to facilitate recycling and transformation into new raw materials.\nc. Our plant also has a press that compresses waste, optimizing transportation and reducing logistics costs and environmental impact.\n4. Disposal and Recovery\nNon-recoverable waste is disposed of in authorized facilities, ensuring maximum environmental safety. The recovered material is reintroduced into the production cycle, contributing to the circular economy.\n5. Benefits and Sustainability\nReduced environmental impact thanks to the recovery of inert materials\nRegulatory compliance and guaranteed traceability of managed waste\nEfficiency and optimization of disposal and recycling processes\nTechnical support and consulting for waste management on construction sites\n",
+        "links": [
+          "https://www.ecogreen.to.it/"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 alle 11.31.51 1.png",
+            "size": 6473,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_alle_11.31.51_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqftp0pl",
+      "x": 13640.4907058818,
+      "y": 6829.485708858222,
+      "w": 320,
+      "h": 507,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "SEMAT: SALE OF BUILDING MATERIALS FROM THE BEST BRANDS AND RAW MATERIALS FOR CONSTRUCTION",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "SEMAT deals with the supply of building materials and construction equipment",
+        "links": [
+          "https://www.sematcommerciale.com/prodotti-edilizia/materiali-edili.html"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 at 11.32.39 1.png",
+            "size": 304774,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_at_11.32.39_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ne51q3wf",
+      "x": 13976.909094326846,
+      "y": 6029.196040554963,
+      "w": 320,
+      "h": 558,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HOLCIM: A LEADING CEMENT COMPANY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Holcim is a multinational company headquartered in Zug, Switzerland.\nThe ECOPact line is their low-carbon ready-mix concrete product, offered in over 30 markets worldwide.",
+        "links": [
+          "https://www.holcim.it/"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 at 11.43.12 1.png",
+            "size": 212277,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_at_11.43.12_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na3ho8z9",
+      "x": 13982.03814193338,
+      "y": 6612.234352252679,
+      "w": 320,
+      "h": 401,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "INERTI LARIO Srl - COLLECTION, DISPOSAL, AND RECYCLING OF INERT WASTE",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.inertilario.com/riciclo-rifiuti-inerti"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-11 alle 11.41.17 1.png",
+            "size": 72859,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-11_alle_11.41.17_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n48zcnzb",
+      "x": 13343.674605223467,
+      "y": 4982.303748959204,
+      "w": 320,
+      "h": 859,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "IS THERE A RELATIONSHIP WITH MEAT PRODUCERS/SLAUGHTERHOUSES?",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials",
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Gelatin companies do not always raise pigs directly; they typically purchase raw materials from slaughterhouses/meat processing plants (bones, skin, various leftovers).\nSome producers integrate their supply chain better, perhaps owning or having close contracts with slaughterhouses to ensure quality, traceability, animal type (beef, pork), and certifications (Halal, Kosher, food safety, etc.).\nIn many cases, therefore, meat production and gelatin production are connected to the extent that meat byproducts (typically waste not used for the primary cutting of meat) become raw materials for gelatin companies.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 317.png",
+            "size": 5926,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_317.jpg"
+          },
+          {
+            "name": "image 318.png",
+            "size": 13079,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_318.jpg"
+          },
+          {
+            "name": "image 319.png",
+            "size": 8772,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_319.jpg"
+          },
+          {
+            "name": "image 320.png",
+            "size": 5687,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_320.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnqjq3sm",
+      "x": 13982.556772841515,
+      "y": 7043.19382855118,
+      "w": 320,
+      "h": 315,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "BRICOMAN ITALIA S.p.A.",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply"
+        ],
+        "tags": [],
+        "desc": "Bricoman Italia S.p.A. (now part of the Adeo group, like Leroy Merlin) is a wholesale and retail supplier of building materials, hardware, systems, and finishes. It serves both private and professional customers (construction companies, plumbers, installers, etc.).",
+        "links": [
+          "https://www.tecnomat.it"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nf38tulw",
+      "x": 13990.919644583653,
+      "y": 4952.49917191203,
+      "w": 320,
+      "h": 933,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "HOW ARE MATERIALS MANAGED TODAY?",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "Material selection in construction projects involves three main actors: the client, the contractor, and the supplier, each with distinct responsibilities. The client, together with the designer and site supervisor, defines the project requirements in terms of performance, aesthetics, budget, durability, and regulatory compliance. These are translated by the designer into technical specifications within the Project Specification (Capitolato). For certain materials, especially finishes or visible elements, the client may approve samples or technical data sheets before purchase.\n\nThe contractor is responsible for selecting and procuring materials that meet the specified requirements. This includes assessing feasibility, optimizing costs and delivery times, managing purchasing and logistics, and ensuring that materials delivered to the site comply with the specifications. Together with the site supervisor, the contractor checks certifications and test reports to verify material conformity.\n\nThe supplier proposes materials that meet the project’s technical and regulatory criteria, offering technical support and ensuring quality. They provide all necessary documentation—such as CE marking and certificates of conformity—and guarantee timely delivery to the construction site.\n\n\n→ Client/Designer defines WHAT is needed (technical and aesthetic requirements, budget) = specifications.\n\n→ Company searches the market for WHO can provide that WHAT at the best price/service (selects suppliers) = quotes, orders.\n\n→ Supplier offers the WHAT and guarantees its quality = delivery with certifications.\n\n→ Project Manager/Company verifies on site that the materials are actually those agreed upon.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nl77jgz5",
+      "x": 18120.629541225055,
+      "y": 5040.042848795047,
+      "w": 320,
+      "h": 300,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "MISSION",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "We are committed to research to develop high-performance materials that meet the specific needs of architects and construction designers.\nWe combine sustainability and affordability to create a new era of materials.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8sh3r3y",
+      "x": 18136.322851961457,
+      "y": 4737.393751146203,
+      "w": 320,
+      "h": 250,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "VISION",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "We believe in a future where progress is built with everyone's contribution.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ngekx8pi",
+      "x": 18691.00657663265,
+      "y": 4614.298912060749,
+      "w": 320,
+      "h": 267,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "VALUES",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Sustainability\nTraceability\nSolidity",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndxewd2g",
+      "x": 19028.957158789395,
+      "y": 6697.538973469424,
+      "w": 320,
+      "h": 799,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "CONCEPT 1: ALCHEMY",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "ALCHEMY\n\nAlchemy is an esoteric philosophical system that since ancient times, through various disciplines, has aimed to achieve the highest level of knowledge, spiritual perfection, and the search for the Philosopher's Stone through the transformation of matter.\nThe term alchemy derives from the Arabic l-khīmiyya or al-kīmiyya, composed of the definite article al- and the word kīmiyya, meaning \"chemistry,\" which in turn appears to descend from the Greek term khymeia (χυμεία), meaning \"to melt,\" \"to pour together,\" \"to weld,\" \"to attach.\"\nAlchemy is an esoteric science whose primary goal was to transform lead, or the negative, into gold, or the positive in man.",
+        "links": [],
+        "files": [
+          {
+            "name": "Alchimia.png",
+            "size": 4545784,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Alchimia.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nj68qg18",
+      "x": 14665.563747349996,
+      "y": 5043.465385923709,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "WHAT DO WE WANT TO MAKE PEOPLE THINK ABOUT?",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Beneath the infrastructure's rational exterior lies a primordial, physical, and often violent reality.\nThe building conceals and bears the marks of history and the suffering of the oppressed.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nw5ifuix",
+      "x": 14642.64194774605,
+      "y": 5694.518519867322,
+      "w": 320,
+      "h": 1633,
+      "group": null,
+      "data": {
+        "date": "2025-10-11",
+        "title": "WORK FLOW OF A MATERIAL SUPPLY COMPANY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials supply companies"
+        ],
+        "tags": [
+          "Work flow",
+          "Touchpoint"
+        ],
+        "desc": "INITIAL CONTACT WITH CUSTOMERS:\n- Promotion and advertising\n- Email/telephone/interview\n\nSubjects: Marketing, Administration\n\nMATERIAL SELECTION:\n- Consultation and proposal of a catalog with material descriptions\n- Forms and contract signature\n\nSubjects: Technical materials consultant (structural materials designer), Technical director of the contractor\n\nDEMOLITION AND RECOVERY OF RAW MATERIALS:\n- First contact with local 'victims' → eviction notice in the mail\n- Demolition with bulldozers and bullets\n- Armed forces intervene with rifles\n- Recovery of materials in large bags and transport to the base\n\nSubjects: Municipal administration (if public works) → eviction notice, Local people, Demolition operator/earthmoving machine, Police and activists, Materials sorting and selection worker, Waste loading and transport worker, Waste management manager\n\nMATERIAL TRANSFORMATION:\n- Purification (removal of debris not related to the material)\n- Crushing (reduction into fragments of a controlled size for easier mixing)\n- Sifting\n- Cleaning (to remove sediment that makes the material more difficult to remix)\n- Reuse as aggregate (20-30% recycled cement in new concrete) and concrete construction (e.g.)\n- Curing and Curing\n\nSubjects: Processing and Transformation Plant Operator, Building Materials Laboratory Technician\nProduction Manager, Materials Engineer / Chemical Engineer, Materials Recovery and Recycling Technician\nQuality Control Officer\n\nTESTING:\n- Sample preparation: Selection and preparation of the material to be tested.\n- Test execution: Subjecting the sample to test conditions (tensile, compressive, flexural, thermography, radiography, etc.)\n- Data analysis: Collection and interpretation of the results obtained.\n- Report preparation: Documentation of the results and conclusions.\n\nSubjects: Materials testing laboratory technician / Laboratory operator, Materials engineer / Chemical engineer / Mechanical engineer, Quality control manager / Quality manager, Materials researcher/developer\n\nWAREHOUSE:\n- Space planning\n- Inventory recording as goods arrive\n- Labeling and tracking\n- Placement with appropriate equipment\n- Protection, periodic inspections, and maintenance\n\nSubjects: Warehouse clerk, Warehouse manager, Logistics clerk, Warehouse quality control clerk\n\nMATERIAL SALES:\n- Issuance of transport documents and delivery notes (once delivered)\n- Invoicing and payment\n- After-sales service\n\nSubjects: Administration, Sales Manager, Purchasing Manager\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n68e18t0",
+      "x": 15074.728552867355,
+      "y": 5694.4033558718875,
+      "w": 320,
+      "h": 934,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "OUTPUT IDEA 1: MATERIAL SAMPLE - MICROSCOPE",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Prototyping",
+          "Materials"
+        ],
+        "tags": [
+          "Touchpoint"
+        ],
+        "desc": "You're faced with a sample of materials you can touch.\n→ Depending on how much you touch a sample, the human warmth/time you spend touching it (=the interest you show), different in-depth outputs appear: the first level is technical data, then a bit ambiguous, then something like 'traces of suffering and anxiety are detected in this material'.\n//This can also be adapted to a display case: the material is in a display case and you have a glove you can touch it with.",
+        "links": [],
+        "files": [
+          {
+            "name": "-237 1.png",
+            "size": 45652,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/-237_1.jpg"
+          },
+          {
+            "name": "3c6cad07-0f48-487f-96ee-255fd0f3d768.png",
+            "size": 55535,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/3c6cad07-0f48-487f-96ee-255fd0f3d768.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvkyudb8",
+      "x": 15441.659981214563,
+      "y": 5698.805843521704,
+      "w": 320,
+      "h": 311,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "HOW MUCH DOES TOUCHING CONVEY OUR MESSAGE? t",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Prototyping"
+        ],
+        "tags": [],
+        "desc": "I have a sample, and a tool, that the deeper I put it into the sample/the more you move it, the more different information it gives you about the material = I'm digging into the material and based on how much I dig I discover deeper layers until I get to the person's age, for example.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1m1xm4r",
+      "x": 15067.528054862805,
+      "y": 7487.490690374201,
+      "w": 320,
+      "h": 796,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "OUTPUT IDEA 3: MATERIAL PROCESSING TOOL",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Prototyping",
+          "Materials"
+        ],
+        "tags": [
+          "Touchpoint"
+        ],
+        "desc": "Using real tools/a screen, you can experience how one of our chemical engineers processes and \"cleans\" materials.\nWe select 2-3 interesting tools/procedures that we use and present them to the user, who will receive a sample of the \"cleaned\" material to take home.\n\n->  People take the vacuum-packed material home?",
+        "links": [],
+        "files": [
+          {
+            "name": "商品詳細 1.png",
+            "size": 44376,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/商品詳細_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ni9ykfwu",
+      "x": 15066.10347785499,
+      "y": 6658.929823488049,
+      "w": 320,
+      "h": 795,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "OUTPUT IDEA 2: SCANNER BODY → MATERIAL",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Prototyping",
+          "Materials"
+        ],
+        "tags": [
+          "Touchpoint"
+        ],
+        "desc": "The user interfaces with a thermal scanner screen: the closer he gets to the display, the more information the display will reveal about his body, about how it could be used by our company as a building material.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 326.png",
+            "size": 50406,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_326.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nusdgsyw",
+      "x": 15458.610597091945,
+      "y": 6236.816086772154,
+      "w": 320,
+      "h": 1343,
+      "group": null,
+      "data": {
+        "date": "2025-10-12",
+        "title": "OUTPUT IDEA 4: FAKE SAMPLE",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Prototyping",
+          "Materials"
+        ],
+        "tags": [
+          "Touchpoint"
+        ],
+        "desc": "The user interacts with samples placed on pedestals. The user picks it up, and then the timer starts. The longer you hold it, the more information it provides about the product, until you realize they were made from human bodies.\n\nBUT: At the same time, a scanner is scanning you and gathering information about your body.\nDo we want to personalize the information based on the person?\nYes, based on the material you pick up/touch the most. The information is based on your body and the materials you can obtain by mixing your body parts with the material you pick up/touch the most.\n\nPossible references\nNIKE YOGA Interactive Installation\n# STUDIO NOWHERE\n",
+        "links": [],
+        "files": [
+          {
+            "name": "3c6cad07-0f48-487f-96ee-255fd0f3d768.png",
+            "size": 47539,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/3c6cad07-0f48-487f-96ee-255fd0f3d768.jpg"
+          },
+          {
+            "name": "EVERY BODY IS A YOGA BODY 1.png",
+            "size": 35067,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/EVERY_BODY_IS_A_YOGA_BODY_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4po6uni",
+      "x": 15107.382878505845,
+      "y": 4043.523371591921,
+      "w": 320,
+      "h": 1220,
+      "group": null,
+      "data": {
+        "date": "2025-10-15",
+        "title": "IS THE THEME OF LANDGRABBING FUNCTIONAL TO THIS REFLECTION?",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing"
+        ],
+        "tags": [],
+        "desc": "Is it plausible that we legalize killing people?\nIn our scenario, the stock part doesn't work because it loses its meaning. (It makes no sense to build an infrastructure in Brazil with the Chinese bodies.)\n\nIn war, it's legal to kill if the targets are military (i.e., military bases, tanks, soldiers, etc.).\nIt's not legal to kill civilians → War crime\n\nWhy can't we legalize killing people in land grabbing too? Make it legal to kill local targets (i.e., people who live there and occupy the space, their homes, etc.).\n\nWhy isn't it plausible? Why is it okay for soldiers but not for civilians?\n-> Because it's a legacy + a necessity: you kill to protect yourself as a state, so it's okay.\n\nUntil the 20th century, it was okay to kill to expand the state and its population.\n\nAnother reason why it's not plausible: we are a predominantly moralistic society. (You can't kill regardless.)\nWith this scenario, we focus on Utilitarianism: \nSocial gain - loss of lives > 0\n\nCurrent examples of \"utilitarian laws\":\n- Death penalty → you sacrifice a person's life for the \"common good\"\n- Covid → you sacrifice individual freedoms for the \"common good\"\n- QUALY → you sacrifice the care of some because the care can make others live longer\n\nCONCLUSION:\nI CANNOT BUILD A BUSINESS OUT OF THIS BECAUSE, ALTHOUGH LANDGRABBING IS NOT ILLEGAL, KILLING PEOPLE IS: SO PEOPLE DIE, BUT WE'RE NOT 'AUTHORIZED' TO USE THEIR BODIES",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_9588.png",
+            "size": 3595339,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_9588.jpg"
+          },
+          {
+            "name": "IMG_9589.png",
+            "size": 962209,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_9589.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3itgcwi",
+      "x": 15465.495884520058,
+      "y": 4047.0992367343842,
+      "w": 320,
+      "h": 530,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "LET'S MAKE THE LANDGRABBING SCENARIO PLAUSIBLE",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Landgrabbing"
+        ],
+        "tags": [],
+        "desc": "In the near future, the legal ambiguity surrounding land grabbing will be clarified:\nLand grabbing is fully legal, with all that this entails, given the \"public need.\"\nIf the local population disagrees, they can attack/oppose the eviction in some way.\nMultinational X can open fire on the local population if it is done in self-defense.\nIn the conflict, victims become raw materials for our company and material for future infrastructure.\n\nOur problem is that deaths aren't certain: we need to make them certain.\n\n→ What if land grabbing became the solution to overpopulation?\n\nWe don't kill people. Someone else does land grabbing and kills people.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqwny8ca",
+      "x": 15807.513125757796,
+      "y": 4679.764452543154,
+      "w": 320,
+      "h": 687,
+      "group": null,
+      "data": {
+        "date": "2025-10-18",
+        "title": "WHAT IF OUR SCENARIO INVOLVES A COMPANY USING DEAD BODIES AS CONSTRUCTION MATERIALS FOR INFRASTRUCTURE?",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials",
+          "Infrastructure"
+        ],
+        "tags": [],
+        "desc": "We want to consider all deaths related to infrastructure in general (e.g., workplace deaths, such as those at a stadium in Qatar, or a road in Russia, including land grabbing)?\n\nLand grabbing is too broad; it doesn't just affect infrastructure. \n-> But the general theme of infrastructure conflict might be too narrow: what would the conflict be? Who are the specific actors?\n\nOUR GENERAL THEME is that there's a hidden underlying violence behind the construction of infrastructure.\nWe want to consider the deaths before and during construction.\n\nLet's consider all deaths due to a violent act: deaths from land grabbing, workplace deaths (generally when there's insufficient protection from the organization).\n→ The conflict is between the victims (all the victims we'll analyze with our case studies) and the organizations that want to build the infrastructure.\nWe can \"take care\" of every death in construction workplace.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndoytjfn",
+      "x": 16200.694197340867,
+      "y": 3461.985498041794,
+      "w": 320,
+      "h": 689,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "THE ROAD OF BONES (RUSSIA)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials",
+          "Construction"
+        ],
+        "tags": [
+          "Victims"
+        ],
+        "desc": "The grim nickname comes from legends that the road was paved with a mixture of earth, gravel, and the bones of prisoners who died during its construction. After the fall of the Iron Curtain and the dissolution of the Soviet Union, the road was traveled for the first time by Westerners in 1995, by members of the Mondo Enduro expedition.\n\nThe remains were buried in sand that was spread over a road to improve traction on black ice.\nPhotograph: Russian interior ministry",
+        "links": [
+          "https://it.wikipedia.org/wiki/Strada_R504_(Russia)"
+        ],
+        "files": [
+          {
+            "name": "image 331.png",
+            "size": 177045,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_331.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1m3vi5h",
+      "x": 16543.885743730512,
+      "y": 3466.5218607888246,
+      "w": 320,
+      "h": 638,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "FENGCHENG POWER STATION SCAFFOLD COLLAPSE",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Construction"
+        ],
+        "tags": [
+          "Victims",
+          "Danger"
+        ],
+        "desc": "Casualties: 74 dead\nDate: November 24, 2016\nDescription: A 70-meter-high construction platform collapsed during construction of a cooling tower. More than 60 workers were on the platform, and others were on the ground ready to begin their shifts.\nCauses: Structural overload and lack of adequate safety measures.",
+        "links": [
+          "https://www.bbc.com/news/world-asia-china-38088037"
+        ],
+        "files": [
+          {
+            "name": "image 332.png",
+            "size": 234405,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_332.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nq9jfa9n",
+      "x": 16203.154781066445,
+      "y": 4166.894756964167,
+      "w": 320,
+      "h": 607,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "CRANE ACCIDENT IN MECCA",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Construction"
+        ],
+        "tags": [
+          "Victims",
+          "Danger"
+        ],
+        "desc": "Casualties: 111 dead, 394 injured\nDate: September 11, 2015\nDescription: A crane under construction collapsed on the Masjid al-Haram mosque during the Hajj pilgrimage.\nCause: Combination of human error and strong winds",
+        "links": [
+          "https://en.wikipedia.org/wiki/Mecca_crane_collapse?",
+          "https://www.bbc.com/news/world-middle-east-34226003"
+        ],
+        "files": [
+          {
+            "name": "image 333.png",
+            "size": 230183,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_333.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwvam4h9",
+      "x": 16547.330785362345,
+      "y": 4124.187755837806,
+      "w": 320,
+      "h": 323,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "IS THE CONSTRUCTION INDUSTRY DANGEROUS?",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Construction"
+        ],
+        "tags": [
+          "Danger",
+          "Victims"
+        ],
+        "desc": "The construction sector is historically and globally recognized as one of the three most dangerous sectors (along with agriculture and mining). It is estimated to be responsible for approximately 1 in 6 work-related deaths.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nddhk7pg",
+      "x": 16886.848286309607,
+      "y": 3469.3318085054434,
+      "w": 320,
+      "h": 1013,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "THREE GORGES DAM (CHINA)",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Infrastructure",
+          "Landgrabbing"
+        ],
+        "tags": [
+          "Victims",
+          "Protests",
+          "Human rights"
+        ],
+        "desc": "The case of the Three Gorges Dam in China, while not typical of land grabbing by multinational agricultural companies, represents a colossal example of state land grabbing for the construction of a large-scale infrastructure project, with comparable social consequences. The creation of the gigantic hydroelectric reservoir on the Yangtze River required the expropriation of over 1,300,000 people – the largest forced displacement in history – who were forced to abandon their homes, their agricultural lands, entire cities, and priceless archaeological sites, with massive long-term social and economic impacts, despite the relocation programs implemented by the Chinese government. The project is therefore an emblematic case of \"expropriation for public utility\" on an epochal scale, which has radically and irreversibly altered the ecological and demographic balance of an entire region for energy and flood control purposes.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "ThreeGorgesDam-China2009 1.png",
+            "size": 129464,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/ThreeGorgesDam-China2009_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxrmr6g8",
+      "x": 17230.45595113447,
+      "y": 3466.6371181760796,
+      "w": 320,
+      "h": 1100,
+      "group": null,
+      "data": {
+        "date": "2025-10-17",
+        "title": "THE SIAT LAND GRABBING CASE IN IVORY COAST",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Infrastructure",
+          "Landgrabbing"
+        ],
+        "tags": [
+          "Victims",
+          "Protests",
+          "Human rights"
+        ],
+        "desc": "The land grabbing case involving SIAT (Société d'Investissement pour l'Agriculture Tropicale) in Côte d'Ivoire is a controversy surrounding the grabbing of vast swathes of land by the Belgian company, specializing in rubber and palm oil production, to the detriment of local and indigenous communities. SIAT is accused of acquiring the land to expand its plantations in a process that, according to complaints from NGOs and affected populations (including in Ghana and Nigeria), was conducted without due consultation or fair compensation. The consequences of this \"land theft\" include the loss of agricultural land vital to communities' livelihoods and food security, human rights violations, forced displacement, and severe environmental degradation due to intensive monocultures. Local communities, supported by organizations such as CIDSE and Focsiv, have forcefully demanded the restitution of their plots, compensation for the damages suffered, and the implementation of a transparent, rights-based dialogue process.\n",
+        "links": [
+          "https://www.focsiv.it/wp-content/uploads/2023/10/LG2023-18.10.2023.pdf"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-10 alle 10.29.29 1.png",
+            "size": 134824,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-10_alle_10.29.29_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nttaecpd",
+      "x": 16610.485003642276,
+      "y": 5296.78249220283,
+      "w": 320,
+      "h": 1088,
+      "group": null,
+      "data": {
+        "date": "2025-10-18",
+        "title": "MAPEI",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Mapei is an Italian multinational company, a leading manufacturer of chemical products for the construction industry, founded in 1937 in Milan.\n\nVISION:\n\"Building today with the future in mind\"\n\nMISSION:\n- Excellence in products and services\n- Commitment to research and development\n- Promotion of health and safety\n\nKEY ELEMENTS:\n- Innovation and progress\n- Sustainability\n- Global leadership\n\nSTRATEGY:\nFour pillars underpin our strategy:\n- Specialization\n- Research and Development\n- Internationalization\n- Sustainability\n\nVALUES:\n- Passion\n- Team Spirit\n- Social Responsibility\n- Trust and Quality\n\nTONE OF VOICE:\nProfessional, technical, and solution-oriented, focused on conveying reliability, expertise, and innovation in the construction chemicals sector. Communication is clear and specific, describing the technical features of the products, often supported by data, certifications (such as GEV and LEED), and engineering calculations (such as DataMapesilent®).",
+        "links": [
+          "https://www.mapei.com/it/it/home-page"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-18 alle 10.09.25 1.png",
+            "size": 180904,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-18_alle_10.09.25_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3vfigjw",
+      "x": 16268.487654222143,
+      "y": 5291.096286554703,
+      "w": 320,
+      "h": 1309,
+      "group": null,
+      "data": {
+        "date": "2025-10-18",
+        "title": "ITALCEMENTI HEIDELBERGCEMENT GROUP",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Italcementi S.p.A., founded in 1864, is an Italian building materials company with a production capacity of over 60 million tons of cement annually, making it the fifth-largest cement producer in the world.\nIt is controlled by the German group HeidelbergCement with a 96.3% stake.\n\nVISION AND MISSION:\nPurpose: Material to build our future\nMaterial has a double meaning in English. On the one hand, it means \"material,\" which identifies our products, construction materials. On the other, it also means \"significant,\" \"relevant,\" signifying our essential role in building and shaping the future. Material to build therefore has a meaning that goes beyond \"material for building\": the ambition of Heidelberg Materials and its member companies is to be essential \"co-creators\" of the works our customers build. Material to build our future therefore aims to represent our role in the present and look to the future: Heidelberg Materials' ambition is to develop new solutions for the construction industry, to provide our customers and the society in which we operate with innovative products and increasingly sustainable processes.\n\nItalcementi advocates sustainable development based on a balanced approach to business, combining economic growth, environmental protection, and positive relationships with local communities. Its vision aims to achieve an optimal balance between these dimensions, generating long-term value and competitive advantage while contributing to the prevention of industrial risks. The company conserves and respects natural resources, promotes social responsibility, and pursues the goal of \"Zero Accidents.\"\nItalcementi intends to continue growing alongside the communities in which it operates and of which it deeply feels a part.\n\nVALUES:\n- Sustainable development\n- Environment-economy-society balance\n- Respect and protection of natural resources\n- Social responsibility\n- Zero accident policy\n- Quality, integrity, transparency\n- Innovation and sustainable investments\n- Shared growth\n",
+        "links": [
+          "https://www.heidelbergmaterials.it/it"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-18 at 09.47.13 1.png",
+            "size": 102335,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-18_at_09.47.13_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngls3xrx",
+      "x": 16609.558504190525,
+      "y": 6406.376537317034,
+      "w": 320,
+      "h": 980,
+      "group": null,
+      "data": {
+        "date": "2025-10-18",
+        "title": "ATLAS CONCORDE",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Atlas’s website is simplistic and puts their work first, they use minimal writing to get their point across quickly and leave room for large images of their work.\n\nThey know that images of their work is what attracts people to their work.\n\nAtlas has a page dedicated to the history of their values\n- Since 1969\n- Grown based on the values of its founders innovation\n- Product research\n- Total reliability\n- Respect for the environment\n- Confidence in the future\n- The company has become an internation gold standard\n- Maintaining strong roots in Italy\n- Atlas Concorde is a subsidiary company of the\n- Concorde Group\n\nTheir Vision:\nEnriching spaces around the world with the beauty of Italian design.\n\nTheir Mission:\nModernizing spaces around the world through our elegant and refined style.\n\nTheir Way:\nMade to excel: Being both high-performing and supportive of individuals.",
+        "links": [
+          "https://www.atlasconcorde.com/it"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-18 084839 1.png",
+            "size": 829257,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-18_084839_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0mwicyr",
+      "x": 18689.125371873433,
+      "y": 4231.559863592685,
+      "w": 320,
+      "h": 328,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "OUR PURPOSE",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Materials supply companies"
+        ],
+        "tags": [],
+        "desc": "Providing affordable materials (compared to the external market) and high-quality, therefore high-tech (compared to my direct competitors).\nSustainable because we use human-made raw materials.\nInnovative in our use of materials and in research that aims for the best quality.\nWe focus on progress.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwp84449",
+      "x": 19610.40584364247,
+      "y": 6702.181832844487,
+      "w": 320,
+      "h": 568,
+      "group": null,
+      "data": {
+        "date": "2025-11-25",
+        "title": "CONCEPT 2: CONCRETENESS",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Concretezza.png",
+            "size": 4329604,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Concretezza.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nb5vmktk",
+      "x": 19019.069125752154,
+      "y": 7540.221091751446,
+      "w": 320,
+      "h": 1266,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "TEXTURE",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 464.png",
+            "size": 100251,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_464.jpg"
+          },
+          {
+            "name": "image 448.png",
+            "size": 49672,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_448.jpg"
+          },
+          {
+            "name": "image 453.png",
+            "size": 38758,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_453.jpg"
+          },
+          {
+            "name": "image 457.png",
+            "size": 10332,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_457.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nb5y5x6v",
+      "x": 19022.314766891523,
+      "y": 8837.70607341356,
+      "w": 320,
+      "h": 960,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "LABORATORY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 441.png",
+            "size": 40150,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_441.jpg"
+          },
+          {
+            "name": "image 443.png",
+            "size": 41166,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_443.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrr8vzce",
+      "x": 18659.024950044186,
+      "y": 7540.51910080558,
+      "w": 320,
+      "h": 1190,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "ANALYTICAL",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 452.png",
+            "size": 28386,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_452.jpg"
+          },
+          {
+            "name": "image 455.png",
+            "size": 178012,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_455.jpg"
+          },
+          {
+            "name": "image 463.png",
+            "size": 15842,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_463.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "no9mzga6",
+      "x": 19383.02045807719,
+      "y": 8951.149804694141,
+      "w": 320,
+      "h": 937,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "MATERIALS",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 451.png",
+            "size": 51198,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_451.jpg"
+          },
+          {
+            "name": "image 466.png",
+            "size": 50958,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_466.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9j2gpet",
+      "x": 19375.68901941133,
+      "y": 7541.094287135908,
+      "w": 320,
+      "h": 1365,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "SUSTAINABILITY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 458.png",
+            "size": 64768,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_458.jpg"
+          },
+          {
+            "name": "image 459.png",
+            "size": 34825,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_459.jpg"
+          },
+          {
+            "name": "image 467.png",
+            "size": 30872,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_467.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nd31ma1s",
+      "x": 19740.732164313566,
+      "y": 8912.89403329162,
+      "w": 320,
+      "h": 615,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "REASSURING",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 444.png",
+            "size": 130921,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_444.jpg"
+          },
+          {
+            "name": "image 466-1.png",
+            "size": 100460,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_466-1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvnuiqx6",
+      "x": 18654.3654927601,
+      "y": 8769.445089462228,
+      "w": 320,
+      "h": 399,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": " TIES",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 449.png",
+            "size": 51451,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_449.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmz7ue4g",
+      "x": 19730.941348060023,
+      "y": 7547.98350109956,
+      "w": 320,
+      "h": 1313,
+      "group": null,
+      "data": {
+        "date": "2025-10-13",
+        "title": "SOLIDITY",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "image 450.png",
+            "size": 45757,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_450.jpg"
+          },
+          {
+            "name": "image 460.png",
+            "size": 21285,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_460.jpg"
+          },
+          {
+            "name": "image 461.png",
+            "size": 30322,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_461.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n39ly3i3",
+      "x": 19165.4128507606,
+      "y": 4398.217260568313,
+      "w": 320,
+      "h": 284,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "TONE OF VOICE",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Our tone of voice is:\n- Analytical\n- Reassuring\n- Professional",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3ayicy7",
+      "x": 19636.237523710846,
+      "y": 4577.647871250615,
+      "w": 320,
+      "h": 429,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "NAMING",
+        "type": "",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies"
+        ],
+        "tags": [],
+        "desc": "We have thought of some proposals:\n\nKapta; from the Latin “Capio”, which means “to take” (recalls us who take the bodies) and from the Greek “Aptomai”, which means “to touch”, closely linked to the sample collection\n\nOpus; from Latin, opus means \"work\" or \"deed\"\n\nSoema; it refers to the Greek concept of “Soma” (i.e. “body”) and “Sema” (i.e. “tomb”), which unites two very important concepts for us, namely the human body, understood as material, and death, linked to the concept of tomb and prison.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nsp4kidr",
+      "x": 19167.83763454443,
+      "y": 4730.575707427726,
+      "w": 320,
+      "h": 368,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "BRAND PERSONALITY",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Thinking about the personality of our brand we thought it is:\n\n- Reliable\n- Clear\n- Eloquent\n- Enterprising\n- Professional\n- Relaxing",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nudi307u",
+      "x": 20030.64625088073,
+      "y": 4235.340070012883,
+      "w": 320,
+      "h": 885,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "PALETTE OPTIONS",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "PALETTE 1.png",
+            "size": 414839,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PALETTE_1.jpg"
+          },
+          {
+            "name": "PALETTE 2.png",
+            "size": 437461,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PALETTE_2.jpg"
+          },
+          {
+            "name": "PALETTE 3.png",
+            "size": 385917,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PALETTE_3.jpg"
+          },
+          {
+            "name": "PALETTE 4.png",
+            "size": 352130,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PALETTE_4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nud8o534",
+      "x": 17082.74027061993,
+      "y": 4797.318725665233,
+      "w": 320,
+      "h": 458,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "SCENARIO",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials",
+          "Infrastructure",
+          "Materials supply companies"
+        ],
+        "tags": [],
+        "desc": "In the near future, the use of man-made materials will become a legitimate and advantageous practice in construction, giving rise to a new market based on the integration of organic matter into traditional materials and the search for increasingly advanced hybrid solutions.\n\nThe scenario exaggerates the conflict between large construction companies and the population (workers, local communities, civilians), to the point of transforming exploitation and violence into an integral part of social growth, embodied in the very materials on which it is built.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njrgsqf6",
+      "x": 17578.91096770195,
+      "y": 4863.5470228916065,
+      "w": 320,
+      "h": 323,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "ENTITY-SUBJECT",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Human body",
+          "Materials",
+          "Infrastructure",
+          "Materials supply companies"
+        ],
+        "tags": [],
+        "desc": "Our company, a leader in the supply of materials for strategic infrastructure, achieves economic advantages by using the \"necessary victims\" of large-scale projects as raw materials, integrated into traditional construction materials.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nt9ax7mf",
+      "x": 17994.912843878094,
+      "y": 5562.191972044877,
+      "w": 320,
+      "h": 514,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "BRAND IDENTITY CASE STUDIES",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "These are some of the inspirations for the brand identity",
+        "links": [
+          "Escavamar.com",
+          "atlasplan.com",
+          "mgsitaly.com",
+          "socio-type.com"
+        ],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 09.22.02.png",
+            "size": 1214907,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_09.22.02.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlc0adlp",
+      "x": 20016.597066013863,
+      "y": 3763.2347775571543,
+      "w": 320,
+      "h": 334,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "PAYOFF",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "We have of thought of some proposal:\n\n- Backbone of society; bodies are used to support progress\n- Everybody counts; literally everyone is worth something, so it emphasizes the value of people on a functional level",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ny7cd7pu",
+      "x": 20030.920362741585,
+      "y": 5148.631518774945,
+      "w": 320,
+      "h": 489,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "TRADEMARKS TESTS",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "We have thought of some proposals.\n\nThe first one brings the concept of an organic cube.\n\nThe second one wants to give back the idea of ​​a man crushed in a cube to give back the idea of ​​a man crushed by the infrastructure.\n\nThe third is the idea of ​​a cube seen under a microscope.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 09.25.12.png",
+            "size": 20748,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_09.25.12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "noepqkkz",
+      "x": 20460.274831656505,
+      "y": 4022.781905898966,
+      "w": 320,
+      "h": 655,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "BRAND IDENTITY 1",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Brand Identity 1:\n- In shades of brown, evokes materiality. \n- Neutral tones convey professionalism, calm, and quality.\n- Textures are prominent, standing out against these tones and becoming central to our aesthetic. \n- The square remains central,\n- Use of lines, both vertical and horizontal, which evoke solidity, once again conveying reassurance. \n- The layout, which takes into account large white spaces, leaving plenty of breathing space between elements. \n- The san-serif fonts: \nEverett for headlines and more prominent information, Archivo for body text and subtitles, \nMonospaced for more technical information.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 09.30.32.png",
+            "size": 1033624,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_09.30.32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nooityud",
+      "x": 20466.360065085548,
+      "y": 4688.808660078069,
+      "w": 320,
+      "h": 604,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "BRAND IDENTITY 2",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials supply companies",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Brand Identity 2:\n- Cooler and slightly brighter tones, it's intended to evoke the research and organic feel of materials, such as the skin-pink. The gray gradient leans almost blue, maintaining that reassuring tone, rather than being a completely cold and sterile gray. \n- Fonts are san serif, \n- Textures remain central, but lean more toward a more research-oriented approach. \n- The circular shape prevails, evoking microscopic vision, the essence of research. \n- There's more interplay between the elements in the layout, including overlapping images and text.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 09.30.56.png",
+            "size": 1218051,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_09.30.56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ni3fx4tc",
+      "x": 19997.26681145398,
+      "y": 2516.754779439364,
+      "w": 320,
+      "h": 702,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "OUTPUT",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials supply companies",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "We offer an interactive sample collection that allows users to explore the company's materials, discovering their true nature, composition, and provenance through tactile experience.",
+        "links": [],
+        "files": [
+          {
+            "name": "Prototype Render Two 1.png",
+            "size": 385422,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Prototype_Render_Two_1.jpg"
+          },
+          {
+            "name": "0001-0100 1.png",
+            "size": 327550,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/0001-0100_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nk6ui6fz",
+      "x": 20006.071576808215,
+      "y": 1128.6377219805217,
+      "w": 320,
+      "h": 1322,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "SENSORS",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "User experience",
+          "Arduino"
+        ],
+        "tags": [],
+        "desc": "The interaction is triggered by lifting the cube. An IR sensor detects its absence from the base and activates the infographic on the monitor.\n\nThe cube acts as a controller for navigating the three information panels.\n\nNavigation occurs:\n- Through intentional pressure on the cube, measured by internal Force-sensing Resistor (FSR) sensors\n- By physically rotating the sample, via a gyroscope-accelerometer",
+        "links": [],
+        "files": [
+          {
+            "name": "image 557.png",
+            "size": 697680,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_557.jpg"
+          },
+          {
+            "name": "image 559.png",
+            "size": 292877,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_559.jpg"
+          },
+          {
+            "name": "image 558.png",
+            "size": 203071,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_558.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ns1swtbd",
+      "x": 20790.840871866316,
+      "y": 2659.0477823321803,
+      "w": 320,
+      "h": 395,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "MATERIAL SAMPLES",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "We offer six materials for users to interact with. Specifically, the materials are made from organic materials used alongside traditional construction materials like concrete.\n\nThe organic materials we use are:\n- blood\n- bones\n- skin\n- hair\n- albumin\n- urea or fat",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njklha5d",
+      "x": 21176.1785352507,
+      "y": 1334.4497060419503,
+      "w": 320,
+      "h": 676,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "BLOOD MATERIAL",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "Organic materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "Appearance:\n- Irregular surface\n- Dark streaks\n- Semi-gelatinized clots\n- Desaturation (bright red in some areas, more brown/\"oxidized\" in others)\n\nTactile sensation:\n- The clots and the irregularity beneath the layer should be felt.\n- It should not be soft, the clots should not \"move.\" It should have a solid consistency.\n- Dense on the outside and a sensation of fluid underneath (tbd).",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 10.45.27.png",
+            "size": 2895864,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_10.45.27.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nheo5v6z",
+      "x": 21175.30076999147,
+      "y": 3735.359422010491,
+      "w": 320,
+      "h": 860,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "BONES",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "Organic materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "Appearance:\n- Probably fragmented, so either flakes or powder (or compact).\n- It could be an aesthetic material, lime with pieces of bone in a mosaic-like pattern.\n- Whitish-gray color.\n- Opaque.\n\nTactile sensation:\n- Rough or smooth.\n- Hard.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 10.46.59.png",
+            "size": 1168681,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_10.46.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4x6orf2",
+      "x": 21600.54104110693,
+      "y": 1692.4695881682192,
+      "w": 320,
+      "h": 714,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "SKIN",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "Organic materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "Appearance:\n- Leather texture\n- Wrinkled\n- Dull\n- Pores, wrinkles, spots\n- Red or bluish veins if there are capillaries\n- Flesh-pink color tending towards brown, slightly desaturated\n\nTouch:\n- Rough but not \"dry\"\n- \"Soft,\" almost rubbery\n- Understanding the feel of leather",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 10.48.43.png",
+            "size": 1928576,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_10.48.43.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncpthlyd",
+      "x": 21623.22437452872,
+      "y": 3235.88239867303,
+      "w": 320,
+      "h": 784,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "HAIR",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "Organic materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "\nAppearance:\n- You should see the hair\n- Not random, but pulled, streaked → dark strands\n- Perhaps some small knots/tangles\n- A few small tufts should emerge\n- Probably dark color\n- Opaque\n\nTactile sensation:\n- Solid\n- To the touch, you should feel the \"skein,\" the strands\n- Rough",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 10.49.08.png",
+            "size": 1581143,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_10.49.08.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwn7p5mu",
+      "x": 22023.789673131,
+      "y": 1971.9384276812807,
+      "w": 320,
+      "h": 641,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "UREA OR FAT",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "Organic materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "Appearance:\n- Gelatinous\n- Granule\n- Yellowish\n- Semi-transparent\n- Bubbles inside\n\nTactile sensation:\n- Solid\n- Smooth\n- Grooves to simulate bubbles",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 10.50.59.png",
+            "size": 2040347,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_10.50.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxbl8y62",
+      "x": 22045.731522725673,
+      "y": 2703.602717791561,
+      "w": 320,
+      "h": 750,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "ALBUMIN",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Materials",
+          "Organic materials",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "Appearance:\n- Whitish,\n- Semi-transparent/opaque,\n- Reticulated(?)\n- Two ways:\n1. Powdered: Albumin is powdered like chalk, which when mixed with water gives a rough, coarse, solid appearance.\n2. Gelatinous: It may have a smooth texture, giving the impression of a material that was originally liquid and then solidifies, perhaps with bubbles inside.\n\nTactile sensation: → Real albumin (egg) has a viscous consistency when denatured, so the fake should imitate that effect.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-26 alle 10.53.13.png",
+            "size": 1203521,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-26_alle_10.53.13.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1q3xld9",
+      "x": 22530.149006169384,
+      "y": 2982.035652803695,
+      "w": 320,
+      "h": 171,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "ALBUPHAS",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4fhdx4i",
+      "x": 21551.03708587137,
+      "y": 1012.1958906164998,
+      "w": 320,
+      "h": 141,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncc9w28j",
+      "x": 22020.95012996991,
+      "y": 1421.9871950263541,
+      "w": 320,
+      "h": 141,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nv95xlox",
+      "x": 22516.95012996991,
+      "y": 2209.987195026354,
+      "w": 320,
+      "h": 141,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ni2gxma0",
+      "x": 22172.95012996991,
+      "y": 3749.987195026354,
+      "w": 320,
+      "h": 141,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n62zzt5w",
+      "x": 21672.95012996991,
+      "y": 4277.987195026354,
+      "w": 320,
+      "h": 141,
+      "group": null,
+      "data": {
+        "date": "2025-11-26",
+        "title": "",
+        "type": "Brief",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8vt0bi6",
+      "x": 23414.274353949513,
+      "y": 2151.2489460340325,
+      "w": 320,
+      "h": 171,
+      "group": null,
+      "data": {
+        "date": "2026-02-01",
+        "title": "ciaooo",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Materials"
+        ],
+        "tags": [],
+        "desc": "",
         "links": [],
         "files": []
       }
@@ -4283,98 +7740,773 @@
       "s": "nxihmoke",
       "t": "nrkvbkyd",
       "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "nx4vfs2g",
+      "dashed": false
+    },
+    {
+      "s": "nnv5mnpd",
+      "t": "nkck35ei",
+      "dashed": false
+    },
+    {
+      "s": "na7mzbyh",
+      "t": "nyyndnw8",
+      "dashed": false
+    },
+    {
+      "s": "nyyndnw8",
+      "t": "ng0qigt1",
+      "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "nw2pvq5a",
+      "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "nlhgqh8m",
+      "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "n9n6z7bi",
+      "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "ngwh4iy4",
+      "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "nqje5a0x",
+      "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "n7q9ql0u",
+      "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "nm0s9av6",
+      "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "ne8dx3h1",
+      "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "nx4vfs2g",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "ne8dx3h1",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "naeja7uy",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "n7q9ql0u",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "nw2pvq5a",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "nm0s9av6",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "ngwh4iy4",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "n9n6z7bi",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "nlhgqh8m",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "nqje5a0x",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "ng0qigt1",
+      "t": "n8mjijsy",
+      "dashed": false
+    },
+    {
+      "s": "n8mjijsy",
+      "t": "n9mkxoen",
+      "dashed": false
+    },
+    {
+      "s": "nyyndnw8",
+      "t": "n0147brt",
+      "dashed": false
+    },
+    {
+      "s": "nyyndnw8",
+      "t": "nxr4zyom",
+      "dashed": false
+    },
+    {
+      "s": "n9mkxoen",
+      "t": "nviqui3g",
+      "dashed": false
+    },
+    {
+      "s": "nviqui3g",
+      "t": "njnnpiya",
+      "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "neolk2jk",
+      "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "nzy58wta",
+      "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "n8fxbzor",
+      "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "nb6vczx3",
+      "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "nxmv72wa",
+      "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "n9y8f7y6",
+      "dashed": false
+    },
+    {
+      "s": "nb6vczx3",
+      "t": "nbamkdfj",
+      "dashed": false
+    },
+    {
+      "s": "nb6vczx3",
+      "t": "ns99bj2t",
+      "dashed": false
+    },
+    {
+      "s": "nb6vczx3",
+      "t": "ntc30yq0",
+      "dashed": false
+    },
+    {
+      "s": "nviqui3g",
+      "t": "ntc30yq0",
+      "dashed": false
+    },
+    {
+      "s": "nxr4zyom",
+      "t": "nbgje9yo",
+      "dashed": false
+    },
+    {
+      "s": "nviqui3g",
+      "t": "nbpx5p5d",
+      "dashed": false
+    },
+    {
+      "s": "ntc30yq0",
+      "t": "n5gve7a3",
+      "dashed": false
+    },
+    {
+      "s": "ntc30yq0",
+      "t": "n3bhr55n",
+      "dashed": false
+    },
+    {
+      "s": "ntc30yq0",
+      "t": "n8w117f9",
+      "dashed": false
+    },
+    {
+      "s": "ntc30yq0",
+      "t": "ncpnk20n",
+      "dashed": false
+    },
+    {
+      "s": "ntc30yq0",
+      "t": "ne69bnt2",
+      "dashed": false
+    },
+    {
+      "s": "neolk2jk",
+      "t": "nf4vzjmy",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "n1m94r6b",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nck56yg8",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nqk2mwld",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nzq3vymy",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nqftp0pl",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "ne51q3wf",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "na3ho8z9",
+      "dashed": false
+    },
+    {
+      "s": "n1m94r6b",
+      "t": "n48zcnzb",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nnqjq3sm",
+      "dashed": false
+    },
+    {
+      "s": "n1m94r6b",
+      "t": "nf38tulw",
+      "dashed": false
+    },
+    {
+      "s": "nbamkdfj",
+      "t": "nf38tulw",
+      "dashed": false
+    },
+    {
+      "s": "ns99bj2t",
+      "t": "nf38tulw",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nj68qg18",
+      "dashed": false
+    },
+    {
+      "s": "nf4vzjmy",
+      "t": "nw5ifuix",
+      "dashed": false
+    },
+    {
+      "s": "n1m94r6b",
+      "t": "nw5ifuix",
+      "dashed": false
+    },
+    {
+      "s": "nw5ifuix",
+      "t": "n68e18t0",
+      "dashed": false
+    },
+    {
+      "s": "n68e18t0",
+      "t": "nvkyudb8",
+      "dashed": false
+    },
+    {
+      "s": "nw5ifuix",
+      "t": "n1m1xm4r",
+      "dashed": false
+    },
+    {
+      "s": "nw5ifuix",
+      "t": "ni9ykfwu",
+      "dashed": false
+    },
+    {
+      "s": "n68e18t0",
+      "t": "nusdgsyw",
+      "dashed": false
+    },
+    {
+      "s": "ni9ykfwu",
+      "t": "nusdgsyw",
+      "dashed": false
+    },
+    {
+      "s": "nj68qg18",
+      "t": "n4po6uni",
+      "dashed": false
+    },
+    {
+      "s": "n4po6uni",
+      "t": "n3itgcwi",
+      "dashed": false
+    },
+    {
+      "s": "n4po6uni",
+      "t": "nqwny8ca",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "ndoytjfn",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "n1m3vi5h",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "nq9jfa9n",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "nwvam4h9",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "nddhk7pg",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "nttaecpd",
+      "dashed": false
+    },
+    {
+      "s": "n1m94r6b",
+      "t": "nttaecpd",
+      "dashed": false
+    },
+    {
+      "s": "n1m94r6b",
+      "t": "n3vfigjw",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "n3vfigjw",
+      "dashed": false
+    },
+    {
+      "s": "n1m94r6b",
+      "t": "ngls3xrx",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "ngls3xrx",
+      "dashed": false
+    },
+    {
+      "s": "n8sh3r3y",
+      "t": "nl77jgz5",
+      "dashed": false
+    },
+    {
+      "s": "nl77jgz5",
+      "t": "ndxewd2g",
+      "dashed": false
+    },
+    {
+      "s": "n8sh3r3y",
+      "t": "ndxewd2g",
+      "dashed": false
+    },
+    {
+      "s": "nl77jgz5",
+      "t": "ngekx8pi",
+      "dashed": false
+    },
+    {
+      "s": "n8sh3r3y",
+      "t": "ngekx8pi",
+      "dashed": false
+    },
+    {
+      "s": "n8sh3r3y",
+      "t": "n0mwicyr",
+      "dashed": false
+    },
+    {
+      "s": "nl77jgz5",
+      "t": "n0mwicyr",
+      "dashed": false
+    },
+    {
+      "s": "nl77jgz5",
+      "t": "nwp84449",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "nb5vmktk",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "nb5y5x6v",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "nrr8vzce",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "no9mzga6",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "n9j2gpet",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "nd31ma1s",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "nvnuiqx6",
+      "dashed": false
+    },
+    {
+      "s": "ndxewd2g",
+      "t": "nmz7ue4g",
+      "dashed": false
+    },
+    {
+      "s": "ngekx8pi",
+      "t": "n39ly3i3",
+      "dashed": false
+    },
+    {
+      "s": "n0mwicyr",
+      "t": "n39ly3i3",
+      "dashed": false
+    },
+    {
+      "s": "n0mwicyr",
+      "t": "nsp4kidr",
+      "dashed": false
+    },
+    {
+      "s": "ngekx8pi",
+      "t": "nsp4kidr",
+      "dashed": false
+    },
+    {
+      "s": "nqwny8ca",
+      "t": "nud8o534",
+      "dashed": false
+    },
+    {
+      "s": "nud8o534",
+      "t": "njrgsqf6",
+      "dashed": false
+    },
+    {
+      "s": "njrgsqf6",
+      "t": "n8sh3r3y",
+      "dashed": false
+    },
+    {
+      "s": "njrgsqf6",
+      "t": "nl77jgz5",
+      "dashed": false
+    },
+    {
+      "s": "njrgsqf6",
+      "t": "nt9ax7mf",
+      "dashed": false
+    },
+    {
+      "s": "n3ayicy7",
+      "t": "nlc0adlp",
+      "dashed": false
+    },
+    {
+      "s": "n39ly3i3",
+      "t": "n3ayicy7",
+      "dashed": false
+    },
+    {
+      "s": "nsp4kidr",
+      "t": "n3ayicy7",
+      "dashed": false
+    },
+    {
+      "s": "ngekx8pi",
+      "t": "n3ayicy7",
+      "dashed": false
+    },
+    {
+      "s": "n3ayicy7",
+      "t": "nudi307u",
+      "dashed": false
+    },
+    {
+      "s": "n3ayicy7",
+      "t": "ny7cd7pu",
+      "dashed": false
+    },
+    {
+      "s": "nudi307u",
+      "t": "noepqkkz",
+      "dashed": false
+    },
+    {
+      "s": "nudi307u",
+      "t": "nooityud",
+      "dashed": false
+    },
+    {
+      "s": "n0mwicyr",
+      "t": "ni3fx4tc",
+      "dashed": false
+    },
+    {
+      "s": "ni3fx4tc",
+      "t": "nk6ui6fz",
+      "dashed": false
+    },
+    {
+      "s": "ni3fx4tc",
+      "t": "ns1swtbd",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "njklha5d",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "nheo5v6z",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "n4x6orf2",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "ncpthlyd",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "nwn7p5mu",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "nxbl8y62",
+      "dashed": false
+    },
+    {
+      "s": "nxbl8y62",
+      "t": "n1q3xld9",
+      "dashed": false
+    },
+    {
+      "s": "njklha5d",
+      "t": "n4fhdx4i",
+      "dashed": false
+    },
+    {
+      "s": "n4x6orf2",
+      "t": "ncc9w28j",
+      "dashed": false
+    },
+    {
+      "s": "nwn7p5mu",
+      "t": "nv95xlox",
+      "dashed": false
+    },
+    {
+      "s": "ncpthlyd",
+      "t": "ni2gxma0",
+      "dashed": false
+    },
+    {
+      "s": "nheo5v6z",
+      "t": "n62zzt5w",
+      "dashed": false
+    },
+    {
+      "s": "n68e18t0",
+      "t": "ni3fx4tc",
+      "dashed": false
+    },
+    {
+      "s": "nv95xlox",
+      "t": "n8vt0bi6",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Touristification",
+      "Materials",
+      "Organic materials",
+      "User experience",
+      "Materials supply companies",
+      "Branding",
+      "Arduino",
       "Infrastructure",
-      "Architecture",
+      "Human body",
       "Landgrabbing",
-      "Art",
-      "War",
-      "Geopolitics and international relations",
-      "Political economy and public policy",
-      "International relations and human rights",
-      "Humanitarian and development studies",
-      "Human rights",
-      "Critical theory",
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Design research",
-      "Socio-political",
-      "General knowledge",
-      "Utopian civilization",
-      "Neuroscience",
-      "Education",
-      "Welfare",
-      "Environmental sustainability",
-      "Luxury tourism",
-      "Tourism",
-      "Transportation",
-      "Extreme tourism",
-      "Protests",
-      "Infrastructure engineering",
-      "Security and defense studies",
-      "Political economy",
-      "Social psychology",
-      "Humanitarian studies",
-      "Disaster management",
-      "Energy engineering",
-      "Geography",
-      "Civil engineering",
-      "Geology",
-      "Social anthropology",
-      "Transportation engineering",
-      "Urban/regional planning",
-      "Economics",
-      "Aviation engineering",
-      "Energy studies",
-      "Cultural heritage",
-      "International law",
-      "Human geography",
-      "Security studies",
-      "Sociology of protest",
-      "Energy engineering political science",
-      "Anthropology",
-      "Urban planning",
-      "Social movements",
-      "Archaeology",
-      "Political science",
-      "Hydraulic engineering",
-      "Environmental studies",
-      "Indigenous studies",
-      "Maritime engineering",
-      "Economic geography",
-      "International relations",
-      "History",
-      "Development studies",
-      "Indigenous rights",
-      "Transport engineering",
+      "Construction",
+      "Prototyping",
+      "Political sci",
       "Development economics",
-      "Political sci"
+      "Transport engineering",
+      "Indigenous rights",
+      "Development studies",
+      "History",
+      "International relations",
+      "Economic geography",
+      "Maritime engineering",
+      "Indigenous studies",
+      "Environmental studies",
+      "Hydraulic engineering",
+      "Political science",
+      "Archaeology",
+      "Social movements",
+      "Urban planning",
+      "Anthropology",
+      "Energy engineering political science",
+      "Sociology of protest",
+      "Security studies",
+      "Human geography",
+      "International law",
+      "Cultural heritage",
+      "Energy studies",
+      "Aviation engineering",
+      "Economics",
+      "Urban/regional planning",
+      "Transportation engineering",
+      "Social anthropology",
+      "Geology",
+      "Civil engineering",
+      "Geography",
+      "Energy engineering",
+      "Disaster management",
+      "Humanitarian studies",
+      "Social psychology",
+      "Political economy",
+      "Security and defense studies",
+      "Infrastructure engineering",
+      "Extreme tourism",
+      "Transportation",
+      "Luxury tourism",
+      "Neuroscience",
+      "Utopian civilization",
+      "General knowledge",
+      "Socio-political",
+      "Design research",
+      "Media studies",
+      "Communication",
+      "Critical design",
+      "Critical theory",
+      "Humanitarian and development studies",
+      "International relations and human rights",
+      "Political economy and public policy",
+      "Geopolitics and international relations",
+      "Architecture",
+      "Touristification",
+      "Tourism",
+      "Legality",
+      "Human rights",
+      "War",
+      "Speculative design",
+      "Art",
+      "Construction companies",
+      "Materials supply"
     ],
     "tags": [
       "Human rights",
-      "Infrastructure",
       "Protests",
       "Victims",
-      "Welfare",
-      "Cultural loss",
-      "Landgrabbing",
-      "Health",
-      "War",
-      "Extreme tourism",
-      "Definition",
-      "Overtourism",
-      "Communication",
-      "Conflict",
-      "Catastrophe",
-      "Useless investment",
-      "Isolation",
+      "Danger",
+      "Touchpoint",
+      "Work flow",
+      "Structural failure",
       "Psychological distress",
-      "Structural failure"
+      "Isolation",
+      "Useless investment",
+      "Catastrophe",
+      "Conflict",
+      "Communication",
+      "Overtourism",
+      "Definition",
+      "Extreme tourism",
+      "War",
+      "Health",
+      "Welfare",
+      "Touristification",
+      "Infrastructure",
+      "Landgrabbing",
+      "Cultural loss",
+      "Design",
+      "Denounce"
     ],
     "type": [
       "Observation",

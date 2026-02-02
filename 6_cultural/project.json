@@ -401,7 +401,7 @@
       "x": 1093.2680334298655,
       "y": 1290.1640004884434,
       "w": 320,
-      "h": 512,
+      "h": 776,
       "group": null,
       "data": {
         "date": "2025-09-21",
@@ -843,8 +843,8 @@
     },
     {
       "id": "ng6y70ki",
-      "x": 4109.45767279601,
-      "y": 3209.908906906343,
+      "x": 3981.4576727960102,
+      "y": 3381.908906906343,
       "w": 320,
       "h": 409,
       "group": null,
@@ -885,8 +885,8 @@
     },
     {
       "id": "nqfpjft5",
-      "x": 3613.3914991706147,
-      "y": 2328.192808534741,
+      "x": 4109.391499170615,
+      "y": 2596.192808534741,
       "w": 320,
       "h": 537,
       "group": null,
@@ -971,7 +971,7 @@
       "x": 1770.5223503909924,
       "y": -628.5297727348413,
       "w": 320,
-      "h": 824,
+      "h": 817,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1022,7 +1022,7 @@
       "x": 2208.9475485804796,
       "y": -718.505203013334,
       "w": 320,
-      "h": 584,
+      "h": 551,
       "group": null,
       "data": {
         "date": "2025-09-26",
@@ -1400,8 +1400,8 @@
     },
     {
       "id": "n6w29va4",
-      "x": 4607.364530907372,
-      "y": 3178.3637383879086,
+      "x": 4367.364530907372,
+      "y": 3318.3637383879086,
       "w": 320,
       "h": 366,
       "group": null,
@@ -1420,8 +1420,8 @@
     },
     {
       "id": "ntwlro62",
-      "x": 5036.928373751227,
-      "y": 3285.575612500057,
+      "x": 4852.928373751227,
+      "y": 3729.575612500057,
       "w": 320,
       "h": 265,
       "group": null,
@@ -1440,8 +1440,8 @@
     },
     {
       "id": "nbnlyzq6",
-      "x": 4609.784891030368,
-      "y": 3605.8253689895664,
+      "x": 4265.784891030368,
+      "y": 3953.8253689895664,
       "w": 320,
       "h": 468,
       "group": null,
@@ -1641,8 +1641,8 @@
     },
     {
       "id": "nixu5vds",
-      "x": 4077.4066854044704,
-      "y": 2019.3478197917152,
+      "x": 3345.4066854044704,
+      "y": 2007.3478197917152,
       "w": 320,
       "h": 214,
       "group": null,
@@ -1939,6 +1939,2740 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/image_32.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nijz3fjn",
+      "x": 4331.714013108823,
+      "y": 2068.858510064732,
+      "w": 320,
+      "h": 434,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "An alternative to the current management of cultural conflict",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Socio-political",
+          "Socio-cultural",
+          "Critical theory"
+        ],
+        "tags": [],
+        "desc": "We live in a world were we risk to lose our culture for a various number of reasons. \nWe interrogated if\n- Is a culture that’s been artificially preserved still a culture? Or does it become an identity fossil?\n- What are we really protecting when we “save” a culture? And if the very act of preservation were itself a form of death?\n- Is keeping the people alive enough to declare their culture “protected”?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "niet1xwf",
+      "x": 3847.2904132882754,
+      "y": 2036.5328958031919,
+      "w": 320,
+      "h": 506,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Causes of cultural loss",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Conflicts",
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "- Territorial dispute: a clash over who holds the right to sovereignty over a given territory. It often involves peoples seeking self-determination or independence, who come into conflict with nation-states claiming that same land.\n- Exploitation of Resources: deforestation, mining, or the construction of large dams destroy the natural habitats of which an indigenous culture is an integral part. Without the forest, the river, or the tundra, the culture that draws its meaning, spirituality, and livelihood from them cannot survive.\n- Migration: when communities are forced to migrate in search of better living conditions, they become dispersed. Their ties to the land, collective rituals, and oral traditions are disrupted.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5bl14qz",
+      "x": 5190.138589946025,
+      "y": 2031.6251399135072,
+      "w": 320,
+      "h": 505,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "What if the only way to preserve a culture from extinction was to freeze it?",
+        "type": "Output",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "When a species disappears, its genetic code can be preserved to bring it back in the future.\nIn the case of culture, this is not possible, maintaining the genetic code of certain peoples does not preserve the memory that embodies their culture.\nIn this case, the only possible solution would be to preserve their entire bodies in a suspended state, thus allowing the preservation of memory as well.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 15.png",
+            "size": 1666811,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ni854e3k",
+      "x": 6007.092287612924,
+      "y": 1018.3364774006313,
+      "w": 320,
+      "h": 231,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Why - Rise of Conflicts",
+        "type": "Source",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The rise of local conflicts threatens the survival of numerous cultures.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nct10ap6",
+      "x": 5999.989750859658,
+      "y": 1341.5336953458361,
+      "w": 320,
+      "h": 231,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "What - Group of Researchers",
+        "type": "Source",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "A group of researchers decides to preserve certain populations in order to safeguard their culture.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nes88wxi",
+      "x": 5998.695896129846,
+      "y": 1617.6481093412758,
+      "w": 320,
+      "h": 611,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Where - Antartica",
+        "type": "Source",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The location is chosen based on key geographical, climatic, and political criteria:\n\n- Extremely Cold and Stable Climate: provides the ideal natural environment for long-term preservation.\n\n- Permafrost Ground: ensures temperature stability even in the event of a power failure (blackout). Locating a repository carved into the Antarctic ground would maintain this stability even more effectively, with the natural cold facilitating the cryopreservation process and lowering costs.\n\n- Politically Neutral and Secure Location: Antarctica is not owned by any single state. Military activity, nuclear weapons, and resource extraction are prohibited.\n\n- Antarctic Treaty System: the international treaty serves as the sole \"governance\" for the continent, guaranteeing its use solely for peaceful and scientific purposes.\n\n- Isolation: significantly reduces the risk of intrusion, flooding, fires, or contamination.",
+        "links": [
+          "https://en.wikipedia.org/wiki/Antarctic_Treaty_System"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nqo2d9mt",
+      "x": 5998.280558844181,
+      "y": 2285.9833009048652,
+      "w": 320,
+      "h": 550,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Who - non-governmental organization ",
+        "type": "Source",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "A non-governmental organization for cultural preservation.\nThis initiative outlines a structured approach to safeguard global cultural diversity:\n\n- Identifying At-Risk Cultures (Scientific Criteria): Using scientific metrics, such as the risk of linguistic extinction, degradation of artifacts, and loss of critical knowledge, to identify and classify cultures requiring urgent cryopreservation intervention.\n\n- Cultural Peace Mission (Global Mandate): Operating like a UN mission, this initiative focuses on the conservation of cultural diversity, treating it as a fundamental global heritage that must be protected from threats and oblivion.\n\n- Transnational Cooperation: Facilitating collaboration between nations to ensure the recovery and cryopreservation of cultural materials, thereby transcending national borders in preservation efforts.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "njswoqvx",
+      "x": 5999.388871267822,
+      "y": 2891.532458863094,
+      "w": 320,
+      "h": 248,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "When - 2075",
+        "type": "Source",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "In the year 2075, when conflicts in the world have increased to an alarming risk and technology has evolved enough to make cryogenics reliable.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nf09166m",
+      "x": 6666.00209410514,
+      "y": 1202.7234999429736,
+      "w": 320,
+      "h": 355,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "ONU criteria",
+        "type": "Case study",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "- Mental Element (Intent to Destroy – Dolus Specialis)\nThere must be the \"intent to destroy, in whole or in part, a national, ethnic, racial, or religious group as such.\" The intent must aim at the physical destruction of the group. Victims are deliberately targeted because of their membership in the group.\nGenocide can also be committed against a part of the group.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nojoh5nf",
+      "x": 7095.4952817776775,
+      "y": 1194.3089250981686,
+      "w": 320,
+      "h": 372,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "The Five Prohibited Acts",
+        "type": "Case study",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-political"
+        ],
+        "tags": [],
+        "desc": "- Killing members of the group.\n- Causing serious physical or mental harm to members of the group.\n- Deliberately inflicting on the group living conditions intended to bring about its total or partial physical destruction.\n- Imposing measures intended to prevent births within the group.\n- Forcibly transferring children of the group to another group",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "no1jd2fv",
+      "x": 6655.331345079699,
+      "y": 2495.5215555892064,
+      "w": 320,
+      "h": 304,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "UNESCO criteria",
+        "type": "Case study",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "- Is it a living and identity-defining practice?\n- Does it strengthen global cultural diversity?\n- Is there a concrete protection plan in place?\n- Is the community in agreement and actively involved?\n- Is it already recognized at the national level?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5kkwopv",
+      "x": 6659.703100266149,
+      "y": 1621.1711814097798,
+      "w": 320,
+      "h": 742,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "WWF model",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "The comparison with the WWF (World Wildlife Fund) is interesting because, beyond both being non-governmental charitable organizations, it raises the crucial dilemma of selection: Which species, or in this case, which cultures, should be saved?\nThe core of the issue is whether it is possible, or even desirable, to preserve everything:\n\n- WWF's Red List: The WWF maintains a Red List of threatened species, but it necessarily involves selection. While an estimated 50 species become extinct daily, only about 44,016 out of 157,190 evaluated species are currently classified as being at risk of extinction on the list.\n\n- The Unsaved: This stark difference begs the question: What happens to the remaining species?\n\n- The Cultural Parallel: In our case, the same question applies: What will become of the other cultures?",
+        "links": [],
+        "files": [
+          {
+            "name": "image 2.png",
+            "size": 817769,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ndhivel5",
+      "x": 7133.168232293696,
+      "y": 1831.1952478701553,
+      "w": 320,
+      "h": 321,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Identifying Priority Cultures",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "\nThe WWF uses the Red List for species at risk; similarly, we could create a \"Red List of Cultures\" based on parameters such as the number of native speakers, intergenerational transmission of knowledge, and external pressures (globalization, forced assimilation).",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nt2zmv4m",
+      "x": 7694.709949218202,
+      "y": 1706.8625003100094,
+      "w": 320,
+      "h": 584,
+      "group": null,
+      "data": {
+        "date": "2025-10-16",
+        "title": "Economic model",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "- Private Donations (Crowdfunding & Supporters): small and large contributions from ordinary people who believe in the cause.\n- Institutional Grants and Funds: financing from international organizations (UN, UNESCO), philanthropic foundations, and governments for specific projects.\n- Ethical Revenue from Commerce: selling handicrafts and products generates a sustainable and respectful income stream that directly supports both the organization and the communities.\n- Responsible Corporate Partnerships: selective collaborations with companies aiming to clean up their supply chains from practices that harm cultures or indigenous territories. Not mere sponsorship, but a concrete commitment.\n- Support from Major Donors: individual philanthropists or impact-oriented investment funds that finance ambitious long-term projects.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nohxhf0o",
+      "x": 4577.791841529068,
+      "y": 687.3338133680334,
+      "w": 320,
+      "h": 553,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Gaza War",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The cultural conflicts in Gaza primarily involve a clash between two national identities both claiming the same land. The Israeli identity is rooted in historical and religious claims to a Jewish state (Zionism) while the Palestinian identity is centered on ancestral ties to the land and the struggle for self-determination (Resistance). This creates a war of narratives over historical legitimacy and involves disputes over sacred sites shared by Judaism and Islam. Ultimately it is a struggle for legitimacy and existence between two peoples",
+        "links": [],
+        "files": [
+          {
+            "name": "_132041234_gettyimages-1801103706.jpg",
+            "size": 174714,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/_132041234_gettyimages-1801103706.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7gul1ib",
+      "x": 4574.918563319757,
+      "y": 1267.5018559107925,
+      "w": 320,
+      "h": 589,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Conflicts Between India and Pakistan",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "he conflict's core is the 1947 Partition, which divided the subcontinent into Hindu-majority India and Muslim-majority Pakistan. This religious separation fuels historical hostility and rival nationalisms.\n\nThe main flashpoint is Kashmir, a Muslim-majority region. The conflict is a territorial and ideological struggle between secular Indian nationalism and Islamic Pakistani nationalism, both of which use religion to legitimize their claims over the disputed territory.",
+        "links": [],
+        "files": [
+          {
+            "name": "7WXSXPB2NAI6TIWNGB5QNUBFPM.avif",
+            "size": 318386,
+            "type": "image/avif",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/7WXSXPB2NAI6TIWNGB5QNUBFPM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nst3ef37",
+      "x": 5190.858014415566,
+      "y": 957.0684698859413,
+      "w": 320,
+      "h": 510,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "The Alarming Rise of Global Conflicts",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Recent studies and major reports, such as the Global Peace Index (GPI) 2024, confirm that global conflicts and tensions are significantly increasing, reaching levels not seen since the Cold War.\nData from ACLED (Armed Conflict Location & Event Data Project) indicates that the number of conflicts has risen by 40% over the last three years.\nDrivers of Instability: This surge is fueled by complex factors, including:\n\n- Rising geopolitical competition among major powers.\n\n- A massive increase in global military spending.\n\n- The continued reliance on conflict to solve disputes over identity and territory",
+        "links": [
+          "https://www.worldexcellence.com/conflict-index-2024-conflicts-in-the-world-have-grown-by-40-percent/#Africa_Nigeria_and_Sudan"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n4c6jcpt",
+      "x": 7127.048046219685,
+      "y": 2315.426447605858,
+      "w": 320,
+      "h": 555,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "WWF’s Communication Strategy",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "- Use powerful, high-quality images of specific endangered ethnic groups as the face of the mission, transforming abstract loss into a tangible, emotional Call to Action.\n\n- Employs urgent, aspirational slogans. They must convey that all cultures are special, even if only a selection can be saved.\n\n- Create direct, powerful slogans that link preservation to urgent global issues\n\n- Leverages alarming statistics to quantify the crisis.\n\n- Use quantifiable data to establish the project's scale, urgency, and monumental importance.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-10-28 alle 11.01.06.png",
+            "size": 769129,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-28_alle_11.01.06.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nz1seaio",
+      "x": 7694.645969493612,
+      "y": 2450.0533850563274,
+      "w": 320,
+      "h": 489,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Communication strategy",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "- Emotional Engagement & Action: Highlight the beauty and richness of cultures to establish emotional connection.\n\n- Call to Action: Denounce cultural extinction and justify cryopreservation as the only necessary and rational solution.\n\n- Credibility & Protocol: Use references to research institutions to establish scientific credibility.\n\n- Transparency: Describe processes using protocol-based terminology to demonstrate rigor.\n\n- De-humanization & Objectivity: lean toward scientific language and infographics to present processes. This helps maintain objectivity and manage the ethical challenge of selection.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n453t6qy",
+      "x": 9105.45870299,
+      "y": 2414.1866679953882,
+      "w": 320,
+      "h": 534,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Color Palette",
+        "type": "Output",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "The selected palette uses artificial, laboratory-style colors to reflect the tension between the cold, stable environment and the vibrant, yet preserved, cultural material.\n\n- Ice White: Represents the preservation medium (ice) and the pristine, sterile environment of cryopreservation.\n\n- Chemical Orange: The warm, organic color of the living cultures (the human element), made artificial and highly saturated to signify that the culture has been denatured (preserved/frozen).\n\n- Deep Blue: signifies the institutional, static, and calm nature of NGOs (Non-Governmental Organizations). Primarily used to convey trust and reliability.\n\n- Dark Gray: conveys institutional seriousness and a formal, protocol-driven approach.\n\n- Sky blue: used to balance the dark tones and symbolize medicine/science and hope.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nd1eepiv",
+      "x": 8352.77825832998,
+      "y": 1144.3321096413586,
+      "w": 320,
+      "h": 917,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "The Ethical Cabinet(descarted)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "This concept proposes an interactive machine, shaped like a museum or scientific archival drawer cabinet, where each drawer represents a single culture, population, or collective memory.\n\n- The Action: The user must choose whether to open the drawer (thereby cryopreserving the culture) or leave it closed (allowing it to disappear).\n\n- The Moral Dilemma: By opening one drawer and preserving a culture, the user simultaneously prevents the possibility of knowing or saving the others (the consequence of limited resources).\n\n- The Role of the Public: The audience becomes the agent of cultural selection. The device reproduces the ethical and political paradox of cultural conservation:\n\nEvery act of archiving is also an act of exclusion.\n\nEvery \"rescue\" implies the loss of what is not saved.\n\nThe personal choice produces a collective guilt.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 12.png",
+            "size": 649687,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_12.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhyq9w50",
+      "x": 8345.120966427332,
+      "y": 2159.187441155154,
+      "w": 320,
+      "h": 858,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Cryometer",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "The Cryometer is an interactive, scientific interface designed to solve the ethical dilemma of when to awaken cryopreserved cultures. It visualizes the conflict between internal preservation risk and external world stability.\n\n- Left Vial (Silver Liquid: \"State of Stasis\"): Tracks the internal danger. A low level means the preservation temperature is failing, risking the cultures' survival.\n\n- Right Vial (Red-Ochre Liquid: \"Socio-Environmental Stability Index - I.S.A.\"): Tracks the external danger. A high level means the outside world is too unstable or hostile for reintroduction.\n\n- Transition Threshold (Slider): A manual cursor representing the ethical line set for awakening. The operator adjusts it based on their subjective interpretation of external data (via three calibration knobs).\n\nThe Dilemma: the operator (user) must interpret the fluctuating balance between the internal danger (risk of being frozen too long) and the external danger (risk of waking up too soon). By choosing a threshold, the user confronts the arbitrariness of selecting the \"right moment\" for cultural reintroduction.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 99.png",
+            "size": 831509,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_99.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nijfszt1",
+      "x": 8334.936028962624,
+      "y": 3139.4196444862273,
+      "w": 320,
+      "h": 1290,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Assessment Booth",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "This is an immersive installation that evaluates the user's suitability for cultural cryopreservation while simulating the process.\n\n- External Screen (Thermal Vision): Initially shows the user's body as vibrant/hot (current vitality).\n\n- Internal Immersion: The user answers a deep cultural questionnaire while the cabin temperature gradually drops, simulating the chilling process.\n\n- Anxiety Management: A calming voice intervenes if the user shows agitation, keeping them in the experience flow.\n\n- Outcome (Waiting Time): The result is the UNEC Acceptance Index, given as an estimated Waiting Time (longer time = successful, long-term cryopreservation).\n\nThe Final Message: upon exiting, the external screen reveals the user's body as significantly colder and fading on the thermal vision. This serves as the final statement: cryopreservation is both a promise of the future and a form of disappearance—an attenuation of one's \"thermal signature\" and current presence in the world.",
+        "links": [],
+        "files": [
+          {
+            "name": "image 110.png",
+            "size": 533632,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_110.jpg"
+          },
+          {
+            "name": "image 108.png",
+            "size": 314004,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/image_108.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na2mxg7s",
+      "x": 9851.199937069909,
+      "y": 2840.0218361535844,
+      "w": 320,
+      "h": 618,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Logo",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "The UNEC logo combines two shapes: a snowflake and a house. The snowflake represents cryopreservation, the vital suspension necessary to preserve what is at risk of extinction.\nThe house, on the other hand, evokes protection, belonging, and shared memory. Together, these symbols convey UNEC's mission: to offer a safe haven to threatened cultures, preserving their identity and complexity over time.",
+        "links": [],
+        "files": [
+          {
+            "name": "Frame 1.png",
+            "size": 138533,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Frame_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5ynwr3l",
+      "x": 9246.343613259212,
+      "y": 3231.532458863094,
+      "w": 320,
+      "h": 254,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Naming and Payoff",
+        "type": "Output",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "- Naming: United Network for Endangered Cultures (UNEC)\n\n- Payoff: Suspending life, protecting cultures\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nxysa265",
+      "x": 10420.388414210214,
+      "y": 2390.7814409963466,
+      "w": 320,
+      "h": 766,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Social media communication(descarted)",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "The first concept for the Instagram UNEC feed comes from the decision to unite the typical lab colors and the colors used to remind of ONGs and culture, combining orange and tones of blue. In this phase we defined the different types of content we will bring in the profile, indipendently from the aesthetic.",
+        "links": [],
+        "files": [
+          {
+            "name": "La Tua Storia Instagram Feed Verticale Semplice Minimal Beige Bianco Centro Estetico 1.png",
+            "size": 915356,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/La_Tua_Storia_Instagram_Feed_Verticale_Semplice_Minimal_Beige_Bianco_Centro_Estetico_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4bgal0g",
+      "x": 9242.138589946026,
+      "y": 3533.532458863094,
+      "w": 320,
+      "h": 179,
+      "group": null,
+      "data": {
+        "date": "2025-10-28",
+        "title": "Values",
+        "type": "Output",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Critical design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ngwhljje",
+      "x": 10974.402718276144,
+      "y": 1762.2250703376685,
+      "w": 320,
+      "h": 602,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "UNEC",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Two different branding identities, the first one Inspired by ice and frozen aesthetic and image manipulation through gradient and effects",
+        "links": [],
+        "files": [
+          {
+            "name": "moodboard prop 2.png",
+            "size": 22767893,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/moodboard_prop_2.jpg"
+          },
+          {
+            "name": "font 1.png",
+            "size": 2143041,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/font_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nigmgfkx",
+      "x": 10939.323080992785,
+      "y": 2961.227181595688,
+      "w": 320,
+      "h": 602,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "ECP",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "Two different types of brand identities, the second one inspired by chemicals used in the laboratory and the alarmant feeling used by modern ONGs",
+        "links": [],
+        "files": [
+          {
+            "name": "moodboard.png",
+            "size": 11639479,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/moodboard.jpg"
+          },
+          {
+            "name": "font.png",
+            "size": 3112599,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/font.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nuoz9o75",
+      "x": 11426.224134785307,
+      "y": 1802.418157677013,
+      "w": 320,
+      "h": 425,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Usage",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "To give the rimender of the frozen aesthetic in the posters, we have made a frozen blue gradient, combined with blurred images.",
+        "links": [],
+        "files": [
+          {
+            "name": "poster 1.png",
+            "size": 31148890,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/poster_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n70wd0wx",
+      "x": 11375.961085982603,
+      "y": 3030.245357856506,
+      "w": 320,
+      "h": 425,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Usage",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "The main application for the identity is the poster, which, in this case, ha s a clear reminder of the Amnesty aesthetic that underlines the call to action.",
+        "links": [],
+        "files": [
+          {
+            "name": "poster 2.png",
+            "size": 25713988,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/poster_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnyt5jjq",
+      "x": 9003.902301837756,
+      "y": 1770.113688910308,
+      "w": 320,
+      "h": 526,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Cryometer",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "The user selects a culture from those offered on the screen. The device consists of three knobs, each associated with a parameter that indicates that culture's conflict condition. The user sets a value for each knob. The machine estimates the cryogenesis time by averaging the parameters. During the interaction, a visualization will be visible on the screen, featuring distortions that vary according to the parameters entered",
+        "links": [],
+        "files": [
+          {
+            "name": "Frame-1.png",
+            "size": 1800388,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Frame-1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3rwqok2",
+      "x": 10541.797202536398,
+      "y": 1086.9016857292045,
+      "w": 320,
+      "h": 576,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Cryocare",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "The device is activated by the warmth of the user’s hands. One of the available avatars from a cryopreserved culture appears (selected at random). The avatar has specific needs to be fulfilled, depending on their culture (e.g., eating traditional food, dressing in customary clothing, performing rituals or traditions). Once these needs are met, the user gains the avatar’s trust and can learn the reason behind their cryopreservation. At the end, the user can leave a voice message that will be recorded and translated into the avatar’s language, so that it can be heard in the future when the person is revived.",
+        "links": [],
+        "files": [
+          {
+            "name": "Frame.png",
+            "size": 2398013,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Frame.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxrm7yfe",
+      "x": 12177.785793066607,
+      "y": 2778.4939183441734,
+      "w": 320,
+      "h": 454,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "Moodboard",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Design research"
+        ],
+        "tags": [
+          "Source"
+        ],
+        "desc": "By keeping the most functional and working aspects of the two identities, we continue to explore to create the perfect brand identity for UNEC.",
+        "links": [],
+        "files": [
+          {
+            "name": "moodboard.png",
+            "size": 10814478,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/moodboard.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwq55jfa",
+      "x": 12689.236065389287,
+      "y": 2812.4035774668005,
+      "w": 320,
+      "h": 445,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "The FINAL UNEC logo: distancing from the house concept, we represent humanity united in cooperation, while giving a shape similar to an abstract snowfale, a reminder both to cryopreservation and the care that an ONG brings to humanity.",
+        "links": [],
+        "files": [
+          {
+            "name": "-.png",
+            "size": 80795,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/-.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nh97x6a2",
+      "x": 12037.35320668681,
+      "y": 3281.3643281201535,
+      "w": 320,
+      "h": 1032,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "Concept",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Design research"
+        ],
+        "tags": [],
+        "desc": "The concept comes from the identity of ONGs like ONU. ",
+        "links": [],
+        "files": [
+          {
+            "name": "goodify_1920x1040_with_copy.png",
+            "size": 1387901,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/goodify_1920x1040_with_copy.jpg"
+          },
+          {
+            "name": "0546070001418911941_0.png",
+            "size": 489692,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/0546070001418911941_0.jpg"
+          },
+          {
+            "name": "Screenshot 2025-11-07 at 09.15.25 1.png",
+            "size": 6139000,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-07_at_09.15.25_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nf31ns3s",
+      "x": 13194.832395723282,
+      "y": 2540.7107876631826,
+      "w": 320,
+      "h": 1337,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding",
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "We defined the main brand applications using the UNEC color and aesthetic.",
+        "links": [],
+        "files": [
+          {
+            "name": "--1.png",
+            "size": 1337976,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/--1.jpg"
+          },
+          {
+            "name": "--2.png",
+            "size": 1449301,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/--2.jpg"
+          },
+          {
+            "name": "--3.png",
+            "size": 604935,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/--3.jpg"
+          },
+          {
+            "name": "--4.png",
+            "size": 1431353,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/--4.jpg"
+          },
+          {
+            "name": "altre prove.png",
+            "size": 27173193,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/altre_prove.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0m45b8f",
+      "x": 11573.277612964508,
+      "y": 359.7349678874318,
+      "w": 320,
+      "h": 408,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "Cryocare characters",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "Defining the cultures that will be represented in the cryocare",
+        "links": [],
+        "files": [
+          {
+            "name": "omini.png",
+            "size": 136908,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/omini.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nus04p31",
+      "x": 11613.888090929855,
+      "y": -63.846745351305344,
+      "w": 320,
+      "h": 408,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "Cryoapp",
+        "type": "",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "First wireframe of the app that will be activated with the cryocare",
+        "links": [],
+        "files": [
+          {
+            "name": "applicazione.png",
+            "size": 331354,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/applicazione.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxwqoxbh",
+      "x": 13756.621647703318,
+      "y": 2559.511829303978,
+      "w": 320,
+      "h": 425,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "New Palette definition",
+        "type": "Source",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "We defined a new color palette to give blue a better visibility and to complement it with a better white for the glacial aesthetic.",
+        "links": [],
+        "files": [
+          {
+            "name": "palette.png",
+            "size": 23647,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/palette.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7ukwaj5",
+      "x": 13745.505209823354,
+      "y": 3245.6139707179004,
+      "w": 320,
+      "h": 646,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "We defined better copies for the posters that exemplify our reminder to the lost heritage and cryopreservation, even if not always explicit.",
+        "links": [],
+        "files": [
+          {
+            "name": "altre prove.png",
+            "size": 3256534,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/altre_prove.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n34dhf9q",
+      "x": 14387.36209955714,
+      "y": 2968.2985937189214,
+      "w": 320,
+      "h": 1519,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "We decided that underlining didn't express as good as the blur the UNEC feeling, so we decided to keep it out of the applications.",
+        "links": [],
+        "files": [
+          {
+            "name": "palestina-flyer.png",
+            "size": 349337,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/palestina-flyer.jpg"
+          },
+          {
+            "name": "poster_noise2.png",
+            "size": 662066,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/poster_noise2.jpg"
+          },
+          {
+            "name": "brochures-finali2.png",
+            "size": 161676,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/brochures-finali2.jpg"
+          },
+          {
+            "name": "brochures-finali.png",
+            "size": 696667,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/brochures-finali.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "no4d3mbw",
+      "x": 14403.324427657291,
+      "y": 761.8935291948492,
+      "w": 320,
+      "h": 2044,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "other applications",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "we corrected other applications from the main ones and defined the ones that will be given with the cryocare.",
+        "links": [],
+        "files": [
+          {
+            "name": "infografica cartina export.png",
+            "size": 1379795,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/infografica_cartina_export.jpg"
+          },
+          {
+            "name": "avviso a6 export.png",
+            "size": 104048,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/avviso_a6_export.jpg"
+          },
+          {
+            "name": "bracciale export.png",
+            "size": 38898,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/bracciale_export.jpg"
+          },
+          {
+            "name": "certificato adozione export.png",
+            "size": 148165,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/certificato_adozione_export.jpg"
+          },
+          {
+            "name": "foglio assegno export.png",
+            "size": 296084,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/foglio_assegno_export.jpg"
+          },
+          {
+            "name": "medical report export.png",
+            "size": 360086,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/medical_report_export.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmxxgwps",
+      "x": 11516.708328202087,
+      "y": 841.8836169067629,
+      "w": 320,
+      "h": 391,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "First render",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "First cryocare render",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-11-10 at 16.11.51 1 2.png",
+            "size": 616043,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-11-10_at_16.11.51_1_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3h2h894",
+      "x": 12076.868986939086,
+      "y": 933.0639575719297,
+      "w": 320,
+      "h": 408,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "Render for 3D prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "We defined better the proportions and the shape of the cryocare, the sc",
+        "links": [],
+        "files": [
+          {
+            "name": "-.png",
+            "size": 707666,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/-.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5zyzlt1",
+      "x": 12184.981170159146,
+      "y": 98.11701830413881,
+      "w": 320,
+      "h": 585,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "characters and elements",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "Defining the elements in one culture, in this case the maōri foods and outfits.",
+        "links": [],
+        "files": [
+          {
+            "name": "Slide 16_9 - 48.png",
+            "size": 125096,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Slide_16_9_-_48.jpg"
+          },
+          {
+            "name": "Slide 16_9 - 39.png",
+            "size": 57668,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Slide_16_9_-_39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ns8aw5k0",
+      "x": 12288.26329643462,
+      "y": -1540.3142968969676,
+      "w": 320,
+      "h": 568,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "app interface",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "Defining cryoapp interface",
+        "links": [],
+        "files": [
+          {
+            "name": "Slide 16_9 - 52.png",
+            "size": 501952,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Slide_16_9_-_52.jpg"
+          },
+          {
+            "name": "Slide 16_9 - 41.png",
+            "size": 506023,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Slide_16_9_-_41.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8dwm2op",
+      "x": 11610.308752619223,
+      "y": -592.0869438513939,
+      "w": 320,
+      "h": 419,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "cryocare content",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "In the cryocare packaging documentation, medical report and bracelet, instructions and other relevant applications will be given",
+        "links": [],
+        "files": [
+          {
+            "name": "Slide 16_9 - 45.png",
+            "size": 1616518,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Slide_16_9_-_45.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "neikewwt",
+      "x": 15111.89950271268,
+      "y": 740.8677081478363,
+      "w": 320,
+      "h": 1968,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "correcting applications",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "bracciale export 2.png",
+            "size": 36538,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/bracciale_export_2.jpg"
+          },
+          {
+            "name": "avviso a6 export 2.png",
+            "size": 104118,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/avviso_a6_export_2.jpg"
+          },
+          {
+            "name": "foglio assegno export 22.png",
+            "size": 265400,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/foglio_assegno_export_22.jpg"
+          },
+          {
+            "name": "medical report export 22.png",
+            "size": 350035,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/medical_report_export_22.jpg"
+          },
+          {
+            "name": "infografica cartina export 2.png",
+            "size": 1948925,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/infografica_cartina_export_2.jpg"
+          },
+          {
+            "name": "certificato adozione export 2.png",
+            "size": 148314,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/certificato_adozione_export_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nyigc94o",
+      "x": 15099.89950271268,
+      "y": 2988.8677081478363,
+      "w": 320,
+      "h": 837,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "correcting applications",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Slide 16_9 - 35.png",
+            "size": 4467541,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Slide_16_9_-_35.jpg"
+          },
+          {
+            "name": "Slide 16_9 - 34.png",
+            "size": 2865284,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Slide_16_9_-_34.jpg"
+          },
+          {
+            "name": "Screenshot 2025-12-01 alle 19.02.31.png",
+            "size": 1132167,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-01_alle_19.02.31.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ndqvf5ra",
+      "x": 12798.571064055466,
+      "y": 4268.111174379229,
+      "w": 320,
+      "h": 744,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "storyboard teaser",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "defining the storyboards of the teaser and final video",
+        "links": [],
+        "files": [
+          {
+            "name": "storyboardteaser-1 1.png",
+            "size": 1415693,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/storyboardteaser-1_1.jpg"
+          },
+          {
+            "name": "Section 1 1.png",
+            "size": 686279,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Section_1_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n6yhyjdc",
+      "x": 13426.999999999996,
+      "y": 554,
+      "w": 320,
+      "h": 1714,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Us working!",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Process"
+        ],
+        "tags": [],
+        "desc": "sketches, working process",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.14.jpeg",
+            "size": 181687,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.14.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.39.13.jpeg",
+            "size": 189147,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.39.13.jpg"
+          },
+          {
+            "name": "DSC_3949.jpeg",
+            "size": 2076509,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_3949.jpg"
+          },
+          {
+            "name": "DSC_3974.jpeg",
+            "size": 1862612,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_3974.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nefsgumi",
+      "x": 12352.428688807056,
+      "y": 1477.4571617476095,
+      "w": 320,
+      "h": 1163,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Making our Prototype",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Process documentation"
+        ],
+        "tags": [],
+        "desc": "Photos of the work behind the prototype",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.12.jpeg",
+            "size": 230182,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.12.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.12 (1).jpeg",
+            "size": 174858,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.12_(1).jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.13 (1).jpeg",
+            "size": 71818,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.13_(1).jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnauhcsn",
+      "x": 13873.776937493849,
+      "y": -1108.88480914762,
+      "w": 320,
+      "h": 1734,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Printing the first prototype",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Process documentation"
+        ],
+        "tags": [
+          "3d print"
+        ],
+        "desc": "We went to Dotdotdot Studio tu print our Cryocare",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.14 (1).jpeg",
+            "size": 94968,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.14_(1).jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.15.jpeg",
+            "size": 131491,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.15.jpg"
+          },
+          {
+            "name": "WhatsApp Image 2025-12-16 at 14.42.13.jpeg",
+            "size": 204548,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_14.42.13.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9q3zve6",
+      "x": 14445.405309666357,
+      "y": -85.23877674418645,
+      "w": 320,
+      "h": 519,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Studying Cryocare supporting base",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Process"
+        ],
+        "tags": [
+          "Exploring"
+        ],
+        "desc": "Ideas for Cryocare supporting base",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 alle 15.11.20.png",
+            "size": 846704,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_alle_15.11.20.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ng8w0gph",
+      "x": 15781.845305153021,
+      "y": 776.8947920039518,
+      "w": 320,
+      "h": 1637,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Defining Documentatiin",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding"
+        ],
+        "tags": [
+          "Branding"
+        ],
+        "desc": "Defining the documents that the people who will come to join UNEC cryopreservation program will have to sign when they join us, and that will be given to the Cryocare Adopter.",
+        "links": [],
+        "files": [
+          {
+            "name": "documenti folder unec2 1.png",
+            "size": 2289999,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/documenti_folder_unec2_1.jpg"
+          },
+          {
+            "name": "documenti folder unec3 1.png",
+            "size": 2297730,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/documenti_folder_unec3_1.jpg"
+          },
+          {
+            "name": "documenti folder unec4 1.png",
+            "size": 1415854,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/documenti_folder_unec4_1.jpg"
+          },
+          {
+            "name": "bracciale 1.png",
+            "size": 865159,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/bracciale_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njltw2wb",
+      "x": 15750.453589314297,
+      "y": 3234.0474940548947,
+      "w": 320,
+      "h": 614,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Defining Applications",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Branding"
+        ],
+        "tags": [
+          "Branding"
+        ],
+        "desc": "These applications will be given with are subscription and cryocare",
+        "links": [],
+        "files": [
+          {
+            "name": "Slide 16_9 - 36.png",
+            "size": 1958768,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Slide_16_9_-_36.jpg"
+          },
+          {
+            "name": "Slide 16_9 - 40.png",
+            "size": 1008664,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Slide_16_9_-_40.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntzrjlid",
+      "x": 13520.805956122422,
+      "y": 4320.088054999059,
+      "w": 320,
+      "h": 537,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "teaser",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "In the teaser video we give space to the people of the culture that UNEC protects, letting them guide the narration by explaining why they can't keep on living without the choice of cryopreservation. We choose to link this stories with the concept of fading, to give a concrete idea of what its happening to people, explaining why UNEC is crucial in the surviving of human species. (since the video file is quite heavy here we only upload the first frame of the teaser, to see the full video go on google drive)",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 14.28.50.png",
+            "size": 1594955,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.28.50.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ns7qiv6l",
+      "x": 13517.202796588701,
+      "y": 5005.527864366168,
+      "w": 320,
+      "h": 915,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "video animatic and updates",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "we define the script and the scenes in the video",
+        "links": [],
+        "files": [
+          {
+            "name": "animatic storyboard.png",
+            "size": 3137545,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/animatic_storyboard.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 14.02.59.png",
+            "size": 233519,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.02.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njv2e59d",
+      "x": 12718.829931446573,
+      "y": -186.59720850673912,
+      "w": 320,
+      "h": 386,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "defining character identities",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "All the dress worn by the characters",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 15.03.21.png",
+            "size": 174193,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_15.03.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nj3ube1l",
+      "x": 15335.656128078963,
+      "y": -5545.416139235042,
+      "w": 320,
+      "h": 1810,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "app interface definition",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "We define the interfaces of the integrated app on mobile made on github. Adding new areas and features.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 14.05.02.png",
+            "size": 272555,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.05.02.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 14.05.11.png",
+            "size": 176966,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.05.11.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 14.05.22.png",
+            "size": 427821,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.05.22.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na127mu9",
+      "x": 15327.603647165846,
+      "y": -3580.197534894988,
+      "w": 320,
+      "h": 917,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "tablet app interface",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "To make people choose their favourite culture that they want to adopt, we study the interface that will be put on frames in order to have an efficient webapp.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 14.05.45.png",
+            "size": 792453,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.05.45.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 14.05.53.png",
+            "size": 474417,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.05.53.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 14.05.58.png",
+            "size": 33516,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.05.58.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "npza5mej",
+      "x": 14553.725873491985,
+      "y": -1789.3956651746814,
+      "w": 320,
+      "h": 1546,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "linking linear actuator to code",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "integrating the vibration to the code structure and continuing by developing the interface on javascript.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7466.PNG",
+            "size": 8535241,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7466.jpg"
+          },
+          {
+            "name": "IMG_7467.PNG",
+            "size": 8786075,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7467.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7in0k52",
+      "x": 16408.733824504045,
+      "y": 3252.357005351963,
+      "w": 320,
+      "h": 622,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "first print of the artefacts",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "We printed the first version of the posters.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7138.png",
+            "size": 14389230,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7138.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "npqfd13j",
+      "x": 16332.028987364087,
+      "y": 780.7849790816595,
+      "w": 320,
+      "h": 674,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "defining the identities for the characters",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "Defining and creating the reports of each of the six characters.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 14.06.23.png",
+            "size": 880848,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_14.06.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncqd76dh",
+      "x": 16320.028987364087,
+      "y": 1491.7816447081582,
+      "w": 320,
+      "h": 1506,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "collecting artefacts",
+        "type": "Finding",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [
+          "Socio-cultural"
+        ],
+        "tags": [],
+        "desc": "We collected a lot of objects of the cultures represented during the exhibition, in order to put them in the folders of the report, like sorts of heirlooms that the people cherish, the last evidence of their presence.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7177.png",
+            "size": 16286812,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7177.jpg"
+          },
+          {
+            "name": "IMG_7178.png",
+            "size": 14026100,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7178.jpg"
+          },
+          {
+            "name": "IMG_7180.png",
+            "size": 13941445,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7180.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n05t8vqi",
+      "x": 16815.43169209344,
+      "y": 500.2653395035218,
+      "w": 320,
+      "h": 1185,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "the first finished folder",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": "Interaction",
+        "areas": [
+          "Socio-cultural",
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7140.png",
+            "size": 11977117,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7140.jpg"
+          },
+          {
+            "name": "IMG_7134.png",
+            "size": 11928493,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7134.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 15.04.28.png",
+            "size": 1100491,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_15.04.28.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n39v0jhy",
+      "x": 12707.275026865922,
+      "y": 245.5311461935005,
+      "w": 320,
+      "h": 345,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "defining recipes",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 15.03.41.png",
+            "size": 191435,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_15.03.41.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nimf0a4r",
+      "x": 12698.421008263496,
+      "y": 639.4363187825295,
+      "w": 320,
+      "h": 345,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "defining rituals",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 15.03.26.png",
+            "size": 146339,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_15.03.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncep8wxf",
+      "x": 14895.539805487953,
+      "y": -115.12208875700497,
+      "w": 320,
+      "h": 1229,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "cryocare render+support+inside",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-09 alle 15.03.00.png",
+            "size": 329045,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_15.03.00.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-09 alle 15.03.10.png",
+            "size": 456394,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-09_alle_15.03.10.jpg"
+          },
+          {
+            "name": "PHOTO-2026-01-21-12-12-02.jpg",
+            "size": 145857,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PHOTO-2026-01-21-12-12-02.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nexpx9uf",
+      "x": 15342.496572920913,
+      "y": -2427.642763010532,
+      "w": 320,
+      "h": 1176,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "developing the interface and the sensor",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Process"
+        ],
+        "tags": [],
+        "desc": "We developed the interface of the app and adapted it to the triggers present in the iOS system. The code is mainly made with javascript, incorporating a firebase library and another script on python to make the app link to the linear servo and the tablet app. Here we link a screenshot of the structure of the app on visual studio code",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7628.jpg",
+            "size": 3315646,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7628.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-29 alle 13.25.01.png",
+            "size": 82388,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-29_alle_13.25.01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nh7ykssv",
+      "x": 15347.16183616678,
+      "y": -1169.8263793626597,
+      "w": 320,
+      "h": 667,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "firebase-python library",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": null,
+        "areas": [
+          "Process"
+        ],
+        "tags": [],
+        "desc": "this protocol links all the components of the app by making them communicate between themselves, this way the character can be selected on the tablet and automatically reupdates the github page.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-29 alle 13.14.49.png",
+            "size": 332855,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-29_alle_13.14.49.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-29 alle 13.14.59.png",
+            "size": 152209,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-29_alle_13.14.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsy3qjj8",
+      "x": 15468.99678029785,
+      "y": -121.79550848724361,
+      "w": 320,
+      "h": 476,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "new cryocare box",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Process"
+        ],
+        "tags": [
+          "Branding"
+        ],
+        "desc": "we did a costum box and support with polistirol",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-01-30 at 16.13.24.jpeg",
+            "size": 132780,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-30_at_16.13.24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsa8c5gl",
+      "x": 14155.777796868579,
+      "y": 5183.19626249977,
+      "w": 320,
+      "h": 1132,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "first video prototype",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Process",
+          "Process documentation"
+        ],
+        "tags": [
+          "Exploring"
+        ],
+        "desc": "We decided to try to make a first wireframe of the final video, by studying the subjects and the camera positioning, even if the scene objects were not available yet.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7552.jpg",
+            "size": 2626932,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7552.jpg"
+          },
+          {
+            "name": "IMG_7556.jpg",
+            "size": 1876278,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7556.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nd1pc2c2",
+      "x": 17046.11820223172,
+      "y": 3279.97712062267,
+      "w": 320,
+      "h": 690,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "adding new posters",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communication"
+        ],
+        "tags": [],
+        "desc": "we printed other posters with new subjects, the photographies come from the archive of a family member of the team, that has kindly given the rights to use them for the projects, other come from public archives and Jimmy Nelson's reportage.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7550.jpg",
+            "size": 2690558,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7550.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n56jzbwt",
+      "x": 17458.704026574356,
+      "y": 964.6528703359754,
+      "w": 320,
+      "h": 639,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "printing the final artefacts",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Process documentation"
+        ],
+        "tags": [],
+        "desc": "we printed the communication artefacts to make print tests and to see the outputs.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_7555.jpg",
+            "size": 2769850,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_7555.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxklri5g",
+      "x": 15894.921215966033,
+      "y": -3362.7307375275263,
+      "w": 320,
+      "h": 645,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "tablet app developing",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Process documentation"
+        ],
+        "tags": [],
+        "desc": "with the tablet app (made with framer) you can learn about cultures and select the culture you will make the experience with. The process starts with information about the culture and then you can select the culture you want to adopt.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-29 alle 13.27.18.png",
+            "size": 119953,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-29_alle_13.27.18.jpg"
+          },
+          {
+            "name": "Screenshot 2026-01-29 alle 13.27.00.png",
+            "size": 414531,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-29_alle_13.27.00.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngj0gkpg",
+      "x": 16911.98921884767,
+      "y": 1872.8661049010857,
+      "w": 320,
+      "h": 773,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "vacuum-packing",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "we vacuumed all the object to make them seem like they have been preserved better.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-01 at 15.12.31.jpeg",
+            "size": 489047,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-01_at_15.12.31.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntvq71hx",
+      "x": 16391.98921884767,
+      "y": 4072.866104901086,
+      "w": 320,
+      "h": 1314,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "UNEC vests for volunteers",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "this is a model of the vest that will be worn by UNEC volunteers in the organizations.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-01 at 15.11.32 (1).jpeg",
+            "size": 333656,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-01_at_15.11.32_(1).jpg"
+          },
+          {
+            "name": "WhatsApp Image 2026-02-01 at 15.11.32.jpeg",
+            "size": 284081,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-01_at_15.11.32.jpg"
           }
         ]
       }
@@ -2394,35 +5128,496 @@
       "s": "n8rcmcs8",
       "t": "n85qsuy6",
       "dashed": true
+    },
+    {
+      "s": "niet1xwf",
+      "t": "nijz3fjn",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "ni854e3k",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "nct10ap6",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "nes88wxi",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "nqo2d9mt",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "njswoqvx",
+      "dashed": false
+    },
+    {
+      "s": "nf09166m",
+      "t": "nojoh5nf",
+      "dashed": false
+    },
+    {
+      "s": "nct10ap6",
+      "t": "n5kkwopv",
+      "dashed": false
+    },
+    {
+      "s": "nqo2d9mt",
+      "t": "n5kkwopv",
+      "dashed": false
+    },
+    {
+      "s": "n5kkwopv",
+      "t": "ndhivel5",
+      "dashed": false
+    },
+    {
+      "s": "ndhivel5",
+      "t": "nt2zmv4m",
+      "dashed": false
+    },
+    {
+      "s": "nijz3fjn",
+      "t": "n5bl14qz",
+      "dashed": false
+    },
+    {
+      "s": "nc9jpidj",
+      "t": "niet1xwf",
+      "dashed": false
+    },
+    {
+      "s": "n4yzr0fh",
+      "t": "nohxhf0o",
+      "dashed": false
+    },
+    {
+      "s": "n4yzr0fh",
+      "t": "n7gul1ib",
+      "dashed": false
+    },
+    {
+      "s": "nohxhf0o",
+      "t": "nst3ef37",
+      "dashed": false
+    },
+    {
+      "s": "n7gul1ib",
+      "t": "nst3ef37",
+      "dashed": false
+    },
+    {
+      "s": "nst3ef37",
+      "t": "ni854e3k",
+      "dashed": false
+    },
+    {
+      "s": "nqo2d9mt",
+      "t": "no1jd2fv",
+      "dashed": false
+    },
+    {
+      "s": "ni854e3k",
+      "t": "nf09166m",
+      "dashed": false
+    },
+    {
+      "s": "n5kkwopv",
+      "t": "n4c6jcpt",
+      "dashed": false
+    },
+    {
+      "s": "n4c6jcpt",
+      "t": "nz1seaio",
+      "dashed": false
+    },
+    {
+      "s": "ndhivel5",
+      "t": "nd1eepiv",
+      "dashed": false
+    },
+    {
+      "s": "ndhivel5",
+      "t": "nhyq9w50",
+      "dashed": false
+    },
+    {
+      "s": "ndhivel5",
+      "t": "nijfszt1",
+      "dashed": false
+    },
+    {
+      "s": "n453t6qy",
+      "t": "na2mxg7s",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "n5ynwr3l",
+      "dashed": false
+    },
+    {
+      "s": "n5ynwr3l",
+      "t": "na2mxg7s",
+      "dashed": false
+    },
+    {
+      "s": "nz1seaio",
+      "t": "n453t6qy",
+      "dashed": false
+    },
+    {
+      "s": "na2mxg7s",
+      "t": "nxysa265",
+      "dashed": false
+    },
+    {
+      "s": "nz1seaio",
+      "t": "nxysa265",
+      "dashed": false
+    },
+    {
+      "s": "n5bl14qz",
+      "t": "n4bgal0g",
+      "dashed": false
+    },
+    {
+      "s": "nxysa265",
+      "t": "ngwhljje",
+      "dashed": false
+    },
+    {
+      "s": "nxysa265",
+      "t": "nigmgfkx",
+      "dashed": false
+    },
+    {
+      "s": "ngwhljje",
+      "t": "nuoz9o75",
+      "dashed": false
+    },
+    {
+      "s": "nigmgfkx",
+      "t": "n70wd0wx",
+      "dashed": false
+    },
+    {
+      "s": "nd1eepiv",
+      "t": "n3rwqok2",
+      "dashed": false
+    },
+    {
+      "s": "nd1eepiv",
+      "t": "nnyt5jjq",
+      "dashed": false
+    },
+    {
+      "s": "na2mxg7s",
+      "t": "nxrm7yfe",
+      "dashed": false
+    },
+    {
+      "s": "nuoz9o75",
+      "t": "nxrm7yfe",
+      "dashed": false
+    },
+    {
+      "s": "n70wd0wx",
+      "t": "nxrm7yfe",
+      "dashed": false
+    },
+    {
+      "s": "nxrm7yfe",
+      "t": "nwq55jfa",
+      "dashed": false
+    },
+    {
+      "s": "n70wd0wx",
+      "t": "nwq55jfa",
+      "dashed": false
+    },
+    {
+      "s": "nuoz9o75",
+      "t": "nwq55jfa",
+      "dashed": false
+    },
+    {
+      "s": "nh97x6a2",
+      "t": "nwq55jfa",
+      "dashed": false
+    },
+    {
+      "s": "nwq55jfa",
+      "t": "nf31ns3s",
+      "dashed": false
+    },
+    {
+      "s": "nh97x6a2",
+      "t": "nf31ns3s",
+      "dashed": false
+    },
+    {
+      "s": "n3rwqok2",
+      "t": "n0m45b8f",
+      "dashed": false
+    },
+    {
+      "s": "n3rwqok2",
+      "t": "nus04p31",
+      "dashed": false
+    },
+    {
+      "s": "nf31ns3s",
+      "t": "nxwqoxbh",
+      "dashed": false
+    },
+    {
+      "s": "nf31ns3s",
+      "t": "n7ukwaj5",
+      "dashed": false
+    },
+    {
+      "s": "n7ukwaj5",
+      "t": "n34dhf9q",
+      "dashed": false
+    },
+    {
+      "s": "nxwqoxbh",
+      "t": "n34dhf9q",
+      "dashed": false
+    },
+    {
+      "s": "nxwqoxbh",
+      "t": "no4d3mbw",
+      "dashed": false
+    },
+    {
+      "s": "n3rwqok2",
+      "t": "nmxxgwps",
+      "dashed": false
+    },
+    {
+      "s": "nmxxgwps",
+      "t": "n3h2h894",
+      "dashed": false
+    },
+    {
+      "s": "n0m45b8f",
+      "t": "n5zyzlt1",
+      "dashed": false
+    },
+    {
+      "s": "nus04p31",
+      "t": "ns8aw5k0",
+      "dashed": false
+    },
+    {
+      "s": "n3rwqok2",
+      "t": "n8dwm2op",
+      "dashed": false
+    },
+    {
+      "s": "no4d3mbw",
+      "t": "neikewwt",
+      "dashed": false
+    },
+    {
+      "s": "n34dhf9q",
+      "t": "nyigc94o",
+      "dashed": false
+    },
+    {
+      "s": "nh97x6a2",
+      "t": "ndqvf5ra",
+      "dashed": false
+    },
+    {
+      "s": "nwq55jfa",
+      "t": "n6yhyjdc",
+      "dashed": false
+    },
+    {
+      "s": "n3rwqok2",
+      "t": "nefsgumi",
+      "dashed": false
+    },
+    {
+      "s": "nefsgumi",
+      "t": "nnauhcsn",
+      "dashed": false
+    },
+    {
+      "s": "nnauhcsn",
+      "t": "n9q3zve6",
+      "dashed": false
+    },
+    {
+      "s": "neikewwt",
+      "t": "ng8w0gph",
+      "dashed": false
+    },
+    {
+      "s": "nyigc94o",
+      "t": "njltw2wb",
+      "dashed": false
+    },
+    {
+      "s": "ndqvf5ra",
+      "t": "ntzrjlid",
+      "dashed": false
+    },
+    {
+      "s": "ndqvf5ra",
+      "t": "ns7qiv6l",
+      "dashed": false
+    },
+    {
+      "s": "n5zyzlt1",
+      "t": "njv2e59d",
+      "dashed": false
+    },
+    {
+      "s": "ns8aw5k0",
+      "t": "nj3ube1l",
+      "dashed": false
+    },
+    {
+      "s": "ns8aw5k0",
+      "t": "na127mu9",
+      "dashed": false
+    },
+    {
+      "s": "nnauhcsn",
+      "t": "npza5mej",
+      "dashed": false
+    },
+    {
+      "s": "njltw2wb",
+      "t": "n7in0k52",
+      "dashed": false
+    },
+    {
+      "s": "ng8w0gph",
+      "t": "npqfd13j",
+      "dashed": false
+    },
+    {
+      "s": "ng8w0gph",
+      "t": "ncqd76dh",
+      "dashed": false
+    },
+    {
+      "s": "npqfd13j",
+      "t": "n05t8vqi",
+      "dashed": false
+    },
+    {
+      "s": "n5zyzlt1",
+      "t": "n39v0jhy",
+      "dashed": false
+    },
+    {
+      "s": "n5zyzlt1",
+      "t": "nimf0a4r",
+      "dashed": false
+    },
+    {
+      "s": "n9q3zve6",
+      "t": "ncep8wxf",
+      "dashed": false
+    },
+    {
+      "s": "npza5mej",
+      "t": "nexpx9uf",
+      "dashed": false
+    },
+    {
+      "s": "npza5mej",
+      "t": "nh7ykssv",
+      "dashed": false
+    },
+    {
+      "s": "ncep8wxf",
+      "t": "nsy3qjj8",
+      "dashed": false
+    },
+    {
+      "s": "ns7qiv6l",
+      "t": "nsa8c5gl",
+      "dashed": false
+    },
+    {
+      "s": "n7in0k52",
+      "t": "nd1pc2c2",
+      "dashed": false
+    },
+    {
+      "s": "n05t8vqi",
+      "t": "n56jzbwt",
+      "dashed": false
+    },
+    {
+      "s": "na127mu9",
+      "t": "nxklri5g",
+      "dashed": false
+    },
+    {
+      "s": "ncqd76dh",
+      "t": "ngj0gkpg",
+      "dashed": false
+    },
+    {
+      "s": "njltw2wb",
+      "t": "ntvq71hx",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Branding",
+      "Machine",
+      "Socio-cultural",
+      "Socio-political",
+      "Critical design",
+      "Conflicts",
       "Critical theory",
+      "Amare i robot?",
+      "Media studies",
       "People",
       "Design research",
       "Communication",
-      "Critical design",
-      "Media studies",
-      "Amare i robot?",
-      "Socio-cultural",
-      "Conflicts",
-      "Socio-political"
+      "Process",
+      "Process documentation"
     ],
     "tags": [
-      "Source",
-      "Limited scope",
+      "Branding",
+      "Already explored",
       "Discarded",
-      "Already explored"
+      "Limited scope",
+      "Source",
+      "3d print",
+      "Exploring"
     ],
     "type": [
+      "Artefact",
+      "Sketch",
       "Finding",
-      "Brief",
-      "Feedback",
-      "Concept",
+      "Observation",
       "Source",
       "Collection",
-      "Case study"
+      "Feedback",
+      "Brief",
+      "Case study",
+      "Output",
+      "Concept"
     ]
   }
 }

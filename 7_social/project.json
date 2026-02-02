@@ -2,396 +2,3298 @@
   "version": 6,
   "nodes": [
     {
-      "id": "ny15p0wg",
-      "x": 0,
-      "y": 0,
+      "id": "n53q8d37",
+      "x": -458.5216311924259,
+      "y": 67.39649094891462,
       "w": 320,
-      "h": 807,
+      "h": 165,
       "group": null,
       "data": {
         "date": "2025-09-16",
-        "title": "Conflict: a Distributed Condition: Contemporary War Ecologies",
-        "type": "Brief",
+        "title": "group formation",
+        "type": "",
         "action": null,
         "mainArea": null,
-        "areas": [
-          "Socio-political",
-          "Media studies",
-          "Communication",
-          "Cultural practices",
-          "Critical design",
-          "Design research",
-          "Political ecology"
-        ],
-        "tags": [
-          "Distributed conflict",
-          "Latent violence",
-          "Systemic friction",
-          "Post-territorial",
-          "Embedded warfare",
-          "Socio-technical ecologies",
-          "Structural inequality",
-          "Cultural infrastructures"
-        ],
-        "desc": "\nConflict is not an exception or an isolated event — it is a constant condition running through society. It is not limited to war or explicit clashes: it emerges within collective life as friction, as a continuous confrontation between competing needs, systems, and visions.\nIt is not a punctual episode but a latent and distributed condition. It takes on asymmetric, often invisible forms, embedded in cultural practices, social relations, and infrastructures. Its logic is not confined to violence: it also structures coexistence, shaping who holds privilege and who is pushed to the margins.\nExploring distributed conflicts means reading the present as a field where techniques of offense multiply and blur into the infrastructures society depends on. The goal is to generate critical devices, scenarios, and questions that probe the ambiguous nature of conflict as a diffuse condition in a post-territorial age.\n",
+        "areas": [],
+        "tags": [],
+        "desc": "",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "nqaspco0",
-      "x": 480,
-      "y": 0,
+      "id": "n1li3nko",
+      "x": 386.83976924563467,
+      "y": 96.59766063260975,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Topic assignment",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nwwyaw0t",
+      "x": 1081.4542427434812,
+      "y": 98.25479814123193,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "Topic analysis and sup-topic research",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5zfw94u",
+      "x": 431.14500792362605,
+      "y": 1343.8344965179485,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "SOCIAL CONFLICT",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npyfr7zq",
+      "x": 1071.2725236308934,
+      "y": 523.2278547159635,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "generational conflict",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nqn35o9v",
+      "x": 1067.881119678866,
+      "y": 925.1833830301672,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "social isolation",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "normuiqi",
+      "x": 1068.3351553549728,
+      "y": 726.4820618123347,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "economical conflict",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "np50f5k8",
+      "x": 1061.9471665916367,
+      "y": 1120.705444945304,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "social struggles and protests",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n0hpeor7",
+      "x": 1057.4088339200512,
+      "y": 1314.5686093154482,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "religious conflict",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nybav3k4",
+      "x": 1057.8842322126675,
+      "y": 1505.7386791456895,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "migration flows",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7qtcjz6",
+      "x": 1057.1832821079906,
+      "y": 1704.0327419023556,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "privacy e identity",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8elxdg1",
+      "x": 1606.4156443298612,
+      "y": 86.86850053271348,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "theme selection",
+        "type": "Brief",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbg8pbbh",
+      "x": 2058.0125531844533,
+      "y": -100.98453838799327,
+      "w": 320,
+      "h": 658,
+      "group": null,
+      "data": {
+        "date": "2025-09-19",
+        "title": "Review with the professors and further selection",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "search for a small, even reductive, aspect, and exaggerate it, highlight it, give it value to reflect on a bigger thing\n\nimagine what the consequences of a situation would be: what would increasing or decreasing the conflict lead to\n\nwhat is the feeling linked to the issue?\n\nbe critical: there is a continuous narrative about \"everything is going to hell,\" but in reality, the world is always getting better than before\n\nconflict narrative / real conflict\n\ndifferent cultures exist with a different view of reality\n\nmore ironic keys can be used, one does not necessarily have to take the theme seriously and convey it in a serious, stereotyped, and classic way\n\nverify that the themes found match the sub-themes of social conflict\n\nbook: FACTFULNESS by Hans Rosling exhibition: INEQUALITIES at Triennale TV series: The Handmaid's Tale on Netflix",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nlr9ouq3",
+      "x": 1060.8356397272453,
+      "y": 1901.6017972283437,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "climate change and inequality",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nkjf7xa0",
+      "x": 1063.055350774107,
+      "y": 2101.508987667986,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-09-16",
+        "title": "political bipolarity",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nj0y65bh",
+      "x": 2057.2697045075474,
+      "y": 589.9581335584944,
       "w": 320,
       "h": 322,
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": "Linguistic conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Media studies",
-          "Semiotics",
-          "Communication design",
-          "Interface design",
-          "Cultural studies"
-        ],
-        "tags": [
-          "Memetics",
-          "Persuasive rhetoric",
-          "Semiotic warfare",
-          "Language manipulation",
-          "Interface politics",
-          "Discourse control"
-        ],
-        "desc": "",
+        "title": "generational conflict",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "focus on conflict\n\ndoes it make sense to increase it or try to smooth it out?\n\ntake data into account, categories are useful\n\nsee Alvar Aalto and the 7 cities",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "n4q8mtzu",
-      "x": 480,
-      "y": 362,
+      "id": "njfcmyhd",
+      "x": 2044.8370794587631,
+      "y": 1915.505193829671,
       "w": 320,
-      "h": 344,
+      "h": 372,
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": "Media conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Media theory",
-          "Journalism studies",
-          "Information systems",
-          "Political communication",
-          "Critical media design"
-        ],
-        "tags": [
-          "Propaganda systems",
-          "Disinformation",
-          "Deepfake",
-          "Rumor propagation",
-          "Narrative control",
-          "Attention economy"
-        ],
-        "desc": "",
+        "title": "climate change and inequality",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "it risks being too broad as a theme, we need to narrow it down\n\nlet's try not to talk about good or evil, or giving an opinion, but keep both points of view together\n\nfocus on the system, not on the struggle between people (silent conflict)\n\nit risks becoming an economic/macroeconomic discussion",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "nwl9ouvl",
-      "x": 480,
-      "y": 746,
+      "id": "n7m2510r",
+      "x": 2069.504175927466,
+      "y": 949.3637769267759,
       "w": 320,
-      "h": 344,
+      "h": 238,
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": "Cognitive conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Neuroscience",
-          "Human-computer interaction",
-          "Biopolitics",
-          "Cyberpsychology",
-          "Critical technology studies"
-        ],
-        "tags": [
-          "Neurocontrol",
-          "Brain hacking",
-          "Cognitive warfare",
-          "Neural interfaces",
-          "Psychopolitics"
-        ],
-        "desc": "",
+        "title": "social isolation",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "what is the real conflict? \n\nin what way does this generate conflict?",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "npongriz",
-      "x": 480,
-      "y": 1130,
+      "id": "n6sjqc9i",
+      "x": 2041.34154703497,
+      "y": 1636.599053566362,
       "w": 320,
-      "h": 344,
+      "h": 238,
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": "Metric conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Data ethics",
-          "Algorithm studies",
-          "Sociology of technology",
-          "Critical data studies",
-          "Digital governance"
-        ],
-        "tags": [
-          "Algorithmic bias",
-          "Data politics",
-          "Scoring systems",
-          "Quantification",
-          "Metric governance",
-          "Predictive control"
-        ],
-        "desc": "",
+        "title": "privacy and identity",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "theme narrows down a lot\n\ncareful: already similar projects\n",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "n7z0p86f",
-      "x": 480,
-      "y": 1514,
+      "id": "nwkqqfg8",
+      "x": 2703.9070252845463,
+      "y": 78.96878727990415,
       "w": 320,
-      "h": 299,
+      "h": 182,
       "group": null,
       "data": {
         "date": "2025-09-19",
-        "title": "Symbolic conflict",
+        "title": "Brainstorming and research on selected themes or new more specific details",
         "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Cultural studies",
-          "Art history",
-          "Memory studies",
-          "Heritage studies",
-          "Semiotics"
-        ],
-        "tags": [
-          "Cultural memory",
-          "Heritage politics",
-          "Myth-making",
-          "Iconographic power",
-          "Narrative hegemony",
-          "Semiotic infrastructures"
-        ],
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
         "desc": "",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "n92sunmm",
-      "x": 480,
-      "y": 1853,
+      "id": "nasdjce5",
+      "x": 2693.8457410596698,
+      "y": 555.2620964933398,
       "w": 320,
-      "h": 299,
+      "h": 238,
       "group": null,
       "data": {
-        "date": "2025-09-19",
-        "title": "Cultural conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Anthropology",
-          "Sociology",
-          "Cultural theory",
-          "Futures studies",
-          "Ethics"
-        ],
-        "tags": [
-          "Value systems",
-          "Ideological friction",
-          "Cultural hegemony",
-          "Future imaginaries",
-          "Norm contestation"
-        ],
-        "desc": "",
+        "date": "2025-09-23",
+        "title": "generational conflict and privacy",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "There are sounds – like ultrasounds – that are only audible to young people and imperceptible to those who are older.",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "n3vsqfai",
-      "x": 480,
-      "y": 2192,
+      "id": "nb0tib9z",
+      "x": 2697.2425783124577,
+      "y": 845.7504621922327,
       "w": 320,
-      "h": 299,
+      "h": 255,
       "group": null,
       "data": {
-        "date": "2025-09-19",
-        "title": "Social conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Sociology",
-          "Political science",
-          "Law and rights studies",
-          "Social policy",
-          "Critical theory"
-        ],
-        "tags": [
-          "Citizenship struggles",
-          "Rights negotiation",
-          "Representation crisis",
-          "Social stratification",
-          "Identity politics"
-        ],
-        "desc": "",
+        "date": "2025-09-23",
+        "title": "historical trauma",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Historical trauma and the collective memory of past injustices can perpetuate social conflicts across generations, fueling resentment, grievances, and hostility between groups.",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "ncob3sst",
-      "x": 480,
-      "y": 2531,
+      "id": "nqx3mp3o",
+      "x": 2696.13615876532,
+      "y": 1163.416622544679,
       "w": 320,
-      "h": 344,
+      "h": 272,
       "group": null,
       "data": {
-        "date": "2025-09-19",
-        "title": "Bureaucratic conflict",
+        "date": "2025-09-23",
+        "title": "hostile architecture",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Hostile architecture is a design approach for public spaces that incorporates physical elements (uncomfortable benches, central armrests, spikes, sloped surfaces, etc.) intended to limit or discourage undesirable behaviors, such as sleeping or lingering.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nl71wdsj",
+      "x": 2703.346055099746,
+      "y": 1505.5393071783797,
+      "w": 320,
+      "h": 255,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "Accesso alla casa e gentrificazione turistica",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "The proliferation of short-term rentals (like Airbnb) has transformed entire neighborhoods into temporary hospitality zones, drastically reducing the availability of stable housing for residents.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndl10kkt",
+      "x": 2707.9440602777368,
+      "y": 1868.2791539919924,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "gated communities",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Gated communities are residential neighborhoods enclosed and controlled by gates or private surveillance, designed to guarantee security and privacy for the inhabitants and to separate themselves from the surrounding urban space.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nm1839bk",
+      "x": 3512.907692045139,
+      "y": -3.6030923311579386,
+      "w": 320,
+      "h": 406,
+      "group": null,
+      "data": {
+        "date": "2025-09-23",
+        "title": "review with assistants",
         "type": "Brief",
         "action": null,
         "mainArea": null,
-        "areas": [
-          "Legal studies",
-          "Political geography",
-          "Bureaucracy studies",
-          "Governance",
-          "Critical urbanism"
-        ],
-        "tags": [
-          "Administrative violence",
-          "Legal cartographies",
-          "Border regimes",
-          "Paper governance",
-          "Procedural control"
-        ],
+        "areas": [],
+        "tags": [],
+        "desc": "Good research, aspects that intersect different themes\n\nThere is no risk of spilling over into other conflicts, but of losing the social dynamics linked to our conflict\n\nPractical advice: risk of superficializing and arriving at a simplified output such as: 'this thing is bad.'\n\nLet's not necessarily project ourselves onto futuristic things, we risk not allowing the user to relate, we don't need this 'noise'",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n57aovck",
+      "x": 7431.65587586204,
+      "y": -60.25204181280699,
+      "w": 320,
+      "h": 406,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "review with assistants",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Clear Conflict, great ironic potential\n\nThe aspects we have designed are fine, but we should think about small variations, without changing the core\n\nSome cities want tourists to earn money (city seen as a government that does not primarily want the well-being of its citizens)\n\nWe can start working finely on the tone of voice, values, palette, graphic identity, branding (a couple of proposals)",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nm1bolze",
+      "x": 6627.56773600611,
+      "y": -264.02132872812524,
+      "w": 320,
+      "h": 742,
+      "group": null,
+      "data": {
+        "date": "2025-10-10",
+        "title": "review with assistants",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "1 => build a narrative, but first try to think about what the most important message I want to convey is, the message must be one and clear, e.g., a banal example 'a caste of people exploit the few for their advantage,' the idea that a pension is a privilege, we young people feel we have to work until death. Try to explicitly state the film 'cameos' in the project as much as possible to make them immediately noticeable, so even make them too explicit or conversely use them as a reference and try to deviate; if we don't deviate too much, we need to think of an elegant way to clearly articulate this reference, keep somewhat the same narrative line; the risks of the first lie in the careful work on the references, but he still likes it very much, it just needs to be done in a refined way\n\n2 => meh, anyway, basically he likes it, here too the issue of references, here the main critical point to be careful of is the risk of it becoming a bit too silly, a bit an end in itself\n\nThe point is that it's important first and foremost to get people to think about social conflict, these scenarios are 'excuses' to talk about social conflict, which of the two conveys the message better? either by taking a radical stance or by remaining completely neutral, so I reason carefully about which of the two scenarios helps to convey the message better; perhaps the first tends to be more radical and the second less, what tone of voice do we want to maintain? what message do we want to convey about social conflict?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n40976fb",
+      "x": 5762.551433901078,
+      "y": 48.31314790150009,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "scenario presentation",
+        "type": "Brief",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "generational conflict\n\noverturism\n\nhistorical trauma\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4d1hvuk",
+      "x": 4092.1555685806434,
+      "y": 1294.6775632100366,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "HISTORICAL TRAUMA",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
         "desc": "",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "ne7rohui",
-      "x": 480,
-      "y": 2915,
+      "id": "nizlzxq1",
+      "x": 4636.949029196542,
+      "y": 318.5254727067188,
       "w": 320,
       "h": 322,
       "group": null,
       "data": {
-        "date": "2025-09-19",
-        "title": "Digital conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Computer science",
-          "Cybersecurity",
-          "Digital geopolitics",
-          "Ai ethics",
-          "Critical infrastructure studies"
-        ],
-        "tags": [
-          "Automation control",
-          "Kill chain",
-          "Ai warfare",
-          "Protocol politics",
-          "Simulated conflict",
-          "Cyberwarfare"
-        ],
+        "date": "2025-10-07",
+        "title": "Context",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Historical trauma does not belong only to the past: through epigenetics, experiences of suffering can leave biological marks that influence subsequent generations. Research on descendants of survivors of wars, genocides, and discrimination shows how collective stress can translate into psychological and physiological vulnerability. Trauma thus becomes an inheritance that is not only cultural but also genetic.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nu3hz37x",
+      "x": 4637.422791614729,
+      "y": 649.8225179675798,
+      "w": 320,
+      "h": 372,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Topic for consideration",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Inherited trauma can be interpreted in different ways:\n\nas a factor of vulnerability, perpetuating stress and distrust;\n\nor as a biological memory, preserving identity and cultural ties.\n\nThe open question is whether this inheritance represents a limit to be overcome or an element to be understood and maintained.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nw9u99gy",
+      "x": 4638.967766773481,
+      "y": 1039.8982365558784,
+      "w": 320,
+      "h": 356,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "What if",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "In a future where genetic modification is common practice, a pharmaceutical company develops a treatment capable of intervening on the epigenetic markers of trauma. Every individual can choose whether to keep or remove the biological inheritance of pain. Those who decide to eliminate it stop the transmission of trauma to future generations, and also choose to lose the personal memory of the painful experiences from which this inheritance originated.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n2pnog3p",
+      "x": 4643.005241927362,
+      "y": 1410.6783063651571,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "definition and cause of the conflict",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "The conflict arises from the differing interpretations of the relationship between memory and well-being: on one side, those who consider genetic erasure a form of prevention, and on the other, those who deem it necessary to maintain the biological trace of the past as an element of historical continuity.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nd70o6av",
+      "x": 4645.023979504301,
+      "y": 1718.8775112893031,
+      "w": 320,
+      "h": 423,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Agents and dynamics of the conflict",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Scientific institutions and research centers: They study the effects of inherited trauma and develop technologies to reduce its impact, with the aim of improving the mental and biological health of populations.\n\nCultural communities and social groups: They focus attention on the value of shared memory, considering it an essential component of collective identity and historical awareness.\n\nThe Public: They oscillate between the desire to lighten the burden of the past and the willingness to preserve the connection to their origins.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n9aey3n8",
+      "x": 4644.769693971498,
+      "y": 2165.3835602620525,
+      "w": 320,
+      "h": 238,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Entity-subject",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "We position ourselves as a biotechnology company that offers the choice between remembering and forgetting.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nrorng08",
+      "x": 5182.255223229972,
+      "y": 1172.5232482052056,
+      "w": 320,
+      "h": 429,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "HISTORICAL TRAUMA",
+        "type": "Moodboard",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-10-14_at_16.17.03.jpg",
+            "size": 413745,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-14_at_16.17.03.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfo6a4s5",
+      "x": 4187.918369281363,
+      "y": 5393.1316591269515,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "GENERATIONAL CONFLICT",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
         "desc": "",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "nr86jk3r",
-      "x": 480,
-      "y": 3277,
+      "id": "nzn5ops2",
+      "x": 4664.793460615899,
+      "y": 4585.032832652732,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Context",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "In the near future, retirement no longer exists for the majority. A ruling class of elderly and retired people lives thanks to the labor of the new generations, who work until death to maintain their privileges. Generational change is only possible for the elites.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nbk7s5my",
+      "x": 4665.574249354692,
+      "y": 4891.115934238984,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Topic for consideration",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "What happens when the survival of the few is founded on the sacrifice of the many? The social contract becomes a system of biological exploitation, where youth is a resource and old age is a privilege to be protected at all costs.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nojb24n9",
+      "x": 4666.812198192838,
+      "y": 5177.37276384916,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "What if",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "What if longevity has become the new social privilege? The elderly prolong their lives thanks to the bodies of the young, used as 'biological matter.' Work and the body lose human value, becoming fuel for those who hold the power.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1oi2vit",
+      "x": 4668.373775670427,
+      "y": 5486.541545236707,
+      "w": 320,
+      "h": 255,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "definition and cause of the conflict",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Conflict between those who live off privilege and those who sustain it. An integrated system of economic power and biotechnology maintains inequality and hinders generational turnover.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ny6uzva3",
+      "x": 4670.392513247365,
+      "y": 5767.792029207207,
+      "w": 320,
+      "h": 305,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Agents and dynamics of the conflict",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Elderly ruling class: Political power, control of resources.\n\nYoung workers: Productive and biological force.\n\nBiotechnology structures: Instruments of exploitation and control.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n2b73r2b",
+      "x": 4672.411250824307,
+      "y": 6103.513070534017,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Entity-subject",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "A biotechnology company manages human farms for transplants and life extension. It presents itself as a 'guarantor of the future,' but in reality, it transforms the human body into a resource. It is the symbol of a civilization that, in order not to die, devours itself.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ntdql0d2",
+      "x": 5198.344546805237,
+      "y": 5260.699251904556,
+      "w": 320,
+      "h": 456,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "GENERATIONAL CONFLICT",
+        "type": "Moodboard",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-10-14_at_16.26.56.jpg",
+            "size": 330109,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-14_at_16.26.56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nm9rz2k4",
+      "x": 4166.396989286727,
+      "y": 3372.1439871733182,
+      "w": 320,
+      "h": 165,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "OVERTURISM",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n214s3xz",
+      "x": 4652.875091334535,
+      "y": 2451.798944722069,
+      "w": 320,
+      "h": 339,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Context",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "In recent years, the phenomenon of overtourism has transformed many European cities, including Barcelona, Venice, and Florence. Mass tourism generates daily discomfort for residents: rising prices, loss of public spaces, and congested streets. At the same time, tourists themselves also experience an impoverished experience: endless queues, overcrowded places, and a lack of authenticity.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nux42o98",
+      "x": 4653.655880073329,
+      "y": 2814.0831015862514,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Topic for consideration",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "The core issue is not to establish whether tourism is 'right' or 'wrong,' but to question how sustainable the coexistence is between those who live in the city and those who pass through it. What happens when hospitality turns into exasperation? To what extent are residents willing to defend their daily lives?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1cnrq9r",
+      "x": 4657.166852021218,
+      "y": 3119.950468692884,
+      "w": 320,
+      "h": 305,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "What if",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "What if, one day, citizens had access to a device that allows them to identify and hit tourists with non-lethal weapons, such as BB guns or paintball guns, turning the city into a kind of gamified hunt? The scenario we imagine is one of extreme tourism, where visiting a city is no longer a cultural experience, but a challenge of survival.\n",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n2vhnnlq",
+      "x": 4663.274475718293,
+      "y": 3453.503691771524,
+      "w": 320,
+      "h": 305,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "definition and cause of the conflict",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Definition and reason for the conflict The conflict arises from two opposing needs: The residents want to reclaim their spaces, defending themselves against a perceived invasion. The tourists seek authentic experiences and free access to the cities. The device exacerbates this tension, normalizing the idea that 'hunting tourists' is a legitimate act.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n1uzx8aq",
+      "x": 4665.293213295231,
+      "y": 3785.2500360144627,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Agents and dynamics of the conflict",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "The main actors are: \nThe citizens, who become armed players and defenders. The tourists, transformed into collectible targets. The city becomes an arena, where tourism fuels the very conflict that rejects it.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n3wkttwz",
+      "x": 4667.840433119067,
+      "y": 4072.794419246513,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "Entity-subject",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "In this scenario, a technology company specializing in 'playful urban defense' emerges. Its role is to provide tools that respond to the residents' need to reassert control over the city. But at the same time, it intercepts a new market: adrenaline tourism. A short circuit where protest becomes entertainment.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nh6s41ti",
+      "x": 5185.63219895042,
+      "y": 3374.10856923765,
+      "w": 320,
+      "h": 470,
+      "group": null,
+      "data": {
+        "date": "2025-10-14",
+        "title": "OVERTURISM",
+        "type": "Moodboard",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-10-14_at_16.27.07.jpg",
+            "size": 444005,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-14_at_16.27.07.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ng88m66d",
+      "x": 5881.334121534658,
+      "y": 614.2687625307736,
+      "w": 320,
+      "h": 473,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "WHO WE ARE",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "We are a private company operating in the field of human biotechnology applied to longevity. In a society that has surpassed the natural limits of age and reproduction, our task is to ensure vital continuity through a system of breeding and biological optimization of the new generations.\n\nYoung people today represent an essential resource: they are used as a source of 'Linfa' (Sap/Lifeblood), an organic substance indispensable for prolonging the lives of the elderly population. Thanks to our progress in the medical and engineering fields, it is now possible to regenerate organs, tissues, and vital functions by transferring biological components from the healthiest subjects to those in need. Our goal is to guarantee longevity to the elderly population through the exploitation of the new generations.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nrpi44zm",
+      "x": 5880.058403400974,
+      "y": 1178.333147859932,
+      "w": 320,
+      "h": 423,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "PROGRAM'S LIFE CYCLE",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Birth → registration and cataloging according to biological and genetic parameters.\n\nProductive Age → entry into the work cycle and controlled physiological maintenance.\n\nProgrammed Reproduction → generation of new biological units.\n\nExtraction of the Linfa (Lifeblood/Sap) → progressive harvesting until the subject's natural exhaustion.\n\nOrganic Recovery → removal of tissues and organs for regenerative and surgical procedures.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4j6eryv",
+      "x": 5890.0620672424975,
+      "y": 1752.272230895015,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "VISION",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "We imagine a future where life is no longer a universal right, but a resource to be administered precisely. Our mission is to make the longevity of a portion of the population efficient and controlled. A world where every drop of lifeblood finds its purpose.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nust21ku",
+      "x": 5884.206363381264,
+      "y": 2188.7706238722167,
+      "w": 320,
+      "h": 238,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "DEVICE",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "Our biological management system is composed of two interconnected devices: a personal wearable and a domestic totem.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7v6owfh",
+      "x": 6369.959669583381,
+      "y": 1352.8264503574264,
+      "w": 320,
+      "h": 639,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "WEARABLE",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "A biometric pendant for the elderly, to be worn around the neck, designed to track in real-time: the Linfa (Lifeblood/Sap) level; vital parameters;\n\nThe device constantly sends data to the Totem, ensuring continuous and transparent monitoring of vital performance.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-10-21_at_12.04.21.jpg",
+            "size": 127469,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-21_at_12.04.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ne0ttu15",
+      "x": 6369.340110431274,
+      "y": 2030.7470680985118,
+      "w": 320,
+      "h": 389,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "TOTEM",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "A desktop object with a minimalist design, about the size of a small household appliance. In the upper section, an interactive screen displays: the profile of the assigned young person; their vital statistics; the availability of purchasable organs or biological components.\n\nThe lower section contains reserves of Linfa-based products, ready for daily consumption. The Totem and the Wearable operate in synergy, suggesting when and what to consume to maintain the elderly user's optimal vital parameters.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmpoy1by",
+      "x": 6726.79957971982,
+      "y": 1327.4296871090419,
+      "w": 320,
+      "h": 1089,
+      "group": null,
+      "data": {
+        "date": "2025-10-07",
+        "title": "MEDICAL KIT",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [],
+        "tags": [],
+        "desc": "a medical kit for the elderly medicines to maintain youth and strength, etc. → imagining that young people possess a special 'sap of youth,' we can play with creating bags of hypothetical materials that grant strength, beauty, etc., like miracle cures syringes for injecting the sap parts of 'synthetic' membranes or organs created from studies on the young patches that gradually release the sap of youth for critical situations pill boxes Petri dish where tissue can be 'grown' starting from that of a young donor device that allows monitoring various parameters (always related to youth, such as a percentage of youth, both physical and mental, and general state of health), but also, for example, to find if there are compatible young people to donate organs (maybe the idea of using identification codes for young people, as if they were just a number) imagining that every elderly person can find a perfect donor → device that allows the extraction and conservation of the 'sap of youth' + related instruction manual labels written with 'donor n.010192,' age, and important parameters (always emphasizing that young people are just a number)? I like the concept of 'sap' and it would be cool to make it a crazy color like neon, silver, or black (?) because it detaches from the idea we have of normal bodily fluids",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-10-21_at_12.11.24.jpg",
+            "size": 250107,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-21_at_12.11.24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7t5l9fw",
+      "x": 7269.883290903963,
+      "y": 4378.677042373133,
       "w": 320,
       "h": 322,
       "group": null,
       "data": {
-        "date": "2025-09-19",
-        "title": "Ecological conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Political ecology",
-          "Environmental studies",
-          "Sustainability studies",
-          "Geography",
-          "Climate justice"
-        ],
-        "tags": [
-          "Geoengineering",
-          "Resource wars",
-          "Ecocide",
-          "Energy politics",
-          "Environmental violence",
-          "Multispecies justice"
-        ],
-        "desc": "",
+        "date": "2025-10-21",
+        "title": "WHO WE ARE 1.1",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "A private company identifies an opportunity for profit in the problem of overtourism. It therefore decides to intervene, offering an exasperated citizenry a product, a game, presented as the solution to their discomfort. In this way, the company positions itself above the two conflicting groups, exploiting the tension between tourists and residents to gain an economic advantage.",
         "links": [],
         "files": []
       }
     },
     {
-      "id": "nvlahv4k",
-      "x": 480,
-      "y": 3639,
+      "id": "n4dajkf5",
+      "x": 7269.967855901348,
+      "y": 4043.178688691503,
       "w": 320,
-      "h": 344,
+      "h": 305,
       "group": null,
       "data": {
-        "date": "2025-09-19",
-        "title": "Infrastructural conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Infrastructure studies",
-          "Urban studies",
-          "Political geography",
-          "Systems theory",
-          "Supply chain studies"
-        ],
-        "tags": [
-          "Logistics power",
-          "Infrastructural geopolitics",
-          "Network control",
-          "Chokepoints",
-          "Extractive systems"
-        ],
+        "date": "2025-10-21",
+        "title": "WHERE",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "In the European locations (especially large cities) most affected by this phenomenon.\n\nSome are: -Barcelona -Lisbon -Berlin -Florence -Venice -Rome\n\n*mostly large European cities",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nt0cjo72",
+      "x": 7269.567290002955,
+      "y": 3354.85828641802,
+      "w": 320,
+      "h": 671,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "CURRENT SCENARIO",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
         "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot_2025-10-21_at_16.20.29.jpg",
+            "size": 360930,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-10-21_at_16.20.29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnfo01qg",
+      "x": 7268.294720744696,
+      "y": 3110.8228506364794,
+      "w": 320,
+      "h": 204,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "CONFLICT ACTORS",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "citizens vs tourists",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "np17it59",
+      "x": 7268.386139690511,
+      "y": 2768.3131479015005,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "WHY THE CONFLICT EXISTS",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "The core issue is not establishing whether tourism is 'right' or 'wrong,' but questioning how sustainable the coexistence is between those who live in the city and those who pass through it. -What happens when hospitality becomes exasperation? -To what extent are residents willing to defend their daily life?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nser16q6",
+      "x": 7726.773849114788,
+      "y": 2791.141449366123,
+      "w": 320,
+      "h": 221,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "WHAT IF",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "What if citizens could hunt tourists to take back the city?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "no7joxia",
+      "x": 7729.75993469485,
+      "y": 3274.0440484265537,
+      "w": 320,
+      "h": 339,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "SPECULATIVE SCENARIO",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "We place ourselves in the near future, where the problem of overtourism (already severe today) has not only not been resolved, but has worsened further. Let's imagine a community of exasperated residents who, after years of unheard protests and increasing frustration, find themselves living in an unsustainable situation. Faced with the inertia of the institutions, the desire to find increasingly radical solutions grows among them.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n7izp6ja",
+      "x": 7744.148873943834,
+      "y": 4125.3421949651465,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "OUR OBJECTIVES",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Exploiting the citizens' discontent and the overtourism crisis to transform collective discomfort into a profitable recreational experience.\n\nInstead of solving the problem, we fuel it, converting social frustration into entertainment and profit.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nuje39fm",
+      "x": 8154.730554911829,
+      "y": 4045.9853368391687,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "PRODUCT",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "The kit \nThe main product sold to citizens is a 'urban hunter' kit, composed of: A Paintball gun, with additional accessories. A Recognition Device, which allows for the identification and collection (tagging/scoring) of tourists.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8e0ctog",
+      "x": 8181.012452840292,
+      "y": 3169.246638888669,
+      "w": 320,
+      "h": 440,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "GAME RULES",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Hunting seasons: the game is structured into seasons (events), determined by the peaks of tourist influx in different cities (for example, Milan in winter, Barcelona in summer).\n\nTeam play: players act in groups, collaborating to achieve common goals that determine the community's success. However, there are also individual milestones, which reward single players upon completion of specific personal achievements.\n\nScoring system: points are accumulated through the 'collection' of different categories of hit tourists, categorized by levels of rarity based on predetermined parameters.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5oh5exm",
+      "x": 6772.758206065996,
+      "y": 3053.921146923454,
+      "w": 320,
+      "h": 223,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "Le molte proteste contro i turisti nelle città italiane",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Article"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.ilpost.it/2024/11/13/proteste-turisti-italia/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nitt6edj",
+      "x": 6775.14479499889,
+      "y": 3292.442488950211,
+      "w": 320,
+      "h": 257,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "Tra Italia, Spagna e Portogallo si è tenuta una delle più grandi proteste del movimento contro l’overtourism",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Article"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.rivistastudio.com/manifestazioni-contro-overtourism-italia/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nq3zimcm",
+      "x": 6778.188097848634,
+      "y": 3564.556154550566,
+      "w": 320,
+      "h": 240,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": " Ai movimenti contro l’overtourism la protesta non basta più",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Article"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.rivistastudio.com/proteste-contro-turismo-italia/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "n8a293aw",
+      "x": 6779.097422651475,
+      "y": 3822.8159716490345,
+      "w": 320,
+      "h": 240,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "Le proteste contro l'overtourism nelle principali città europee",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Article"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.wired.it/gallery/proteste-overtourism-citta-europa-barcellona-venezia-foto/"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nbgfgmgw",
+      "x": 6782.8403185514535,
+      "y": 4084.4167855485684,
+      "w": 320,
+      "h": 274,
+      "group": null,
+      "data": {
+        "date": "2025-10-21",
+        "title": "Il 15 giugno in tutta Europa ci saranno manifestazioni contro il turismo. L'attivista italiana: «Il turismo non ci salverà, anzi, mette a rischio il diritto di vivere nelle nostre di città»",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Speculation",
+        "areas": [
+          "Article"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [
+          "https://www.vanityfair.it/article/overtourism-manifestazione-europa-set"
+        ],
+        "files": []
+      }
+    },
+    {
+      "id": "nl1bh8j9",
+      "x": 8627.909481657052,
+      "y": 3665.0478069940045,
+      "w": 320,
+      "h": 221,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "tourists' identification",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "research of a method to identify tourists: typical tourists' objects? their ethnical features?",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n8hpssjv",
+      "x": 8638.730754729797,
+      "y": 4104.637340204223,
+      "w": 320,
+      "h": 221,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "device",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "a paintball gun to shoot tourists, without hurting them, but disturbing them and creating nuisance.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nm1kxdnt",
+      "x": 8993.701159777227,
+      "y": 3660.5229919088247,
+      "w": 320,
+      "h": 221,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "Arduino",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "research for the use of an external camera, a screen as a sight (or viewfinder), and a button as a trigger.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npf9pwhl",
+      "x": 9393.759294365844,
+      "y": 3648.8405978349374,
+      "w": 320,
+      "h": 238,
+      "group": null,
+      "data": {
+        "date": "2025-11-13",
+        "title": "phone integration",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Following the professors' advice, we opted for using the phone instead of a camera and sight (or viewfinder).",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nsjc2umg",
+      "x": 9803.398788953267,
+      "y": 3652.038802626418,
+      "w": 320,
+      "h": 238,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "Web App",
+        "type": "Research",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "development of a web app that can use the phone's camera to recognize tourists and insert them into an archive.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nw2buu3z",
+      "x": 11301.849220439028,
+      "y": 2851.5256128325054,
+      "w": 320,
+      "h": 221,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Swift UI",
+        "type": "Research",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "switching to app development in order to have more control and greater integration.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nc507vmj",
+      "x": 9316.496048445688,
+      "y": 2771.2078522771644,
+      "w": 320,
+      "h": 794,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Vibrant motor arduino",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "integration of two vibrating motors via Arduino, activated by a button, to simulate the firing effect when the trigger is pressed.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3552.JPG",
+            "size": 3969437,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3552.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nh1zpujm",
+      "x": 8943.375522732344,
+      "y": 3047.15203453951,
+      "w": 320,
+      "h": 382,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Vibrant motor arduino",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-11-18 at 12.13.30.png",
+            "size": 481768,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-11-18_at_12.13.30.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nasyqn0c",
+      "x": 9112.088494935984,
+      "y": 4104.637340204223,
+      "w": 320,
+      "h": 693,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "weapon draft 1",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "first draft of the weapon, with integrated sight and camera, and connection to the phone to keep track of the archive of hit tourists.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-10-10 at 12.35.35.jpeg",
+            "size": 76491,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-10-10_at_12.35.35.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nkzzu6oo",
+      "x": 9592.088494935984,
+      "y": 4009.8817733964524,
+      "w": 320,
+      "h": 724,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "weapon draft 1.2",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "second draft of the weapon with a transparent sight, camera and trigger connected to Arduino + smartphone attached to keep track of tourists and statistics.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3895.jpg",
+            "size": 1734749,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3895.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsw2yc0n",
+      "x": 9993.177373979184,
+      "y": 4094.503989992567,
+      "w": 320,
+      "h": 660,
+      "group": null,
+      "data": {
+        "date": "2025-11-11",
+        "title": "weapon draft 1.3",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "third draft of the weapon, with an organic shell/body, integrated sight, smartphone, and camera.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3896.JPG",
+            "size": 1695886,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3896.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nej6kstm",
+      "x": 9699.76728853407,
+      "y": 4776.54804984006,
+      "w": 320,
+      "h": 467,
+      "group": null,
+      "data": {
+        "date": "2025-11-11",
+        "title": "Iphone Dock",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Iphone dock by Scott Yu Jan",
+        "links": [],
+        "files": [
+          {
+            "name": "Scott-Yu-Jan-x-OVERWERK-iPhone-Standy-Mode-Dock-3.jpg",
+            "size": 85661,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Scott-Yu-Jan-x-OVERWERK-iPhone-Standy-Mode-Dock-3.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "naium5h9",
+      "x": 10552.088494935984,
+      "y": 4212.637340204223,
+      "w": 320,
+      "h": 649,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "weapon draft 2.1",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "fourth draft of the weapon with a sight, LEDs, camera, and a screen instead of the phone that only shows the number of tourists hit during the session.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3897.jpg",
+            "size": 1175002,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3897.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlu1ex2p",
+      "x": 11040.088494935984,
+      "y": 4224.637340204223,
+      "w": 320,
+      "h": 680,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "weapon draft 3.1",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "fifth draft of the weapon, complete and futuristic shell/body, with grip, magazine integration of the phone as a sight/viewfinder, with an integrated camera",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3898.jpg",
+            "size": 1257912,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3898.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9v0q27o",
+      "x": 11039.130861850452,
+      "y": 4931.044911981975,
+      "w": 320,
+      "h": 348,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "weapon draft 3.1",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3899.jpg",
+            "size": 1246098,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3899.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nt5wup8n",
+      "x": 10629.542634061245,
+      "y": 4939.531517615179,
+      "w": 320,
+      "h": 413,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "Magazine draft 3.1",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "idea of a cartridge magazine, with wings/tabs (or fins) for extraction and changing.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3900.JPG",
+            "size": 3238224,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3900.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "npp2knil",
+      "x": 10204.995671209172,
+      "y": 4817.596081031223,
+      "w": 320,
+      "h": 424,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "Submachine gun FN P-ninety",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "The FN P90 is a personal defense weapon chambered for the 5.7×28mm cartridge, also classified as a submachine gun, designed and manufactured by FN Herstal in Belgium",
+        "links": [],
+        "files": [
+          {
+            "name": "P90_Official_No_Bg.png",
+            "size": 1566631,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/P90_Official_No_Bg.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4zep8ut",
+      "x": 8794.984702752676,
+      "y": 7066.010761711067,
+      "w": 320,
+      "h": 238,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Packaging",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Our weapon will be shipped to citizens inside a box that will also contain a flyer with instructions, some ammunition, and welcome badges.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "np1sqdl3",
+      "x": 9176.781553977833,
+      "y": 7067.204805605208,
+      "w": 320,
+      "h": 760,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "Bozza packaging 1.1",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "metal briefcase, in the style of a weapon case",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3901.JPG",
+            "size": 2860207,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3901.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nlfw7b29",
+      "x": 9563.223890973039,
+      "y": 7042.948826091739,
+      "w": 320,
+      "h": 238,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "Packaging Issues 1.1",
+        "type": "Observation",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "limited possibility for customization, very large weapon dimensions which would result in a box that is too wide/large and inconvenient.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "noivetmu",
+      "x": 8800.672297882833,
+      "y": 7437.859185965086,
+      "w": 320,
+      "h": 478,
+      "group": null,
+      "data": {
+        "date": "2025-11-07",
+        "title": "briefcase",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-02 at 15.21.31.png",
+            "size": 330972,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-02_at_15.21.31.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbq38gk6",
+      "x": 9564.750411959914,
+      "y": 7348.447268739712,
+      "w": 320,
+      "h": 586,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "Interlocking cardboard boxes",
+        "type": "Source",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": " -24.jpg",
+            "size": 71759,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/_-24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ndol058b",
+      "x": 10037.933502423666,
+      "y": 7135.785331115998,
+      "w": 320,
+      "h": 427,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "packaging draft 2.1",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Interlocking plywood box",
+        "links": [],
+        "files": [
+          {
+            "name": "Structura_box_L_1.png",
+            "size": 376341,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Structura_box_L_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3ejw669",
+      "x": 10042.312836890193,
+      "y": 7591.166819392728,
+      "w": 320,
+      "h": 386,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "packaging draft 2.1",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Structura_box_L_3.png",
+            "size": 592239,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Structura_box_L_3.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nm9kn9hb",
+      "x": 11509.016790233734,
+      "y": 4109.3204677913545,
+      "w": 320,
+      "h": 777,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "1:1 Styrofoam prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "styrofoam prototype to understand the weapon's dimensions/size, usability, and user interaction.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3390.JPG",
+            "size": 2852170,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3390.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2jhmnd6",
+      "x": 11506.630484800453,
+      "y": 4927.010815994359,
+      "w": 320,
+      "h": 357,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "1:1 Vector view of the weapon",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "bde73a39-501d-490d-80b4-c993451ef877.jpg",
+            "size": 43587,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/bde73a39-501d-490d-80b4-c993451ef877.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nz2c5l93",
+      "x": 10177.496350760755,
+      "y": 3357.824491391225,
+      "w": 320,
+      "h": 437,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "webapp prototype 1.1",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "prototype made in figma of the webapp's main pages",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 2.33.03 PM.png",
+            "size": 537509,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_2.33.03_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncomess5",
+      "x": 10546.72108877068,
+      "y": 2565.867265769059,
+      "w": 320,
+      "h": 910,
+      "group": null,
+      "data": {
+        "date": "2025-11-25",
+        "title": "SHOP",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "development of a shop page within the web app to allow the purchase of accessories, weapon add-ons, and ammunition.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 12.05.24 PM.png",
+            "size": 42622,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_12.05.24_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na677o3c",
+      "x": 10551.987415321451,
+      "y": 3500.357645152075,
+      "w": 320,
+      "h": 441,
+      "group": null,
+      "data": {
+        "date": "2025-11-18",
+        "title": "webapp prototype 1.2",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "continuing prototype on figma by adding pages and functionalities and trying out a new style",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 2.37.38 PM.png",
+            "size": 831258,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_2.37.38_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n6209b8l",
+      "x": 10895.977057622718,
+      "y": 2515.784789000162,
+      "w": 320,
+      "h": 591,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "WALL",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "substituted shop page, now in our opinion superfluous, with a \"wall\" page that is meant to help our community connect through sharing posts in-app, prototyped",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 2.40.56 PM.png",
+            "size": 456515,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_2.40.56_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntweyyyt",
+      "x": 8852.155933404669,
+      "y": 5246.186629002941,
+      "w": 320,
+      "h": 221,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Website",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "website that supports the communication and makes it possible for the citizen to buy our product",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "np6g3n0z",
+      "x": 9221.131467765936,
+      "y": 5112.454111232042,
+      "w": 320,
+      "h": 689,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "homepage",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "figma prototype",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 2.43.54 PM.png",
+            "size": 405769,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_2.43.54_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbqhazrd",
+      "x": 9597.471579933019,
+      "y": 5353.254555848269,
+      "w": 320,
+      "h": 440,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "shop and check out",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "figma prototype",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 2.44.04 PM.png",
+            "size": 283910,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_2.44.04_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nimo77vj",
+      "x": 7766.621848449025,
+      "y": 4542.474599274777,
+      "w": 320,
+      "h": 305,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "WHO WE ARE 2.1",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Transition into a DAO (Decentralized Autonomous Organization) to return control and decision-making power directly to the community.\nReclaim is a community-managed solution addressing an issue that affects all its participants, creating a product that is an actual solution to the issue of overtourism.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5w7xeo2",
+      "x": 10081.471579933019,
+      "y": 5353.254555848269,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "website new direction",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "after becoming a DAO and changing our communication style, we give much more importance to the website, that has to contain our intentions, ideals, and our product. we use Antigravity to code the website.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nourvqn5",
+      "x": 8866.730554911828,
+      "y": 6196.010761711067,
+      "w": 320,
+      "h": 221,
+      "group": null,
+      "data": {
+        "date": "2025-10-27",
+        "title": "communication",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "exploration of different options such as using halftone, pixels or ascii",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nelpqg8r",
+      "x": 10482.38478871943,
+      "y": 7730.564400900823,
+      "w": 320,
+      "h": 221,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "packaging materials and printing",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "research about materials and printing for the packaging.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ndf7mfi4",
+      "x": 10466.48999663757,
+      "y": 5380.538284075043,
+      "w": 320,
+      "h": 429,
+      "group": null,
+      "data": {
+        "date": "2025-12-11",
+        "title": "website new prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "figma prototype of the new website",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 3.02.04 PM.png",
+            "size": 457453,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_3.02.04_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngmcwp61",
+      "x": 10880.664208775179,
+      "y": 5398.002268609963,
+      "w": 320,
+      "h": 431,
+      "group": null,
+      "data": {
+        "date": "2025-12-13",
+        "title": "Website coding",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "coding the website basing ourselves on our prototype, different inspos and reviews with professors.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-16 at 15.14.30.jpeg",
+            "size": 111530,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_15.14.30.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nwjes8tw",
+      "x": 11280.267899997049,
+      "y": 5398.111758579092,
+      "w": 320,
+      "h": 204,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "APP",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Coding of the \"app\" page in the website.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncksgm2q",
+      "x": 7332.467027085166,
+      "y": 4724.4011970180945,
+      "w": 320,
+      "h": 272,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "WHO WE ARE 1.2",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "We become more of a high-tech, morally grey company, looking at overtourism as an opportunity to profit off of a problem to which we give the best, most simple and most direct solution: starting an active war between citizens and tourists.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nmkm11i6",
+      "x": 10933.873962865868,
+      "y": 3127.325075166399,
+      "w": 320,
+      "h": 893,
+      "group": null,
+      "data": {
+        "date": "2025-11-14",
+        "title": "webapp coding",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "coding the webapp manually basing ourselves on the figma prototype.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-16 at 15.13.38.jpeg",
+            "size": 67140,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_15.13.38.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngrssaw2",
+      "x": -24,
+      "y": 36,
+      "w": 320,
+      "h": 221,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Swift UI",
+        "type": "Research",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "switching to app development in order to have more control and greater integration.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "npejui49",
+      "x": 11305.534060034086,
+      "y": 3125.456377521949,
+      "w": 320,
+      "h": 893,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "wall page",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "coded a functioning wall page for the community in the app.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2025-12-16 at 15.13.38 (1).jpeg",
+            "size": 128345,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2025-12-16_at_15.13.38_(1).jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n11bnpli",
+      "x": 9244.60936774427,
+      "y": 6027.6597123012125,
+      "w": 320,
+      "h": 388,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "RECLAIM option 1 MOODBOARD",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "playful and fun",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 3.34.12 PM.png",
+            "size": 1880665,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_3.34.12_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na627vnm",
+      "x": 9244.862426379643,
+      "y": 6429.678823320982,
+      "w": 320,
+      "h": 389,
+      "group": null,
+      "data": {
+        "date": "2025-10-29",
+        "title": "RECLAIM option 2 MOODBOARD",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "military",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 3.34.34 PM.png",
+            "size": 2740368,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_3.34.34_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8hl0kjf",
+      "x": 9612.739255601626,
+      "y": 6011.971790137056,
+      "w": 320,
+      "h": 346,
+      "group": null,
+      "data": {
+        "date": "2025-10-31",
+        "title": "RECLAIM op 1 concept",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 3.33.49 PM.png",
+            "size": 156234,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_3.33.49_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njbbnrt9",
+      "x": 9609.652907904385,
+      "y": 6383.936244163279,
+      "w": 320,
+      "h": 346,
+      "group": null,
+      "data": {
+        "date": "2025-10-31",
+        "title": "RECLAIM op 2 concept",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 3.34.27 PM.png",
+            "size": 177644,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_3.34.27_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n39dz46u",
+      "x": 9980.869143458984,
+      "y": 6008.63238380444,
+      "w": 320,
+      "h": 346,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "RECLAIM op 1 outputs",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 3.34.19 PM.png",
+            "size": 2861287,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_3.34.19_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nl2prg14",
+      "x": 9977.782795761741,
+      "y": 6384.57951309276,
+      "w": 320,
+      "h": 346,
+      "group": null,
+      "data": {
+        "date": "2025-11-04",
+        "title": "RECLAIM op 2 outputs",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 3.34.42 PM.png",
+            "size": 2554782,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_3.34.42_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nknatpsi",
+      "x": 10399.322893327138,
+      "y": 6317.0109333590235,
+      "w": 320,
+      "h": 403,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "RECLAIM op 2.2",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "After becoming a high-tech, morally grey company, we decide to adapt our communication",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 3.44.47 PM.png",
+            "size": 980455,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_3.44.47_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8wk3eva",
+      "x": 10791.754093244801,
+      "y": 6186.043255825989,
+      "w": 320,
+      "h": 391,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "RECLAIM op 2.2 output 1",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "posters to enrage the citizens and invite them to join reclaim",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 3.51.24 PM.png",
+            "size": 2508193,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_3.51.24_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njxha6pa",
+      "x": 10796.364993722207,
+      "y": 6596.151015083396,
+      "w": 320,
+      "h": 391,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "RECLAIM op 2.2 output 2",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "stickers representing the objects to look out for and shoot at",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 3.51.17 PM.png",
+            "size": 2797789,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_3.51.17_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n074xkm3",
+      "x": 11152.6825765501,
+      "y": 5895.333131328166,
+      "w": 320,
+      "h": 439,
+      "group": null,
+      "data": {
+        "date": "2025-12-01",
+        "title": "RECLAIM op 2.2 output 3",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "magnetic badges to put on the reclaim rifle.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 3.56.12 PM.png",
+            "size": 1215705,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_3.56.12_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nsjhccqu",
+      "x": 11150.584368345475,
+      "y": 6855.318043176209,
+      "w": 320,
+      "h": 855,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "RECLAIM op 2.2 output 4",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "brochure to put in the packaging",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 3.58.00 PM.png",
+            "size": 330456,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_3.58.00_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9w2gdvy",
+      "x": 11530.69469368446,
+      "y": 6338.026352141495,
+      "w": 320,
+      "h": 503,
+      "group": null,
+      "data": {
+        "date": "2025-12-02",
+        "title": "RECLAIM op 2.3",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "BAGDES: still in use, updated\n\nPOSTERS: no longer used, substituted by stencils\n\nSTICKERS: no longer used, substituted by stencils\n\nBROCHURE: still in use, updated",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 4.02.47 PM.png",
+            "size": 585006,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_4.02.47_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8gdn22c",
+      "x": 11916.308594425118,
+      "y": 5719.84019847596,
+      "w": 320,
+      "h": 394,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "RECALIM op 2.3 STENCIL company",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "stencils are now the main way we communicate as a DAO",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 4.05.24 PM.png",
+            "size": 3872517,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_4.05.24_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nra9c51y",
+      "x": 11918.5928174113,
+      "y": 6125.935990081103,
+      "w": 320,
+      "h": 416,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "RECLAIM op 2.3 STENCIL community",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "we give stencils and spray cans in the packaging containing the weapon, giving our community the opportunity to mark their city as they please",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 4.07.42 PM.png",
+            "size": 2692435,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_4.07.42_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n6n2vflb",
+      "x": 11924.030129459312,
+      "y": 6562.284707208499,
+      "w": 320,
+      "h": 373,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "RECLAIM op 2.3 BADGES updated",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "updated badge design",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 4.10.35 PM.png",
+            "size": 750607,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_4.10.35_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngo5js82",
+      "x": 11919.201826281249,
+      "y": 6953.798812042775,
+      "w": 320,
+      "h": 341,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "RECLAIM op 2.3 BROCHURE updated",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "updated trifold brochure design, work in progress",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 4.12.15 PM.png",
+            "size": 255403,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_4.12.15_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nco9eqdy",
+      "x": 11919.201826281249,
+      "y": 7304.538273506892,
+      "w": 320,
+      "h": 510,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "RECLAIM op 2.3 MANIFESTO",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "a manifesto, downloadable from our website, we and our community put up in the streets to communicate our cause and why we do what we do.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2025-12-16 at 4.13.56 PM.png",
+            "size": 2233551,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2025-12-16_at_4.13.56_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nyhkvmfb",
+      "x": 9694.710229545795,
+      "y": 2907.9350716949302,
+      "w": 320,
+      "h": 383,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "Vibrant motor Arduino development",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_6892.JPG",
+            "size": 2288667,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_6892.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nowrdn6l",
+      "x": 11885.667191467523,
+      "y": 4527.598387401932,
+      "w": 320,
+      "h": 238,
+      "group": null,
+      "data": {
+        "date": "2025-11-21",
+        "title": "Weapon's first 3D print",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "First 3D print of the weapon to check weight, size and have a prototype that is as close as possible to the final product",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ngz4y5x7",
+      "x": 12261.28864532807,
+      "y": 4421.335843933476,
+      "w": 320,
+      "h": 350,
+      "group": null,
+      "data": {
+        "date": "2025-11-17",
+        "title": "Sanding the first printed prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "bc593def-d666-4aee-b560-1a0c72c8c44c.jpg",
+            "size": 415728,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/bc593def-d666-4aee-b560-1a0c72c8c44c.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nczwpo7o",
+      "x": 12741.28864532807,
+      "y": 4421.335843933476,
+      "w": 320,
+      "h": 204,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "finished prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "last prototype finished with arduino inside",
         "links": [],
         "files": []
       }
@@ -399,73 +3301,865 @@
   ],
   "edges": [
     {
-      "s": "ny15p0wg",
-      "t": "nqaspco0",
+      "s": "n53q8d37",
+      "t": "n1li3nko",
       "dashed": false
     },
     {
-      "s": "ny15p0wg",
-      "t": "n4q8mtzu",
+      "s": "n1li3nko",
+      "t": "nwwyaw0t",
       "dashed": false
     },
     {
-      "s": "ny15p0wg",
-      "t": "nwl9ouvl",
+      "s": "n5zfw94u",
+      "t": "npyfr7zq",
       "dashed": false
     },
     {
-      "s": "ny15p0wg",
-      "t": "npongriz",
+      "s": "n5zfw94u",
+      "t": "np50f5k8",
       "dashed": false
     },
     {
-      "s": "ny15p0wg",
-      "t": "n7z0p86f",
+      "s": "n5zfw94u",
+      "t": "normuiqi",
       "dashed": false
     },
     {
-      "s": "ny15p0wg",
-      "t": "n92sunmm",
+      "s": "n5zfw94u",
+      "t": "nqn35o9v",
       "dashed": false
     },
     {
-      "s": "ny15p0wg",
-      "t": "n3vsqfai",
+      "s": "n5zfw94u",
+      "t": "nybav3k4",
       "dashed": false
     },
     {
-      "s": "ny15p0wg",
-      "t": "ncob3sst",
+      "s": "n5zfw94u",
+      "t": "n0hpeor7",
       "dashed": false
     },
     {
-      "s": "ny15p0wg",
-      "t": "ne7rohui",
+      "s": "n5zfw94u",
+      "t": "n7qtcjz6",
       "dashed": false
     },
     {
-      "s": "ny15p0wg",
-      "t": "nr86jk3r",
+      "s": "nwwyaw0t",
+      "t": "n8elxdg1",
       "dashed": false
     },
     {
-      "s": "ny15p0wg",
-      "t": "nvlahv4k",
+      "s": "n8elxdg1",
+      "t": "nbg8pbbh",
+      "dashed": false
+    },
+    {
+      "s": "n5zfw94u",
+      "t": "nlr9ouq3",
+      "dashed": false
+    },
+    {
+      "s": "n5zfw94u",
+      "t": "nkjf7xa0",
+      "dashed": false
+    },
+    {
+      "s": "n1li3nko",
+      "t": "n5zfw94u",
+      "dashed": false
+    },
+    {
+      "s": "npyfr7zq",
+      "t": "nj0y65bh",
+      "dashed": false
+    },
+    {
+      "s": "nlr9ouq3",
+      "t": "njfcmyhd",
+      "dashed": false
+    },
+    {
+      "s": "nqn35o9v",
+      "t": "n7m2510r",
+      "dashed": false
+    },
+    {
+      "s": "n7qtcjz6",
+      "t": "n6sjqc9i",
+      "dashed": false
+    },
+    {
+      "s": "nbg8pbbh",
+      "t": "nwkqqfg8",
+      "dashed": false
+    },
+    {
+      "s": "nj0y65bh",
+      "t": "nasdjce5",
+      "dashed": false
+    },
+    {
+      "s": "n7m2510r",
+      "t": "nqx3mp3o",
+      "dashed": false
+    },
+    {
+      "s": "n7m2510r",
+      "t": "ndl10kkt",
+      "dashed": false
+    },
+    {
+      "s": "n5zfw94u",
+      "t": "nl71wdsj",
+      "dashed": false
+    },
+    {
+      "s": "n6sjqc9i",
+      "t": "nasdjce5",
+      "dashed": false
+    },
+    {
+      "s": "njfcmyhd",
+      "t": "nqx3mp3o",
+      "dashed": false
+    },
+    {
+      "s": "nwkqqfg8",
+      "t": "nm1839bk",
+      "dashed": false
+    },
+    {
+      "s": "nj0y65bh",
+      "t": "nb0tib9z",
+      "dashed": false
+    },
+    {
+      "s": "nm1bolze",
+      "t": "n57aovck",
+      "dashed": false
+    },
+    {
+      "s": "nm1839bk",
+      "t": "n40976fb",
+      "dashed": false
+    },
+    {
+      "s": "n40976fb",
+      "t": "nm1bolze",
+      "dashed": false
+    },
+    {
+      "s": "n4d1hvuk",
+      "t": "nizlzxq1",
+      "dashed": false
+    },
+    {
+      "s": "n4d1hvuk",
+      "t": "nu3hz37x",
+      "dashed": false
+    },
+    {
+      "s": "n4d1hvuk",
+      "t": "nw9u99gy",
+      "dashed": false
+    },
+    {
+      "s": "n4d1hvuk",
+      "t": "n2pnog3p",
+      "dashed": false
+    },
+    {
+      "s": "n4d1hvuk",
+      "t": "nd70o6av",
+      "dashed": false
+    },
+    {
+      "s": "n4d1hvuk",
+      "t": "n9aey3n8",
+      "dashed": false
+    },
+    {
+      "s": "n4d1hvuk",
+      "t": "nrorng08",
+      "dashed": false
+    },
+    {
+      "s": "nm1839bk",
+      "t": "n4d1hvuk",
+      "dashed": false
+    },
+    {
+      "s": "nasdjce5",
+      "t": "nm1839bk",
+      "dashed": false
+    },
+    {
+      "s": "nb0tib9z",
+      "t": "nm1839bk",
+      "dashed": false
+    },
+    {
+      "s": "nqx3mp3o",
+      "t": "nm1839bk",
+      "dashed": false
+    },
+    {
+      "s": "ndl10kkt",
+      "t": "nm1839bk",
+      "dashed": false
+    },
+    {
+      "s": "nl71wdsj",
+      "t": "nm1839bk",
+      "dashed": false
+    },
+    {
+      "s": "nfo6a4s5",
+      "t": "nzn5ops2",
+      "dashed": false
+    },
+    {
+      "s": "nfo6a4s5",
+      "t": "nbk7s5my",
+      "dashed": false
+    },
+    {
+      "s": "nfo6a4s5",
+      "t": "nojb24n9",
+      "dashed": false
+    },
+    {
+      "s": "nfo6a4s5",
+      "t": "n1oi2vit",
+      "dashed": false
+    },
+    {
+      "s": "nfo6a4s5",
+      "t": "ny6uzva3",
+      "dashed": false
+    },
+    {
+      "s": "nfo6a4s5",
+      "t": "n2b73r2b",
+      "dashed": false
+    },
+    {
+      "s": "nfo6a4s5",
+      "t": "ntdql0d2",
+      "dashed": false
+    },
+    {
+      "s": "nm1839bk",
+      "t": "nfo6a4s5",
+      "dashed": false
+    },
+    {
+      "s": "ntdql0d2",
+      "t": "n40976fb",
+      "dashed": false
+    },
+    {
+      "s": "nrorng08",
+      "t": "n40976fb",
+      "dashed": false
+    },
+    {
+      "s": "nm9rz2k4",
+      "t": "n214s3xz",
+      "dashed": false
+    },
+    {
+      "s": "nm9rz2k4",
+      "t": "nux42o98",
+      "dashed": false
+    },
+    {
+      "s": "nm9rz2k4",
+      "t": "n1cnrq9r",
+      "dashed": false
+    },
+    {
+      "s": "nm9rz2k4",
+      "t": "n2vhnnlq",
+      "dashed": false
+    },
+    {
+      "s": "nm9rz2k4",
+      "t": "n1uzx8aq",
+      "dashed": false
+    },
+    {
+      "s": "nm9rz2k4",
+      "t": "n3wkttwz",
+      "dashed": false
+    },
+    {
+      "s": "nm9rz2k4",
+      "t": "nh6s41ti",
+      "dashed": false
+    },
+    {
+      "s": "nm1839bk",
+      "t": "nm9rz2k4",
+      "dashed": false
+    },
+    {
+      "s": "nh6s41ti",
+      "t": "n40976fb",
+      "dashed": false
+    },
+    {
+      "s": "nrorng08",
+      "t": "ng88m66d",
+      "dashed": false
+    },
+    {
+      "s": "nrorng08",
+      "t": "nrpi44zm",
+      "dashed": false
+    },
+    {
+      "s": "nrorng08",
+      "t": "n4j6eryv",
+      "dashed": false
+    },
+    {
+      "s": "nrorng08",
+      "t": "nust21ku",
+      "dashed": false
+    },
+    {
+      "s": "nust21ku",
+      "t": "n7v6owfh",
+      "dashed": false
+    },
+    {
+      "s": "nust21ku",
+      "t": "ne0ttu15",
+      "dashed": false
+    },
+    {
+      "s": "nust21ku",
+      "t": "nmpoy1by",
+      "dashed": false
+    },
+    {
+      "s": "nh6s41ti",
+      "t": "n7t5l9fw",
+      "dashed": false
+    },
+    {
+      "s": "n7t5l9fw",
+      "t": "n4dajkf5",
+      "dashed": false
+    },
+    {
+      "s": "n4dajkf5",
+      "t": "nt0cjo72",
+      "dashed": false
+    },
+    {
+      "s": "nt0cjo72",
+      "t": "nnfo01qg",
+      "dashed": false
+    },
+    {
+      "s": "nnfo01qg",
+      "t": "np17it59",
+      "dashed": false
+    },
+    {
+      "s": "np17it59",
+      "t": "nser16q6",
+      "dashed": false
+    },
+    {
+      "s": "nt0cjo72",
+      "t": "no7joxia",
+      "dashed": false
+    },
+    {
+      "s": "n7t5l9fw",
+      "t": "n7izp6ja",
+      "dashed": false
+    },
+    {
+      "s": "n7izp6ja",
+      "t": "nuje39fm",
+      "dashed": false
+    },
+    {
+      "s": "nuje39fm",
+      "t": "n8e0ctog",
+      "dashed": false
+    },
+    {
+      "s": "no7joxia",
+      "t": "n8e0ctog",
+      "dashed": false
+    },
+    {
+      "s": "nser16q6",
+      "t": "n8e0ctog",
+      "dashed": false
+    },
+    {
+      "s": "n5oh5exm",
+      "t": "nt0cjo72",
+      "dashed": false
+    },
+    {
+      "s": "nq3zimcm",
+      "t": "nt0cjo72",
+      "dashed": false
+    },
+    {
+      "s": "nitt6edj",
+      "t": "nt0cjo72",
+      "dashed": false
+    },
+    {
+      "s": "n8a293aw",
+      "t": "nt0cjo72",
+      "dashed": false
+    },
+    {
+      "s": "nbgfgmgw",
+      "t": "nt0cjo72",
+      "dashed": false
+    },
+    {
+      "s": "nuje39fm",
+      "t": "nl1bh8j9",
+      "dashed": false
+    },
+    {
+      "s": "nuje39fm",
+      "t": "n8hpssjv",
+      "dashed": false
+    },
+    {
+      "s": "nl1bh8j9",
+      "t": "nm1kxdnt",
+      "dashed": false
+    },
+    {
+      "s": "nm1kxdnt",
+      "t": "npf9pwhl",
+      "dashed": false
+    },
+    {
+      "s": "npf9pwhl",
+      "t": "nsjc2umg",
+      "dashed": false
+    },
+    {
+      "s": "nm1kxdnt",
+      "t": "nh1zpujm",
+      "dashed": false
+    },
+    {
+      "s": "nh1zpujm",
+      "t": "nc507vmj",
+      "dashed": false
+    },
+    {
+      "s": "n8hpssjv",
+      "t": "nasyqn0c",
+      "dashed": false
+    },
+    {
+      "s": "nasyqn0c",
+      "t": "nkzzu6oo",
+      "dashed": false
+    },
+    {
+      "s": "nkzzu6oo",
+      "t": "nsw2yc0n",
+      "dashed": false
+    },
+    {
+      "s": "nej6kstm",
+      "t": "nsw2yc0n",
+      "dashed": false
+    },
+    {
+      "s": "nsw2yc0n",
+      "t": "naium5h9",
+      "dashed": false
+    },
+    {
+      "s": "naium5h9",
+      "t": "nlu1ex2p",
+      "dashed": false
+    },
+    {
+      "s": "naium5h9",
+      "t": "n9v0q27o",
+      "dashed": false
+    },
+    {
+      "s": "naium5h9",
+      "t": "nt5wup8n",
+      "dashed": false
+    },
+    {
+      "s": "npp2knil",
+      "t": "nlu1ex2p",
+      "dashed": false
+    },
+    {
+      "s": "nuje39fm",
+      "t": "n4zep8ut",
+      "dashed": false
+    },
+    {
+      "s": "n4zep8ut",
+      "t": "np1sqdl3",
+      "dashed": false
+    },
+    {
+      "s": "np1sqdl3",
+      "t": "nlfw7b29",
+      "dashed": false
+    },
+    {
+      "s": "noivetmu",
+      "t": "np1sqdl3",
+      "dashed": false
+    },
+    {
+      "s": "nlfw7b29",
+      "t": "ndol058b",
+      "dashed": false
+    },
+    {
+      "s": "nbq38gk6",
+      "t": "ndol058b",
+      "dashed": false
+    },
+    {
+      "s": "nlfw7b29",
+      "t": "n3ejw669",
+      "dashed": false
+    },
+    {
+      "s": "nbq38gk6",
+      "t": "n3ejw669",
+      "dashed": false
+    },
+    {
+      "s": "nlu1ex2p",
+      "t": "nm9kn9hb",
+      "dashed": false
+    },
+    {
+      "s": "n9v0q27o",
+      "t": "nm9kn9hb",
+      "dashed": false
+    },
+    {
+      "s": "nlu1ex2p",
+      "t": "n2jhmnd6",
+      "dashed": false
+    },
+    {
+      "s": "n9v0q27o",
+      "t": "n2jhmnd6",
+      "dashed": false
+    },
+    {
+      "s": "nsjc2umg",
+      "t": "nz2c5l93",
+      "dashed": false
+    },
+    {
+      "s": "nz2c5l93",
+      "t": "ncomess5",
+      "dashed": false
+    },
+    {
+      "s": "nz2c5l93",
+      "t": "na677o3c",
+      "dashed": false
+    },
+    {
+      "s": "ncomess5",
+      "t": "n6209b8l",
+      "dashed": false
+    },
+    {
+      "s": "nuje39fm",
+      "t": "ntweyyyt",
+      "dashed": false
+    },
+    {
+      "s": "ntweyyyt",
+      "t": "np6g3n0z",
+      "dashed": false
+    },
+    {
+      "s": "np6g3n0z",
+      "t": "nbqhazrd",
+      "dashed": false
+    },
+    {
+      "s": "nimo77vj",
+      "t": "n8hpssjv",
+      "dashed": false
+    },
+    {
+      "s": "nimo77vj",
+      "t": "nl1bh8j9",
+      "dashed": false
+    },
+    {
+      "s": "nbqhazrd",
+      "t": "n5w7xeo2",
+      "dashed": false
+    },
+    {
+      "s": "nimo77vj",
+      "t": "n5w7xeo2",
+      "dashed": false
+    },
+    {
+      "s": "nuje39fm",
+      "t": "nourvqn5",
+      "dashed": false
+    },
+    {
+      "s": "n8hpssjv",
+      "t": "n4zep8ut",
+      "dashed": false
+    },
+    {
+      "s": "n3ejw669",
+      "t": "nelpqg8r",
+      "dashed": false
+    },
+    {
+      "s": "ndol058b",
+      "t": "nelpqg8r",
+      "dashed": false
+    },
+    {
+      "s": "n5w7xeo2",
+      "t": "ndf7mfi4",
+      "dashed": false
+    },
+    {
+      "s": "ndf7mfi4",
+      "t": "ngmcwp61",
+      "dashed": false
+    },
+    {
+      "s": "ngmcwp61",
+      "t": "nwjes8tw",
+      "dashed": false
+    },
+    {
+      "s": "n7t5l9fw",
+      "t": "ncksgm2q",
+      "dashed": false
+    },
+    {
+      "s": "ncksgm2q",
+      "t": "nimo77vj",
+      "dashed": false
+    },
+    {
+      "s": "n6209b8l",
+      "t": "nmkm11i6",
+      "dashed": false
+    },
+    {
+      "s": "nmkm11i6",
+      "t": "nw2buu3z",
+      "dashed": false
+    },
+    {
+      "s": "na677o3c",
+      "t": "nmkm11i6",
+      "dashed": false
+    },
+    {
+      "s": "na677o3c",
+      "t": "n6209b8l",
+      "dashed": false
+    },
+    {
+      "s": "nmkm11i6",
+      "t": "npejui49",
+      "dashed": false
+    },
+    {
+      "s": "nourvqn5",
+      "t": "n11bnpli",
+      "dashed": false
+    },
+    {
+      "s": "nourvqn5",
+      "t": "na627vnm",
+      "dashed": false
+    },
+    {
+      "s": "n11bnpli",
+      "t": "n8hl0kjf",
+      "dashed": false
+    },
+    {
+      "s": "na627vnm",
+      "t": "njbbnrt9",
+      "dashed": false
+    },
+    {
+      "s": "n8hl0kjf",
+      "t": "n39dz46u",
+      "dashed": false
+    },
+    {
+      "s": "njbbnrt9",
+      "t": "nl2prg14",
+      "dashed": false
+    },
+    {
+      "s": "ncksgm2q",
+      "t": "n7izp6ja",
+      "dashed": false
+    },
+    {
+      "s": "nimo77vj",
+      "t": "n7izp6ja",
+      "dashed": false
+    },
+    {
+      "s": "nl2prg14",
+      "t": "nknatpsi",
+      "dashed": false
+    },
+    {
+      "s": "nknatpsi",
+      "t": "n8wk3eva",
+      "dashed": false
+    },
+    {
+      "s": "nknatpsi",
+      "t": "njxha6pa",
+      "dashed": false
+    },
+    {
+      "s": "nknatpsi",
+      "t": "n074xkm3",
+      "dashed": false
+    },
+    {
+      "s": "nknatpsi",
+      "t": "nsjhccqu",
+      "dashed": false
+    },
+    {
+      "s": "n8wk3eva",
+      "t": "n9w2gdvy",
+      "dashed": false
+    },
+    {
+      "s": "n074xkm3",
+      "t": "n9w2gdvy",
+      "dashed": false
+    },
+    {
+      "s": "njxha6pa",
+      "t": "n9w2gdvy",
+      "dashed": false
+    },
+    {
+      "s": "nsjhccqu",
+      "t": "n9w2gdvy",
+      "dashed": false
+    },
+    {
+      "s": "n9w2gdvy",
+      "t": "n8gdn22c",
+      "dashed": false
+    },
+    {
+      "s": "n9w2gdvy",
+      "t": "nra9c51y",
+      "dashed": false
+    },
+    {
+      "s": "n9w2gdvy",
+      "t": "n6n2vflb",
+      "dashed": false
+    },
+    {
+      "s": "nimo77vj",
+      "t": "n9w2gdvy",
+      "dashed": false
+    },
+    {
+      "s": "n9w2gdvy",
+      "t": "ngo5js82",
+      "dashed": false
+    },
+    {
+      "s": "n9w2gdvy",
+      "t": "nco9eqdy",
+      "dashed": false
+    },
+    {
+      "s": "nsjhccqu",
+      "t": "ngo5js82",
+      "dashed": false
+    },
+    {
+      "s": "n074xkm3",
+      "t": "n6n2vflb",
+      "dashed": false
+    },
+    {
+      "s": "nc507vmj",
+      "t": "nyhkvmfb",
+      "dashed": false
+    },
+    {
+      "s": "nm9kn9hb",
+      "t": "nowrdn6l",
+      "dashed": false
+    },
+    {
+      "s": "n2jhmnd6",
+      "t": "nowrdn6l",
+      "dashed": false
+    },
+    {
+      "s": "nowrdn6l",
+      "t": "ngz4y5x7",
+      "dashed": false
+    },
+    {
+      "s": "ngz4y5x7",
+      "t": "nczwpo7o",
       "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Critical design",
-      "Communication",
-      "Media studies",
-      "Socio-political",
-      "Design research",
-      "Critical theory"
+      "Article"
     ],
     "tags": [],
     "type": [
-      "Brief"
+      "Brief",
+      "Moodboard",
+      "Source",
+      "Sketch",
+      "Observation",
+      "Research",
+      "Concept",
+      "Artefact"
     ]
   }
 }
