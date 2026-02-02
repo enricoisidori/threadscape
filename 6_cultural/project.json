@@ -3818,8 +3818,8 @@
     },
     {
       "id": "njltw2wb",
-      "x": 15814.453589314297,
-      "y": 3226.0474940548947,
+      "x": 15750.453589314297,
+      "y": 3234.0474940548947,
       "w": 320,
       "h": 614,
       "group": null,
@@ -3959,7 +3959,7 @@
       "x": 15335.656128078963,
       "y": -5545.416139235042,
       "w": 320,
-      "h": 1793,
+      "h": 1810,
       "group": null,
       "data": {
         "date": "2026-01-09",
@@ -3971,7 +3971,7 @@
           "Machine"
         ],
         "tags": [],
-        "desc": "We define the interfaces of the integrated app on mobile. Adding new areas and features.",
+        "desc": "We define the interfaces of the integrated app on mobile made on github. Adding new areas and features.",
         "links": [],
         "files": [
           {
@@ -4089,8 +4089,8 @@
     },
     {
       "id": "n7in0k52",
-      "x": 16300.733824504045,
-      "y": 3452.357005351963,
+      "x": 16408.733824504045,
+      "y": 3252.357005351963,
       "w": 320,
       "h": 622,
       "group": null,
@@ -4311,7 +4311,7 @@
       "x": 14895.539805487953,
       "y": -115.12208875700497,
       "w": 320,
-      "h": 688,
+      "h": 1229,
       "group": null,
       "data": {
         "date": "2026-01-09",
@@ -4341,6 +4341,14 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2026-01-09_alle_15.03.10.jpg"
+          },
+          {
+            "name": "PHOTO-2026-01-21-12-12-02.jpg",
+            "size": 145857,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PHOTO-2026-01-21-12-12-02.jpg"
           }
         ]
       }
@@ -4425,24 +4433,35 @@
     },
     {
       "id": "nsy3qjj8",
-      "x": 15387.621141323363,
-      "y": 52.34835891815865,
+      "x": 15468.99678029785,
+      "y": -121.79550848724361,
       "w": 320,
-      "h": 179,
+      "h": 476,
       "group": null,
       "data": {
         "date": "2026-01-29",
-        "title": "new cryocare support printed",
+        "title": "new cryocare box",
         "type": "Artefact",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
           "Process"
         ],
-        "tags": [],
-        "desc": "",
+        "tags": [
+          "Branding"
+        ],
+        "desc": "we did a costum box and support with polistirol",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-01-30 at 16.13.24.jpeg",
+            "size": 132780,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-30_at_16.13.24.jpg"
+          }
+        ]
       }
     },
     {
@@ -4489,8 +4508,8 @@
     },
     {
       "id": "nd1pc2c2",
-      "x": 16814.11820223172,
-      "y": 3663.9771206226706,
+      "x": 17046.11820223172,
+      "y": 3279.97712062267,
       "w": 320,
       "h": 690,
       "group": null,
@@ -4584,6 +4603,76 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2026-01-29_alle_13.27.00.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngj0gkpg",
+      "x": 16911.98921884767,
+      "y": 1872.8661049010857,
+      "w": 320,
+      "h": 773,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "vacuum-packing",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Machine"
+        ],
+        "tags": [],
+        "desc": "we vacuumed all the object to make them seem like they have been preserved better.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-01 at 15.12.31.jpeg",
+            "size": 489047,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-01_at_15.12.31.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntvq71hx",
+      "x": 16391.98921884767,
+      "y": 4072.866104901086,
+      "w": 320,
+      "h": 1314,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "UNEC vests for volunteers",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "this is a model of the vest that will be worn by UNEC volunteers in the organizations.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-01 at 15.11.32 (1).jpeg",
+            "size": 333656,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-01_at_15.11.32_(1).jpg"
+          },
+          {
+            "name": "WhatsApp Image 2026-02-01 at 15.11.32.jpeg",
+            "size": 284081,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-01_at_15.11.32.jpg"
           }
         ]
       }
@@ -5479,46 +5568,56 @@
       "s": "na127mu9",
       "t": "nxklri5g",
       "dashed": false
+    },
+    {
+      "s": "ncqd76dh",
+      "t": "ngj0gkpg",
+      "dashed": false
+    },
+    {
+      "s": "njltw2wb",
+      "t": "ntvq71hx",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Process documentation",
-      "Process",
-      "Communication",
-      "Design research",
-      "People",
-      "Media studies",
-      "Amare i robot?",
-      "Critical theory",
-      "Conflicts",
-      "Critical design",
-      "Socio-political",
-      "Socio-cultural",
       "Branding",
-      "Machine"
+      "Machine",
+      "Socio-cultural",
+      "Socio-political",
+      "Critical design",
+      "Conflicts",
+      "Critical theory",
+      "Amare i robot?",
+      "Media studies",
+      "People",
+      "Design research",
+      "Communication",
+      "Process",
+      "Process documentation"
     ],
     "tags": [
-      "Exploring",
       "Branding",
-      "3d print",
-      "Source",
-      "Limited scope",
+      "Already explored",
       "Discarded",
-      "Already explored"
+      "Limited scope",
+      "Source",
+      "3d print",
+      "Exploring"
     ],
     "type": [
       "Artefact",
-      "Concept",
       "Sketch",
-      "Output",
-      "Case study",
-      "Brief",
-      "Feedback",
-      "Collection",
-      "Source",
+      "Finding",
       "Observation",
-      "Finding"
+      "Source",
+      "Collection",
+      "Feedback",
+      "Brief",
+      "Case study",
+      "Output",
+      "Concept"
     ]
   }
 }
