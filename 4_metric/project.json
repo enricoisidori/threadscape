@@ -6114,9 +6114,9 @@
     {
       "id": "ntqnei4e",
       "x": 30131.37253003824,
-      "y": 4227.266934121333,
+      "y": 4229.333964151086,
       "w": 320,
-      "h": 283,
+      "h": 388,
       "group": null,
       "data": {
         "date": "2025-11-12",
@@ -6137,7 +6137,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.31.56.png",
+            "size": 63754,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.31.56.jpg"
+          }
+        ]
       }
     },
     {
@@ -6145,7 +6154,7 @@
       "x": 30131.819153071967,
       "y": 3522.611393170042,
       "w": 320,
-      "h": 283,
+      "h": 699,
       "group": null,
       "data": {
         "date": "2025-11-12",
@@ -6166,7 +6175,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.31.43.png",
+            "size": 393129,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.31.43.jpg"
+          }
+        ]
       }
     },
     {
@@ -6205,7 +6223,7 @@
       "x": 29001.702936729293,
       "y": 6628.260012664523,
       "w": 320,
-      "h": 397,
+      "h": 748,
       "group": null,
       "data": {
         "date": "2025-11-13",
@@ -6223,7 +6241,8 @@
           "Visual communication",
           "Metric governance",
           "Algorithmic governance",
-          "Speculative design"
+          "Speculative design",
+          "Sensor technology"
         ],
         "tags": [
           "Device render",
@@ -6232,7 +6251,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.34.44.png",
+            "size": 604035,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.34.44.jpg"
+          }
+        ]
       }
     },
     {
@@ -6273,7 +6301,7 @@
       "x": 28656.853013860633,
       "y": 5961.869223078946,
       "w": 320,
-      "h": 472,
+      "h": 643,
       "group": null,
       "data": {
         "date": "2025-11-12",
@@ -6303,7 +6331,16 @@
         ],
         "desc": "Dimensions: 42x32 cm\nOperation: LED bands that light up one at a time to give an idea of voting around the world.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.34.25.png",
+            "size": 984190,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.34.25.jpg"
+          }
+        ]
       }
     },
     {
@@ -6338,10 +6375,10 @@
     },
     {
       "id": "nxt7l4u7",
-      "x": 30131.526635049402,
+      "x": 30129.45960501965,
       "y": 4636.424711226055,
       "w": 320,
-      "h": 306,
+      "h": 544,
       "group": null,
       "data": {
         "date": "2025-11-12",
@@ -6365,7 +6402,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.32.05.png",
+            "size": 476151,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.32.05.jpg"
+          }
+        ]
       }
     },
     {
@@ -6373,7 +6419,7 @@
       "x": 29019.678469187296,
       "y": 3870.068078049774,
       "w": 320,
-      "h": 283,
+      "h": 595,
       "group": null,
       "data": {
         "date": "2025-11-12",
@@ -6394,15 +6440,24 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.33.52.png",
+            "size": 235095,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.33.52.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n1aaqr44",
       "x": 29401.792658137456,
-      "y": 3873.8766176413847,
+      "y": 3872.348167284631,
       "w": 320,
-      "h": 283,
+      "h": 419,
       "group": null,
       "data": {
         "date": "2025-11-12",
@@ -6423,7 +6478,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.33.40.png",
+            "size": 182909,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.33.40.jpg"
+          }
+        ]
       }
     },
     {
@@ -6431,7 +6495,7 @@
       "x": 29773.248168971986,
       "y": 3868.3886447258756,
       "w": 320,
-      "h": 283,
+      "h": 943,
       "group": null,
       "data": {
         "date": "2025-11-12",
@@ -6454,7 +6518,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.32.24.png",
+            "size": 509653,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.32.24.jpg"
+          }
+        ]
       }
     },
     {
@@ -6499,7 +6572,7 @@
       "x": 31238.176062211747,
       "y": 4430.689799891099,
       "w": 320,
-      "h": 324,
+      "h": 491,
       "group": null,
       "data": {
         "date": "2025-11-15",
@@ -6519,7 +6592,16 @@
         ],
         "desc": "Final color palette and logo spacing specifications",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.31.27.png",
+            "size": 57687,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.31.27.jpg"
+          }
+        ]
       }
     },
     {
@@ -6527,7 +6609,7 @@
       "x": 31615.07023675642,
       "y": 4955.5427176360345,
       "w": 320,
-      "h": 328,
+      "h": 423,
       "group": null,
       "data": {
         "date": "2025-11-16",
@@ -6550,7 +6632,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.31.11.png",
+            "size": 40362,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.31.11.jpg"
+          }
+        ]
       }
     },
     {
@@ -6628,7 +6719,7 @@
       "x": 32087.189513028618,
       "y": 3868.382234923366,
       "w": 320,
-      "h": 276,
+      "h": 579,
       "group": null,
       "data": {
         "date": "2025-11-16",
@@ -6652,15 +6743,24 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.30.33.png",
+            "size": 140958,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.30.33.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nio8ewgt",
-      "x": 32086.667296761403,
+      "x": 32088.734326791156,
       "y": 4476.953087394531,
       "w": 320,
-      "h": 276,
+      "h": 588,
       "group": null,
       "data": {
         "date": "2025-11-16",
@@ -6684,7 +6784,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.30.46.png",
+            "size": 146389,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.30.46.jpg"
+          }
+        ]
       }
     },
     {
@@ -6724,7 +6833,7 @@
       "x": 32088.727655379193,
       "y": 5199.296378460667,
       "w": 320,
-      "h": 449,
+      "h": 852,
       "group": null,
       "data": {
         "date": "2025-11-17",
@@ -6752,7 +6861,16 @@
         ],
         "desc": "Final web app prototype, including a personal page that updates based on the score obtained and the global ranking",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.30.57.png",
+            "size": 222395,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.30.57.jpg"
+          }
+        ]
       }
     },
     {
@@ -6800,7 +6918,7 @@
       "x": 33546.717391282036,
       "y": 4957.89357777186,
       "w": 320,
-      "h": 626,
+      "h": 919,
       "group": null,
       "data": {
         "date": "2025-11-19",
@@ -6817,7 +6935,16 @@
         "tags": [],
         "desc": "Hypothetical UN department responsible for preventing measures (of time, space, etc.) from becoming a political weapon - security.\n\n- UN Department for Global Measurement Integrity/Unification\n- UN Department for Non-Political Standards\n- UN Department for the Defense of Measurement Neutrality (DDMN)\n- Department for Standards Protection and Security (DSPS)\n- United Nations Office for Universal Time Regulation (UN-OUTR)\n- United Nations Department for Global Time Coordination (UN-DGTC)\n- United Nations Directorate for Temporal Harmonization (UN-DTH)\n- Global Order of Standards (GOS)\n- L'Ordine Globale degli Standard. Solenne, quasi\n\"nuovo ordine mondiale\"\n- Metric Integration Authority (MIA)\nIntegrare le metriche = integrare i comportamenti.\n- Harmonized Measures Bureau (HMB)",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.29.40.png",
+            "size": 156326,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.29.40.jpg"
+          }
+        ]
       }
     },
     {
@@ -6825,7 +6952,7 @@
       "x": 33044.196082636,
       "y": 4621.161629732678,
       "w": 320,
-      "h": 283,
+      "h": 429,
       "group": null,
       "data": {
         "date": "2025-11-19",
@@ -6845,7 +6972,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.30.19.png",
+            "size": 68169,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.30.19.jpg"
+          }
+        ]
       }
     },
     {
@@ -6881,7 +7017,7 @@
       "x": 33943.3751676048,
       "y": 4948.55110501966,
       "w": 320,
-      "h": 306,
+      "h": 376,
       "group": null,
       "data": {
         "date": "2025-11-19",
@@ -6903,7 +7039,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.29.06.png",
+            "size": 43139,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.29.06.jpg"
+          }
+        ]
       }
     },
     {
@@ -6911,7 +7056,7 @@
       "x": 34461.62392100773,
       "y": 4605.836880163516,
       "w": 320,
-      "h": 306,
+      "h": 657,
       "group": null,
       "data": {
         "date": "2025-11-19",
@@ -6934,7 +7079,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.27.43.png",
+            "size": 423154,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.27.43.jpg"
+          }
+        ]
       }
     },
     {
@@ -6942,7 +7096,7 @@
       "x": 33541.00589696605,
       "y": 4054.5164323433455,
       "w": 320,
-      "h": 276,
+      "h": 897,
       "group": null,
       "data": {
         "date": "2025-11-19",
@@ -6965,15 +7119,24 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.29.24.png",
+            "size": 249542,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.29.24.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nylzbr7z",
-      "x": 33548.35298260062,
+      "x": 33544.35298260062,
       "y": 6690.907666100046,
       "w": 320,
-      "h": 482,
+      "h": 689,
       "group": null,
       "data": {
         "date": "2025-11-21",
@@ -6996,7 +7159,16 @@
         ],
         "desc": "Hardware testing procedure utilizing the ESP32 microcontroller platform. The testing protocol encompasses several physical interface components: a push button and tactile switch for discrete input, an RGB LED for multi-color output indication, a rotary encoder for analog input with discrete positioning (measured in degrees), a display module for visual feedback, and a standard switch for binary state control.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.30.04.png",
+            "size": 358858,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.30.04.jpg"
+          }
+        ]
       }
     },
     {
@@ -7044,7 +7216,7 @@
       "x": 34477.37209563439,
       "y": 6338.458237003386,
       "w": 320,
-      "h": 283,
+      "h": 1334,
       "group": null,
       "data": {
         "date": "2025-11-21",
@@ -7066,15 +7238,24 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.28.38.png",
+            "size": 98798,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.28.38.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n0lm4tdo",
       "x": 33545.51783451987,
-      "y": 5958.195561178658,
+      "y": 5962.195561178658,
       "w": 320,
-      "h": 449,
+      "h": 716,
       "group": null,
       "data": {
         "date": "2025-11-19",
@@ -7102,7 +7283,16 @@
         ],
         "desc": "Pe rsonal page update:misalignment more evident in the radial visualization (confrontation between personal data and mandated standard time)",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.29.52.png",
+            "size": 174875,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.29.52.jpg"
+          }
+        ]
       }
     },
     {
@@ -7144,7 +7334,7 @@
       "x": 36066.519344358865,
       "y": 3434.1688097459923,
       "w": 320,
-      "h": 306,
+      "h": 410,
       "group": null,
       "data": {
         "date": "2025-11-22",
@@ -7166,7 +7356,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.20.31.png",
+            "size": 74342,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.20.31.jpg"
+          }
+        ]
       }
     },
     {
@@ -7205,7 +7404,7 @@
       "x": 36540.27430701574,
       "y": 3399.2585108533385,
       "w": 320,
-      "h": 306,
+      "h": 766,
       "group": null,
       "data": {
         "date": "2025-11-22",
@@ -7228,7 +7427,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.20.02.png",
+            "size": 252320,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.20.02.jpg"
+          }
+        ]
       }
     },
     {
@@ -7310,7 +7518,7 @@
       "x": 36910.07188606694,
       "y": 4999.788824941996,
       "w": 320,
-      "h": 283,
+      "h": 608,
       "group": null,
       "data": {
         "date": "2025-11-23",
@@ -7331,7 +7539,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.19.29.png",
+            "size": 82632,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.19.29.jpg"
+          }
+        ]
       }
     },
     {
@@ -7339,7 +7556,7 @@
       "x": 36073.74226584021,
       "y": 5851.776783714575,
       "w": 320,
-      "h": 302,
+      "h": 449,
       "group": null,
       "data": {
         "date": "2025-11-22",
@@ -7359,7 +7576,16 @@
         ],
         "desc": "logo animation based on the clock concept ",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.21.01.png",
+            "size": 51135,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.21.01.jpg"
+          }
+        ]
       }
     },
     {
@@ -7398,7 +7624,7 @@
       "x": 36439.751699905995,
       "y": 6349.2916726735,
       "w": 320,
-      "h": 260,
+      "h": 397,
       "group": null,
       "data": {
         "date": "2025-11-24",
@@ -7418,7 +7644,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.20.47.png",
+            "size": 209641,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.20.47.jpg"
+          }
+        ]
       }
     },
     {
@@ -7426,7 +7661,7 @@
       "x": 36530.882297930606,
       "y": 4208.249510858191,
       "w": 320,
-      "h": 460,
+      "h": 596,
       "group": null,
       "data": {
         "date": "2025-11-22",
@@ -7451,7 +7686,16 @@
         ],
         "desc": "Landing page with a background slideshow of videos and project images. Call to action for the latest product, Chronodex.\nOn the About page: company values, vision and mission, and finally contact details.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.20.15.png",
+            "size": 96160,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.20.15.jpg"
+          }
+        ]
       }
     },
     {
@@ -7459,7 +7703,7 @@
       "x": 36910.49433175762,
       "y": 4238.798732554926,
       "w": 320,
-      "h": 308,
+      "h": 529,
       "group": null,
       "data": {
         "date": "2025-11-23",
@@ -7480,7 +7724,16 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.19.42.png",
+            "size": 59069,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.19.42.jpg"
+          }
+        ]
       }
     },
     {
@@ -7563,7 +7816,7 @@
       "x": 38721.45079201089,
       "y": 5350.819554710741,
       "w": 320,
-      "h": 347,
+      "h": 903,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -7584,7 +7837,16 @@
         ],
         "desc": "Gadgets designed for the Zero Hour Day.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.18.11.png",
+            "size": 535694,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.18.11.jpg"
+          }
+        ]
       }
     },
     {
@@ -7592,7 +7854,7 @@
       "x": 39099.51325364866,
       "y": 6289.444246871111,
       "w": 320,
-      "h": 476,
+      "h": 892,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -7613,12 +7875,21 @@
         ],
         "desc": "PLA for 3D printing for the structure and steel for the buttons. Technological components:\nESP32\nPush Button\nSwitch\nRGB LED\nDegree rotary\nencoder\nDisplay e-ink\nTactile Switch",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.17.49.png",
+            "size": 279610,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.17.49.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nqi8w2k5",
-      "x": 38719.121024864464,
+      "x": 38711.121024864464,
       "y": 6286.112503317272,
       "w": 320,
       "h": 762,
@@ -7650,10 +7921,10 @@
     },
     {
       "id": "nyx506vk",
-      "x": 39489.27319351,
+      "x": 39493.27319351,
       "y": 6279.28779900276,
       "w": 320,
-      "h": 214,
+      "h": 486,
       "group": null,
       "data": {
         "date": "2025-11-27",
@@ -7670,7 +7941,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.17.31.png",
+            "size": 129592,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.17.31.jpg"
+          }
+        ]
       }
     },
     {
@@ -7678,7 +7958,7 @@
       "x": 41038.55339366823,
       "y": 6113.964901762965,
       "w": 320,
-      "h": 279,
+      "h": 741,
       "group": null,
       "data": {
         "date": "2025-11-29",
@@ -7696,7 +7976,16 @@
         ],
         "desc": "Light thin white PLA layer to diffuse LED light\n",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.15.59.png",
+            "size": 477124,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.15.59.jpg"
+          }
+        ]
       }
     },
     {
@@ -7739,7 +8028,7 @@
       "x": 41435.12077109006,
       "y": 4720.469933172696,
       "w": 320,
-      "h": 358,
+      "h": 726,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -7760,7 +8049,16 @@
         ],
         "desc": "Research to increase logo mark visibility in the visual identity and introduce a color accent to reinforce the brand",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.16.14.png",
+            "size": 208773,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.16.14.jpg"
+          }
+        ]
       }
     },
     {
@@ -7768,7 +8066,7 @@
       "x": 41852.527322767724,
       "y": 4225.433431267588,
       "w": 320,
-      "h": 283,
+      "h": 409,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -7789,15 +8087,24 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.29.18.png",
+            "size": 193805,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.29.18.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nqod3xbi",
       "x": 39875.309711131864,
-      "y": 6268.245878130291,
+      "y": 6264.245878130291,
       "w": 320,
-      "h": 260,
+      "h": 702,
       "group": null,
       "data": {
         "date": "2025-11-27",
@@ -7816,15 +8123,24 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.17.14.png",
+            "size": 123220,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.17.14.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nrp7wyiq",
       "x": 38720.35206589433,
-      "y": 4555.99835205342,
+      "y": 4551.99835205342,
       "w": 320,
-      "h": 381,
+      "h": 754,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -7847,7 +8163,16 @@
         ],
         "desc": "Roll-up posters to be displayed during the day so that passers-by can also understand the project and its context.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.18.27.png",
+            "size": 431225,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.18.27.jpg"
+          }
+        ]
       }
     },
     {
@@ -7855,7 +8180,7 @@
       "x": 38718.29167318906,
       "y": 3899.6110563427396,
       "w": 320,
-      "h": 460,
+      "h": 615,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -7880,7 +8205,16 @@
         ],
         "desc": "During the day, the overall progress of the real-time measurements will be monitored both via an A1 map, with a series of LEDs indicating the time zone of the leading country, and on a display showing the updated ranking.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.18.39.png",
+            "size": 357685,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.18.39.jpg"
+          }
+        ]
       }
     },
     {
@@ -7888,7 +8222,7 @@
       "x": 41413.70007181548,
       "y": 6108.317575495329,
       "w": 320,
-      "h": 214,
+      "h": 372,
       "group": null,
       "data": {
         "date": "2025-12-02",
@@ -7906,7 +8240,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.15.46.png",
+            "size": 129543,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.15.46.jpg"
+          }
+        ]
       }
     },
     {
@@ -7914,7 +8257,7 @@
       "x": 42228.49053079043,
       "y": 4227.428397371778,
       "w": 320,
-      "h": 283,
+      "h": 498,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -7936,7 +8279,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.29.06.png",
+            "size": 934319,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.29.06.jpg"
+          }
+        ]
       }
     },
     {
@@ -7944,7 +8296,7 @@
       "x": 42590.320381977945,
       "y": 4219.046040678645,
       "w": 320,
-      "h": 351,
+      "h": 529,
       "group": null,
       "data": {
         "date": "2025-11-28",
@@ -7969,7 +8321,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.28.56.png",
+            "size": 877125,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.28.56.jpg"
+          }
+        ]
       }
     },
     {
@@ -8001,7 +8362,7 @@
       "x": 41850.847609919714,
       "y": 4748.528854729301,
       "w": 320,
-      "h": 351,
+      "h": 474,
       "group": null,
       "data": {
         "date": "2025-11-29",
@@ -8026,7 +8387,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.29.33.png",
+            "size": 168237,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.29.33.jpg"
+          }
+        ]
       }
     },
     {
@@ -8034,7 +8404,7 @@
       "x": 41850.207539922085,
       "y": 5264.985470313291,
       "w": 320,
-      "h": 302,
+      "h": 738,
       "group": null,
       "data": {
         "date": "2025-11-30",
@@ -8054,15 +8424,24 @@
         ],
         "desc": "Post and content design for social media.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.29.49.png",
+            "size": 333914,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.29.49.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nqu9usut",
-      "x": 42217.50907725172,
-      "y": 5342.832533517996,
+      "x": 42225.50907725172,
+      "y": 5326.832533517996,
       "w": 320,
-      "h": 230,
+      "h": 767,
       "group": null,
       "data": {
         "date": "2025-12-01",
@@ -8083,15 +8462,24 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.29.59.png",
+            "size": 424526,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.29.59.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nfite0nr",
       "x": 42219.373331493596,
-      "y": 4783.295266818814,
+      "y": 4747.295266818814,
       "w": 320,
-      "h": 321,
+      "h": 539,
       "group": null,
       "data": {
         "date": "2025-12-01",
@@ -8116,7 +8504,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.30.15.png",
+            "size": 60344,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.30.15.jpg"
+          }
+        ]
       }
     },
     {
@@ -8124,7 +8521,7 @@
       "x": 41776.322408665954,
       "y": 6114.577717529971,
       "w": 320,
-      "h": 214,
+      "h": 393,
       "group": null,
       "data": {
         "date": "2025-12-01",
@@ -8142,7 +8539,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.15.32.png",
+            "size": 212130,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.15.32.jpg"
+          }
+        ]
       }
     },
     {
@@ -8150,7 +8556,7 @@
       "x": 42130.29926120524,
       "y": 6133.247813450077,
       "w": 320,
-      "h": 237,
+      "h": 507,
       "group": null,
       "data": {
         "date": "2025-12-01",
@@ -8168,7 +8574,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.15.18.png",
+            "size": 395366,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.15.18.jpg"
+          }
+        ]
       }
     },
     {
@@ -8176,7 +8591,7 @@
       "x": 42956.55323937117,
       "y": 4224.364689702968,
       "w": 320,
-      "h": 347,
+      "h": 539,
       "group": null,
       "data": {
         "date": "2025-11-30",
@@ -8197,7 +8612,16 @@
         ],
         "desc": "Gadgets designed for the Zero Hour Day.\n",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.28.43.png",
+            "size": 565467,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.28.43.jpg"
+          }
+        ]
       }
     },
     {
@@ -8205,7 +8629,7 @@
       "x": 43455.089993123496,
       "y": 5093.167148349882,
       "w": 320,
-      "h": 368,
+      "h": 529,
       "group": null,
       "data": {
         "date": "2025-12-01",
@@ -8229,7 +8653,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.28.23.png",
+            "size": 156131,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.28.23.jpg"
+          }
+        ]
       }
     },
     {
@@ -8304,7 +8737,7 @@
       "x": 44839.44915495411,
       "y": 4097.349411199189,
       "w": 320,
-      "h": 260,
+      "h": 559,
       "group": null,
       "data": {
         "date": "2025-12-03",
@@ -8324,7 +8757,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.25.09.png",
+            "size": 188327,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.25.09.jpg"
+          }
+        ]
       }
     },
     {
@@ -8361,7 +8803,7 @@
       "x": 44840.275710409966,
       "y": 4705.349411199189,
       "w": 320,
-      "h": 431,
+      "h": 657,
       "group": null,
       "data": {
         "date": "2025-12-04",
@@ -8382,7 +8824,16 @@
         ],
         "desc": "To avoid the e-in refreshing the image, which occurs with a sort of ‘flicker’ or ‘flash’ (often white or grey) to reset the pigments in the microcapsules, allowing new content to be displayed clearly and sharply, we try to implement a 2.42inch OLED Display instead (with black backround and white text).",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.25.21.png",
+            "size": 540846,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.25.21.jpg"
+          }
+        ]
       }
     },
     {
@@ -8390,7 +8841,7 @@
       "x": 45196.258705192246,
       "y": 5969.361705199966,
       "w": 320,
-      "h": 283,
+      "h": 808,
       "group": null,
       "data": {
         "date": "2025-12-07",
@@ -8412,7 +8863,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.27.50.png",
+            "size": 356137,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.27.50.jpg"
+          }
+        ]
       }
     },
     {
@@ -8420,7 +8880,7 @@
       "x": 45183.5937831775,
       "y": 5411.484357498287,
       "w": 320,
-      "h": 283,
+      "h": 347,
       "group": null,
       "data": {
         "date": "2025-12-06",
@@ -8441,7 +8901,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.25.40.png",
+            "size": 116110,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.25.40.jpg"
+          }
+        ]
       }
     },
     {
@@ -8449,7 +8918,7 @@
       "x": 44834.54778300488,
       "y": 5970.6803447571965,
       "w": 320,
-      "h": 532,
+      "h": 689,
       "group": null,
       "data": {
         "date": "2025-12-07",
@@ -8472,7 +8941,16 @@
         ],
         "desc": "Alternative folding format to the traditional product brochure. The proposed layout serves as a preliminary design concept, pending approval for implementation with finalized content and technical illustrations. The production specifications call for standard lightweight uncoated paper stock, selected for its suitability in presenting technical machinery information. A potential enhancement under consideration involves incorporating power-on instructions within the operational step sequence, addressing a fundamental usability requirement in technical documentation design.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.28.05.png",
+            "size": 483181,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.28.05.jpg"
+          }
+        ]
       }
     },
     {
@@ -8543,9 +9021,9 @@
     {
       "id": "ne9lrf8c",
       "x": 46340.54337884316,
-      "y": 4647.788711245294,
+      "y": 4591.659672195424,
       "w": 320,
-      "h": 390,
+      "h": 628,
       "group": null,
       "data": {
         "date": "2025-12-10",
@@ -8562,7 +9040,16 @@
         ],
         "desc": " review session with the fabrication laboratory, to define several technical specifications for the final print production:\n- Color of the filament: lighter gray filament to better integrate the component within the overall color palette\n- Surface finishing requirements specify smooth post-processing to eliminate layer lines and achieve a professional-grade appearance",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.24.15.png",
+            "size": 1023819,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.24.15.jpg"
+          }
+        ]
       }
     },
     {
@@ -8570,7 +9057,7 @@
       "x": 46335.15474892805,
       "y": 5298.294769061605,
       "w": 320,
-      "h": 352,
+      "h": 543,
       "group": null,
       "data": {
         "date": "2025-12-11",
@@ -8589,7 +9076,16 @@
         ],
         "desc": "hardware modifications and code updates to integrate an OLED display with inverted color scheme (black background, white text) into the existing system architecture.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.24.29.png",
+            "size": 828589,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.24.29.jpg"
+          }
+        ]
       }
     },
     {
@@ -8691,9 +9187,9 @@
     {
       "id": "nxfxudm0",
       "x": 48123.28025979944,
-      "y": 4643.908194263325,
+      "y": 4642.535208989454,
       "w": 320,
-      "h": 407,
+      "h": 758,
       "group": null,
       "data": {
         "date": "2025-12-13",
@@ -8710,7 +9206,16 @@
         ],
         "desc": "The 3D-printed components prioritize functionality over aesthetics. All edges (button and knob) feature a 5mm chamfer for improved handling and durability. LED diffusion is achieved through white PLA inserts within the apertures, maximizing light distribution. The temporal notation uses \"00\" instead of \"24\" to align with standard 24-hour conventions. Texts are printed flush with the surface in black text, ensuring clear legibility without raised typography that could compromise tactile interaction or wear over time.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.23.36.png",
+            "size": 1205521,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.23.36.jpg"
+          }
+        ]
       }
     },
     {
@@ -8718,7 +9223,7 @@
       "x": 46338.81132478586,
       "y": 5889.956812935661,
       "w": 320,
-      "h": 260,
+      "h": 458,
       "group": null,
       "data": {
         "date": "2025-12-11",
@@ -8737,15 +9242,24 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.24.42.png",
+            "size": 1265992,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.24.42.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nurjs6u0",
       "x": 48510.79994857615,
-      "y": 4815.115752833267,
+      "y": 4811.26981463821,
       "w": 320,
-      "h": 318,
+      "h": 491,
       "group": null,
       "data": {
         "date": "2025-12-14",
@@ -8764,7 +9278,16 @@
         ],
         "desc": "Verifying the functionality of 48 manually soldered LEDs with the new print prototype.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.23.23.png",
+            "size": 1149824,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.23.23.jpg"
+          }
+        ]
       }
     },
     {
@@ -8845,9 +9368,9 @@
     {
       "id": "nfitee7k",
       "x": 48118.79994857615,
-      "y": 6031.115752833267,
+      "y": 6033.840702262853,
       "w": 320,
-      "h": 324,
+      "h": 452,
       "group": null,
       "data": {
         "date": "2025-12-16",
@@ -8867,15 +9390,24 @@
         ],
         "desc": "Print Proof poster and print artefacts",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 09.23.52.png",
+            "size": 456951,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_09.23.52.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nvww3ch4",
-      "x": 50139.79661811406,
-      "y": 5531.717219755336,
+      "x": 50142.76352555253,
+      "y": 6733.812045920373,
       "w": 320,
-      "h": 374,
+      "h": 538,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -8900,18 +9432,27 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.39.44.png",
+            "size": 796529,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.39.44.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n3tvrl4k",
-      "x": 49773.88484838067,
-      "y": 5613.486821733055,
+      "x": 49784.065573754684,
+      "y": 6742.700861199332,
       "w": 320,
-      "h": 308,
+      "h": 462,
       "group": null,
       "data": {
-        "date": "2025-12-17",
+        "date": "2025-12-14",
         "title": "Final prototype",
         "type": "Artefact",
         "action": "Making",
@@ -8929,15 +9470,24 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.44.26.png",
+            "size": 1044293,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.44.26.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nnjxbpli",
-      "x": 49778.50179527909,
-      "y": 6413.87145647994,
+      "x": 49775.925637939334,
+      "y": 7419.085495946217,
       "w": 320,
-      "h": 328,
+      "h": 571,
       "group": null,
       "data": {
         "date": "2025-12-18",
@@ -8961,7 +9511,16 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.43.23.png",
+            "size": 212402,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.43.23.jpg"
+          }
+        ]
       }
     },
     {
@@ -8969,7 +9528,7 @@
       "x": 49774.50179527909,
       "y": 3748.87145647994,
       "w": 320,
-      "h": 347,
+      "h": 977,
       "group": null,
       "data": {
         "date": "2025-12-16",
@@ -8990,15 +9549,32 @@
         "tags": [],
         "desc": "Synchro identity and zerohourday communication",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.35.45.png",
+            "size": 355145,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.35.45.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 at 11.36.00.png",
+            "size": 625399,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.36.00.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nrocuxeu",
-      "x": 49782.50179527909,
-      "y": 4804.87145647994,
+      "x": 49778.733776226334,
+      "y": 5169.450546106693,
       "w": 320,
-      "h": 214,
+      "h": 396,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -9016,15 +9592,24 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.38.02.png",
+            "size": 92636,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.38.02.jpg"
+          }
+        ]
       }
     },
     {
       "id": "ngdyewby",
-      "x": 50178.50179527909,
-      "y": 4404.87145647994,
+      "x": 50171.49065894011,
+      "y": 4696.188496814603,
       "w": 320,
-      "h": 283,
+      "h": 695,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -9045,19 +9630,36 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.38.39.png",
+            "size": 73834,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.38.39.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 at 11.39.08.png",
+            "size": 244283,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.39.08.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nclsvpv0",
-      "x": 50150.50179527909,
-      "y": 6413.87145647994,
+      "x": 50147.925637939334,
+      "y": 7419.085495946217,
       "w": 320,
-      "h": 262,
+      "h": 521,
       "group": null,
       "data": {
         "date": "2025-12-18",
-        "title": "Web app presentation",
+        "title": "Web app mockup",
         "type": "Artefact",
         "action": "Making",
         "mainArea": "Communication",
@@ -9072,15 +9674,24 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.43.09.png",
+            "size": 320047,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.43.09.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n8cfjkf2",
-      "x": 50174.50179527909,
-      "y": 5054.87145647994,
+      "x": 50164.0019899262,
+      "y": 5419.450546106693,
       "w": 320,
-      "h": 171,
+      "h": 347,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -9094,29 +9705,35 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.39.24.png",
+            "size": 591228,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.39.24.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n7agoihj",
-      "x": 50602.50179527909,
-      "y": 4660.87145647994,
+      "x": 50607.79895866136,
+      "y": 5064.64442458378,
       "w": 320,
-      "h": 321,
+      "h": 588,
       "group": null,
       "data": {
         "date": "2025-12-18",
-        "title": "",
-        "type": "Feedback",
+        "title": "Product communication",
+        "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
+        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Communication",
-          "Experience design",
-          "Branding",
-          "Design research",
-          "Data representation"
+          "Branding"
         ],
         "tags": [
           "Mockup",
@@ -9128,7 +9745,24 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.40.35.png",
+            "size": 852189,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.40.35.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 at 11.40.32.png",
+            "size": 938147,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.40.32.jpg"
+          }
+        ]
       }
     },
     {
@@ -9136,11 +9770,11 @@
       "x": 50142.50179527909,
       "y": 3732.87145647994,
       "w": 320,
-      "h": 306,
+      "h": 498,
       "group": null,
       "data": {
         "date": "2025-12-16",
-        "title": "Zero Hour Day artefacts",
+        "title": "Zero Hour Day Gadget",
         "type": "Artefact",
         "action": "Making",
         "mainArea": "Communication",
@@ -9157,19 +9791,28 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.36.29.png",
+            "size": 424033,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.36.29.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n1dwlgh2",
-      "x": 50498.50179527909,
-      "y": 3740.87145647994,
+      "x": 50604.769811496946,
+      "y": 3725.320039472448,
       "w": 320,
-      "h": 321,
+      "h": 526,
       "group": null,
       "data": {
-        "date": "2025-12-16",
-        "title": "",
+        "date": "2025-12-18",
+        "title": "Zero hour day stand",
         "type": "Artefact",
         "action": "Making",
         "mainArea": "Communication",
@@ -9190,15 +9833,24 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.37.05.png",
+            "size": 419634,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.37.05.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n172tnef",
-      "x": 50598.50179527909,
-      "y": 5390.87145647994,
+      "x": 50603.02059089912,
+      "y": 4342.044810371366,
       "w": 320,
-      "h": 341,
+      "h": 673,
       "group": null,
       "data": {
         "date": "2025-12-18",
@@ -9214,23 +9866,33 @@
         "tags": [
           "Mockup",
           "Speculative projects",
-          "Brand communication"
+          "Brand communication",
+          "Packaging"
         ],
         "desc": "Custom-fitted shipping carton with foam protection and designated instruction space.\n",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.39.58.png",
+            "size": 1435345,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.39.58.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nzfrbiz6",
-      "x": 49781.37796785498,
-      "y": 7196.87145647994,
+      "x": 49776.284416117116,
+      "y": 8014.085495946218,
       "w": 320,
-      "h": 260,
+      "h": 695,
       "group": null,
       "data": {
-        "date": "2025-12-18",
-        "title": "Project Teaser",
+        "date": "2025-12-15",
+        "title": "Project Teaser making",
         "type": "Artefact",
         "action": "Making",
         "mainArea": "Communication",
@@ -9242,17 +9904,27 @@
         ],
         "tags": [
           "Temporal sovereignty",
-          "Brand communication"
+          "Brand communication",
+          "Video content"
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.44.52.png",
+            "size": 1176627,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.44.52.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nka4qp64",
       "x": 51401.37796785498,
-      "y": 5106.87145647994,
+      "y": 5107.9901807108945,
       "w": 320,
       "h": 825,
       "group": null,
@@ -9279,7 +9951,7 @@
           "Speculative projects",
           "User interface design"
         ],
-        "desc": "Teaser: the map design must appear more organic while maintaining visual unity through a single continuous drawing technique inspired by Cavandoli-style line work. Subtitles should be consistently added to animations to establish coherent connections. The teaser's \"powered by\" placement was identified as problematic; institutional distribution requires a more restrained aesthetic without decorative elements.\n\nThe visual representation of temporal elements—specifically time zones in the Zero Hour Day concept—requires consistent graphic treatment across video and poster formats to maintain conceptual clarity.\n\n The packaging solution should present the logo inline rather than prominently featured, as the product's value lies in its institutional function rather than retail appeal. The introductory video's step-by-step structure was deemed useful. For task completion interface, alphabetical task labels (A-B-C-D) should precede the confirm action, with the confirmation button enlarged and differentiated through color for improved usability.",
+        "desc": "Teaser: the map design must appear more organic while maintaining visual unity through a single continuous drawing technique inspired by Cavandoli-style line work. Subtitles should be consistently added to animations to establish coherent connections. The teaser's \"powered by\" placement was identified as problematic; institutional distribution requires a more restrained aesthetic without decorative elements.\n\nThe visual representation of temporal elements, specifically time zones in the Zero Hour Day concept,  requires consistent graphic treatment across video and poster formats to maintain conceptual clarity.\n\n The packaging solution should present the logo inline rather than prominently featured, as the product's value lies in its institutional function rather than retail appeal. The introductory video's step-by-step structure was deemed useful. For task completion interface, alphabetical task labels (A-B-C-D) should precede the confirm action, with the confirmation button enlarged and differentiated through color for improved usability.",
         "links": [],
         "files": []
       }
@@ -9626,8 +10298,8 @@
     },
     {
       "id": "ntu3ynjf",
-      "x": 52661.68039602977,
-      "y": 5317.622852236326,
+      "x": 52685.68039602977,
+      "y": 5265.622852236326,
       "w": 320,
       "h": 449,
       "group": null,
@@ -9660,8 +10332,8 @@
     },
     {
       "id": "n281h8jm",
-      "x": 53096.9867778659,
-      "y": 5278.755591762718,
+      "x": 53044.9867778659,
+      "y": 5262.755591762718,
       "w": 320,
       "h": 1167,
       "group": null,
@@ -9702,8 +10374,8 @@
     },
     {
       "id": "npgm7qch",
-      "x": 52666.25169391585,
-      "y": 5789.906269354915,
+      "x": 52690.25169391585,
+      "y": 5737.906269354915,
       "w": 320,
       "h": 634,
       "group": null,
@@ -9736,10 +10408,10 @@
     },
     {
       "id": "nmkczo6n",
-      "x": 53481.22821469086,
-      "y": 5335.918200052755,
+      "x": 53393.22821469086,
+      "y": 5263.918200052755,
       "w": 320,
-      "h": 1133,
+      "h": 1132,
       "group": null,
       "data": {
         "date": "2026-01-06",
@@ -9795,8 +10467,8 @@
     },
     {
       "id": "n1uyhmys",
-      "x": 52280.857871401626,
-      "y": 4699.7130380850585,
+      "x": 52292.857871401626,
+      "y": 4715.7130380850585,
       "w": 320,
       "h": 767,
       "group": null,
@@ -9831,8 +10503,8 @@
     },
     {
       "id": "nan5o6p4",
-      "x": 51880.40078675137,
-      "y": 5511.261570443735,
+      "x": 51872.40078675137,
+      "y": 5251.261570443735,
       "w": 320,
       "h": 651,
       "group": null,
@@ -9892,7 +10564,7 @@
     },
     {
       "id": "nheiuq6q",
-      "x": 53065.48780929085,
+      "x": 53021.48780929085,
       "y": 4700.592250017934,
       "w": 320,
       "h": 472,
@@ -9947,7 +10619,6 @@
           "Web design"
         ],
         "tags": [
-          "Mockup",
           "Interface design",
           "Visual identity",
           "Data representation"
@@ -10011,7 +10682,7 @@
       "x": 53538.58114247643,
       "y": 2870.596549697378,
       "w": 320,
-      "h": 469,
+      "h": 514,
       "group": null,
       "data": {
         "date": "2026-01-07",
@@ -10026,7 +10697,9 @@
           "Science and technology studies (sts)",
           "Sensor systems"
         ],
-        "tags": [],
+        "tags": [
+          "Technical drawing"
+        ],
         "desc": "",
         "links": [],
         "files": [
@@ -10044,9 +10717,9 @@
     {
       "id": "nx74nqzb",
       "x": 52542.55824006805,
-      "y": 3304.07772203345,
+      "y": 3300.07772203345,
       "w": 320,
-      "h": 472,
+      "h": 540,
       "group": null,
       "data": {
         "date": "2026-01-05",
@@ -10061,7 +10734,11 @@
           "Science and technology studies (sts)",
           "Sensor systems"
         ],
-        "tags": [],
+        "tags": [
+          "Brand communication",
+          "Print media",
+          "Editorial design"
+        ],
         "desc": "",
         "links": [],
         "files": [
@@ -10078,10 +10755,10 @@
     },
     {
       "id": "n3gn04dr",
-      "x": 54120.49766214224,
-      "y": 2164.1467652505785,
+      "x": 54118.39434187395,
+      "y": 2162.0434449822956,
       "w": 320,
-      "h": 782,
+      "h": 850,
       "group": null,
       "data": {
         "date": "2026-01-26",
@@ -10096,7 +10773,12 @@
           "Science and technology studies (sts)",
           "Sensor systems"
         ],
-        "tags": [],
+        "tags": [
+          "Brand communication",
+          "Print media",
+          "Editorial design",
+          "Technical drawing"
+        ],
         "desc": "",
         "links": [],
         "files": [
@@ -10122,9 +10804,9 @@
     {
       "id": "n9d8evwo",
       "x": 54133.400287122924,
-      "y": 3293.3849241863604,
+      "y": 3295.4882444546433,
       "w": 320,
-      "h": 508,
+      "h": 577,
       "group": null,
       "data": {
         "date": "2026-01-26",
@@ -10139,7 +10821,12 @@
           "Science and technology studies (sts)",
           "Sensor systems"
         ],
-        "tags": [],
+        "tags": [
+          "Brand communication",
+          "Print media",
+          "Editorial design",
+          "Technical drawing"
+        ],
         "desc": "",
         "links": [],
         "files": [
@@ -10238,7 +10925,7 @@
     },
     {
       "id": "nk1dfvtp",
-      "x": 54744.49766214224,
+      "x": 54476.49766214224,
       "y": 5128.146765250578,
       "w": 320,
       "h": 993,
@@ -10273,10 +10960,10 @@
     },
     {
       "id": "ng7zujmy",
-      "x": 51877.37796785498,
-      "y": 7478.101883408049,
+      "x": 51873.37796785498,
+      "y": 7346.101883408049,
       "w": 320,
-      "h": 540,
+      "h": 616,
       "group": null,
       "data": {
         "date": "2026-01-08",
@@ -10295,7 +10982,7 @@
           "Data representation"
         ],
         "tags": [],
-        "desc": "",
+        "desc": "Design research to add consistent graphic treatment across both Zero Hour Day posters to maintain visual coherence.",
         "links": [],
         "files": [
           {
@@ -10311,8 +10998,8 @@
     },
     {
       "id": "n7c9xopx",
-      "x": 51885.37796785498,
-      "y": 8954.10188340805,
+      "x": 51877.37796785498,
+      "y": 8657.19046464898,
       "w": 320,
       "h": 700,
       "group": null,
@@ -10340,8 +11027,8 @@
     },
     {
       "id": "niij2b5p",
-      "x": 51881.37796785498,
-      "y": 8114.10188340805,
+      "x": 51874.99445212023,
+      "y": 8021.19046464898,
       "w": 320,
       "h": 610,
       "group": null,
@@ -10378,26 +11065,22 @@
     },
     {
       "id": "nfas328r",
-      "x": 55288.49766214224,
-      "y": 6216.146765250578,
+      "x": 55012.83524418994,
+      "y": 7596.955466400157,
       "w": 320,
-      "h": 573,
+      "h": 482,
       "group": null,
       "data": {
         "date": "2026-01-26",
         "title": "Trailer storyboard update",
-        "type": "Feedback",
-        "action": null,
-        "mainArea": null,
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
         "areas": [
-          "Product design",
           "Visual communication",
-          "Interaction design",
           "Communication",
-          "Experience design",
           "Branding",
-          "Design research",
-          "Data representation"
+          "Motion design"
         ],
         "tags": [],
         "desc": "",
@@ -10410,6 +11093,538 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2026-02-01_at_20.44.10.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrr48huj",
+      "x": 50150.55385139638,
+      "y": 8022.578399770566,
+      "w": 320,
+      "h": 475,
+      "group": null,
+      "data": {
+        "date": "2025-12-18",
+        "title": "Project Teaser",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding",
+          "Communication",
+          "Motion design",
+          "Chronopolitics"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Brand communication",
+          "Video content"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.43.59.png",
+            "size": 90488,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.43.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n567yz7f",
+      "x": 50157.97991224998,
+      "y": 5816.069682202884,
+      "w": 320,
+      "h": 819,
+      "group": null,
+      "data": {
+        "date": "2025-12-17",
+        "title": "Instagram page",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Communication",
+          "Branding"
+        ],
+        "tags": [
+          "Brand communication",
+          "Mockup",
+          "Social media content"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 11.55.16.png",
+            "size": 173209,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_11.55.16.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n441smig",
+      "x": 55022.84082113196,
+      "y": 6233.488400439933,
+      "w": 320,
+      "h": 570,
+      "group": null,
+      "data": {
+        "date": "2026-01-23",
+        "title": "Update Synchro website",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Ui design",
+          "Web design"
+        ],
+        "tags": [
+          "Interface design",
+          "Visual identity",
+          "Data representation"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 12.00.09.png",
+            "size": 94368,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_12.00.09.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "numrcbe0",
+      "x": 55019.24666972476,
+      "y": 5369.161948172819,
+      "w": 320,
+      "h": 834,
+      "group": null,
+      "data": {
+        "date": "2026-01-23",
+        "title": "Webapp improvements",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Ui design",
+          "Web design"
+        ],
+        "tags": [
+          "Interface design",
+          "Visual identity",
+          "Data representation"
+        ],
+        "desc": "Venue Page – TBD\nAlign\n- Add a \"More About\" section with a downward arrow\nWorld (Index)\n- Position the map along the Y-axis at a distance such that the upper line aligns with the header (if feasible, ensure the search element remains equidistant between the map and the ranking)\n- Add country names beneath the SVG map\n- Add the recap section\nWorld (Timeout)\n- Position the map along the Y-axis at a distance such that the upper line aligns with the header (if feasible, ensure the search element remains equidistant between the map and the ranking)\n- Change the map colour from gold to grey and ensure the first-ranked country is highlighted\nRecap (Index)\n- Centre the loading indicator within the recap area, between the header and the line\nRecap (Timeout)\n- Lines must not extend to the screen margins\n- Replace \"Your Final Score\" with \"Your Final Alignment\"\n- Align text elements appropriately\nGeneral\n- Change lines from grey to black\n-Add \"ID:\" adjacent to the person icon\n- Remove grey rectangles\n- Set text kerning to 0",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nt1vleas",
+      "x": 55017.83932510088,
+      "y": 4781.1593080938255,
+      "w": 320,
+      "h": 570,
+      "group": null,
+      "data": {
+        "date": "2026-01-21",
+        "title": "Time zone map improvement",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Visual communication",
+          "Interaction design",
+          "Communication",
+          "Experience design",
+          "Data representation",
+          "Map"
+        ],
+        "tags": [
+          "Temporal sovereignty",
+          "Map",
+          "Real-time data",
+          "Physical prototype"
+        ],
+        "desc": "Now the LEDS are actually following the shape of the timezones.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 12.05.51.png",
+            "size": 465521,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_12.05.51.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3i03zsu",
+      "x": 55379.675322219446,
+      "y": 4229.243176146501,
+      "w": 320,
+      "h": 495,
+      "group": null,
+      "data": {
+        "date": "2026-01-21",
+        "title": "Second Print prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Additive manufacturing (am)",
+          "Interaction design",
+          "Experience design"
+        ],
+        "tags": [
+          "Physical prototype",
+          "3d print"
+        ],
+        "desc": "Printed at Superforma XYZ 3D printing studio. ",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 12.08.08.png",
+            "size": 396525,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_12.08.08.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nakoztn7",
+      "x": 55017.38349280455,
+      "y": 4226.95070840342,
+      "w": 320,
+      "h": 374,
+      "group": null,
+      "data": {
+        "date": "2026-01-20",
+        "title": "3d initial print",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Experience design"
+        ],
+        "tags": [],
+        "desc": "The initial print produced by the studio presented numerous imperfections, necessitating a formal request for clarification and the submission of a revised print incorporating specific adjustments to the custom file tailored exclusively for their requirements. While the subsequent print still exhibits certain imperfections, these are notably reduced compared to the initial output.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nxyhacv5",
+      "x": 55730.34109174689,
+      "y": 4228.736197889795,
+      "w": 320,
+      "h": 616,
+      "group": null,
+      "data": {
+        "date": "2026-01-22",
+        "title": "Second Print prototype",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Additive manufacturing (am)",
+          "Interaction design",
+          "Experience design"
+        ],
+        "tags": [
+          "Physical prototype",
+          "3d print"
+        ],
+        "desc": "The modifications made to the file have adversely affected the prototype's performance, as the LED intensity has diminished due to the additional thickness applied to the white notches.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 12.23.02.png",
+            "size": 339851,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_12.23.02.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nn3boztg",
+      "x": 56084.77581965689,
+      "y": 4229.546158987024,
+      "w": 320,
+      "h": 375,
+      "group": null,
+      "data": {
+        "date": "2026-01-23",
+        "title": "Final print",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Additive manufacturing (am)",
+          "Interaction design",
+          "Experience design"
+        ],
+        "tags": [
+          "Physical prototype",
+          "3d print"
+        ],
+        "desc": "We opted to make a new print from home, rather than proceeding with the studio, in order to preserve the original design specifications and intended rendering.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nlvp0k2l",
+      "x": 55628.03792327846,
+      "y": 6649.129078633922,
+      "w": 320,
+      "h": 589,
+      "group": null,
+      "data": {
+        "date": "2026-01-25",
+        "title": "Chronodex support structure",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Experience design",
+          "Interaction design",
+          "Communication",
+          "Data representation",
+          "Product design",
+          "Visual communication"
+        ],
+        "tags": [
+          "Physical prototype",
+          "Structure design"
+        ],
+        "desc": "The design of the device support structure as a voting booth: a polypropylene structure comprising three walls, specifically engineered to ensure citizen privacy throughout the voting procedure. Within the booth, the CHRONODEX is positioned on a shelf, accompanied by the operating instructions.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 12.24.54.png",
+            "size": 834981,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_12.24.54.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nz6qre09",
+      "x": 55020.379825418124,
+      "y": 6837.415828016711,
+      "w": 320,
+      "h": 677,
+      "group": null,
+      "data": {
+        "date": "2026-01-24",
+        "title": "Exhibition Design",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Speculation",
+        "areas": [
+          "Visual communication",
+          "Interaction design",
+          "Communication",
+          "Experience design",
+          "Branding",
+          "Design research",
+          "Data representation"
+        ],
+        "tags": [],
+        "desc": "The exhibition is configured as an interactive installation enabling visitors to experience Zero Hour Day firsthand. The stand simulates a day at an Italian venue as described in the project scenario, transforming the public into active participants. Posters along the exhibition pathway summarise the event's significance and the role of partner company Synchro.\nVisitors are welcomed by staff, who introduce the project and guide them to the registration station—a polypropylene booth designed to ensure privacy during voting. Inside, the CHRONODEX is positioned on a shelf with operating instructions.\nOnce data is entered, personal voting information becomes accessible via a dedicated web application. At the centre of the stand, a wooden structure displays a world time zone map with LED strips that illuminate in real time, highlighting the zone with the highest citizen synchronisation. The system continuously updates a luminous map and global ranking, forming an interconnected ecosystem reflecting participation in real time.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n5bdjfkg",
+      "x": 56445.25506203532,
+      "y": 4238.83467859084,
+      "w": 320,
+      "h": 759,
+      "group": null,
+      "data": {
+        "date": "2026-01-25",
+        "title": "Final print",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Additive manufacturing (am)",
+          "Interaction design",
+          "Experience design"
+        ],
+        "tags": [
+          "Physical prototype",
+          "3d print"
+        ],
+        "desc": "Final 3D print for the device utilised during the exhibition\n",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 12.54.14.png",
+            "size": 790769,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_12.54.14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfyyqh2h",
+      "x": 55632.75847338537,
+      "y": 7321.043319797197,
+      "w": 320,
+      "h": 491,
+      "group": null,
+      "data": {
+        "date": "2026-01-25",
+        "title": " Chronodex packaging box",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Visual communication",
+          "Interaction design",
+          "Communication",
+          "Experience design",
+          "Branding"
+        ],
+        "tags": [
+          "Packaging"
+        ],
+        "desc": "Design and material research for the construction of the device packaging box",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 12.37.21.png",
+            "size": 607978,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_12.37.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nync6er8",
+      "x": 55374.75863636745,
+      "y": 5375.672709788915,
+      "w": 320,
+      "h": 477,
+      "group": null,
+      "data": {
+        "date": "2026-01-26",
+        "title": "Webapp improvements",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Ui design",
+          "Web design"
+        ],
+        "tags": [
+          "Interface design",
+          "Visual identity",
+          "Data representation"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 at 12.46.20.png",
+            "size": 260163,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_at_12.46.20.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njvfgiru",
+      "x": 56033.69603950796,
+      "y": 7312.2290603480615,
+      "w": 320,
+      "h": 751,
+      "group": null,
+      "data": {
+        "date": "2026-01-26",
+        "title": " Chronodex packaging box",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Product design",
+          "Visual communication",
+          "Interaction design",
+          "Communication",
+          "Experience design",
+          "Branding"
+        ],
+        "tags": [
+          "Packaging",
+          "Physical prototype"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-01-26 at 18.12.09.jpeg",
+            "size": 310919,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-26_at_18.12.09.jpg"
           }
         ]
       }
@@ -12597,11 +13812,6 @@
       "dashed": false
     },
     {
-      "s": "n8cfjkf2",
-      "t": "n172tnef",
-      "dashed": false
-    },
-    {
       "s": "nwh2g5o7",
       "t": "nzfrbiz6",
       "dashed": false
@@ -12613,16 +13823,6 @@
     },
     {
       "s": "n7agoihj",
-      "t": "nka4qp64",
-      "dashed": false
-    },
-    {
-      "s": "nvww3ch4",
-      "t": "nka4qp64",
-      "dashed": false
-    },
-    {
-      "s": "nzfrbiz6",
       "t": "nka4qp64",
       "dashed": false
     },
@@ -12860,103 +14060,217 @@
       "s": "nk1dfvtp",
       "t": "nfas328r",
       "dashed": false
+    },
+    {
+      "s": "nzfrbiz6",
+      "t": "nrr48huj",
+      "dashed": false
+    },
+    {
+      "s": "nrr48huj",
+      "t": "nka4qp64",
+      "dashed": false
+    },
+    {
+      "s": "nrocuxeu",
+      "t": "n567yz7f",
+      "dashed": false
+    },
+    {
+      "s": "n0zdlpkl",
+      "t": "n172tnef",
+      "dashed": false
+    },
+    {
+      "s": "n0zdlpkl",
+      "t": "n7agoihj",
+      "dashed": false
+    },
+    {
+      "s": "nrocuxeu",
+      "t": "n172tnef",
+      "dashed": false
+    },
+    {
+      "s": "n567yz7f",
+      "t": "nka4qp64",
+      "dashed": false
+    },
+    {
+      "s": "nvww3ch4",
+      "t": "nka4qp64",
+      "dashed": false
+    },
+    {
+      "s": "nclsvpv0",
+      "t": "nka4qp64",
+      "dashed": false
+    },
+    {
+      "s": "nk1dfvtp",
+      "t": "n441smig",
+      "dashed": false
+    },
+    {
+      "s": "nk1dfvtp",
+      "t": "numrcbe0",
+      "dashed": false
+    },
+    {
+      "s": "nk1dfvtp",
+      "t": "nt1vleas",
+      "dashed": false
+    },
+    {
+      "s": "nk1dfvtp",
+      "t": "nakoztn7",
+      "dashed": false
+    },
+    {
+      "s": "nakoztn7",
+      "t": "n3i03zsu",
+      "dashed": false
+    },
+    {
+      "s": "n3i03zsu",
+      "t": "nxyhacv5",
+      "dashed": false
+    },
+    {
+      "s": "nxyhacv5",
+      "t": "nn3boztg",
+      "dashed": false
+    },
+    {
+      "s": "nn3boztg",
+      "t": "n5bdjfkg",
+      "dashed": false
+    },
+    {
+      "s": "numrcbe0",
+      "t": "nync6er8",
+      "dashed": false
+    },
+    {
+      "s": "nfyyqh2h",
+      "t": "njvfgiru",
+      "dashed": false
+    },
+    {
+      "s": "nz6qre09",
+      "t": "nlvp0k2l",
+      "dashed": false
+    },
+    {
+      "s": "nz6qre09",
+      "t": "nfyyqh2h",
+      "dashed": false
+    },
+    {
+      "s": "nk1dfvtp",
+      "t": "nz6qre09",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Design research",
-      "Branding",
       "Experience design",
-      "Communication",
-      "Visual communication",
+      "Interaction design",
       "Map",
       "Web design",
       "Ui design",
-      "Sensor systems",
-      "Science and technology studies (sts)",
-      "Metric system",
-      "Algorithmic governance",
-      "Metric governance",
-      "Chronopolitics",
       "Motion design",
-      "Data representation",
-      "Interaction design",
+      "Additive manufacturing (am)",
+      "3d print",
+      "Branding",
+      "Communication",
+      "Visual communication",
       "Sensor technology",
-      "Product design",
-      "Social media",
-      "Data ethics",
-      "Critical design",
-      "Socio-political",
-      "Critical data studies",
-      "Surveillance studies",
-      "Critical theory",
-      "Media studies",
-      "Biometric data",
+      "Speculative design",
       "Data perception",
-      "Speculative design"
+      "Biometric data",
+      "Media studies",
+      "Critical theory",
+      "Surveillance studies",
+      "Critical data studies",
+      "Socio-political",
+      "Critical design",
+      "Data ethics",
+      "Social media",
+      "Product design",
+      "Data representation",
+      "Chronopolitics",
+      "Metric governance",
+      "Algorithmic governance",
+      "Metric system",
+      "Science and technology studies (sts)",
+      "Sensor systems",
+      "Design research"
     ],
     "tags": [
-      "User interface design",
-      "Speculative projects",
-      "Data representation",
-      "Temporal sovereignty",
-      "Metric system",
       "Physical prototype",
-      "Usability testing",
+      "Packaging",
+      "Data representation",
       "Visual identity",
       "Interface design",
-      "Mockup",
-      "Metrics distortion",
-      "Algorithmic governance",
-      "Metric governance",
-      "Sensor technology",
-      "Normalization techniques",
-      "Poster design",
-      "Design research",
-      "Brand communication",
-      "Print media",
-      "Device render",
+      "Structure design",
+      "3d print",
+      "Usability testing",
+      "Real-time data",
+      "Map",
+      "Temporal sovereignty",
       "Social media content",
+      "Mockup",
+      "Social media",
+      "Brand communication",
+      "Video content",
       "Technical drawing",
       "Editorial design",
-      "Video content",
-      "Identities",
-      "Physical computing",
-      "Mechanical computing",
-      "Real-time data",
-      "Data perception",
-      "Deceptive pattern",
-      "Map",
-      "Biometric data",
-      "Data visualization",
-      "Power dynamics",
-      "Relativity",
-      "Cellular senescence",
-      "Senolytics",
-      "Statistic bias",
-      "Cognitive bias",
-      "Big data",
-      "Algorithmic bias",
-      "Body-politics",
-      "Alternative values",
-      "Subjective reality",
-      "Normalization bias",
-      "Typography",
-      "Socio-political",
+      "Print media",
       "Measuring the unmeasurable",
-      "Self-trackin"
+      "Socio-political",
+      "Typography",
+      "Normalization bias",
+      "Subjective reality",
+      "Alternative values",
+      "Body-politics",
+      "Algorithmic bias",
+      "Big data",
+      "Cognitive bias",
+      "Statistic bias",
+      "Senolytics",
+      "Cellular senescence",
+      "Relativity",
+      "Power dynamics",
+      "Data visualization",
+      "Biometric data",
+      "Deceptive pattern",
+      "Data perception",
+      "Mechanical computing",
+      "Physical computing",
+      "Identities",
+      "Device render",
+      "Design research",
+      "Poster design",
+      "Sensor technology",
+      "Metric governance",
+      "Algorithmic governance",
+      "Metrics distortion",
+      "Metric system",
+      "Speculative projects",
+      "User interface design"
     ],
     "type": [
-      "Feedback",
       "Artefact",
       "Decision",
-      "Source",
       "Observation",
-      "Sketch",
+      "Feedback",
       "Collection",
-      "Brief",
+      "Sketch",
+      "Finding",
       "Concept",
-      "Finding"
+      "Brief",
+      "Source"
     ]
   }
 }
