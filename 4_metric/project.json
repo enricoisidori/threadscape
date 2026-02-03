@@ -2883,7 +2883,7 @@
       "x": 6645.617975179961,
       "y": 4677.474180029443,
       "w": 320,
-      "h": 1706,
+      "h": 1705,
       "group": null,
       "data": {
         "date": "2025-10-08",
@@ -4695,7 +4695,7 @@
       "x": 17335.892106948966,
       "y": 2895.753510684146,
       "w": 320,
-      "h": 467,
+      "h": 468,
       "group": null,
       "data": {
         "date": "2025-10-30",
@@ -4882,7 +4882,7 @@
       "x": 19050.0497111799,
       "y": 3408.238259179422,
       "w": 320,
-      "h": 592,
+      "h": 593,
       "group": null,
       "data": {
         "date": "2025-11-01",
@@ -5800,7 +5800,7 @@
       "x": 24064.587779520472,
       "y": 5978.809214645585,
       "w": 320,
-      "h": 1117,
+      "h": 1116,
       "group": null,
       "data": {
         "date": "2025-11-06",
@@ -5943,7 +5943,7 @@
       "x": 26092.458785386272,
       "y": 4486.5111626882845,
       "w": 320,
-      "h": 598,
+      "h": 599,
       "group": null,
       "data": {
         "date": "2025-11-08",
@@ -5979,7 +5979,7 @@
       "x": 25336.187464374398,
       "y": 5178.426465662481,
       "w": 320,
-      "h": 1049,
+      "h": 1048,
       "group": null,
       "data": {
         "date": "2025-11-08",
@@ -6076,7 +6076,7 @@
       "x": 26490.47177910283,
       "y": 4081.9589497334255,
       "w": 320,
-      "h": 747,
+      "h": 746,
       "group": null,
       "data": {
         "date": "2025-11-10",
@@ -6190,7 +6190,7 @@
       "x": 25725.687455317235,
       "y": 6646.892377509072,
       "w": 320,
-      "h": 685,
+      "h": 684,
       "group": null,
       "data": {
         "date": "2025-11-10",
@@ -11616,8 +11616,8 @@
     },
     {
       "id": "n441smig",
-      "x": 55761.529699699335,
-      "y": 5651.3320927101895,
+      "x": 55694.83701545568,
+      "y": 5525.357022472186,
       "w": 320,
       "h": 570,
       "group": null,
@@ -11861,7 +11861,7 @@
       "data": {
         "date": "2026-01-25",
         "title": "Chronodex support structure",
-        "type": "Artefact",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -11973,7 +11973,7 @@
       "data": {
         "date": "2026-01-25",
         "title": " Chronodex packaging box",
-        "type": "Artefact",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -12050,7 +12050,7 @@
       "data": {
         "date": "2026-01-26",
         "title": " Making of packaging box",
-        "type": "Artefact",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -12128,7 +12128,7 @@
       "data": {
         "date": "2026-01-27",
         "title": "Button finishing",
-        "type": "Artefact",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -12162,15 +12162,15 @@
     },
     {
       "id": "n23ki0jb",
-      "x": 57679.13150608118,
-      "y": 5890.713773281093,
+      "x": 57679.131506081176,
+      "y": 6071.827900184032,
       "w": 320,
-      "h": 216,
+      "h": 407,
       "group": null,
       "data": {
         "date": "2026-01-28",
-        "title": "Videomaking",
-        "type": "Artefact",
+        "title": "Video Production & Photography",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
@@ -12182,7 +12182,16 @@
         "tags": [],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-02-03 at 11.49.55.png",
+            "size": 1588266,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_at_11.49.55.jpg"
+          }
+        ]
       }
     },
     {
@@ -12195,7 +12204,7 @@
       "data": {
         "date": "2026-01-27",
         "title": "Set design ",
-        "type": "Artefact",
+        "type": "Collection",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -12217,6 +12226,151 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/Screenshot_2026-02-02_at_13.23.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "niltj89i",
+      "x": 58088.50116848209,
+      "y": 5664.3564446118335,
+      "w": 320,
+      "h": 360,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "Website Synchro Content ",
+        "type": "Artefact",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Product design",
+          "Interaction design",
+          "Data representation",
+          "Ui design",
+          "Web design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-03 at 12.03.58.png",
+            "size": 283837,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_at_12.03.58.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nfjlp35e",
+      "x": 58091.62062681158,
+      "y": 6067.638583589988,
+      "w": 320,
+      "h": 686,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "Product photography",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Communication",
+          "Branding",
+          "Motion design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-03 at 11.42.25.png",
+            "size": 2199316,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_at_11.42.25.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-03 at 11.51.15.png",
+            "size": 5681676,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_at_11.51.15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmn45xqa",
+      "x": 58091.620626811586,
+      "y": 6764.0822553948055,
+      "w": 320,
+      "h": 450,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "Stand photography",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Communication",
+          "Branding",
+          "Motion design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-03 at 11.54.25.png",
+            "size": 1586146,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_at_11.54.25.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvl98mbr",
+      "x": 58092.68453588511,
+      "y": 7235.151494190979,
+      "w": 320,
+      "h": 362,
+      "group": null,
+      "data": {
+        "date": "2026-02-03",
+        "title": "Videomaking",
+        "type": "Collection",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Communication",
+          "Branding",
+          "Motion design"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-03 at 12.01.03.png",
+            "size": 805501,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_at_12.01.03.jpg"
           }
         ]
       }
@@ -14802,105 +14956,125 @@
       "s": "nlxpevyv",
       "t": "nejrvsss",
       "dashed": false
+    },
+    {
+      "s": "n441smig",
+      "t": "niltj89i",
+      "dashed": false
+    },
+    {
+      "s": "n23ki0jb",
+      "t": "nfjlp35e",
+      "dashed": false
+    },
+    {
+      "s": "n23ki0jb",
+      "t": "nmn45xqa",
+      "dashed": false
+    },
+    {
+      "s": "n23ki0jb",
+      "t": "nvl98mbr",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Experience design",
-      "Interaction design",
-      "Map",
-      "Web design",
-      "Ui design",
-      "Motion design",
-      "Additive manufacturing (am)",
-      "Branding",
-      "Communication",
-      "Visual communication",
-      "Sensor technology",
-      "Speculative design",
-      "Data perception",
-      "Biometric data",
-      "Media studies",
-      "Critical theory",
-      "Surveillance studies",
-      "Critical data studies",
-      "Socio-political",
-      "Critical design",
-      "Data ethics",
-      "Social media",
-      "Product design",
-      "Data representation",
-      "Chronopolitics",
-      "Metric governance",
-      "Algorithmic governance",
-      "Metric system",
-      "Science and technology studies (sts)",
+      "Design research",
       "Sensor systems",
-      "Design research"
+      "Science and technology studies (sts)",
+      "Metric system",
+      "Algorithmic governance",
+      "Metric governance",
+      "Chronopolitics",
+      "Data representation",
+      "Product design",
+      "Social media",
+      "Data ethics",
+      "Critical design",
+      "Socio-political",
+      "Critical data studies",
+      "Surveillance studies",
+      "Critical theory",
+      "Media studies",
+      "Biometric data",
+      "Data perception",
+      "Speculative design",
+      "Sensor technology",
+      "Visual communication",
+      "Communication",
+      "Branding",
+      "Additive manufacturing (am)",
+      "Motion design",
+      "Ui design",
+      "Web design",
+      "Map",
+      "Interaction design",
+      "Experience design"
     ],
     "tags": [
-      "Alternative values",
-      "Data representation",
-      "Visual identity",
-      "Interface design",
-      "Physical prototype",
-      "Packaging",
-      "Structure design",
-      "3d print",
-      "Usability testing",
-      "Real-time data",
-      "Map",
-      "Temporal sovereignty",
-      "Social media content",
-      "Mockup",
-      "Brand communication",
-      "Video content",
-      "Technical drawing",
-      "Editorial design",
-      "Print media",
-      "Measuring the unmeasurable",
-      "Socio-political",
-      "Typography",
-      "Normalization bias",
-      "Subjective reality",
-      "Body-politics",
-      "Algorithmic bias",
-      "Big data",
-      "Cognitive bias",
-      "Statistic bias",
-      "Senolytics",
-      "Cellular senescence",
-      "Relativity",
-      "Power dynamics",
-      "Data visualization",
-      "Biometric data",
-      "Deceptive pattern",
-      "Data perception",
-      "Mechanical computing",
-      "Physical computing",
-      "Identities",
-      "Device render",
-      "Design research",
-      "Poster design",
-      "Sensor technology",
-      "Metric governance",
-      "Algorithmic governance",
-      "Metrics distortion",
-      "Metric system",
+      "User interface design",
       "Speculative projects",
-      "User interface design"
+      "Metric system",
+      "Metrics distortion",
+      "Algorithmic governance",
+      "Metric governance",
+      "Sensor technology",
+      "Poster design",
+      "Design research",
+      "Device render",
+      "Identities",
+      "Physical computing",
+      "Mechanical computing",
+      "Data perception",
+      "Deceptive pattern",
+      "Biometric data",
+      "Data visualization",
+      "Power dynamics",
+      "Relativity",
+      "Cellular senescence",
+      "Senolytics",
+      "Statistic bias",
+      "Cognitive bias",
+      "Big data",
+      "Algorithmic bias",
+      "Body-politics",
+      "Subjective reality",
+      "Normalization bias",
+      "Typography",
+      "Socio-political",
+      "Measuring the unmeasurable",
+      "Print media",
+      "Editorial design",
+      "Technical drawing",
+      "Video content",
+      "Brand communication",
+      "Mockup",
+      "Social media content",
+      "Temporal sovereignty",
+      "Map",
+      "Real-time data",
+      "Usability testing",
+      "3d print",
+      "Structure design",
+      "Packaging",
+      "Physical prototype",
+      "Interface design",
+      "Visual identity",
+      "Data representation",
+      "Alternative values"
     ],
     "type": [
-      "Collection",
-      "Source",
-      "Concept",
-      "Sketch",
-      "Decision",
       "Artefact",
-      "Feedback",
-      "Observation",
+      "Collection",
+      "Brief",
       "Finding",
-      "Brief"
+      "Feedback",
+      "Decision",
+      "Sketch",
+      "Concept",
+      "Source",
+      "Observation"
     ]
   }
 }
