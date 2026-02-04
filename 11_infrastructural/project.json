@@ -6468,10 +6468,10 @@
     },
     {
       "id": "nk6ui6fz",
-      "x": 19708.338339537742,
-      "y": -3.3622780194782536,
+      "x": 20598.384434429347,
+      "y": -481.8263637126521,
       "w": 320,
-      "h": 1319,
+      "h": 1386,
       "group": null,
       "data": {
         "date": "2025-11-26",
@@ -6486,7 +6486,7 @@
         "tags": [
           "Sensor"
         ],
-        "desc": "The interaction is triggered by lifting the cube. An IR sensor detects its absence from the base and activates the infographic on the monitor.\n\nThe cube acts as a controller for navigating the three information panels.\n\nNavigation occurs:\n- Through intentional pressure on the cube, measured by internal Force-sensing Resistor (FSR) sensors\n- By physically rotating the sample, via a gyroscope-accelerometer",
+        "desc": "The interaction is triggered by lifting the cube. An IR sensor detects its absence from the base and activates the infographic on the monitor.\n\nThe cube acts as a controller for navigating the three information panels.\n\nNavigation occurs:\n- Through intentional pressure on the cube, measured by internal Force-sensing Resistor (FSR) sensors\n- By physically rotating the sample, via a gyroscope-accelerometer (The gyroscope was programmed to return a value in degrees corresponding to its own rotation, so that when the cube is placed down, the interaction can reset to zero each time it is lifted again)",
         "links": [],
         "files": [
           {
@@ -6885,7 +6885,7 @@
       "h": 473,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-11-28",
         "title": "CATALOGUE TESTS",
         "type": "Design",
         "action": "Making",
@@ -6912,13 +6912,13 @@
     },
     {
       "id": "neucdn26",
-      "x": 20059.686470579843,
-      "y": 0.2513720455051356,
+      "x": 20607.688068772128,
+      "y": 926.8652335079701,
       "w": 320,
       "h": 578,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-11-29",
         "title": "COMMUNICATIVE MACHINE",
         "type": "Design",
         "action": "Making",
@@ -6945,13 +6945,13 @@
     },
     {
       "id": "n3j8j7hh",
-      "x": 20946.718263560295,
+      "x": 20947.905024180935,
       "y": 4979.695754992423,
       "w": 320,
       "h": 335,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-11-28",
         "title": "LOGOTYPE",
         "type": "Design",
         "action": "Making",
@@ -7008,7 +7008,7 @@
       "h": 373,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-12-02",
         "title": "BRAND GUIDELINES",
         "type": "Design",
         "action": "Making",
@@ -7039,7 +7039,7 @@
       "h": 419,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-12-02",
         "title": "LABEL TESTS",
         "type": "Design",
         "action": "Making",
@@ -7072,7 +7072,7 @@
       "h": 674,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-12-11",
         "title": "DPP (DIGITAL PRODUCT PASSPORT)",
         "type": "Design",
         "action": "Making",
@@ -7099,13 +7099,13 @@
     },
     {
       "id": "no0lit1u",
-      "x": 22321.769727621,
+      "x": 22323.4085667331,
       "y": 4686.339673956211,
       "w": 320,
       "h": 410,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-12-02",
         "title": "SQUARE SHAPE",
         "type": "Design",
         "action": "Making",
@@ -7138,7 +7138,7 @@
       "h": 1052,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "2026-01-28",
         "title": "SAMPLE BOOK",
         "type": "Design",
         "action": "Making",
@@ -7193,7 +7193,7 @@
       "h": 300,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-12-02",
         "title": "FONTS",
         "type": "Design",
         "action": "Making",
@@ -7218,7 +7218,7 @@
       "h": 500,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-12-02",
         "title": "LOGOTYPE",
         "type": "Design",
         "action": "Making",
@@ -7261,7 +7261,7 @@
       "h": 456,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-12-02",
         "title": "COMMUNICATIVE ARTEFACTS",
         "type": "Design",
         "action": "Making",
@@ -7284,7 +7284,7 @@
       "h": 735,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-12-11",
         "title": "CATALOGUES",
         "type": "Design",
         "action": "Making",
@@ -7329,7 +7329,7 @@
       "h": 619,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0026-01-28",
         "title": "BROCHURE",
         "type": "Design",
         "action": "Making",
@@ -7370,7 +7370,7 @@
       "h": 547,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-12-11",
         "title": "FOLDABLE",
         "type": "Design",
         "action": "Making",
@@ -7405,7 +7405,7 @@
       "h": 488,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "2026-01-28",
         "title": "BUSINESS CARDS",
         "type": "Design",
         "action": "Making",
@@ -7434,13 +7434,13 @@
     },
     {
       "id": "ntekkmkz",
-      "x": 23739.984718516458,
-      "y": 6834.583108713719,
+      "x": 23889.074599748685,
+      "y": 6723.869117496332,
       "w": 320,
       "h": 306,
       "group": null,
       "data": {
-        "date": "2026-02-02",
+        "date": "0025-12-11",
         "title": "BRAND BOOK",
         "type": "Research",
         "action": "Making",
@@ -7453,6 +7453,474 @@
           "Publishing"
         ],
         "desc": "A 32 pages book that summerizes the project, starting from the initial research about the infrastructural concept. ",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nzoj61d7",
+      "x": 23309.061156787673,
+      "y": 204.5123520596037,
+      "w": 320,
+      "h": 2037,
+      "group": null,
+      "data": {
+        "date": "0025-12-01",
+        "title": "INTERACTIVE SAMPLER",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Prototyping"
+        ],
+        "tags": [
+          "Brand",
+          "Communication"
+        ],
+        "desc": "Designing and prototyping the actual communicative machine, according to SOEMA's brand identity.",
+        "links": [],
+        "files": [
+          {
+            "name": "Campionario-2.jpg",
+            "size": 25920252,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Campionario-2.jpg"
+          },
+          {
+            "name": "IMG_3584.jpg",
+            "size": 192983,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3584.jpg"
+          },
+          {
+            "name": "IMG_3589.jpeg",
+            "size": 2024296,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3589.jpg"
+          },
+          {
+            "name": "IMG_3583.jpg",
+            "size": 172649,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3583.jpg"
+          },
+          {
+            "name": "IMG_3587.jpeg",
+            "size": 2023706,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3587.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqultyo0",
+      "x": 24017.46569402525,
+      "y": 64.81170013276505,
+      "w": 320,
+      "h": 735,
+      "group": null,
+      "data": {
+        "date": "0025-12-03",
+        "title": "MULTISENSORY INTERFACES",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Prototyping"
+        ],
+        "tags": [
+          "Communication",
+          "Design"
+        ],
+        "desc": "Making of interfaces were informations, videos, audios, about each material are arranged in a tridimentional space.",
+        "links": [],
+        "files": [
+          {
+            "name": "DSC_8642-2.jpg",
+            "size": 8762161,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_8642-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n046jk8r",
+      "x": 24036.66932508689,
+      "y": 842.3505021473288,
+      "w": 320,
+      "h": 1112,
+      "group": null,
+      "data": {
+        "date": "0025-12-01",
+        "title": "MATERIALS",
+        "type": "Design",
+        "action": null,
+        "mainArea": "Communication",
+        "areas": [
+          "Prototyping"
+        ],
+        "tags": [
+          "Design"
+        ],
+        "desc": "Making of the physical cubes, using different materials, including real hair and latex.\n",
+        "links": [],
+        "files": [
+          {
+            "name": "DSC_7600.jpg",
+            "size": 8838200,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_7600.jpg"
+          },
+          {
+            "name": "Emolite.jpg",
+            "size": 20038820,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Emolite.jpg"
+          },
+          {
+            "name": "Albuphas01.DNG",
+            "size": 9970996,
+            "type": "image/x-adobe-dng",
+            "isImage": true,
+            "isPDF": false,
+            "path": null
+          },
+          {
+            "name": "IMG_3590.jpeg",
+            "size": 2436087,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3590.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ntpanp9n",
+      "x": 24030.38439968099,
+      "y": 2067.9109562977055,
+      "w": 320,
+      "h": 690,
+      "group": null,
+      "data": {
+        "date": "0025-02-04",
+        "title": "CUBES",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Prototyping"
+        ],
+        "tags": [],
+        "desc": "Making of the cubes' structure. It includes:\n- wooden walls \n- internal 3d printed structure designed to house the gyroscope-accelerometer (mpu 6050), lithium battery (3.7V), step up, and microcontroller (esp32)",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3589.jpeg",
+            "size": 2024296,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3589.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nzjpxfpp",
+      "x": 24428.124674675488,
+      "y": 1189.268181007431,
+      "w": 320,
+      "h": 2026,
+      "group": null,
+      "data": {
+        "date": "0025-03-28",
+        "title": "BASE",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Prototyping"
+        ],
+        "tags": [
+          "Design"
+        ],
+        "desc": "Making of the base, designed to house the infrared sensors and arduino.\nOn the base are disposed the cubes and the labels, one for each cube.",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3433.jpeg",
+            "size": 537327,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3433.jpg"
+          },
+          {
+            "name": "IMG_3525.jpg",
+            "size": 7083292,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3525.jpg"
+          },
+          {
+            "name": "DSC_8672.jpg",
+            "size": 6015435,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_8672.jpg"
+          },
+          {
+            "name": "IMG_3476.jpeg",
+            "size": 1140615,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3476.jpg"
+          },
+          {
+            "name": "IMG_3584.jpg",
+            "size": 192983,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3584.jpg"
+          },
+          {
+            "name": "IMG_3593.jpeg",
+            "size": 1948584,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3593.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nju7bwfo",
+      "x": 23900,
+      "y": 7121.164364057729,
+      "w": 320,
+      "h": 237,
+      "group": null,
+      "data": {
+        "date": "0025-12-13",
+        "title": "NAMING: SOEMA",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Branding"
+        ],
+        "tags": [],
+        "desc": "The final name of the company is SOEMA: the union of sema (sign/grave) and soma (body).",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nhelxdt3",
+      "x": 24927.939028208268,
+      "y": 1778.9540580863159,
+      "w": 320,
+      "h": 1027,
+      "group": null,
+      "data": {
+        "date": "0025-12-11",
+        "title": "THE INTERACTION",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Communicative artefacts"
+        ],
+        "tags": [
+          "Sensor"
+        ],
+        "desc": "The interaction consists in the user, lifting a sample cube from the base, and rotating it face by face (90 degrees), proceeding inside the immersive interfaces (that contain the story and the origin of each material).\nAs the interaction progresses, the details he details about the origin and extraction become increasingly disturbing.",
+        "links": [],
+        "files": [
+          {
+            "name": "DSC_8675.JPG",
+            "size": 5933378,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_8675.jpg"
+          },
+          {
+            "name": "DSC_8664-2.jpg",
+            "size": 9440301,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/DSC_8664-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nen3acx8",
+      "x": 24295.190365797214,
+      "y": 6698.081859817838,
+      "w": 320,
+      "h": 540,
+      "group": null,
+      "data": {
+        "date": "2026-01-28",
+        "title": "WEBSITE",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Communicative artefacts"
+        ],
+        "tags": [],
+        "desc": "A website containing an online catalogue of SOEMA's products.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-04 alle 16.44.39.png",
+            "size": 1619595,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-04_alle_16.44.39.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-04 alle 16.45.30.png",
+            "size": 1305692,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-04_alle_16.45.30.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "na4xyypl",
+      "x": 24315.760589474256,
+      "y": 3985.700331446147,
+      "w": 320,
+      "h": 349,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "TEASER AND PROJECT TRAILER",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "They are structured like a showroom presentation, in line with the concept of representing a large amount of content, which translates into the use of numerous shots in a short time and the overlapping of many different sounds.\n\nFor the summary video of the project, high contrasts were chosen: clean and silent shots of the prototype, contrasted with the chaotic ones of the construction sites and infrastructures.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ncthm9h9",
+      "x": 24459.870337915985,
+      "y": 139.46360265350594,
+      "w": 320,
+      "h": 344,
+      "group": null,
+      "data": {
+        "date": "0026-01-22",
+        "title": "VIDEOS",
+        "type": "Design",
+        "action": null,
+        "mainArea": null,
+        "areas": [
+          "Communicative artefacts",
+          "User experience"
+        ],
+        "tags": [],
+        "desc": "They represent the material: from its texture to the origins of its production process.\nThey follow the same principle as the videos: representing the most important moments through fast editing and the overlapping of construction sounds, voices, and ambient noises.\nEach material has a specific visual treatment.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n4awvdiq",
+      "x": 20085.370900395537,
+      "y": 1313.8945308333423,
+      "w": 320,
+      "h": 173,
+      "group": null,
+      "data": {
+        "date": "2026-02-04",
+        "title": "ARDUINO ",
+        "type": "",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nj7zqi1r",
+      "x": 24458.8426461683,
+      "y": 528.7378847280395,
+      "w": 320,
+      "h": 282,
+      "group": null,
+      "data": {
+        "date": "0025-12-01",
+        "title": "TOUCHDESIGNER",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "TouchDesigner allowed the data coming from the sensors to be transformed into interactive visual outputs.\nAll of the graphic layout work was done using this program.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "n18v3r6m",
+      "x": 20564.14055395049,
+      "y": 1538.5249982815228,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "0025-11-27",
+        "title": "TOUCHDESIGNER",
+        "type": "Design",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Arduino"
+        ],
+        "tags": [],
+        "desc": "For the actual construction of the prototype, it was decided to connect Arduino, the microcontrollers, and the sensors to TouchDesigner, which made it possible to provide an interactive graphical output for the users.",
         "links": [],
         "files": []
       }
@@ -8876,11 +9344,6 @@
     },
     {
       "s": "ni3fx4tc",
-      "t": "nk6ui6fz",
-      "dashed": false
-    },
-    {
-      "s": "ni3fx4tc",
       "t": "ns1swtbd",
       "dashed": false
     },
@@ -8942,11 +9405,6 @@
     {
       "s": "noepqkkz",
       "t": "nkghqknz",
-      "dashed": false
-    },
-    {
-      "s": "nk6ui6fz",
-      "t": "neucdn26",
       "dashed": false
     },
     {
@@ -9053,20 +9511,136 @@
       "s": "nbs2yws3",
       "t": "n9o9jhgg",
       "dashed": false
+    },
+    {
+      "s": "nbs2yws3",
+      "t": "ntekkmkz",
+      "dashed": false
+    },
+    {
+      "s": "nbs2yws3",
+      "t": "nzoj61d7",
+      "dashed": false
+    },
+    {
+      "s": "ni3fx4tc",
+      "t": "nzoj61d7",
+      "dashed": false
+    },
+    {
+      "s": "nzoj61d7",
+      "t": "nqultyo0",
+      "dashed": false
+    },
+    {
+      "s": "nzoj61d7",
+      "t": "n046jk8r",
+      "dashed": false
+    },
+    {
+      "s": "neucdn26",
+      "t": "ntpanp9n",
+      "dashed": false
+    },
+    {
+      "s": "nzoj61d7",
+      "t": "ntpanp9n",
+      "dashed": false
+    },
+    {
+      "s": "nzoj61d7",
+      "t": "nzjpxfpp",
+      "dashed": false
+    },
+    {
+      "s": "nk6ui6fz",
+      "t": "nzjpxfpp",
+      "dashed": false
+    },
+    {
+      "s": "ns1swtbd",
+      "t": "n046jk8r",
+      "dashed": false
+    },
+    {
+      "s": "nkghqknz",
+      "t": "neepe0vr",
+      "dashed": false
+    },
+    {
+      "s": "nbs2yws3",
+      "t": "nju7bwfo",
+      "dashed": false
+    },
+    {
+      "s": "n3ayicy7",
+      "t": "nju7bwfo",
+      "dashed": false
+    },
+    {
+      "s": "ntpanp9n",
+      "t": "nhelxdt3",
+      "dashed": false
+    },
+    {
+      "s": "nbs2yws3",
+      "t": "nen3acx8",
+      "dashed": false
+    },
+    {
+      "s": "nbs2yws3",
+      "t": "na4xyypl",
+      "dashed": false
+    },
+    {
+      "s": "nqultyo0",
+      "t": "ncthm9h9",
+      "dashed": false
+    },
+    {
+      "s": "ni3fx4tc",
+      "t": "n4awvdiq",
+      "dashed": false
+    },
+    {
+      "s": "n4awvdiq",
+      "t": "nk6ui6fz",
+      "dashed": false
+    },
+    {
+      "s": "n4awvdiq",
+      "t": "neucdn26",
+      "dashed": false
+    },
+    {
+      "s": "nqultyo0",
+      "t": "nj7zqi1r",
+      "dashed": false
+    },
+    {
+      "s": "n4awvdiq",
+      "t": "n18v3r6m",
+      "dashed": false
+    },
+    {
+      "s": "nk6ui6fz",
+      "t": "ntpanp9n",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Concept",
       "Communicative artefacts",
+      "Arduino",
+      "User experience",
+      "Branding",
+      "Concept",
       "Materials supply",
       "Graphic design",
       "Infrastructure",
       "Materials",
       "Organic materials",
-      "User experience",
       "Materials supply companies",
-      "Arduino",
       "Human body",
       "Landgrabbing",
       "Construction",
@@ -9131,13 +9705,13 @@
       "Legality",
       "Human rights",
       "War",
-      "Speculative design",
       "Art",
       "Construction companies",
-      "Prototyping",
-      "Branding"
+      "Speculative design",
+      "Prototyping"
     ],
     "tags": [
+      "Sensor",
       "Publishing",
       "Communicative artefacts",
       "Human rights",
@@ -9163,21 +9737,20 @@
       "Landgrabbing",
       "Cultural loss",
       "Denounce",
-      "Sensor",
       "3d printing",
       "Visual coefficient",
       "European legislation",
       "Key visual",
       "Brand",
-      "Design",
-      "Communication"
+      "Communication",
+      "Design"
     ],
     "type": [
-      "Research",
       "Design",
-      "Source",
+      "Research",
       "Observation",
-      "Brief"
+      "Brief",
+      "Source"
     ]
   }
 }
