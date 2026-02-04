@@ -3601,8 +3601,8 @@
     },
     {
       "id": "nz6cgtp5",
-      "x": 31604.045832422333,
-      "y": 1848.1255095761865,
+      "x": 30925.052683757665,
+      "y": 1135.012102184651,
       "w": 320,
       "h": 614,
       "group": null,
@@ -3619,6 +3619,315 @@
         "desc": "Quick temporary update about the advancement of the project, will catch up later with more precise descriptions.\n\nIn the last month we:\n- finalized the 3d printed tree (printing, sanding, refinement, painting, glueing, installation)\n- finalized the Arduino and touch designer part (electrical components and code)\n-designed and built the custom \"table\" for the tree model from scratch\n- tested and perfected the interaction\n- produced the 48 animations needed for the interaction\n- carved the wood blocks\n- filmed the longer video (ideas, script, actors, equipment, locations, shots, post production)\n- programmed the whole site and the \"unit\" personal page\n- produced the box for the \"unit\" as a phisical artefact (box, content of the box, wood block with tag, map and system overview/instructions)\n- generated all the images needed for the project\n- produced the requested 32 pages document about the project",
         "links": [],
         "files": []
+      }
+    },
+    {
+      "id": "nly5cxm5",
+      "x": 31759.45802697553,
+      "y": 766.2332034969681,
+      "w": 320,
+      "h": 646,
+      "group": null,
+      "data": {
+        "date": "2026-01-07",
+        "title": "Location Scouting at La Masa",
+        "type": "Decision",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Main video"
+        ],
+        "tags": [],
+        "desc": "Location scouting at La Masa, Politecnico. Building B3O seems fine but its very recognizable.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-04 at 16.24.56 (1).jpeg",
+            "size": 290232,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-04_at_16.24.56_(1).jpg"
+          },
+          {
+            "name": "WhatsApp Image 2026-02-04 at 16.24.56.jpeg",
+            "size": 402646,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-04_at_16.24.56.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nbpm3psy",
+      "x": 31771.430417513606,
+      "y": 220.947180485633,
+      "w": 320,
+      "h": 475,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "Location Scouting at Gae Aulenti",
+        "type": "Decision",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Main video"
+        ],
+        "tags": [],
+        "desc": "Location scouting at Gae Aulenti. Location is too crowded, not usable.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-04 at 16.25.26.jpeg",
+            "size": 228327,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-04_at_16.25.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7tppmfm",
+      "x": 31746.414335054928,
+      "y": 1488.748103820338,
+      "w": 320,
+      "h": 288,
+      "group": null,
+      "data": {
+        "date": "2026-01-13",
+        "title": "Exploring. Higgsfield for ai video generation",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Main video"
+        ],
+        "tags": [],
+        "desc": "Using Higgsfield tools to generate scenes for the main video. Nano Banana Pro + Kling 2.6 or Cinema Studio seem to work best. ",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Video 2026-02-04 at 16.26.23.mp4",
+            "size": 1615825,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Video_2026-02-04_at_16.26.23.mp4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nf5d2h7z",
+      "x": 32396.218627803755,
+      "y": 1105.6757041649134,
+      "w": 320,
+      "h": 648,
+      "group": null,
+      "data": {
+        "date": "2026-01-12",
+        "title": "Storyboard ",
+        "type": "",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Main video"
+        ],
+        "tags": [],
+        "desc": "Storyboard is finalized. We will need two locations and two actors (CEO + engineer). One location needs to be a lab so probably MADE is the best option, the other one will be La Masa. Everything else will be generated.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-04 at 16.26.24.jpeg",
+            "size": 93365,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-04_at_16.26.24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nw5dalh9",
+      "x": 32877.517477175745,
+      "y": 241.66363273683328,
+      "w": 320,
+      "h": 434,
+      "group": null,
+      "data": {
+        "date": "2026-01-16",
+        "title": "Generating Treeal Hedquarters",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Main video"
+        ],
+        "tags": [],
+        "desc": "Generating treeal hedquarters using parts of B3O building at la Masa. Full building would be too recognizable. ",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-04 at 16.26.50.jpeg",
+            "size": 260729,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-04_at_16.26.50.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nb7ypycm",
+      "x": 32878.89000870217,
+      "y": 714.5189648116976,
+      "w": 320,
+      "h": 417,
+      "group": null,
+      "data": {
+        "date": "2026-01-18",
+        "title": "Generating Forests",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Main video"
+        ],
+        "tags": [],
+        "desc": "Generating different versions of the treeal forests to match our vision of it",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-04 at 16.27.24.jpeg",
+            "size": 429666,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-04_at_16.27.24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ngctrq0b",
+      "x": 33344.04003595689,
+      "y": 1198.392820326501,
+      "w": 320,
+      "h": 418,
+      "group": null,
+      "data": {
+        "date": "2026-01-21",
+        "title": "Shoting at La Masa",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Main video"
+        ],
+        "tags": [],
+        "desc": "Shooting the first and last scenes at La Masa, the ones with the CEO. 3O takes done.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-04 at 16.28.20.jpeg",
+            "size": 127151,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-04_at_16.28.20.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1xo2mqc",
+      "x": 33344.59470127084,
+      "y": 1650.3519767729576,
+      "w": 320,
+      "h": 475,
+      "group": null,
+      "data": {
+        "date": "2026-01-23",
+        "title": "Second shooting",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Main video"
+        ],
+        "tags": [],
+        "desc": "Second shooting at MADE (B8) with the head of engineering explaining the data tree model.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-04 at 16.29.16.jpeg",
+            "size": 517569,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-04_at_16.29.16.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nt65vn8t",
+      "x": 32869.53267524867,
+      "y": 1256.796897724831,
+      "w": 320,
+      "h": 244,
+      "group": null,
+      "data": {
+        "date": "2026-01-17",
+        "title": "Buying and borrowing equipment",
+        "type": "",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Main video"
+        ],
+        "tags": [],
+        "desc": "Buying wireless lavalier microphones.\nBorrowing a Sony a73, sony zoom optic, ronin stabilizer, tascam ambient microhone.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nyohpqx0",
+      "x": 33811.96302958204,
+      "y": 1491.2348927044507,
+      "w": 320,
+      "h": 412,
+      "group": null,
+      "data": {
+        "date": "2026-01-24",
+        "title": "Video editing",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Main video"
+        ],
+        "tags": [],
+        "desc": "First version of the main video.",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-04 at 16.30.19.jpeg",
+            "size": 232237,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-04_at_16.30.19.jpg"
+          }
+        ]
       }
     }
   ],
@@ -4572,35 +4881,86 @@
       "s": "n7hjht7p",
       "t": "nghqm8tk",
       "dashed": false
+    },
+    {
+      "s": "nly5cxm5",
+      "t": "nf5d2h7z",
+      "dashed": false
+    },
+    {
+      "s": "n7tppmfm",
+      "t": "nf5d2h7z",
+      "dashed": false
+    },
+    {
+      "s": "nf5d2h7z",
+      "t": "nt65vn8t",
+      "dashed": false
+    },
+    {
+      "s": "nf5d2h7z",
+      "t": "nb7ypycm",
+      "dashed": false
+    },
+    {
+      "s": "nt65vn8t",
+      "t": "ngctrq0b",
+      "dashed": false
+    },
+    {
+      "s": "nt65vn8t",
+      "t": "n1xo2mqc",
+      "dashed": false
+    },
+    {
+      "s": "ngctrq0b",
+      "t": "nyohpqx0",
+      "dashed": false
+    },
+    {
+      "s": "n1xo2mqc",
+      "t": "nyohpqx0",
+      "dashed": false
+    },
+    {
+      "s": "nb7ypycm",
+      "t": "nyohpqx0",
+      "dashed": false
+    },
+    {
+      "s": "nw5dalh9",
+      "t": "nyohpqx0",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Communication",
-      "Ideas",
-      "Critical design",
-      "Critical theory",
-      "Socio-political",
-      "Media studies",
-      "Design research",
-      "Research",
+      "Main video",
+      "Teaser update",
       "Review",
-      "Teaser update"
+      "Research",
+      "Design research",
+      "Media studies",
+      "Socio-political",
+      "Critical theory",
+      "Critical design",
+      "Ideas",
+      "Communication"
     ],
     "tags": [
-      "Ideas",
-      "Scenarios",
+      "Speculation",
       "Research",
-      "Speculation"
+      "Scenarios",
+      "Ideas"
     ],
     "type": [
-      "Internal review",
-      "Sketch",
-      "Ideas",
-      "Brief",
       "Artefact",
       "Decision",
-      "Feedback"
+      "Internal review",
+      "Feedback",
+      "Brief",
+      "Ideas",
+      "Sketch"
     ]
   }
 }
