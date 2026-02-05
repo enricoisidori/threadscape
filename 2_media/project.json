@@ -6015,8 +6015,8 @@
     },
     {
       "id": "np7ca8fl",
-      "x": 24189.543836283934,
-      "y": 10388.446981183406,
+      "x": 24057.543836283934,
+      "y": 10404.446981183406,
       "w": 320,
       "h": 601,
       "group": null,
@@ -6165,10 +6165,10 @@
     },
     {
       "id": "nx66o0na",
-      "x": 25387.555925828703,
-      "y": 7272.177351003243,
+      "x": 25685.087520045745,
+      "y": 7269.590119749181,
       "w": 320,
-      "h": 380,
+      "h": 396,
       "group": null,
       "data": {
         "date": "2026-01-29",
@@ -6195,15 +6195,24 @@
         ],
         "desc": "All the adjustments (music volume, coherency with other artefacts and motion graphics) were made.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "#2-mediatico-trailer.mp4",
+            "size": 30432943,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/#2-mediatico-trailer.mp4"
+          }
+        ]
       }
     },
     {
       "id": "nx8vqq9a",
-      "x": 25380.485449459866,
-      "y": 7700.136374651023,
+      "x": 25678.017043676908,
+      "y": 7736.35761220788,
       "w": 320,
-      "h": 357,
+      "h": 374,
       "group": null,
       "data": {
         "date": "2026-01-29",
@@ -6228,7 +6237,16 @@
         ],
         "desc": "Final adjustments were added to the teaser video (music, graphic signs, logo animation),",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "#2-mediatico-teaser.mp4",
+            "size": 28488149,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/#2-mediatico-teaser.mp4"
+          }
+        ]
       }
     },
     {
@@ -6296,10 +6314,10 @@
     },
     {
       "id": "nmkk085t",
-      "x": 25380.94974530271,
-      "y": 8204.2939446063,
+      "x": 27554.609131056433,
+      "y": 8260.417870655072,
       "w": 320,
-      "h": 407,
+      "h": 3482,
       "group": null,
       "data": {
         "date": "2026-01-29",
@@ -6325,13 +6343,54 @@
         ],
         "desc": "All the contents have been inserted in the app. The home page shows news from various cases, the folder section is filled with ongoing and future cases. The evidence board is now showing all the information about the Case of the Week.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "photo_2026-02-05_11-08-37.jpg",
+            "size": 149822,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/photo_2026-02-05_11-08-37.jpg"
+          },
+          {
+            "name": "photo_2026-02-05_11-08-32.jpg",
+            "size": 138637,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/photo_2026-02-05_11-08-32.jpg"
+          },
+          {
+            "name": "photo_2026-02-05_11-08-24.jpg",
+            "size": 84537,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/photo_2026-02-05_11-08-24.jpg"
+          },
+          {
+            "name": "photo_2026-02-05_11-08-18.jpg",
+            "size": 112231,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/photo_2026-02-05_11-08-18.jpg"
+          },
+          {
+            "name": "photo_2026-02-05_11-08-08.jpg",
+            "size": 72623,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/photo_2026-02-05_11-08-08.jpg"
+          }
+        ]
       }
     },
     {
       "id": "nrhretzd",
-      "x": 24609.021932342777,
-      "y": 10510.929530580517,
+      "x": 24538.23169128449,
+      "y": 10516.374933738847,
       "w": 320,
       "h": 424,
       "group": null,
@@ -6366,8 +6425,8 @@
     },
     {
       "id": "namq69tt",
-      "x": 25057.371540025877,
-      "y": 10522.76773023156,
+      "x": 24946.648342473178,
+      "y": 10533.65853654822,
       "w": 320,
       "h": 390,
       "group": null,
@@ -6402,10 +6461,10 @@
     },
     {
       "id": "n6xv9ze4",
-      "x": 25675.778764262275,
-      "y": 10529.73296055486,
+      "x": 25358.870701095686,
+      "y": 10513.443458132599,
       "w": 320,
-      "h": 374,
+      "h": 407,
       "group": null,
       "data": {
         "date": "2026-01-29",
@@ -6433,15 +6492,32 @@
         ],
         "desc": "Tiktok videos and horizontal videos are finalised.\nRecap videos are realized by editing together all the other contents.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "#2-mediatico-recap innocentista.mp4",
+            "size": 41079631,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/#2-mediatico-recap_innocentista.mp4"
+          },
+          {
+            "name": "#2-mediatico-recap colpevolista.mp4",
+            "size": 41392691,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/#2-mediatico-recap_colpevolista.mp4"
+          }
+        ]
       }
     },
     {
       "id": "nodsp0q3",
-      "x": 25400.56908025792,
-      "y": 8800.034624137172,
+      "x": 25184.20916673382,
+      "y": 8670.067309667736,
       "w": 320,
-      "h": 351,
+      "h": 981,
       "group": null,
       "data": {
         "date": "2026-01-19",
@@ -6464,13 +6540,38 @@
         ],
         "desc": "The manual is completed and ready to be printed.\nSome minor changes were made due to changes in the scenario.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "#2-mediatico-libretto istruzioni.pdf",
+            "size": 490062,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/#2-mediatico-libretto_istruzioni.pdf"
+          },
+          {
+            "name": "Screenshot 2026-02-05 110003.png",
+            "size": 16889,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-05_110003.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-05 110030.png",
+            "size": 66775,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-05_110030.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n5artqoz",
-      "x": 25074.09516779888,
-      "y": 9649.000703063208,
+      "x": 26194.479271252807,
+      "y": 9828.574461804952,
       "w": 320,
       "h": 362,
       "group": null,
@@ -6498,10 +6599,10 @@
     },
     {
       "id": "nscjx27l",
-      "x": 25673.791567830736,
-      "y": 9668.940130843552,
+      "x": 26660.626351037517,
+      "y": 9454.633022454353,
       "w": 320,
-      "h": 253,
+      "h": 1169,
       "group": null,
       "data": {
         "date": "2026-01-31",
@@ -6522,7 +6623,48 @@
         ],
         "desc": "",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "#2_mediatico_prodotto editoriale.pdf",
+            "size": 6474208,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/#2_mediatico_prodotto_editoriale.pdf"
+          },
+          {
+            "name": "#2_mediatico_prodotto editoriale_copertina.pdf",
+            "size": 1517987,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/#2_mediatico_prodotto_editoriale_copertina.pdf"
+          },
+          {
+            "name": "#2_mediatico_prodotto editoriale_poster.pdf",
+            "size": 2534648,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/#2_mediatico_prodotto_editoriale_poster.pdf"
+          },
+          {
+            "name": "Screenshot 2026-02-05 105529.png",
+            "size": 424003,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-05_105529.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-05 105543.png",
+            "size": 450942,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-05_105543.jpg"
+          }
+        ]
       }
     },
     {
@@ -6557,10 +6699,10 @@
     },
     {
       "id": "n10dnv49",
-      "x": 25673.24193499316,
-      "y": 10004.275944147688,
+      "x": 26186.668977677808,
+      "y": 10409.359191183225,
       "w": 320,
-      "h": 351,
+      "h": 1228,
       "group": null,
       "data": {
         "date": "2026-01-31",
@@ -6582,13 +6724,38 @@
         ],
         "desc": "The final flyer is ready to be printed. It was designed with a typical advertising style but made more coherent to the tabloid aesthetic with big text and capturing images.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "#2-mediatico-volantino.pdf",
+            "size": 1395174,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/#2-mediatico-volantino.pdf"
+          },
+          {
+            "name": "Screenshot 2026-02-05 105835.png",
+            "size": 160485,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-05_105835.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-05 105854.png",
+            "size": 52711,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-05_105854.jpg"
+          }
+        ]
       }
     },
     {
       "id": "n2nwlp9e",
-      "x": 24869.48913555585,
-      "y": 12548.568050941822,
+      "x": 25051.885548502378,
+      "y": 12531.986558855775,
       "w": 320,
       "h": 368,
       "group": null,
@@ -6619,8 +6786,8 @@
     },
     {
       "id": "na9hgxja",
-      "x": 25371.02376552958,
-      "y": 12578.909610213843,
+      "x": 25503.675702217963,
+      "y": 12539.114029207327,
       "w": 320,
       "h": 368,
       "group": null,
@@ -6651,10 +6818,10 @@
     },
     {
       "id": "nop2fztj",
-      "x": 25872.24008682109,
-      "y": 12599.030105057695,
+      "x": 25933.005670850784,
+      "y": 12561.22710402872,
       "w": 320,
-      "h": 317,
+      "h": 334,
       "group": null,
       "data": {
         "date": "2026-01-29",
@@ -6678,7 +6845,16 @@
         ],
         "desc": "Final interface is ready with both video and sounds.",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "#2_mediatico_interfaccia.mp4",
+            "size": 86807249,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/#2_mediatico_interfaccia.mp4"
+          }
+        ]
       }
     }
   ],
@@ -7682,146 +7858,150 @@
       "s": "na9hgxja",
       "t": "nop2fztj",
       "dashed": false
+    },
+    {
+      "s": "n6xv9ze4",
+      "t": "nmkk085t",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Design research",
-      "Sociological studies",
-      "Media studies",
-      "Communication",
-      "Crime news",
-      "Producing the contents of the case of the week",
-      "Psychology",
-      "Word studies",
-      "Internet studies",
+      "Critical design",
       "Socio-political",
-      "Critical design"
+      "Internet studies",
+      "Word studies",
+      "Psychology",
+      "Crime news",
+      "Communication",
+      "Media studies",
+      "Sociological studies",
+      "Design research"
     ],
     "tags": [
-      "Speed",
-      "Factions",
-      "Media court",
-      "Polarization",
-      "Democracy",
-      "Media",
-      "Vote",
-      "Wisdom of the crowd",
-      "Immediacy",
-      "Trial by media",
-      "Case of the week",
-      "Tabloid",
-      "Coherence",
-      "Key elements",
-      "Consistency",
-      "Transparency",
-      "Scale",
-      "Prototype",
-      "Digital media",
-      "Social media",
-      "Plurality",
-      "Scapegoating",
-      "Monsters",
-      "Demonization",
-      "Dehumanization",
-      "Common enemy",
-      "Discrimination",
-      "Washing",
-      "Slacktivism",
-      "Filter bubbles",
-      "Click baiting",
-      "False balance",
-      "Mediatic void",
-      "Cherry picking",
-      "Deviancy amplification",
-      "Censorship",
-      "Rumor cascade",
-      "Debate",
-      "Tension",
-      "Conflict",
-      "Distorted perception",
-      "Prospective",
-      "Fact-checking",
-      "Rumor machine",
-      "Contrast",
-      "Inconclusive activism",
-      "Automation",
-      "Sensationalized",
-      "Spam",
-      "Advertising purposes",
-      "Rainbow-washing",
-      "Social symbols",
-      "Activism",
-      "Symbolic",
-      "Low-effort",
-      "Portion",
-      "Conflict node",
-      "Storytelling",
-      "Echo chambers",
-      "Participation",
-      "Rhythm",
-      "Code",
-      "Livestreaming",
-      "Messaging apps",
-      "Podcast",
-      "Blogs",
-      "News website",
-      "Television",
-      "Radio",
-      "Press",
-      "Emerging media",
-      "Interactive and instant media",
-      "Traditional media",
-      "Filter",
-      "Mediatic",
-      "Bots",
-      "Dead internet theory",
-      "Non-human",
-      "Post-truth",
-      "Pseudo-environments",
-      "Digital agnotology",
-      "Infodemic",
-      "Information inflation",
-      "Framing",
-      "Media overshadowing",
-      "Rage baiting",
-      "Argument culture",
-      "Shitstorm",
-      "Cancel culture",
-      "Algorithm",
-      "Ai",
-      "Artificial",
-      "Manipulation",
-      "Deepfake",
-      "Interaction",
-      "Personalized",
-      "Entertainment",
-      "Fake news",
-      "Anger",
-      "Tribalism",
-      "Spectacularization",
-      "Cognitive laziness",
-      "Negativity bias",
-      "Media desensitization",
-      "Political party",
-      "Accessibility",
-      "Coexistence",
-      "Resonance",
-      "Discover the truth",
-      "Detective boards",
-      "Case files",
-      "Mediatic conflict",
-      "Crime news",
+      "Teaser",
       "Trailer",
-      "Teaser"
+      "Crime news",
+      "Mediatic conflict",
+      "Case files",
+      "Detective boards",
+      "Discover the truth",
+      "Resonance",
+      "Coexistence",
+      "Accessibility",
+      "Political party",
+      "Media desensitization",
+      "Negativity bias",
+      "Cognitive laziness",
+      "Spectacularization",
+      "Tribalism",
+      "Anger",
+      "Fake news",
+      "Entertainment",
+      "Personalized",
+      "Interaction",
+      "Deepfake",
+      "Manipulation",
+      "Artificial",
+      "Ai",
+      "Algorithm",
+      "Cancel culture",
+      "Shitstorm",
+      "Argument culture",
+      "Rage baiting",
+      "Media overshadowing",
+      "Framing",
+      "Information inflation",
+      "Infodemic",
+      "Digital agnotology",
+      "Pseudo-environments",
+      "Post-truth",
+      "Non-human",
+      "Dead internet theory",
+      "Bots",
+      "Mediatic",
+      "Filter",
+      "Traditional media",
+      "Interactive and instant media",
+      "Emerging media",
+      "Press",
+      "Radio",
+      "Television",
+      "News website",
+      "Blogs",
+      "Podcast",
+      "Messaging apps",
+      "Livestreaming",
+      "Code",
+      "Rhythm",
+      "Participation",
+      "Echo chambers",
+      "Storytelling",
+      "Conflict node",
+      "Portion",
+      "Low-effort",
+      "Symbolic",
+      "Activism",
+      "Social symbols",
+      "Rainbow-washing",
+      "Advertising purposes",
+      "Spam",
+      "Sensationalized",
+      "Automation",
+      "Inconclusive activism",
+      "Contrast",
+      "Rumor machine",
+      "Fact-checking",
+      "Prospective",
+      "Distorted perception",
+      "Conflict",
+      "Tension",
+      "Debate",
+      "Rumor cascade",
+      "Censorship",
+      "Deviancy amplification",
+      "Cherry picking",
+      "Mediatic void",
+      "False balance",
+      "Click baiting",
+      "Filter bubbles",
+      "Slacktivism",
+      "Washing",
+      "Discrimination",
+      "Common enemy",
+      "Dehumanization",
+      "Demonization",
+      "Monsters",
+      "Scapegoating",
+      "Plurality",
+      "Social media",
+      "Digital media",
+      "Prototype",
+      "Scale",
+      "Transparency",
+      "Consistency",
+      "Key elements",
+      "Coherence",
+      "Tabloid",
+      "Case of the week",
+      "Trial by media",
+      "Immediacy",
+      "Wisdom of the crowd",
+      "Vote",
+      "Media",
+      "Democracy",
+      "Polarization",
+      "Media court",
+      "Factions",
+      "Speed"
     ],
     "type": [
       "Artefact",
       "Concept",
-      "Sketch",
-      "Source",
+      "Brief",
       "Finding",
-      "Brief"
+      "Source",
+      "Sketch"
     ]
   }
 }
