@@ -3057,8 +3057,8 @@
     },
     {
       "id": "n8gdn22c",
-      "x": 11916.308594425118,
-      "y": 5719.84019847596,
+      "x": 11913.61004955872,
+      "y": 5808.892179067062,
       "w": 320,
       "h": 394,
       "group": null,
@@ -3086,8 +3086,8 @@
     },
     {
       "id": "nra9c51y",
-      "x": 11918.5928174113,
-      "y": 6125.935990081103,
+      "x": 11915.894272544901,
+      "y": 6214.987970672205,
       "w": 320,
       "h": 416,
       "group": null,
@@ -3115,8 +3115,8 @@
     },
     {
       "id": "n6n2vflb",
-      "x": 11924.030129459312,
-      "y": 6562.284707208499,
+      "x": 11921.331584592914,
+      "y": 6651.3366877996,
       "w": 320,
       "h": 373,
       "group": null,
@@ -3144,8 +3144,8 @@
     },
     {
       "id": "ngo5js82",
-      "x": 11919.201826281249,
-      "y": 6953.798812042775,
+      "x": 11916.50328141485,
+      "y": 7042.850792633877,
       "w": 320,
       "h": 341,
       "group": null,
@@ -3173,8 +3173,8 @@
     },
     {
       "id": "nco9eqdy",
-      "x": 11919.201826281249,
-      "y": 7304.538273506892,
+      "x": 11916.50328141485,
+      "y": 7393.590254097994,
       "w": 320,
       "h": 510,
       "group": null,
@@ -3202,13 +3202,13 @@
     },
     {
       "id": "nyhkvmfb",
-      "x": 9694.710229545795,
-      "y": 2907.9350716949302,
+      "x": 9673.652411319026,
+      "y": 2821.3640412071,
       "w": 320,
       "h": 383,
       "group": null,
       "data": {
-        "date": "2025-12-16",
+        "date": "2025-12-09",
         "title": "Vibrant motor Arduino development",
         "type": "Artefact",
         "action": "Making",
@@ -3257,7 +3257,7 @@
       "h": 350,
       "group": null,
       "data": {
-        "date": "2025-11-17",
+        "date": "2025-12-05",
         "title": "Sanding the first printed prototype",
         "type": "Artefact",
         "action": "Making",
@@ -3279,23 +3279,867 @@
       }
     },
     {
-      "id": "nczwpo7o",
-      "x": 12741.28864532807,
-      "y": 4421.335843933476,
+      "id": "nq696dkl",
+      "x": 12281.576688971238,
+      "y": 7008.41048293671,
       "w": 320,
-      "h": 204,
+      "h": 221,
       "group": null,
       "data": {
-        "date": "2025-12-19",
-        "title": "finished prototype",
+        "date": "2026-01-08",
+        "title": "Updated brochure",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Practically finished brochure, switched to an a6 format",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "ngobfnzl",
+      "x": 8742.621848449024,
+      "y": 8225.026352141496,
+      "w": 320,
+      "h": 303,
+      "group": null,
+      "data": {
+        "date": "2026-01-07",
+        "title": "Book",
+        "type": "Concept",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "table of contents for the exam book",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_0735.JPG",
+            "size": 995257,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_0735.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nf6hyypn",
+      "x": 9222.621848449024,
+      "y": 8225.026352141496,
+      "w": 320,
+      "h": 640,
+      "group": null,
+      "data": {
+        "date": "2026-01-08",
+        "title": "Grids",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Different grids tryouts",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-01-08 at 2.27.37 PM.png",
+            "size": 114366,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-08_at_2.27.37_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8y15r18",
+      "x": 9601.45206584557,
+      "y": 8225.026352141496,
+      "w": 320,
+      "h": 293,
+      "group": null,
+      "data": {
+        "date": "2026-01-08",
+        "title": "First pages design",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-01-08 at 15.23.11.jpeg",
+            "size": 61676,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-01-08_at_15.23.11.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ncfb6201",
+      "x": 10843.15663798537,
+      "y": 7806.2284196359,
+      "w": 320,
+      "h": 444,
+      "group": null,
+      "data": {
+        "date": "2026-01-08",
+        "title": "packaging render",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "render of the packaging as it is supposed to look like inside",
+        "links": [],
+        "files": [
+          {
+            "name": "2838bf1c-1cf6-4065-a428-43ceafb68916.JPG",
+            "size": 274818,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/2838bf1c-1cf6-4065-a428-43ceafb68916.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nj7ofu0h",
+      "x": 11662.440885238304,
+      "y": 5349.777312047165,
+      "w": 320,
+      "h": 415,
+      "group": null,
+      "data": {
+        "date": "2026-01-08",
+        "title": "Website update",
         "type": "Artefact",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [],
         "tags": [],
-        "desc": "last prototype finished with arduino inside",
+        "desc": "Updating design of different website pages based on the reviews",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "Screenshot 2026-01-08 at 10.33.26.png",
+            "size": 2852602,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-01-08_at_10.33.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nf3xmmp3",
+      "x": 11659.913210479208,
+      "y": 3537.0383707647793,
+      "w": 320,
+      "h": 366,
+      "group": null,
+      "data": {
+        "date": "2026-01-08",
+        "title": "Updating battle mode",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Reiewing and correcting battle mode in the app",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_5124.PNG",
+            "size": 7775704,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_5124.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nr2pe6k2",
+      "x": 10055.970338568994,
+      "y": 2325.03350939612,
+      "w": 320,
+      "h": 777,
+      "group": null,
+      "data": {
+        "date": "2025-12-09",
+        "title": "Measuring arduino to prototype the trigger",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Figuring out measures for arduino elements to fit in the rifile and create the trigger.",
+        "links": [],
+        "files": [
+          {
+            "name": "F8ECA283-F84E-4171-B33C-F6BCA2E2F924.JPG",
+            "size": 1518162,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/F8ECA283-F84E-4171-B33C-F6BCA2E2F924.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nen1qr62",
+      "x": 10440.928321839232,
+      "y": 2042.5475152271047,
+      "w": 320,
+      "h": 479,
+      "group": null,
+      "data": {
+        "date": "2025-12-12",
+        "title": "Trigger prototype",
+        "type": "Research",
+        "action": "Exploring",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Final trigger design",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_6891 2.JPG",
+            "size": 2113324,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_6891_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "npnttt6j",
+      "x": 12667.863615919321,
+      "y": 4417.664592463039,
+      "w": 320,
+      "h": 370,
+      "group": null,
+      "data": {
+        "date": "2025-12-12",
+        "title": "First prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Finished first printed prototype",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_4725-2.JPG",
+            "size": 418385,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_4725-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nacp6wkb",
+      "x": 13061.589206364042,
+      "y": 4417.664592463039,
+      "w": 320,
+      "h": 474,
+      "group": null,
+      "data": {
+        "date": "2025-12-14",
+        "title": "Rendering final rifle prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "3d rendering the final corrected prototype",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_3801.JPG",
+            "size": 1225704,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_3801.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvt3vgjn",
+      "x": 13486.52043430748,
+      "y": 4421.335843933477,
+      "w": 320,
+      "h": 451,
+      "group": null,
+      "data": {
+        "date": "2025-11-11",
+        "title": "Final printed prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Final printed rifle prototype which opens up to host the trigger and arduino system",
+        "links": [],
+        "files": [
+          {
+            "name": "IMG_4725.JPG",
+            "size": 1129435,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/IMG_4725.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nx3eeazy",
+      "x": 11665.077476869776,
+      "y": 3035.565676425658,
+      "w": 320,
+      "h": 476,
+      "group": null,
+      "data": {
+        "date": "2026-01-14",
+        "title": "Fixing homepage",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Fixing details in the homepage based on a few reviews",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-01 at 22.47.15.jpeg",
+            "size": 67470,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-01_at_22.47.15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nuxornpe",
+      "x": 12013.738861827445,
+      "y": 3507.0986948135137,
+      "w": 320,
+      "h": 435,
+      "group": null,
+      "data": {
+        "date": "2026-01-16",
+        "title": "Battle mode animation",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Creating an animation to show when the user shoots in the battle mode",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Video 2026-02-01 at 22.46.59.mp4",
+            "size": 136092,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Video_2026-02-01_at_22.46.59.mp4"
+          },
+          {
+            "name": "Screenshot 2026-02-01 at 10.52.34 PM.png",
+            "size": 2449500,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_10.52.34_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nre8fe8w",
+      "x": 12369.703061457918,
+      "y": 3504.9601465312803,
+      "w": 320,
+      "h": 248,
+      "group": null,
+      "data": {
+        "date": "2026-01-26",
+        "title": "Animation sound pairing",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Pairing a sound to the shooting animation",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Video 2026-02-01 at 22.47.12.mp4",
+            "size": 1507355,
+            "type": "video/mp4",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Video_2026-02-01_at_22.47.12.mp4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvrubh44",
+      "x": 12029.564553727632,
+      "y": 5286.068686664208,
+      "w": 320,
+      "h": 409,
+      "group": null,
+      "data": {
+        "date": "2026-01-28",
+        "title": "Final website",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Final version of the Reclaim website",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 11.08.06 PM.png",
+            "size": 753700,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_11.08.06_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhoxzwl3",
+      "x": 12320.513353759803,
+      "y": 5812.214756148832,
+      "w": 320,
+      "h": 438,
+      "group": null,
+      "data": {
+        "date": "2026-02-11",
+        "title": "Photos for mockups",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Taking pictures to create our own mockups, more realistic",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 11.00.47 PM.png",
+            "size": 2331504,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_11.00.47_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "negx9n8j",
+      "x": 12669.271559029927,
+      "y": 5812.214756148832,
+      "w": 320,
+      "h": 917,
+      "group": null,
+      "data": {
+        "date": "2026-01-15",
+        "title": "New mockups",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Creating our own mockups strating from photos taken by ourselves",
+        "links": [],
+        "files": [
+          {
+            "name": "PHOTO-2026-01-15-16-41-15 2.jpg",
+            "size": 478773,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PHOTO-2026-01-15-16-41-15_2.jpg"
+          },
+          {
+            "name": "PHOTO-2026-01-15-16-41-15.jpg",
+            "size": 389626,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PHOTO-2026-01-15-16-41-15.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nkcbgrcn",
+      "x": 11670.007116255927,
+      "y": 2536.55073728694,
+      "w": 320,
+      "h": 478,
+      "group": null,
+      "data": {
+        "date": "2026-01-21",
+        "title": "Finished wall page in app",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 11.11.31 PM.png",
+            "size": 1361934,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_11.11.31_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0jlc8bm",
+      "x": 13863.405078961652,
+      "y": 4423.281416675851,
+      "w": 320,
+      "h": 396,
+      "group": null,
+      "data": {
+        "date": "2026-01-16",
+        "title": "Almost finished prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Final prototype painted, almost fully finished",
+        "links": [],
+        "files": [
+          {
+            "name": "PHOTO-2026-01-16-13-20-19.jpg",
+            "size": 146377,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PHOTO-2026-01-16-13-20-19.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvpuh5qj",
+      "x": 12031.327178971105,
+      "y": 2534.605164544566,
+      "w": 320,
+      "h": 549,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "App icon",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "WhatsApp Image 2026-02-01 at 22.47.11.jpeg",
+            "size": 7987,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/WhatsApp_Image_2026-02-01_at_22.47.11.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9yivzsj",
+      "x": 11231.714719093789,
+      "y": 7771.208110273165,
+      "w": 320,
+      "h": 810,
+      "group": null,
+      "data": {
+        "date": "2026-01-30",
+        "title": "finished packaging (outside)",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Fully finished packaging as seen from outside, with detailing showing the interlocking mechanism",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 11.15.55 PM.png",
+            "size": 815404,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_11.15.55_PM.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 at 11.16.04 PM.png",
+            "size": 460707,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_11.16.04_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nuzp6cg0",
+      "x": 14235.162715973025,
+      "y": 4235.6613208288945,
+      "w": 320,
+      "h": 752,
+      "group": null,
+      "data": {
+        "date": "2026-01-30",
+        "title": "Final rifle prototype",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Fully finished prototype with badges",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 11.16.16 PM.png",
+            "size": 999430,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_11.16.16_PM.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 at 11.15.40 PM.png",
+            "size": 1312537,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_11.15.40_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7w8f770",
+      "x": 12738.885023885603,
+      "y": 3497.7328832113467,
+      "w": 320,
+      "h": 398,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "Adjusting recognition system",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [],
+        "tags": [],
+        "desc": "Photos to train fully the recognition system in battle mode",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 10.51.11 PM.png",
+            "size": 2478803,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_10.51.11_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nkq38h23",
+      "x": 8752.53028084438,
+      "y": 8924.571342591555,
+      "w": 320,
+      "h": 587,
+      "group": null,
+      "data": {
+        "date": "2026-01-22",
+        "title": "Finished long length video storyboard",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 11.21.00 PM.png",
+            "size": 566034,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_11.21.00_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n99mngic",
+      "x": 9169.893998738287,
+      "y": 9049.843906803739,
+      "w": 320,
+      "h": 351,
+      "group": null,
+      "data": {
+        "date": "2026-01-28",
+        "title": "Final long length video",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 10.51.28 PM.png",
+            "size": 694254,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_10.51.28_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nh9u93cs",
+      "x": 11586.442154881606,
+      "y": 7973.571483231307,
+      "w": 320,
+      "h": 423,
+      "group": null,
+      "data": {
+        "date": "2026-01-30",
+        "title": "Inside packaging cut-out",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 11.24.37 PM.png",
+            "size": 1694184,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_11.24.37_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n3em6uxl",
+      "x": 12309.776121575647,
+      "y": 7395.999341871306,
+      "w": 320,
+      "h": 659,
+      "group": null,
+      "data": {
+        "date": "2026-01-28",
+        "title": "New manifesto design",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Final manifesto design based on reviews",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 11.25.45 PM.png",
+            "size": 370926,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_11.25.45_PM.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nnx0pg7d",
+      "x": 9991.947437751598,
+      "y": 8217.567633133665,
+      "w": 320,
+      "h": 457,
+      "group": null,
+      "data": {
+        "date": "2026-01-28",
+        "title": "Fully finished book",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [],
+        "tags": [],
+        "desc": "Example of a double page in the final design of the exam book",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 at 11.27.52 PM.png",
+            "size": 1861860,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_at_11.27.52_PM.jpg"
+          }
+        ]
       }
     }
   ],
@@ -4141,8 +4985,153 @@
       "dashed": false
     },
     {
+      "s": "ngo5js82",
+      "t": "nq696dkl",
+      "dashed": false
+    },
+    {
+      "s": "nimo77vj",
+      "t": "ngobfnzl",
+      "dashed": false
+    },
+    {
+      "s": "ngobfnzl",
+      "t": "nf6hyypn",
+      "dashed": false
+    },
+    {
+      "s": "nf6hyypn",
+      "t": "n8y15r18",
+      "dashed": false
+    },
+    {
+      "s": "nelpqg8r",
+      "t": "ncfb6201",
+      "dashed": false
+    },
+    {
+      "s": "nwjes8tw",
+      "t": "nj7ofu0h",
+      "dashed": false
+    },
+    {
+      "s": "nmkm11i6",
+      "t": "nf3xmmp3",
+      "dashed": false
+    },
+    {
+      "s": "nyhkvmfb",
+      "t": "nr2pe6k2",
+      "dashed": false
+    },
+    {
+      "s": "nr2pe6k2",
+      "t": "nen1qr62",
+      "dashed": false
+    },
+    {
       "s": "ngz4y5x7",
-      "t": "nczwpo7o",
+      "t": "npnttt6j",
+      "dashed": false
+    },
+    {
+      "s": "npnttt6j",
+      "t": "nacp6wkb",
+      "dashed": false
+    },
+    {
+      "s": "nacp6wkb",
+      "t": "nvt3vgjn",
+      "dashed": false
+    },
+    {
+      "s": "nmkm11i6",
+      "t": "nx3eeazy",
+      "dashed": false
+    },
+    {
+      "s": "nf3xmmp3",
+      "t": "nuxornpe",
+      "dashed": false
+    },
+    {
+      "s": "nuxornpe",
+      "t": "nre8fe8w",
+      "dashed": false
+    },
+    {
+      "s": "nj7ofu0h",
+      "t": "nvrubh44",
+      "dashed": false
+    },
+    {
+      "s": "n8gdn22c",
+      "t": "nhoxzwl3",
+      "dashed": false
+    },
+    {
+      "s": "nra9c51y",
+      "t": "nhoxzwl3",
+      "dashed": false
+    },
+    {
+      "s": "nhoxzwl3",
+      "t": "negx9n8j",
+      "dashed": false
+    },
+    {
+      "s": "npejui49",
+      "t": "nkcbgrcn",
+      "dashed": false
+    },
+    {
+      "s": "nvt3vgjn",
+      "t": "n0jlc8bm",
+      "dashed": false
+    },
+    {
+      "s": "nkcbgrcn",
+      "t": "nvpuh5qj",
+      "dashed": false
+    },
+    {
+      "s": "ncfb6201",
+      "t": "n9yivzsj",
+      "dashed": false
+    },
+    {
+      "s": "n0jlc8bm",
+      "t": "nuzp6cg0",
+      "dashed": false
+    },
+    {
+      "s": "nre8fe8w",
+      "t": "n7w8f770",
+      "dashed": false
+    },
+    {
+      "s": "nimo77vj",
+      "t": "nkq38h23",
+      "dashed": false
+    },
+    {
+      "s": "nkq38h23",
+      "t": "n99mngic",
+      "dashed": false
+    },
+    {
+      "s": "n9yivzsj",
+      "t": "nh9u93cs",
+      "dashed": false
+    },
+    {
+      "s": "nco9eqdy",
+      "t": "n3em6uxl",
+      "dashed": false
+    },
+    {
+      "s": "n8y15r18",
+      "t": "nnx0pg7d",
       "dashed": false
     }
   ],
@@ -4152,14 +5141,14 @@
     ],
     "tags": [],
     "type": [
-      "Brief",
-      "Moodboard",
-      "Source",
-      "Sketch",
+      "Artefact",
       "Observation",
+      "Sketch",
+      "Source",
+      "Moodboard",
+      "Brief",
       "Research",
-      "Concept",
-      "Artefact"
+      "Concept"
     ]
   }
 }
