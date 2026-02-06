@@ -5135,8 +5135,8 @@
     },
     {
       "id": "nnyyn94f",
-      "x": 18638.51876559,
-      "y": 5383.783425487723,
+      "x": 19081.314413612563,
+      "y": 5351.558225970093,
       "w": 320,
       "h": 840,
       "group": null,
@@ -5439,8 +5439,8 @@
     },
     {
       "id": "n02xp4rs",
-      "x": 16453.59360409885,
-      "y": 6813.152926146474,
+      "x": 16506.658182634725,
+      "y": 13041.764330413316,
       "w": 320,
       "h": 929,
       "group": null,
@@ -5496,8 +5496,8 @@
     },
     {
       "id": "nl958mlz",
-      "x": 16444.834082990372,
-      "y": 9496.565733607646,
+      "x": 16080.60053535517,
+      "y": 10410.463804890851,
       "w": 320,
       "h": 875,
       "group": null,
@@ -5549,8 +5549,8 @@
     },
     {
       "id": "ngiii712",
-      "x": 16854.74929551626,
-      "y": 9490.974479727829,
+      "x": 16454.98284315146,
+      "y": 10411.500955401452,
       "w": 320,
       "h": 895,
       "group": null,
@@ -5656,8 +5656,8 @@
     },
     {
       "id": "nal8uvdz",
-      "x": 16468.328238866932,
-      "y": 5764.5506419234025,
+      "x": 16760.744690453696,
+      "y": 5750.814737394708,
       "w": 320,
       "h": 877,
       "group": null,
@@ -5985,8 +5985,8 @@
     },
     {
       "id": "nwqahp9o",
-      "x": 16858.474517049406,
-      "y": 10395.761209502638,
+      "x": 16458.708064684608,
+      "y": 11316.287685176261,
       "w": 320,
       "h": 899,
       "group": null,
@@ -6360,8 +6360,8 @@
     },
     {
       "id": "nzxxvtv6",
-      "x": 17205.552655015086,
-      "y": 11306.593332941613,
+      "x": 16807.998944218125,
+      "y": 10655.030738010397,
       "w": 320,
       "h": 2112,
       "group": null,
@@ -6468,8 +6468,8 @@
     },
     {
       "id": "n1pf47dm",
-      "x": 17206.25880479517,
-      "y": 13426.40281510151,
+      "x": 16046.258804795169,
+      "y": 11610.40281510151,
       "w": 320,
       "h": 604,
       "group": null,
@@ -6503,8 +6503,8 @@
     },
     {
       "id": "n9l1wp0v",
-      "x": 16822.299833712797,
-      "y": 13427.923930360279,
+      "x": 15662.299833712797,
+      "y": 11611.923930360279,
       "w": 320,
       "h": 767,
       "group": null,
@@ -6545,10 +6545,10 @@
     },
     {
       "id": "naxiymt6",
-      "x": 16493.137368268966,
-      "y": 11309.211826388797,
+      "x": 16453.137368268966,
+      "y": 12226.642802401606,
       "w": 320,
-      "h": 600,
+      "h": 577,
       "group": null,
       "data": {
         "date": "2025-11-23",
@@ -6558,7 +6558,6 @@
         "mainArea": "Communication",
         "areas": [
           "Media studies",
-          "Design theory",
           "Motion graphics",
           "Video editing",
           "Visual communication"
@@ -6755,8 +6754,8 @@
     },
     {
       "id": "npeoffr6",
-      "x": 19014.38561907266,
-      "y": 5384.04230398774,
+      "x": 19457.18126709522,
+      "y": 5348.218555129255,
       "w": 320,
       "h": 592,
       "group": null,
@@ -6794,8 +6793,8 @@
     },
     {
       "id": "n9zci1bq",
-      "x": 16829.15262976783,
-      "y": 6809.43023597953,
+      "x": 16882.217208303704,
+      "y": 13038.041640246372,
       "w": 320,
       "h": 1074,
       "group": null,
@@ -6859,8 +6858,8 @@
     },
     {
       "id": "nxu97d05",
-      "x": 17573.063346567746,
-      "y": 11304.644186568334,
+      "x": 17175.509635770784,
+      "y": 10653.081591637118,
       "w": 320,
       "h": 2121,
       "group": null,
@@ -6967,8 +6966,8 @@
     },
     {
       "id": "nll8ghci",
-      "x": 16831.351666102382,
-      "y": 5767.760535518618,
+      "x": 17123.768117689146,
+      "y": 5754.024630989923,
       "w": 320,
       "h": 680,
       "group": null,
@@ -7152,8 +7151,8 @@
     },
     {
       "id": "n6j0n4wa",
-      "x": 19384.268343699074,
-      "y": 5385.256300152703,
+      "x": 19827.063991721636,
+      "y": 5349.432551294219,
       "w": 320,
       "h": 709,
       "group": null,
@@ -7365,7 +7364,7 @@
       "data": {
         "date": "2025-12-05",
         "title": "ICON Starter KIt - Tiles Production",
-        "type": "Artefact",
+        "type": "Output",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -7412,8 +7411,8 @@
     },
     {
       "id": "np724v44",
-      "x": 17182.568722306994,
-      "y": 6812.761391439026,
+      "x": 17235.63330084287,
+      "y": 13041.372795705869,
       "w": 320,
       "h": 907,
       "group": null,
@@ -7469,8 +7468,8 @@
     },
     {
       "id": "nx8ett0q",
-      "x": 19383.38617710206,
-      "y": 4890.271292465224,
+      "x": 19826.181825124622,
+      "y": 4886.314812239605,
       "w": 320,
       "h": 473,
       "group": null,
@@ -7508,8 +7507,8 @@
     },
     {
       "id": "n9qrzd0m",
-      "x": 17542.883526887323,
-      "y": 6808.620333261895,
+      "x": 17595.9481054232,
+      "y": 13037.231737528738,
       "w": 320,
       "h": 1190,
       "group": null,
@@ -7581,8 +7580,8 @@
     },
     {
       "id": "nazgc85q",
-      "x": 19384.106594140874,
-      "y": 6112.534674029776,
+      "x": 19818.902242163436,
+      "y": 6060.710925171292,
       "w": 320,
       "h": 761,
       "group": null,
@@ -7942,10 +7941,10 @@
     },
     {
       "id": "n7jezh08",
-      "x": 17593.00694460476,
+      "x": 17594.211888800186,
       "y": 1100.1964044696551,
       "w": 320,
-      "h": 1981,
+      "h": 1982,
       "group": null,
       "data": {
         "date": "2025-12-12",
@@ -8169,8 +8168,8 @@
     },
     {
       "id": "nn2bqwqp",
-      "x": 17941.08637931099,
-      "y": 11309.078917944838,
+      "x": 17543.532668514028,
+      "y": 10657.516323013622,
       "w": 320,
       "h": 1043,
       "group": null,
@@ -8229,8 +8228,8 @@
     },
     {
       "id": "njopwcz5",
-      "x": 20074.89602178419,
-      "y": 5386.976253614906,
+      "x": 20182.91325537331,
+      "y": 5353.234222827993,
       "w": 320,
       "h": 1268,
       "group": null,
@@ -8250,6 +8249,7 @@
           "Packaging",
           "Materials",
           "Lexicon",
+          "Tile holder",
           "Layout"
         ],
         "desc": "A preliminary cardboard prototype of the ICON Starter Kit was conceived and built to explore the physical arrangement of the device’s components and to obtain a first tangible validation of the concept. The prototype functions as a low-fidelity mock-up, allowing the evaluation of proportions, spatial relationships, and ergonomics before moving to more refined materials or technical development.",
@@ -8340,10 +8340,10 @@
     },
     {
       "id": "ncnvdtd6",
-      "x": 19728.57374501331,
-      "y": 5386.612277547285,
+      "x": 17200.57374501331,
+      "y": 4430.612277547285,
       "w": 320,
-      "h": 1107,
+      "h": 1176,
       "group": null,
       "data": {
         "date": "2025-12-17",
@@ -8357,7 +8357,12 @@
           "Interaction design",
           "Prototyping"
         ],
-        "tags": [],
+        "tags": [
+          "Icon starter kit",
+          "Packaging",
+          "Materials",
+          "Tile holder"
+        ],
         "desc": "We are developing a tile holder designed to store and organize the tiles used in the kit. At this stage, the material definition is still under evaluation. An initial prototype has been produced in cardboard to test dimensions, usability, and storage logic.",
         "links": [],
         "files": [
@@ -8453,7 +8458,7 @@
       "data": {
         "date": "2025-12-17",
         "title": "ICON Starter Kit - Assembly of the Device",
-        "type": "Artefact",
+        "type": "Output",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -8508,15 +8513,15 @@
     },
     {
       "id": "n9ftbj8q",
-      "x": 20605.32700416763,
-      "y": 1572.4032443986912,
+      "x": 20187.25637657974,
+      "y": 3501.178319244839,
       "w": 320,
-      "h": 1834,
+      "h": 1835,
       "group": null,
       "data": {
         "date": "2025-12-18",
         "title": "Photography of ICON Starter Kit",
-        "type": "Artefact",
+        "type": "Output",
         "action": "Making",
         "mainArea": "Interaction",
         "areas": [
@@ -8580,15 +8585,15 @@
     },
     {
       "id": "n5kpx5y7",
-      "x": 18309.60720688052,
-      "y": 11311.069617452526,
+      "x": 17901.266323831398,
+      "y": 10657.349588070878,
       "w": 320,
       "h": 1505,
       "group": null,
       "data": {
         "date": "2025-12-19",
         "title": "ICON Teaser Update",
-        "type": "Artefact",
+        "type": "Output",
         "action": "Making",
         "mainArea": "Communication",
         "areas": [
@@ -8664,10 +8669,10 @@
     },
     {
       "id": "n1b2qwcp",
-      "x": 17899.454694281343,
-      "y": 6810.533958573616,
+      "x": 17952.51927281722,
+      "y": 13039.145362840458,
       "w": 320,
-      "h": 1438,
+      "h": 1260,
       "group": null,
       "data": {
         "date": "2025-12-19",
@@ -8717,14 +8722,6 @@
             "path": "assets/Screenshot_2025-12-22_alle_18.18.08.jpg"
           },
           {
-            "name": "Screenshot 2025-12-22 alle 18.18.46.png",
-            "size": 419635,
-            "type": "image/png",
-            "isImage": true,
-            "isPDF": false,
-            "path": "assets/Screenshot_2025-12-22_alle_18.18.46.jpg"
-          },
-          {
             "name": "Screenshot 2025-12-22 alle 18.19.24.png",
             "size": 472348,
             "type": "image/png",
@@ -8741,6 +8738,2364 @@
             "path": "assets/Screenshot_2025-12-22_alle_18.19.32.jpg"
           }
         ]
+      }
+    },
+    {
+      "id": "n9240pna",
+      "x": 20799.64800182703,
+      "y": 5454.214691566249,
+      "w": 320,
+      "h": 977,
+      "group": null,
+      "data": {
+        "date": "2026-01-12",
+        "title": "ICON Starter Kit - Box Layout",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "User interaction",
+          "Product design"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Packaging",
+          "Materials",
+          "Lexicon",
+          "Layout"
+        ],
+        "desc": "It has been decided to develop a custom-made box specifically designed for the ICON Starter Kit. The final layout of the box and the internal components is being designed.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 15.48.44.png",
+            "size": 69220,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_15.48.44.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.31.31.png",
+            "size": 92050,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.31.31.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2u9cyn7",
+      "x": 17578.06502761221,
+      "y": 4827.432899298249,
+      "w": 320,
+      "h": 848,
+      "group": null,
+      "data": {
+        "date": "2026-01-08",
+        "title": "ICON Starter Kit - Tile Holder",
+        "type": "Decision",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Product design",
+          "Interaction design",
+          "Prototyping"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Packaging",
+          "Materials",
+          "Tile holder"
+        ],
+        "desc": "Multiple production options were evaluated for the tile holder, considering factors such as cost, production time, weight, and feasibility.\n3D printing was selected as the most suitable solution,  securing a lightweight yet stable structure, especially given the already significant weight of the other elements.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 15.52.44.png",
+            "size": 1069986,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_15.52.44.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 15.53.40.png",
+            "size": 1153717,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_15.53.40.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nirpl0n3",
+      "x": 18617.63684748719,
+      "y": 8265.910956457827,
+      "w": 320,
+      "h": 1582,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "ICON Visual Applications",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Design theory",
+          "Visual culture",
+          "Branding"
+        ],
+        "tags": [
+          "Icon",
+          "Identity",
+          "Poster design",
+          "Visual language"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 16.04.42.png",
+            "size": 114845,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.04.42.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.04.56.png",
+            "size": 563437,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.04.56.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.05.05.png",
+            "size": 266780,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.05.05.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8nuqge4",
+      "x": 18977.123119609918,
+      "y": 8265.910956457827,
+      "w": 320,
+      "h": 977,
+      "group": null,
+      "data": {
+        "date": "2026-01-11",
+        "title": "ICON Visual Applications",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Design theory",
+          "Visual culture",
+          "Branding"
+        ],
+        "tags": [
+          "Icon",
+          "Identity",
+          "Poster design",
+          "Visual language"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 16.09.53.png",
+            "size": 2802052,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.09.53.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.09.59.png",
+            "size": 2378314,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.09.59.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.10.20.png",
+            "size": 2201532,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.10.20.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.10.25.png",
+            "size": 749330,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.10.25.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8mc9q4p",
+      "x": 20195.020860634195,
+      "y": 2443.611237137029,
+      "w": 320,
+      "h": 930,
+      "group": null,
+      "data": {
+        "date": "2026-01-11",
+        "title": "ICON Starter Kit - Exercise Cards",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Interaction design",
+          "Communication studies",
+          "Prototyping"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Interaction",
+          "Usability",
+          "Tutorial",
+          "Exercise cards",
+          "Language learning"
+        ],
+        "desc": "To support users in the experience, the team decided to introduce a set of Exercise Cards included in the ICON Starter Kit. These cards present example sentences on the front (and the solution written logos on the back), which users are invited to recreate by physically composing logo tiles on the device.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 16.16.46.png",
+            "size": 101258,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.16.46.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.16.56.png",
+            "size": 82593,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.16.56.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.17.03.png",
+            "size": 95459,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.17.03.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nvhvmy4n",
+      "x": 20797.41540572006,
+      "y": 6424.371774528183,
+      "w": 320,
+      "h": 1105,
+      "group": null,
+      "data": {
+        "date": "2026-02-12",
+        "title": "ICON Starter Kit - Instructions",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Visual communication",
+          "User experience"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "User journey",
+          "Tutorial",
+          "Interaction",
+          "Language learning"
+        ],
+        "desc": "The instructions to the kit will be printed inside the box.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 16.31.20.png",
+            "size": 610516,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.31.20.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.31.39.png",
+            "size": 172629,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.31.39.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.31.43.png",
+            "size": 26874,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.31.43.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.11.26.png",
+            "size": 904636,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.11.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nge4hzld",
+      "x": 16232.80136180004,
+      "y": 5754.483472374159,
+      "w": 320,
+      "h": 771,
+      "group": null,
+      "data": {
+        "date": "2026-01-13",
+        "title": "LexICON Cover Design",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Semiotics",
+          "Visual communication",
+          "Branding",
+          "Language design",
+          "Communication studies"
+        ],
+        "tags": [
+          "Lexicon",
+          "Dictionary",
+          "Cover design",
+          "Visual identity"
+        ],
+        "desc": "The definitive cover of the LexICON.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 18.08.42.png",
+            "size": 78443,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_18.08.42.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 18.08.49.png",
+            "size": 137893,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_18.08.49.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nivnrbbk",
+      "x": 17495.289128863456,
+      "y": 5758.291375377553,
+      "w": 320,
+      "h": 673,
+      "group": null,
+      "data": {
+        "date": "2026-01-09",
+        "title": "ICON Starter Kit - LexICON Layout",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Design theory",
+          "User experience",
+          "Publishing"
+        ],
+        "tags": [
+          "Icon",
+          "Lexicon",
+          "Layout",
+          "Prototyping",
+          "Interface",
+          "Dictionary"
+        ],
+        "desc": "The layout of the LexICON has been refined to include small squares to indicate which role is covered by every declension. This is the final layout.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 16.37.54.png",
+            "size": 861911,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.37.54.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.38.34.png",
+            "size": 163416,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.38.34.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8lw7cpo",
+      "x": 20559.867734599888,
+      "y": 3497.524913148564,
+      "w": 320,
+      "h": 716,
+      "group": null,
+      "data": {
+        "date": "2026-01-13",
+        "title": "ICON Starter Kit",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Design theory",
+          "Product design",
+          "Prototyping"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Materials"
+        ],
+        "desc": "The UV printing describing each slots' role got scratched, so we had to cancel it completely and re-print it.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 16.34.30.png",
+            "size": 954118,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.34.30.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nibiakwi",
+      "x": 17863.612557889508,
+      "y": 5756.549859686802,
+      "w": 320,
+      "h": 692,
+      "group": null,
+      "data": {
+        "date": "2026-01-13",
+        "title": "ICON Starter Kit - LexICON printing",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Design theory",
+          "User experience",
+          "Publishing"
+        ],
+        "tags": [
+          "Icon",
+          "Lexicon",
+          "Layout",
+          "Printing",
+          "Interface",
+          "Dictionary"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 16.47.39.png",
+            "size": 651967,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.47.39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8mjwclw",
+      "x": 20805.581324737246,
+      "y": 7528.802133287952,
+      "w": 320,
+      "h": 324,
+      "group": null,
+      "data": {
+        "date": "2026-01-13",
+        "title": "ICON Starter Kit - Logo",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "Branding",
+          "Design theory"
+        ],
+        "tags": [],
+        "desc": "The definitive logo of the ICON Starter Kit.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 16.48.21.png",
+            "size": 70607,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.48.21.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nud6ybxt",
+      "x": 18516.48199668397,
+      "y": 1114.0412313983036,
+      "w": 320,
+      "h": 597,
+      "group": null,
+      "data": {
+        "date": "2026-01-16",
+        "title": "ICON Starter Kit - App",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Interaction design",
+          "Communication studies",
+          "Digital platform",
+          "Prototyping"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Interface",
+          "App",
+          "Interaction",
+          "Usability",
+          "Identity",
+          "Tutorial"
+        ],
+        "desc": "We made improvements to the interface and fixed minor bugs with the animations in the tutorial.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 14.39.29.png",
+            "size": 278830,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_14.39.29.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nxbhuuip",
+      "x": 18921.278992541607,
+      "y": 1114.0412313983036,
+      "w": 320,
+      "h": 938,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "ICON Starter Kit - App",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Interaction design",
+          "Communication studies",
+          "Digital platform",
+          "Prototyping"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Interface",
+          "App",
+          "Interaction",
+          "Usability",
+          "Identity",
+          "Tutorial"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-03 alle 10.04.38.png",
+            "size": 217193,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_alle_10.04.38.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-03 alle 10.04.50.png",
+            "size": 244778,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_alle_10.04.50.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-03 alle 10.05.11.png",
+            "size": 211988,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_alle_10.05.11.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nssk7ou4",
+      "x": 19339.855473321077,
+      "y": 8261.935782007356,
+      "w": 320,
+      "h": 994,
+      "group": null,
+      "data": {
+        "date": "2026-01-16",
+        "title": "ICON Visual Applications",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Design theory",
+          "Visual culture",
+          "Branding"
+        ],
+        "tags": [
+          "Icon",
+          "Identity",
+          "Poster design",
+          "Visual language"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 17.42.02.png",
+            "size": 2335536,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.42.02.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.42.09.png",
+            "size": 2576079,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.42.09.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.42.13.png",
+            "size": 2684423,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.42.13.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.42.18.png",
+            "size": 2593303,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.42.18.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmcq0mv5",
+      "x": 18844.803298504306,
+      "y": 13033.925289865056,
+      "w": 320,
+      "h": 884,
+      "group": null,
+      "data": {
+        "date": "2026-01-16",
+        "title": "ICON Website",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Web design",
+          "Visual communication",
+          "Digital platform",
+          "User experience"
+        ],
+        "tags": [
+          "Icon",
+          "Website",
+          "Dictionary",
+          "Digital platform",
+          "Communication"
+        ],
+        "desc": "Development of the home page of the new website.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 17.24.44.png",
+            "size": 210632,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.24.44.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.24.55.png",
+            "size": 233401,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.24.55.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.25.07.png",
+            "size": 220779,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.25.07.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmgyewvp",
+      "x": 18472.147187162333,
+      "y": 12565.670060381519,
+      "w": 320,
+      "h": 478,
+      "group": null,
+      "data": {
+        "date": "2026-01-13",
+        "title": "ICON Website - Sketches",
+        "type": "Sketch",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Web design"
+        ],
+        "tags": [
+          "Icon",
+          "Website"
+        ],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 17.31.08.png",
+            "size": 458524,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.31.08.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.29.05.png",
+            "size": 114438,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.29.05.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nycs7wht",
+      "x": 19191.90731062129,
+      "y": 13033.16953633942,
+      "w": 320,
+      "h": 1056,
+      "group": null,
+      "data": {
+        "date": "2026-01-28",
+        "title": "ICON Website",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Web design",
+          "Visual communication",
+          "Digital platform",
+          "User experience"
+        ],
+        "tags": [
+          "Icon",
+          "Website",
+          "Dictionary",
+          "Digital platform",
+          "Communication"
+        ],
+        "desc": "Updated grsphics and addition of the \"About\" page.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 17.36.33.png",
+            "size": 213190,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.36.33.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.37.11.png",
+            "size": 152119,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.37.11.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.37.29.png",
+            "size": 259661,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.37.29.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.37.39.png",
+            "size": 256693,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.37.39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njp8xs96",
+      "x": 19540.797964928086,
+      "y": 13033.799898599409,
+      "w": 320,
+      "h": 884,
+      "group": null,
+      "data": {
+        "date": "2026-01-30",
+        "title": "ICON Website",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Web design",
+          "Visual communication",
+          "Digital platform",
+          "User experience"
+        ],
+        "tags": [
+          "Icon",
+          "Website",
+          "Dictionary",
+          "Digital platform",
+          "Communication",
+          "Lexicon"
+        ],
+        "desc": "The new LexICON section of the website.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 17.45.52.png",
+            "size": 539913,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.45.52.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.45.58.png",
+            "size": 399367,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.45.58.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.46.30.png",
+            "size": 381399,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.46.30.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqwxw3zn",
+      "x": 18228.332711436546,
+      "y": 5755.618786250642,
+      "w": 320,
+      "h": 1026,
+      "group": null,
+      "data": {
+        "date": "2026-01-19",
+        "title": "ICON Starter Kit - LexICON",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Design theory",
+          "User experience",
+          "Publishing"
+        ],
+        "tags": [
+          "Icon",
+          "Lexicon",
+          "Layout",
+          "Printing",
+          "Interface",
+          "Dictionary"
+        ],
+        "desc": "The LexICON has been printed and bound, and a rigid cover has been applied. However, issues have emerged regarding the cover’s quality and execution. For this reason, the current cover is considered provisional, and a redesign and reprint of the rigid cover are being evaluated.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 17.49.18.png",
+            "size": 551604,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.49.18.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.49.31.png",
+            "size": 834023,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.49.31.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ny5qlp1i",
+      "x": 21150.596262372575,
+      "y": 5455.101310361644,
+      "w": 320,
+      "h": 600,
+      "group": null,
+      "data": {
+        "date": "2026-01-19",
+        "title": "ICON Starter Kit - Box",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "User interaction",
+          "Product design"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Packaging",
+          "Materials"
+        ],
+        "desc": "The custom-made box is ready.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 17.48.57.png",
+            "size": 841073,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.48.57.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmwpz21d",
+      "x": 22390.954428859473,
+      "y": 7893.9928529675035,
+      "w": 320,
+      "h": 1106,
+      "group": null,
+      "data": {
+        "date": "2026-01-19",
+        "title": "ICON Starter Kit - Experience Video",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Visual communication",
+          "Video editing",
+          "Media studies"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Experience video",
+          "Prototyping",
+          "Video",
+          "User experience",
+          "Interaction"
+        ],
+        "desc": "A domestic set was assembled using provisional cardboard prototypes of the ICON Starter Kit to produce an initial test video describing the user experience of the device. The video was conceived as a technical and narrative rehearsal, aimed at testing camera angles, framing, timing, and hand movements during the interaction with the device.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 17.57.16.png",
+            "size": 5812419,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.57.16.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 17.57.38.png",
+            "size": 1435722,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_17.57.38.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 16.11.45.png",
+            "size": 1495028,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_16.11.45.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ni2m07ij",
+      "x": 21145.817645631225,
+      "y": 6069.379948468834,
+      "w": 320,
+      "h": 473,
+      "group": null,
+      "data": {
+        "date": "2026-01-19",
+        "title": "ICON Starter Kit - Box Materials",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "User interaction",
+          "Product design"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Materials",
+          "Packaging",
+          "Layout"
+        ],
+        "desc": "We are evaluating which kind of material we could use to organize and contain the components of the kit. A solution that is being considered is using 4 layers of 0.5mm sponge.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 18.04.24.png",
+            "size": 112025,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_18.04.24.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nh0xceii",
+      "x": 21499.355349225232,
+      "y": 6072.557335142862,
+      "w": 320,
+      "h": 1563,
+      "group": null,
+      "data": {
+        "date": "2026-01-22",
+        "title": "ICON Starter Kit - Box Materials",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "User interaction",
+          "Product design"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Materials",
+          "Packaging",
+          "Layout"
+        ],
+        "desc": "Due to the high production costs associated with spongy materials and precision cutting processes, an alternative solution was identified to achieve a similar result with reduced expenses. The project proposes the use of exercise mats with a thickness of 0.8 mm, this material maintains flexibility, softness, and ease of handling, while significantly lowering manufacturing and cutting costs.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 18.14.28.png",
+            "size": 32550,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_18.14.28.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 18.14.40.png",
+            "size": 47873,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_18.14.40.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 18.14.47.png",
+            "size": 69280,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_18.14.47.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 18.38.06.png",
+            "size": 924217,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_18.38.06.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 18.38.14.png",
+            "size": 719502,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_18.38.14.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "npyae4jo",
+      "x": 17927.33448878777,
+      "y": 4828.188980224765,
+      "w": 320,
+      "h": 738,
+      "group": null,
+      "data": {
+        "date": "2026-01-20",
+        "title": "ICON Starter Kit - Tile Holder",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Product design",
+          "Interaction design",
+          "Prototyping"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Packaging",
+          "Materials",
+          "Tile holder"
+        ],
+        "desc": "The 3D-printed version of the tile holder has been completed. However, the slots designed to host the tiles are too narrow, preventing the tiles from being inserted correctly, which makes the current prototype unusable.\nThe original 3D file has been revised to improve tolerances and slot dimensions and it has been sent for a new print using a different material, selected to ensure higher precision and better structural reliability.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 23.42.39.png",
+            "size": 1678264,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.42.39.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nmmcospn",
+      "x": 20563.86651160711,
+      "y": 2449.898425388977,
+      "w": 320,
+      "h": 784,
+      "group": null,
+      "data": {
+        "date": "2025-12-20",
+        "title": "ICON Starter Kit - Exercise Cards",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Interaction design",
+          "Communication studies",
+          "Prototyping"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Interaction",
+          "Usability",
+          "Tutorial",
+          "Exercise cards",
+          "Language learning"
+        ],
+        "desc": "We printed a few test cards.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 18.34.45.png",
+            "size": 70813,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_18.34.45.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0pywoph",
+      "x": 18592.477103285666,
+      "y": 6798.441690410268,
+      "w": 320,
+      "h": 593,
+      "group": null,
+      "data": {
+        "date": "2026-02-21",
+        "title": "ICON Starter Kit - LexICON Bookmark",
+        "type": "Concept",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Design theory",
+          "User experience",
+          "Publishing"
+        ],
+        "tags": [
+          "Icon",
+          "Lexicon",
+          "Layout",
+          "Bookmark",
+          "Dictionary"
+        ],
+        "desc": "SInce the \"Introduction\" section of the dictionary doesn't include the guide to read the terms in the dictionary, we are considering creating a bookmark in include in the LexICON with the guide on it. This way readers will always have at their disposal the guide without having to go back to the beginning of the dictionary.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 18.49.04.png",
+            "size": 365489,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_18.49.04.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0i7t3ez",
+      "x": 21501.849144593703,
+      "y": 5453.126503176348,
+      "w": 320,
+      "h": 606,
+      "group": null,
+      "data": {
+        "date": "2026-01-27",
+        "title": "ICON Starter Kit",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "User interaction",
+          "Product design"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Packaging",
+          "Materials"
+        ],
+        "desc": "The cover of the box has been printed.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 19.02.45.png",
+            "size": 2075826,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.02.45.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nqvam662",
+      "x": 21903.219970244027,
+      "y": 5456.223938930489,
+      "w": 320,
+      "h": 768,
+      "group": null,
+      "data": {
+        "date": "2026-02-27",
+        "title": "ICON Starter Kit - Box",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "User interaction",
+          "Product design"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Packaging",
+          "Materials"
+        ],
+        "desc": "The finished box with the sponge.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 19.06.12.png",
+            "size": 2712390,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.06.12.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 13.51.23.png",
+            "size": 1779552,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_13.51.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ne874vl1",
+      "x": 21158.358238997094,
+      "y": 6550.983455160184,
+      "w": 320,
+      "h": 358,
+      "group": null,
+      "data": {
+        "date": "2026-01-27",
+        "title": "ICON Starter Kit - Instructions",
+        "type": "Observation",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction design",
+          "Visual communication",
+          "User experience"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "User journey",
+          "Tutorial",
+          "Interaction",
+          "Language learning"
+        ],
+        "desc": "Since printing on the inside of the box is not possible, we have decided to print the instructions on a adhesive sheet and paste it directly.",
+        "links": [],
+        "files": []
+      }
+    },
+    {
+      "id": "nfgnqbtm",
+      "x": 20913.604610201826,
+      "y": 2449.615074015913,
+      "w": 320,
+      "h": 563,
+      "group": null,
+      "data": {
+        "date": "2026-01-27",
+        "title": "ICON Starter Kit - Exercise Cards",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Interaction design",
+          "Communication studies",
+          "Prototyping"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Interaction",
+          "Usability",
+          "Tutorial",
+          "Exercise cards",
+          "Language learning"
+        ],
+        "desc": "We have printed 25 Exercise Cards, creating a full deck ready to be included in the ICON Starter Kit.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 19.06.23.png",
+            "size": 3094001,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.06.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nhkqxl8q",
+      "x": 18949.729959883385,
+      "y": 6795.211502425997,
+      "w": 320,
+      "h": 1091,
+      "group": null,
+      "data": {
+        "date": "2026-01-25",
+        "title": "ICON Starter Kit - LexICON Bookmark",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Design theory",
+          "User experience",
+          "Publishing"
+        ],
+        "tags": [
+          "Icon",
+          "Lexicon",
+          "Layout",
+          "Bookmark",
+          "Dictionary"
+        ],
+        "desc": "We'd like to print the bookmark using a transparent plastic material, such as acetate. The transparency allows the bookmark to be physically overlaid on the dictionary pages without obscuring the underlying content. By placing the bookmark directly over the printed definitions, users can simultaneously read the original entry and the additional symbolic or linguistic information carried by the bookmark",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 19.17.10.png",
+            "size": 58486,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.17.10.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 19.17.23.png",
+            "size": 49765,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.17.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nuwhasao",
+      "x": 18290.623221296646,
+      "y": 4829.562053959955,
+      "w": 320,
+      "h": 515,
+      "group": null,
+      "data": {
+        "date": "2026-01-28",
+        "title": "ICON Starter Kit - Tile Holder",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Product design",
+          "Interaction design",
+          "Prototyping"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Packaging",
+          "Materials",
+          "Tile holder"
+        ],
+        "desc": "The new tile holder is ready, the printing is a lot more precise and the tiles fit perfectly.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 19.06.43.png",
+            "size": 3380910,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.06.43.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nzubltqq",
+      "x": 18583.034804841718,
+      "y": 5756.749569239421,
+      "w": 320,
+      "h": 586,
+      "group": null,
+      "data": {
+        "date": "2026-01-27",
+        "title": "ICON Starter Kit - LexICON (New Cover)",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Design theory",
+          "User experience",
+          "Publishing"
+        ],
+        "tags": [],
+        "desc": "We replaced the wrong cover with a new one.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 19.24.13.png",
+            "size": 278016,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.24.13.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8nphehi",
+      "x": 21279.58272871093,
+      "y": 2450.958684187419,
+      "w": 320,
+      "h": 1141,
+      "group": null,
+      "data": {
+        "date": "2026-01-27",
+        "title": "ICON Starter Kit - Exercise Cards Box",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Interaction design",
+          "Communication studies",
+          "Prototyping"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Interaction",
+          "Usability",
+          "Tutorial",
+          "Exercise cards",
+          "Language learning"
+        ],
+        "desc": "In addition to the cards, we also printed and assembled a paper box to store them.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 19.05.59.png",
+            "size": 819779,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.05.59.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 19.06.17.png",
+            "size": 1018617,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.06.17.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 19.40.52.png",
+            "size": 113977,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.40.52.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nkaxl8iq",
+      "x": 19296.558964476964,
+      "y": 6796.724809191979,
+      "w": 320,
+      "h": 1099,
+      "group": null,
+      "data": {
+        "date": "2026-01-27",
+        "title": "ICON Starter Kit - LexICON Bookmark",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Design theory",
+          "User experience",
+          "Publishing"
+        ],
+        "tags": [
+          "Icon",
+          "Lexicon",
+          "Layout",
+          "Bookmark",
+          "Dictionary"
+        ],
+        "desc": "We printed two test bookmarks, one transparent and one orange.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 19.06.29.png",
+            "size": 1188761,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.06.29.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 19.06.35.png",
+            "size": 1116905,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.06.35.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ndhb0di5",
+      "x": 23311.741866175886,
+      "y": 7901.26609159771,
+      "w": 320,
+      "h": 627,
+      "group": null,
+      "data": {
+        "date": "2026-01-30",
+        "title": "ICON Starter Kit - Experience Video",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Visual communication",
+          "Video editing",
+          "Media studies"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Video",
+          "User experience",
+          "Interaction"
+        ],
+        "desc": "We set up a professional set to record a more curated version of the videos that will be used for the Experience Video.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 13.53.23.png",
+            "size": 3006221,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_13.53.23.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n25kvg7o",
+      "x": 23339.925366043033,
+      "y": 4951.692841025903,
+      "w": 320,
+      "h": 443,
+      "group": null,
+      "data": {
+        "date": "2026-01-29",
+        "title": "Inspiration board for the booklet",
+        "type": "Collection",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Design theory",
+          "Data visualization",
+          "Publishing",
+          "Visual communication"
+        ],
+        "tags": [
+          "Materials",
+          "Packaging",
+          "Cover design",
+          "Identity"
+        ],
+        "desc": "A collection of references for the booklet.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 19.46.05.png",
+            "size": 459932,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_19.46.05.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nzd8in3g",
+      "x": 22862.571838783257,
+      "y": 5458.727590905722,
+      "w": 320,
+      "h": 1936,
+      "group": null,
+      "data": {
+        "date": "2026-01-30",
+        "title": "ICON Starter Kit ",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Visual communication",
+          "User interaction",
+          "Product design"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Lexicon",
+          "Tile",
+          "Tile holder",
+          "Exercise cards",
+          "Language learning"
+        ],
+        "desc": "The complete ICON Starter Kit.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 23.35.33.png",
+            "size": 2328190,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.35.33.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.35.13.png",
+            "size": 3172761,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.35.13.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.35.47.png",
+            "size": 1455615,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.35.47.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.36.12.png",
+            "size": 1427479,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.36.12.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.36.28.png",
+            "size": 821827,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.36.28.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.36.57.png",
+            "size": 3390063,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.36.57.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.37.37.png",
+            "size": 3354368,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.37.37.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n4mm3wqw",
+      "x": 21878.151952372955,
+      "y": 7891.874229046405,
+      "w": 320,
+      "h": 2358,
+      "group": null,
+      "data": {
+        "date": "2025-12-16",
+        "title": "ICON Starter Kit - Experience Video Animatic",
+        "type": "Sketch",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Visual communication",
+          "Video editing",
+          "Motion graphics"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Experience video",
+          "Interaction",
+          "Video",
+          "Storyboard",
+          "User experience"
+        ],
+        "desc": "We developed an animatic for the Experience Video to lay out the storyline we want to tell in the video and which video we will need to illustrate the interaction with the ICON Starter Kit.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-01 alle 23.52.05.png",
+            "size": 5255788,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.52.05.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.52.17.png",
+            "size": 2855624,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.52.17.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.52.29.png",
+            "size": 237436,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.52.29.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.52.38.png",
+            "size": 171453,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.52.38.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.52.49.png",
+            "size": 248626,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.52.49.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.52.53.png",
+            "size": 481363,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.52.53.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.53.02.png",
+            "size": 193715,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.53.02.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.53.05.png",
+            "size": 464629,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.53.05.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.53.16.png",
+            "size": 247832,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.53.16.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-01 alle 23.53.20.png",
+            "size": 161256,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-01_alle_23.53.20.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nuzbmjz2",
+      "x": 22864.73759927279,
+      "y": 7896.029711608727,
+      "w": 320,
+      "h": 1892,
+      "group": null,
+      "data": {
+        "date": "2026-01-20",
+        "title": "ICON Starter Kit - Experience Video",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Visual communication",
+          "Video editing",
+          "Media studies"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Experience video",
+          "Interaction",
+          "Video",
+          "User experience"
+        ],
+        "desc": "A prototype of the Experience Video, with real videos instead of animations.\nThe first part of the video will focus on introducing the viewer to the scenario by showing a series of news announcements about the diffusion of unregulated brand-speech, while the second part focuses on ICON's role on establishing a common language to mend the chaos and shows the incoming arrival of the ICON Starter Kit, its use and its components.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 00.01.56.png",
+            "size": 3965803,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.01.56.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.02.20.png",
+            "size": 3024853,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.02.20.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.02.36.png",
+            "size": 1497451,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.02.36.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.02.44.png",
+            "size": 3601690,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.02.44.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.02.54.png",
+            "size": 4409008,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.02.54.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.02.56.png",
+            "size": 4766385,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.02.56.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.02.59.png",
+            "size": 2263770,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.02.59.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n5v5ys3z",
+      "x": 23741.651347446823,
+      "y": 7901.26609159771,
+      "w": 320,
+      "h": 2526,
+      "group": null,
+      "data": {
+        "date": "2026-02-01",
+        "title": "ICON Starter Kit - Experience Video",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Design theory",
+          "Visual communication",
+          "Video editing",
+          "Media studies"
+        ],
+        "tags": [
+          "Icon starter kit",
+          "Experience video",
+          "Interaction",
+          "Video",
+          "User experience"
+        ],
+        "desc": "The final version of the Experience Video.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 00.07.46.png",
+            "size": 4018919,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.07.46.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.07.49.png",
+            "size": 3336457,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.07.49.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.08.17.png",
+            "size": 3111197,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.08.17.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.08.23.png",
+            "size": 3765369,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.08.23.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.08.27.png",
+            "size": 3296015,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.08.27.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.08.35.png",
+            "size": 3557883,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.08.35.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.08.37.png",
+            "size": 3535592,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.08.37.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.08.46.png",
+            "size": 3746569,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.08.46.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.08.52.png",
+            "size": 3563391,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.08.52.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.08.57.png",
+            "size": 156912,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.08.57.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.09.00.png",
+            "size": 156052,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.09.00.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ney1v9b0",
+      "x": 23819.925366043033,
+      "y": 4951.692841025903,
+      "w": 320,
+      "h": 997,
+      "group": null,
+      "data": {
+        "date": "2026-02-02",
+        "title": "",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Design theory",
+          "Data visualization",
+          "Publishing",
+          "Visual communication"
+        ],
+        "tags": [],
+        "desc": "",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 00.21.55.png",
+            "size": 93038,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.21.55.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.22.10.png",
+            "size": 325727,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.22.10.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-02 alle 00.22.26.png",
+            "size": 1705126,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_00.22.26.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nrv5n41x",
+      "x": 19935.277363785797,
+      "y": 13032.984906757032,
+      "w": 320,
+      "h": 1442,
+      "group": null,
+      "data": {
+        "date": "2026-02-01",
+        "title": "ICON Website",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Web design",
+          "Visual communication",
+          "Digital platform",
+          "User experience"
+        ],
+        "tags": [
+          "Icon",
+          "Website",
+          "Dictionary",
+          "Digital platform",
+          "Communication",
+          "Lexicon",
+          "Market",
+          "Ownership",
+          "Word acquisition"
+        ],
+        "desc": "The definitive website, with improved graphics, the market section and the restricted area.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-03 alle 10.09.32.png",
+            "size": 291229,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_alle_10.09.32.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-03 alle 10.09.41.png",
+            "size": 1164816,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_alle_10.09.41.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-03 alle 10.10.45.png",
+            "size": 1068879,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_alle_10.10.45.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-03 alle 10.10.58.png",
+            "size": 224275,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_alle_10.10.58.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-03 alle 10.11.07.png",
+            "size": 331748,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_alle_10.11.07.jpg"
+          },
+          {
+            "name": "Screenshot 2026-02-03 alle 10.11.17.png",
+            "size": 184691,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-03_alle_10.11.17.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n7xpjvl8",
+      "x": 19540.91547306638,
+      "y": 12367.293208079673,
+      "w": 320,
+      "h": 625,
+      "group": null,
+      "data": {
+        "date": "2026-02-01",
+        "title": "",
+        "type": "Output",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Web design",
+          "Visual communication",
+          "Digital platform",
+          "User experience"
+        ],
+        "tags": [
+          "Icon",
+          "Website",
+          "Dictionary",
+          "Digital platform",
+          "Communication",
+          "Lexicon",
+          "Market",
+          "Ownership",
+          "Word acquisition"
+        ],
+        "desc": "The Official Declaration of Linguistic Transfer is an official document issued by ICON to formalize the contractual link between a brand and an assigned word within the ICON linguistic system.  The document is delivered to the company and simultaneously archived in a dedicated restricted area of the ICON website.",
+        "links": [],
+        "files": [
+          {
+            "name": "Screenshot 2026-02-02 alle 14.11.36.png",
+            "size": 247922,
+            "type": "image/png",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Screenshot_2026-02-02_alle_14.11.36.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8fjlnk5",
+      "x": 18016.329005279793,
+      "y": 1101.6178003128464,
+      "w": 320,
+      "h": 406,
+      "group": null,
+      "data": {
+        "date": "2025-12-19",
+        "title": "Improving User Journey",
+        "type": "Feedback",
+        "action": null,
+        "mainArea": null,
+        "areas": [],
+        "tags": [],
+        "desc": "Feedback collected on the user journey of the ICON app highlighted a critical friction point in the onboarding phase. The presence of a “start” button requiring a click was identified as a usability issue, as it forces the user to rely on a mouse or an additional computer-based interaction, breaking the continuity of the experience. A more fluid solution was proposed: replacing the start button with a looping animation that visually invites the user to insert a tile into the physical device. The act of placing the first tile would naturally conclude the tutorial phase and seamlessly transition the interface to the translation mode.",
+        "links": [],
+        "files": []
       }
     }
   ],
@@ -10559,326 +12914,870 @@
       "s": "n9qrzd0m",
       "t": "n1b2qwcp",
       "dashed": false
+    },
+    {
+      "s": "njopwcz5",
+      "t": "n9240pna",
+      "dashed": false
+    },
+    {
+      "s": "nx8ett0q",
+      "t": "n9240pna",
+      "dashed": false
+    },
+    {
+      "s": "ncnvdtd6",
+      "t": "n2u9cyn7",
+      "dashed": false
+    },
+    {
+      "s": "n2u9cyn7",
+      "t": "n9240pna",
+      "dashed": false
+    },
+    {
+      "s": "nmdog5co",
+      "t": "nirpl0n3",
+      "dashed": false
+    },
+    {
+      "s": "nb7n032k",
+      "t": "n59r663l",
+      "dashed": false
+    },
+    {
+      "s": "nb7n032k",
+      "t": "nirpl0n3",
+      "dashed": false
+    },
+    {
+      "s": "nirpl0n3",
+      "t": "n8nuqge4",
+      "dashed": false
+    },
+    {
+      "s": "nb7n032k",
+      "t": "n8nuqge4",
+      "dashed": false
+    },
+    {
+      "s": "n7jezh08",
+      "t": "n8mc9q4p",
+      "dashed": false
+    },
+    {
+      "s": "nlwp22s2",
+      "t": "n8mc9q4p",
+      "dashed": false
+    },
+    {
+      "s": "nll8ghci",
+      "t": "n8mc9q4p",
+      "dashed": false
+    },
+    {
+      "s": "n8mc9q4p",
+      "t": "n9240pna",
+      "dashed": false
+    },
+    {
+      "s": "nw9cmlrm",
+      "t": "n8mc9q4p",
+      "dashed": false
+    },
+    {
+      "s": "nl5am0oo",
+      "t": "n8mc9q4p",
+      "dashed": false
+    },
+    {
+      "s": "n3aj4p05",
+      "t": "nvhvmy4n",
+      "dashed": false
+    },
+    {
+      "s": "nazgc85q",
+      "t": "n9240pna",
+      "dashed": false
+    },
+    {
+      "s": "nw9cmlrm",
+      "t": "n9240pna",
+      "dashed": false
+    },
+    {
+      "s": "ncnvdtd6",
+      "t": "n9240pna",
+      "dashed": false
+    },
+    {
+      "s": "nll8ghci",
+      "t": "n9240pna",
+      "dashed": false
+    },
+    {
+      "s": "nlbhnt1o",
+      "t": "nge4hzld",
+      "dashed": false
+    },
+    {
+      "s": "nll8ghci",
+      "t": "nivnrbbk",
+      "dashed": false
+    },
+    {
+      "s": "nw9cmlrm",
+      "t": "n8lw7cpo",
+      "dashed": false
+    },
+    {
+      "s": "n9kde1wj",
+      "t": "nivnrbbk",
+      "dashed": false
+    },
+    {
+      "s": "nb7n032k",
+      "t": "nivnrbbk",
+      "dashed": false
+    },
+    {
+      "s": "nl5am0oo",
+      "t": "nivnrbbk",
+      "dashed": false
+    },
+    {
+      "s": "nivnrbbk",
+      "t": "nibiakwi",
+      "dashed": false
+    },
+    {
+      "s": "nraa8bil",
+      "t": "n8mjwclw",
+      "dashed": false
+    },
+    {
+      "s": "nb7n032k",
+      "t": "n8mjwclw",
+      "dashed": false
+    },
+    {
+      "s": "nzo62yjv",
+      "t": "n8mjwclw",
+      "dashed": false
+    },
+    {
+      "s": "n7jezh08",
+      "t": "nud6ybxt",
+      "dashed": false
+    },
+    {
+      "s": "nud6ybxt",
+      "t": "nxbhuuip",
+      "dashed": false
+    },
+    {
+      "s": "n8nuqge4",
+      "t": "nssk7ou4",
+      "dashed": false
+    },
+    {
+      "s": "n1b2qwcp",
+      "t": "nmcq0mv5",
+      "dashed": false
+    },
+    {
+      "s": "nb7n032k",
+      "t": "nmcq0mv5",
+      "dashed": false
+    },
+    {
+      "s": "n5kpx5y7",
+      "t": "nmcq0mv5",
+      "dashed": false
+    },
+    {
+      "s": "nmgyewvp",
+      "t": "nmcq0mv5",
+      "dashed": false
+    },
+    {
+      "s": "nmcq0mv5",
+      "t": "nycs7wht",
+      "dashed": false
+    },
+    {
+      "s": "nycs7wht",
+      "t": "njp8xs96",
+      "dashed": false
+    },
+    {
+      "s": "n1b2qwcp",
+      "t": "njp8xs96",
+      "dashed": false
+    },
+    {
+      "s": "nivnrbbk",
+      "t": "njp8xs96",
+      "dashed": false
+    },
+    {
+      "s": "nibiakwi",
+      "t": "nqwxw3zn",
+      "dashed": false
+    },
+    {
+      "s": "nge4hzld",
+      "t": "nqwxw3zn",
+      "dashed": false
+    },
+    {
+      "s": "n9240pna",
+      "t": "ny5qlp1i",
+      "dashed": false
+    },
+    {
+      "s": "n5kpx5y7",
+      "t": "nmwpz21d",
+      "dashed": false
+    },
+    {
+      "s": "njopwcz5",
+      "t": "nmwpz21d",
+      "dashed": false
+    },
+    {
+      "s": "nw9cmlrm",
+      "t": "nmwpz21d",
+      "dashed": false
+    },
+    {
+      "s": "n8lw7cpo",
+      "t": "nmwpz21d",
+      "dashed": false
+    },
+    {
+      "s": "ncnvdtd6",
+      "t": "nmwpz21d",
+      "dashed": false
+    },
+    {
+      "s": "n8mc9q4p",
+      "t": "nmwpz21d",
+      "dashed": false
+    },
+    {
+      "s": "nud6ybxt",
+      "t": "nmwpz21d",
+      "dashed": false
+    },
+    {
+      "s": "njopwcz5",
+      "t": "ni2m07ij",
+      "dashed": false
+    },
+    {
+      "s": "n9240pna",
+      "t": "ni2m07ij",
+      "dashed": false
+    },
+    {
+      "s": "nazgc85q",
+      "t": "ni2m07ij",
+      "dashed": false
+    },
+    {
+      "s": "ni2m07ij",
+      "t": "nh0xceii",
+      "dashed": false
+    },
+    {
+      "s": "n2u9cyn7",
+      "t": "npyae4jo",
+      "dashed": false
+    },
+    {
+      "s": "n8mc9q4p",
+      "t": "nmmcospn",
+      "dashed": false
+    },
+    {
+      "s": "nivnrbbk",
+      "t": "n0pywoph",
+      "dashed": false
+    },
+    {
+      "s": "nqwxw3zn",
+      "t": "n0pywoph",
+      "dashed": false
+    },
+    {
+      "s": "ny5qlp1i",
+      "t": "n0i7t3ez",
+      "dashed": false
+    },
+    {
+      "s": "n8mjwclw",
+      "t": "n0i7t3ez",
+      "dashed": false
+    },
+    {
+      "s": "nge4hzld",
+      "t": "n0i7t3ez",
+      "dashed": false
+    },
+    {
+      "s": "njopwcz5",
+      "t": "nvhvmy4n",
+      "dashed": false
+    },
+    {
+      "s": "n0i7t3ez",
+      "t": "nqvam662",
+      "dashed": false
+    },
+    {
+      "s": "nh0xceii",
+      "t": "nqvam662",
+      "dashed": false
+    },
+    {
+      "s": "nvhvmy4n",
+      "t": "ne874vl1",
+      "dashed": false
+    },
+    {
+      "s": "nmmcospn",
+      "t": "nfgnqbtm",
+      "dashed": false
+    },
+    {
+      "s": "n0pywoph",
+      "t": "nhkqxl8q",
+      "dashed": false
+    },
+    {
+      "s": "nivnrbbk",
+      "t": "nhkqxl8q",
+      "dashed": false
+    },
+    {
+      "s": "npyae4jo",
+      "t": "nuwhasao",
+      "dashed": false
+    },
+    {
+      "s": "nqwxw3zn",
+      "t": "nzubltqq",
+      "dashed": false
+    },
+    {
+      "s": "nzubltqq",
+      "t": "nqvam662",
+      "dashed": false
+    },
+    {
+      "s": "nqwxw3zn",
+      "t": "nh0xceii",
+      "dashed": false
+    },
+    {
+      "s": "nfgnqbtm",
+      "t": "n8nphehi",
+      "dashed": false
+    },
+    {
+      "s": "n8nphehi",
+      "t": "nqvam662",
+      "dashed": false
+    },
+    {
+      "s": "nmmcospn",
+      "t": "nh0xceii",
+      "dashed": false
+    },
+    {
+      "s": "nhkqxl8q",
+      "t": "nkaxl8iq",
+      "dashed": false
+    },
+    {
+      "s": "nmwpz21d",
+      "t": "ndhb0di5",
+      "dashed": false
+    },
+    {
+      "s": "nqvam662",
+      "t": "nzd8in3g",
+      "dashed": false
+    },
+    {
+      "s": "nuwhasao",
+      "t": "nzd8in3g",
+      "dashed": false
+    },
+    {
+      "s": "nlwp22s2",
+      "t": "nzd8in3g",
+      "dashed": false
+    },
+    {
+      "s": "nzubltqq",
+      "t": "nzd8in3g",
+      "dashed": false
+    },
+    {
+      "s": "n8lw7cpo",
+      "t": "nzd8in3g",
+      "dashed": false
+    },
+    {
+      "s": "nfgnqbtm",
+      "t": "nzd8in3g",
+      "dashed": false
+    },
+    {
+      "s": "n8nphehi",
+      "t": "nzd8in3g",
+      "dashed": false
+    },
+    {
+      "s": "nh0xceii",
+      "t": "nzd8in3g",
+      "dashed": false
+    },
+    {
+      "s": "ne874vl1",
+      "t": "nqvam662",
+      "dashed": false
+    },
+    {
+      "s": "nzd8in3g",
+      "t": "ndhb0di5",
+      "dashed": false
+    },
+    {
+      "s": "n5kpx5y7",
+      "t": "n4mm3wqw",
+      "dashed": false
+    },
+    {
+      "s": "nb7n032k",
+      "t": "n4mm3wqw",
+      "dashed": false
+    },
+    {
+      "s": "nlbrouqw",
+      "t": "n4mm3wqw",
+      "dashed": false
+    },
+    {
+      "s": "n4mm3wqw",
+      "t": "nmwpz21d",
+      "dashed": false
+    },
+    {
+      "s": "nmwpz21d",
+      "t": "nuzbmjz2",
+      "dashed": false
+    },
+    {
+      "s": "ndhb0di5",
+      "t": "n5v5ys3z",
+      "dashed": false
+    },
+    {
+      "s": "nuzbmjz2",
+      "t": "n5v5ys3z",
+      "dashed": false
+    },
+    {
+      "s": "n25kvg7o",
+      "t": "ney1v9b0",
+      "dashed": false
+    },
+    {
+      "s": "njp8xs96",
+      "t": "nrv5n41x",
+      "dashed": false
+    },
+    {
+      "s": "nlbrouqw",
+      "t": "nycs7wht",
+      "dashed": false
+    },
+    {
+      "s": "nxmmblsm",
+      "t": "nycs7wht",
+      "dashed": false
+    },
+    {
+      "s": "nwbhrp36",
+      "t": "nycs7wht",
+      "dashed": false
+    },
+    {
+      "s": "nl5am0oo",
+      "t": "njp8xs96",
+      "dashed": false
+    },
+    {
+      "s": "n7xpjvl8",
+      "t": "nrv5n41x",
+      "dashed": false
+    },
+    {
+      "s": "nb7n032k",
+      "t": "n7xpjvl8",
+      "dashed": false
+    },
+    {
+      "s": "nl5am0oo",
+      "t": "n7xpjvl8",
+      "dashed": false
+    },
+    {
+      "s": "nwbhrp36",
+      "t": "n7xpjvl8",
+      "dashed": false
+    },
+    {
+      "s": "nvhvmy4n",
+      "t": "nqvam662",
+      "dashed": false
+    },
+    {
+      "s": "n7jezh08",
+      "t": "n8fjlnk5",
+      "dashed": false
+    },
+    {
+      "s": "nzd8in3g",
+      "t": "ney1v9b0",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
-      "Visual documentation",
-      "Photography",
-      "Product design",
-      "User interaction",
-      "Visual communication",
-      "Data visualization",
-      "Language learning",
-      "Brand theory",
-      "Media theory",
-      "Governance",
-      "Cultural studies",
-      "Linguistics",
-      "Emotional capitalism",
-      "Consumer culture",
-      "Gamification",
-      "Trust recovery",
-      "Symbolic redefinition",
-      "Rebranding",
-      "Reputation",
-      "Symbolic affiliation",
-      "Symbolic conflict",
-      "Social ranking",
-      "Universal meaning",
-      "Conflict",
-      "Belonging",
-      "Autonomy",
-      "Symbolic awareness",
-      "Symbolic alignment",
-      "Unconscious influence",
-      "Hierarchy",
-      "Identity politics",
-      "Symbolic devotion",
-      "Extremism",
-      "Fanaticism",
-      "Prohibition",
-      "Style",
-      "Radicalization",
-      "Abstract conflict",
-      "Ideation",
-      "Symbolic meaning",
-      "Critical theory",
-      "Design research",
-      "Socio-political",
-      "Critical design",
-      "Language",
-      "Scenarios",
-      "Democracy",
-      "Economy",
-      "Randomness",
-      "Neutrality",
-      "Scensarios",
-      "Morphology",
-      "Politics",
-      "Psychology",
-      "Interpretation",
-      "Graphic design",
-      "Social media",
-      "Meme culture",
-      "Adbusting",
-      "Medicine",
-      "Representation",
-      "Healthcare",
-      "Symbolic transformation",
-      "Meaning loss",
-      "Conformity",
-      "Censorship",
-      "Ethics",
-      "Debate",
-      "Monuments",
-      "Multiverse",
-      "Perception",
-      "Communication",
-      "Social critique",
-      "Symbolic saturation",
-      "Iconoclasm",
-      "Ideology",
-      "Power dynamics",
-      "Appropriation",
-      "Transculturation",
-      "Product symbolism",
-      "Religion",
-      "Historical memory",
-      "Culture",
-      "Society",
-      "Identity",
-      "Youth culture",
-      "Group dynamics",
-      "Institutional identity",
-      "Sorting system",
-      "User research",
-      "Data collection",
-      "Visual language",
-      "Web design",
-      "Publishing",
-      "Educational technology",
-      "Algorithmic system",
-      "User experience",
-      "Semiotics",
-      "Branding",
-      "Language design",
-      "Visual culture",
       "Media studies",
       "Video editing",
-      "Communication studies",
+      "Visual culture",
+      "User experience",
       "Digital platform",
-      "Motion graphics",
+      "Web design",
+      "Branding",
+      "Prototyping",
       "Interaction design",
-      "Design theory",
-      "Prototyping"
+      "Motion graphics",
+      "Communication studies",
+      "Language design",
+      "Semiotics",
+      "Algorithmic system",
+      "Educational technology",
+      "Visual language",
+      "Data collection",
+      "User research",
+      "Sorting system",
+      "Institutional identity",
+      "Group dynamics",
+      "Youth culture",
+      "Identity",
+      "Society",
+      "Culture",
+      "Historical memory",
+      "Religion",
+      "Product symbolism",
+      "Transculturation",
+      "Appropriation",
+      "Power dynamics",
+      "Ideology",
+      "Iconoclasm",
+      "Symbolic saturation",
+      "Social critique",
+      "Communication",
+      "Perception",
+      "Multiverse",
+      "Monuments",
+      "Debate",
+      "Ethics",
+      "Censorship",
+      "Conformity",
+      "Meaning loss",
+      "Symbolic transformation",
+      "Healthcare",
+      "Representation",
+      "Medicine",
+      "Adbusting",
+      "Meme culture",
+      "Social media",
+      "Graphic design",
+      "Interpretation",
+      "Psychology",
+      "Politics",
+      "Morphology",
+      "Scensarios",
+      "Neutrality",
+      "Randomness",
+      "Economy",
+      "Democracy",
+      "Scenarios",
+      "Language",
+      "Critical design",
+      "Socio-political",
+      "Design research",
+      "Critical theory",
+      "Symbolic meaning",
+      "Ideation",
+      "Abstract conflict",
+      "Radicalization",
+      "Style",
+      "Prohibition",
+      "Fanaticism",
+      "Extremism",
+      "Symbolic devotion",
+      "Identity politics",
+      "Hierarchy",
+      "Unconscious influence",
+      "Symbolic alignment",
+      "Symbolic awareness",
+      "Autonomy",
+      "Belonging",
+      "Conflict",
+      "Universal meaning",
+      "Social ranking",
+      "Symbolic conflict",
+      "Symbolic affiliation",
+      "Reputation",
+      "Rebranding",
+      "Symbolic redefinition",
+      "Trust recovery",
+      "Gamification",
+      "Consumer culture",
+      "Emotional capitalism",
+      "Linguistics",
+      "Cultural studies",
+      "Governance",
+      "Media theory",
+      "Language learning",
+      "User interaction",
+      "Product design",
+      "Photography",
+      "Brand theory",
+      "Data visualization",
+      "Publishing",
+      "Visual communication",
+      "Design theory"
     ],
     "tags": [
-      "Lexicon",
-      "Communication",
-      "Digital platform",
-      "Dictionary",
-      "Website",
-      "Icon",
-      "Teaser",
-      "App",
-      "Ap",
-      "Layout",
-      "Tile",
-      "Icon starter kit",
-      "Assembly",
-      "Materials",
-      "Layut",
-      "Visual language",
-      "Poster design",
-      "Identity",
-      "Visual identity",
-      "Cover design",
-      "Packaging",
-      "Technical drawing",
-      "System stability",
       "Tutorial",
       "Usability",
-      "Interaction",
-      "App design",
-      "Interface",
-      "Arduino",
-      "Connectivity",
-      "Soldering",
-      "Nfc",
-      "Logo",
-      "Lexiconù",
-      "Learning",
-      "Interactive device",
-      "Starter kit",
-      "Language system",
-      "Symbolism",
-      "Branding",
-      "Golden circle",
-      "Symbols",
-      "Posters",
-      "Translator",
-      "Device",
-      "Mission",
-      "Vision",
-      "Standardization",
-      "Institution",
-      "Commercialization",
-      "Meaning",
-      "Power",
-      "Ownership",
-      "Consumerism",
-      "Privatization",
-      "Emotion",
-      "Control",
-      "What if?",
-      "Symbolic conflict",
-      "Insight",
-      "Transculturation",
-      "Scandals",
-      "Symbolic decision",
-      "Health",
-      "Science",
-      "Neutralization",
-      "Cultural conflict",
-      "Deflation of meaning",
-      "Overexposure",
-      "Regulation",
-      "Universal language",
-      "Self-recognition",
-      "Conflict",
-      "Alcohol",
-      "Tobacco",
-      "Signs vs symbols",
-      "Mangano & sedda",
-      "Social identity theory",
-      "Bourdieu",
-      "Radicalization",
-      "Association",
-      "Subculture",
-      "Radical identity",
-      "Fanaticism",
-      "Youth",
-      "Nationalism",
-      "Media",
-      "Fame",
-      "Gender",
-      "Destruction",
-      "Rivalry",
-      "Religion vs science",
-      "Semiotic inflation",
-      "Brief",
-      "Starting point",
-      "Sport",
-      "Case study",
-      "Politics",
-      "Linguistics",
-      "Prohibition",
-      "Storytelling",
-      "Justice",
-      "Morphology",
-      "Randomness",
-      "Appropriation",
-      "Subconscious",
-      "Inversion",
-      "Neutrality",
-      "Manipulation",
-      "Chance",
-      "Peirce",
-      "Barthes",
-      "Jakobson",
-      "Kress & van leeuwen",
-      "Theory",
-      "Adbusting",
-      "Symbol language",
-      "Speculative",
-      "Passive consumption",
-      "Research",
-      "Group behavior",
-      "Healthcare",
-      "Rebranding",
-      "Debate",
-      "Censorship",
-      "Economy",
-      "Market",
-      "History",
-      "Religion",
-      "Society",
-      "Semiotics",
-      "Perception",
-      "Sign saturation",
-      "Communication overload",
-      "Cognitive overload",
-      "Ethics",
-      "Public space",
-      "Monuments",
-      "Ideology",
-      "Symbolic violence",
-      "Cancel culture",
-      "Historical memory",
-      "Tradition",
-      "Legacy",
-      "Group dynamics",
-      "Protest",
-      "Belonging",
-      "Culture",
-      "Aesthetics",
-      "Brand analysis",
-      "Word assignment",
-      "Survey data",
-      "Survey",
-      "Word association",
-      "Brand perception",
-      "User input",
-      "Slider",
-      "Voting",
-      "Values",
-      "Immediate communication",
-      "Universalit",
-      "Tone of voice",
-      "Irreverence",
-      "Auction",
-      "Brand",
-      "Word acquisition",
-      "Simulation",
-      "User participation",
-      "Moodboard",
-      "Light diffusion",
-      "Visual guidance",
-      "Led",
-      "Slot labeling",
-      "Algorithm",
-      "Sentence generation",
-      "Translation",
-      "Database",
-      "Transparency",
-      "Brand associations",
-      "Language",
-      "Machine",
-      "Modularity",
-      "Storyboard",
-      "Touchdesigner",
-      "Prototyping",
-      "Authority",
-      "Palette",
-      "Typography",
-      "Payoff",
-      "Strategy",
-      "Language learning",
       "User journey",
+      "Visual identity",
+      "Starter kit",
+      "Interface",
+      "Printing",
+      "Visual language",
+      "Poster design",
+      "App",
+      "Testing",
+      "Strategy",
+      "Payoff",
+      "Typography",
+      "Palette",
+      "Authority",
+      "Touchdesigner",
+      "Modularity",
+      "Machine",
+      "Language",
+      "Brand associations",
+      "Transparency",
+      "Database",
+      "Translation",
+      "Sentence generation",
+      "Algorithm",
+      "Slot labeling",
+      "Led",
+      "Visual guidance",
+      "Light diffusion",
+      "Moodboard",
+      "User participation",
+      "Simulation",
+      "Brand",
+      "Auction",
+      "Irreverence",
+      "Tone of voice",
+      "Universalit",
+      "Immediate communication",
+      "Values",
+      "Voting",
+      "Slider",
+      "User input",
+      "Brand perception",
+      "Word association",
+      "Survey",
+      "Survey data",
+      "Word assignment",
+      "Brand analysis",
+      "Aesthetics",
+      "Culture",
+      "Belonging",
+      "Protest",
+      "Group dynamics",
+      "Legacy",
+      "Tradition",
+      "Historical memory",
+      "Cancel culture",
+      "Symbolic violence",
+      "Ideology",
+      "Monuments",
+      "Public space",
+      "Ethics",
+      "Cognitive overload",
+      "Communication overload",
+      "Sign saturation",
+      "Perception",
+      "Semiotics",
+      "Society",
+      "Religion",
+      "History",
+      "Economy",
+      "Censorship",
+      "Debate",
+      "Rebranding",
+      "Healthcare",
+      "Group behavior",
+      "Research",
+      "Passive consumption",
+      "Speculative",
+      "Symbol language",
+      "Adbusting",
+      "Theory",
+      "Kress & van leeuwen",
+      "Jakobson",
+      "Barthes",
+      "Peirce",
+      "Chance",
+      "Manipulation",
+      "Neutrality",
+      "Inversion",
+      "Subconscious",
+      "Appropriation",
+      "Randomness",
+      "Morphology",
+      "Justice",
+      "Storytelling",
+      "Prohibition",
+      "Linguistics",
+      "Politics",
+      "Case study",
+      "Sport",
+      "Starting point",
+      "Brief",
+      "Semiotic inflation",
+      "Religion vs science",
+      "Rivalry",
+      "Destruction",
+      "Gender",
+      "Fame",
+      "Media",
+      "Nationalism",
+      "Youth",
+      "Fanaticism",
+      "Radical identity",
+      "Subculture",
+      "Association",
+      "Radicalization",
+      "Bourdieu",
+      "Social identity theory",
+      "Mangano & sedda",
+      "Signs vs symbols",
+      "Tobacco",
+      "Alcohol",
+      "Conflict",
+      "Self-recognition",
+      "Universal language",
+      "Regulation",
+      "Overexposure",
+      "Deflation of meaning",
+      "Cultural conflict",
+      "Neutralization",
+      "Science",
+      "Health",
+      "Symbolic decision",
+      "Scandals",
+      "Transculturation",
+      "Insight",
+      "Symbolic conflict",
+      "What if?",
+      "Control",
+      "Emotion",
+      "Privatization",
+      "Consumerism",
+      "Power",
+      "Meaning",
+      "Commercialization",
+      "Institution",
+      "Standardization",
+      "Vision",
+      "Mission",
+      "Device",
+      "Translator",
+      "Posters",
+      "Symbols",
+      "Golden circle",
+      "Branding",
+      "Symbolism",
+      "Language system",
+      "Interactive device",
+      "Learning",
+      "Logo",
+      "Nfc",
+      "Soldering",
+      "Connectivity",
+      "Arduino",
+      "App design",
+      "System stability",
+      "Technical drawing",
+      "Assembly",
+      "Teaser",
+      "Layout",
+      "Bookmark",
       "Prototype",
-      "Testing"
+      "Tile",
+      "Tile holder",
+      "Exercise cards",
+      "Language learning",
+      "Materials",
+      "Packaging",
+      "Cover design",
+      "Identity",
+      "Storyboard",
+      "Prototyping",
+      "Icon starter kit",
+      "Experience video",
+      "Interaction",
+      "Video",
+      "User experience",
+      "Icon",
+      "Website",
+      "Dictionary",
+      "Digital platform",
+      "Communication",
+      "Lexicon",
+      "Market",
+      "Ownership",
+      "Word acquisition"
     ],
     "type": [
-      "Artefact",
-      "Decision",
-      "Sketch",
+      "Output",
       "Concept",
-      "Observation",
-      "Collection",
+      "Decision",
+      "Source",
       "Brief",
-      "Feedback",
-      "Source"
+      "Collection",
+      "Observation",
+      "Sketch",
+      "Artefact",
+      "Feedback"
     ]
   }
 }
