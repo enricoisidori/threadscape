@@ -3601,8 +3601,8 @@
     },
     {
       "id": "nz6cgtp5",
-      "x": 36445.05268375766,
-      "y": 1531.012102184651,
+      "x": 36241.05268375766,
+      "y": 3171.0121021846508,
       "w": 320,
       "h": 614,
       "group": null,
@@ -4387,8 +4387,8 @@
     },
     {
       "id": "nca1dhls",
-      "x": 31880.93368008124,
-      "y": 2038.716034238877,
+      "x": 31870.61995069606,
+      "y": 2074.814087087023,
       "w": 320,
       "h": 890,
       "group": null,
@@ -4497,8 +4497,8 @@
     },
     {
       "id": "n005965c",
-      "x": 33737.489418403005,
-      "y": 1468.343229687133,
+      "x": 33933.489418403005,
+      "y": 1476.343229687133,
       "w": 320,
       "h": 1269,
       "group": null,
@@ -4544,8 +4544,8 @@
     },
     {
       "id": "n76j7c9u",
-      "x": 33226.07156921469,
-      "y": 1871.9686195046415,
+      "x": 33518.07156921469,
+      "y": 2187.9686195046415,
       "w": 320,
       "h": 866,
       "group": null,
@@ -4684,10 +4684,10 @@
     },
     {
       "id": "n24q00wc",
-      "x": 36436.90229735755,
-      "y": 1309.456877976495,
+      "x": 36140.90229735755,
+      "y": 4026.4255890488885,
       "w": 320,
-      "h": 165,
+      "h": 785,
       "group": null,
       "data": {
         "date": "2026-02-03",
@@ -4697,15 +4697,32 @@
         "mainArea": null,
         "areas": [],
         "tags": [],
-        "desc": "",
+        "desc": "trenta :)",
         "links": [],
-        "files": []
+        "files": [
+          {
+            "name": "PHOTO-2026-02-03-13-34-10.jpg",
+            "size": 86711,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/PHOTO-2026-02-03-13-34-10.jpg"
+          },
+          {
+            "name": "presentazione_finale_03.02.pdf",
+            "size": 10148470,
+            "type": "application/pdf",
+            "isImage": false,
+            "isPDF": true,
+            "path": "assets/presentazione_finale_03.02.pdf"
+          }
+        ]
       }
     },
     {
       "id": "n5cl9p41",
-      "x": 31512.834508563396,
-      "y": 5652.221983747752,
+      "x": 31027.107995879596,
+      "y": 5767.3942496418495,
       "w": 320,
       "h": 578,
       "group": null,
@@ -4741,8 +4758,8 @@
     },
     {
       "id": "nks5h329",
-      "x": 32049.27365082164,
-      "y": 5326.281731382654,
+      "x": 32432.412420381184,
+      "y": 5867.891510341166,
       "w": 320,
       "h": 1729,
       "group": null,
@@ -4791,7 +4808,7 @@
       "x": 31878.876099696186,
       "y": 3929.5841563377194,
       "w": 320,
-      "h": 802,
+      "h": 1062,
       "group": null,
       "data": {
         "date": "2026-01-19",
@@ -4805,7 +4822,7 @@
           "Interaction"
         ],
         "tags": [],
-        "desc": "Making the final version of the map that will be used on the website, in the box and will be animated during the interaction",
+        "desc": "Making the final version of the map that will be used on the website, in the box and will be animated during the interaction. Moodboard of photographic maps with graphic symbols\nTests of image opacity variations, stroke thicknesses, colors...",
         "links": [],
         "files": [
           {
@@ -4823,19 +4840,27 @@
             "isImage": true,
             "isPDF": false,
             "path": "assets/WhatsApp_Image_2026-02-04_at_21.53.26.jpg"
+          },
+          {
+            "name": "maps.jpg",
+            "size": 1663651,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/maps.jpg"
           }
         ]
       }
     },
     {
       "id": "nravdnfw",
-      "x": 32523.52712944575,
-      "y": 5330.644455231911,
+      "x": 32766.44170212523,
+      "y": 5288.1064414103375,
       "w": 320,
-      "h": 282,
+      "h": 349,
       "group": null,
       "data": {
-        "date": "2026-02-15",
+        "date": "2026-01-31",
         "title": "Second and final version of the website",
         "type": "Artefact",
         "action": "Making",
@@ -4844,7 +4869,7 @@
           "Website"
         ],
         "tags": [],
-        "desc": "Developed a new version of the website. Bought the domain and deployed it. The final version is available online.",
+        "desc": "Developed a new version of the website. Bought the domain and deployed it. Programming in Visual Studio Code → starting from Simone's folder, fixed text size and element hierarchy, spacing, added definitive images, added fade-in transitions to scrolling texts and elements (cards). The final version is available online. ",
         "links": [
           "treeal.co"
         ],
@@ -4977,6 +5002,287 @@
             "isImage": false,
             "isPDF": false,
             "path": "assets/PM10_Oak.mp4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n0lihpv4",
+      "x": 32394.40417754764,
+      "y": 1316.6810173050844,
+      "w": 320,
+      "h": 587,
+      "group": null,
+      "data": {
+        "date": "2026-01-11",
+        "title": "Table",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction"
+        ],
+        "tags": [],
+        "desc": "Writing the table design → defining the materials, internal structure, defining the necessary components (two shelves for the computer and Arduino; holes for cable routing), calculating the dimensions and distances of the elements\nObtaining the materials for the internal structure → 10mm MDF\nConstruction of the internal structure of the table → 60cm x 90cm rectangle with support strips for the panel we would place around it",
+        "links": [],
+        "files": [
+          {
+            "name": "Antidisciplinary Design.jpg",
+            "size": 1438011,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/Antidisciplinary_Design.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n9ulyf7x",
+      "x": 32374.18740000763,
+      "y": 2116.666679231332,
+      "w": 320,
+      "h": 426,
+      "group": null,
+      "data": {
+        "date": "2026-01-12",
+        "title": "table",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction"
+        ],
+        "tags": [],
+        "desc": "Take the panel materials and wrap them around the frame to create the cylindrical shape → 2mm MDF\nBuild the cylinder and the \"door\" to remove and replace to allow for the insertion of elements inside the table (computer, etc.)",
+        "links": [],
+        "files": [
+          {
+            "name": "12 gennaio.jpg",
+            "size": 1265521,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/12_gennaio.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n8va5pwp",
+      "x": 32839.9849162555,
+      "y": 1532.8269263187024,
+      "w": 320,
+      "h": 357,
+      "group": null,
+      "data": {
+        "date": "2026-01-19",
+        "title": "Table",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Interaction"
+        ],
+        "tags": [],
+        "desc": "Gathered the materials for the table top → 15mm MDF (two 85x85cm panels)\nBuild the circle (1. Glue the two panels together 2. Cut the circle shape)\nCut to insert the tree base (15mm thick and 35mm in diameter)",
+        "links": [],
+        "files": [
+          {
+            "name": "026d7e21411987756d45f456c090fd050001250e.mov",
+            "size": 9526230,
+            "type": "video/quicktime",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/026d7e21411987756d45f456c090fd050001250e.mov"
+          },
+          {
+            "name": "202f63554cba98b59205e439c16e8ae15c8e6cef.mov",
+            "size": 20786628,
+            "type": "video/quicktime",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/202f63554cba98b59205e439c16e8ae15c8e6cef.mov"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n1hwwg6z",
+      "x": 32831.32438546011,
+      "y": 2017.8166508605311,
+      "w": 320,
+      "h": 541,
+      "group": null,
+      "data": {
+        "date": "2026-01-20",
+        "title": "Table",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Interaction"
+        ],
+        "tags": [],
+        "desc": "Cut out the spaces to hold the wooden cubes and the lens (3mm thick, 5x5cm)\nHoles for cables to pass through on and off the table\nCut eight cubes of different types of wood",
+        "links": [],
+        "files": [
+          {
+            "name": "20 gennaio.jpg",
+            "size": 2547721,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/20_gennaio.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "njjynuo5",
+      "x": 33370.85644055031,
+      "y": 1529.3533233536123,
+      "w": 320,
+      "h": 510,
+      "group": null,
+      "data": {
+        "date": "2026-01-22",
+        "title": "Table",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Interaction",
+        "areas": [
+          "Interaction"
+        ],
+        "tags": [],
+        "desc": "painting and assembling the tree parts on the table",
+        "links": [],
+        "files": [
+          {
+            "name": "22 gennaio.jpg",
+            "size": 691829,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/22_gennaio.jpg"
+          },
+          {
+            "name": "47c118a79b9ce3cec90f5f0eb747da1abab55d0c.mov",
+            "size": 10123071,
+            "type": "video/quicktime",
+            "isImage": false,
+            "isPDF": false,
+            "path": "assets/47c118a79b9ce3cec90f5f0eb747da1abab55d0c.mov"
+          }
+        ]
+      }
+    },
+    {
+      "id": "n2f4k2h8",
+      "x": 31523.730979932316,
+      "y": 5286.341467236911,
+      "w": 320,
+      "h": 2170,
+      "group": null,
+      "data": {
+        "date": "2026-01-05",
+        "title": "Ideas for the website",
+        "type": "Artefact",
+        "action": "Exploring",
+        "mainArea": "Communication",
+        "areas": [
+          "Website"
+        ],
+        "tags": [],
+        "desc": "Moodboard of pages and websites aligned with our business (companies selling energy or sustainable solutions)\nSite research and selection of sections to include in our website\nPage and content definition, followed by drafting of titles, subtitles, and text\nPage layout tests, design of various sections (header, text section, cards, footer) and components (buttons, text size, spacing)",
+        "links": [],
+        "files": [
+          {
+            "name": "a.jpg",
+            "size": 446061,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/a.jpg"
+          },
+          {
+            "name": "b.jpg",
+            "size": 372923,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/b.jpg"
+          },
+          {
+            "name": "c.jpg",
+            "size": 256030,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/c.jpg"
+          },
+          {
+            "name": "d.jpg",
+            "size": 295853,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/d.jpg"
+          },
+          {
+            "name": "e.jpg",
+            "size": 412115,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/e.jpg"
+          },
+          {
+            "name": "f.jpg",
+            "size": 244207,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/f.jpg"
+          },
+          {
+            "name": "g.jpg",
+            "size": 212288,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/g.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ni3xiyde",
+      "x": 33071.35687706519,
+      "y": 6077.930192910063,
+      "w": 320,
+      "h": 543,
+      "group": null,
+      "data": {
+        "date": "2026-01-27",
+        "title": "Finalizing user page",
+        "type": "Artefact",
+        "action": "Making",
+        "mainArea": "Communication",
+        "areas": [
+          "Website"
+        ],
+        "tags": [],
+        "desc": "Data widget moodboard\nPage redesign based on Simone's layout\nModified some widgets (added the water widgets and split the CO2 and O2 widgets into two separate ones) (changed some graphs and added descriptions or units of measurement for time, quantity, etc.)",
+        "links": [],
+        "files": [
+          {
+            "name": "widget.jpg",
+            "size": 918689,
+            "type": "image/jpeg",
+            "isImage": true,
+            "isPDF": false,
+            "path": "assets/widget.jpg"
           }
         ]
       }
@@ -6172,13 +6478,89 @@
       "s": "nclasde6",
       "t": "n24q00wc",
       "dashed": false
+    },
+    {
+      "s": "nw56a7cu",
+      "t": "nclasde6",
+      "dashed": false
+    },
+    {
+      "s": "nw56a7cu",
+      "t": "nca1dhls",
+      "dashed": false
+    },
+    {
+      "s": "nca1dhls",
+      "t": "n0lihpv4",
+      "dashed": false
+    },
+    {
+      "s": "n0lihpv4",
+      "t": "n9ulyf7x",
+      "dashed": false
+    },
+    {
+      "s": "n9ulyf7x",
+      "t": "n8va5pwp",
+      "dashed": false
+    },
+    {
+      "s": "n8va5pwp",
+      "t": "n1hwwg6z",
+      "dashed": false
+    },
+    {
+      "s": "n1hwwg6z",
+      "t": "njjynuo5",
+      "dashed": false
+    },
+    {
+      "s": "njjynuo5",
+      "t": "n76j7c9u",
+      "dashed": false
+    },
+    {
+      "s": "njjynuo5",
+      "t": "n1xo2mqc",
+      "dashed": false
+    },
+    {
+      "s": "nqbuyacp",
+      "t": "n2f4k2h8",
+      "dashed": false
+    },
+    {
+      "s": "n2f4k2h8",
+      "t": "nravdnfw",
+      "dashed": false
+    },
+    {
+      "s": "nravdnfw",
+      "t": "n24q00wc",
+      "dashed": false
+    },
+    {
+      "s": "nks5h329",
+      "t": "ni3xiyde",
+      "dashed": false
+    },
+    {
+      "s": "ni3xiyde",
+      "t": "n24q00wc",
+      "dashed": false
+    },
+    {
+      "s": "nw56a7cu",
+      "t": "nx3u3ubu",
+      "dashed": false
     }
   ],
   "vocab": {
     "areas": [
+      "Website",
+      "Ideas for the website",
       "Interaction",
       "Main video",
-      "Website",
       "Box",
       "Communication",
       "Presentation",
