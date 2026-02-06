@@ -1242,10 +1242,285 @@
         border-color: #ffffff;
       }
     </style>
+    <style>
+      /* Light grayscale theme overrides (keeps existing structure/behavior) */
+      :root {
+        --bg: #f2f2f2;
+        --panel: #ffffff;
+        --panel-soft: #f7f7f7;
+        --ink: #111111;
+        --muted: #5f5f5f;
+        --line: #d4d4d4;
+        --line-w: 0.75px;
+        --hover-light: #222222;
+        --btn-hover: rgba(0, 0, 0, 0.08);
+        --btn-active: rgba(0, 0, 0, 0.14);
+        --field: #ffffff;
+        --field-hover: #f4f4f4;
+        --field-focus-ring: rgba(0, 0, 0, 0.18);
+        --chip: #ececec;
+        --chip-hover: #dfdfdf;
+        --chip-active: #d2d2d2;
+      }
+
+      ::selection {
+        background: rgba(0, 0, 0, 0.16);
+        color: #111111;
+      }
+      ::-moz-selection {
+        background: rgba(0, 0, 0, 0.16);
+        color: #111111;
+      }
+
+      body {
+        background: var(--bg) !important;
+        color: var(--ink) !important;
+      }
+      header {
+        background: var(--panel-soft) !important;
+        border-bottom: var(--line-w) solid var(--line) !important;
+      }
+      button {
+        background: var(--panel);
+        color: var(--ink);
+        border: var(--line-w) solid var(--line);
+      }
+      header button,
+      .icon-btn,
+      #btnChoose.icon-btn,
+      #btnHelp.icon-btn,
+      #helpOverlay .icon-btn {
+        border: none !important;
+        background: transparent !important;
+        color: var(--ink) !important;
+      }
+      header button:hover,
+      .icon-btn:hover,
+      #btnChoose.icon-btn:hover,
+      #btnHelp.icon-btn:hover,
+      #helpOverlay .icon-btn:hover {
+        background: var(--btn-hover) !important;
+      }
+      header button:active,
+      .icon-btn:active,
+      #btnChoose.icon-btn:active,
+      #btnHelp.icon-btn:active,
+      #helpOverlay .icon-btn:active {
+        background: var(--btn-active) !important;
+      }
+
+      #stage {
+        background: var(--bg) !important;
+        background-image: linear-gradient(#dddddd 1px, transparent 1px),
+          linear-gradient(90deg, #dddddd 1px, transparent 1px) !important;
+      }
+      aside {
+        background: var(--panel-soft) !important;
+        border-left: var(--line-w) solid var(--line) !important;
+      }
+      .node {
+        background: var(--panel) !important;
+        border: var(--line-w) solid var(--line) !important;
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1) !important;
+      }
+      .node.selected {
+        outline: 2px solid #000000 !important;
+      }
+      .title {
+        color: var(--ink) !important;
+      }
+      .meta,
+      .muted,
+      .kv div:nth-child(odd),
+      .descTitle,
+      label,
+      h3#panelTitle,
+      #status {
+        color: var(--muted) !important;
+      }
+      .divider,
+      .file-row {
+        border-color: var(--line) !important;
+      }
+      .divider {
+        background: var(--line) !important;
+      }
+
+      .links a,
+      .attachments a,
+      .file-row .remove {
+        color: var(--ink) !important;
+      }
+      .file-row .remove:hover {
+        color: var(--ink) !important;
+        text-decoration-color: var(--ink) !important;
+      }
+      .thumb {
+        border-color: var(--line) !important;
+      }
+      .images img {
+        border-color: var(--line) !important;
+      }
+
+      input[type="text"],
+      input[type="date"],
+      textarea {
+        background: var(--field) !important;
+        color: var(--ink) !important;
+        border: var(--line-w) solid var(--line) !important;
+      }
+      input:hover,
+      textarea:hover {
+        background: var(--field-hover) !important;
+      }
+      input:focus,
+      input:focus-visible,
+      textarea:focus,
+      textarea:focus-visible {
+        box-shadow: 0 0 0 2px var(--field-focus-ring) !important;
+        border-color: #8f8f8f !important;
+      }
+      input::placeholder,
+      textarea::placeholder {
+        color: #8a8a8a !important;
+      }
+      input[type="date"] {
+        caret-color: var(--ink) !important;
+      }
+
+      .chip,
+      .badge {
+        background: var(--chip) !important;
+        color: var(--ink) !important;
+        border: var(--line-w) solid var(--line) !important;
+      }
+      .chip:hover,
+      #actionChips .chip:hover,
+      #mainAreaChips .chip:hover {
+        background: var(--chip-hover) !important;
+        border-color: #8f8f8f !important;
+        color: var(--ink) !important;
+      }
+      .chip.active,
+      .chip:active,
+      #actionChips .chip.active,
+      #mainAreaChips .chip.active {
+        background: var(--chip-active) !important;
+        border-color: #7f7f7f !important;
+        color: var(--ink) !important;
+      }
+      #actionChips .chip.active:not(:hover),
+      #mainAreaChips .chip.active:not(:hover),
+      #actionChips .chip.active:not(:hover) *,
+      #mainAreaChips .chip.active:not(:hover) * {
+        color: var(--ink) !important;
+      }
+      .chip.radio:not(.active) {
+        background: var(--chip) !important;
+        border-color: var(--line) !important;
+      }
+
+      .out::after,
+      .in::after {
+        background: #4c4c4c !important;
+        border-color: #4c4c4c !important;
+      }
+      .node.selected .out::after,
+      .node.selected .in::after {
+        background: #000000 !important;
+        border-color: #000000 !important;
+      }
+
+      .marquee {
+        border: 1px solid rgba(0, 0, 0, 0.4) !important;
+        background: rgba(0, 0, 0, 0.08) !important;
+      }
+
+      .edge-visible {
+        stroke: #6f6f6f !important;
+      }
+      .edge-visible.selected {
+        stroke: #000000 !important;
+      }
+      .edge-visible.weak {
+        stroke: #9a9a9a !important;
+        stroke-opacity: 0.9 !important;
+      }
+      .edge-visible.weak.selected {
+        stroke: #000000 !important;
+      }
+
+      #helpPanel {
+        color: var(--ink) !important;
+      }
+      #helpPanel h2,
+      #helpPanel .doc-section h3,
+      #helpOverlay .doc-title {
+        color: var(--ink) !important;
+      }
+      #helpPanel .doc-section {
+        border-top: var(--line-w) solid var(--line) !important;
+      }
+      #helpPanel li .material-symbols-outlined {
+        color: #4f4f4f !important;
+      }
+      #helpPanel .chip.type,
+      #helpOverlay .chip.type {
+        background: #e2e2e2 !important;
+        border-color: #c9c9c9 !important;
+        color: #111111 !important;
+      }
+
+      a,
+      a:visited {
+        color: var(--ink) !important;
+        text-decoration-color: var(--ink) !important;
+      }
+
+      #helpOverlay {
+        background: rgba(0, 0, 0, 0.24) !important;
+      }
+      #helpOverlay .doc-box {
+        background: #ffffff !important;
+        border: var(--line-w) solid var(--line) !important;
+        box-shadow: 0 16px 44px rgba(0, 0, 0, 0.2) !important;
+      }
+      #helpOverlay .doc-box-header {
+        background: #f5f5f5 !important;
+        border-bottom: var(--line-w) solid var(--line) !important;
+      }
+      #helpOverlay .doc-box-body {
+        color: var(--ink) !important;
+      }
+
+      #edgeForm input[type="checkbox"]#eDashed {
+        background: #ffffff !important;
+        border-color: #8a8a8a !important;
+      }
+      #edgeForm input[type="checkbox"]#eDashed:checked::after {
+        background: #000000 !important;
+      }
+
+      header button,
+      .icon-btn,
+      .chip,
+      #btnChoose.icon-btn,
+      #btnHelp.icon-btn,
+      #helpOverlay .icon-btn,
+      input,
+      textarea {
+        transition: none !important;
+      }
+      header button:active,
+      .icon-btn:active,
+      .chip:active {
+        transform: none !important;
+      }
+    </style>
   </head>
   <body>
     <div class="app">
-      <header style="grid-column: 1/3">
+      <header>
         <button id="btnNew" data-tip="New project">
           <span class="material-symbols-outlined">note_add</span>
         </button>
@@ -1392,280 +1667,7 @@
           accept="application/json"
           style="display: none"
         />
-
-        <!-- HTML: aggiungi il pannello help in fondo a <aside>, dopo i form -->
-        <div id="helpPanel">
-          <h2>Threadscape — Documentation</h2>
-
-          <div class="doc-section open">
-            <h3>
-              <span class="material-symbols-outlined">lightbulb</span> Concept
-              and Purpose
-            </h3>
-            <div class="doc-body">
-              <p>
-                Threadscape is a tool to map and reflect on design processes. It
-                is designed to capture the often nonlinear flow of ideas and
-                materials that emerge while working on a project.
-              </p>
-              <p>
-                Each node represents a design atom — not simply a chronological
-                step, but any meaningful element that shapes the project: a
-                concept, an artefact, a reference, an insight, and more. The map
-                shows how these elements branch and merge, making visible the
-                structure and logic of the process.
-              </p>
-              <ul>
-                <li>
-                  <span class="material-symbols-outlined">flowchart</span>
-                  <strong>During a project:</strong><br />to clarify what is
-                  happening, explore alternatives, and make sense of complex
-                  progressions.
-                </li>
-                <li>
-                  <span class="material-symbols-outlined">door_open</span>
-                  <strong>After a project:</strong><br />to analyse its
-                  structure, conduct research on design processes, and
-                  communicate the underlying decisions and sources.
-                </li>
-              </ul>
-              <p>
-                It promotes open documentation and shared understanding of
-                design work. All data is stored locally and can be freely
-                modified or shared.
-              </p>
-            </div>
-          </div>
-
-          <div class="doc-section">
-            <h3>
-              <span class="material-symbols-outlined">schema</span> Node
-              Structure
-            </h3>
-            <div class="doc-body">
-              <p>
-                Un nodo può rappresentare: <span class="chip key">Brief</span>,
-                <span class="chip key">Source</span>,
-                <span class="chip key">Collection</span>,
-                <span class="chip key">Concept</span>,
-                <span class="chip key">Sketch</span>,
-                <span class="chip key">Artefact</span>,
-                <span class="chip key">Observation</span>,
-                <span class="chip key">Feedback</span>,
-                <span class="chip key">Decision</span>,
-                <span class="chip key">Output</span>.
-              </p>
-              <p><strong>Campi (tutti opzionali):</strong></p>
-              <ul>
-                <li>
-                  <span class="chip key">Title</span> — nome dell’elemento
-                </li>
-                <li>
-                  <span class="chip key">Date</span> — data chiave (precompilata
-                  ma editabile)
-                </li>
-                <li>
-                  <span class="chip key">Type</span> — categoria (es. Concept,
-                  Artefact…)
-                </li>
-                <li>
-                  <span class="chip key">Action</span> — atteggiamento (es.
-                  Exploring / Making)
-                </li>
-                <li>
-                  <span class="chip key">Main Area</span> — dominio primario
-                  (es. Speculation)
-                </li>
-                <li>
-                  <span class="chip key">Areas</span> — parole chiave secondarie
-                </li>
-                <li>
-                  <span class="chip key">Tags</span> — parole chiave libere per
-                  filtri
-                </li>
-                <li>
-                  <span class="chip key">Description</span> — testo (200–1000
-                  caratteri)
-                </li>
-                <li><span class="chip key">Links</span> — un link per riga</li>
-                <li>
-                  <span class="chip key">Files</span> — immagini/PDF (compressi
-                  in <code>assets/</code>)
-                </li>
-              </ul>
-              <p>
-                <strong>Main Area vs Areas</strong><br />
-                <span class="chip key">Main Area</span> è un’etichetta unica per
-                il dominio primario.<br />
-                <span class="chip key">Areas</span> sono keyword multiple
-                (temi/contesti secondari).
-              </p>
-              <p>
-                Il pannello suggerisce <span class="chip key">Type</span>,
-                <span class="chip key">Areas</span> e
-                <span class="chip key">Tags</span> già usati.
-              </p>
-            </div>
-          </div>
-
-          <div class="doc-section">
-            <h3>
-              <span class="material-symbols-outlined">fork_right</span>
-              Connections and Interaction
-            </h3>
-            <div class="doc-body">
-              <p>Le connessioni mostrano le relazioni tra nodi:</p>
-              <ul>
-                <li>
-                  <span class="chip key">Dirette</span> — linea piena (relazione
-                  forte/esplicita)
-                </li>
-                <li>
-                  <span class="chip key">Weak</span> — linea tratteggiata
-                  (relazione indiretta/ipotetica)
-                </li>
-              </ul>
-              <p><strong>Interazioni base:</strong></p>
-              <ul>
-                <li>
-                  Pan: <span class="chip kbd">Space</span> + trascina / trackpad
-                </li>
-                <li>Zoom: rotella/trackpad</li>
-                <li>Selezione multipla: trascina per creare un rettangolo</li>
-                <li>Muovi nodi: trascina i nodi selezionati</li>
-                <li>
-                  Crea connessione: trascina da
-                  <span class="badge io out">OUT</span> a
-                  <span class="badge io in">IN</span>
-                </li>
-                <li>
-                  <span class="chip key">Alt/⌥</span> trascina nodi → duplica
-                  &amp; sposta
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="doc-section">
-            <h3>
-              <span class="material-symbols-outlined">conversion_path</span>
-              Connect Tool
-            </h3>
-            <div class="doc-body">
-              <ol>
-                <li>Seleziona una o più sorgenti</li>
-                <li>
-                  Clicca
-                  <span
-                    class="material-symbols-outlined"
-                    style="vertical-align: middle"
-                    >conversion_path</span
-                  >
-                  <span class="chip key">Connect</span>
-                </li>
-                <li>Clicca i target da connettere</li>
-                <li>
-                  Riclicca <span class="chip key">Connect</span> per confermare
-                </li>
-              </ol>
-              <p>
-                <span class="chip kbd">C</span> con esattamente 2 nodi
-                selezionati collega direttamente da sinistra a destra.
-              </p>
-            </div>
-          </div>
-
-          <div class="doc-section">
-            <h3>
-              <span class="material-symbols-outlined">save</span> Saving and
-              Opening Projects
-            </h3>
-            <div class="doc-body">
-              <ul>
-                <li>
-                  Salvataggio crea: <code>project.json</code> + cartella
-                  <code>assets/</code>
-                </li>
-                <li>
-                  Le immagini nuove vengono convertite in
-                  <span class="chip key">JPEG</span>, lato lungo max
-                  <span class="chip key">1500px</span>, compresse
-                  automaticamente
-                </li>
-                <li>
-                  Per aprire: seleziona la cartella del progetto (carica
-                  <code>project.json</code>)
-                </li>
-                <li>Disponibile export leggero JSON (senza file)</li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="doc-section">
-            <h3>
-              <span class="material-symbols-outlined">keyboard</span> Toolbar &
-              Shortcuts
-            </h3>
-            <div class="doc-body">
-              <ul>
-                <li>
-                  <span class="chip key">New Project</span> —
-                  <span class="chip kbd">⌘/Ctrl + N</span>
-                </li>
-                <li>
-                  <span class="chip key">Open Project</span> —
-                  <span class="chip kbd">⌘/Ctrl + O</span>
-                </li>
-                <li>
-                  <span class="chip key">Save Project</span> —
-                  <span class="chip kbd">⌘/Ctrl + S</span>
-                </li>
-                <li>
-                  <span class="chip key">New Node</span> —
-                  <span class="chip kbd">N</span>
-                </li>
-                <li>
-                  <span class="chip key">Direct Connect</span> (2 selezionati) —
-                  <span class="chip kbd">C</span>
-                </li>
-                <li>
-                  <span class="chip key">Auto Layout</span> —
-                  <span class="chip kbd">⇧ + A</span>
-                </li>
-                <li>
-                  <span class="chip key">Undo</span> —
-                  <span class="chip kbd">⌘/Ctrl + Z</span>
-                </li>
-                <li>
-                  <span class="chip key">Redo</span> —
-                  <span class="chip kbd">⌘/Ctrl + ⇧ + Z</span>
-                </li>
-                <li>
-                  <span class="chip key">Fit View</span> —
-                  <span class="chip kbd">0</span>
-                </li>
-                <li>
-                  <span class="chip key">Upload Files</span> (nodo selezionato)
-                  — <span class="chip kbd">U</span>
-                </li>
-                <li>
-                  <span class="chip key">Group</span> —
-                  <span class="chip kbd">⌘/Ctrl + G</span>
-                </li>
-                <li>
-                  <span class="chip key">Ungroup</span> —
-                  <span class="chip kbd">⌘/Ctrl + ⇧ + G</span>
-                </li>
-              </ul>
-              <p>
-                <strong>Selezione rapida:</strong>
-                <span class="chip key">⇧ + click</span> su nodi/edge per
-                multiselezione. <span class="chip key">⌥ + click</span> su edge
-                per inserire un nodo intermedio.
-              </p>
-            </div>
-          </div>
-        </div>
+        <div id="helpPanel"></div>
       </aside>
     </div>
 
@@ -2100,10 +2102,10 @@
               if (isSel) {
                 // WEAK selezionati: più spessi e bianchi (restano tratteggiati)
                 ctx.lineWidth = 2;
-                ctx.strokeStyle = "#eeeeee";
+                ctx.strokeStyle = "#000000";
               } else {
                 ctx.lineWidth = 2; // più fini
-                ctx.strokeStyle = "#444444"; // grigio scu
+                ctx.strokeStyle = "#9a9a9a";
               }
             } else {
               // NORMAL
@@ -2111,10 +2113,10 @@
               if (isSel) {
                 // Selezionati: più spessi e bianchi
                 ctx.lineWidth = 3;
-                ctx.strokeStyle = "#ffffff";
+                ctx.strokeStyle = "#000000";
               } else {
                 ctx.lineWidth = 2;
-                ctx.strokeStyle = "#9a9a9a";
+                ctx.strokeStyle = "#6f6f6f";
               }
             }
 
@@ -2126,7 +2128,7 @@
             const to = { x: state.dragLink.x, y: state.dragLink.y };
             ctx.setLineDash([]);
             ctx.lineWidth = 2;
-            ctx.strokeStyle = "#ffffff";
+            ctx.strokeStyle = "#000000";
             for (const sid of state.dragLink.sources || []) {
               const a =
                 state.dragLink.from === "out"
@@ -3773,15 +3775,16 @@
             left: "0",
             top: "0",
             display: "none",
-            background: "#222",
-            color: "#fff",
+            background: "#ffffff",
+            color: "#111111",
             fontSize: "11px",
             padding: "4px 6px",
             borderRadius: "4px",
             whiteSpace: "nowrap",
             pointerEvents: "none",
             zIndex: "10000",
-            boxShadow: "0 2px 10px rgba(0,0,0,0.35)",
+            border: "1px solid #d4d4d4",
+            boxShadow: "0 8px 24px rgba(0,0,0,0.16)",
           });
           document.body.appendChild(tip);
 
@@ -4455,7 +4458,7 @@
                 "path"
               );
               path.setAttribute("d", pathCubic(a, b));
-              path.setAttribute("stroke", "#fff");
+              path.setAttribute("stroke", "#000000");
               path.setAttribute("stroke-width", "2");
               path.setAttribute("fill", "none");
               edgesSVG.appendChild(path);
@@ -5270,25 +5273,25 @@
         (() => {
           const css = `
 .edge-visible {
-  stroke: #9a9a9a;
+  stroke: #6f6f6f;
   stroke-width: 2;
   fill: none;
   cursor: pointer;
   pointer-events: stroke;
 }
 .edge-visible.selected {
-  stroke: #ffffff;
+  stroke: #000000;
   stroke-width: 3;
 }
 .edge-visible.weak {
   stroke: #9a9a9a;
-  stroke-opacity: 0.5;
+  stroke-opacity: 0.9;
   stroke-dasharray: 10 6;
   stroke-linecap: round;
   stroke-width: 1.5;
 }
 .edge-visible.weak.selected {
-  stroke: #ffffff;
+  stroke: #000000;
   stroke-opacity: 1;
   stroke-dasharray: 10 6;
   stroke-linecap: round;
@@ -5408,7 +5411,7 @@
                 "path"
               );
               path.setAttribute("d", pathCubic(a, b));
-              path.setAttribute("stroke", "#fff");
+              path.setAttribute("stroke", "#000000");
               path.setAttribute("stroke-width", "2");
               path.setAttribute("fill", "none");
               edgesSVG.appendChild(path);
