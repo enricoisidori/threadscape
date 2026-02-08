@@ -2822,7 +2822,7 @@
             doDeleteSelection();
             return;
           }
-          if (e.key === "0") {
+          if (e.key === "0" && !inText) {
             e.preventDefault();
             fitView();
             return;
