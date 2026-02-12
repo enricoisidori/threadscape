@@ -13,11 +13,10 @@
         "title": "Conflict: a Distributed Condition: Contemporary War Ecologies",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Media studies",
-          "Communication",
+          "Communication Design",
           "Cultural practices",
           "Critical design",
           "Design research",
@@ -50,10 +49,9 @@
         "title": "Areas of bureaucratic conflict",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Socio-political",
-          "Communication",
+          "Communication Design",
           "Cultural studies",
           "Design research",
           "Conflict"
@@ -76,7 +74,6 @@
         "title": "Regulations, legal maps,",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Conflict",
@@ -100,7 +97,6 @@
         "title": "Bounderies",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Conflict",
           "Cultural studies",
@@ -125,7 +121,6 @@
         "title": "Procedures, documents, records, administration",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Conflict",
@@ -150,7 +145,6 @@
         "title": "The Nature of Bureaucracy",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Hystory",
           "Socio-political"
@@ -182,7 +176,6 @@
         "title": "The Nature of Conflict",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Conflict",
           "Socio-political",
@@ -210,10 +203,10 @@
         "title": "Emotional Responses to Bureaucracy",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Sociology",
-          "Conflict"
+          "Conflict",
+          "Communication Design"
         ],
         "tags": [
           "Emotion",
@@ -237,7 +230,6 @@
         "title": "History of bureaucracy",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Hystory",
           "Socio-political"
@@ -260,7 +252,6 @@
         "title": "Citizen’s life marked by bureaucratic stages",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Public administration",
           "Identity",
@@ -284,7 +275,6 @@
         "title": "Rational system",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Sociology",
           "Public administration",
@@ -309,7 +299,6 @@
         "title": "Il fu Mattia Pascal, 1904, Pirandello",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Literature",
           "Identity",
@@ -335,7 +324,6 @@
         "title": "Biological and Bureaucratic identity",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Identity",
           "Conflict",
@@ -359,7 +347,6 @@
         "title": "Bureaucracy as a form of power",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Conflict",
@@ -383,7 +370,6 @@
         "title": "Refused bureaucratic identification",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Identity",
           "Conflict",
@@ -408,12 +394,12 @@
         "title": "Conflict Between Citizens and Bureaucracy",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Conflict",
           "Sociology",
           "Cultural studies",
-          "Hystory"
+          "Hystory",
+          "Communication Design"
         ],
         "tags": [],
         "desc": "Although bureaucracy is designed to ensure order and administrative stability, its interaction with citizens often generates tension and discomfort.\nThe widespread belief that bureaucracy is rigid, burdensome, and inaccessible reflects a collective emotional response to its inefficiency. This perception highlights the gap between institutional rationality and individual experience, where the promise of structure turns into an obstacle to participation and agency.",
@@ -437,7 +423,6 @@
         "title": "Wars and struggles linked to bureaucratic borders",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Hystory",
           "Conflict",
@@ -463,7 +448,6 @@
         "title": "Boundaries between people",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Conflict",
           "Cultural studies",
@@ -487,10 +471,10 @@
         "title": "Humanized bureaucracy ",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Public administration",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "To humanize bureaucracy means allowing space for emotions and empathy within administrative processes. It involves introducing compassion, care, and support into interactions with rational rules and procedures. By letting kindness and humanity enter bureaucratic systems, regulations and processes can serve people more effectively, transforming rigid structures into tools that truly respond to human needs.",
@@ -510,12 +494,12 @@
         "title": "Bureaucratization of interpersonal relationships",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Public administration",
           "Sociology",
           "Conflict",
-          "Power"
+          "Power",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "In a reality where every aspect of life is administered and rationalized, bureaucracy has even intruded into the private sphere and everyday relationships. Human interactions, traditionally characterized by emotional and irrational dimensions, are now subjected to regulations and bureaucratic practices. Conflicting dynamics, intrinsic to any relationship, are thus controlled and stripped of their natural ambiguity and uncertainty, being confined instead within rigid, manageable frameworks.",
@@ -535,11 +519,11 @@
         "title": "Bureaucracy used as a weapon",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Power",
-          "Public administration"
+          "Public administration",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "Bureaucracy is used as a tool to regulate and organize public administration. Sometimes, due to its inherently complex and intricate procedures, it not only hinders progress and conflict resolution but also generates new tensions.\n\nWhat form would conflicts take if bureaucracy were recognized as a true weapon, that is, a tool of power and confrontation? What would the consequences be, and how would it be regulated?",
@@ -559,7 +543,6 @@
         "title": "Red tape",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Hystory",
           "Public administration",
@@ -585,7 +568,6 @@
         "title": "Kafka’s critique of bureaucracy ",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Literature",
           "Cultural studies",
@@ -610,7 +592,6 @@
         "title": "Stateless people",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Law",
           "Power",
@@ -638,7 +619,6 @@
         "title": "Terra Nullius",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Hystory",
           "Conflict",
@@ -664,7 +644,6 @@
         "title": "State and nation",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Hystory",
           "Conflict",
@@ -688,7 +667,6 @@
         "title": "Airport transit, international waters, Antarctica",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Hystory",
           "Conflict",
@@ -713,13 +691,13 @@
         "title": "Dynamic boundaries with a new sense of belonging",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Conflict",
           "Socio-political",
           "Power",
           "Public administration",
-          "Sociology"
+          "Sociology",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "Boundaries are lines of demarcation that define the geographic space and the population over which a state exercises its sovereignty. However, just as a nation does not necessarily coincide with the state, an individual’s personal identity is not fully encompassed by their bureaucratic dimension. In a scenario where identity prevails over territory, the state emancipates itself from physical space and redefines itself according to new parameters, transforming the static concept of borders into a dynamic network.",
@@ -739,7 +717,6 @@
         "title": "Consequences of being stateless",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Hystory",
           "Conflict",
@@ -765,7 +742,6 @@
         "title": "Negative feedback",
         "type": "Feedback",
         "action": "Making",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Introducing emotions or personal judgment into this system would compromise its function, because there would be too many variables and ambiguous situations to manage effectively. The strength of bureaucracy lies in its predictability and impartiality, even if this makes it appear rigid or impersonal.",
@@ -785,7 +761,6 @@
         "title": "Victims of bureaucratic errors",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Identity",
           "Public administration",
@@ -811,7 +786,6 @@
         "title": "Homo Sacer",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Hystory",
           "Public administration",
@@ -837,7 +811,6 @@
         "title": "Corruption in Public Administration",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Power",
           "Conflict",
@@ -868,8 +841,9 @@
         "title": "Moodboard",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "Rudolf Bonvie, Dialog, 1973\nDoriane terraillon, Still Photography, 2025\nChristo, Empaquetages, 1958\n Otto Künzli, Ring für Zwei, 1980",
         "links": [
@@ -926,7 +900,6 @@
         "title": "Weber's theory",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Sociology",
           "Philosophy",
@@ -951,7 +924,6 @@
         "title": "The Evaporated: Administrative Disappearance in Japan",
         "type": "Source",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Conflict",
           "Public administration",
@@ -976,7 +948,6 @@
         "title": "Possible things without official documents:",
         "type": "Observation",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Public administration",
           "Conflict",
@@ -1000,7 +971,6 @@
         "title": "Things impossible or highly risky without official documents",
         "type": "Observation",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Public administration",
           "Identity",
@@ -1024,11 +994,11 @@
         "title": "Conflict Between Bureaucratic and Biological Identity",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Identity",
           "Conflict",
-          "Public administration"
+          "Public administration",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "This concept explores the conflict between bureaucratic identity—constructed, regulated, and validated by the State—and biological identity, tied to existence itself. The tension emerges when the legitimacy of life becomes dependent on administrative recognition. This duality mirrors the broader conflict between citizen and State: one grounded in emotional and physical reality, the other in legality and documentation. Bureaucracy thus becomes the interface where the human and the institutional collide, revealing how recognition and existence are politically negotiated.",
@@ -1048,7 +1018,6 @@
         "title": "",
         "type": "Feedback",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The conflict between bureaucratic and biological identity was considered too weak to stand as an independent concept. However, it presents valuable potential and could be integrated into other speculative scenarios. The feedback suggests keeping this element in mind as a secondary or supporting layer to enrich future developments, particularly those addressing recognition, control, and the boundaries between human life and administrative systems.",
@@ -1068,7 +1037,6 @@
         "title": "SLAPPs",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Conflict",
@@ -1095,12 +1063,12 @@
         "title": "The Physical Weight of a SLAPP",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Critical design",
-          "Communication",
+          "Communication Design",
           "Socio-political",
-          "Law"
+          "Law",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "The idea is to convert the intangible force of legal power into a tangible, unsettling physical impact. Its primary purpose is to transform the abstract, bureaucratic nature of a SLAPP into a visceral, understandable, and profoundly disturbing experience. The artifact would serve as a tool for critical dialogue, not as a commercial product. Its very existence, as a prototype of a possible future, poses the provocative question: “What if the cost of silencing someone could be measured physically and made visible?” The artifact envisions a future in which the severity of the SLAPP problem has escalated to the point that such a physical instrument is needed to illustrate its harm. It is a critical commentary on the current legal landscape and a warning about a potential future.",
@@ -1120,8 +1088,9 @@
         "title": "Feedback on the SLAPP Concept",
         "type": "Feedback",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "The idea of representing bureaucracy as a weapon was appreciated for its critical depth and conceptual strength. However, the physical metaphor of the slap was not well received. The comparison between legal violence and physical impact was perceived as too literal and potentially distracting from the conceptual core. The feedback suggests emphasizing the structural nature of bureaucratic aggression rather than its bodily translation.",
         "links": [],
@@ -1140,7 +1109,6 @@
         "title": "Migrants",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Law",
           "Power",
@@ -1164,11 +1132,11 @@
         "title": "The Psychology of Space",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Spatial design",
           "Envirionment",
-          "Sociology"
+          "Sociology",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "The aesthetic quality of an environment has a psychological impact on us, influencing our mood. A dull, unwelcoming space can negatively affect our feelings, which in turn reduces productivity. Conversely, when a space is thoughtfully designed, we feel more welcomed and at ease.",
@@ -1190,11 +1158,11 @@
         "title": "What if it were possible to alter the way the human brain perceives to bureaucracy?",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Public administration",
-          "Design research"
+          "Design research",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "Altering the human brain’s perception of bureaucracy could involve giving people “medicines” before they engage with administrative processes, changing their experience to feel pleasant, ethereal, colorful, and carefree. Taking the medicine highlights just how much bureaucracy is a source of conflict in everyday life—it is such a tedious and frustrating experience that people would rather alter their perception beforehand than face it as it is.\n\nThe alteration acts like a sedative: citizens are so soothed by the appearance of the redesigned environment that they fail to notice its persistent inefficiency. The “medicine” does not simplify the process; it anesthetizes protest and frustration.",
@@ -1214,7 +1182,6 @@
         "title": "Negative Feedback on the Concept",
         "type": "Feedback",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The concept received negative feedback, being perceived as unconvincing and somewhat banal. \nThe critique suggests that, although the idea communicates its intention clearly, it lacks depth or originality in its speculative framing",
@@ -1234,7 +1201,6 @@
         "title": "Foucault's power and biopolitics",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Hystory",
           "Philosophy",
@@ -1260,7 +1226,6 @@
         "title": "Sociological analysis of commodification",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Hystory",
           "Philosophy",
@@ -1284,7 +1249,6 @@
         "title": "Conclusions",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Hystory"
         ],
@@ -1306,12 +1270,12 @@
         "title": "Bureaucratic Identity Eraser",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Law",
           "Power",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "Scenario that merges identity and weaponry into a bureaucratic instrument that cancels an individual’s administrative identity. ",
@@ -1331,12 +1295,12 @@
         "title": "Public Opinion as a Bureaucratic Weapon",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Cultural studies",
           "Critical design",
-          "Law"
+          "Law",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "New concept that envisions public opinion as a new bureaucratic weapon, an external yet powerful force capable of influencing, accelerating, or obstructing institutional processes",
@@ -1356,8 +1320,9 @@
         "title": "Feedback on the concept of weapon",
         "type": "Feedback",
         "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "Clarify the precise type of “weapon” envisioned and map its fields of action. Specify: target(s) (who/what it affects), mode of deployment (legal, symbolic, material, procedural), intended effects (silencing, financial damage, reputational), contexts of use, and limits or legal/ethical boundaries. ",
         "links": [],
@@ -1376,7 +1341,6 @@
         "title": "The OFAC Lists and Global Financial Control",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Law",
@@ -1401,7 +1365,6 @@
         "title": "The SDN List (Specially Designated Nationals)",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Law",
           "Power",
@@ -1426,7 +1389,6 @@
         "title": "Targeted International Sanctions",
         "type": "Feedback",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Media studies",
@@ -1453,7 +1415,6 @@
         "title": "The Case of Ilaria Salis",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Law",
@@ -1477,7 +1438,6 @@
         "title": "Problem to reflect on",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Law",
@@ -1502,11 +1462,11 @@
         "title": "Scenery",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Media studies",
-          "Law"
+          "Law",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "Let’s imagine a system in which public opinion is no longer confined to an external and symbolic dimension, but can formally intervene through bureaucratic procedures. In this context, the collective voice would no longer be just a factor of indirect pressure, but would become an integral part of judicial processes, a new “bureaucratic weapon” in the hands of public opinion.\n\nwhat if public opinion could intervene through bureaucratic channels to oppose judicial decisions?",
@@ -1526,12 +1486,12 @@
         "title": "Definition and reason for the conflict:",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Law",
           "Power",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "In this context, we can identify a dual conflict: first, public opinion can use bureaucracy as a means to fight the bureaucratic system itself. Through legal and fully regulated procedures, it would become possible to concretely intervene and alter the outcome of a judicial decision.\nA second, equally evident conflict arises between the bureaucratic system, originally designed to guarantee impartiality and legality, and public opinion, which is primarily driven by empathy and emotion.",
@@ -1551,12 +1511,12 @@
         "title": "Agents and Dynamics of the Conflict",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Law",
           "Power",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "The agents of the conflict are, on one side, citizens and groups forming public opinion, able to formally intervene to influence or overturn the outcome of a trial, and, on the other, the State, represented by its bureaucratic and judicial apparatus, which operates through established laws and procedures. The dynamic of the conflict unfolds through the interaction of these two logics: public opinion employs legal and regulated tools to exert pressure, while the State enforces norms in an impersonal and structured manner. The encounter between collective emotion and institutional rationality creates a persistent tension that can shape judicial outcomes while formally remaining within the boundaries of legality.",
@@ -1576,8 +1536,9 @@
         "title": "Entity",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "An organization that evaluates, coordinates, and regulates the ways in which public opinion can formally intervene, assuming an active role in influencing the outcome of judicial processes. ",
         "links": [],
@@ -1596,8 +1557,9 @@
         "title": "Feedback on the Speculative Depth of the Scenario",
         "type": "Feedback",
         "action": null,
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "The scenario was considered insufficiently speculative, as the intrusion of public opinion into bureaucratic and judicial systems already exists in forms such as class actions.",
         "links": [],
@@ -1616,12 +1578,12 @@
         "title": "Bureaucratic Death Penalty",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Law",
           "Power",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "What if there existed an instrument that could “kill” you bureaucratically—stripping your legal identity, rights and access to services—or if a formal “bureaucratic death penalty” were ever introduced? Such measures would produce social death: loss of civil status, freezing of assets, exclusion from healthcare and employment, invisibility in registries, and effective statelessness. ",
@@ -1641,12 +1603,12 @@
         "title": "Scenery",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Law",
           "Power",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "Bureaucracy is not merely a state instrument for administration but the very foundation of personal identity. To possess a bureaucratic identity means to be recognized, to have access to rights, and to exist within the social order. Without it, biological existence alone is insufficient for full participation in society. Bureaucratic recognition thus defines the boundary between visibility and exclusion, shaping the conditions of belonging and legitimacy within modern civilization.",
@@ -1666,12 +1628,12 @@
         "title": "Problem to reflect on",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Power",
           "Law",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "In our society, full access to social life and its rights is tied to the possession of a bureaucratic identity. Paradoxically, mere biological existence is not enough. This raises a critical question about the role of bureaucracy itself: to what extent does the bureaucratic system define , and ultimately limit, what it means to exist?",
@@ -1691,12 +1653,12 @@
         "title": "What if",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Power",
           "Law",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "The scenario is built around the question: “What if people could be erased bureaucratically?”\nIt imagines a world in which the State can impose a bureaucratic death penalty for extreme and inhuman crimes. In this system, life itself is not taken, but one’s bureaucratic existence is revoked: all documents proving identity are deleted, leaving the individual without recognition, rights, or access to institutions. The person becomes legally invisible—a living being stripped of social existence. The scenario exposes the fragility of identity when its validity depends entirely on administrative acknowledgment.",
@@ -1716,12 +1678,12 @@
         "title": "Agents and Dynamics of the Conflict",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Conflict",
           "Law",
-          "Power"
+          "Power",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "The condemned individual finds themselves trapped in a paradox: they continue to exist biologically, yet are excluded from any form of official recognition. It is as if the bureaucratic machine — the very system that once guaranteed their existence — has now turned against them. The true conflict lies here: between being alive and being acknowledged, between biological reality and bureaucratic reality.",
@@ -1741,12 +1703,12 @@
         "title": "Entity",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Conflict",
           "Law",
-          "Power"
+          "Power",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "We are the branch of the juridical and administrative apparatus charged with carrying out bureaucratic erasure. Our task is to make the person disappear from the system: to remove every trace of their identity from registers, databases and official archives. We cancel registrations, retract certifications, delete file entries and sever administrative ties so that, on paper, the individual no longer exists. In short, we convert a life into records, and by erasing those records we enact the disappearance itself.",
@@ -1766,8 +1728,9 @@
         "title": "Feedback on the Bureaucratic Death Penalty Concept",
         "type": "Feedback",
         "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "The concept of the bureaucratic death penalty is to be abandoned. The feedback suggests focusing instead on the other two directions previously explored, which offer stronger conceptual and speculative potential while maintaining consistency with the project’s critical investigation of bureaucratic power.",
         "links": [],
@@ -1786,11 +1749,11 @@
         "title": "Scenery",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Conflict",
           "Sociology",
-          "Public administration"
+          "Public administration",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "In interpersonal dynamics, ambiguous and conflicting situations often emerge, whose management becomes complex due to the high level of emotional involvement.\nBureaucracy, on the other hand, functions as a system aimed at regulation and rationalization. In this sense, it has extended its reach into the realm of personal relationships: marriage and divorce represent emblematic examples, as they are formalized through acts and procedures of a purely bureaucratic nature.",
@@ -1810,11 +1773,11 @@
         "title": "Problem to reflect on",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Public administration",
           "Sociology",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "When bureaucratic logic enters the realm of personal relationships, a particular tension emerges.\nOn one hand, bureaucratic institutions exist to provide order, recognition, and protection to those relationships.\nOn the other, there is the risk that emotional complexity will be reduced to a series of cold, standardized procedures.\nThis tension invites reflection on a fragile balance — between the need for regulation and the freedom of emotion, between the pursuit of order and the authenticity of personal experience.",
@@ -1834,11 +1797,11 @@
         "title": "What if",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Sociology",
           "Conflict",
-          "Public administration"
+          "Public administration",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "Our scenario stems from a central question: “What if bureaucracy extended its control to the most intimate spheres of human life?”\nWe imagine a world defined by hyper-bureaucratization, where procedures and regulations permeate every aspect of daily existence.\nIn this context, bureaucracy intervenes even in interpersonal and intimate relationships, seeking to manage and regulate the ambiguities and conflicts inherent in human connection.",
@@ -1858,11 +1821,11 @@
         "title": "Agents and Dynamics of the Conflict",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Power",
           "Conflict",
-          "Sociology"
+          "Sociology",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "The conflict, then, does not arise only within the relationships that bureaucracy attempts to regulate, but above all in the clash between two opposing natures: on one side, the rational and impersonal logic of bureaucratic norms; on the other, the spontaneous and deeply human dimension of personal relationships.",
@@ -1882,11 +1845,11 @@
         "title": "Entity",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Public administration",
           "Conflict",
-          "Sociology"
+          "Sociology",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "We are an insurance agency that citizens are strongly encouraged to consult before entering a relationship—or to regulate one that already exists.\nOur role is to prevent and manage situations of ambiguity or conflict that may arise within the relationship, ensuring that they are anticipated and properly regulated.\nIn doing so, we guarantee that any misunderstandings or offenses are handled rationally and in full compliance with established procedures.",
@@ -1906,7 +1869,6 @@
         "title": "Positive feedback",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "need to better outline the scenario by going into more detail\n",
@@ -1926,12 +1888,12 @@
         "title": "\"sangue del mio sangue\"",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Law",
           "Socio-political",
           "Identity",
-          "Public administration"
+          "Public administration",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "ideation of a scenario where citizenship is transmitted through blood",
@@ -1951,11 +1913,11 @@
         "title": "Context",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Identity",
-          "Public administration"
+          "Public administration",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "Italy’s citizenship system, strictly rooted in ius sanguinis, excludes many individuals born and raised in the country who lack formally recognized Italian ancestry. The naturalization process is often long, expensive, and opaque, requiring extensive documentation, years of waiting, and navigating fragmented administrative layers. This produces unequal access to rights for people who share the same lived reality but not the same lineage.",
@@ -1975,12 +1937,12 @@
         "title": "Problem to reflect on",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Public administration",
           "Identity",
           "Socio-political",
-          "Law"
+          "Law",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "The Italian citizenship system therefore creates a deep contradiction, and this paradox opens a reflection on the value attributed to blood compared to experience and belonging: does blood truly define who we are? Is family lineage worth more than the years lived, the relationships formed, and the bond built with a place?",
@@ -2000,12 +1962,12 @@
         "title": "What if",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Identity",
           "Law",
-          "Public administration"
+          "Public administration",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "Our scenario would be based on the question: “What if obtaining Italian citizenship were possible through a blood transfusion?”",
@@ -2025,12 +1987,12 @@
         "title": "Agents and Dynamics of the Conflict",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Public administration",
           "Identity",
           "Socio-political",
-          "Law"
+          "Law",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "The system based on ius sanguinis creates a fracture between those who live in and contribute to society and those who, legally, are not considered part of it. This is where the conflict arises: the right to belong becomes a privilege, measured exclusively through blood rather than experience or cultural rootedness.\n\nThe paradox becomes concrete: someone who has lived in Italy for years can be excluded, while someone who pays to receive a symbolic transfusion of “Italian blood” obtains a recognition that the State denies to others.",
@@ -2050,12 +2012,12 @@
         "title": "Entity",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Public administration",
           "Identity",
           "Law",
-          "Socio-political"
+          "Socio-political",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "An association operating under the guise of a reputable voluntary blood bank. However, its true mission is different: the organization distributes transfusion kits, expensive and not accessible to everyone, which allow the acquisition of Italian citizenship.",
@@ -2075,7 +2037,6 @@
         "title": "Feedback",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Try to further outline how this system would work and emphasize its legality.\n",
@@ -2095,7 +2056,6 @@
         "title": "Decision to close this option",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The more the scenario is developed in detail, the more it reveals flaws in the system, making it unrealistic. Therefore, this path should be abandoned in order to focus on the one concerning relationships.",
@@ -2115,7 +2075,6 @@
         "title": "feedback",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Positive assessment of the scenario. Try to find ways to enhance the conflict and the most precise dynamics, types of relationships...",
@@ -2135,8 +2094,9 @@
         "title": "Definitive scenario",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "We position ourselves in a world defined by hyper-bureaucratization, where procedures and regulations extend to every aspect of daily life.\nIn this context, bureaucracy intervenes even in interpersonal and intimate relationships, aiming to manage and regulate the ambiguities and conflicts inherent in human interaction.\nWithin this scenario, individuals can protect themselves through relationship insurance policies, which define and formalize even the smallest details of their relationships through a system entirely based on insurance mechanisms.",
         "links": [],
@@ -2155,7 +2115,6 @@
         "title": "Feedback",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The concept was found to be too generic and lacking clear boundaries. The feedback suggests defining it more precisely by identifying its specific scope, actors, and implications. At the same time, the notion of liquid boundaries could be explored as a strength rather than a weakness,framing the idea as a flexible and evolving system instead of a rigid construct. This approach would help preserve conceptual openness while improving clarity and depth.",
@@ -2175,12 +2134,12 @@
         "title": "Redistribution of States",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Power",
           "Socio-political",
           "Envirionment",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "In this speculative scenario, global crises force a radical reorganization of state borders. Nations are redistributed not through conflict or diplomacy, but by necessity. Bureaucracy becomes the mechanism of this planetary reshuffling, turning geopolitical order into a matter of logistics rather than heritage.",
@@ -2200,12 +2159,12 @@
         "title": "Definition and reason for the conflict",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Conflict",
           "Socio-political",
           "Power",
-          "Envirionment"
+          "Envirionment",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "The redrawing of borders generates a complex bureaucratic conflict involving governments, states, and citizens. Administrative entities struggle to define where a nation begins and ends, while disputes arise over territorial ownership, jurisdiction, and cultural identity. States clash with each other to assert sovereignty, and populations experience disorientation as they find themselves relocated onto unfamiliar lands. The bureaucratic apparatus, intended to mediate order, becomes a field of tension—its procedures unable to contain the emotional, political, and existential chaos unleashed by the redistribution of territory.\n",
@@ -2225,12 +2184,12 @@
         "title": "Entity",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Envirionment",
           "Power",
           "Socio-political",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "We are an administrative entity tasked with determining the relocation of nations erased by rising sea levels. Through bureaucratic procedures, we identify still-emerged territories on which these vanished states can be “placed” anew. Each reassignment is calculated based on the exact surface area lost, ensuring formal equivalence between the submerged land and its replacement. This process transforms geography into a matter of administrative redistribution, reducing sovereignty and cultural identity to measurable spatial data within a global ledger of displaced nations.",
@@ -2250,12 +2209,12 @@
         "title": "What if",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Envirionment",
           "Power",
           "Socio-political",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "What if the redistribution of the world’s states became inevitable, forcing a new balance between governments, nations, and citizens? In the near future, the progressive melting of ice caps will raise sea levels, submerging vast portions of national territories. Entire populations will lose their homelands, triggering political, bureaucratic, and humanitarian crises. Bureaucracy will become the central mechanism through which new borders are negotiated and redrawn, transforming the act of governance into an exercise of global spatial management—an attempt to restore equilibrium in a world where geography itself has collapsed.",
@@ -2275,7 +2234,6 @@
         "title": "Passports, Citizenship, and the Bureaucratic Definition of Self",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Public administration",
           "Socio-political",
@@ -2300,7 +2258,6 @@
         "title": "Citizenship as Bureaucratic Identity",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Identity",
           "Conflict",
@@ -2326,7 +2283,6 @@
         "title": "Ius sanguinis",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Public administration",
           "Law",
@@ -2351,7 +2307,6 @@
         "title": "Genetic Information Extracted from Blood",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Science",
           "Identity"
@@ -2374,7 +2329,6 @@
         "title": "ius sanguinis vs ius solis",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Public administration",
           "Law",
@@ -2399,12 +2353,12 @@
         "title": "Context a world reshaped by rising seas",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Conflict",
           "Socio-political",
           "Power",
-          "Envirionment"
+          "Envirionment",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "Scientific research increasingly confirms that sea levels are rising due to global warming and the melting of polar ice caps. As this trend continues, vast coastal areas will be submerged, altering ecosystems and forcing cities and civilizations to adapt to a predominantly aquatic planet. The Earth’s geography, as we know it, will become unrecognizable. In parallel, geopolitical tensions intensify: nations exert political, economic, or military pressure on others, redrawing territorial influence and destabilizing governance. Climate change, conflict, and economic crises trigger mass migrations, turning millions into refugees seeking stability and survival. These flows strain existing state structures and continually redefine the world’s political and social landscape, setting the stage for new bureaucratic and territorial conflicts.",
@@ -2424,7 +2378,6 @@
         "title": "Negative feedback",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "the bureaucratic conflict does not emerge enough, indeed there is the risk that the environmental conflict emerges more",
@@ -2444,7 +2397,6 @@
         "title": "Problem to reflect on",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Power",
           "Socio-political",
@@ -2470,14 +2422,14 @@
         "title": "What if",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Conflict",
           "Law",
           "Identity",
           "Socio-political",
           "Power",
-          "Public administration"
+          "Public administration",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "What if passports were assigned randomly, detached from birthplace or nationality? In this speculative scenario, the hierarchy of mobility would collapse into chance. Access, privilege, and restriction would no longer depend on inherited citizenship but on probability. Such a system would expose the arbitrariness of borders and question the moral legitimacy of belonging, revealing how much of one’s freedom is determined not by identity or action, but by administrative lottery.",
@@ -2497,7 +2449,6 @@
         "title": "Feedback negativo",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The concept was considered insufficiently speculative, as the random assignment of passports merely reinforces the existing arbitrariness already embedded in current systems of citizenship and border control. While it highlights inequality, it does not introduce a truly alternative or critical mechanism. ",
@@ -2517,7 +2468,6 @@
         "title": "Problem to reflect on",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Conflict",
@@ -2541,12 +2491,12 @@
         "title": "What if",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Public administration",
           "Conflict",
           "Socio-political",
-          "Law"
+          "Law",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "And what if a person’s movement across borders followed the same bureaucratic process as that of a package?",
@@ -2566,7 +2516,6 @@
         "title": "Negative feedback",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The scenario was considered too linear, relying on a one-to-one correspondence between physical relocation and bureaucratic process. The feedback highlights the need for greater complexity—moving beyond direct analogies to explore how bureaucratic structures might transform, overlap, or malfunction when faced with such large-scale reorganization. The concept should evoke systemic ambiguity rather than simple equivalence between displacement and administration.",
@@ -2586,7 +2535,6 @@
         "title": "The American Green Card Lottery",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Public administration",
           "Law",
@@ -2612,7 +2560,6 @@
         "title": "Unwritten Rules of Hospitality",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Sociology",
           "Envirionment"
@@ -2635,12 +2582,12 @@
         "title": "The Threshold as a Boundary",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Sociology",
           "Envirionment",
           "Public administration",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "The house threshold functions as a symbolic and practical boundary—a point where inclusion and exclusion are negotiated. It marks the transition between public and private, between the world of shared rules and the domain of personal control. By using an object like a doormat, the homeowner can perform an act of selection, deciding who crosses that boundary and under what conditions. This small gesture transforms the entrance into an active interface of social and relational filtering.",
@@ -2660,8 +2607,9 @@
         "title": "negative Feedback",
         "type": "Feedback",
         "action": null,
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "The concept was considered not sufficiently speculative, as the domestic threshold already implies an inherent form of selection linked to private property. The act of choosing who may enter a home is a right already guaranteed by ownership, leaving little room for critical or speculative development. To strengthen the idea, the feedback suggests exploring contexts where boundaries are less explicit or negotiable—spaces in which the notion of access, permission, or exclusion is contested rather than predetermined.",
         "links": [],
@@ -2680,9 +2628,9 @@
         "title": "Levels of conflicts",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "→ Paradoxical bureaucratic conflict:\nBureaucracy embodies a fundamental contradiction: it is designed to regulate, resolve, clarify, and protect, yet in doing so it inevitably depersonalizes, constrains, obliges, and excludes.\nThis tension reveals a deeper clash between two opposing forces — on one side, the rational and impersonal nature of bureaucratic order; on the other, the spontaneous and profoundly human dimension of personal relationships.",
@@ -2702,10 +2650,10 @@
         "title": "What if",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Public administration",
-          "Sociology"
+          "Sociology",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "What if bureaucracy extended its control to the most intimate spheres of human life?",
@@ -2725,8 +2673,9 @@
         "title": "Message to convey",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "What we mean is that bureaucracy is dehumanizing, but this can be seen both positively and negatively (protection vs. constraint).\nBureaucracy is dehumanizing in its attempt to judge purely human situations through the application of laws and rationality.",
         "links": [],
@@ -2745,11 +2694,11 @@
         "title": "Entity",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Public administration",
           "Sociology",
-          "Power"
+          "Power",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "We are an insurance agency that citizens are strongly encouraged to consult before entering a relationship — or to regulate one that already exists.\nOur task is to formalize and regulate every aspect of the relationship, ensuring that, in moments of ambiguity or conflict, there is a bureaucratic procedure to follow that protects both parties.\nIn this way, we guarantee that any misunderstandings or offenses are handled rationally and in full compliance with established procedures.",
@@ -2769,7 +2718,6 @@
         "title": "Movement of packages and people",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Conflict",
@@ -2795,7 +2743,6 @@
         "title": "Feedback",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Dig deeper into research to gather as much information as possible on insurance processes and other relevant elements that could help you build a communication engine.",
@@ -2815,12 +2762,11 @@
         "title": "Research Objective: Insurance Communication & Unconventional Products",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Insurance",
           "Law",
           "Administration",
-          "Communication"
+          "Communication Design"
         ],
         "tags": [],
         "desc": "Need to survey the landscape of insurance types and map the market leaders to understand how they communicate value, trust and risk. Focus on: (1) mainstream insurers — their tone, channels, visual language, and regulatory framing; (2) outlier products or insurers offering non-standard policies (e.g., micro-insurance, parametric, reputation/identity coverage, climate-risk products) to analyse how atypical risks are narrated and sold. Aim to extract communication patterns, persuasive tropes, and positioning strategies that enable or disrupt legitimacy. Methods: desk research, comparative case studies, and semiotic analysis of campaigns and policy language.",
@@ -2840,10 +2786,10 @@
         "title": "Dr. John Gottman’s Love Lab ",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Science",
-          "Sociology"
+          "Sociology",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "For over forty years, Dr. John Gottman, in collaboration with Dr. Robert Levenson, transformed the study of romantic relationships from an anecdotal field into a predictive science. Through longitudinal studies tracking hundreds of couples—some for decades—they identified measurable physiological and behavioral markers that differentiate thriving relationships from failing ones. Their work established the foundation of modern relationship science, demonstrating that emotional stability, empathy, and physiological regulation can be quantified and used to forecast relational outcomes with striking accuracy.",
@@ -2866,7 +2812,6 @@
         "title": "Research Objective: Bureaucracy in Contemporary Interpersonal Relationships",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Sociology",
           "Law",
@@ -2890,7 +2835,6 @@
         "title": "Lloyd’s of London: The Market of Uninsurable Risks",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Law",
@@ -2916,11 +2860,10 @@
         "title": "Strategies and communication across Insurances",
         "type": "Source",
         "action": null,
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication"
+          "Communication Design"
         ],
         "tags": [],
         "desc": "Traditional insurance giants such as Generali, Allianz, and AXA address an older demographic through serious, institutional communication—emphasizing reliability, stability, and expertise. Their tone conveys authority and long-standing trust. In contrast, newer players like Prima, Segugio, and NeN target younger audiences with light-hearted, ironic, and digital-first messaging. Their communication is dynamic, playful, and accessible, often using humor and informal language to demystify the bureaucratic world of insurance. This contrast reveals how tone and identity are strategically adapted to shape perceptions of security across generations.",
@@ -2940,7 +2883,6 @@
         "title": "Forms of Bureaucratic Mediation in Relationships",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Public administration",
           "Law",
@@ -2965,7 +2907,6 @@
         "title": "The Logic of Insurance Contracts",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -2988,10 +2929,9 @@
         "title": "Physiological Parameters in Relationship Dynamics",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Sociology",
-          "Interaction",
+          "Interaction Design",
           "Science"
         ],
         "tags": [],
@@ -3012,7 +2952,6 @@
         "title": "Literary Visions of Bureaucratic Control",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Literature",
           "Sociology"
@@ -3035,7 +2974,6 @@
         "title": "Absurd Insurance Policies",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Law",
@@ -3059,10 +2997,10 @@
         "title": "Phase 1: The Love Lab and Data Collection Methodology",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Science",
-          "Sociology"
+          "Sociology",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "At the core of Gottman’s research was the Love Lab—a simulated apartment at the University of Washington designed to observe couples in a natural, intimate setting. Participants interacted freely while researchers collected synchronized streams of data. Behavioral data were captured through hidden cameras and analyzed via systems like Ekman’s Facial Affect Coding System, decoding facial expressions, tone, and body language. Physiological data—the study’s most groundbreaking contribution—were gathered through biometric sensors tracking heart rate, skin conductance (GSR), blood pressure, and micro-movements as indicators of stress or arousal. Self-reported data complemented these measures: couples turned a dial to rate their emotional state in real time. Together, these layers offered an unprecedented multidimensional view of relational dynamics, merging emotion, body, and perception into measurable patterns.",
@@ -3082,10 +3020,10 @@
         "title": "Phase 2: The Structured Experimental Protocol",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Science",
-          "Sociology"
+          "Sociology",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "To ensure consistency and comparability across participants, Gottman’s studies followed a standardized three-step conversational protocol. After spending at least eight hours apart to make their reunion more emotionally salient, couples engaged in three fifteen-minute discussions: \n1. Daily Events, a neutral exchange used to establish physiological and behavioral baselines; \n2. Conflict Discussion, the central phase, where partners debated a recurring disagreement, serving as an emotional “stress test” to reveal conflict-management patterns and physiological reactivity\n3. Positive Topic, a conversation focused on shared enjoyment or agreement, measuring each couple’s ability to de-escalate tension and repair emotional connection. This structured sequence allowed researchers to capture the full emotional cycle—stability, stress, and recovery—within controlled yet authentic relational dynamics.",
@@ -3105,10 +3043,10 @@
         "title": "Phase 3: Key Discoveries and the Predictive Model",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Science",
-          "Sociology"
+          "Sociology",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "The extensive data collected in Gottman and Levenson’s studies led to groundbreaking discoveries that shaped the foundation of Gottman’s predictive model of relationships.\nThe Physiology of Conflict – “Flooding”: Gottman identified flooding—a diffuse physiological activation (DPA) in which stress hormones like adrenaline surge, pushing heart rate above 100 bpm. In this state, reasoning and empathy collapse; communication becomes physiologically impossible. Flooding often triggers stonewalling, the emotional withdrawal of one partner as a self-protective response. Elevated physiological arousal proved to be a stronger predictor of relational decline than observed behavior alone.\nThe Four Horsemen of the Apocalypse: Gottman isolated four toxic interaction patterns that reliably predict divorce: criticism (attacking character rather than behavior), contempt (moral superiority and ridicule, the strongest predictor), defensiveness (playing the victim or counterattacking), and stonewalling (emotional withdrawal linked to flooding).\nThe Mathematics of Stability – The “Magic Ratio”: Gottman quantified emotional balance, showing that stable couples maintain a ratio of 5 positive interactions for every negative one during conflict, and up to 20:1 outside it. Negative exchanges carry heavier emotional weight, requiring abundant positive moments—affection, humor, empathy—to sustain relational health. Together, these findings established a measurable, physiological model for predicting the future of love.",
@@ -3128,10 +3066,10 @@
         "title": "Conclusion: The Measurable Logic of Relationships",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Science",
-          "Sociology"
+          "Sociology",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Gottman’s research ultimately revealed that the fate of a relationship is not mysterious but governed by identifiable and measurable patterns of interaction and physiological reactivity. Success in love does not depend on the absence of conflict, but on a couple’s ability to navigate disagreement without falling into destructive behavioral cycles or being overwhelmed by negative physiological arousal. Emotional intelligence and regulation—rather than passion or compatibility alone—emerge as the true predictors of relational longevity, transforming intimacy into a field where even affection obeys the laws of measurable equilibrium.",
@@ -3151,10 +3089,10 @@
         "title": "Phase 4: The Predictive Model of Relationship Outcomes",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Science",
-          "Sociology"
+          "Sociology",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "By integrating behavioral, physiological, and emotional data, Gottman synthesized his findings into a predictive model capable of forecasting divorce with over 90% accuracy across multiple studies. The model not only determined if a couple would separate but also when. Two primary trajectories emerged: Early Divorce (on average 5.6 years after marriage), associated with the intense presence of the Four Horsemen—criticism, contempt, defensiveness, and stonewalling—marking relationships dominated by volatility and conflict; and Late Divorce (around 16.2 years after marriage), characterized by emotional disengagement rather than open hostility, as affection and positivity fade into detachment. The model reframed relationship breakdown as a measurable process, revealing how emotional patterns and physiological regulation predict the long-term stability of human bonds.",
@@ -3174,12 +3112,12 @@
         "title": "Output-oriented design",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "To develop our communication engine, we prioritized analyzing the steps of our core service. We have decided to focus on the initial phase, which involves assessing the couple across various aspects to create a highly personalized contract.",
@@ -3199,7 +3137,6 @@
         "title": "The Risk Triangle: The Core of Insurance Logic",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -3222,7 +3159,6 @@
         "title": "The Subjects of the Insurance Contract",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -3245,7 +3181,6 @@
         "title": "How an Insurance Contract Is Established",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -3268,7 +3203,6 @@
         "title": "Fondamental parts",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -3291,7 +3225,6 @@
         "title": "Cinematic Visions of Bureaucratic Control",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Cinema",
           "Sociology"
@@ -3314,11 +3247,10 @@
         "title": "Creation of a Brand Identity",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3339,11 +3271,10 @@
         "title": "Formal Branding",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3364,11 +3295,10 @@
         "title": "Feedback",
         "type": "Feedback",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3389,11 +3319,10 @@
         "title": "Approachable Branding",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3414,11 +3343,10 @@
         "title": "Naming",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3439,11 +3367,10 @@
         "title": "Tone of voice",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3464,11 +3391,10 @@
         "title": "Vision and Mission",
         "type": "Concept",
         "action": null,
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3489,11 +3415,10 @@
         "title": "Values",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3514,11 +3439,10 @@
         "title": "Payoff",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3539,11 +3463,10 @@
         "title": "moodboard",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3605,11 +3528,10 @@
         "title": "Color Palette",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3639,11 +3561,10 @@
         "title": "Logo Mark",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3673,11 +3594,10 @@
         "title": "Our Key Message",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3698,11 +3618,10 @@
         "title": "Applications",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3748,11 +3667,10 @@
         "title": "Naming",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3773,11 +3691,10 @@
         "title": "payoff",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3798,11 +3715,10 @@
         "title": "Tone of Voice",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3823,11 +3739,10 @@
         "title": "Vison and Mission",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3848,11 +3763,10 @@
         "title": "Values",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3873,11 +3787,10 @@
         "title": "Our Key Message",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3898,11 +3811,10 @@
         "title": "Moodboard",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3956,11 +3868,10 @@
         "title": "Color Palette",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -3990,11 +3901,10 @@
         "title": "Logo Mark",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4024,11 +3934,10 @@
         "title": "Applications",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4074,11 +3983,10 @@
         "title": "Feedback on the Two Brand Identities",
         "type": "Feedback",
         "action": null,
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4099,11 +4007,10 @@
         "title": "Improving OPS",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4124,11 +4031,10 @@
         "title": "New Color Palette",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4158,11 +4064,10 @@
         "title": "New Logo Mark",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4192,11 +4097,10 @@
         "title": "New Applications",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4242,11 +4146,10 @@
         "title": "Feedback",
         "type": "Feedback",
         "action": null,
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4267,11 +4170,10 @@
         "title": "New Brand Identity",
         "type": "Observation",
         "action": null,
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4292,7 +4194,6 @@
         "title": "contrattp",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -4315,12 +4216,12 @@
         "title": "Core elements",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "The machine will first include a phase dedicated to defining the nature of the relationship, followed by a moment in which physiological parameters are recorded while the two individuals are interacting.",
@@ -4340,12 +4241,12 @@
         "title": "Relative positioning of the two individuals",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "The two individuals will either stand side by side with the machine positioned in front of them, or face each other with the machine placed between them.",
@@ -4365,12 +4266,12 @@
         "title": "To look into each other’s eyes",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Drawing inspiration from Marina Abramović’s performance The Artist Is Present, the two individuals will be required to look into each other’s eyes for one minute. This prolonged gaze is expected to trigger intense emotional responses, altering physiological parameters and, consequently, influencing the resulting risk assessment between the two.",
@@ -4390,12 +4291,12 @@
         "title": "Joint Action",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "The two individuals will be asked to perform a collaborative action that places them toward a shared objective. One option is to introduce a task whose resolution requires active cooperation between them.\nThis collaboration may be functional or dysfunctional, leading to variations in the physiological parameters recorded and, consequently, to changes in the risk assessment between the two individuals.",
@@ -4415,12 +4316,12 @@
         "title": "Physiological parameters ",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Based on Gottman’s studies, we adopt two key physiological parameters also used in his research: Skin Conductance Level (SCL) and Interbeat Interval (IBI). Empirical findings show that as IBI decreases and SCL increases, an individual’s level of physiological arousal rises. Higher arousal corresponds to greater stress activation, which, in relational contexts, is associated with increased dissatisfaction. The more physiologically aroused individuals are, the higher the relational risk becomes, as elevated arousal undermines emotional regulation and constructive interaction.",
@@ -4442,12 +4343,12 @@
         "title": "Feedback on the main interaction",
         "type": "Feedback",
         "action": null,
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "The act of looking into each other’s eyes is more compelling and appears more powerful.\n",
@@ -4467,12 +4368,12 @@
         "title": "Phases",
         "type": "Feedback",
         "action": null,
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Need to clearly define the stages that participants will be asked to go through.",
@@ -4492,11 +4393,10 @@
         "title": "Phase One",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Conflict",
-          "Interaction",
+          "Interaction Design",
           "Experience"
         ],
         "tags": [],
@@ -4517,12 +4417,12 @@
         "title": "Phase Two",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Each individual is asked to define the intensity of the relationship. Acting separately, they adjust a slider to indicate the approximate percentage representing how intense they perceive their relationship with the other person to be.",
@@ -4542,12 +4442,12 @@
         "title": "Phase Three",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Participants will be required to place their hand on the conductance sensors in order to measure skin conductance.",
@@ -4567,12 +4467,12 @@
         "title": "Phase Four",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Participants will be asked to look into each other’s eyes for one minute. During this time, the sensors in contact with their hands will record the necessary physiological parameters to assess their level of conflict.",
@@ -4592,12 +4492,12 @@
         "title": "Phase Five",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "The participants will leave their stations and receive a printed, personalized contract tailored to their specific situation.",
@@ -4617,11 +4517,10 @@
         "title": "naming ",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4642,11 +4541,10 @@
         "title": "Tone of Voice and Identity",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4667,11 +4565,10 @@
         "title": "Color Palette",
         "type": "Concept",
         "action": null,
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4701,11 +4598,10 @@
         "title": "Applications",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4767,11 +4663,10 @@
         "title": "Logo Mark",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4801,10 +4696,9 @@
         "title": "video teaser",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Communication",
+          "Communication Design",
           "Brand identity",
           "Video"
         ],
@@ -4826,10 +4720,10 @@
         "title": "IBI E SCL with Arduino",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Science",
-          "Electronic system"
+          "Electronic system",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Construction of the system component responsible for capturing skin conductance and heart rate.",
@@ -4858,12 +4752,12 @@
         "title": "naming for the machine",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Conflict",
-          "Communication"
+          "Communication Design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "EyeDeal brings together multiple concepts within a single experience.\nEye refers to the act of sustained eye contact between participants. Deal recalls both the handshake traditionally used to seal an agreement and the machine itself, which functions as a contractual device by producing a formal contract.\n\nCombined into a single term, EyeDeal conveys the idea that, through the experience of looking at one another, an irreversible pact is created—an agreement that is generated, enforced, and made permanent by the system.",
@@ -4883,10 +4777,9 @@
         "title": "Structural requirements for the experience",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
-          "Interaction",
+          "Interaction Design",
           "Conflict",
           "Brand identity",
           "Spatial design"
@@ -4909,11 +4802,10 @@
         "title": "Categories of relationships",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Conflict",
-          "Interaction",
+          "Interaction Design",
           "Experience"
         ],
         "tags": [],
@@ -4934,11 +4826,10 @@
         "title": "Scene 2: bathroom",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Video",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -4968,11 +4859,10 @@
         "title": "Scene 3: dining room",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Video",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -5002,11 +4892,10 @@
         "title": "Scene 4: living room",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Video",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -5036,11 +4925,10 @@
         "title": "Scene 1: printer",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Video",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -5070,11 +4958,10 @@
         "title": "Scene 5: studio",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Video",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -5104,10 +4991,9 @@
         "title": "Scene 6: printer",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Communication",
+          "Communication Design",
           "Brand identity",
           "Video"
         ],
@@ -5138,10 +5024,10 @@
         "title": "No IBI",
         "type": "Observation",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Science",
-          "Electronic system"
+          "Electronic system",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Since heart rate sensors are extremely sensitive and difficult to calibrate accurately, we decided not to use them. Any data obtained from these sensors would likely be inaccurate or, at best, approximate. For this reason, the system will focus exclusively on skin conductance measurements, which are considered more reliable and better aligned with the aims of the project.",
@@ -5161,12 +5047,12 @@
         "title": "Brainstorming on the shape of the machine",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
-          "Conflict"
+          "Conflict",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Particular attention will be given to the form of the machine’s external structure, which is designed to isolate the participants from the surrounding environment and focus their attention on the experience.",
@@ -5219,13 +5105,13 @@
         "title": "Indecision between a tubular form and a rectangular form.",
         "type": "Observation",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Conflict",
           "Product design",
-          "Communication"
+          "Communication Design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "The tubular shape is more immersive but significantly less comfortable: it isolates the head, yet requires a mechanical movement to view the control panel.\nThe rectangular shape is much more comfortable, but offers a lower degree of isolation.",
@@ -5254,13 +5140,13 @@
         "title": "decision on structure",
         "type": "Observation",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
           "Conflict",
-          "Communication"
+          "Communication Design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "The decision was made to proceed with a rectangular structure, which still provides isolation through external panels, while allowing freedom of movement and maintaining an intuitive user experience.",
@@ -5289,14 +5175,14 @@
         "title": "Control panel shape",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
           "Conflict",
-          "Communication",
-          "Product design"
+          "Communication Design",
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "",
@@ -5325,14 +5211,14 @@
         "title": "Introduction of the hand-holding gesture",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
           "Conflict",
           "Product design",
-          "Communication"
+          "Communication Design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "To further emphasize the phase of sustained eye contact, we introduced an additional gesture that activates the gaze timer: the participants must hold each other’s right hand for the duration of one minute.\nThis gesture conveys a sense of connection, while simultaneously imposing an obligation to remain in place. Touch introduces both positive and negative emotional responses, reinforcing the emotional tension of the experience",
@@ -5352,13 +5238,13 @@
         "title": "Possibility of adding music",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
           "Conflict",
-          "Sound design"
+          "Sound design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "By introducing additional sensors, it is possible to measure the electrical capacitance of the two participants as they hold hands, using two metal plates that must be touched simultaneously. This addition allows the integration of background music, making the experience even more immersive. The music can also dynamically change in response to variations in the measured capacitance values, creating a direct connection between the participants’ interaction and the auditory environment.",
@@ -5378,13 +5264,13 @@
         "title": "Audio instructions",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
           "Conflict",
-          "Sound design"
+          "Sound design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "1. Benvenuti al servizio eyedeal di alua\n2. Eyedeal è progettata per stipulare il vostro contratto assicurativo sulla base della vostra affinità interpersonale\n3. Per prima cosa ognuno selezioni, utilizzando i bottoni, i tipi di relazione che vi uniscono\n4. Il tempo per la selezione sta per finire\n4.1. suono DADANNN\n5. Adesso definite l’intensità del vostro rapporto tramite lo slider sulla vostra destra.\n6. il tempo per la selezione sta per finire\n6.1 suono dadannn\n7. Sta per iniziare la fase di valutazione biometrica che durerà 60 secondi \n8. Appoggiate la mano  sul sensore alla vostra sinistra.\n9. Ora guardatevi negli occhi in silenzio.\n10. Per avviare il minuto di analisi, stringetevi la mano destra appoggiando il polso sul supporto al centro.\n11. Mantenete lo sguardo\n12. Manca poco alla fine dell’analisi\n12.1 suono DADANNN\n13. La rilevazione biometrica è terminata, potete togliere le mani dai sensori.\n14. Il vostro contratto è in stampa, ritiratelo all’esterno della struttura.",
@@ -5404,13 +5290,13 @@
         "title": "costruzione struttura in metallo",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
           "Conflict",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "The structure was built using 4 cm angular and flat aluminum profiles. It is designed to house the machine and will be completed with plexiglass panels forming the external enclosure.\n\nDimensions:\n– Height: 200 cm\n– Width: 70 cm\n– Depth: 150 cm, with a division line every 50 cm\n– Height of the machine support surface: 80 cm",
@@ -5455,13 +5341,13 @@
         "title": "Construction of the control panel",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
           "Conflict",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "A wooden prototype was built to define the overall volume of the control panel. The structure includes a drawer designed to house all the necessary electronic components.\n\nDimensions:\n– Height: 20 cm\n– Width: 70 cm\n– Depth: 50 cm\n– Divider height: 25 cm",
@@ -5506,10 +5392,10 @@
         "title": "",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Science",
-          "Sociology"
+          "Sociology",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "",
@@ -5529,13 +5415,13 @@
         "title": "Initial assembly of the two components together",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
           "Conflict",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "",
@@ -5580,10 +5466,9 @@
         "title": "Typographic palette",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -5604,7 +5489,6 @@
         "title": "calolo della percentuale di affinità",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -5627,7 +5511,6 @@
         "title": "fasce di rischio",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -5650,7 +5533,6 @@
         "title": "clausole",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -5673,7 +5555,6 @@
         "title": "parte fissa",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -5696,7 +5577,6 @@
         "title": "id ",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -5719,7 +5599,6 @@
         "title": "frase",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -5742,7 +5621,6 @@
         "title": "qr code",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -5765,7 +5643,6 @@
         "title": "app",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -5788,7 +5665,6 @@
         "title": "grafica",
         "type": "",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "",
@@ -5817,7 +5693,6 @@
         "title": "grafica",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -5849,7 +5724,6 @@
         "title": "grafica",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Administration",
           "Insurance"
@@ -5889,13 +5763,13 @@
         "title": "Arduino assembly with all components",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
           "Conflict",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "– Audio and timing functionality\n– Button functionality\n– Slider functionality\n– SCL sensor functionality\n– Printer functionality",
@@ -5915,11 +5789,10 @@
         "title": "Final posters",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -5973,11 +5846,10 @@
         "title": "Invite",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -6007,10 +5879,9 @@
         "title": "Longer Video",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Communication",
+          "Communication Design",
           "Brand identity",
           "Video"
         ],
@@ -6032,13 +5903,13 @@
         "title": "Final finishing phase of the machine",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
           "Conflict",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "– Color selection\n– Metal assembly\n– Final aesthetic decisions",
@@ -6083,13 +5954,13 @@
         "title": "Decision to remove the capacitance measurement while retaining the handshake",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
           "Conflict",
-          "Sound design"
+          "Sound design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Implementing responsive audio based on participants’ capacitance proved too challenging. The decision was made to maintain the handshake gesture itself, preserving its symbolic and experiential value, while omitting the capacitance-based interaction.",
@@ -6109,11 +5980,10 @@
         "title": "Small advertising campaign ideas",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -6167,13 +6037,13 @@
         "title": "Final appearance",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Insurance",
           "Public administration",
           "Science",
           "Conflict",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Materials used:\nControl panel\n– Laser-cut galvanized metal sheets\n– Painted wood in violet\n– Synthetic glass with UV printing\n– Buttons and sliders\n\nStructure\n– 6 mm cellular polycarbonate panels\n– Smooth matte aluminum standers\n",
@@ -6226,11 +6096,10 @@
         "title": "32esimo",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
           "Administration",
-          "Communication",
+          "Communication Design",
           "Brand identity"
         ],
         "tags": [],
@@ -6284,10 +6153,9 @@
         "title": "Process of creation and behind-the-scenes insights",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Communication",
+          "Communication Design",
           "Brand identity",
           "Video"
         ],
@@ -6342,10 +6210,9 @@
         "title": "Scene 1",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Communication",
+          "Communication Design",
           "Brand identity",
           "Video"
         ],
@@ -6376,12 +6243,11 @@
         "title": "code structure",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Administration",
           "Insurance",
-          "Communication",
-          "Interaction",
+          "Communication Design",
+          "Interaction Design",
           "Electronic system"
         ],
         "tags": [],
@@ -6411,10 +6277,9 @@
         "title": "Scene 2",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Communication",
+          "Communication Design",
           "Brand identity",
           "Video"
         ],
@@ -6469,10 +6334,9 @@
         "title": "Scene 3",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Communication",
+          "Communication Design",
           "Brand identity",
           "Video"
         ],
@@ -6503,10 +6367,9 @@
         "title": "Scene 4",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Insurance",
-          "Communication",
+          "Communication Design",
           "Brand identity",
           "Video"
         ],

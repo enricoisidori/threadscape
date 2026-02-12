@@ -557,17 +557,15 @@
         margin-top: 4px !important;
       }
       /* --- Mettere in fondo al SECONDO <style> --- */
-      /* Hover uniforme per Action/MainArea come Tags (vince su .chip.radio) */
-      #actionChips .chip:hover,
-      #mainAreaChips .chip:hover {
+      /* Hover uniforme per Action come Tags (vince su .chip.radio) */
+      #actionChips .chip:hover {
         background: var(--chip-hover, #1c1c1c) !important;
         border-color: #ffffff !important;
         color: #ffffff !important;
         opacity: 1 !important;
         cursor: pointer;
       }
-      #actionChips .chip.active,
-      #mainAreaChips .chip.active {
+      #actionChips .chip.active {
         background: var(--chip-active, #2f2f2f) !important;
         color: #fff !important;
       }
@@ -1164,7 +1162,7 @@
         gap: 6px;
         margin-top: 6px;
       }
-      /* Uniforma hover chip (tags, action, mainArea) */
+      /* Uniforma hover chip (tags, action) */
       .chip {
         display: inline-flex;
         align-items: center;
@@ -1237,7 +1235,7 @@
         background: #fff;
         border-radius: 1px;
       }
-      /* Ensure radio chips (Action/Main area) get the same white hover border */
+      /* Ensure radio chips (Action) get the same white hover border */
       .chip.radio:hover {
         border-color: #ffffff;
       }
@@ -1395,24 +1393,20 @@
         border: var(--line-w) solid var(--line) !important;
       }
       .chip:hover,
-      #actionChips .chip:hover,
-      #mainAreaChips .chip:hover {
+      #actionChips .chip:hover {
         background: var(--chip-hover) !important;
         border-color: #8f8f8f !important;
         color: var(--ink) !important;
       }
       .chip.active,
       .chip:active,
-      #actionChips .chip.active,
-      #mainAreaChips .chip.active {
+      #actionChips .chip.active {
         background: var(--chip-active) !important;
         border-color: #7f7f7f !important;
         color: var(--ink) !important;
       }
       #actionChips .chip.active:not(:hover),
-      #mainAreaChips .chip.active:not(:hover),
-      #actionChips .chip.active:not(:hover) *,
-      #mainAreaChips .chip.active:not(:hover) * {
+      #actionChips .chip.active:not(:hover) * {
         color: var(--ink) !important;
       }
       .chip.radio:not(.active) {
@@ -1516,49 +1510,149 @@
       .chip:active {
         transform: none !important;
       }
+
+      /* === DATA VIEW (compact) ======================================== */
+      .app.data-mode {
+        grid-template-columns: 1fr !important;
+      }
+      .app.data-mode #stage,
+      .app.data-mode aside {
+        display: none !important;
+      }
+      #dataPane {
+        display: none;
+        grid-column: 1 / -1;
+        grid-row: 2 / -1;
+        padding: 14px 16px 18px;
+        overflow: auto;
+        background: var(--bg);
+      }
+      .app.data-mode #dataPane {
+        display: block;
+      }
+      .data-toolbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        margin-bottom: 12px;
+      }
+      .data-toolbar h2 {
+        margin: 0;
+        font-size: 16px;
+        font-weight: 600;
+        letter-spacing: 0.01em;
+      }
+      .chip-toggle {
+        background: var(--chip);
+        color: #fff;
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        padding: 6px 12px;
+        cursor: pointer;
+        font-size: 12px;
+        display: inline-flex;
+        gap: 6px;
+        align-items: center;
+      }
+      .chip-toggle.active {
+        background: #ffffff;
+        color: #000;
+      }
+      .chart-card {
+        background: var(--panel);
+        border: 1px solid rgba(255, 255, 255, 0.06);
+        border-radius: 12px;
+        padding: 12px 14px;
+        margin-bottom: 12px;
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.32);
+      }
+      .chart-card h3 {
+        margin: 0 0 8px;
+        font-size: 14px;
+        font-weight: 600;
+        color: #fff;
+      }
+      .chart-card .muted {
+        font-size: 12px;
+      }
+      #btnToggleView.active {
+        background: var(--btn-active);
+      }
+      #lineChart {
+        width: 100%;
+        max-width: 980px;
+        height: 240px;
+        min-height: 200px;
+        max-height: 320px;
+      }
+      #miniMap {
+        width: 100%;
+        max-width: 420px;
+        height: 220px;
+        border-radius: 10px;
+        background: #0f0f0f;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.02);
+        display: block;
+      }
     </style>
+    <link rel="stylesheet" href="./shared-ui.css" />
+    <script src="./shared-ui.js"></script>
   </head>
   <body>
     <div class="app">
-      <header>
-        <button id="btnNew" data-tip="New project">
-          <span class="material-symbols-outlined">note_add</span>
-        </button>
-        <button id="btnOpen" data-tip="Open (Cmd/Ctrl+O)">
-          <span class="material-symbols-outlined">file_open</span>
-        </button>
-        <button id="btnSave" data-tip="Save (Cmd/Ctrl+S)">
-          <span class="material-symbols-outlined">file_save</span>
-        </button>
-        <button id="btnAdd" data-tip="New node (N)">
-          <span class="material-symbols-outlined">add_box</span>
-        </button>
-        <button
-          id="btnConnect"
-          class="connect"
-          data-tip="Connect nodes (Shift+C)"
-        >
-          <span class="material-symbols-outlined">conversion_path</span>
-        </button>
-        <button id="btnAuto" data-tip="Auto layout (Alt+A)">
-          <span class="material-symbols-outlined">account_tree</span>
-        </button>
-        <button id="btnUndo" data-tip="Undo (Cmd/Ctrl+Z)">
-          <span class="material-symbols-outlined">undo</span>
-        </button>
-        <button id="btnRedo" data-tip="Redo (Cmd/Ctrl+Shift+Z)">
-          <span class="material-symbols-outlined">redo</span>
-        </button>
-        <button id="btnDel" data-tip="Delete (Del)">
-          <span class="material-symbols-outlined">delete</span>
-        </button>
-        <button id="btnFit" data-tip="Fit view (0)">
-          <span class="material-symbols-outlined">fullscreen</span>
-        </button>
-        <button id="btnHelp" class="icon-btn" data-tip="Help">
-          <span class="material-symbols-outlined">help</span>
-        </button>
-        <span id="status" class="muted" style="margin-left: 8px"></span>
+      <header class="ts-toolbar">
+        <div class="nav-left">
+          <button id="btnNew" data-tip="New project">
+            <span class="material-symbols-outlined">note_add</span>
+          </button>
+          <button id="btnOpen" data-tip="Open (Cmd/Ctrl+O)">
+            <span class="material-symbols-outlined">file_open</span>
+          </button>
+          <button id="btnSave" data-tip="Save (Cmd/Ctrl+S)">
+            <span class="material-symbols-outlined">file_save</span>
+          </button>
+          <button id="btnAdd" data-tip="New node (N)">
+            <span class="material-symbols-outlined">add_box</span>
+          </button>
+          <button
+            id="btnConnect"
+            class="connect"
+            data-tip="Connect nodes (Shift+C)"
+          >
+            <span class="material-symbols-outlined">conversion_path</span>
+          </button>
+          <button id="btnAuto" data-tip="Auto layout (Alt+A)">
+            <span class="material-symbols-outlined">account_tree</span>
+          </button>
+          <button id="btnUndo" data-tip="Undo (Cmd/Ctrl+Z)">
+            <span class="material-symbols-outlined">undo</span>
+          </button>
+          <button id="btnRedo" data-tip="Redo (Cmd/Ctrl+Shift+Z)">
+            <span class="material-symbols-outlined">redo</span>
+          </button>
+          <button id="btnDel" data-tip="Delete (Del)">
+            <span class="material-symbols-outlined">delete</span>
+          </button>
+          <button id="btnFit" data-tip="Fit view (0)">
+            <span class="material-symbols-outlined">fullscreen</span>
+          </button>
+          <button id="btnHelp" class="icon-btn" data-tip="Help">
+            <span class="material-symbols-outlined">help</span>
+          </button>
+          <span id="status" class="toolbar-status" aria-live="polite"></span>
+        </div>
+        <div class="nav-right">
+          <button id="btnProcessAnalysis" data-tip="Process analysis" class="icon-btn">
+            <span class="material-symbols-outlined">timeline</span>
+            <span class="btn-label">Process</span>
+          </button>
+          <button id="btnAnalysis" data-tip="Space analysis" class="icon-btn">
+            <span class="material-symbols-outlined">view_in_ar</span>
+            <span class="btn-label">Space</span>
+          </button>
+        </div>
       </header>
 
       <div id="stage"><svg id="edges" preserveAspectRatio="none"></svg></div>
@@ -1588,17 +1682,6 @@
               <div id="actionChips" class="chipRow">
                 <div class="chip radio" data-val="Exploring">Exploring</div>
                 <div class="chip radio" data-val="Making">Making</div>
-              </div>
-            </label>
-
-            <label
-              >Main area
-              <div id="mainAreaChips" class="chipRow">
-                <div class="chip radio" data-val="Speculation">Speculation</div>
-                <div class="chip radio" data-val="Interaction">Interaction</div>
-                <div class="chip radio" data-val="Communication">
-                  Communication
-                </div>
               </div>
             </label>
 
@@ -1669,6 +1752,7 @@
         />
         <div id="helpPanel"></div>
       </aside>
+
     </div>
 
     <script>
@@ -1737,7 +1821,6 @@
                 <li><strong>Date</strong><br>key date for the element (automatically set to the current date but editable and backdatable)</li>
                 <li><strong>Type</strong><br>choose or write a category (e.g. Concept, Artefact, Feedback...)</li>
                 <li><strong>Action</strong><br>the attitude involved, e.g. Exploring or Making</li>
-                <li><strong>Main Area</strong><br>the main disciplinary area (select only if it includes the node)</li>
                 <li><strong>Areas</strong><br>specific areas explored (comma-separated keywords)</li>
                 <li><strong>Tags</strong><br>free keywords for filtering; useful for recurring typologies, transversal, thematic, structural or methodological elements</li>
                 <li><strong>Description</strong><br>explanatory text (200–1000 characters including spaces)</li>
@@ -1746,8 +1829,7 @@
               </ul>
 
               <ul style="margin-top:10px;">
-                <li><strong>Main Area</strong> is a single label defining the primary domain (e.g., “Speculation”).</li>
-                <li><strong>Areas</strong> are multiple free-form keywords describing secondary themes or contexts (e.g., “biology, interaction design, performance”).</li>
+                <li><strong>Areas</strong> are multiple free-form keywords describing domains, themes or contexts (e.g., “biology, interaction design, performance”).</li>
                 <li><strong>Suggestions</strong> reuse previously used Types, Areas, and Tags to speed up data entry.</li>
               </ul>
             </div>
@@ -1762,7 +1844,7 @@
                 <li><span class="material-symbols-outlined">select_all</span><strong>Select multiple nodes:</strong><br>drag to create a selection rectangle</li>
                 <li><span class="material-symbols-outlined">open_with</span><strong>Move nodes:</strong><br>drag them (groups move together)</li>
                 <li><span class="material-symbols-outlined">automation</span><strong>Create a connection:</strong><br>drag from ● IN to ► OUT</li>
-                <li><span class="material-symbols-outlined">graph_1</span><strong>Click a ● IN handle:</strong><br>creates a connected duplicate node (inheriting Action and Main Area)</li>
+                <li><span class="material-symbols-outlined">graph_1</span><strong>Click a ● IN handle:</strong><br>creates a connected duplicate node (inheriting Action and Areas)</li>
                 <li><span class="material-symbols-outlined">conversion_path</span><strong>Connect mode:</strong><br>select one or more sources, click on the toolbar, click one or more targets, click again to exit</li>
                 <li><span class="material-symbols-outlined">diagonal_line</span><strong>Direct connect:</strong><br>with exactly two nodes selected, press C to connect left → right</li>
                 <li><span class="material-symbols-outlined">commit</span><strong>Alt/Option + click edge:</strong><br>split an edge and insert a node in the middle</li>
@@ -1832,7 +1914,80 @@
           IMG_TARGET_BYTES = 500 * 1024;
         const CLICK_THRESHOLD = 10;
 
-        const projectCtx = { mode: null, dirHandle: null };
+        const projectCtx = {
+          mode: null,
+          dirHandle: null,
+          folderName: null,
+          assetBase: "",
+        };
+        const SHARED_PROJECT_KEY = "threadscape.shared.project.v1";
+
+        function inferCurrentFolderName() {
+          if (projectCtx?.dirHandle?.name) return projectCtx.dirHandle.name;
+          if (projectCtx?.folderName) return projectCtx.folderName;
+          const base = String(projectCtx?.assetBase || "")
+            .trim()
+            .replace(/\/+$/, "");
+          if (base) {
+            const parts = base.split("/").filter(Boolean);
+            if (parts.length) return parts[parts.length - 1];
+          }
+          return null;
+        }
+
+        function persistSharedProjectState(source = "editor") {
+          const folderName = inferCurrentFolderName();
+          const assetBase =
+            String(projectCtx?.assetBase || "").trim() ||
+            (folderName ? `${folderName}/` : "");
+          const payload = {
+            version: 1,
+            source,
+            savedAt: Date.now(),
+            folderName: folderName || null,
+            assetBase,
+            project: buildProjectObject(6, "paths"),
+          };
+          localStorage.setItem(SHARED_PROJECT_KEY, JSON.stringify(payload));
+          return payload;
+        }
+
+        async function restoreSharedProjectFromOtherView() {
+          const params = new URLSearchParams(window.location.search);
+          const from = params.get("from");
+          if (!from || from === "editor") return false;
+          if (!["analysis", "space", "process"].includes(from)) return false;
+          try {
+            const raw = localStorage.getItem(SHARED_PROJECT_KEY);
+            if (!raw) return false;
+            const payload = JSON.parse(raw);
+            if (!payload || !payload.project) return false;
+            if (payload.source && payload.source !== from) return false;
+            projectCtx.mode = "embedded";
+            projectCtx.dirHandle = null;
+            projectCtx.folderName = payload.folderName || null;
+            projectCtx.assetBase =
+              String(payload.assetBase || "").trim() ||
+              (payload.folderName ? `${payload.folderName}/` : "");
+            await loadProject(payload.project, null);
+            const fromLabel =
+              from === "space"
+                ? "Space analysis"
+                : from === "process"
+                ? "Process analysis"
+                : "Analysis";
+            setStatus(`Project restored from ${fromLabel}`);
+            params.delete("from");
+            const qs = params.toString();
+            const clean = `${window.location.pathname}${qs ? `?${qs}` : ""}`;
+            window.history.replaceState({}, "", clean);
+            return true;
+          } catch (err) {
+            console.warn("Shared-state restore failed", err);
+            setStatus("Unable to restore project from linked view");
+            return false;
+          }
+        }
 
         const history = {
           undo: [],
@@ -1883,6 +2038,11 @@
         const stage = $("#stage"),
           edgesSVG = $("#edges"),
           status = $("#status");
+        const appEl = document.querySelector(".app");
+        const dataPane = document.getElementById("dataPane");
+        const btnToggleView = document.getElementById("btnToggleView");
+        const btnScale = document.getElementById("btnScale");
+        const dataViewState = { scale: "relative", chart: null };
         let __statusTimer = null;
         function setStatus(msg) {
           status.textContent = msg || "";
@@ -1893,6 +2053,38 @@
             status.textContent = "";
           }, 3000);
         }
+
+        function maybeRefreshDataView() {
+          if (appEl?.classList.contains("data-mode")) refreshDataView();
+        }
+
+        btnToggleView?.addEventListener("click", () => {
+          const toData = !appEl.classList.contains("data-mode");
+          appEl.classList.toggle("data-mode", toData);
+          btnToggleView.classList.toggle("active", toData);
+          const label = btnToggleView.querySelector(".btn-label");
+          if (label) label.textContent = toData ? "Node view" : "Data view";
+          setStatus(toData ? "Data view" : "Node view");
+          if (toData) refreshDataView();
+        });
+
+        btnScale?.addEventListener("click", () => {
+          dataViewState.scale =
+            dataViewState.scale === "relative" ? "absolute" : "relative";
+          btnScale.dataset.mode = dataViewState.scale;
+          btnScale.classList.toggle("active", dataViewState.scale === "relative");
+          const textSpan = btnScale.querySelector("span:last-child");
+          if (textSpan)
+            textSpan.textContent =
+              dataViewState.scale === "relative" ? "Relative %" : "Absolute #";
+          const icon = btnScale.querySelector(".material-symbols-outlined");
+          if (icon)
+            icon.textContent =
+              dataViewState.scale === "relative"
+                ? "percent"
+                : "format_list_numbered";
+          refreshDataView();
+        });
 
         /* ==== CONNECT FSM — self-contained in this IIFE ==== */
         // Mini helpers for status with HTML/pulse
@@ -2174,7 +2366,6 @@
           title: $("#fTitle"),
           type: $("#fType"),
           actionChips: $("#actionChips"),
-          mainAreaChips: $("#mainAreaChips"),
           areas: $("#fAreas"),
           areasChips: $("#areasChips"),
           tags: $("#fTags"),
@@ -2241,6 +2432,45 @@
             out.push(n);
           }
           return out;
+        }
+        function normalizeAreaToken(s) {
+          const n = normalizeToken(s);
+          if (!n) return "";
+          const key = n.toLowerCase();
+          if (key === "speculative" || key === "speculative design")
+            return "Speculative Design";
+          if (key === "communication" || key === "communication design")
+            return "Communication Design";
+          if (key === "interaction" || key === "interaction design")
+            return "Interaction Design";
+          return n;
+        }
+        function areaDedupeKey(s) {
+          return String(s || "")
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, " ")
+            .trim()
+            .replace(/\s+/g, " ");
+        }
+        function normalizeAreasArray(arr) {
+          const seen = new Set(),
+            out = [];
+          for (const raw of arr || []) {
+            const n = normalizeAreaToken(raw);
+            if (!n) continue;
+            const key = areaDedupeKey(n);
+            if (!key || seen.has(key)) continue;
+            seen.add(key);
+            out.push(n);
+          }
+          return out;
+        }
+        function mergeLegacyMainAreaIntoAreas(areas, legacyMain) {
+          const merged = Array.isArray(areas) ? [...areas] : [];
+          if (!Array.isArray(areas) && areas != null) merged.push(areas);
+          if (Array.isArray(legacyMain)) merged.push(...legacyMain);
+          else if (legacyMain != null) merged.push(legacyMain);
+          return normalizeAreasArray(merged);
         }
         function normalizeURL(s) {
           if (!s) return null;
@@ -2329,7 +2559,6 @@
             title: "",
             type: "",
             action: null,
-            mainArea: null,
             areas: [],
             tags: [],
             desc: "",
@@ -2371,6 +2600,7 @@
 
           selectOnlyNodes([id]);
           safeRedrawEdges();
+          maybeRefreshDataView();
           return id;
         }
         function addNode() {
@@ -2394,7 +2624,6 @@
               <div class="kv">
                 <div>Type</div><div class="object typeField"></div>
                 <div>Action</div><div class="action"></div>
-                <div>Main area</div><div class="mainArea"></div>
                 <div>Areas</div><div class="areas"></div>
               </div>
               <div class="descBlock">
@@ -2557,7 +2786,6 @@
                     const init = {
                       type: p.type || "",
                       action: p.action ?? null,
-                      mainArea: p.mainArea ?? null,
                       areas: [...(p.areas || [])],
                     };
                     const childId = addNodeAt(pos.x, pos.y, init);
@@ -2742,6 +2970,11 @@
 
           if ((e.metaKey || e.ctrlKey || e.altKey) && !inText) {
             const k = e.key.toLowerCase();
+            if (k === "f" && (e.metaKey || e.ctrlKey)) {
+              // Let browser Find run, but arm a one-shot "pan to match" when the selection updates.
+              state._findArmedUntil = Date.now() + 4000;
+              return;
+            }
             if (k === "z" && !e.shiftKey) {
               e.preventDefault();
               undo();
@@ -2851,6 +3084,40 @@
           }
         });
 
+        // Browser Find (Cmd/Ctrl+F): when it highlights text inside a node, pan the canvas to that node.
+        // This keeps the native Find UI, but makes results navigable like “search in a canvas”.
+        let _findPanRAF = 0;
+        document.addEventListener("selectionchange", () => {
+          if (!state._findArmedUntil || Date.now() > state._findArmedUntil) return;
+          if (_findPanRAF) cancelAnimationFrame(_findPanRAF);
+          _findPanRAF = requestAnimationFrame(() => {
+            try {
+              const sel = window.getSelection?.();
+              if (!sel || !sel.anchorNode) return;
+              const el =
+                sel.anchorNode.nodeType === Node.TEXT_NODE
+                  ? sel.anchorNode.parentElement
+                  : sel.anchorNode;
+              const nodeEl = el?.closest?.(".node");
+              if (!nodeEl || !nodeEl.id) return;
+              const node = getNodeById(nodeEl.id);
+              if (!node) return;
+
+              const r = stage.getBoundingClientRect();
+              const vw = r.width;
+              const vh = r.height;
+              const cx = node.x + (node.w || NODE_W) / 2;
+              const cy = node.y + (node.h || NODE_H) / 2;
+              state.pan.x = vw / 2 - cx * state.zoom;
+              state.pan.y = vh / 2 - cy * state.zoom;
+              applyView();
+              state._findArmedUntil = 0;
+            } catch (_) {
+              // ignore
+            }
+          });
+        });
+
         function doDeleteSelection() {
           if (state.selEdges.size || state.selNodes.size) pushHistory();
           if (state.selEdges.size) {
@@ -2884,6 +3151,7 @@
           updateSidebarSelectionLabel();
           refreshSidebarForms();
           clearForm();
+          maybeRefreshDataView();
         }
 
         function positionNode(node) {
@@ -2975,7 +3243,6 @@
             divAfterDate.style.display = hasDate ? "block" : "none";
           el.querySelector(".typeField").textContent = d.type || "";
           el.querySelector(".action").textContent = d.action || "";
-          el.querySelector(".mainArea").textContent = d.mainArea || "";
           el.querySelector(".areas").innerHTML = (d.areas || [])
             .map((a) => `<span class="badge">${esc(a)}</span>`)
             .join("");
@@ -3048,7 +3315,6 @@
           f.title.value = d.title || "";
           f.type.value = d.type || "";
           renderRadioChips(f.actionChips, d.action);
-          renderRadioChips(f.mainAreaChips, d.mainArea);
           f.areas.value = (d.areas || []).join(", ");
           f.tags.value = (d.tags || []).join(", ");
           f.desc.value = d.desc || "";
@@ -3073,7 +3339,6 @@
           f.tagsChips.innerHTML = "";
           f.typeChips.innerHTML = "";
           renderRadioChips(f.actionChips, null);
-          renderRadioChips(f.mainAreaChips, null);
         }
 
         function renderFilesList(node) {
@@ -3180,19 +3445,6 @@
             measure(node);
             scheduleHistory();
           });
-          f.mainAreaChips.addEventListener("click", (e) => {
-            const chip = e.target.closest(".chip");
-            if (!chip) return;
-            if (state.selNodes.size !== 1) return;
-            const node = getNodeById([...state.selNodes][0]);
-            const val = chip.getAttribute("data-val");
-            const newVal = node.data.mainArea === val ? null : val;
-            node.data.mainArea = newVal;
-            renderRadioChips(f.mainAreaChips, newVal);
-            populate(node);
-            measure(node);
-            scheduleHistory();
-          });
         }
         attachRadioChips();
 
@@ -3266,7 +3518,7 @@
         function vocabInitNodeSnapshot(node) {
           nodeLast.set(node.id, {
             type: normalizeToken(node.data.type || ""),
-            areas: new Set(normalizeArray(node.data.areas || [])),
+            areas: new Set(normalizeAreasArray(node.data.areas || [])),
             tags: new Set(normalizeArray(node.data.tags || [])),
           });
         }
@@ -3494,7 +3746,7 @@
           if (state.selNodes.size !== 1) return;
           const node = getNodeById([...state.selNodes][0]);
           if (!node) return;
-          const arr = normalizeArray(splitListComma(f.areas.value || ""));
+          const arr = normalizeAreasArray(splitListComma(f.areas.value || ""));
           const last = nodeLast.get(node.id);
           const prev = last ? new Set(last.areas) : new Set();
           const cur = new Set(arr);
@@ -3576,7 +3828,7 @@
             .join("");
         }
         function renderSuggestionsForNode(node) {
-          const curAreas = new Set(normalizeArray(node?.data?.areas || []));
+          const curAreas = new Set(normalizeAreasArray(node?.data?.areas || []));
           const areasList = vocab.areasMRU
             .list()
             .filter((x) => (counts.areas.get(x) || 0) > 0 && !curAreas.has(x));
@@ -3606,7 +3858,7 @@
           const val = chip.getAttribute("data-val");
           if (!val) return;
           const tokens = new Set(
-            normalizeArray(splitListComma(f.areas.value || ""))
+            normalizeAreasArray(splitListComma(f.areas.value || ""))
           );
           if (!tokens.has(val)) {
             tokens.add(val);
@@ -3737,12 +3989,38 @@
         $("#btnAuto").addEventListener("click", autoLayoutLeftToRight);
         $("#btnOpen").addEventListener("click", openProject);
         $("#btnSave").addEventListener("click", saveProjectSmart);
+        $("#btnProcessAnalysis")?.addEventListener("click", async () => {
+          try {
+            persistSharedProjectState("editor");
+          } catch (err) {
+            console.warn("Unable to persist shared project state", err);
+          }
+          const folderName = inferCurrentFolderName();
+          const qs = new URLSearchParams();
+          qs.set("from", "editor");
+          if (folderName) qs.set("project", folderName);
+          window.location.href = `./process-analyzer.html?${qs.toString()}`;
+        });
+        $("#btnAnalysis")?.addEventListener("click", async () => {
+          try {
+            persistSharedProjectState("editor");
+          } catch (err) {
+            console.warn("Unable to persist shared project state", err);
+          }
+          const folderName = inferCurrentFolderName();
+          const qs = new URLSearchParams();
+          qs.set("from", "editor");
+          if (folderName) qs.set("project", folderName);
+          window.location.href = `./visualizer.html?${qs.toString()}`;
+        });
         const toolbarStatus = [
           { id: "btnAdd", text: "New node" },
           { id: "btnFit", text: "Fit view" },
           { id: "btnAuto", text: "Auto layout" },
           { id: "btnOpen", text: "Open project" },
           { id: "btnSave", text: "Save project" },
+          { id: "btnProcessAnalysis", text: "Process analysis" },
+          { id: "btnAnalysis", text: "Space analysis" },
           { id: "btnNew", text: "New project" },
           { id: "btnUndo", text: "Undo" },
           { id: "btnRedo", text: "Redo" },
@@ -3767,67 +4045,6 @@
           saveProjectSmart().then(() => newProject());
         });
 
-        /* Inserire in fondo allo <script> */
-        (function setupToolbarTooltip() {
-          const tip = document.createElement("div");
-          Object.assign(tip.style, {
-            position: "fixed",
-            left: "0",
-            top: "0",
-            display: "none",
-            background: "#ffffff",
-            color: "#111111",
-            fontSize: "11px",
-            padding: "4px 6px",
-            borderRadius: "4px",
-            whiteSpace: "nowrap",
-            pointerEvents: "none",
-            zIndex: "10000",
-            border: "1px solid #d4d4d4",
-            boxShadow: "0 8px 24px rgba(0,0,0,0.16)",
-          });
-          document.body.appendChild(tip);
-
-          const PAD_Y = 6;
-          const PAD_X = 8;
-
-          function show(btn) {
-            const text =
-              btn.getAttribute("data-tip") || btn.getAttribute("title") || "";
-            if (!text) return;
-            tip.textContent = text;
-            tip.style.display = "block";
-
-            const r = btn.getBoundingClientRect();
-            let left = r.left; // allineato a sinistra del bottone
-            let top = r.bottom + PAD_Y; // sotto al bottone
-
-            tip.style.left = left + "px";
-            tip.style.top = top + "px";
-
-            // clamp orizzontale a viewport
-            const w = tip.offsetWidth;
-            left = Math.max(
-              PAD_X,
-              Math.min(left, window.innerWidth - w - PAD_X)
-            );
-            tip.style.left = left + "px";
-          }
-
-          function hide() {
-            tip.style.display = "none";
-          }
-
-          const buttons = document.querySelectorAll("header button[data-tip]");
-          buttons.forEach((btn) => {
-            btn.addEventListener("mouseenter", () => show(btn));
-            btn.addEventListener("mouseleave", hide);
-            btn.addEventListener("blur", hide);
-          });
-
-          window.addEventListener("scroll", hide, { passive: true });
-          window.addEventListener("resize", hide);
-        })();
         // (old connect handler removed in favor of FSM)
 
         // Pan / Marquee / Zoom
@@ -4002,6 +4219,204 @@
           state.pan.x = vw / 2 - cx * state.zoom;
           state.pan.y = vh / 2 - cy * state.zoom;
           applyView();
+        }
+
+        /* -------- DATA VIEW (charts) ----------------------------------- */
+        function computeActionTimeSeries() {
+          const nodes = state.nodes || [];
+          const dated = nodes.filter((n) => n?.data?.date);
+          if (!dated.length) {
+            return {
+              labels: ["Week 1"],
+              exploring: [0],
+              making: [0],
+              start: null,
+            };
+          }
+          const weekMs = 7 * 24 * 60 * 60 * 1000;
+          const dates = dated.map(
+            (n) => new Date(`${n.data.date}T00:00:00`).getTime()
+          );
+          const startMs = Math.min(...dates);
+          const labels = [];
+          const exploring = [];
+          const making = [];
+          dated.forEach((n, idx) => {
+            const w = Math.max(0, Math.floor((dates[idx] - startMs) / weekMs));
+            while (labels.length <= w) {
+              labels.push(`Week ${labels.length + 1}`);
+              exploring.push(0);
+              making.push(0);
+            }
+            const act = (n.data.action || "").toLowerCase();
+            if (act === "exploring") exploring[w]++;
+            if (act === "making") making[w]++;
+          });
+          return { labels, exploring, making, start: new Date(startMs) };
+        }
+
+        function renderActionChart(series) {
+          const canvas = document.getElementById("lineChart");
+          if (!canvas || typeof Chart === "undefined") return;
+          const rel = dataViewState.scale === "relative";
+          const peak = Math.max(1, ...series.exploring, ...series.making);
+          const exData = rel
+            ? series.exploring.map((v) => Math.round((v / peak) * 100))
+            : series.exploring;
+          const mkData = rel
+            ? series.making.map((v) => Math.round((v / peak) * 100))
+            : series.making;
+          const yTitle = rel ? "% del picco settimanale" : "Numero di nodi";
+          const suggestedMax = rel ? 110 : undefined;
+
+          if (!dataViewState.chart) {
+            dataViewState.chart = new Chart(canvas, {
+              type: "line",
+              data: {
+                labels: series.labels,
+                datasets: [
+                  {
+                    label: "Exploring",
+                    data: exData,
+                    tension: 0.2,
+                    borderColor: "#7acbff",
+                    backgroundColor: "rgba(122,203,255,0.18)",
+                    fill: true,
+                    pointRadius: 2,
+                  },
+                  {
+                    label: "Making",
+                    data: mkData,
+                    tension: 0.2,
+                    borderColor: "#f4b400",
+                    backgroundColor: "rgba(244,180,0,0.18)",
+                    fill: true,
+                    pointRadius: 2,
+                  },
+                ],
+              },
+              options: {
+                responsive: true,
+                responsiveAnimationDuration: 0,
+                animation: false,
+                maintainAspectRatio: false,
+                interaction: { mode: "index", intersect: false },
+                plugins: {
+                  decimation: { enabled: true, algorithm: "min-max" },
+                  legend: { labels: { color: "#e0e0e0" } },
+                  tooltip: {
+                    callbacks: {
+                      label: (ctx) => {
+                        if (rel) return `${ctx.dataset.label}: ${ctx.formattedValue}%`;
+                        const v = ctx.raw;
+                        return `${ctx.dataset.label}: ${v} node${v === 1 ? "" : "s"}`;
+                      },
+                    },
+                  },
+                },
+                scales: {
+                  y: {
+                    beginAtZero: true,
+                    suggestedMax,
+                    ticks: {
+                      color: "#e0e0e0",
+                      callback: (val) => (rel ? `${val}%` : val),
+                    },
+                    title: {
+                      display: true,
+                      text: yTitle,
+                      color: "#e0e0e0",
+                    },
+                    grid: { color: "rgba(255,255,255,0.06)" },
+                  },
+                  x: {
+                    ticks: { color: "#e0e0e0" },
+                    grid: { color: "rgba(255,255,255,0.06)" },
+                  },
+                },
+              },
+            });
+          } else {
+            const c = dataViewState.chart;
+            c.data.labels = series.labels;
+            c.data.datasets[0].data = exData;
+            c.data.datasets[1].data = mkData;
+            c.options.scales.y.suggestedMax = suggestedMax;
+            c.options.scales.y.title.text = yTitle;
+            c.update("none");
+          }
+
+          renderMiniMap();
+        }
+
+        function renderMiniMap() {
+          const cvs = document.getElementById("miniMap");
+          if (!cvs) return;
+          const ctx = cvs.getContext("2d");
+          const w = cvs.width;
+          const h = cvs.height;
+          ctx.clearRect(0, 0, w, h);
+          if (!state.nodes.length) return;
+
+          // bounding box of nodes including size
+          let minX = Infinity,
+            minY = Infinity,
+            maxX = -Infinity,
+            maxY = -Infinity;
+          for (const n of state.nodes) {
+            minX = Math.min(minX, n.x);
+            minY = Math.min(minY, n.y);
+            maxX = Math.max(maxX, n.x + (n.w || 0));
+            maxY = Math.max(maxY, n.y + (n.h || 0));
+          }
+          const pad = 20;
+          const spanX = Math.max(1, maxX - minX);
+          const spanY = Math.max(1, maxY - minY);
+          const scale = Math.min(
+            (w - pad * 2) / spanX,
+            (h - pad * 2) / spanY
+          );
+          const toScreen = (x, y) => ({
+            x: (x - minX) * scale + pad,
+            y: (y - minY) * scale + pad,
+          });
+
+          // edges
+          ctx.strokeStyle = "rgba(255,255,255,0.25)";
+          ctx.lineWidth = 1;
+          for (const e of state.edges) {
+            const s = state.nodes.find((n) => n.id === e.s);
+            const t = state.nodes.find((n) => n.id === e.t);
+            if (!s || !t) continue;
+            const sa = toScreen(s.x + s.w / 2, s.y + s.h / 2);
+            const ta = toScreen(t.x + t.w / 2, t.y + t.h / 2);
+            ctx.beginPath();
+            ctx.moveTo(sa.x, sa.y);
+            ctx.lineTo(ta.x, ta.y);
+            ctx.stroke();
+          }
+
+          // nodes
+          for (const n of state.nodes) {
+            const p = toScreen(n.x + n.w / 2, n.y + n.h / 2);
+            const act = (n.data.action || "").toLowerCase();
+            const fill =
+              act === "exploring"
+                ? "#00c7d9"
+                : act === "making"
+                ? "#b87333"
+                : "#7a7a7a";
+            ctx.fillStyle = fill;
+            ctx.beginPath();
+            ctx.arc(p.x, p.y, 4, 0, Math.PI * 2);
+            ctx.fill();
+          }
+        }
+
+        function refreshDataView() {
+          const series = computeActionTimeSeries();
+          renderActionChart(series);
+          renderMiniMap();
         }
 
         function startMarquee(e) {
@@ -4383,7 +4798,6 @@
                   title: d.title || "",
                   type: d.type || "",
                   action: d.action ?? null,
-                  mainArea: d.mainArea ?? null,
                   areas: [...(d.areas || [])],
                   tags: [...(d.tags || [])],
                   desc: "",
@@ -4491,7 +4905,92 @@
             setStatus(`Project saved — ${fmtTime10()}`);
             return;
           }
-          await saveAs();
+          // When we don't have a folder handle, "saving normally" means downloading a JSON
+          // that preserves existing asset paths and embeds only the unsaved (no-path) assets.
+          await exportProjectJsonDownload("project.json");
+        }
+
+        async function blobToDataUrl(blob) {
+          return await new Promise((resolve, reject) => {
+            const r = new FileReader();
+            r.onload = () => resolve(String(r.result || ""));
+            r.onerror = () => reject(r.error || new Error("FileReader failed"));
+            r.readAsDataURL(blob);
+          });
+        }
+
+        async function exportProjectJsonDownload(fileName = "project.json") {
+          // Build a JSON that keeps existing paths, but won't lose newly added assets.
+          const nodesOut = [];
+          for (const n of state.nodes) {
+            const src = n.data || {};
+            const outFiles = [];
+            for (const f of src.files || []) {
+              const base = {
+                name: f.name,
+                size: f.size,
+                type: f.type,
+                isImage: !!f.isImage,
+                isPDF: !!f.isPDF,
+              };
+              if (f.path) {
+                outFiles.push({ ...base, path: f.path || null });
+                continue;
+              }
+              // Unsaved file (no path): embed as dataUrl so the download round-trip is lossless.
+              let dataUrl = f.dataUrl || null;
+              if (!dataUrl && f.url) {
+                try {
+                  const blob = await (await fetch(f.url)).blob();
+                  dataUrl = await blobToDataUrl(blob);
+                } catch (err) {
+                  console.warn("Unable to embed asset for download:", f?.name, err);
+                }
+              }
+              outFiles.push({ ...base, dataUrl });
+            }
+            nodesOut.push({
+              id: n.id,
+              x: n.x,
+              y: n.y,
+              w: n.w,
+              h: n.h,
+              group: n.group || null,
+              data: {
+                date: src.date || todayYMD(),
+                title: src.title || "",
+                type: src.type || "",
+                action: src.action ?? null,
+                areas: [...(src.areas || [])],
+                tags: [...(src.tags || [])],
+                desc: src.desc || "",
+                links: [...(src.links || [])],
+                files: outFiles,
+              },
+            });
+          }
+
+          const vocabOut = {
+            areas: vocab.areasMRU.list(),
+            tags: vocab.tagsMRU.list(),
+            type: vocab.typeMRU.list(),
+          };
+          const project = {
+            version: 6,
+            nodes: nodesOut,
+            edges: state.edges.map((e) => ({
+              s: e.s,
+              t: e.t,
+              dashed: !!e.dashed,
+            })),
+            vocab: vocabOut,
+          };
+
+          const blob = new Blob([JSON.stringify(project, null, 2)], {
+            type: "application/json",
+          });
+          downloadBlob(fileName, blob);
+          setStatus(`Project saved (download) — ${fmtTime10()}`);
         }
         async function saveAs() {
           const supportsFS = "showDirectoryPicker" in window;
@@ -4503,6 +5002,8 @@
               await saveProjectToDir(dir);
               projectCtx.mode = "folder";
               projectCtx.dirHandle = dir;
+              projectCtx.folderName = dir?.name || null;
+              projectCtx.assetBase = dir?.name ? `${dir.name}/` : "";
               setStatus(`Project saved (new fast folder) — ${fmtTime10()}`);
               return;
             } catch (err) {
@@ -4512,9 +5013,12 @@
               );
             }
           }
-          await exportJSONLight(); // fallback leggero (senza file)
+          // Fallback: download a lossless JSON (keeps paths, embeds unsaved assets).
+          await exportProjectJsonDownload("project.json");
           projectCtx.mode = "embedded";
           projectCtx.dirHandle = null;
+          projectCtx.folderName = null;
+          projectCtx.assetBase = "";
         }
 
         // filesMode: "none" | "paths" | "embedded" (noi usiamo "paths" o "none")
@@ -4555,7 +5059,6 @@
                 title: src.title || "",
                 type: src.type || "",
                 action: src.action ?? null,
-                mainArea: src.mainArea ?? null,
                 areas: [...(src.areas || [])],
                 tags: [...(src.tags || [])],
                 desc: src.desc || "",
@@ -4681,6 +5184,8 @@
               await loadProject(project, dir);
               projectCtx.mode = "folder";
               projectCtx.dirHandle = dir;
+              projectCtx.folderName = dir?.name || null;
+              projectCtx.assetBase = dir?.name ? `${dir.name}/` : "";
               setStatus("Project opened from folder");
               return;
             } catch (err) {
@@ -4696,6 +5201,8 @@
             await loadProject(project, null);
             projectCtx.mode = "embedded";
             projectCtx.dirHandle = null;
+            projectCtx.folderName = null;
+            projectCtx.assetBase = "";
             setStatus("Project opened from JSON file");
             f.openFile.value = "";
           };
@@ -4717,6 +5224,8 @@
           state.zoom = 1;
           projectCtx.mode = null;
           projectCtx.dirHandle = null;
+          projectCtx.folderName = null;
+          projectCtx.assetBase = "";
           vocab.areasMRU.clear();
           vocab.tagsMRU.clear();
           vocab.typeMRU.clear();
@@ -4742,6 +5251,35 @@
           vocabResetNodeSnapshots();
           countsResetAll();
 
+          const resolveAssetCandidates = (pathValue) => {
+            const rawPath = String(pathValue || "").trim();
+            if (!rawPath) return [];
+            const uniq = new Set();
+            const out = [];
+            const push = (v) => {
+              const s = String(v || "").trim();
+              if (!s || uniq.has(s)) return;
+              uniq.add(s);
+              out.push(s);
+            };
+
+            const looksAbsolute =
+              /^(?:[a-z]+:)?\/\//i.test(rawPath) ||
+              rawPath.startsWith("/") ||
+              rawPath.startsWith("data:");
+            push(rawPath);
+            if (!looksAbsolute) {
+              const relPath = rawPath.replace(/^\.?\//, "");
+              const base = String(projectCtx.assetBase || "")
+                .trim()
+                .replace(/\/+$/, "");
+              if (base) push(`${base}/${relPath}`);
+              const folder = inferCurrentFolderName();
+              if (folder) push(`${folder}/${relPath}`);
+            }
+            return out;
+          };
+
           for (const pn of project.nodes || []) {
             const node = {
               id: pn.id || uid(),
@@ -4756,12 +5294,13 @@
             node.data.type = normalizeToken(d.type || d.object || "");
             if (Array.isArray(d.action)) node.data.action = d.action[0] || null;
             else node.data.action = d.action ?? null;
-            if (Array.isArray(d.mainAreas))
-              node.data.mainArea = d.mainAreas[0] || null;
-            else node.data.mainArea = d.mainArea ?? d.mainarea ?? null;
             node.data.date = d.date || todayYMD();
             node.data.title = d.title || "";
-            node.data.areas = normalizeArray(d.areas || []);
+            node.data.areas = mergeLegacyMainAreaIntoAreas(d.areas || [], [
+              ...(Array.isArray(d.mainAreas) ? d.mainAreas : []),
+              d.mainArea,
+              d.mainarea,
+            ]);
             node.data.tags = normalizeArray(d.tags || []);
             node.data.desc = d.desc || "";
             node.data.links = (d.links || []).slice();
@@ -4773,6 +5312,18 @@
                 } else if (f.path && dirHandle) {
                   const file = await readFileByPath(dirHandle, f.path);
                   return { ...f, url: URL.createObjectURL(file) };
+                } else if (f.path) {
+                  for (const candidate of resolveAssetCandidates(f.path)) {
+                    try {
+                      const res = await fetch(candidate, { cache: "no-store" });
+                      if (!res.ok) continue;
+                      const blob = await res.blob();
+                      return { ...f, url: URL.createObjectURL(blob) };
+                    } catch (_) {
+                      // try next candidate
+                    }
+                  }
+                  return { ...f, url: "" };
                 } else {
                   return { ...f, url: "" };
                 }
@@ -4884,6 +5435,7 @@
           updateSidebarSelectionLabel();
           refreshSidebarForms();
           history.lock = false;
+          maybeRefreshDataView();
         }
 
         // Clipboard/group
@@ -4948,6 +5500,7 @@
           renderEdges();
           selectOnlyNodes(pastedIds);
           setStatus("Pasted");
+          maybeRefreshDataView();
         }
         function duplicateSelection() {
           if (!state.selNodes.size) return pasteClipboard({ x: 40, y: 40 });
@@ -5109,6 +5662,7 @@
         if (state.nodes.length === 0) {
           addNodeAt(80, 80, {});
         }
+        void restoreSharedProjectFromOtherView();
 
         resizeEdgeCanvasToStage();
         scheduleEdgeCanvasDraw();
@@ -5442,6 +5996,8 @@
         { id: "btnDel", label: "Delete selection (⌫)" },
         { id: "btnFit", label: "Fit view (0)" },
         { id: "btnAuto", label: "Auto layout (⇧A)" },
+        { id: "btnProcessAnalysis", label: "Process analysis" },
+        { id: "btnAnalysis", label: "Space analysis" },
         { id: "btnOpen", label: "Open project (⌘O)" },
         { id: "btnSave", label: "Save project (⌘S)" },
         { id: "btnNew", label: "New project" },
@@ -5454,6 +6010,9 @@
         const def = toolbarTooltips.find((t) => t.id === btn.id);
         if (def) btn.setAttribute("data-tip", def.label);
       });
+      window.ThreadscapeUI?.attachToolbarTooltips(
+        document.querySelector("header.ts-toolbar")
+      );
 
       // Help overlay (clone .doc-section → modal)
       (function setupHelpOverlay() {

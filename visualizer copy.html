@@ -1,0 +1,3952 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Space Analysis</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <style>
+      :root {
+        --bg: #f5f5f5;
+        --panel: #ffffff;
+        --ink: #111111;
+        --muted: #6f6f6f;
+        --line: rgba(0, 0, 0, 0.1);
+        --btn-hover: rgba(0, 0, 0, 0.06);
+        --btn-active: rgba(0, 0, 0, 0.1);
+        --focus-ring: rgba(0, 0, 0, 0.24);
+        --ok: #2f8f52;
+        --warn: #a66a12;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+      }
+
+      body {
+        background: var(--bg);
+        color: var(--ink);
+        font: 14px/1.4 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          Roboto, sans-serif;
+        overflow: hidden;
+      }
+
+      .app {
+        width: 100%;
+        height: 100%;
+        display: grid;
+        grid-template-rows: auto minmax(0, 1fr);
+      }
+
+      #btnPause .icon-pause {
+        display: none;
+      }
+
+      #btnPause.running .icon-play {
+        display: none;
+      }
+
+      #btnPause.running .icon-pause {
+        display: block;
+      }
+
+      .layout {
+        min-height: 0;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      }
+
+      #viewWrap {
+        position: relative;
+        min-width: 0;
+        min-height: 0;
+        border-right: 1px solid var(--line);
+      }
+
+      #viewWrap.drop {
+        outline: 2px dashed rgba(0, 0, 0, 0.25);
+        outline-offset: -10px;
+      }
+
+      #view {
+        width: 100%;
+        height: 100%;
+        display: block;
+      }
+
+      #labelsLayer {
+        position: absolute;
+        inset: 0;
+        z-index: 3;
+        pointer-events: none;
+      }
+
+      .node-label {
+        position: absolute;
+        transform: translate(-50%, -100%);
+        transform-origin: top center;
+        --assetH: 62px;
+        width: 112px;
+        max-width: 112px;
+        border: none;
+        border-radius: 0;
+        background: transparent;
+        box-shadow: none;
+        padding: 0;
+      }
+
+      .node-label.selected {
+        opacity: 1;
+      }
+
+      .node-label.compact {
+        max-width: 130px;
+      }
+
+      .node-label.compact .assets {
+        display: none;
+      }
+
+      .node-label.faint {
+        opacity: 0.56;
+      }
+
+      .node-label .title {
+        font-size: 10px;
+        font-weight: 500;
+        line-height: 1.2;
+        color: #111;
+        word-break: break-word;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.75);
+      }
+
+      .node-label .assets {
+        margin-top: 2px;
+      }
+
+      .node-label .assets img {
+        display: block;
+        width: 100%;
+        max-height: var(--assetH);
+        object-fit: cover;
+        border-radius: 0;
+        border: none;
+      }
+
+      .node-label .assets .meta {
+        font-size: 9px;
+        line-height: 1.2;
+        color: #444;
+        word-break: break-word;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.7);
+      }
+
+      .node-label.selected .title {
+        font-weight: 700;
+      }
+
+      .node-label.boxed {
+        border: 2px solid var(--nodeBorder, #111111);
+        border-radius: 2px;
+        padding: 3px;
+        background: rgba(255, 255, 255, 0.78);
+        backdrop-filter: blur(0.5px);
+      }
+
+      .node-label.dimmed {
+        opacity: 0.24;
+      }
+
+      body.hide-images .node-label .assets {
+        display: none !important;
+      }
+
+      body.hide-images #nodeMedia img {
+        display: none !important;
+      }
+
+      #side {
+        min-height: 0;
+        background: var(--panel);
+        display: block;
+        overflow: auto;
+      }
+
+      #disciplinePane {
+        min-height: 0;
+        padding: 10px;
+        border-bottom: 1px solid var(--line);
+        display: grid;
+        grid-template-rows: auto auto auto;
+        gap: 8px;
+      }
+
+      #disciplineHead {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 8px;
+      }
+
+      #disciplineHead h2 {
+        margin: 0;
+        font-size: 14px;
+        font-weight: 600;
+      }
+
+      #disciplineStats {
+        margin: 0;
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      #disciplineWrap {
+        position: relative;
+        min-width: 0;
+        min-height: 160px;
+        width: 100%;
+        aspect-ratio: 1 / 1;
+        height: auto;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        overflow: hidden;
+        background: #fafafa;
+      }
+
+      #disciplineView {
+        width: 100%;
+        height: 100%;
+        display: block;
+      }
+
+      #disciplineHint {
+        margin: 0;
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      #viewFilters {
+        margin-top: 2px;
+        display: grid;
+        gap: 6px;
+      }
+
+      #viewFilters .row {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+        gap: 8px;
+      }
+
+      .side-select {
+        width: 100%;
+        min-height: 30px;
+        border: 1px solid var(--line);
+        border-radius: 7px;
+        background: #fff;
+        color: var(--ink);
+        font: inherit;
+        padding: 5px 8px;
+      }
+
+      .side-select:focus-visible {
+        outline: none;
+        box-shadow: 0 0 0 2px var(--focus-ring);
+      }
+
+      #viewFilterStats {
+        margin: 0;
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      #analysisDataPane {
+        padding: 10px;
+        border-bottom: 1px solid var(--line);
+        display: grid;
+        gap: 10px;
+      }
+
+      #analysisDataPane .chart-card {
+        margin-top: 0;
+      }
+
+      #editorMapControls {
+        margin-top: 8px;
+        display: grid;
+        gap: 8px;
+      }
+
+      #editorMapControls .row {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+        gap: 8px;
+      }
+
+      .side-btn {
+        width: 100%;
+        min-height: 30px;
+        border: 1px solid var(--line);
+        border-radius: 7px;
+        background: #fff;
+        color: var(--ink);
+        font: inherit;
+        padding: 5px 8px;
+        cursor: pointer;
+      }
+
+      .side-btn:hover {
+        background: var(--btn-hover);
+      }
+
+      .side-btn:focus-visible {
+        outline: none;
+        box-shadow: 0 0 0 2px var(--focus-ring);
+      }
+
+      #editorMapInfo {
+        margin: 0;
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      .chart-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+        margin-bottom: 6px;
+      }
+
+      .chart-head h3 {
+        margin: 0;
+        font-size: 12px;
+        color: var(--muted);
+        font-weight: 500;
+      }
+
+      .chart-meta {
+        margin: 0;
+        font-size: 11px;
+        color: #7b7b7b;
+      }
+
+      #lineChartAnalysis,
+      #totalsChartAnalysis,
+      #miniMapAnalysis {
+        width: 100%;
+        display: block;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #ffffff;
+      }
+
+      #lineChartAnalysis {
+        height: 196px;
+      }
+
+      #totalsChartAnalysis {
+        margin-top: 8px;
+        height: 118px;
+      }
+
+      #miniMapAnalysis {
+        height: 240px;
+        touch-action: none;
+        cursor: grab;
+      }
+
+      #miniMapAnalysis.panning {
+        cursor: grabbing;
+      }
+
+      #detailsPane {
+        padding: 10px;
+        overflow: visible;
+      }
+
+      #projectName {
+        margin: 0;
+        font-size: 15px;
+        font-weight: 600;
+      }
+
+      #stats {
+        margin: 6px 0 0;
+        color: var(--muted);
+        font-size: 12px;
+      }
+
+      .card {
+        margin-top: 10px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 8px;
+      }
+
+      .card h3 {
+        margin: 0 0 8px;
+        font-size: 12px;
+        color: var(--muted);
+        font-weight: 500;
+      }
+
+      #colorEditor {
+        display: grid;
+        gap: 6px;
+        max-height: min(34vh, 320px);
+        overflow: auto;
+        padding-right: 2px;
+      }
+
+      .color-row {
+        display: grid;
+        grid-template-columns: 26px 1fr auto;
+        align-items: center;
+        gap: 8px;
+        font-size: 12px;
+      }
+
+      .color-row input[type="color"] {
+        width: 24px;
+        height: 24px;
+        border: 1px solid var(--line);
+        border-radius: 4px;
+        padding: 0;
+        background: transparent;
+        cursor: pointer;
+      }
+
+      .color-row .name {
+        color: #222;
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      .color-row .count {
+        color: #777;
+        font-variant-numeric: tabular-nums;
+      }
+
+      #colorPanelMeta {
+        margin: 0 0 8px;
+        color: #777;
+        font-size: 12px;
+      }
+
+      #btnResetPalette {
+        margin-top: 8px;
+        width: 100%;
+      }
+
+      .kv {
+        display: grid;
+        grid-template-columns: 80px 1fr;
+        gap: 6px;
+        font-size: 12px;
+      }
+
+      .k {
+        color: #777;
+      }
+
+      .desc {
+        margin-top: 8px;
+        white-space: pre-wrap;
+        font-size: 12px;
+        line-height: 1.4;
+      }
+
+      #nodeMedia {
+        margin-top: 8px;
+        display: grid;
+        gap: 8px;
+      }
+
+      #nodeMedia img {
+        width: 100%;
+        border-radius: 0;
+        border: none;
+      }
+
+      #nodeMedia a {
+        color: #17407b;
+        font-size: 12px;
+      }
+
+      .ok {
+        color: var(--ok) !important;
+      }
+
+      .warn {
+        color: var(--warn) !important;
+      }
+
+      @media (max-width: 1000px) {
+        .topbar {
+          flex-wrap: wrap;
+          align-items: center;
+        }
+
+        .nav-left {
+          width: 100%;
+          flex-wrap: wrap;
+        }
+
+        .nav-right {
+          margin-left: auto;
+        }
+
+        #navStatus {
+          max-width: 100%;
+          padding-left: 0;
+          flex: 1 1 220px;
+        }
+
+        .layout {
+          grid-template-columns: 1fr;
+          grid-template-rows: minmax(0, 1fr) minmax(320px, 44vh);
+        }
+
+        #viewWrap {
+          border-right: none;
+          border-bottom: 1px solid var(--line);
+        }
+      }
+    </style>
+    <link rel="stylesheet" href="./shared-ui.css" />
+    <script src="./shared-ui.js"></script>
+  </head>
+  <body>
+    <div class="app">
+      <header class="topbar ts-toolbar">
+        <div class="nav-left">
+          <button id="btnOpen" class="icon-btn" type="button" aria-label="Open JSON" data-tip="Open JSON (Cmd/Ctrl+O)">
+            <span class="material-symbols-outlined">file_open</span>
+          </button>
+          <button id="btnReset" class="icon-btn" type="button" aria-label="Reset camera" data-tip="Reset camera">
+            <span class="material-symbols-outlined">center_focus_strong</span>
+          </button>
+          <button id="btnPause" class="icon-btn" type="button" aria-label="Start simulation" data-tip="Start simulation">
+            <span class="material-symbols-outlined icon-play">play_arrow</span>
+            <span class="material-symbols-outlined icon-pause">pause</span>
+          </button>
+          <select id="selColorMode" class="nav-select" aria-label="Color mode" data-tip="Color mode">
+            <option value="none">Colori: nessuno</option>
+            <option value="action">Colori: action</option>
+            <option value="macro">Colori: macro area</option>
+            <option value="type">Colori: type</option>
+            <option value="areas">Colori: areas</option>
+            <option value="tags">Colori: tags</option>
+          </select>
+          <select id="selColorValue" class="nav-select" aria-label="Highlight value" data-tip="Highlight value">
+            <option value="__all__">Evidenzia: tutti</option>
+          </select>
+          <select id="selImages" class="nav-select" aria-label="Image visibility" data-tip="Image visibility">
+            <option value="on">Immagini: on</option>
+            <option value="off">Immagini: off</option>
+          </select>
+          <div id="navStatus" class="toolbar-status" aria-live="polite"></div>
+        </div>
+
+        <div class="nav-right">
+          <button id="btnProcess" class="icon-btn switch-btn" type="button" data-tip="Go to Process Analysis">
+            <span class="material-symbols-outlined">timeline</span>
+            <span class="btn-label">Process</span>
+          </button>
+          <button id="btnEditor" class="icon-btn switch-btn" type="button" data-tip="Back to Editor">
+            <span class="material-symbols-outlined">edit</span>
+            <span class="btn-label">Editor</span>
+          </button>
+        </div>
+
+        <input id="fileInput" type="file" accept="application/json,.json" hidden />
+      </header>
+
+      <main class="layout">
+        <section id="viewWrap">
+          <canvas id="view"></canvas>
+          <div id="labelsLayer"></div>
+        </section>
+
+        <aside id="side">
+          <section id="disciplinePane">
+            <div id="disciplineHead">
+              <h2>Discipline network 2D</h2>
+              <p id="disciplineStats">0 aree · 0 connessioni</p>
+            </div>
+            <div id="disciplineWrap">
+              <canvas id="disciplineView"></canvas>
+            </div>
+            <p id="disciplineHint">
+              Bolla = disciplina (dimensione per occorrenze). Le linee mostrano co-presenza della coppia nella stessa card.
+            </p>
+          </section>
+
+          <section id="detailsPane">
+            <h2 id="projectName">Nessun progetto caricato</h2>
+            <p id="stats">0 nodes · 0 edges</p>
+
+            <div class="card">
+              <h3>Node details</h3>
+              <div id="nodeInfo" class="kv">
+                <div class="k">info</div>
+                <div>Seleziona un nodo nella rete.</div>
+              </div>
+              <div id="nodeDesc" class="desc"></div>
+              <div id="nodeMedia"></div>
+            </div>
+
+            <div class="card">
+              <h3>Color panel</h3>
+              <p id="colorPanelMeta">Personalizza i colori del campo attivo nella navbar.</p>
+              <div id="colorEditor"></div>
+              <button id="btnResetPalette" type="button">Reset colori campo attivo</button>
+            </div>
+          </section>
+        </aside>
+      </main>
+    </div>
+
+    <script type="module">
+      (async () => {
+        let THREE;
+        try {
+          THREE = await import("./vendor/three.module.js");
+        } catch (err) {
+          const navStatus = document.getElementById("navStatus");
+          if (navStatus) {
+            navStatus.textContent = "Three.js locale non trovato in /vendor/three.module.js";
+            navStatus.classList.add("warn");
+          }
+          return;
+        }
+
+        const KNOWN_FOLDERS = [
+          "1_linguistic",
+          "2_media",
+          "3_cognitive",
+          "4_metric",
+          "5_symbolic",
+          "6_cultural",
+          "7_social",
+          "8_bureaucratic",
+          "9_digital",
+          "10_ecological",
+          "11_infrastructural",
+        ];
+        const SHARED_PROJECT_KEY = "threadscape.shared.project.v1";
+
+        const TYPE_COLORS = [
+          "#57d2b7",
+          "#70c9f0",
+          "#ffc680",
+          "#ff8b90",
+          "#d7adff",
+          "#9ad885",
+          "#f4ee97",
+          "#8cb9ff",
+        ];
+
+        const dom = {
+          canvas: document.getElementById("view"),
+          viewWrap: document.getElementById("viewWrap"),
+          labelsLayer: document.getElementById("labelsLayer"),
+          navStatus: document.getElementById("navStatus"),
+          disciplineCanvas: document.getElementById("disciplineView"),
+          disciplineWrap: document.getElementById("disciplineWrap"),
+          disciplineStats: document.getElementById("disciplineStats"),
+          disciplineHint: document.getElementById("disciplineHint"),
+          selViewMode: document.getElementById("selViewMode"),
+          selViewValue: document.getElementById("selViewValue"),
+          viewFilterStats: document.getElementById("viewFilterStats"),
+          selMapColorMode: document.getElementById("selMapColorMode"),
+          btnMapFit: document.getElementById("btnMapFit"),
+          editorMapInfo: document.getElementById("editorMapInfo"),
+          lineChart: document.getElementById("lineChartAnalysis"),
+          totalsChart: document.getElementById("totalsChartAnalysis"),
+          miniMap: document.getElementById("miniMapAnalysis"),
+          timelineMeta: document.getElementById("timelineMeta"),
+          miniMapMeta: document.getElementById("miniMapMeta"),
+          selColorMode: document.getElementById("selColorMode"),
+          selColorValue: document.getElementById("selColorValue"),
+          selImages: document.getElementById("selImages"),
+          colorEditor: document.getElementById("colorEditor"),
+          colorPanelMeta: document.getElementById("colorPanelMeta"),
+          btnResetPalette: document.getElementById("btnResetPalette"),
+          btnProcess: document.getElementById("btnProcess"),
+          btnEditor: document.getElementById("btnEditor"),
+          btnOpen: document.getElementById("btnOpen"),
+          btnReset: document.getElementById("btnReset"),
+          btnPause: document.getElementById("btnPause"),
+          fileInput: document.getElementById("fileInput"),
+          projectName: document.getElementById("projectName"),
+          stats: document.getElementById("stats"),
+          nodeInfo: document.getElementById("nodeInfo"),
+          nodeDesc: document.getElementById("nodeDesc"),
+          nodeMedia: document.getElementById("nodeMedia"),
+        };
+
+        const scene = new THREE.Scene();
+
+        const camera = new THREE.PerspectiveCamera(52, 1, 0.1, 5000);
+        camera.position.set(0, 90, 240);
+
+        const renderer = new THREE.WebGLRenderer({
+          canvas: dom.canvas,
+          antialias: true,
+          alpha: true,
+        });
+        renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+        renderer.outputColorSpace = THREE.SRGBColorSpace;
+        renderer.setClearColor(0xf5f5f5, 1);
+        const disciplineCtx = dom.disciplineCanvas.getContext("2d");
+
+        scene.add(new THREE.AmbientLight(0xb0b0b0, 0.48));
+        const key = new THREE.DirectionalLight(0xf1f1f1, 0.62);
+        key.position.set(220, 280, 190);
+        scene.add(key);
+
+        const graphGroup = new THREE.Group();
+        const baseGroup = new THREE.Group();
+        const nodesGroup = new THREE.Group();
+        const edgesGroup = new THREE.Group();
+        graphGroup.add(baseGroup, edgesGroup, nodesGroup);
+        scene.add(graphGroup);
+        scene.add(buildStars());
+
+        const raycaster = new THREE.Raycaster();
+        const pointer = new THREE.Vector2();
+
+        const controls = {
+          target: new THREE.Vector3(0, 0, 0),
+          radius: 260,
+          theta: 0,
+          phi: 1.05,
+          isRotating: false,
+          isPanning: false,
+          lastX: 0,
+          lastY: 0,
+        };
+
+        const state = {
+          nodes: [],
+          edges: [],
+          edgeLines: null,
+          edgePositions: null,
+          nodeIndexById: new Map(),
+          editorMap: {
+            nodes: [],
+            edges: [],
+            byId: new Map(),
+            view: {
+              zoom: 1,
+              panX: 0,
+              panY: 0,
+              isPanning: false,
+              pointerId: null,
+              downX: 0,
+              downY: 0,
+              lastX: 0,
+              lastY: 0,
+              moved: false,
+            },
+          },
+          selected: -1,
+          paused: true,
+          projectName: "",
+          rawProject: null,
+          folderName: null,
+          assetBase: "",
+          pointerDown: { x: 0, y: 0, active: false, wasPan: false },
+          spaceDown: false,
+          colorMode: "none",
+          colorValue: "__all__",
+          viewMode: "all",
+          viewValue: "__all__",
+          showImages: true,
+          idleStatus: "Apri project.json (Open / O / Cmd/Ctrl+O), o torna a Editor.",
+          statusTimer: 0,
+          paletteByMode: {},
+          modeStats: {},
+          dataViewsDirty: true,
+          dataViewsTick: 0,
+          pinch: {
+            active: false,
+            startDist: 0,
+            startRadius: 0,
+            lastCenterX: 0,
+            lastCenterY: 0,
+          },
+        };
+
+        const discipline = {
+          nodes: [],
+          edges: [],
+          keywords: [],
+          keywordMinCount: 2,
+          width: 1,
+          height: 1,
+          pixelRatio: 1,
+          selected: -1,
+          liveSimulation: false,
+          worldByArea: new Map(),
+          worldByAreaLower: new Map(),
+          worldBounds: { sizeX: 360, sizeZ: 360 },
+          defaultHint:
+            "Bolla = disciplina (dimensione per occorrenze). Le linee mostrano co-presenza della coppia nella stessa card.",
+        };
+
+        function esc(text) {
+          return String(text ?? "").replace(/[&<>"']/g, (char) => {
+            const map = {
+              "&": "&amp;",
+              "<": "&lt;",
+              ">": "&gt;",
+              '"': "&quot;",
+              "'": "&#39;",
+            };
+            return map[char] || char;
+          });
+        }
+
+        function setIdleStatus(message) {
+          if (typeof message === "string") state.idleStatus = message;
+          if (!dom.navStatus) return;
+          dom.navStatus.textContent = state.idleStatus || "";
+          dom.navStatus.classList.remove("ok", "warn", "pulsing");
+        }
+
+        function setHint(message, level) {
+          if (!dom.navStatus) return;
+          if (state.statusTimer) {
+            window.clearTimeout(state.statusTimer);
+            state.statusTimer = 0;
+          }
+          dom.navStatus.textContent = message;
+          dom.navStatus.classList.remove("ok", "warn", "pulsing");
+          const timeout = 3000;
+          state.statusTimer = window.setTimeout(() => {
+            setIdleStatus();
+          }, timeout);
+        }
+
+        function setRawProject(project) {
+          if (!project) {
+            state.rawProject = null;
+            return;
+          }
+          try {
+            state.rawProject = structuredClone(project);
+          } catch (_) {
+            state.rawProject = JSON.parse(JSON.stringify(project));
+          }
+        }
+
+        function inferFolderNameFromBase(base) {
+          const text = String(base || "").trim().replace(/\/+$/, "");
+          if (!text) return null;
+          if (text.includes("/")) return text.split("/").pop() || null;
+          return text || null;
+        }
+
+        function persistSharedProjectState(source = "space") {
+          if (!state.rawProject) return false;
+          const folderName =
+            state.folderName || inferFolderNameFromBase(state.assetBase);
+          const payload = {
+            version: 1,
+            source,
+            savedAt: Date.now(),
+            folderName: folderName || null,
+            assetBase: state.assetBase || "",
+            label: state.projectName || "",
+            project: state.rawProject,
+          };
+          localStorage.setItem(SHARED_PROJECT_KEY, JSON.stringify(payload));
+          return true;
+        }
+
+        async function restoreSharedProjectFromRoute() {
+          const params = new URLSearchParams(window.location.search);
+          const from = params.get("from");
+          if (!from || from === "space") return false;
+          try {
+            const raw = localStorage.getItem(SHARED_PROJECT_KEY);
+            if (!raw) return false;
+            const payload = JSON.parse(raw);
+            if (!payload || !payload.project) return false;
+            if (payload.source && payload.source !== from) return false;
+
+            buildGraph(payload.project, payload.label || payload.folderName || "Project");
+            setRawProject(payload.project);
+            state.folderName = payload.folderName || null;
+            state.assetBase =
+              payload.assetBase ||
+              (payload.folderName ? `${payload.folderName}/` : "");
+            if (!state.assetBase) {
+              state.assetBase = await detectAssetBase(payload.project);
+            }
+            updateAllNodeLabelAssets();
+            refreshToolbarOptions();
+            applyImagesVisibility();
+            const fromLabel =
+              from === "editor"
+                ? "Editor"
+                : from === "process"
+                ? "Process Analysis"
+                : "altra vista";
+            setHint(`Progetto ripristinato da ${fromLabel}.`, "ok");
+
+            params.delete("from");
+            const qs = params.toString();
+            const clean = `${window.location.pathname}${qs ? `?${qs}` : ""}`;
+            window.history.replaceState({}, "", clean);
+            return true;
+          } catch (err) {
+            console.warn("Shared-state restore failed", err);
+            setHint("Ripristino da Editor non riuscito.", "warn");
+            return false;
+          }
+        }
+
+        function updateNodeLabelAssets(node) {
+          if (!node.labelAssetsEl) return;
+          node.labelAssetsEl.innerHTML = "";
+          if (!Array.isArray(node.files) || node.files.length === 0) return;
+
+          const firstImage =
+            state.showImages && node.files.find((f) => !!f && f.isImage);
+          if (firstImage && state.showImages) {
+            const url = resolveAssetUrl(firstImage);
+            if (url) {
+              const img = document.createElement("img");
+              img.src = url;
+              img.alt = firstImage.name || "asset";
+              img.loading = "lazy";
+              node.labelAssetsEl.appendChild(img);
+            }
+          }
+
+          if (node.labelAssetsEl.children.length === 0) {
+            const first = node.files[0];
+            const meta = document.createElement("div");
+            meta.className = "meta";
+            if (!state.showImages && node.files.some((f) => f && f.isImage)) {
+              meta.textContent = "img off";
+            } else {
+              meta.textContent = first?.name || first?.path || "asset";
+            }
+            node.labelAssetsEl.appendChild(meta);
+          }
+
+          if (node.files.length > 1) {
+            const more = document.createElement("div");
+            more.className = "meta";
+            more.textContent = `+${node.files.length - 1} asset`;
+            node.labelAssetsEl.appendChild(more);
+          }
+        }
+
+        function updateNodeLabelPosition(node) {
+          if (!node.labelEl) return;
+          if (node.visibleByFilter === false) {
+            node.labelEl.style.display = "none";
+            return;
+          }
+          const projected = node.pos.clone().project(camera);
+          if (projected.z < -1 || projected.z > 1) {
+            node.labelEl.style.display = "none";
+            return;
+          }
+
+          const width = dom.viewWrap.clientWidth;
+          const height = dom.viewWrap.clientHeight;
+          const x = (projected.x * 0.5 + 0.5) * width;
+          const y = (-projected.y * 0.5 + 0.5) * height;
+          const dist = camera.position.distanceTo(node.pos);
+          const isSelected =
+            state.selected >= 0 && state.nodes[state.selected] === node;
+          const projectedOffset = node.pos
+            .clone()
+            .add(new THREE.Vector3(node.radius * 5.6, 0, 0))
+            .project(camera);
+          const pxRadius = Math.abs((projectedOffset.x - projected.x) * width * 0.5);
+          const baseScale = pxRadius / 13.5;
+          const scale = THREE.MathUtils.clamp(
+            baseScale,
+            isSelected ? 0.62 : 0.44,
+            isSelected ? 2.85 : 2.35
+          );
+
+          node.labelEl.style.display = "block";
+          node.labelEl.classList.remove("compact");
+          node.labelEl.classList.remove("faint");
+          node.labelEl.style.zIndex = String(
+            Math.max(1, 2000 - Math.floor(dist))
+          );
+          node.labelEl.style.transform = `translate(${x}px, ${y}px) translate(-50%, -100%) scale(${scale})`;
+        }
+
+        function updateAllNodeLabelAssets() {
+          for (const node of state.nodes) updateNodeLabelAssets(node);
+        }
+
+        function updateAllNodeLabelPositions() {
+          for (const node of state.nodes) updateNodeLabelPosition(node);
+        }
+
+        function hash(s) {
+          let h = 2166136261;
+          for (let i = 0; i < s.length; i++) {
+            h ^= s.charCodeAt(i);
+            h = Math.imul(h, 16777619);
+          }
+          return h >>> 0;
+        }
+
+        function parseDateSafe(value) {
+          if (!value) return null;
+          const t = Date.parse(String(value));
+          return Number.isFinite(t) ? t : null;
+        }
+
+        function areaLaneKey(areas, fallbackId) {
+          const scores = {
+            speculative: 0,
+            communication: 0,
+            interaction: 0,
+          };
+          const list = Array.isArray(areas) ? areas : [areas];
+          for (const area of list) {
+            const txt = String(area || "").toLowerCase();
+            if (!txt) continue;
+            if (txt.includes("specul")) scores.speculative += 1;
+            if (txt.includes("comunic") || txt.includes("communicat"))
+              scores.communication += 1;
+            if (txt.includes("inter")) scores.interaction += 1;
+          }
+          const best = Object.entries(scores).sort((a, b) => b[1] - a[1])[0];
+          if (best && best[1] > 0) return best[0];
+          const h = hash(`${fallbackId}_lane`) % 3;
+          if (h === 0) return "speculative";
+          if (h === 1) return "communication";
+          return "interaction";
+        }
+
+        function normValue(value, fallback = "-") {
+          const out = String(value ?? "")
+            .replace(/\s+/g, " ")
+            .trim();
+          return out || fallback;
+        }
+
+        function macroLabel(value) {
+          if (value === "speculative") return "speculazione";
+          if (value === "communication") return "comunicazione";
+          if (value === "interaction") return "interazione";
+          return normValue(value);
+        }
+
+        function modeLabel(mode) {
+          if (mode === "type") return "type";
+          if (mode === "action") return "action";
+          if (mode === "macro") return "macro area";
+          if (mode === "areas") return "areas";
+          if (mode === "tags") return "tags";
+          return "nessuno";
+        }
+
+        function colorByCategory(mode, value) {
+          if (mode === "macro") {
+            if (value === "speculative") return new THREE.Color("#f08b3d");
+            if (value === "communication") return new THREE.Color("#1f7dd3");
+            if (value === "interaction") return new THREE.Color("#2f935c");
+          }
+          const h = (hash(`${mode}:${value}`) % 360) / 360;
+          return new THREE.Color().setHSL(h, 0.62, 0.48);
+        }
+
+        function defaultColorHex(mode, value) {
+          return `#${colorByCategory(mode, value).getHexString()}`;
+        }
+
+        function paletteForMode(mode) {
+          if (!state.paletteByMode[mode]) state.paletteByMode[mode] = new Map();
+          return state.paletteByMode[mode];
+        }
+
+        function colorHexFor(mode, value) {
+          const map = paletteForMode(mode);
+          if (!map.has(value)) map.set(value, defaultColorHex(mode, value));
+          return map.get(value);
+        }
+
+        function resetPaletteForMode(mode) {
+          state.paletteByMode[mode] = new Map();
+        }
+
+        function nodeValuesForMode(node, mode) {
+          if (mode === "type") return [normValue(node.type)];
+          if (mode === "action") return [normValue(node.action)];
+          if (mode === "macro") return [areaLaneKey(node.areas, node.id)];
+          if (mode === "areas") {
+            return [...new Set((node.areas || []).map((v) => normValue(v)).filter(Boolean))];
+          }
+          if (mode === "tags") {
+            return [...new Set((node.tags || []).map((v) => normValue(v)).filter(Boolean))];
+          }
+          return [];
+        }
+
+        function collectModeStats(mode) {
+          const stats = new Map();
+          for (const node of state.nodes) {
+            const values = nodeValuesForMode(node, mode);
+            for (const value of values) {
+              stats.set(value, (stats.get(value) || 0) + 1);
+            }
+          }
+          state.modeStats[mode] = stats;
+          return stats;
+        }
+
+        function categoryLabel(mode, value) {
+          if (mode === "macro") return macroLabel(value);
+          return normValue(value);
+        }
+
+        function pickPrimaryNodeValue(values, stats) {
+          if (!values.length) return "";
+          if (values.length === 1) return values[0];
+          const sorted = [...values].sort((a, b) => {
+            const ca = stats.get(a) || 0;
+            const cb = stats.get(b) || 0;
+            if (ca !== cb) return cb - ca;
+            return a.localeCompare(b, "it");
+          });
+          return sorted[0];
+        }
+
+        function updateHighlightValueOptions() {
+          const mode = dom.selColorMode?.value || "none";
+          const previous = dom.selColorValue?.value || "__all__";
+
+          if (!dom.selColorValue) return;
+          const options = [{ value: "__all__", label: "Evidenzia: tutti" }];
+
+          if (mode !== "none") {
+            const stats = collectModeStats(mode);
+            const sorted = [...stats.entries()]
+              .sort((a, b) => {
+                if (a[1] !== b[1]) return b[1] - a[1];
+                return a[0].localeCompare(b[0], "it");
+              })
+              .map(([value]) => value);
+            for (const value of sorted) {
+              options.push({
+                value,
+                label: `Evidenzia: ${categoryLabel(mode, value)}`,
+              });
+            }
+          }
+
+          dom.selColorValue.innerHTML = options
+            .map((o) => `<option value="${esc(o.value)}">${esc(o.label)}</option>`)
+            .join("");
+          dom.selColorValue.value = options.some((o) => o.value === previous)
+            ? previous
+            : "__all__";
+        }
+
+        function nodeValuesForViewMode(node, mode) {
+          if (mode === "type" || mode === "action" || mode === "areas" || mode === "tags") {
+            return nodeValuesForMode(node, mode);
+          }
+          return [];
+        }
+
+        function collectViewFilterStats(mode) {
+          const stats = new Map();
+          for (const node of state.nodes) {
+            const values = nodeValuesForViewMode(node, mode);
+            if (!values.length) continue;
+            for (const value of values) {
+              stats.set(value, (stats.get(value) || 0) + 1);
+            }
+          }
+          return stats;
+        }
+
+        function updateViewFilterValueOptions() {
+          if (!dom.selViewMode || !dom.selViewValue) return;
+          const mode = dom.selViewMode.value || "all";
+          const previous = dom.selViewValue.value || "__all__";
+          const options = [{ value: "__all__", label: "Valore: tutti" }];
+
+          if (mode !== "all") {
+            const stats = collectViewFilterStats(mode);
+            const sorted = [...stats.entries()].sort((a, b) => {
+              if (a[1] !== b[1]) return b[1] - a[1];
+              return a[0].localeCompare(b[0], "it");
+            });
+            for (const [value, count] of sorted) {
+              options.push({
+                value,
+                label: `${categoryLabel(mode, value)} (${count})`,
+              });
+            }
+          }
+
+          dom.selViewValue.innerHTML = options
+            .map((o) => `<option value="${esc(o.value)}">${esc(o.label)}</option>`)
+            .join("");
+          dom.selViewValue.value = options.some((o) => o.value === previous)
+            ? previous
+            : "__all__";
+        }
+
+        function nodeMatchesViewFilter(node, mode, value) {
+          if (mode === "all" || value === "__all__") return true;
+          const values = nodeValuesForViewMode(node, mode);
+          return values.includes(value);
+        }
+
+        function countVisibleNodes() {
+          let count = 0;
+          for (const node of state.nodes) {
+            if (node.visibleByFilter !== false) count += 1;
+          }
+          return count;
+        }
+
+        function countVisibleEdges() {
+          let count = 0;
+          for (const edge of state.edges) {
+            const a = state.nodes[edge.a];
+            const b = state.nodes[edge.b];
+            if (!a || !b) continue;
+            if (a.visibleByFilter === false || b.visibleByFilter === false) continue;
+            count += 1;
+          }
+          return count;
+        }
+
+        function refreshViewFilterStats() {
+          if (!dom.viewFilterStats) return;
+          const visibleNodes = countVisibleNodes();
+          const visibleEdges = countVisibleEdges();
+          dom.viewFilterStats.textContent = `Visibili ${visibleNodes}/${state.nodes.length} nodi · ${visibleEdges}/${state.edges.length} archi`;
+        }
+
+        function applyViewFilter() {
+          const mode = dom.selViewMode?.value || "all";
+          const value = dom.selViewValue?.value || "__all__";
+          state.viewMode = mode;
+          state.viewValue = value;
+
+          for (const node of state.nodes) {
+            const visible = nodeMatchesViewFilter(node, mode, value);
+            node.visibleByFilter = visible;
+            node.mesh.visible = visible;
+            if (!visible) {
+              node.labelEl?.classList.remove("selected");
+              node.material.emissive.setHex(0x000000);
+              node.material.emissiveIntensity = 0;
+              node.mesh.scale.setScalar(node.radius);
+            }
+          }
+
+          if (
+            state.selected >= 0 &&
+            state.nodes[state.selected] &&
+            state.nodes[state.selected].visibleByFilter === false
+          ) {
+            selectNode(-1);
+          }
+
+          updateEdges();
+          updateAllNodeLabelPositions();
+          applyNodeHighlighting();
+          refreshProjectInfo();
+          refreshViewFilterStats();
+          state.dataViewsDirty = true;
+          renderAnalysisDataViews();
+        }
+
+        function prepCanvas2D(canvas) {
+          if (!canvas) return null;
+          const rect = canvas.getBoundingClientRect();
+          if (!rect.width || !rect.height) return null;
+          const dpr = Math.min(window.devicePixelRatio || 1, 2);
+          canvas.width = Math.floor(rect.width * dpr);
+          canvas.height = Math.floor(rect.height * dpr);
+          const ctx = canvas.getContext("2d");
+          if (!ctx) return null;
+          ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+          return { ctx, width: rect.width, height: rect.height };
+        }
+
+        function drawChartPlaceholder(ctx, width, height, text) {
+          ctx.clearRect(0, 0, width, height);
+          ctx.fillStyle = "#f8f8f8";
+          ctx.fillRect(0, 0, width, height);
+          ctx.strokeStyle = "rgba(0,0,0,0.08)";
+          ctx.strokeRect(0.5, 0.5, width - 1, height - 1);
+          ctx.fillStyle = "#7b7b7b";
+          ctx.font = "12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif";
+          ctx.textAlign = "center";
+          ctx.textBaseline = "middle";
+          ctx.fillText(text, width * 0.5, height * 0.5);
+        }
+
+        function analysisNodeById(id) {
+          const index = state.nodeIndexById.get(String(id));
+          if (index == null) return null;
+          return state.nodes[index] || null;
+        }
+
+        function mapColorModeValue() {
+          return dom.selMapColorMode?.value || dom.selColorMode?.value || "none";
+        }
+
+        function mapNodeColorHex(editorNode, mode, stats) {
+          if (mode === "none") return "#ffffff";
+          const node = analysisNodeById(editorNode.id);
+          if (!node) return "#cfcfcf";
+          const values = nodeValuesForMode(node, mode);
+          const chosen = pickPrimaryNodeValue(values, stats);
+          if (!chosen) return "#cfcfcf";
+          return colorHexFor(mode, chosen);
+        }
+
+        function buildEditorMiniMap(rawNodes, rawEdges) {
+          const nodes = (Array.isArray(rawNodes) ? rawNodes : []).map((raw, i) => {
+            const w = Number.isFinite(Number(raw?.w)) ? Number(raw.w) : 320;
+            const h = Number.isFinite(Number(raw?.h)) ? Number(raw.h) : 180;
+            const fallbackX = (i % 6) * (w + 120);
+            const fallbackY = Math.floor(i / 6) * (h + 64);
+            const x = Number.isFinite(Number(raw?.x)) ? Number(raw.x) : fallbackX;
+            const y = Number.isFinite(Number(raw?.y)) ? Number(raw.y) : fallbackY;
+            return {
+              id: String(raw?.id || `node_${i}`),
+              x,
+              y,
+              w,
+              h,
+              cx: x + w * 0.5,
+              cy: y + h * 0.5,
+              degree: 0,
+            };
+          });
+
+          const byId = new Map();
+          nodes.forEach((n, i) => byId.set(n.id, i));
+
+          const edges = [];
+          for (const edge of Array.isArray(rawEdges) ? rawEdges : []) {
+            const a = byId.get(String(edge?.s));
+            const b = byId.get(String(edge?.t));
+            if (a == null || b == null || a === b) continue;
+            edges.push({ a, b, weak: !!edge?.dashed });
+            nodes[a].degree += 1;
+            nodes[b].degree += 1;
+          }
+
+          state.editorMap.nodes = nodes;
+          state.editorMap.edges = edges;
+          state.editorMap.byId = byId;
+          fitEditorMiniMap(true);
+        }
+
+        function fitEditorMiniMap(forceRedraw = false) {
+          const nodes = state.editorMap.nodes;
+          if (!nodes.length || !dom.miniMap) return;
+          const rect = dom.miniMap.getBoundingClientRect();
+          if (!rect.width || !rect.height) return;
+
+          let minX = Infinity;
+          let minY = Infinity;
+          let maxX = -Infinity;
+          let maxY = -Infinity;
+          for (const n of nodes) {
+            if (n.cx < minX) minX = n.cx;
+            if (n.cx > maxX) maxX = n.cx;
+            if (n.cy < minY) minY = n.cy;
+            if (n.cy > maxY) maxY = n.cy;
+          }
+
+          const spanX = Math.max(1, maxX - minX);
+          const spanY = Math.max(1, maxY - minY);
+          const margin = 24;
+          const zoom = Math.min(
+            (rect.width - margin * 2) / spanX,
+            (rect.height - margin * 2) / spanY
+          );
+
+          const view = state.editorMap.view;
+          view.zoom = THREE.MathUtils.clamp(zoom, 0.035, 6);
+          view.panX = rect.width * 0.5 - ((minX + maxX) * 0.5) * view.zoom;
+          view.panY = rect.height * 0.5 - ((minY + maxY) * 0.5) * view.zoom;
+          state.dataViewsDirty = true;
+          if (forceRedraw) renderAnalysisDataViews();
+        }
+
+        function editorMapWorldToScreen(x, y) {
+          const view = state.editorMap.view;
+          return {
+            x: x * view.zoom + view.panX,
+            y: y * view.zoom + view.panY,
+          };
+        }
+
+        function editorMapScreenToWorld(x, y) {
+          const view = state.editorMap.view;
+          const z = Math.max(0.0001, view.zoom);
+          return {
+            x: (x - view.panX) / z,
+            y: (y - view.panY) / z,
+          };
+        }
+
+        function pickEditorMapNode(localX, localY) {
+          let best = -1;
+          let bestDist = Infinity;
+          for (const mapNode of state.editorMap.nodes) {
+            const idx = state.nodeIndexById.get(mapNode.id);
+            if (idx == null) continue;
+            const node = state.nodes[idx];
+            if (!node || node.visibleByFilter === false) continue;
+            const p = editorMapWorldToScreen(mapNode.cx, mapNode.cy);
+            const d = Math.hypot(localX - p.x, localY - p.y);
+            const r = THREE.MathUtils.clamp(2.4 + Math.sqrt(mapNode.degree + 1) * 0.46, 3, 8);
+            if (d <= r + 4 && d < bestDist) {
+              bestDist = d;
+              best = idx;
+            }
+          }
+          return best;
+        }
+
+        function updateEditorMapInfo(visibleNodes, visibleEdges) {
+          if (!dom.editorMapInfo) return;
+          if (state.selected >= 0 && state.nodes[state.selected]) {
+            const n = state.nodes[state.selected];
+            dom.editorMapInfo.textContent = `Selezionato: ${n.title} · ${visibleNodes} nodi visibili · ${visibleEdges} archi visibili`;
+            return;
+          }
+          dom.editorMapInfo.textContent = `${visibleNodes} nodi visibili · ${visibleEdges} archi visibili`;
+        }
+
+        function computeFilteredActionSeries() {
+          const nodes = state.nodes.filter((n) => n.visibleByFilter !== false);
+          const weekMs = 7 * 24 * 60 * 60 * 1000;
+          const dated = [];
+          for (const node of nodes) {
+            const t = parseDateSafe(node.date);
+            if (t == null) continue;
+            dated.push({ node, t });
+          }
+
+          if (!dated.length) {
+            return {
+              labels: [],
+              exploring: [],
+              making: [],
+              total: [],
+            };
+          }
+
+          const startMs = Math.min(...dated.map((d) => d.t));
+          const labels = [];
+          const exploring = [];
+          const making = [];
+          const total = [];
+
+          for (const item of dated) {
+            const week = Math.max(0, Math.floor((item.t - startMs) / weekMs));
+            while (labels.length <= week) {
+              labels.push(`W${labels.length + 1}`);
+              exploring.push(0);
+              making.push(0);
+              total.push(0);
+            }
+            total[week] += 1;
+            const action = normValue(item.node.action, "").toLowerCase();
+            if (action === "exploring") exploring[week] += 1;
+            else if (action === "making") making[week] += 1;
+          }
+
+          return {
+            labels,
+            exploring,
+            making,
+            total,
+          };
+        }
+
+        function renderTimelineChart() {
+          const prep = prepCanvas2D(dom.lineChart);
+          if (!prep) return;
+          const { ctx, width, height } = prep;
+          const series = computeFilteredActionSeries();
+
+          if (!series.labels.length) {
+            if (dom.timelineMeta) dom.timelineMeta.textContent = "0 settimane";
+            drawChartPlaceholder(ctx, width, height, "Nessun nodo filtrato con data");
+            return;
+          }
+
+          const totalNodes = series.total.reduce((sum, v) => sum + v, 0);
+          if (dom.timelineMeta) {
+            dom.timelineMeta.textContent = `${series.labels.length} settimane · ${totalNodes} nodi`;
+          }
+
+          const m = { l: 38, r: 14, t: 14, b: 26 };
+          const pw = Math.max(10, width - m.l - m.r);
+          const ph = Math.max(10, height - m.t - m.b);
+          const maxY = Math.max(1, ...series.exploring, ...series.making, ...series.total);
+
+          ctx.clearRect(0, 0, width, height);
+          ctx.fillStyle = "#ffffff";
+          ctx.fillRect(0, 0, width, height);
+          ctx.strokeStyle = "rgba(0,0,0,0.08)";
+          ctx.strokeRect(0.5, 0.5, width - 1, height - 1);
+
+          ctx.strokeStyle = "rgba(0,0,0,0.1)";
+          ctx.lineWidth = 1;
+          for (let i = 0; i <= 4; i++) {
+            const y = m.t + (ph * i) / 4;
+            ctx.beginPath();
+            ctx.moveTo(m.l, y);
+            ctx.lineTo(m.l + pw, y);
+            ctx.stroke();
+          }
+
+          ctx.fillStyle = "#666";
+          ctx.font = "10px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif";
+          ctx.textAlign = "right";
+          ctx.textBaseline = "middle";
+          for (let i = 0; i <= 4; i++) {
+            const val = Math.round(maxY - (maxY * i) / 4);
+            const y = m.t + (ph * i) / 4;
+            ctx.fillText(String(val), m.l - 6, y);
+          }
+
+          const pointX = (index) =>
+            series.labels.length <= 1
+              ? m.l + pw * 0.5
+              : m.l + (pw * index) / (series.labels.length - 1);
+          const pointY = (value) => m.t + ph - (value / maxY) * ph;
+
+          const drawSeries = (values, color, widthPx = 2) => {
+            ctx.beginPath();
+            for (let i = 0; i < values.length; i++) {
+              const x = pointX(i);
+              const y = pointY(values[i]);
+              if (i === 0) ctx.moveTo(x, y);
+              else ctx.lineTo(x, y);
+            }
+            ctx.strokeStyle = color;
+            ctx.lineWidth = widthPx;
+            ctx.stroke();
+            ctx.fillStyle = color;
+            for (let i = 0; i < values.length; i++) {
+              const x = pointX(i);
+              const y = pointY(values[i]);
+              ctx.beginPath();
+              ctx.arc(x, y, 2.5, 0, Math.PI * 2);
+              ctx.fill();
+            }
+          };
+
+          drawSeries(series.exploring, "#0b9bb8");
+          drawSeries(series.making, "#8a5a2b");
+          drawSeries(series.total, "#111111", 2.2);
+
+          const tickIdx = [...new Set([0, Math.floor((series.labels.length - 1) * 0.5), series.labels.length - 1])];
+          ctx.textAlign = "center";
+          ctx.textBaseline = "top";
+          ctx.fillStyle = "#666";
+          for (const idx of tickIdx) {
+            const x = pointX(idx);
+            ctx.fillText(series.labels[idx], x, m.t + ph + 6);
+          }
+
+          ctx.textAlign = "left";
+          ctx.textBaseline = "top";
+          ctx.font = "11px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif";
+          ctx.fillStyle = "#0b9bb8";
+          ctx.fillText("Exploring", m.l + 4, 6);
+          ctx.fillStyle = "#8a5a2b";
+          ctx.fillText("Making", m.l + 82, 6);
+          ctx.fillStyle = "#111111";
+          ctx.fillText("Totale", m.l + 144, 6);
+        }
+
+        function renderTotalsChart() {
+          const prep = prepCanvas2D(dom.totalsChart);
+          if (!prep) return;
+          const { ctx, width, height } = prep;
+          const visible = state.nodes.filter((n) => n.visibleByFilter !== false);
+          let exploring = 0;
+          let making = 0;
+          for (const node of visible) {
+            const action = normValue(node.action, "").toLowerCase();
+            if (action === "exploring") exploring += 1;
+            else if (action === "making") making += 1;
+          }
+          const total = visible.length;
+
+          if (!total) {
+            drawChartPlaceholder(ctx, width, height, "Nessun nodo visibile");
+            return;
+          }
+
+          const data = [
+            { label: "Exploring", value: exploring, color: "#0b9bb8" },
+            { label: "Making", value: making, color: "#8a5a2b" },
+            { label: "Totale", value: total, color: "#111111" },
+          ];
+          const max = Math.max(1, ...data.map((d) => d.value));
+          const m = { l: 22, r: 14, t: 10, b: 24 };
+          const pw = Math.max(10, width - m.l - m.r);
+          const ph = Math.max(10, height - m.t - m.b);
+
+          ctx.clearRect(0, 0, width, height);
+          ctx.fillStyle = "#ffffff";
+          ctx.fillRect(0, 0, width, height);
+          ctx.strokeStyle = "rgba(0,0,0,0.08)";
+          ctx.strokeRect(0.5, 0.5, width - 1, height - 1);
+
+          const slot = pw / data.length;
+          data.forEach((entry, i) => {
+            const bw = Math.min(42, slot * 0.56);
+            const bx = m.l + slot * i + (slot - bw) * 0.5;
+            const bh = (entry.value / max) * ph;
+            const by = m.t + ph - bh;
+            ctx.fillStyle = entry.color;
+            ctx.fillRect(bx, by, bw, bh);
+            ctx.fillStyle = "#4e4e4e";
+            ctx.font = "10px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif";
+            ctx.textAlign = "center";
+            ctx.textBaseline = "top";
+            ctx.fillText(entry.label, bx + bw * 0.5, m.t + ph + 6);
+            ctx.textBaseline = "bottom";
+            ctx.fillText(String(entry.value), bx + bw * 0.5, by - 3);
+          });
+        }
+
+        function renderMiniMapChart() {
+          const prep = prepCanvas2D(dom.miniMap);
+          if (!prep) return;
+          const { ctx, width, height } = prep;
+
+          const editorNodes = state.editorMap.nodes;
+          const editorEdges = state.editorMap.edges;
+          if (!editorNodes.length) {
+            if (dom.miniMapMeta) dom.miniMapMeta.textContent = "Editor navigator";
+            updateEditorMapInfo(0, 0);
+            drawChartPlaceholder(ctx, width, height, "Nessun dato editor");
+            return;
+          }
+
+          const colorMode = mapColorModeValue();
+          const stats = colorMode === "none" ? new Map() : collectModeStats(colorMode);
+          const visibleSet = new Set();
+          let visibleNodes = 0;
+          for (const mapNode of editorNodes) {
+            const node = analysisNodeById(mapNode.id);
+            if (!node || node.visibleByFilter === false) continue;
+            visibleSet.add(mapNode.id);
+            visibleNodes += 1;
+          }
+
+          let visibleEdges = 0;
+          for (const edge of editorEdges) {
+            const a = editorNodes[edge.a];
+            const b = editorNodes[edge.b];
+            if (!a || !b) continue;
+            if (!visibleSet.has(a.id) || !visibleSet.has(b.id)) continue;
+            visibleEdges += 1;
+          }
+
+          if (dom.miniMapMeta) {
+            dom.miniMapMeta.textContent = `Editor navigator · ${visibleNodes}/${editorNodes.length} nodi`;
+          }
+          updateEditorMapInfo(visibleNodes, visibleEdges);
+
+          if (!visibleNodes) {
+            drawChartPlaceholder(ctx, width, height, "Nessun nodo visibile");
+            return;
+          }
+
+          ctx.clearRect(0, 0, width, height);
+          ctx.fillStyle = "#ffffff";
+          ctx.fillRect(0, 0, width, height);
+          ctx.strokeStyle = "rgba(0,0,0,0.08)";
+          ctx.strokeRect(0.5, 0.5, width - 1, height - 1);
+
+          ctx.strokeStyle = "rgba(0,0,0,0.2)";
+          ctx.lineWidth = 1;
+          for (const edge of editorEdges) {
+            const a = editorNodes[edge.a];
+            const b = editorNodes[edge.b];
+            if (!a || !b) continue;
+            if (!visibleSet.has(a.id) || !visibleSet.has(b.id)) continue;
+            const sa = editorMapWorldToScreen(a.cx, a.cy);
+            const sb = editorMapWorldToScreen(b.cx, b.cy);
+            ctx.beginPath();
+            ctx.moveTo(sa.x, sa.y);
+            ctx.lineTo(sb.x, sb.y);
+            ctx.stroke();
+          }
+
+          for (const mapNode of editorNodes) {
+            const node = analysisNodeById(mapNode.id);
+            if (!node || node.visibleByFilter === false) continue;
+            const p = editorMapWorldToScreen(mapNode.cx, mapNode.cy);
+            const isSelected =
+              state.selected >= 0 &&
+              state.nodes[state.selected] &&
+              state.nodes[state.selected].id === mapNode.id;
+            const radius = THREE.MathUtils.clamp(
+              2.3 + Math.sqrt(mapNode.degree + 1) * 0.45,
+              3,
+              8.5
+            );
+
+            const fill = mapNodeColorHex(mapNode, colorMode, stats);
+            ctx.beginPath();
+            ctx.arc(p.x, p.y, radius, 0, Math.PI * 2);
+            ctx.fillStyle = fill;
+            ctx.fill();
+            ctx.lineWidth = isSelected ? 2.4 : 1.1;
+            ctx.strokeStyle = isSelected ? "#111111" : "rgba(10,10,10,0.56)";
+            ctx.stroke();
+          }
+        }
+
+        function renderAnalysisDataViews() {
+          renderTimelineChart();
+          renderTotalsChart();
+          renderMiniMapChart();
+          state.dataViewsDirty = false;
+        }
+
+        function renderColorEditor() {
+          if (!dom.colorEditor || !dom.colorPanelMeta) return;
+          const mode = dom.selColorMode?.value || "none";
+          if (mode === "none") {
+            dom.colorPanelMeta.textContent =
+              "Seleziona un campo colore nella navbar per personalizzare ogni valore.";
+            dom.colorEditor.innerHTML = "";
+            return;
+          }
+
+          const stats = collectModeStats(mode);
+          dom.colorPanelMeta.textContent = `Campo attivo: ${modeLabel(mode)} (${stats.size} valori).`;
+
+          const rows = [...stats.entries()].sort((a, b) => {
+            if (a[1] !== b[1]) return b[1] - a[1];
+            return a[0].localeCompare(b[0], "it");
+          });
+
+          if (!rows.length) {
+            dom.colorEditor.innerHTML = '<div class="meta">Nessun valore disponibile.</div>';
+            return;
+          }
+
+          dom.colorEditor.innerHTML = rows
+            .map(([value, count]) => {
+              const hex = colorHexFor(mode, value);
+              return `
+                <label class="color-row">
+                  <input type="color" data-value="${esc(value)}" value="${esc(hex)}" />
+                  <span class="name">${esc(categoryLabel(mode, value))}</span>
+                  <span class="count">${count}</span>
+                </label>
+              `;
+            })
+            .join("");
+        }
+
+        function applyNodeHighlighting() {
+          const mode = dom.selColorMode?.value || "none";
+          const value = dom.selColorValue?.value || "__all__";
+          state.colorMode = mode;
+          state.colorValue = value;
+          const stats = mode === "none" ? new Map() : collectModeStats(mode);
+
+          for (let i = 0; i < state.nodes.length; i++) {
+            const n = state.nodes[i];
+            const values = nodeValuesForMode(n, mode);
+            const selected = state.selected >= 0 && state.nodes[state.selected] === n;
+            const matchAll = value === "__all__";
+            const matched = mode === "none" || matchAll || values.includes(value);
+            const strong = matched || selected;
+
+            n.material.color.setHex(0x000000);
+            n.material.opacity = strong ? 0.95 : 0.15;
+            n.material.transparent = n.material.opacity < 0.99;
+
+            if (mode === "none") {
+              n.labelEl?.classList.remove("boxed");
+              n.labelEl?.classList.remove("dimmed");
+              n.labelEl?.style.removeProperty("--nodeBorder");
+              continue;
+            }
+
+            const chosenValue = matchAll
+              ? pickPrimaryNodeValue(values, stats)
+              : value;
+            const borderHex = chosenValue
+              ? colorHexFor(mode, chosenValue)
+              : "#8b8b8b";
+            n.labelEl?.classList.add("boxed");
+            n.labelEl?.classList.toggle("dimmed", !matched && !selected);
+            n.labelEl?.style.setProperty(
+              "--nodeBorder",
+              strong ? borderHex : "#c6c6c6"
+            );
+          }
+        }
+
+        function applyImagesVisibility() {
+          state.showImages = (dom.selImages?.value || "on") !== "off";
+          document.body.classList.toggle("hide-images", !state.showImages);
+          updateAllNodeLabelAssets();
+          if (state.selected >= 0) renderNodeMedia(state.nodes[state.selected]);
+        }
+
+        function refreshToolbarOptions() {
+          updateHighlightValueOptions();
+          renderColorEditor();
+          applyNodeHighlighting();
+          updateViewFilterValueOptions();
+          refreshViewFilterStats();
+          if (dom.selMapColorMode) {
+            dom.selMapColorMode.value = dom.selColorMode?.value || "none";
+          }
+          state.dataViewsDirty = true;
+        }
+
+        function normalizeAreaName(value) {
+          return String(value ?? "")
+            .replace(/\s+/g, " ")
+            .trim();
+        }
+
+        function normalizeKeyword(value) {
+          return String(value ?? "")
+            .replace(/\s+/g, " ")
+            .trim();
+        }
+
+        function nodeKeywordsFromData(data) {
+          const tags = Array.isArray(data?.tags) ? data.tags : [];
+          const cleanedTags = [...new Set(tags.map((t) => normalizeKeyword(t)).filter(Boolean))];
+          if (cleanedTags.length) return cleanedTags;
+
+          const desc = normalizeKeyword(data?.desc);
+          if (!desc || desc.length > 220 || !/[,;|]/.test(desc)) return [];
+          const split = desc
+            .split(/[,;|]/)
+            .map((part) => normalizeKeyword(part))
+            .filter((part) => part.length >= 3 && part.length <= 42);
+          return [...new Set(split)];
+        }
+
+        function disciplineSimBounds() {
+          const w = Math.max(220, discipline.width || 220);
+          const h = Math.max(220, discipline.height || 220);
+          const cx = w * 0.5;
+          const cy = h * 0.5;
+          const side = Math.max(180, Math.min(w, h));
+          const half = side * 0.5;
+          return {
+            w,
+            h,
+            cx,
+            cy,
+            side,
+            left: cx - half,
+            right: cx + half,
+            top: cy - half,
+            bottom: cy + half,
+          };
+        }
+        function canonicalAreaName(value) {
+          const txt = normalizeAreaName(value);
+          if (!txt) return "";
+          const low = txt.toLowerCase();
+          if (low === "speculative" || low === "speculative design")
+            return "Speculative Design";
+          if (low === "communication" || low === "communication design")
+            return "Communication Design";
+          if (low === "interaction" || low === "interaction design")
+            return "Interaction Design";
+          return txt;
+        }
+        function areaDedupeKey(value) {
+          return canonicalAreaName(value)
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, " ")
+            .trim()
+            .replace(/\s+/g, " ");
+        }
+        function normalizeAreaList(areas, legacyMain = null) {
+          const seen = new Set();
+          const out = [];
+          const push = (raw) => {
+            const mapped = canonicalAreaName(raw);
+            if (!mapped) return;
+            const key = areaDedupeKey(mapped);
+            if (!key || seen.has(key)) return;
+            seen.add(key);
+            out.push(mapped);
+          };
+
+          if (Array.isArray(areas)) {
+            for (const a of areas) push(a);
+          } else {
+            push(areas);
+          }
+          if (Array.isArray(legacyMain)) {
+            for (const a of legacyMain) push(a);
+          } else {
+            push(legacyMain);
+          }
+          return out;
+        }
+
+        function disciplineColor(name) {
+          const h = hash(name) % 360;
+          return `hsl(${h} 58% 76%)`;
+        }
+
+        function refreshDisciplineInfo() {
+          dom.disciplineStats.textContent = `${discipline.nodes.length} aree · ${discipline.edges.length} connessioni`;
+        }
+
+        function clearDisciplineGraph() {
+          discipline.nodes = [];
+          discipline.edges = [];
+          discipline.keywords = [];
+          discipline.keywordMinCount = 2;
+          discipline.selected = -1;
+          discipline.worldByArea = new Map();
+          discipline.worldByAreaLower = new Map();
+          discipline.worldBounds = { sizeX: 360, sizeZ: 360 };
+          refreshDisciplineInfo();
+          if (dom.disciplineHint) {
+            dom.disciplineHint.textContent = discipline.defaultHint;
+          }
+        }
+
+        function updateDisciplineWorldMap() {
+          const worldByArea = new Map();
+          const worldByAreaLower = new Map();
+
+          if (!discipline.nodes.length) {
+            discipline.worldByArea = worldByArea;
+            discipline.worldByAreaLower = worldByAreaLower;
+            discipline.worldBounds = { sizeX: 360, sizeZ: 360 };
+            return;
+          }
+
+          let minX = Infinity;
+          let maxX = -Infinity;
+          let minY = Infinity;
+          let maxY = -Infinity;
+          for (const n of discipline.nodes) {
+            if (n.x < minX) minX = n.x;
+            if (n.x > maxX) maxX = n.x;
+            if (n.y < minY) minY = n.y;
+            if (n.y > maxY) maxY = n.y;
+          }
+
+          const spanX = Math.max(90, maxX - minX);
+          const spanY = Math.max(90, maxY - minY);
+          const targetSpan = 520;
+          const spread = Math.max(spanX, spanY);
+          const scale = targetSpan / spread;
+          const cx = (minX + maxX) * 0.5;
+          const cy = (minY + maxY) * 0.5;
+
+          for (const n of discipline.nodes) {
+            const x = (n.x - cx) * scale;
+            const z = (n.y - cy) * scale;
+            const r = Math.max(6, n.radius * scale * 0.28);
+            const entry = { x, z, r, count: n.count, label: n.label };
+            worldByArea.set(n.label, entry);
+            worldByAreaLower.set(n.label.toLowerCase(), entry);
+          }
+
+          discipline.worldByArea = worldByArea;
+          discipline.worldByAreaLower = worldByAreaLower;
+          discipline.worldBounds = {
+            sizeX: spread * scale,
+            sizeZ: spread * scale,
+          };
+        }
+
+        function disciplineWorldForArea(areaName) {
+          const key = normalizeAreaName(areaName);
+          if (!key) return null;
+
+          let entry = discipline.worldByArea.get(key);
+          if (entry) return entry;
+
+          const low = key.toLowerCase();
+          entry = discipline.worldByAreaLower.get(low);
+          if (entry) return entry;
+
+          if (low.length >= 4) {
+            for (const [label, value] of discipline.worldByArea.entries()) {
+              const l = label.toLowerCase();
+              if (l.includes(low) || low.includes(l)) return value;
+            }
+          }
+
+          return null;
+        }
+
+        function positionFromDisciplineAreas(id, lane, areas) {
+          const picks = [];
+          const areaList = Array.isArray(areas) ? areas : [];
+
+          for (const area of areaList) {
+            const entry = disciplineWorldForArea(area);
+            if (entry) picks.push({ entry, w: 1 });
+          }
+
+          if (!picks.length) {
+            const bounds = discipline.worldBounds || { sizeX: 360, sizeZ: 360 };
+            const laneBiasX =
+              lane === "speculative" ? -0.28 : lane === "communication" ? 0.28 : 0;
+            const laneBiasZ = lane === "interaction" ? 0.25 : -0.08;
+            const x =
+              ((((hash(`${id}_fallback_x`) % 1000) / 999) - 0.5) *
+                bounds.sizeX *
+                0.58) +
+              laneBiasX * bounds.sizeX;
+            const z =
+              ((((hash(`${id}_fallback_z`) % 1000) / 999) - 0.5) *
+                bounds.sizeZ *
+                0.58) +
+              laneBiasZ * bounds.sizeZ;
+            return { x, z };
+          }
+
+          let sx = 0;
+          let sz = 0;
+          let sw = 0;
+          for (const p of picks) {
+            sx += p.entry.x * p.w;
+            sz += p.entry.z * p.w;
+            sw += p.w;
+          }
+
+          const jitterX = ((((hash(`${id}_x`) % 1000) / 999) - 0.5) * 14);
+          const jitterZ = ((((hash(`${id}_z`) % 1000) / 999) - 0.5) * 14);
+          return {
+            x: sx / Math.max(0.001, sw) + jitterX,
+            z: sz / Math.max(0.001, sw) + jitterZ,
+          };
+        }
+
+        function buildDisciplineGraph(rawNodes) {
+          const countMap = new Map();
+          const pairMap = new Map();
+
+          for (const rawNode of rawNodes) {
+            const areasRaw = Array.isArray(rawNode.areas) ? rawNode.areas : [];
+            const areas = normalizeAreaList(areasRaw);
+            if (areas.length === 0) continue;
+
+            for (const area of areas) {
+              countMap.set(area, (countMap.get(area) || 0) + 1);
+            }
+
+            for (let i = 0; i < areas.length; i++) {
+              for (let j = i + 1; j < areas.length; j++) {
+                const a = areas[i];
+                const b = areas[j];
+                const key = a < b ? `${a}\u0000${b}` : `${b}\u0000${a}`;
+                pairMap.set(key, (pairMap.get(key) || 0) + 1);
+              }
+            }
+          }
+
+          const entries = [...countMap.entries()].sort((a, b) => b[1] - a[1]);
+          const bounds = disciplineSimBounds();
+          const seedRadius = bounds.side * 0.31;
+
+          const nodes = entries.map(([name, count], i) => {
+            const t = i / Math.max(1, entries.length);
+            const a = t * Math.PI * 2 + ((hash(`${name}_a`) % 1000) / 1000) * 0.3;
+            const r = seedRadius * (0.56 + ((hash(`${name}_r`) % 1000) / 1000) * 0.52);
+            return {
+              id: name,
+              label: name,
+              count,
+              degree: 0,
+              radius: THREE.MathUtils.clamp(11 + Math.sqrt(count) * 3.6, 12, 34),
+              x: bounds.cx + Math.cos(a) * r,
+              y: bounds.cy + Math.sin(a) * r,
+              vx: 0,
+              vy: 0,
+              fx: 0,
+              fy: 0,
+              color: disciplineColor(name),
+            };
+          });
+
+          const indexById = new Map();
+          nodes.forEach((n, i) => indexById.set(n.id, i));
+
+          const edges = [];
+          for (const [pairKey, weight] of pairMap.entries()) {
+            const [a, b] = pairKey.split("\u0000");
+            const ai = indexById.get(a);
+            const bi = indexById.get(b);
+            if (ai == null || bi == null || ai === bi) continue;
+            edges.push({ a: ai, b: bi, weight });
+            nodes[ai].degree += 1;
+            nodes[bi].degree += 1;
+          }
+
+          discipline.nodes = nodes;
+          discipline.edges = edges;
+          discipline.selected = -1;
+
+          const warmupSteps = THREE.MathUtils.clamp(
+            110 + discipline.nodes.length * 8,
+            120,
+            420
+          );
+          for (let i = 0; i < warmupSteps; i++) {
+            simulateDiscipline();
+          }
+          updateDisciplineWorldMap();
+          refreshDisciplineInfo();
+
+          if (dom.disciplineHint) {
+            dom.disciplineHint.textContent = discipline.defaultHint;
+          }
+        }
+
+        function buildDisciplineKeywords(rawNodes) {
+          const keywordMap = new Map();
+          for (const rawNode of rawNodes) {
+            const rawKeywords = Array.isArray(rawNode.keywords)
+              ? rawNode.keywords
+              : Array.isArray(rawNode.tags)
+              ? rawNode.tags
+              : [];
+            const keywords = [...new Set(rawKeywords.map((k) => normalizeKeyword(k)).filter(Boolean))];
+            if (!keywords.length) continue;
+
+            const areas = Array.isArray(rawNode.areas) ? normalizeAreaList(rawNode.areas) : [];
+
+            for (const keyword of keywords) {
+              const key = keyword.toLowerCase();
+              let entry = keywordMap.get(key);
+              if (!entry) {
+                entry = {
+                  key,
+                  label: keyword,
+                  count: 0,
+                  anchorX: 0,
+                  anchorZ: 0,
+                  anchorWeight: 0,
+                };
+                keywordMap.set(key, entry);
+              }
+              entry.count += 1;
+
+              let hasAreaAnchor = false;
+              for (const area of areas) {
+                const world = disciplineWorldForArea(area);
+                if (!world) continue;
+                entry.anchorX += world.x;
+                entry.anchorZ += world.z;
+                entry.anchorWeight += 1;
+                hasAreaAnchor = true;
+              }
+              if (!hasAreaAnchor) {
+                const lane = areaLaneKey(areas, `kw_${keyword}`);
+                const fallback = positionFromDisciplineAreas(`kw_${keyword}`, lane, areas);
+                entry.anchorX += fallback.x;
+                entry.anchorZ += fallback.z;
+                entry.anchorWeight += 1;
+              }
+            }
+          }
+
+          const ranked = [...keywordMap.values()].sort((a, b) => {
+            if (a.count !== b.count) return b.count - a.count;
+            return a.label.localeCompare(b.label, "it");
+          });
+
+          if (!ranked.length) {
+            discipline.keywords = [];
+            discipline.keywordMinCount = 2;
+            return;
+          }
+
+          let minCount = discipline.keywordMinCount;
+          let selected = ranked.filter((entry) => entry.count >= minCount);
+          if (!selected.length) {
+            minCount = ranked[0].count;
+            selected = ranked.slice(0, Math.min(12, ranked.length));
+          }
+          selected = selected.slice(0, 24);
+          discipline.keywordMinCount = minCount;
+
+          const bounds = discipline.worldBounds || { sizeX: 360, sizeZ: 360 };
+          const clampX = Math.max(140, bounds.sizeX * 0.5 - 10);
+          const clampZ = Math.max(140, bounds.sizeZ * 0.5 - 10);
+
+          const layout = selected.map((entry, idx) => {
+            const baseX =
+              entry.anchorWeight > 0 ? entry.anchorX / entry.anchorWeight : 0;
+            const baseZ =
+              entry.anchorWeight > 0 ? entry.anchorZ / entry.anchorWeight : 0;
+            const angle = ((hash(`${entry.key}_a`) % 1000) / 1000) * Math.PI * 2;
+            const radius = 5 + ((hash(`${entry.key}_r`) % 1000) / 1000) * 16;
+            const jitterX = Math.cos(angle) * radius;
+            const jitterZ = Math.sin(angle) * radius;
+            const x = THREE.MathUtils.clamp(baseX + jitterX, -clampX, clampX);
+            const z = THREE.MathUtils.clamp(baseZ + jitterZ, -clampZ, clampZ);
+            const r = THREE.MathUtils.clamp(
+              7 + entry.label.length * 0.25 + Math.log1p(entry.count) * 2.1,
+              10,
+              28
+            );
+            return {
+              key: entry.key,
+              label: entry.label,
+              count: entry.count,
+              anchorX: x,
+              anchorZ: z,
+              x,
+              z,
+              vx: 0,
+              vz: 0,
+              radius: r,
+              order: idx,
+            };
+          });
+
+          const steps = 90;
+          for (let iter = 0; iter < steps; iter++) {
+            for (let i = 0; i < layout.length; i++) {
+              const a = layout[i];
+              for (let j = i + 1; j < layout.length; j++) {
+                const b = layout[j];
+                let dx = a.x - b.x;
+                let dz = a.z - b.z;
+                let dist = Math.hypot(dx, dz);
+                if (dist < 0.001) {
+                  const angle = ((i + 1) * (j + 3) * 0.731) % (Math.PI * 2);
+                  dx = Math.cos(angle);
+                  dz = Math.sin(angle);
+                  dist = 1;
+                }
+                const minDist = a.radius + b.radius + 4;
+                if (dist >= minDist) continue;
+                const push = ((minDist - dist) / minDist) * 0.95;
+                const nx = dx / dist;
+                const nz = dz / dist;
+                a.vx += nx * push;
+                a.vz += nz * push;
+                b.vx -= nx * push;
+                b.vz -= nz * push;
+              }
+            }
+
+            for (const item of layout) {
+              item.vx += (item.anchorX - item.x) * 0.018;
+              item.vz += (item.anchorZ - item.z) * 0.018;
+              item.vx *= 0.78;
+              item.vz *= 0.78;
+              item.x = THREE.MathUtils.clamp(item.x + item.vx, -clampX, clampX);
+              item.z = THREE.MathUtils.clamp(item.z + item.vz, -clampZ, clampZ);
+            }
+          }
+
+          discipline.keywords = layout.map((entry) => ({
+            key: entry.key,
+            label: entry.label,
+            count: entry.count,
+            x: entry.x,
+            z: entry.z,
+          }));
+        }
+
+        function disciplineNeighbors(index) {
+          if (index < 0 || index >= discipline.nodes.length) return [];
+          const neighbors = [];
+          for (const e of discipline.edges) {
+            if (e.a !== index && e.b !== index) continue;
+            const other = e.a === index ? e.b : e.a;
+            neighbors.push({ label: discipline.nodes[other].label, weight: e.weight });
+          }
+          neighbors.sort((a, b) => b.weight - a.weight);
+          return neighbors;
+        }
+
+        function selectDiscipline(index) {
+          discipline.selected = index;
+          if (index < 0 || index >= discipline.nodes.length) {
+            dom.disciplineHint.textContent = discipline.defaultHint;
+            return;
+          }
+
+          const node = discipline.nodes[index];
+          const neighbors = disciplineNeighbors(index).slice(0, 4);
+          const linked = neighbors.length
+            ? neighbors.map((n) => `${n.label} (${n.weight})`).join(", ")
+            : "nessuna";
+          dom.disciplineHint.textContent = `${node.label}: ${node.count} occorrenze · collegata a ${linked}`;
+        }
+
+        function pickDisciplineAt(clientX, clientY) {
+          const rect = dom.disciplineCanvas.getBoundingClientRect();
+          if (!rect.width || !rect.height) return -1;
+          const x = clientX - rect.left;
+          const y = clientY - rect.top;
+          let best = -1;
+          let bestScore = Infinity;
+          for (let i = 0; i < discipline.nodes.length; i++) {
+            const n = discipline.nodes[i];
+            const dx = x - n.x;
+            const dy = y - n.y;
+            const dist = Math.hypot(dx, dy);
+            if (dist <= n.radius) {
+              const score = dist - n.radius * 0.2;
+              if (score < bestScore) {
+                bestScore = score;
+                best = i;
+              }
+            }
+          }
+          return best;
+        }
+
+        function simulateDiscipline() {
+          if (!discipline.nodes.length) return;
+
+          const repulsion = 5000;
+          const spring = 0.024;
+          const centerPull = 0.012;
+          const damping = 0.87;
+          const bounds = disciplineSimBounds();
+
+          for (const n of discipline.nodes) {
+            n.fx = 0;
+            n.fy = 0;
+          }
+
+          for (let i = 0; i < discipline.nodes.length; i++) {
+            const a = discipline.nodes[i];
+            for (let j = i + 1; j < discipline.nodes.length; j++) {
+              const b = discipline.nodes[j];
+              let dx = a.x - b.x;
+              let dy = a.y - b.y;
+              let distSq = dx * dx + dy * dy;
+              if (distSq < 1) {
+                dx = (Math.random() - 0.5) * 2;
+                dy = (Math.random() - 0.5) * 2;
+                distSq = dx * dx + dy * dy;
+              }
+              const dist = Math.sqrt(distSq);
+              const f = repulsion / distSq;
+              const nx = dx / dist;
+              const ny = dy / dist;
+              a.fx += nx * f;
+              a.fy += ny * f;
+              b.fx -= nx * f;
+              b.fy -= ny * f;
+            }
+          }
+
+          for (const e of discipline.edges) {
+            const a = discipline.nodes[e.a];
+            const b = discipline.nodes[e.b];
+            const dx = b.x - a.x;
+            const dy = b.y - a.y;
+            const dist = Math.max(0.001, Math.hypot(dx, dy));
+            const target =
+              30 + (a.radius + b.radius) * 1.9 - Math.min(14, e.weight * 1.4);
+            const stretch = dist - target;
+            const strength = spring * (1 + Math.log1p(e.weight) * 0.55);
+            const fx = (dx / dist) * stretch * strength;
+            const fy = (dy / dist) * stretch * strength;
+            a.fx += fx;
+            a.fy += fy;
+            b.fx -= fx;
+            b.fy -= fy;
+          }
+
+          for (const n of discipline.nodes) {
+            n.fx += (bounds.cx - n.x) * centerPull;
+            n.fy += (bounds.cy - n.y) * centerPull;
+
+            n.vx = (n.vx + n.fx * 0.012) * damping;
+            n.vy = (n.vy + n.fy * 0.012) * damping;
+
+            const speed = Math.hypot(n.vx, n.vy);
+            if (speed > 3.1) {
+              const scale = 3.1 / speed;
+              n.vx *= scale;
+              n.vy *= scale;
+            }
+
+            n.x += n.vx;
+            n.y += n.vy;
+
+            const pad = n.radius;
+            if (n.x < bounds.left + pad) {
+              n.x = bounds.left + pad;
+              n.vx *= -0.35;
+            } else if (n.x > bounds.right - pad) {
+              n.x = bounds.right - pad;
+              n.vx *= -0.35;
+            }
+            if (n.y < bounds.top + pad) {
+              n.y = bounds.top + pad;
+              n.vy *= -0.35;
+            } else if (n.y > bounds.bottom - pad) {
+              n.y = bounds.bottom - pad;
+              n.vy *= -0.35;
+            }
+          }
+        }
+
+        function renderDiscipline() {
+          if (!disciplineCtx) return;
+          const { width, height, pixelRatio } = discipline;
+          disciplineCtx.setTransform(pixelRatio, 0, 0, pixelRatio, 0, 0);
+          disciplineCtx.clearRect(0, 0, width, height);
+
+          if (!discipline.nodes.length) return;
+
+          for (const e of discipline.edges) {
+            const a = discipline.nodes[e.a];
+            const b = discipline.nodes[e.b];
+            const alpha = THREE.MathUtils.clamp(
+              0.16 + Math.log1p(e.weight) * 0.22,
+              0.16,
+              0.76
+            );
+            const lineW = THREE.MathUtils.clamp(
+              0.7 + Math.log1p(e.weight) * 0.8,
+              0.7,
+              3.1
+            );
+            disciplineCtx.beginPath();
+            disciplineCtx.moveTo(a.x, a.y);
+            disciplineCtx.lineTo(b.x, b.y);
+            disciplineCtx.strokeStyle = `rgba(24, 24, 24, ${alpha})`;
+            disciplineCtx.lineWidth = lineW;
+            disciplineCtx.stroke();
+          }
+
+          for (let i = 0; i < discipline.nodes.length; i++) {
+            const n = discipline.nodes[i];
+            const selected = i === discipline.selected;
+
+            disciplineCtx.beginPath();
+            disciplineCtx.arc(n.x, n.y, n.radius, 0, Math.PI * 2);
+            disciplineCtx.fillStyle = "#ffffff";
+            disciplineCtx.fill();
+            disciplineCtx.lineWidth = selected ? 2.4 : 1.15;
+            disciplineCtx.strokeStyle = selected ? "#111111" : "rgba(16, 16, 16, 0.56)";
+            disciplineCtx.stroke();
+
+            disciplineCtx.textAlign = "center";
+            disciplineCtx.textBaseline = "middle";
+            disciplineCtx.fillStyle = "#111111";
+            disciplineCtx.font = "11px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif";
+            const shortLabel =
+              n.label.length > 26 ? `${n.label.slice(0, 24)}..` : n.label;
+            disciplineCtx.fillText(shortLabel, n.x, n.y - 2);
+
+            disciplineCtx.fillStyle = "rgba(0, 0, 0, 0.7)";
+            disciplineCtx.font = "10px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif";
+            disciplineCtx.fillText(`${n.count}`, n.x, n.y + 10);
+          }
+        }
+
+        function clearThreeGroup(group) {
+          const disposeMaterial = (material) => {
+            if (!material) return;
+            material.map?.dispose?.();
+            material.alphaMap?.dispose?.();
+            material.dispose?.();
+          };
+          while (group.children.length > 0) {
+            const child = group.children[group.children.length - 1];
+            group.remove(child);
+            child.geometry?.dispose?.();
+            if (Array.isArray(child.material)) {
+              for (const m of child.material) disposeMaterial(m);
+            } else {
+              disposeMaterial(child.material);
+            }
+          }
+        }
+
+        function buildKeywordSprite(label, count) {
+          const text = normalizeKeyword(label);
+          if (!text) return null;
+
+          const fontSize = Math.round(
+            THREE.MathUtils.clamp(11 + Math.log1p(count) * 2.4, 11, 18)
+          );
+          const paddingX = 9;
+          const paddingY = 5;
+          const fontFamily =
+            "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif";
+
+          const canvas = document.createElement("canvas");
+          const ctx = canvas.getContext("2d");
+          if (!ctx) return null;
+          ctx.font = `600 ${fontSize}px ${fontFamily}`;
+          const textWidth = Math.ceil(ctx.measureText(text).width);
+          const width = THREE.MathUtils.clamp(textWidth + paddingX * 2, 56, 340);
+          const height = Math.ceil(fontSize + paddingY * 2);
+          canvas.width = width;
+          canvas.height = height;
+
+          ctx.font = `600 ${fontSize}px ${fontFamily}`;
+          ctx.textAlign = "center";
+          ctx.textBaseline = "middle";
+          const tx = width * 0.5;
+          const ty = height * 0.5 + 0.5;
+          ctx.lineWidth = 3;
+          ctx.strokeStyle = "rgba(255, 255, 255, 0.92)";
+          ctx.strokeText(text, tx, ty);
+          ctx.fillStyle = "rgba(18, 18, 18, 0.9)";
+          ctx.fillText(text, tx, ty);
+
+          const texture = new THREE.CanvasTexture(canvas);
+          texture.colorSpace = THREE.SRGBColorSpace;
+          texture.minFilter = THREE.LinearFilter;
+          texture.magFilter = THREE.LinearFilter;
+          texture.generateMipmaps = false;
+
+          const material = new THREE.SpriteMaterial({
+            map: texture,
+            transparent: true,
+            opacity: 0.98,
+            depthWrite: false,
+            depthTest: false,
+          });
+          const sprite = new THREE.Sprite(material);
+          const pixelToWorld = THREE.MathUtils.clamp(
+            0.075 + Math.log1p(count) * 0.014,
+            0.075,
+            0.12
+          );
+          sprite.scale.set(width * pixelToWorld, height * pixelToWorld, 1);
+          return sprite;
+        }
+
+        function renderDisciplineBasePlane(yLevel) {
+          clearThreeGroup(baseGroup);
+          if (!discipline.nodes.length) return;
+
+          const bounds = discipline.worldBounds || { sizeX: 360, sizeZ: 360 };
+          const halfX = Math.max(180, bounds.sizeX * 0.5 + 52);
+          const halfZ = Math.max(170, bounds.sizeZ * 0.5 + 52);
+
+          const plane = new THREE.Mesh(
+            new THREE.PlaneGeometry(halfX * 2, halfZ * 2),
+            new THREE.MeshBasicMaterial({
+              color: 0xf4f4f4,
+              transparent: true,
+              opacity: 0.92,
+              side: THREE.DoubleSide,
+              depthWrite: false,
+              polygonOffset: true,
+              polygonOffsetFactor: 1,
+              polygonOffsetUnits: 1,
+            })
+          );
+          plane.rotation.x = -Math.PI * 0.5;
+          plane.position.set(0, yLevel, 0);
+          plane.renderOrder = -40;
+          baseGroup.add(plane);
+
+          const border = new THREE.LineSegments(
+            new THREE.EdgesGeometry(new THREE.PlaneGeometry(halfX * 2, halfZ * 2)),
+            new THREE.LineBasicMaterial({
+              color: 0x8a8a8a,
+              transparent: true,
+              opacity: 0.5,
+              depthWrite: false,
+              depthTest: false,
+            })
+          );
+          border.rotation.x = -Math.PI * 0.5;
+          border.position.set(0, yLevel + 0.03, 0);
+          border.renderOrder = -38;
+          baseGroup.add(border);
+
+          if (discipline.edges.length) {
+            const pos = new Float32Array(discipline.edges.length * 6);
+            let i = 0;
+            for (const edge of discipline.edges) {
+              const a = discipline.nodes[edge.a];
+              const b = discipline.nodes[edge.b];
+              const aw = discipline.worldByArea.get(a.label);
+              const bw = discipline.worldByArea.get(b.label);
+              if (!aw || !bw) continue;
+              pos[i * 6 + 0] = aw.x;
+              pos[i * 6 + 1] = yLevel + 0.06;
+              pos[i * 6 + 2] = aw.z;
+              pos[i * 6 + 3] = bw.x;
+              pos[i * 6 + 4] = yLevel + 0.06;
+              pos[i * 6 + 5] = bw.z;
+              i += 1;
+            }
+            const used = i * 6;
+            if (used > 0) {
+              const geom = new THREE.BufferGeometry();
+              geom.setAttribute(
+                "position",
+                new THREE.BufferAttribute(pos.subarray(0, used), 3)
+              );
+              const lines = new THREE.LineSegments(
+                geom,
+                new THREE.LineBasicMaterial({
+                  color: 0x3d3d3d,
+                  transparent: true,
+                  opacity: 0.38,
+                  depthWrite: false,
+                  depthTest: false,
+                })
+              );
+              lines.renderOrder = -35;
+              baseGroup.add(lines);
+            }
+          }
+
+          for (const area of discipline.nodes) {
+            const world = discipline.worldByArea.get(area.label);
+            if (!world) continue;
+
+            const disk = new THREE.Mesh(
+              new THREE.CircleGeometry(Math.max(3.4, world.r * 0.5), 24),
+              new THREE.MeshBasicMaterial({
+                color: new THREE.Color(disciplineColor(area.label)),
+                transparent: true,
+                opacity: 0.82,
+                depthWrite: false,
+                depthTest: false,
+              })
+            );
+            disk.rotation.x = -Math.PI * 0.5;
+            disk.position.set(world.x, yLevel + 0.08, world.z);
+            disk.renderOrder = -33;
+            baseGroup.add(disk);
+
+            const core = new THREE.Mesh(
+              new THREE.CircleGeometry(1.3, 14),
+              new THREE.MeshBasicMaterial({
+                color: 0x121212,
+                transparent: true,
+                opacity: 0.88,
+                depthWrite: false,
+                depthTest: false,
+              })
+            );
+            core.rotation.x = -Math.PI * 0.5;
+            core.position.set(world.x, yLevel + 0.09, world.z);
+            core.renderOrder = -32;
+            baseGroup.add(core);
+          }
+
+          if (discipline.keywords.length) {
+            for (const keyword of discipline.keywords) {
+              const sprite = buildKeywordSprite(keyword.label, keyword.count);
+              if (!sprite) continue;
+              sprite.position.set(keyword.x, yLevel + 0.7, keyword.z);
+              sprite.renderOrder = -28;
+              baseGroup.add(sprite);
+            }
+          }
+        }
+
+        function relaxInitialNodeSpread(nodes, edges) {
+          if (!nodes.length) return;
+
+          const anchors = nodes.map((n) => ({ x: n.pos.x, z: n.pos.z }));
+          const repulsion = 3600;
+          const spring = 0.02;
+          const baseDist = 62;
+          const anchorPull = 0.026;
+          const damping = 0.8;
+          const iterations = THREE.MathUtils.clamp(
+            155 + Math.floor(nodes.length * 0.55),
+            160,
+            320
+          );
+
+          for (let iter = 0; iter < iterations; iter++) {
+            for (const n of nodes) n.force.set(0, 0, 0);
+
+            for (let i = 0; i < nodes.length; i++) {
+              const a = nodes[i];
+              for (let j = i + 1; j < nodes.length; j++) {
+                const b = nodes[j];
+                let dx = a.pos.x - b.pos.x;
+                let dz = a.pos.z - b.pos.z;
+                let distSq = dx * dx + dz * dz;
+                if (distSq < 1) {
+                  dx = (Math.random() - 0.5) * 2;
+                  dz = (Math.random() - 0.5) * 2;
+                  distSq = dx * dx + dz * dz;
+                }
+                const dist = Math.sqrt(distSq);
+                const force = repulsion / distSq;
+                const nx = dx / dist;
+                const nz = dz / dist;
+                a.force.x += nx * force;
+                a.force.z += nz * force;
+                b.force.x -= nx * force;
+                b.force.z -= nz * force;
+              }
+            }
+
+            for (const e of edges) {
+              const a = nodes[e.a];
+              const b = nodes[e.b];
+              const dx = b.pos.x - a.pos.x;
+              const dz = b.pos.z - a.pos.z;
+              const dist = Math.max(0.001, Math.hypot(dx, dz));
+              const target = e.weak ? baseDist * 1.14 : baseDist;
+              const stretch = dist - target;
+              const fx = (dx / dist) * stretch * spring;
+              const fz = (dz / dist) * stretch * spring;
+              a.force.x += fx;
+              a.force.z += fz;
+              b.force.x -= fx;
+              b.force.z -= fz;
+            }
+
+            for (let i = 0; i < nodes.length; i++) {
+              const n = nodes[i];
+              const anchor = anchors[i];
+              n.force.x += (anchor.x - n.pos.x) * anchorPull;
+              n.force.z += (anchor.z - n.pos.z) * anchorPull;
+
+              n.vel.x = (n.vel.x + n.force.x * 0.012) * damping;
+              n.vel.z = (n.vel.z + n.force.z * 0.012) * damping;
+              const speed = Math.hypot(n.vel.x, n.vel.z);
+              if (speed > 3.4) {
+                const s = 3.4 / speed;
+                n.vel.x *= s;
+                n.vel.z *= s;
+              }
+
+              n.pos.x += n.vel.x;
+              n.pos.z += n.vel.z;
+            }
+          }
+
+          for (const n of nodes) {
+            n.home.x = n.pos.x;
+            n.home.z = n.pos.z;
+            n.mesh.position.copy(n.pos);
+            n.vel.set(0, 0, 0);
+          }
+        }
+
+        function colorForType(type) {
+          const key = String(type || "untitled").toLowerCase().trim();
+          const idx = hash(key) % TYPE_COLORS.length;
+          return new THREE.Color(TYPE_COLORS[idx]);
+        }
+
+        function buildStars() {
+          const count = 850;
+          const geom = new THREE.BufferGeometry();
+          const arr = new Float32Array(count * 3);
+          for (let i = 0; i < count; i++) {
+            const radius = 700 + Math.random() * 800;
+            const phi = Math.random() * Math.PI * 2;
+            const t = Math.random() * 2 - 1;
+            const s = Math.sqrt(1 - t * t);
+            arr[i * 3 + 0] = radius * s * Math.cos(phi);
+            arr[i * 3 + 1] = radius * t;
+            arr[i * 3 + 2] = radius * s * Math.sin(phi);
+          }
+          geom.setAttribute("position", new THREE.BufferAttribute(arr, 3));
+          const mat = new THREE.PointsMaterial({
+            color: 0x9d9d9d,
+            size: 1,
+            transparent: true,
+            opacity: 0.35,
+          });
+          return new THREE.Points(geom, mat);
+        }
+
+        function clearGraph() {
+          dom.labelsLayer.innerHTML = "";
+
+          clearThreeGroup(nodesGroup);
+          clearThreeGroup(edgesGroup);
+          clearThreeGroup(baseGroup);
+
+          state.nodes = [];
+          state.edges = [];
+          state.edgeLines = null;
+          state.edgePositions = null;
+          state.nodeIndexById = new Map();
+          state.editorMap.nodes = [];
+          state.editorMap.edges = [];
+          state.editorMap.byId = new Map();
+          state.editorMap.view.zoom = 1;
+          state.editorMap.view.panX = 0;
+          state.editorMap.view.panY = 0;
+          state.editorMap.view.isPanning = false;
+          state.editorMap.view.pointerId = null;
+          state.editorMap.view.moved = false;
+          state.selected = -1;
+          clearDisciplineGraph();
+          dom.nodeInfo.innerHTML = '<div class="k">info</div><div>Seleziona un nodo nella rete.</div>';
+          dom.nodeDesc.textContent = "";
+          dom.nodeMedia.innerHTML = "";
+          refreshViewFilterStats();
+          state.dataViewsDirty = true;
+          renderAnalysisDataViews();
+        }
+
+        function buildGraph(project, label) {
+          clearGraph();
+          setRawProject(project);
+
+          const rawNodes = Array.isArray(project?.nodes) ? project.nodes : [];
+          const rawEdges = Array.isArray(project?.edges) ? project.edges : [];
+          if (!rawNodes.length) throw new Error("JSON senza nodi");
+          const parsedDates = rawNodes.map((n) => parseDateSafe(n?.data?.date));
+          const validDates = parsedDates.filter((d) => d != null);
+          const minDate = validDates.length
+            ? Math.min(...validDates)
+            : 0;
+          const maxDate = validDates.length
+            ? Math.max(...validDates)
+            : Math.max(1, rawNodes.length - 1);
+          const dateSpan = Math.max(1, maxDate - minDate);
+          const verticalSpan = THREE.MathUtils.clamp(
+            Math.max(320, rawNodes.length * 12),
+            320,
+            1500
+          );
+          const yTop = verticalSpan * 0.5;
+          const yBottom = -verticalSpan * 0.5;
+          const inputNodes = rawNodes.map((n, i) => {
+            const data = n.data || {};
+            const legacyMain = [
+              ...(Array.isArray(data.mainAreas) ? data.mainAreas : []),
+              data.mainArea,
+              data.mainarea,
+            ];
+            return {
+              id: String(n.id || `node_${i}`),
+              title: data.title || "(senza titolo)",
+              type: data.type || "Unknown",
+              action: data.action || "-",
+              date: data.date || "-",
+              areas: normalizeAreaList(data.areas, legacyMain),
+              tags: Array.isArray(data.tags) ? data.tags : [],
+              keywords: nodeKeywordsFromData(data),
+              desc: data.desc || "",
+              files: Array.isArray(data.files) ? data.files : [],
+            };
+          });
+
+          buildDisciplineGraph(inputNodes);
+          buildDisciplineKeywords(inputNodes);
+          renderDisciplineBasePlane(yBottom - 26);
+
+          const idToIndex = new Map();
+
+          const nodes = inputNodes.map((source, i) => {
+            const id = source.id;
+            const lane = areaLaneKey(source.areas, id);
+            const parsedDate = parsedDates[i];
+            const fallbackDate =
+              minDate + (i / Math.max(1, rawNodes.length - 1)) * dateSpan;
+            const nodeDate = parsedDate == null ? fallbackDate : parsedDate;
+            const t = THREE.MathUtils.clamp(
+              (nodeDate - minDate) / dateSpan,
+              0,
+              1
+            );
+            const y = yTop + (yBottom - yTop) * t;
+            const areaPos = positionFromDisciplineAreas(
+              id,
+              lane,
+              source.areas
+            );
+            const x = areaPos.x;
+            const z = areaPos.z;
+
+            const material = new THREE.MeshStandardMaterial({
+              color: 0x000000,
+              roughness: 0.36,
+              metalness: 0.12,
+              transparent: true,
+              opacity: 0.95,
+              emissive: 0x000000,
+              emissiveIntensity: 0,
+            });
+            const mesh = new THREE.Mesh(new THREE.IcosahedronGeometry(1, 2), material);
+            mesh.position.set(x, y, z);
+            mesh.userData.index = i;
+            nodesGroup.add(mesh);
+
+            const node = {
+              id,
+              title: source.title,
+              type: source.type,
+              action: source.action,
+              date: source.date,
+              areas: source.areas,
+              tags: source.tags,
+              desc: source.desc,
+              files: source.files,
+              pos: new THREE.Vector3(x, y, z),
+              home: new THREE.Vector3(x, y, z),
+              vel: new THREE.Vector3(),
+              force: new THREE.Vector3(),
+              degree: 0,
+              radius: 2,
+              lane,
+              visibleByFilter: true,
+              mesh,
+              material,
+            };
+
+            const labelEl = document.createElement("div");
+            labelEl.className = "node-label";
+            const titleEl = document.createElement("div");
+            titleEl.className = "title";
+            titleEl.textContent = node.title;
+            const assetsEl = document.createElement("div");
+            assetsEl.className = "assets";
+            labelEl.append(titleEl, assetsEl);
+            dom.labelsLayer.appendChild(labelEl);
+            node.labelEl = labelEl;
+            node.labelTitleEl = titleEl;
+            node.labelAssetsEl = assetsEl;
+            updateNodeLabelAssets(node);
+
+            idToIndex.set(id, i);
+            return node;
+          });
+
+          const edges = [];
+          for (const e of rawEdges) {
+            const a = idToIndex.get(String(e.s));
+            const b = idToIndex.get(String(e.t));
+            if (a == null || b == null || a === b) continue;
+            edges.push({ a, b, weak: !!e.dashed });
+            nodes[a].degree += 1;
+            nodes[b].degree += 1;
+          }
+
+          relaxInitialNodeSpread(nodes, edges);
+
+          nodes.forEach((n) => {
+            n.radius = THREE.MathUtils.clamp(
+              0.45 + Math.sqrt(n.degree + 1) * 0.12,
+              0.5,
+              1.4
+            );
+            n.mesh.scale.setScalar(n.radius);
+            if (n.labelEl) {
+              const labelWidth = Math.round(92 + n.radius * 34);
+              n.labelEl.style.width = `${labelWidth}px`;
+              n.labelEl.style.maxWidth = `${labelWidth}px`;
+              n.labelEl.style.setProperty(
+                "--assetH",
+                `${Math.round(44 + n.radius * 24)}px`
+              );
+            }
+          });
+
+          const edgePositions = new Float32Array(edges.length * 6);
+          const edgeColors = new Float32Array(edges.length * 6);
+
+          for (let i = 0; i < edges.length; i++) {
+            const c = edges[i].weak
+              ? new THREE.Color("#2a2a2a")
+              : new THREE.Color("#121212");
+            edgeColors[i * 6 + 0] = c.r;
+            edgeColors[i * 6 + 1] = c.g;
+            edgeColors[i * 6 + 2] = c.b;
+            edgeColors[i * 6 + 3] = c.r;
+            edgeColors[i * 6 + 4] = c.g;
+            edgeColors[i * 6 + 5] = c.b;
+          }
+
+          const edgeGeom = new THREE.BufferGeometry();
+          edgeGeom.setAttribute("position", new THREE.BufferAttribute(edgePositions, 3));
+          edgeGeom.setAttribute("color", new THREE.BufferAttribute(edgeColors, 3));
+
+          const edgeMat = new THREE.LineBasicMaterial({
+            vertexColors: true,
+            transparent: false,
+            opacity: 1,
+            linewidth: 2,
+          });
+
+          const edgeLines = new THREE.LineSegments(edgeGeom, edgeMat);
+          edgesGroup.add(edgeLines);
+
+          state.nodes = nodes;
+          state.edges = edges;
+          state.edgeLines = edgeLines;
+          state.edgePositions = edgePositions;
+          state.nodeIndexById = new Map(idToIndex);
+          state.projectName = label;
+          state.selected = -1;
+          buildEditorMiniMap(rawNodes, rawEdges);
+
+          updateEdges();
+          if (dom.selViewMode) dom.selViewMode.value = state.viewMode || "all";
+          if (dom.selViewValue) dom.selViewValue.value = state.viewValue || "__all__";
+          refreshToolbarOptions();
+          applyViewFilter();
+          applyImagesVisibility();
+          fitCamera(true);
+          updateAllNodeLabelPositions();
+          renderDiscipline();
+          renderAnalysisDataViews();
+        }
+
+        function refreshProjectInfo() {
+          dom.projectName.textContent = state.projectName || "Project";
+          const totalNodes = state.nodes.length;
+          const totalEdges = state.edges.length;
+          const visibleNodes = countVisibleNodes();
+          const visibleEdges = countVisibleEdges();
+          const filtering = visibleNodes !== totalNodes || visibleEdges !== totalEdges;
+          dom.stats.textContent = filtering
+            ? `${visibleNodes}/${totalNodes} nodes · ${visibleEdges}/${totalEdges} edges`
+            : `${totalNodes} nodes · ${totalEdges} edges`;
+        }
+
+        function updateEdges() {
+          if (!state.edgeLines || !state.edgePositions) return;
+          let write = 0;
+          for (let i = 0; i < state.edges.length; i++) {
+            const e = state.edges[i];
+            const aNode = state.nodes[e.a];
+            const bNode = state.nodes[e.b];
+            if (!aNode || !bNode) continue;
+            if (aNode.visibleByFilter === false || bNode.visibleByFilter === false) continue;
+            const a = aNode.pos;
+            const b = bNode.pos;
+            state.edgePositions[write * 6 + 0] = a.x;
+            state.edgePositions[write * 6 + 1] = a.y;
+            state.edgePositions[write * 6 + 2] = a.z;
+            state.edgePositions[write * 6 + 3] = b.x;
+            state.edgePositions[write * 6 + 4] = b.y;
+            state.edgePositions[write * 6 + 5] = b.z;
+            write += 1;
+          }
+          const attr = state.edgeLines.geometry.getAttribute("position");
+          attr.needsUpdate = true;
+          state.edgeLines.geometry.setDrawRange(0, write * 2);
+          if (write > 0) state.edgeLines.geometry.computeBoundingSphere();
+        }
+
+        function selectNode(index) {
+          if (index >= 0 && state.nodes[index]?.visibleByFilter === false) {
+            index = -1;
+          }
+          if (index < 0 || index >= state.nodes.length) {
+            state.selected = -1;
+            dom.nodeInfo.innerHTML = '<div class="k">info</div><div>Seleziona un nodo nella rete.</div>';
+            dom.nodeDesc.textContent = "";
+            dom.nodeMedia.innerHTML = "";
+            for (const n of state.nodes) {
+              n.material.emissive.setHex(0x000000);
+              n.material.emissiveIntensity = 0;
+              n.mesh.scale.setScalar(n.radius);
+              n.labelEl?.classList.remove("selected");
+            }
+            applyNodeHighlighting();
+            state.dataViewsDirty = true;
+            renderAnalysisDataViews();
+            return;
+          }
+
+          state.selected = index;
+          for (let i = 0; i < state.nodes.length; i++) {
+            const n = state.nodes[i];
+            if (i === index) {
+              n.material.emissive.setHex(0xf2f2f2);
+              n.material.emissiveIntensity = 0.3;
+              n.mesh.scale.setScalar(n.radius * 1.1);
+              n.labelEl?.classList.add("selected");
+            } else {
+              n.material.emissive.setHex(0x000000);
+              n.material.emissiveIntensity = 0;
+              n.mesh.scale.setScalar(n.radius);
+              n.labelEl?.classList.remove("selected");
+            }
+          }
+          applyNodeHighlighting();
+
+          const n = state.nodes[index];
+          const areaText = n.areas.length ? n.areas.join(", ") : "-";
+          const tagText = n.tags.length ? n.tags.join(", ") : "-";
+
+          dom.nodeInfo.innerHTML = `
+            <div class="k">id</div><div>${esc(n.id)}</div>
+            <div class="k">title</div><div>${esc(n.title)}</div>
+            <div class="k">type</div><div>${esc(n.type)}</div>
+            <div class="k">action</div><div>${esc(n.action)}</div>
+            <div class="k">date</div><div>${esc(n.date)}</div>
+            <div class="k">areas</div><div>${esc(areaText)}</div>
+            <div class="k">tags</div><div>${esc(tagText)}</div>
+          `;
+
+          dom.nodeDesc.textContent = n.desc || "";
+          renderNodeMedia(n);
+          state.dataViewsDirty = true;
+          renderAnalysisDataViews();
+        }
+
+        function resolveAssetUrl(fileEntry) {
+          if (!fileEntry || !fileEntry.path) return "";
+          const rel = String(fileEntry.path).replace(/^\.\//, "");
+          if (!state.assetBase) return "";
+          return `${state.assetBase}${rel}`;
+        }
+
+        function renderNodeMedia(node) {
+          dom.nodeMedia.innerHTML = "";
+          if (!node.files.length) return;
+
+          const frag = document.createDocumentFragment();
+          let unresolved = 0;
+          let hiddenImages = 0;
+
+          for (const file of node.files) {
+            const url = resolveAssetUrl(file);
+
+            if (!state.showImages && file.isImage) {
+              hiddenImages += 1;
+              continue;
+            }
+
+            if (url && file.isImage) {
+              const img = document.createElement("img");
+              img.src = url;
+              img.alt = file.name || "image";
+              img.loading = "lazy";
+              img.onerror = () => {
+                img.remove();
+                const p = document.createElement("div");
+                p.style.fontSize = "12px";
+                p.style.color = "#777";
+                p.textContent = `asset non trovato: ${file.path || file.name || "file"}`;
+                frag.appendChild(p);
+              };
+              frag.appendChild(img);
+              continue;
+            }
+
+            if (url) {
+              const link = document.createElement("a");
+              link.href = url;
+              link.target = "_blank";
+              link.rel = "noopener";
+              link.textContent = file.name || file.path || "file";
+              frag.appendChild(link);
+            } else {
+              unresolved += 1;
+            }
+          }
+
+          if (hiddenImages > 0) {
+            const p = document.createElement("div");
+            p.style.fontSize = "12px";
+            p.style.color = "#777";
+            p.textContent = `${hiddenImages} immagini nascoste (toggle immagini = off).`;
+            frag.appendChild(p);
+          }
+
+          if (unresolved > 0) {
+            const p = document.createElement("div");
+            p.style.fontSize = "12px";
+            p.style.color = "#777";
+            p.textContent = `${unresolved} asset non risolti (base cartella non trovata).`;
+            frag.appendChild(p);
+          }
+
+          dom.nodeMedia.appendChild(frag);
+        }
+
+        function fitCamera(immediate) {
+          if (!state.nodes.length) return;
+
+          const box = new THREE.Box3();
+          let used = 0;
+          for (const n of state.nodes) {
+            if (n.visibleByFilter === false) continue;
+            box.expandByPoint(n.pos);
+            used += 1;
+          }
+          if (!used) return;
+
+          const size = box.getSize(new THREE.Vector3());
+          const center = box.getCenter(new THREE.Vector3());
+          const maxSpan = Math.max(size.x, size.y, size.z);
+
+          controls.target.copy(center);
+          controls.radius = Math.max(120, maxSpan * 1.5 + 60);
+          controls.theta = 0.26;
+          controls.phi = 1.06;
+          if (immediate) updateCameraFromControls(1);
+        }
+
+        function updateCameraFromControls(smooth) {
+          controls.phi = THREE.MathUtils.clamp(controls.phi, 0.12, Math.PI - 0.12);
+          controls.radius = THREE.MathUtils.clamp(controls.radius, 20, 2600);
+
+          const sinPhi = Math.sin(controls.phi);
+          const targetPos = new THREE.Vector3(
+            controls.target.x + controls.radius * sinPhi * Math.sin(controls.theta),
+            controls.target.y + controls.radius * Math.cos(controls.phi),
+            controls.target.z + controls.radius * sinPhi * Math.cos(controls.theta)
+          );
+
+          if (smooth === 1) {
+            camera.position.copy(targetPos);
+          } else {
+            camera.position.lerp(targetPos, 0.2);
+          }
+          camera.lookAt(controls.target);
+        }
+
+        function simulate() {
+          if (!state.nodes.length || state.paused) return;
+
+          const repulsion = 2400;
+          const spring = 0.016;
+          const baseDist = 56;
+          const anchorPull = 0.05;
+          const damping = 0.84;
+
+          const active = [];
+          for (let i = 0; i < state.nodes.length; i++) {
+            const n = state.nodes[i];
+            if (n.visibleByFilter === false) continue;
+            n.force.set(0, 0, 0);
+            active.push(i);
+          }
+          if (!active.length) return;
+
+          for (let ai = 0; ai < active.length; ai++) {
+            const a = state.nodes[active[ai]];
+            for (let bj = ai + 1; bj < active.length; bj++) {
+              const b = state.nodes[active[bj]];
+              const d = new THREE.Vector3(
+                a.pos.x - b.pos.x,
+                (a.pos.y - b.pos.y) * 0.2,
+                a.pos.z - b.pos.z
+              );
+              let distSq = d.lengthSq();
+              if (distSq < 0.2) {
+                d.set(Math.random() - 0.5, Math.random() - 0.5, Math.random() - 0.5);
+                distSq = d.lengthSq();
+              }
+              const f = repulsion / distSq;
+              d.normalize().multiplyScalar(f);
+              a.force.add(d);
+              b.force.sub(d);
+            }
+          }
+
+          for (const e of state.edges) {
+            const a = state.nodes[e.a];
+            const b = state.nodes[e.b];
+            if (!a || !b) continue;
+            if (a.visibleByFilter === false || b.visibleByFilter === false) continue;
+            const d = new THREE.Vector3(
+              b.pos.x - a.pos.x,
+              (b.pos.y - a.pos.y) * 0.2,
+              b.pos.z - a.pos.z
+            );
+            const dist = Math.max(0.001, d.length());
+            const target = e.weak ? baseDist * 1.2 : baseDist;
+            const stretch = dist - target;
+            d.normalize().multiplyScalar(spring * stretch);
+            a.force.add(d);
+            b.force.sub(d);
+          }
+
+          for (const idx of active) {
+            const n = state.nodes[idx];
+            const toHome = new THREE.Vector3().subVectors(n.home, n.pos);
+            n.force.addScaledVector(toHome, anchorPull);
+            n.vel.addScaledVector(n.force, 0.018);
+            n.vel.multiplyScalar(damping);
+            n.vel.clampLength(0, 1.6);
+            n.pos.add(n.vel);
+            n.mesh.position.copy(n.pos);
+          }
+
+          updateEdges();
+        }
+
+        function pickAt(clientX, clientY) {
+          const rect = dom.canvas.getBoundingClientRect();
+          pointer.x = ((clientX - rect.left) / rect.width) * 2 - 1;
+          pointer.y = -((clientY - rect.top) / rect.height) * 2 + 1;
+          raycaster.setFromCamera(pointer, camera);
+          const hits = raycaster.intersectObjects(nodesGroup.children, false);
+          if (!hits.length) {
+            selectNode(-1);
+            return;
+          }
+          const idx = hits[0].object.userData.index;
+          selectNode(idx);
+        }
+
+        async function detectAssetBase(project) {
+          const sample = (project.nodes || [])
+            .flatMap((n) => ((n.data && Array.isArray(n.data.files)) ? n.data.files : []))
+            .map((f) => f && f.path)
+            .find((p) => typeof p === "string" && p.trim().length > 0);
+
+          if (!sample) return "";
+
+          const candidates = [];
+          const params = new URLSearchParams(window.location.search);
+          const qp = params.get("project");
+          if (qp) candidates.push(`${qp}/`);
+          for (const folder of KNOWN_FOLDERS) candidates.push(`${folder}/`);
+          candidates.push("");
+
+          for (const base of candidates) {
+            const url = `${base}${sample}`;
+            try {
+              const res = await fetch(url, { cache: "no-store" });
+              if (res.ok) return base;
+            } catch (_) {
+              // ignore
+            }
+          }
+
+          return "";
+        }
+
+        async function loadFromJsonFile(file) {
+          const text = await file.text();
+          const project = JSON.parse(text);
+          buildGraph(project, file.name.replace(/\.json$/i, ""));
+          state.assetBase = await detectAssetBase(project);
+          state.folderName = inferFolderNameFromBase(state.assetBase);
+          updateAllNodeLabelAssets();
+          persistSharedProjectState("space");
+
+          if (state.assetBase) {
+            setHint(`Progetto caricato: ${file.name} · assets base: ${state.assetBase}`, "ok");
+          } else {
+            setHint("Progetto caricato. Base assets non trovata automaticamente.", "warn");
+          }
+
+          if (state.selected >= 0) {
+            renderNodeMedia(state.nodes[state.selected]);
+          }
+        }
+
+        async function openJsonDialog() {
+          if ("showOpenFilePicker" in window) {
+            try {
+              const [handle] = await window.showOpenFilePicker({
+                multiple: false,
+                types: [
+                  {
+                    description: "JSON",
+                    accept: {
+                      "application/json": [".json"],
+                    },
+                  },
+                ],
+              });
+              if (!handle) return;
+              const file = await handle.getFile();
+              await loadFromJsonFile(file);
+              return;
+            } catch (err) {
+              if (err && err.name === "AbortError") return;
+            }
+          }
+
+          dom.fileInput.value = "";
+          dom.fileInput.click();
+        }
+
+        function resizeDisciplineCanvas() {
+          const w = dom.disciplineWrap.clientWidth;
+          const h = dom.disciplineWrap.clientHeight;
+          if (!w || !h) return;
+          const pixelRatio = Math.min(window.devicePixelRatio || 1, 2);
+          discipline.width = w;
+          discipline.height = h;
+          discipline.pixelRatio = pixelRatio;
+          dom.disciplineCanvas.width = Math.floor(w * pixelRatio);
+          dom.disciplineCanvas.height = Math.floor(h * pixelRatio);
+          dom.disciplineCanvas.style.width = `${w}px`;
+          dom.disciplineCanvas.style.height = `${h}px`;
+        }
+
+        function onResize() {
+          const w = dom.viewWrap.clientWidth;
+          const h = dom.viewWrap.clientHeight;
+          if (w && h) {
+            camera.aspect = w / h;
+            camera.updateProjectionMatrix();
+            renderer.setSize(w, h, false);
+          }
+          resizeDisciplineCanvas();
+          if (dom.lineChart || dom.miniMap || dom.totalsChart) {
+            state.dataViewsDirty = true;
+            renderAnalysisDataViews();
+          }
+        }
+
+        function applyZoomDelta(deltaY, isPinch = false) {
+          const sensitivity = isPinch ? 0.0004 : 0.00055;
+          controls.radius *= Math.exp(deltaY * sensitivity);
+        }
+
+        function touchDistance(t1, t2) {
+          const dx = t2.clientX - t1.clientX;
+          const dy = t2.clientY - t1.clientY;
+          return Math.hypot(dx, dy);
+        }
+
+        function touchCenter(t1, t2) {
+          return {
+            x: (t1.clientX + t2.clientX) * 0.5,
+            y: (t1.clientY + t2.clientY) * 0.5,
+          };
+        }
+
+        function wireDropZone() {
+          const enter = (e) => {
+            e.preventDefault();
+            dom.viewWrap.classList.add("drop");
+            setHint("Rilascia il file project.json", "ok");
+          };
+          const leave = (e) => {
+            e.preventDefault();
+            dom.viewWrap.classList.remove("drop");
+            setIdleStatus();
+          };
+          const over = (e) => {
+            e.preventDefault();
+          };
+          const drop = async (e) => {
+            e.preventDefault();
+            dom.viewWrap.classList.remove("drop");
+            const files = e.dataTransfer && e.dataTransfer.files;
+            const file = files && files[0];
+            if (!file) return;
+            if (!/\.json$/i.test(file.name)) {
+              setHint("Il file trascinato non e' un JSON.", "warn");
+              return;
+            }
+            try {
+              await loadFromJsonFile(file);
+            } catch (err) {
+              setHint(`Errore apertura JSON: ${err.message || err}`, "warn");
+            }
+          };
+
+          dom.viewWrap.addEventListener("dragenter", enter);
+          dom.viewWrap.addEventListener("dragover", over);
+          dom.viewWrap.addEventListener("dragleave", leave);
+          dom.viewWrap.addEventListener("drop", drop);
+        }
+
+        function wireEvents() {
+          dom.btnOpen.addEventListener("click", () => {
+            openJsonDialog();
+          });
+
+          dom.btnEditor?.addEventListener("click", () => {
+            let persisted = false;
+            try {
+              persisted = !!persistSharedProjectState("space");
+            } catch (err) {
+              console.warn("Unable to persist shared project state", err);
+            }
+            if (!persisted) {
+              window.location.href = "./threadscape.html";
+              return;
+            }
+            const qs = new URLSearchParams();
+            qs.set("from", "space");
+            const folder =
+              state.folderName || inferFolderNameFromBase(state.assetBase);
+            if (folder) qs.set("project", folder);
+            window.location.href = `./threadscape.html?${qs.toString()}`;
+          });
+
+          dom.btnProcess?.addEventListener("click", () => {
+            let persisted = false;
+            try {
+              persisted = !!persistSharedProjectState("space");
+            } catch (err) {
+              console.warn("Unable to persist shared project state", err);
+            }
+            const qs = new URLSearchParams();
+            qs.set("from", "space");
+            const folder =
+              state.folderName || inferFolderNameFromBase(state.assetBase);
+            if (folder) qs.set("project", folder);
+            if (!persisted) {
+              window.location.href = folder
+                ? `./process-analyzer.html?${qs.toString()}`
+                : "./process-analyzer.html";
+              return;
+            }
+            window.location.href = `./process-analyzer.html?${qs.toString()}`;
+          });
+
+          dom.selColorMode?.addEventListener("change", () => {
+            refreshToolbarOptions();
+          });
+
+          dom.selColorValue?.addEventListener("change", () => {
+            applyNodeHighlighting();
+            state.dataViewsDirty = true;
+            renderAnalysisDataViews();
+          });
+
+          dom.selViewMode?.addEventListener("change", () => {
+            updateViewFilterValueOptions();
+            applyViewFilter();
+          });
+
+          dom.selViewValue?.addEventListener("change", () => {
+            applyViewFilter();
+          });
+
+          dom.selMapColorMode?.addEventListener("change", () => {
+            if (dom.selColorMode) {
+              dom.selColorMode.value = dom.selMapColorMode.value || "none";
+            }
+            refreshToolbarOptions();
+            state.dataViewsDirty = true;
+            renderAnalysisDataViews();
+          });
+
+          dom.btnMapFit?.addEventListener("click", () => {
+            fitEditorMiniMap(true);
+          });
+
+          dom.colorEditor?.addEventListener("input", (e) => {
+            const target = e.target;
+            if (!(target instanceof HTMLInputElement)) return;
+            if (target.type !== "color") return;
+            const mode = dom.selColorMode?.value || "none";
+            if (mode === "none") return;
+            const value = target.dataset.value || "";
+            if (!value) return;
+            paletteForMode(mode).set(value, target.value);
+            applyNodeHighlighting();
+            state.dataViewsDirty = true;
+            renderAnalysisDataViews();
+          });
+
+          dom.btnResetPalette?.addEventListener("click", () => {
+            const mode = dom.selColorMode?.value || "none";
+            if (mode === "none") return;
+            resetPaletteForMode(mode);
+            renderColorEditor();
+            applyNodeHighlighting();
+            state.dataViewsDirty = true;
+            renderAnalysisDataViews();
+            setHint(`Colori reset per ${modeLabel(mode)}.`, "ok");
+          });
+
+          dom.selImages?.addEventListener("change", () => {
+            applyImagesVisibility();
+            setHint(
+              state.showImages ? "Immagini visibili." : "Immagini nascoste.",
+              "ok"
+            );
+          });
+
+          dom.fileInput.addEventListener("change", async () => {
+            const file = dom.fileInput.files && dom.fileInput.files[0];
+            if (!file) return;
+            try {
+              await loadFromJsonFile(file);
+            } catch (err) {
+              setHint(`Errore apertura JSON: ${err.message || err}`, "warn");
+            }
+          });
+
+          dom.btnReset.addEventListener("click", () => fitCamera(false));
+
+          dom.btnPause.addEventListener("click", () => {
+            state.paused = !state.paused;
+            dom.btnPause.classList.toggle("running", !state.paused);
+            dom.btnPause.dataset.tip = state.paused
+              ? "Start simulation"
+              : "Stop simulation";
+            dom.btnPause.setAttribute(
+              "aria-label",
+              state.paused ? "Start simulation" : "Stop simulation"
+            );
+            setHint(
+              state.paused ? "Simulation ferma (default)." : "Simulation attiva.",
+              "ok"
+            );
+          });
+
+          window.addEventListener(
+            "keydown",
+            async (e) => {
+              if (e.code === "Space") {
+                state.spaceDown = true;
+                e.preventDefault();
+                return;
+              }
+
+              const tag = document.activeElement && document.activeElement.tagName;
+              if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT") return;
+
+              const k = e.key.toLowerCase();
+              const cmdOpen = (e.metaKey || e.ctrlKey) && k === "o";
+              const plainOpen = !e.metaKey && !e.ctrlKey && !e.altKey && !e.shiftKey && k === "o";
+
+              if (!cmdOpen && !plainOpen) return;
+              e.preventDefault();
+              e.stopPropagation();
+              await openJsonDialog();
+            },
+            true
+          );
+
+          window.addEventListener("keyup", (e) => {
+            if (e.code === "Space") {
+              state.spaceDown = false;
+            }
+          });
+
+          window.addEventListener("blur", () => {
+            state.spaceDown = false;
+            controls.isPanning = false;
+            controls.isRotating = false;
+          });
+
+          dom.canvas.addEventListener("contextmenu", (e) => e.preventDefault());
+
+          dom.canvas.addEventListener("pointerdown", (e) => {
+            if (e.pointerType === "touch") return;
+            state.pointerDown.x = e.clientX;
+            state.pointerDown.y = e.clientY;
+            state.pointerDown.active = true;
+
+            controls.lastX = e.clientX;
+            controls.lastY = e.clientY;
+
+            if (e.button === 2 || state.spaceDown) controls.isPanning = true;
+            else controls.isRotating = true;
+            state.pointerDown.wasPan = controls.isPanning;
+          });
+
+          window.addEventListener("pointermove", (e) => {
+            if (!controls.isRotating && !controls.isPanning) return;
+
+            const dx = e.clientX - controls.lastX;
+            const dy = e.clientY - controls.lastY;
+            controls.lastX = e.clientX;
+            controls.lastY = e.clientY;
+
+            if (controls.isRotating) {
+              controls.theta -= dx * 0.0055;
+              controls.phi -= dy * 0.0055;
+            }
+
+            if (controls.isPanning) {
+              const panScale = controls.radius * 0.0012;
+              const right = new THREE.Vector3();
+              camera.getWorldDirection(right);
+              right.cross(camera.up).normalize();
+              const up = camera.up.clone().normalize();
+              controls.target.addScaledVector(right, -dx * panScale);
+              controls.target.addScaledVector(up, dy * panScale);
+            }
+          });
+
+          window.addEventListener("pointerup", (e) => {
+            const moved = Math.abs(e.clientX - state.pointerDown.x) + Math.abs(e.clientY - state.pointerDown.y);
+            if (state.pointerDown.active && moved < 5 && !state.pointerDown.wasPan) {
+              pickAt(e.clientX, e.clientY);
+            }
+            state.pointerDown.active = false;
+            state.pointerDown.wasPan = false;
+            controls.isRotating = false;
+            controls.isPanning = false;
+          });
+
+          dom.canvas.addEventListener(
+            "wheel",
+            (e) => {
+              e.preventDefault();
+              applyZoomDelta(e.deltaY, e.ctrlKey);
+            },
+            { passive: false }
+          );
+
+          dom.canvas.addEventListener(
+            "touchstart",
+            (e) => {
+              if (e.touches.length !== 2) return;
+              e.preventDefault();
+              const [t1, t2] = e.touches;
+              state.pinch.active = true;
+              state.pinch.startDist = touchDistance(t1, t2);
+              state.pinch.startRadius = controls.radius;
+              const c = touchCenter(t1, t2);
+              state.pinch.lastCenterX = c.x;
+              state.pinch.lastCenterY = c.y;
+            },
+            { passive: false }
+          );
+
+          dom.canvas.addEventListener(
+            "touchmove",
+            (e) => {
+              if (!state.pinch.active || e.touches.length !== 2) return;
+              e.preventDefault();
+              const [t1, t2] = e.touches;
+              const dist = Math.max(1, touchDistance(t1, t2));
+              const ratio = state.pinch.startDist / dist;
+              controls.radius = state.pinch.startRadius * ratio;
+
+              const center = touchCenter(t1, t2);
+              const dx = center.x - state.pinch.lastCenterX;
+              const dy = center.y - state.pinch.lastCenterY;
+              state.pinch.lastCenterX = center.x;
+              state.pinch.lastCenterY = center.y;
+
+              const panScale = controls.radius * 0.0011;
+              const right = new THREE.Vector3();
+              camera.getWorldDirection(right);
+              right.cross(camera.up).normalize();
+              const up = camera.up.clone().normalize();
+              controls.target.addScaledVector(right, -dx * panScale);
+              controls.target.addScaledVector(up, dy * panScale);
+            },
+            { passive: false }
+          );
+
+          dom.canvas.addEventListener(
+            "touchend",
+            () => {
+              state.pinch.active = false;
+            },
+            { passive: true }
+          );
+
+          dom.canvas.addEventListener(
+            "touchcancel",
+            () => {
+              state.pinch.active = false;
+            },
+            { passive: true }
+          );
+
+          dom.disciplineCanvas.addEventListener("pointerdown", (e) => {
+            const idx = pickDisciplineAt(e.clientX, e.clientY);
+            selectDiscipline(idx);
+          });
+
+          dom.disciplineCanvas.addEventListener("dblclick", () => {
+            selectDiscipline(-1);
+          });
+
+          dom.miniMap?.addEventListener("pointerdown", (e) => {
+            e.preventDefault();
+            const view = state.editorMap.view;
+            view.isPanning = true;
+            view.pointerId = e.pointerId;
+            view.downX = e.clientX;
+            view.downY = e.clientY;
+            view.lastX = e.clientX;
+            view.lastY = e.clientY;
+            view.moved = false;
+            dom.miniMap.classList.add("panning");
+            dom.miniMap.setPointerCapture?.(e.pointerId);
+          });
+
+          dom.miniMap?.addEventListener("pointermove", (e) => {
+            e.preventDefault();
+            const view = state.editorMap.view;
+            if (!view.isPanning || view.pointerId !== e.pointerId) return;
+            const dx = e.clientX - view.lastX;
+            const dy = e.clientY - view.lastY;
+            view.lastX = e.clientX;
+            view.lastY = e.clientY;
+            if (Math.abs(e.clientX - view.downX) + Math.abs(e.clientY - view.downY) > 2) {
+              view.moved = true;
+            }
+            view.panX += dx;
+            view.panY += dy;
+            state.dataViewsDirty = true;
+            renderAnalysisDataViews();
+          });
+
+          dom.miniMap?.addEventListener("pointerup", (e) => {
+            e.preventDefault();
+            const view = state.editorMap.view;
+            if (view.pointerId !== e.pointerId) return;
+            const rect = dom.miniMap.getBoundingClientRect();
+            const localX = e.clientX - rect.left;
+            const localY = e.clientY - rect.top;
+            const moved =
+              Math.abs(e.clientX - view.downX) + Math.abs(e.clientY - view.downY);
+            const isClick = moved < 5 && !view.moved;
+
+            view.isPanning = false;
+            view.pointerId = null;
+            view.moved = false;
+            dom.miniMap.classList.remove("panning");
+            dom.miniMap.releasePointerCapture?.(e.pointerId);
+
+            if (isClick) {
+              const idx = pickEditorMapNode(localX, localY);
+              if (idx >= 0) selectNode(idx);
+            }
+          });
+
+          dom.miniMap?.addEventListener("pointercancel", (e) => {
+            const view = state.editorMap.view;
+            if (view.pointerId !== e.pointerId) return;
+            view.isPanning = false;
+            view.pointerId = null;
+            view.moved = false;
+            dom.miniMap.classList.remove("panning");
+          });
+
+          dom.miniMap?.addEventListener(
+            "wheel",
+            (e) => {
+              e.preventDefault();
+              const rect = dom.miniMap.getBoundingClientRect();
+              const sx = e.clientX - rect.left;
+              const sy = e.clientY - rect.top;
+              const before = editorMapScreenToWorld(sx, sy);
+              const view = state.editorMap.view;
+              const factor = Math.exp(-e.deltaY * 0.0012);
+              view.zoom = THREE.MathUtils.clamp(view.zoom * factor, 0.035, 6);
+              view.panX = sx - before.x * view.zoom;
+              view.panY = sy - before.y * view.zoom;
+              state.dataViewsDirty = true;
+              renderAnalysisDataViews();
+            },
+            { passive: false }
+          );
+
+          dom.miniMap?.addEventListener("dblclick", () => {
+            fitEditorMiniMap(true);
+          });
+
+          window.addEventListener("resize", onResize);
+        }
+
+        function animate() {
+          requestAnimationFrame(animate);
+          simulate();
+          if (discipline.liveSimulation) simulateDiscipline();
+          updateCameraFromControls(0);
+          updateAllNodeLabelPositions();
+          renderer.render(scene, camera);
+          renderDiscipline();
+          const hasDataViews = !!(dom.lineChart || dom.miniMap || dom.totalsChart);
+          if (
+            hasDataViews &&
+            (state.dataViewsDirty || (!state.paused && state.dataViewsTick++ % 3 === 0))
+          ) {
+            renderAnalysisDataViews();
+          }
+        }
+
+        async function tryAutoloadFromQuery() {
+          const folder = new URLSearchParams(window.location.search).get("project");
+          if (!folder) return;
+          try {
+            const res = await fetch(`${folder}/project.json`, { cache: "no-store" });
+            if (!res.ok) return;
+            const project = await res.json();
+            buildGraph(project, folder);
+            state.assetBase = `${folder}/`;
+            state.folderName = folder;
+            updateAllNodeLabelAssets();
+            persistSharedProjectState("space");
+            setHint(`Caricato default: ${folder}/project.json`, "ok");
+          } catch (_) {
+            // keep manual flow
+          }
+        }
+
+        dom.selColorMode.value = "type";
+        dom.selColorValue.value = "__all__";
+        dom.selImages.value = "on";
+        if (dom.selMapColorMode) dom.selMapColorMode.value = dom.selColorMode.value;
+        if (dom.selViewMode) dom.selViewMode.value = "all";
+        if (dom.selViewValue) dom.selViewValue.value = "__all__";
+        dom.btnPause.classList.remove("running");
+        setIdleStatus();
+        updateHighlightValueOptions();
+        updateViewFilterValueOptions();
+        refreshViewFilterStats();
+        applyImagesVisibility();
+        onResize();
+        clearDisciplineGraph();
+        renderAnalysisDataViews();
+        wireEvents();
+        wireDropZone();
+        window.ThreadscapeUI?.attachToolbarTooltips(
+          document.querySelector("header.ts-toolbar")
+        );
+        animate();
+        (async () => {
+          const restored = await restoreSharedProjectFromRoute();
+          if (!restored) await tryAutoloadFromQuery();
+        })();
+      })();
+    </script>
+  </body>
+</html>

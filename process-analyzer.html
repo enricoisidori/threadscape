@@ -1,0 +1,3244 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Process Analysis</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <style>
+      :root {
+        --bg: #f5f5f5;
+        --panel: #ffffff;
+        --ink: #111111;
+        --muted: #6f6f6f;
+        --line: rgba(0, 0, 0, 0.1);
+        --btn-hover: rgba(0, 0, 0, 0.06);
+        --btn-active: rgba(0, 0, 0, 0.1);
+        --focus-ring: rgba(0, 0, 0, 0.24);
+        --ok: #2f8f52;
+        --warn: #a66a12;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+      }
+
+      body {
+        background: var(--bg);
+        color: var(--ink);
+        font: 14px/1.4 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          Roboto, sans-serif;
+        overflow: hidden;
+      }
+
+      .app {
+        width: 100%;
+        height: 100%;
+        display: grid;
+        grid-template-rows: auto minmax(0, 1fr);
+      }
+
+      .layout {
+        min-height: 0;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 360px;
+      }
+
+      #viewWrap {
+        position: relative;
+        min-width: 0;
+        min-height: 0;
+        overflow: hidden;
+        border-right: 1px solid var(--line);
+        background: #f7f7f7;
+        touch-action: none;
+      }
+
+      #viewWrap.panning {
+        cursor: grabbing;
+      }
+
+      #world {
+        position: absolute;
+        left: 0;
+        top: 0;
+        transform-origin: 0 0;
+      }
+
+      #edges {
+        position: absolute;
+        inset: 0;
+        overflow: visible;
+        pointer-events: none;
+      }
+
+      #edges path {
+        fill: none;
+        stroke: rgba(16, 16, 16, 0.62);
+        stroke-width: 1.8;
+        vector-effect: non-scaling-stroke;
+      }
+
+      #edges path.weak {
+        stroke-dasharray: 9 7;
+      }
+
+      #edges path.dim {
+        opacity: 0.2;
+      }
+
+      #nodesLayer {
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+
+      .pnode {
+        position: absolute;
+        border: 1px solid var(--nodeBorder, #111111);
+        border-radius: 8px;
+        background: #ffffff;
+        color: #111;
+        overflow: hidden;
+        cursor: pointer;
+        user-select: none;
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+        transition: opacity 0.12s ease;
+      }
+
+      .pnode.dim {
+        opacity: 0.24;
+      }
+
+      .pnode.selected {
+        box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.85);
+        z-index: 8;
+      }
+
+      .pnode.style-card {
+        padding: 0;
+        overflow: visible;
+      }
+
+      .pnode.style-card .body {
+        padding: 8px;
+      }
+
+      .pnode.style-card .title {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 1.2;
+        overflow: hidden;
+      }
+
+      .pnode.style-card .meta {
+        font-size: 11px;
+        color: #5f5f5f;
+        line-height: 1.3;
+      }
+
+      .pnode.style-card .divider {
+        height: 1px;
+        margin: 6px 0;
+        background: rgba(0, 0, 0, 0.14);
+      }
+
+      .pnode.style-card .kv {
+        display: grid;
+        grid-template-columns: 64px 1fr;
+        gap: 4px 6px;
+        font-size: 11px;
+      }
+
+      .pnode.style-card .kv div:nth-child(odd) {
+        color: #686868;
+      }
+
+      .pnode.style-card .descBlock {
+        margin-top: 4px;
+      }
+
+      .pnode.style-card .descTitle {
+        margin-top: 2px;
+        font-size: 11px;
+        color: #686868;
+      }
+
+      .pnode.style-card .desc {
+        margin-top: 2px;
+        font-size: 11px;
+        line-height: 1.32;
+        white-space: pre-wrap;
+      }
+
+      .pnode.style-card .images {
+        margin-top: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }
+
+      .pnode.style-card .images img {
+        display: block;
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        border-radius: 6px;
+        border: 1px solid rgba(0, 0, 0, 0.14);
+      }
+
+      .pnode.style-card .attachments {
+        margin-top: 8px;
+        font-size: 11px;
+        line-height: 1.3;
+      }
+
+      .pnode.style-card .attachments a {
+        color: #111;
+        text-decoration: underline;
+        margin-right: 8px;
+      }
+
+      .pnode .handle {
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        pointer-events: none;
+      }
+
+      .pnode .handle.out {
+        right: -22px;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+
+      .pnode .handle.in {
+        left: -22px;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+
+      .pnode .handle.out::after {
+        content: "";
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        right: 13px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: #4c4c4c;
+        border: 1px solid #4c4c4c;
+        border-radius: 50%;
+      }
+
+      .pnode .handle.in::after {
+        content: "";
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        left: 13px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: #4c4c4c;
+        border: 1px solid #4c4c4c;
+        clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
+      }
+
+      .pnode.selected .handle.out::after,
+      .pnode.selected .handle.in::after {
+        background: #000000;
+        border-color: #000000;
+      }
+
+      .pnode.style-preview {
+        padding: 0;
+      }
+
+      .pnode.style-preview img {
+        width: 100%;
+        height: calc(100% - 36px);
+        object-fit: cover;
+        display: block;
+      }
+
+      .pnode.style-preview .no-preview {
+        width: 100%;
+        height: calc(100% - 36px);
+        display: grid;
+        place-items: center;
+        font-size: 12px;
+        color: #888;
+        background: #f0f0f0;
+      }
+
+      .pnode.style-preview .title {
+        height: 36px;
+        padding: 8px 9px;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 1.2;
+        overflow: hidden;
+        background: #ffffff;
+      }
+
+      .pnode.style-dot {
+        border-radius: 999px;
+        background: var(--nodeBorder, #111111);
+        border-width: 1.5px;
+        box-shadow: none;
+      }
+
+      .pnode.style-dot .title,
+      .pnode.style-dot .meta,
+      .pnode.style-dot img,
+      .pnode.style-dot .no-preview {
+        display: none;
+      }
+
+      .pnode.style-square {
+        border-radius: 4px;
+        border-width: 2px;
+        border-color: #111111;
+        background: var(--nodeBorder, #111111);
+        box-shadow: none;
+      }
+
+      .pnode.style-square .title,
+      .pnode.style-square .meta,
+      .pnode.style-square img,
+      .pnode.style-square .no-preview {
+        display: none;
+      }
+
+      #side {
+        min-height: 0;
+        overflow: auto;
+        background: var(--panel);
+      }
+
+      .panel {
+        border-bottom: 1px solid var(--line);
+        padding: 10px;
+      }
+
+      .panel h2,
+      .panel h3 {
+        margin: 0 0 8px;
+        font-size: 14px;
+        font-weight: 600;
+      }
+
+      .panel h3 {
+        font-size: 12px;
+        color: var(--muted);
+        font-weight: 500;
+      }
+
+      #projectName {
+        margin: 0;
+        font-size: 15px;
+        font-weight: 600;
+      }
+
+      #stats {
+        margin: 5px 0 0;
+        color: var(--muted);
+        font-size: 12px;
+      }
+
+      .ctrl-grid {
+        display: grid;
+        gap: 8px;
+      }
+
+      .ctrl-grid .row {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+        gap: 8px;
+      }
+
+      .field {
+        display: grid;
+        gap: 4px;
+      }
+
+      .field label {
+        font-size: 11px;
+        color: #707070;
+      }
+
+      .side-select,
+      .side-btn {
+        width: 100%;
+        min-height: 30px;
+        border: 1px solid var(--line);
+        border-radius: 7px;
+        background: #fff;
+        color: var(--ink);
+        font: inherit;
+        padding: 5px 8px;
+      }
+
+      .side-select:focus-visible,
+      .side-btn:focus-visible {
+        outline: none;
+        box-shadow: 0 0 0 2px var(--focus-ring);
+      }
+
+      .side-btn {
+        cursor: pointer;
+      }
+
+      .side-btn:hover {
+        background: var(--btn-hover);
+      }
+
+      .check-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-size: 12px;
+        color: #4f4f4f;
+      }
+
+      #summary {
+        margin: 0;
+        color: var(--muted);
+        font-size: 12px;
+      }
+
+      .legend-list {
+        display: grid;
+        gap: 6px;
+      }
+
+      .legend-item {
+        display: grid;
+        grid-template-columns: 14px minmax(0, 1fr) auto;
+        align-items: center;
+        gap: 7px;
+        font-size: 12px;
+      }
+
+      .legend-swatch {
+        width: 12px;
+        height: 12px;
+        border-radius: 3px;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+      }
+
+      .legend-name {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      .legend-count {
+        color: #6a6a6a;
+      }
+
+      .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 7px;
+      }
+
+      .stat-box {
+        border: 1px solid var(--line);
+        border-radius: 7px;
+        padding: 7px;
+        background: #fafafa;
+      }
+
+      .stat-box.metric {
+        cursor: pointer;
+        width: 100%;
+        text-align: left;
+        font: inherit;
+        color: inherit;
+        appearance: none;
+        -webkit-appearance: none;
+      }
+
+      .stat-box.metric:hover {
+        background: #f3f3f3;
+      }
+
+      .stat-box.metric.active {
+        box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.15) inset;
+        background: #efefef;
+      }
+
+      .stat-k {
+        font-size: 11px;
+        color: #777;
+      }
+
+      .stat-v {
+        margin-top: 2px;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 1.1;
+      }
+
+      .chart-toolbar {
+        display: grid;
+        gap: 8px;
+      }
+
+      .check-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 8px;
+      }
+
+      .check-grid .check-row {
+        font-size: 11px;
+      }
+
+      #trendSvg {
+        width: 100%;
+        height: 220px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #fff;
+        display: block;
+        shape-rendering: geometricPrecision;
+        text-rendering: geometricPrecision;
+      }
+
+      #trendHint {
+        margin: 6px 0 0;
+        color: var(--muted);
+        font-size: 11px;
+      }
+
+      .metric-help {
+        margin-top: 8px;
+        border: 1px solid var(--line);
+        border-radius: 7px;
+        padding: 8px;
+        background: #fcfcfc;
+        font-size: 12px;
+        line-height: 1.35;
+      }
+
+      .metric-help .help-k {
+        color: #6b6b6b;
+        font-size: 11px;
+        margin-bottom: 4px;
+      }
+
+      .metric-help .help-v {
+        color: #222;
+      }
+
+      #heatmapSvg {
+        width: 100%;
+        height: 220px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #fff;
+        display: block;
+        shape-rendering: geometricPrecision;
+        text-rendering: geometricPrecision;
+      }
+
+      #heatmapHint {
+        margin: 6px 0 0;
+        color: var(--muted);
+        font-size: 11px;
+      }
+
+      .kv {
+        display: grid;
+        grid-template-columns: 74px 1fr;
+        gap: 6px;
+        font-size: 12px;
+      }
+
+      .k {
+        color: #777;
+      }
+
+      #nodeDesc {
+        margin-top: 8px;
+        white-space: pre-wrap;
+        font-size: 12px;
+        line-height: 1.4;
+      }
+
+      #nodeMedia {
+        margin-top: 8px;
+      }
+
+      #nodeMedia img {
+        width: 100%;
+        border: 1px solid var(--line);
+        border-radius: 6px;
+      }
+
+      .ok {
+        color: var(--ok) !important;
+      }
+
+      .warn {
+        color: var(--warn) !important;
+      }
+
+      @media (max-width: 1080px) {
+        .topbar {
+          flex-wrap: wrap;
+        }
+
+        .layout {
+          grid-template-columns: 1fr;
+          grid-template-rows: minmax(0, 1fr) minmax(320px, 46vh);
+        }
+
+        #viewWrap {
+          border-right: none;
+          border-bottom: 1px solid var(--line);
+        }
+      }
+    </style>
+    <link rel="stylesheet" href="./shared-ui.css" />
+    <script src="./shared-ui.js"></script>
+  </head>
+  <body>
+    <div class="app">
+      <header class="topbar ts-toolbar">
+        <div class="nav-left">
+          <button id="btnOpen" class="icon-btn" type="button" data-tip="Open JSON (Cmd/Ctrl+O)">
+            <span class="material-symbols-outlined">file_open</span>
+          </button>
+          <button id="btnSnapshot" class="icon-btn" type="button" data-tip="Snapshot view">
+            <span class="material-symbols-outlined">photo_camera</span>
+          </button>
+          <button id="btnFit" class="icon-btn" type="button" data-tip="Fit view">
+            <span class="material-symbols-outlined">fit_screen</span>
+          </button>
+          <div id="navStatus" class="toolbar-status" aria-live="polite"></div>
+        </div>
+        <div class="nav-right">
+          <button id="btnSpace" class="icon-btn switch-btn" type="button" data-tip="Go to Space Analysis">
+            <span class="material-symbols-outlined">view_in_ar</span>
+            <span class="btn-label">Space</span>
+          </button>
+          <button id="btnEditor" class="icon-btn switch-btn" type="button" data-tip="Back to Editor">
+            <span class="material-symbols-outlined">edit</span>
+            <span class="btn-label">Editor</span>
+          </button>
+        </div>
+        <input id="fileInput" type="file" accept="application/json,.json" hidden />
+      </header>
+
+      <main class="layout">
+        <section id="viewWrap">
+          <div id="world">
+            <svg id="edges"></svg>
+            <div id="nodesLayer"></div>
+          </div>
+        </section>
+
+        <aside id="side">
+          <section class="panel">
+            <h2 id="projectName">Nessun progetto caricato</h2>
+            <p id="stats">0 nodes · 0 edges</p>
+          </section>
+
+          <section class="panel">
+            <h3>Visualization controls</h3>
+            <div class="ctrl-grid">
+              <div class="row">
+                <div class="field">
+                  <label for="selNodeStyle">Mostra come</label>
+                  <select id="selNodeStyle" class="side-select">
+                    <option value="card">Nodo</option>
+                    <option value="preview">Anteprima</option>
+                    <option value="dot">Pallino</option>
+                    <option value="square">Quadrato</option>
+                  </select>
+                </div>
+                <div class="field">
+                  <label for="selFilterMode">Filtro</label>
+                  <select id="selFilterMode" class="side-select">
+                    <option value="all">Nodi: tutti</option>
+                    <option value="type">Nodi per type</option>
+                    <option value="action">Nodi per action</option>
+                    <option value="areas">Nodi per areas</option>
+                    <option value="tags">Nodi per tags</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="field">
+                  <label for="selFilterValue">Valore filtro</label>
+                  <select id="selFilterValue" class="side-select">
+                    <option value="__all__">Tutti</option>
+                  </select>
+                </div>
+                <div class="field">
+                  <label for="selColorMode">Colori</label>
+                  <select id="selColorMode" class="side-select">
+                    <option value="none">Nessuno</option>
+                    <option value="action">Action</option>
+                    <option value="macro">Macro area</option>
+                    <option value="type">Type</option>
+                    <option value="areas">Areas</option>
+                    <option value="tags">Tags</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="field">
+                  <label for="selColorValue">Valore colore</label>
+                  <select id="selColorValue" class="side-select">
+                    <option value="__all__">Tutti</option>
+                  </select>
+                </div>
+                <div class="field">
+                  <label>&nbsp;</label>
+                  <button id="btnFitSide" class="side-btn" type="button">Fit mappa</button>
+                </div>
+              </div>
+
+              <label class="check-row">
+                <input id="chkPreview" type="checkbox" checked />
+                Mostra anteprima immagine nei nodi
+              </label>
+
+              <p id="summary">Visibili 0/0 nodi · 0/0 archi</p>
+            </div>
+          </section>
+
+          <section class="panel">
+            <h3>Color legend</h3>
+            <div id="legendList" class="legend-list">
+              <div class="muted">Nessuna legenda disponibile.</div>
+            </div>
+          </section>
+
+          <section class="panel">
+            <h3>Network stats</h3>
+            <div class="ctrl-grid">
+              <div class="row">
+                <div class="field">
+                  <label for="inpHubThreshold">Soglia hub (&gt;=)</label>
+                  <input id="inpHubThreshold" class="side-select" type="number" min="1" step="1" value="4" />
+                </div>
+                <div class="field">
+                  <label for="selStatsScope">Scope</label>
+                  <select id="selStatsScope" class="side-select">
+                    <option value="visible">Visibili</option>
+                    <option value="all">Tutti</option>
+                  </select>
+                </div>
+              </div>
+              <div id="statsGrid" class="stats-grid"></div>
+              <div id="metricExplain" class="metric-help">
+                <div class="help-k">Metrica</div>
+                <div class="help-v">Clicca una metrica per vedere definizione e lettura.</div>
+              </div>
+            </div>
+          </section>
+
+          <section class="panel">
+            <h3>Process timeline</h3>
+            <div class="chart-toolbar">
+              <div class="check-grid">
+                <label class="check-row"><input id="chkSeriesExploring" type="checkbox" checked /> Exploring</label>
+                <label class="check-row"><input id="chkSeriesMaking" type="checkbox" checked /> Making</label>
+                <label class="check-row"><input id="chkSeriesTotal" type="checkbox" checked /> Totali</label>
+              </div>
+              <div class="row">
+                <div class="field">
+                  <label for="selTimelineScale">Scala</label>
+                  <select id="selTimelineScale" class="side-select">
+                    <option value="absolute">Assoluta</option>
+                    <option value="relative">Relativa (%)</option>
+                  </select>
+                </div>
+                <div class="field">
+                  <label for="selTimelineBucket">Raggruppamento</label>
+                  <select id="selTimelineBucket" class="side-select">
+                    <option value="week">Settimana</option>
+                    <option value="month">Mese</option>
+                  </select>
+                </div>
+              </div>
+              <div class="row">
+                <div class="field">
+                  <label>&nbsp;</label>
+                  <button id="btnDownloadTrendSvg" class="side-btn" type="button">Scarica SVG</button>
+                </div>
+              </div>
+              <svg id="trendSvg" viewBox="0 0 620 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Process timeline"></svg>
+              <p id="trendHint">Serve una data valida nei nodi per popolare il grafico.</p>
+            </div>
+          </section>
+
+          <section class="panel">
+            <h3>Interlacing heatmap</h3>
+            <svg id="heatmapSvg" viewBox="0 0 620 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Interlacing heatmap"></svg>
+            <p id="heatmapHint">Ciano = prevale exploring, Marrone = prevale making, piu' saturo = piu' eventi.</p>
+          </section>
+
+          <section class="panel">
+            <h3>Node details</h3>
+            <div id="nodeInfo" class="kv">
+              <div class="k">info</div>
+              <div>Seleziona un nodo.</div>
+            </div>
+            <div id="nodeDesc"></div>
+            <div id="nodeMedia"></div>
+          </section>
+        </aside>
+      </main>
+    </div>
+
+    <script>
+      (() => {
+        const KNOWN_FOLDERS = [
+          "1_linguistic",
+          "2_media",
+          "3_cognitive",
+          "4_metric",
+          "5_symbolic",
+          "6_cultural",
+          "7_social",
+          "8_bureaucratic",
+          "9_digital",
+          "10_ecological",
+          "11_infrastructural",
+        ];
+        const SHARED_PROJECT_KEY = "threadscape.shared.project.v1";
+        const SVG_NS = "http://www.w3.org/2000/svg";
+        const DOT_SIZE_PX = 20;
+        const PREVIEW_WIDTH_PX = 240;
+        const PREVIEW_HEIGHT_PX = 184;
+        const EDGE_NORMAL_WIDTH = 3.2;
+        const EDGE_DOT_MULTIPLIER = 2;
+        const FALLBACK_CATEGORY_COLOR = "#9a9a9a";
+        const ZOOM_MIN = 0.002;
+        const ZOOM_MAX = 12;
+        const METRIC_HELP = {
+          interlacing_index:
+            "Quota di finestre temporali in cui Exploring e Making coesistono. Valori alti indicano processi sovrapposti, non a fasi isolate.",
+          overlap_intensity:
+            "Quanto Exploring e Making sono bilanciati nelle finestre sovrapposte (min/max medio). Alto = compresenza forte, basso = una fase domina.",
+          scc_participation:
+            "Percentuale di nodi dentro componenti fortemente connesse (cicli direzionati). Misura quanto il processo ritorna su se stesso.",
+          scc_count:
+            "Numero di cluster ciclici (SCC con almeno 2 nodi). Più cluster = più zone iterative autonome.",
+          largest_scc:
+            "Dimensione della componente ciclica più grande. Indica la scala massima di iterazione intrecciata.",
+          conversion_em:
+            "Quota di nodi Exploring che hanno almeno un arco verso Making. Legge la capacità del processo di materializzare ricerca.",
+          feedback_ratio:
+            "Rapporto M→E rispetto a E→M. Alto = più ritorni/rework dal fare verso nuova esplorazione.",
+          cross_interlacing:
+            "Quota di archi interlacing (E↔M) che attraversano macro-aree diverse. Misura movimenti orizzontali/off-disciplinary.",
+          multi_area_share:
+            "Percentuale di nodi classificati in più aree. Segnale di attraversamento disciplinare nel singolo episodio progettuale.",
+          leadtime_em:
+            "Tempo mediano (giorni) tra nodo Exploring e nodo Making connessi da arco E→M. Valuta il ritmo di concretizzazione.",
+          reciprocity:
+            "Numero di coppie A↔B bidirezionali. Indica dialogo o rimbalzo tra gli stessi passaggi.",
+          convergent:
+            "Nodi con molti archi entranti (soglia hub). Punti dove convergono decisioni/informazioni.",
+          divergent:
+            "Nodi con molti archi uscenti (soglia hub). Punti che aprono ramificazioni o nuove direzioni.",
+          cross_area:
+            "Percentuale di tutti gli archi che collegano macro-aree diverse. Misura mescolanza strutturale del processo.",
+          avg_areas:
+            "Numero medio di aree per nodo. Più è alto, più il dataset descrive episodi ibridi.",
+          density:
+            "Densita' del grafo direzionato (archi osservati su archi possibili). Utile solo come confronto relativo tra cohort/project.",
+          exploring:
+            "Numero di nodi etichettati Exploring nello scope corrente.",
+          making:
+            "Numero di nodi etichettati Making nello scope corrente.",
+        };
+
+        const dom = {
+          viewWrap: document.getElementById("viewWrap"),
+          world: document.getElementById("world"),
+          edges: document.getElementById("edges"),
+          nodesLayer: document.getElementById("nodesLayer"),
+          navStatus: document.getElementById("navStatus"),
+          btnOpen: document.getElementById("btnOpen"),
+          btnSnapshot: document.getElementById("btnSnapshot"),
+          btnFit: document.getElementById("btnFit"),
+          btnFitSide: document.getElementById("btnFitSide"),
+          btnEditor: document.getElementById("btnEditor"),
+          btnSpace: document.getElementById("btnSpace"),
+          fileInput: document.getElementById("fileInput"),
+          projectName: document.getElementById("projectName"),
+          stats: document.getElementById("stats"),
+          selNodeStyle: document.getElementById("selNodeStyle"),
+          selFilterMode: document.getElementById("selFilterMode"),
+          selFilterValue: document.getElementById("selFilterValue"),
+          selColorMode: document.getElementById("selColorMode"),
+          selColorValue: document.getElementById("selColorValue"),
+          chkPreview: document.getElementById("chkPreview"),
+          summary: document.getElementById("summary"),
+          legendList: document.getElementById("legendList"),
+          inpHubThreshold: document.getElementById("inpHubThreshold"),
+          selStatsScope: document.getElementById("selStatsScope"),
+          statsGrid: document.getElementById("statsGrid"),
+          metricExplain: document.getElementById("metricExplain"),
+          chkSeriesExploring: document.getElementById("chkSeriesExploring"),
+          chkSeriesMaking: document.getElementById("chkSeriesMaking"),
+          chkSeriesTotal: document.getElementById("chkSeriesTotal"),
+          selTimelineScale: document.getElementById("selTimelineScale"),
+          selTimelineBucket: document.getElementById("selTimelineBucket"),
+          trendSvg: document.getElementById("trendSvg"),
+          btnDownloadTrendSvg: document.getElementById("btnDownloadTrendSvg"),
+          trendHint: document.getElementById("trendHint"),
+          heatmapSvg: document.getElementById("heatmapSvg"),
+          heatmapHint: document.getElementById("heatmapHint"),
+          nodeInfo: document.getElementById("nodeInfo"),
+          nodeDesc: document.getElementById("nodeDesc"),
+          nodeMedia: document.getElementById("nodeMedia"),
+        };
+
+        const state = {
+          nodes: [],
+          edges: [],
+          byId: new Map(),
+          rawProject: null,
+          projectName: "",
+          folderName: null,
+          assetBase: "",
+          selected: -1,
+          nodeStyle: "dot",
+          showPreview: true,
+          filterMode: "all",
+          filterValue: "__all__",
+          colorMode: "action",
+          colorValue: "__all__",
+          modeStats: {},
+          hubThreshold: 4,
+          statsScope: "visible",
+          activeMetricKey: "interlacing_index",
+          trend: {
+            showExploring: true,
+            showMaking: true,
+            showTotal: true,
+            scale: "absolute",
+            bucket: "week",
+          },
+          worldWidth: 1,
+          worldHeight: 1,
+          idleStatus: "Apri project.json (Open / Cmd/Ctrl+O)",
+          statusTimer: 0,
+          spaceDown: false,
+          view: {
+            zoom: 1,
+            panX: 0,
+            panY: 0,
+            isPanning: false,
+            pointerId: null,
+            downX: 0,
+            downY: 0,
+            lastX: 0,
+            lastY: 0,
+            moved: false,
+            downOnNode: false,
+          },
+        };
+
+        function esc(text) {
+          return String(text ?? "").replace(/[&<>"']/g, (char) => {
+            const map = {
+              "&": "&amp;",
+              "<": "&lt;",
+              ">": "&gt;",
+              '"': "&quot;",
+              "'": "&#39;",
+            };
+            return map[char] || char;
+          });
+        }
+
+        function normValue(value, fallback = "-") {
+          const out = String(value ?? "")
+            .replace(/\s+/g, " ")
+            .trim();
+          return out || fallback;
+        }
+
+        function normalizeAreaName(value) {
+          return String(value ?? "")
+            .replace(/\s+/g, " ")
+            .trim();
+        }
+
+        function canonicalAreaName(value) {
+          const txt = normalizeAreaName(value);
+          if (!txt) return "";
+          const low = txt.toLowerCase();
+          if (low === "speculative" || low === "speculative design")
+            return "Speculative Design";
+          if (low === "communication" || low === "communication design")
+            return "Communication Design";
+          if (low === "interaction" || low === "interaction design")
+            return "Interaction Design";
+          return txt;
+        }
+
+        function areaDedupeKey(value) {
+          return canonicalAreaName(value)
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, " ")
+            .trim()
+            .replace(/\s+/g, " ");
+        }
+
+        function normalizeAreaList(areas, legacyMain = null) {
+          const seen = new Set();
+          const out = [];
+          const push = (raw) => {
+            const mapped = canonicalAreaName(raw);
+            if (!mapped) return;
+            const key = areaDedupeKey(mapped);
+            if (!key || seen.has(key)) return;
+            seen.add(key);
+            out.push(mapped);
+          };
+
+          if (Array.isArray(areas)) {
+            for (const a of areas) push(a);
+          } else {
+            push(areas);
+          }
+          if (Array.isArray(legacyMain)) {
+            for (const a of legacyMain) push(a);
+          } else {
+            push(legacyMain);
+          }
+          return out;
+        }
+
+        function hash(s) {
+          let h = 2166136261;
+          for (let i = 0; i < s.length; i++) {
+            h ^= s.charCodeAt(i);
+            h = Math.imul(h, 16777619);
+          }
+          return h >>> 0;
+        }
+
+        function areaLaneKey(areas, fallbackId) {
+          const scores = { speculative: 0, communication: 0, interaction: 0 };
+          const list = Array.isArray(areas) ? areas : [areas];
+          for (const area of list) {
+            const txt = String(area || "").toLowerCase();
+            if (!txt) continue;
+            if (txt.includes("specul")) scores.speculative += 1;
+            if (txt.includes("comunic") || txt.includes("communicat"))
+              scores.communication += 1;
+            if (txt.includes("inter")) scores.interaction += 1;
+          }
+          const best = Object.entries(scores).sort((a, b) => b[1] - a[1])[0];
+          if (best && best[1] > 0) return best[0];
+          const h = hash(`${fallbackId}_lane`) % 3;
+          if (h === 0) return "speculative";
+          if (h === 1) return "communication";
+          return "interaction";
+        }
+
+        function macroLabel(value) {
+          if (value === "speculative") return "Speculative";
+          if (value === "communication") return "Communication";
+          if (value === "interaction") return "Interaction";
+          return normValue(value);
+        }
+
+        function setIdleStatus(message) {
+          if (typeof message === "string") state.idleStatus = message;
+          if (!dom.navStatus) return;
+          dom.navStatus.textContent = state.idleStatus || "";
+          dom.navStatus.classList.remove("ok", "warn");
+        }
+
+        function setHint(message, level) {
+          if (!dom.navStatus) return;
+          if (state.statusTimer) {
+            window.clearTimeout(state.statusTimer);
+            state.statusTimer = 0;
+          }
+          dom.navStatus.textContent = message;
+          dom.navStatus.classList.remove("ok", "warn");
+          if (level === "ok") dom.navStatus.classList.add("ok");
+          if (level === "warn") dom.navStatus.classList.add("warn");
+          state.statusTimer = window.setTimeout(() => {
+            setIdleStatus();
+          }, 3000);
+        }
+
+        function setRawProject(project) {
+          if (!project) {
+            state.rawProject = null;
+            return;
+          }
+          try {
+            state.rawProject = structuredClone(project);
+          } catch (_) {
+            state.rawProject = JSON.parse(JSON.stringify(project));
+          }
+        }
+
+        function inferFolderNameFromBase(base) {
+          const text = String(base || "").trim().replace(/\/+$/, "");
+          if (!text) return null;
+          if (text.includes("/")) return text.split("/").pop() || null;
+          return text || null;
+        }
+
+        function persistSharedProjectState(source = "process") {
+          if (!state.rawProject) return false;
+          const folderName = state.folderName || inferFolderNameFromBase(state.assetBase);
+          const payload = {
+            version: 1,
+            source,
+            savedAt: Date.now(),
+            folderName: folderName || null,
+            assetBase: state.assetBase || "",
+            label: state.projectName || "",
+            project: state.rawProject,
+          };
+          localStorage.setItem(SHARED_PROJECT_KEY, JSON.stringify(payload));
+          return true;
+        }
+
+        async function restoreSharedProjectFromRoute() {
+          const params = new URLSearchParams(window.location.search);
+          const from = params.get("from");
+          if (!from || from === "process") return false;
+          try {
+            const raw = localStorage.getItem(SHARED_PROJECT_KEY);
+            if (!raw) return false;
+            const payload = JSON.parse(raw);
+            if (!payload || !payload.project) return false;
+            if (payload.source && payload.source !== from) return false;
+
+            await loadProjectData(
+              payload.project,
+              payload.label || payload.folderName || "Project",
+              payload.assetBase || "",
+              payload.folderName || null
+            );
+
+            const fromLabel =
+              from === "editor"
+                ? "Editor"
+                : from === "space"
+                ? "Space Analysis"
+                : "altra vista";
+            setHint(`Progetto ripristinato da ${fromLabel}.`, "ok");
+
+            params.delete("from");
+            const qs = params.toString();
+            const clean = `${window.location.pathname}${qs ? `?${qs}` : ""}`;
+            window.history.replaceState({}, "", clean);
+            return true;
+          } catch (err) {
+            console.warn("Shared-state restore failed", err);
+            setHint("Ripristino progetto non riuscito.", "warn");
+            return false;
+          }
+        }
+
+        function nodeValuesForMode(node, mode) {
+          if (mode === "type") return [normValue(node.type)];
+          if (mode === "action") return [normValue(node.action)];
+          if (mode === "macro") return [areaLaneKey(node.areas, node.id)];
+          if (mode === "areas")
+            return [...new Set((node.areas || []).map((v) => normValue(v)).filter(Boolean))];
+          if (mode === "tags")
+            return [...new Set((node.tags || []).map((v) => normValue(v)).filter(Boolean))];
+          return [];
+        }
+
+        function collectModeStats(mode) {
+          const stats = new Map();
+          for (const node of state.nodes) {
+            const values = nodeValuesForMode(node, mode);
+            for (const value of values) {
+              stats.set(value, (stats.get(value) || 0) + 1);
+            }
+          }
+          state.modeStats[mode] = stats;
+          return stats;
+        }
+
+        function categoryLabel(mode, value) {
+          if (mode === "macro") return macroLabel(value);
+          return normValue(value);
+        }
+
+        function pickPrimaryNodeValue(values, stats) {
+          if (!values.length) return "";
+          if (values.length === 1) return values[0];
+          const sorted = [...values].sort((a, b) => {
+            const ca = stats.get(a) || 0;
+            const cb = stats.get(b) || 0;
+            if (ca !== cb) return cb - ca;
+            return a.localeCompare(b, "it");
+          });
+          return sorted[0];
+        }
+
+        function colorByCategory(mode, value) {
+          if (mode === "action") {
+            const k = String(value || "")
+              .toLowerCase()
+              .trim();
+            if (k === "exploring") return "#00bcd4";
+            if (k === "making") return "#643719";
+            return FALLBACK_CATEGORY_COLOR;
+          }
+          if (mode === "macro") {
+            if (value === "speculative") return "#f08b3d";
+            if (value === "communication") return "#1f7dd3";
+            if (value === "interaction") return "#2f935c";
+            return FALLBACK_CATEGORY_COLOR;
+          }
+          const h = hash(`${mode}:${value}`) % 360;
+          return `hsl(${h} 62% 46%)`;
+        }
+
+        function nodesInStatsScope() {
+          if (state.statsScope === "all") return state.nodes;
+          return state.nodes.filter((n) => n.visible);
+        }
+
+        function updateLegend() {
+          if (!dom.legendList) return;
+          if (state.colorMode === "none") {
+            dom.legendList.innerHTML = '<div class="muted">Colore non attivo.</div>';
+            return;
+          }
+          const nodes = nodesInStatsScope();
+          const stats = new Map();
+          for (const node of nodes) {
+            const values = nodeValuesForMode(node, state.colorMode);
+            if (!values.length) continue;
+            for (const val of values) {
+              stats.set(val, (stats.get(val) || 0) + 1);
+            }
+          }
+          if (!stats.size) {
+            dom.legendList.innerHTML = '<div class="muted">Nessun dato disponibile.</div>';
+            return;
+          }
+          const rows = [...stats.entries()].sort((a, b) => {
+            if (a[1] !== b[1]) return b[1] - a[1];
+            return a[0].localeCompare(b[0], "it");
+          });
+          dom.legendList.innerHTML = rows
+            .map(([key, count]) => {
+              const color = colorByCategory(state.colorMode, key);
+              return `
+                <div class="legend-item">
+                  <span class="legend-swatch" style="background:${esc(color)}"></span>
+                  <span class="legend-name">${esc(categoryLabel(state.colorMode, key))}</span>
+                  <span class="legend-count">${count}</span>
+                </div>
+              `;
+            })
+            .join("");
+        }
+
+        function median(values) {
+          if (!values.length) return null;
+          const sorted = [...values].sort((a, b) => a - b);
+          const mid = Math.floor(sorted.length / 2);
+          if (sorted.length % 2) return sorted[mid];
+          return (sorted[mid - 1] + sorted[mid]) / 2;
+        }
+
+        function computeInterlacingFromRows(rows) {
+          let activeBuckets = 0;
+          let overlapBuckets = 0;
+          let overlapBalanceSum = 0;
+          for (const row of rows || []) {
+            if (!row || row.total <= 0) continue;
+            activeBuckets += 1;
+            if (row.exploring > 0 && row.making > 0) {
+              overlapBuckets += 1;
+              overlapBalanceSum +=
+                Math.min(row.exploring, row.making) / Math.max(row.exploring, row.making);
+            }
+          }
+          return {
+            activeBuckets,
+            overlapBuckets,
+            interlacingIndex: activeBuckets ? (overlapBuckets / activeBuckets) * 100 : 0,
+            overlapIntensity: overlapBuckets ? (overlapBalanceSum / overlapBuckets) * 100 : 0,
+          };
+        }
+
+        function computeSccData(ids, adjacency) {
+          let index = 0;
+          const stack = [];
+          const onStack = new Set();
+          const indexMap = new Map();
+          const lowMap = new Map();
+          const components = [];
+
+          function strongConnect(v) {
+            indexMap.set(v, index);
+            lowMap.set(v, index);
+            index += 1;
+            stack.push(v);
+            onStack.add(v);
+
+            const neighbors = adjacency.get(v) || [];
+            for (const w of neighbors) {
+              if (!indexMap.has(w)) {
+                strongConnect(w);
+                lowMap.set(v, Math.min(lowMap.get(v), lowMap.get(w)));
+              } else if (onStack.has(w)) {
+                lowMap.set(v, Math.min(lowMap.get(v), indexMap.get(w)));
+              }
+            }
+
+            if (lowMap.get(v) === indexMap.get(v)) {
+              const comp = [];
+              while (stack.length) {
+                const w = stack.pop();
+                onStack.delete(w);
+                comp.push(w);
+                if (w === v) break;
+              }
+              components.push(comp);
+            }
+          }
+
+          for (const id of ids) {
+            if (!indexMap.has(id)) strongConnect(id);
+          }
+
+          const cyclic = components.filter((c) => c.length > 1);
+          const cyclicNodeSet = new Set(cyclic.flat());
+          const largestSize = cyclic.reduce((max, c) => Math.max(max, c.length), 0);
+          return {
+            count: cyclic.length,
+            nodeSet: cyclicNodeSet,
+            largestSize,
+          };
+        }
+
+        function computeNetworkStats() {
+          const nodes = nodesInStatsScope();
+          const nodeIdx = new Set(nodes.map((n) => state.byId.get(n.id)));
+          const inDeg = new Map();
+          const outDeg = new Map();
+          const adjacency = new Map();
+          nodes.forEach((n) => {
+            inDeg.set(n.id, 0);
+            outDeg.set(n.id, 0);
+            adjacency.set(n.id, []);
+          });
+
+          const actions = { exploring: 0, making: 0, other: 0 };
+          const multiAreaCount = nodes.filter((n) => (n.areas || []).length > 1).length;
+          const avgAreas = nodes.length
+            ? nodes.reduce((acc, n) => acc + Math.max(0, (n.areas || []).length), 0) / nodes.length
+            : 0;
+          for (const n of nodes) {
+            const a = String(n.action || "").toLowerCase().trim();
+            if (a === "exploring") actions.exploring += 1;
+            else if (a === "making") actions.making += 1;
+            else actions.other += 1;
+          }
+
+          let edgeCount = 0;
+          let crossMacroEdges = 0;
+          let exploringToMakingEdges = 0;
+          let makingToExploringEdges = 0;
+          let interlacingEdges = 0;
+          let crossInterlacingEdges = 0;
+          const exploringWithMakingOut = new Set();
+          const eToMLatencyDays = [];
+          const edgePairs = new Set();
+
+          for (const e of state.edges) {
+            if (!nodeIdx.has(e.a) || !nodeIdx.has(e.b)) continue;
+            const a = state.nodes[e.a];
+            const b = state.nodes[e.b];
+            if (!a || !b) continue;
+
+            outDeg.set(a.id, (outDeg.get(a.id) || 0) + 1);
+            inDeg.set(b.id, (inDeg.get(b.id) || 0) + 1);
+            adjacency.get(a.id)?.push(b.id);
+            edgeCount += 1;
+
+            const macroA = areaLaneKey(a.areas, a.id);
+            const macroB = areaLaneKey(b.areas, b.id);
+            if (macroA !== macroB) crossMacroEdges += 1;
+
+            const actA = String(a.action || "").toLowerCase().trim();
+            const actB = String(b.action || "").toLowerCase().trim();
+            if (actA === "exploring" && actB === "making") {
+              exploringToMakingEdges += 1;
+              interlacingEdges += 1;
+              if (macroA !== macroB) crossInterlacingEdges += 1;
+              exploringWithMakingOut.add(a.id);
+              const da = parseNodeDate(a.date);
+              const db = parseNodeDate(b.date);
+              if (da && db) {
+                const diffDays = (db.getTime() - da.getTime()) / 86400000;
+                if (Number.isFinite(diffDays) && diffDays >= 0) eToMLatencyDays.push(diffDays);
+              }
+            }
+            if (actA === "making" && actB === "exploring") {
+              makingToExploringEdges += 1;
+              interlacingEdges += 1;
+              if (macroA !== macroB) crossInterlacingEdges += 1;
+            }
+
+            edgePairs.add(`${a.id}→${b.id}`);
+          }
+
+          let reciprocalPairs = 0;
+          for (const key of edgePairs) {
+            const [from, to] = key.split("→");
+            const reverse = `${to}→${from}`;
+            if (edgePairs.has(reverse) && from < to) reciprocalPairs += 1;
+          }
+
+          const n = nodes.length;
+          const threshold = Math.max(1, Number(state.hubThreshold) || 4);
+          let convergent = 0;
+          let divergent = 0;
+          let isolated = 0;
+          let maxIn = 0;
+          let maxOut = 0;
+          for (const node of nodes) {
+            const inn = inDeg.get(node.id) || 0;
+            const out = outDeg.get(node.id) || 0;
+            if (inn >= threshold) convergent += 1;
+            if (out >= threshold) divergent += 1;
+            if (inn + out === 0) isolated += 1;
+            maxIn = Math.max(maxIn, inn);
+            maxOut = Math.max(maxOut, out);
+          }
+
+          const density = n > 1 ? edgeCount / (n * (n - 1)) : 0;
+          const conversionRate = actions.exploring
+            ? (exploringWithMakingOut.size / actions.exploring) * 100
+            : 0;
+          const medianEtoM = median(eToMLatencyDays);
+          const reworkRatio = exploringToMakingEdges
+            ? (makingToExploringEdges / exploringToMakingEdges) * 100
+            : 0;
+          const crossInterlacingShare = interlacingEdges
+            ? (crossInterlacingEdges / interlacingEdges) * 100
+            : 0;
+
+          const scc = computeSccData(
+            nodes.map((n) => n.id),
+            adjacency
+          );
+          const sccParticipation = n ? (scc.nodeSet.size / n) * 100 : 0;
+
+          const trend = computeTrendSeries();
+          const interlacing = computeInterlacingFromRows(trend ? trend.rows : []);
+
+          return {
+            nodes: n,
+            edges: edgeCount,
+            avgIn: n ? edgeCount / n : 0,
+            avgOut: n ? edgeCount / n : 0,
+            convergent,
+            divergent,
+            isolated,
+            maxIn,
+            maxOut,
+            density,
+            actions,
+            exploringToMakingEdges,
+            makingToExploringEdges,
+            conversionRate,
+            medianEtoM,
+            reciprocalPairs,
+            reworkRatio,
+            interlacingEdges,
+            crossInterlacingShare,
+            crossMacroShare: edgeCount ? (crossMacroEdges / edgeCount) * 100 : 0,
+            multiAreaShare: n ? (multiAreaCount / n) * 100 : 0,
+            avgAreas,
+            sccCount: scc.count,
+            largestScc: scc.largestSize,
+            sccParticipation,
+            interlacingIndex: interlacing.interlacingIndex,
+            overlapIntensity: interlacing.overlapIntensity,
+            overlapBuckets: interlacing.overlapBuckets,
+            activeBuckets: interlacing.activeBuckets,
+          };
+        }
+
+        function updateMetricExplain(metricKey, label) {
+          if (!dom.metricExplain) return;
+          if (!metricKey) {
+            dom.metricExplain.innerHTML =
+              '<div class="help-k">Metrica</div><div class="help-v">Clicca una metrica per vedere definizione e lettura.</div>';
+            return;
+          }
+          const desc = METRIC_HELP[metricKey] || "Nessuna descrizione disponibile.";
+          dom.metricExplain.innerHTML = `<div class="help-k">${esc(
+            label || metricKey
+          )}</div><div class="help-v">${esc(desc)}</div>`;
+        }
+
+        function updateStatsPanel() {
+          if (!dom.statsGrid) return;
+          const s = computeNetworkStats();
+          const leadTime = s.medianEtoM == null ? "-" : `${s.medianEtoM.toFixed(1)}d`;
+          const cells = [
+            { key: "interlacing_index", label: "Interlacing index", value: `${s.interlacingIndex.toFixed(1)}%` },
+            { key: "overlap_intensity", label: "Overlap intensity", value: `${s.overlapIntensity.toFixed(1)}%` },
+            { key: "scc_participation", label: "Cycle participation", value: `${s.sccParticipation.toFixed(1)}%` },
+            { key: "cross_interlacing", label: "Cross-area interlacing", value: `${s.crossInterlacingShare.toFixed(1)}%` },
+            { key: "conversion_em", label: "Conversione E→M", value: `${s.conversionRate.toFixed(1)}%` },
+            { key: "feedback_ratio", label: "Ritorni M→E", value: `${s.reworkRatio.toFixed(1)}%` },
+            { key: "leadtime_em", label: "Tempo mediano E→M", value: leadTime },
+            { key: "scc_count", label: "Cluster ciclici (SCC)", value: `${s.sccCount}` },
+            { key: "largest_scc", label: "Largest SCC", value: `${s.largestScc}` },
+            { key: "cross_area", label: "Archi cross-area", value: `${s.crossMacroShare.toFixed(1)}%` },
+            { key: "multi_area_share", label: "Nodi multi-area", value: `${s.multiAreaShare.toFixed(1)}%` },
+            { key: "avg_areas", label: "Aree per nodo", value: `${s.avgAreas.toFixed(2)}` },
+            { key: "convergent", label: "Convergenti", value: `${s.convergent}` },
+            { key: "divergent", label: "Divergenti", value: `${s.divergent}` },
+            { key: "reciprocity", label: "Loop reciproci", value: `${s.reciprocalPairs}` },
+            { key: "density", label: "Densita'", value: `${(s.density * 100).toFixed(1)}%` },
+            { key: "exploring", label: "Exploring", value: `${s.actions.exploring}` },
+            { key: "making", label: "Making", value: `${s.actions.making}` },
+          ];
+          dom.statsGrid.innerHTML = cells
+            .map(
+              (cell) =>
+                `<button type="button" class="stat-box metric${
+                  cell.key === state.activeMetricKey ? " active" : ""
+                }" data-metric="${esc(cell.key)}" data-label="${esc(cell.label)}"><div class="stat-k">${esc(
+                  cell.label
+                )}</div><div class="stat-v">${esc(cell.value)}</div></button>`
+            )
+            .join("");
+
+          dom.statsGrid.querySelectorAll(".stat-box.metric").forEach((btn) => {
+            btn.addEventListener("click", () => {
+              const key = btn.getAttribute("data-metric") || "";
+              state.activeMetricKey = state.activeMetricKey === key ? "" : key;
+              dom.statsGrid
+                .querySelectorAll(".stat-box.metric")
+                .forEach((el) =>
+                  el.classList.toggle(
+                    "active",
+                    !!state.activeMetricKey && el.getAttribute("data-metric") === state.activeMetricKey
+                  )
+                );
+              const active = cells.find((c) => c.key === state.activeMetricKey);
+              updateMetricExplain(active?.key || "", active?.label || "");
+            });
+          });
+
+          const active = cells.find((c) => c.key === state.activeMetricKey);
+          updateMetricExplain(active?.key || "", active?.label || "");
+        }
+
+        function parseNodeDate(dateStr) {
+          if (!dateStr) return null;
+          const d = new Date(`${dateStr}T00:00:00`);
+          if (Number.isNaN(d.getTime())) return null;
+          return d;
+        }
+
+        function startOfWeek(date) {
+          const d = new Date(date);
+          const day = (d.getDay() + 6) % 7;
+          d.setDate(d.getDate() - day);
+          d.setHours(0, 0, 0, 0);
+          return d;
+        }
+
+        function startOfMonth(date) {
+          const d = new Date(date);
+          d.setDate(1);
+          d.setHours(0, 0, 0, 0);
+          return d;
+        }
+
+        function bucketKey(date) {
+          if (state.trend.bucket === "month") {
+            const m = startOfMonth(date);
+            return `${m.getFullYear()}-${String(m.getMonth() + 1).padStart(2, "0")}`;
+          }
+          const w = startOfWeek(date);
+          return `${w.getFullYear()}-W${String(
+            Math.ceil((((w - new Date(w.getFullYear(), 0, 1)) / 86400000 + 1) / 7))
+          ).padStart(2, "0")}`;
+        }
+
+        function formatBucketLabel(date) {
+          if (state.trend.bucket === "month") {
+            return date.toLocaleDateString("it-IT", { month: "short", year: "2-digit" });
+          }
+          return date.toLocaleDateString("it-IT", { day: "2-digit", month: "2-digit" });
+        }
+
+        function computeTrendSeries() {
+          const nodes = nodesInStatsScope();
+          const valid = nodes
+            .map((n) => ({ n, d: parseNodeDate(n.date) }))
+            .filter((entry) => !!entry.d)
+            .sort((a, b) => a.d - b.d);
+          if (!valid.length) return null;
+
+          const map = new Map();
+          for (const item of valid) {
+            const key = bucketKey(item.d);
+            if (!map.has(key)) {
+              map.set(key, {
+                key,
+                date:
+                  state.trend.bucket === "month" ? startOfMonth(item.d) : startOfWeek(item.d),
+                exploring: 0,
+                making: 0,
+                total: 0,
+              });
+            }
+            const row = map.get(key);
+            const action = String(item.n.action || "").toLowerCase().trim();
+            if (action === "exploring") row.exploring += 1;
+            if (action === "making") row.making += 1;
+            row.total += 1;
+          }
+          const rows = [...map.values()].sort((a, b) => a.date - b.date);
+          rows.forEach((r) => {
+            r.label = formatBucketLabel(r.date);
+          });
+          return {
+            labels: rows.map((r) => r.label),
+            keys: rows.map((r) => r.key),
+            rows,
+            exploring: rows.map((r) => r.exploring),
+            making: rows.map((r) => r.making),
+            total: rows.map((r) => r.total),
+          };
+        }
+
+        function drawTrendSeries(svg, labels, series) {
+          if (!svg) return;
+          const rect = svg.getBoundingClientRect();
+          const width = Math.max(280, Math.round(rect.width || 620));
+          const height = Math.max(180, Math.round(rect.height || 220));
+          svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
+          svg.setAttribute("preserveAspectRatio", "xMidYMid meet");
+          svg.innerHTML = "";
+
+          const make = (tag, attrs = {}, text = "") => {
+            const el = document.createElementNS(SVG_NS, tag);
+            for (const [k, v] of Object.entries(attrs)) el.setAttribute(k, String(v));
+            if (text) el.textContent = text;
+            return el;
+          };
+          const snap = (value) => Math.round(value) + 0.5;
+          const padL = 44;
+          const padR = 14;
+          const padT = 14;
+          const padB = 30;
+          const plotW = width - padL - padR;
+          const plotH = height - padT - padB;
+          if (plotW <= 8 || plotH <= 8) return;
+
+          const chosen = [];
+          if (state.trend.showExploring) chosen.push({ key: "exploring", color: "#00bcd4", label: "Exploring" });
+          if (state.trend.showMaking) chosen.push({ key: "making", color: "#643719", label: "Making" });
+          if (state.trend.showTotal) chosen.push({ key: "total", color: "#111111", label: "Totale" });
+          if (!chosen.length || !labels.length) return;
+
+          let rawMax = 1;
+          for (const s of chosen) {
+            for (const v of series[s.key]) rawMax = Math.max(rawMax, v);
+          }
+          const normalize = state.trend.scale === "relative";
+          const yTop = normalize ? 100 : Math.max(1, Math.ceil(rawMax * 1.12));
+          const yTicks = 5;
+
+          svg.appendChild(
+            make("rect", {
+              x: 0,
+              y: 0,
+              width,
+              height,
+              fill: "#ffffff",
+            })
+          );
+
+          for (let i = 0; i <= yTicks; i++) {
+            const y = snap(padT + (plotH * i) / yTicks);
+            const val = yTop - (yTop * i) / yTicks;
+            svg.appendChild(
+              make("line", {
+                x1: padL,
+                y1: y,
+                x2: width - padR,
+                y2: y,
+                stroke: i === yTicks ? "rgba(0,0,0,0.18)" : "rgba(0,0,0,0.08)",
+                "stroke-width": 1,
+              })
+            );
+            const label = normalize ? `${Math.round(val)}%` : `${Math.round(val)}`;
+            svg.appendChild(
+              make(
+                "text",
+                {
+                  x: padL - 8,
+                  y: y + 4,
+                  "text-anchor": "end",
+                  "font-size": 12,
+                  "font-family": "system-ui, -apple-system, Segoe UI, Roboto, sans-serif",
+                  fill: "#666",
+                },
+                label
+              )
+            );
+          }
+
+          const xStep = labels.length > 1 ? plotW / (labels.length - 1) : 0;
+          const xAt = (i) => padL + i * xStep;
+          const yAt = (v) => {
+            const val = normalize ? (v / Math.max(1, rawMax)) * 100 : v;
+            return padT + plotH - (val / yTop) * plotH;
+          };
+
+          if (series.rows && series.rows.length) {
+            for (let i = 0; i < series.rows.length; i++) {
+              const row = series.rows[i];
+              if (!row || row.exploring <= 0 || row.making <= 0) continue;
+              const center = xAt(i);
+              const half =
+                series.rows.length > 1 ? Math.max(6, xStep * 0.42) : Math.max(12, plotW * 0.35);
+              const x0 = Math.max(padL, center - half);
+              const x1 = Math.min(width - padR, center + half);
+              svg.appendChild(
+                make("rect", {
+                  x: x0,
+                  y: padT,
+                  width: Math.max(1, x1 - x0),
+                  height: plotH,
+                  fill: "rgba(0,0,0,0.045)",
+                })
+              );
+            }
+          }
+
+          const smoothPath = (points, tension = 0.18) => {
+            if (points.length < 2) return "";
+            if (points.length === 2) {
+              return `M ${points[0].x} ${points[0].y} L ${points[1].x} ${points[1].y}`;
+            }
+            let d = `M ${points[0].x} ${points[0].y}`;
+            for (let i = 0; i < points.length - 1; i++) {
+              const p0 = points[i - 1] || points[i];
+              const p1 = points[i];
+              const p2 = points[i + 1];
+              const p3 = points[i + 2] || p2;
+              const cp1x = p1.x + (p2.x - p0.x) * tension;
+              const cp1y = p1.y + (p2.y - p0.y) * tension;
+              const cp2x = p2.x - (p3.x - p1.x) * tension;
+              const cp2y = p2.y - (p3.y - p1.y) * tension;
+              d += ` C ${cp1x} ${cp1y}, ${cp2x} ${cp2y}, ${p2.x} ${p2.y}`;
+            }
+            return d;
+          };
+
+          for (const s of chosen) {
+            const values = series[s.key];
+            const points = values.map((v, i) => ({ x: xAt(i), y: yAt(v) }));
+            const d = smoothPath(points);
+            svg.appendChild(
+              make("path", {
+                d,
+                fill: "none",
+                stroke: s.color,
+                "stroke-width": 2.4,
+                "stroke-linejoin": "round",
+                "stroke-linecap": "round",
+                "vector-effect": "non-scaling-stroke",
+              })
+            );
+            for (const p of points) {
+              svg.appendChild(
+                make("circle", {
+                  cx: p.x,
+                  cy: p.y,
+                  r: 2.6,
+                  fill: s.color,
+                })
+              );
+            }
+          }
+
+          const maxLabels = 7;
+          const stride = Math.max(1, Math.ceil(labels.length / maxLabels));
+          for (let i = 0; i < labels.length; i += stride) {
+            const x = xAt(i);
+            svg.appendChild(
+              make(
+                "text",
+                {
+                  x,
+                  y: height - 8,
+                  "text-anchor": "middle",
+                  "font-size": 12,
+                  "font-family": "system-ui, -apple-system, Segoe UI, Roboto, sans-serif",
+                  fill: "#666",
+                },
+                labels[i]
+              )
+            );
+          }
+          if ((labels.length - 1) % stride !== 0) {
+            const i = labels.length - 1;
+            svg.appendChild(
+              make(
+                "text",
+                {
+                  x: xAt(i),
+                  y: height - 8,
+                  "text-anchor": "end",
+                  "font-size": 12,
+                  "font-family": "system-ui, -apple-system, Segoe UI, Roboto, sans-serif",
+                  fill: "#666",
+                },
+                labels[i]
+              )
+            );
+          }
+
+          const legendY = 18;
+          let legendX = width - padR;
+          for (let i = chosen.length - 1; i >= 0; i--) {
+            const s = chosen[i];
+            const labelWidth = s.label.length * 6.7 + 28;
+            legendX -= labelWidth;
+            svg.appendChild(
+              make("line", {
+                x1: legendX,
+                y1: legendY,
+                x2: legendX + 16,
+                y2: legendY,
+                stroke: s.color,
+                "stroke-width": 2.6,
+                "stroke-linecap": "round",
+              })
+            );
+            svg.appendChild(
+              make(
+                "text",
+                {
+                  x: legendX + 20,
+                  y: legendY + 4,
+                  "font-size": 12,
+                  "font-family": "system-ui, -apple-system, Segoe UI, Roboto, sans-serif",
+                  fill: "#4d4d4d",
+                },
+                s.label
+              )
+            );
+            legendX -= 8;
+          }
+        }
+
+        function updateTrendChart() {
+          if (!dom.trendSvg) return;
+          const series = computeTrendSeries();
+          if (!series) {
+            dom.trendSvg.innerHTML = "";
+            if (dom.trendHint) dom.trendHint.textContent = "Serve una data valida nei nodi per popolare il grafico.";
+            return;
+          }
+          drawTrendSeries(dom.trendSvg, series.labels, series);
+          if (dom.trendHint) {
+            const inter = computeInterlacingFromRows(series.rows || []);
+            dom.trendHint.textContent = `${series.labels.length} periodi · scala ${
+              state.trend.scale === "relative" ? "relativa" : "assoluta"
+            } · bucket ${state.trend.bucket === "month" ? "mensile" : "settimanale"} · overlap ${
+              inter.overlapBuckets
+            }/${inter.activeBuckets}`;
+          }
+        }
+
+        function lerp(a, b, t) {
+          return a + (b - a) * t;
+        }
+
+        function heatCellColor(cell, maxTotal) {
+          if (!cell || cell.total <= 0 || maxTotal <= 0) return "rgba(245,245,245,1)";
+          const intensity = Math.max(0, Math.min(1, cell.total / maxTotal));
+          const ratio = Math.max(0, Math.min(1, cell.making / Math.max(1, cell.total)));
+          const exploringRgb = [0, 188, 212];
+          const makingRgb = [100, 55, 25];
+          const r = Math.round(lerp(exploringRgb[0], makingRgb[0], ratio));
+          const g = Math.round(lerp(exploringRgb[1], makingRgb[1], ratio));
+          const b = Math.round(lerp(exploringRgb[2], makingRgb[2], ratio));
+          const alpha = 0.2 + intensity * 0.74;
+          return `rgba(${r},${g},${b},${alpha.toFixed(3)})`;
+        }
+
+        function computeHeatmapData() {
+          const trend = computeTrendSeries();
+          if (!trend || !trend.rows.length) return null;
+          const nodes = nodesInStatsScope();
+          const rows = [
+            { key: "speculative", label: "Speculative" },
+            { key: "communication", label: "Communication" },
+            { key: "interaction", label: "Interaction" },
+            { key: "mixed", label: "Multi-area / mixed" },
+          ];
+          const rowIdx = new Map(rows.map((r, i) => [r.key, i]));
+          const colIdx = new Map(trend.rows.map((r, i) => [r.key, i]));
+          const matrix = rows.map(() =>
+            trend.rows.map(() => ({ exploring: 0, making: 0, total: 0 }))
+          );
+
+          for (const node of nodes) {
+            const d = parseNodeDate(node.date);
+            if (!d) continue;
+            const key = bucketKey(d);
+            const c = colIdx.get(key);
+            if (c == null) continue;
+            const areas = Array.isArray(node.areas) ? node.areas : [];
+            let lane = "mixed";
+            if (areas.length === 1) lane = areaLaneKey(areas, node.id);
+            const r = rowIdx.get(lane) ?? rowIdx.get("mixed");
+            if (r == null) continue;
+
+            const cell = matrix[r][c];
+            const action = String(node.action || "").toLowerCase().trim();
+            if (action === "exploring") cell.exploring += 1;
+            if (action === "making") cell.making += 1;
+            cell.total += 1;
+          }
+
+          let maxTotal = 0;
+          for (const row of matrix) {
+            for (const cell of row) maxTotal = Math.max(maxTotal, cell.total);
+          }
+          return {
+            rows,
+            cols: trend.rows,
+            matrix,
+            maxTotal,
+          };
+        }
+
+        function drawHeatmap(svg, data) {
+          if (!svg || !data) return;
+          const rect = svg.getBoundingClientRect();
+          const width = Math.max(280, Math.round(rect.width || 620));
+          const height = Math.max(180, Math.round(rect.height || 220));
+          svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
+          svg.setAttribute("preserveAspectRatio", "xMidYMid meet");
+          svg.innerHTML = "";
+
+          const make = (tag, attrs = {}, text = "") => {
+            const el = document.createElementNS(SVG_NS, tag);
+            for (const [k, v] of Object.entries(attrs)) el.setAttribute(k, String(v));
+            if (text) el.textContent = text;
+            return el;
+          };
+
+          const padL = 122;
+          const padR = 14;
+          const padT = 22;
+          const padB = 30;
+          const plotW = width - padL - padR;
+          const plotH = height - padT - padB;
+          if (plotW <= 8 || plotH <= 8) return;
+
+          const rowCount = data.rows.length;
+          const colCount = data.cols.length;
+          const cellW = colCount ? plotW / colCount : plotW;
+          const cellH = rowCount ? plotH / rowCount : plotH;
+
+          svg.appendChild(make("rect", { x: 0, y: 0, width, height, fill: "#ffffff" }));
+
+          for (let r = 0; r < rowCount; r++) {
+            const y = padT + r * cellH;
+            svg.appendChild(
+              make(
+                "text",
+                {
+                  x: padL - 8,
+                  y: y + cellH * 0.6,
+                  "text-anchor": "end",
+                  "font-size": 12,
+                  "font-family": "system-ui, -apple-system, Segoe UI, Roboto, sans-serif",
+                  fill: "#666",
+                },
+                data.rows[r].label
+              )
+            );
+            for (let c = 0; c < colCount; c++) {
+              const x = padL + c * cellW;
+              const cell = data.matrix[r][c];
+              svg.appendChild(
+                make("rect", {
+                  x,
+                  y,
+                  width: Math.max(1, cellW),
+                  height: Math.max(1, cellH),
+                  fill: heatCellColor(cell, data.maxTotal),
+                  stroke: "rgba(0,0,0,0.08)",
+                  "stroke-width": 0.8,
+                })
+              );
+              if (cell.total > 0 && cellW >= 24 && cellH >= 18) {
+                svg.appendChild(
+                  make(
+                    "text",
+                    {
+                      x: x + cellW * 0.5,
+                      y: y + cellH * 0.58,
+                      "text-anchor": "middle",
+                      "font-size": 11,
+                      "font-family": "system-ui, -apple-system, Segoe UI, Roboto, sans-serif",
+                      fill: "#222",
+                    },
+                    String(cell.total)
+                  )
+                );
+              }
+            }
+          }
+
+          const maxLabels = 8;
+          const stride = Math.max(1, Math.ceil(colCount / maxLabels));
+          for (let c = 0; c < colCount; c += stride) {
+            const x = padL + c * cellW + cellW * 0.5;
+            svg.appendChild(
+              make(
+                "text",
+                {
+                  x,
+                  y: height - 9,
+                  "text-anchor": "middle",
+                  "font-size": 11,
+                  "font-family": "system-ui, -apple-system, Segoe UI, Roboto, sans-serif",
+                  fill: "#666",
+                },
+                data.cols[c].label
+              )
+            );
+          }
+
+          const lgY = 12;
+          const sw = 10;
+          const sh = 10;
+          const legend = [
+            { color: "rgba(0,188,212,0.70)", label: "Exploring" },
+            { color: "rgba(155,155,155,0.65)", label: "Bilanciato" },
+            { color: "rgba(100,55,25,0.72)", label: "Making" },
+          ];
+          let lx = padL;
+          for (const item of legend) {
+            svg.appendChild(make("rect", { x: lx, y: lgY - sh + 1, width: sw, height: sh, fill: item.color }));
+            svg.appendChild(
+              make(
+                "text",
+                {
+                  x: lx + sw + 5,
+                  y: lgY,
+                  "font-size": 11,
+                  "font-family": "system-ui, -apple-system, Segoe UI, Roboto, sans-serif",
+                  fill: "#666",
+                },
+                item.label
+              )
+            );
+            lx += sw + 5 + item.label.length * 6.2 + 14;
+          }
+        }
+
+        function updateHeatmapChart() {
+          if (!dom.heatmapSvg) return;
+          const data = computeHeatmapData();
+          if (!data) {
+            dom.heatmapSvg.innerHTML = "";
+            if (dom.heatmapHint) {
+              dom.heatmapHint.textContent =
+                "Serve una data valida nei nodi per costruire la heatmap.";
+            }
+            return;
+          }
+          drawHeatmap(dom.heatmapSvg, data);
+          if (dom.heatmapHint) {
+            dom.heatmapHint.textContent = `${data.cols.length} periodi × ${data.rows.length} aree · colore = bilanciamento Exploring/Making`;
+          }
+        }
+
+        function downloadTrendSvg() {
+          if (!dom.trendSvg || !dom.trendSvg.innerHTML.trim()) {
+            setHint("Nessun grafico disponibile da scaricare.", "warn");
+            return;
+          }
+          const clone = dom.trendSvg.cloneNode(true);
+          clone.setAttribute("xmlns", SVG_NS);
+          const vb = (clone.getAttribute("viewBox") || "").trim().split(/\s+/).map(Number);
+          if (vb.length === 4 && Number.isFinite(vb[2]) && Number.isFinite(vb[3])) {
+            clone.setAttribute("width", String(Math.round(vb[2])));
+            clone.setAttribute("height", String(Math.round(vb[3])));
+          }
+          const data = `<?xml version="1.0" encoding="UTF-8"?>\n${clone.outerHTML}`;
+          const blob = new Blob([data], { type: "image/svg+xml;charset=utf-8" });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement("a");
+          a.href = url;
+          a.download = `${(state.projectName || "process").replace(/\s+/g, "_").toLowerCase()}_timeline.svg`;
+          document.body.appendChild(a);
+          a.click();
+          a.remove();
+          URL.revokeObjectURL(url);
+          setHint("Timeline SVG scaricata.", "ok");
+        }
+
+        function refreshAnalyticsPanels() {
+          updateLegend();
+          updateStatsPanel();
+          updateTrendChart();
+          updateHeatmapChart();
+        }
+
+        function ensureSelectValue(select, value) {
+          if (!select) return;
+          const has = [...select.options].some((o) => o.value === value);
+          select.value = has ? value : "__all__";
+        }
+
+        function updateFilterValueOptions() {
+          if (!dom.selFilterMode || !dom.selFilterValue) return;
+          const mode = dom.selFilterMode.value || "all";
+          const prev = dom.selFilterValue.value || "__all__";
+          const options = [{ value: "__all__", label: "Tutti" }];
+          if (mode !== "all") {
+            const stats = collectModeStats(mode);
+            const sorted = [...stats.entries()].sort((a, b) => {
+              if (a[1] !== b[1]) return b[1] - a[1];
+              return a[0].localeCompare(b[0], "it");
+            });
+            for (const [value, count] of sorted) {
+              options.push({
+                value,
+                label: `${categoryLabel(mode, value)} (${count})`,
+              });
+            }
+          }
+          dom.selFilterValue.innerHTML = options
+            .map((o) => `<option value="${esc(o.value)}">${esc(o.label)}</option>`)
+            .join("");
+          ensureSelectValue(dom.selFilterValue, prev);
+        }
+
+        function updateColorValueOptions() {
+          if (!dom.selColorMode || !dom.selColorValue) return;
+          const mode = dom.selColorMode.value || "none";
+          const prev = dom.selColorValue.value || "__all__";
+          const options = [{ value: "__all__", label: "Tutti" }];
+          if (mode !== "none") {
+            const stats = collectModeStats(mode);
+            const sorted = [...stats.entries()].sort((a, b) => {
+              if (a[1] !== b[1]) return b[1] - a[1];
+              return a[0].localeCompare(b[0], "it");
+            });
+            for (const [value, count] of sorted) {
+              options.push({
+                value,
+                label: `${categoryLabel(mode, value)} (${count})`,
+              });
+            }
+          }
+          dom.selColorValue.innerHTML = options
+            .map((o) => `<option value="${esc(o.value)}">${esc(o.label)}</option>`)
+            .join("");
+          ensureSelectValue(dom.selColorValue, prev);
+        }
+
+        function resolveAssetUrl(fileEntry) {
+          if (!fileEntry || !fileEntry.path) return "";
+          const rel = String(fileEntry.path).replace(/^\.\//, "");
+          if (!state.assetBase) return "";
+          return `${state.assetBase}${rel}`;
+        }
+
+        async function detectAssetBase(project) {
+          const sample = (project.nodes || [])
+            .flatMap((n) => ((n.data && Array.isArray(n.data.files)) ? n.data.files : []))
+            .map((f) => f && f.path)
+            .find((p) => typeof p === "string" && p.trim().length > 0);
+
+          if (!sample) return "";
+
+          const candidates = [];
+          const params = new URLSearchParams(window.location.search);
+          const qp = params.get("project");
+          if (qp) candidates.push(`${qp}/`);
+          for (const folder of KNOWN_FOLDERS) candidates.push(`${folder}/`);
+          candidates.push("");
+
+          for (const base of candidates) {
+            const url = `${base}${sample}`;
+            try {
+              const res = await fetch(url, { cache: "no-store" });
+              if (res.ok) return base;
+            } catch (_) {
+              // ignore
+            }
+          }
+          return "";
+        }
+
+        function clearGraph() {
+          dom.nodesLayer.innerHTML = "";
+          dom.edges.innerHTML = "";
+          state.nodes = [];
+          state.edges = [];
+          state.byId = new Map();
+          state.selected = -1;
+          state.worldWidth = 1;
+          state.worldHeight = 1;
+          dom.world.style.width = "1px";
+          dom.world.style.height = "1px";
+          dom.nodeInfo.innerHTML = '<div class="k">info</div><div>Seleziona un nodo.</div>';
+          dom.nodeDesc.textContent = "";
+          dom.nodeMedia.innerHTML = "";
+          refreshSummary();
+          refreshAnalyticsPanels();
+        }
+
+        function parseNode(raw, i) {
+          const data = raw?.data || {};
+          const filesRaw = Array.isArray(data.files) ? data.files : [];
+          const files = filesRaw.map((file) => {
+            const name = String(file?.name || "");
+            const type = String(file?.type || "");
+            const path = String(file?.path || "");
+            const isImageType = /^image\//i.test(type);
+            const isImageName = /\.(png|jpe?g|gif|webp|bmp|svg)$/i.test(name || path);
+            return {
+              ...file,
+              isImage: !!(file?.isImage || isImageType || isImageName),
+            };
+          });
+          const legacyMain = [
+            ...(Array.isArray(data.mainAreas) ? data.mainAreas : []),
+            data.mainArea,
+            data.mainarea,
+          ];
+          return {
+            id: String(raw?.id || `node_${i}`),
+            title: data.title || "(senza titolo)",
+            type: data.type || "Unknown",
+            action: data.action || "-",
+            date: data.date || "-",
+            areas: normalizeAreaList(data.areas, legacyMain),
+            tags: Array.isArray(data.tags) ? data.tags : [],
+            desc: data.desc || "",
+            files,
+            rawX: Number.isFinite(Number(raw?.x)) ? Number(raw.x) : i * 420,
+            rawY: Number.isFinite(Number(raw?.y)) ? Number(raw.y) : 0,
+            rawW: Number.isFinite(Number(raw?.w)) ? Math.max(140, Number(raw.w)) : 320,
+            rawH: Number.isFinite(Number(raw?.h)) ? Math.max(90, Number(raw.h)) : 180,
+            x: 0,
+            y: 0,
+            w: 0,
+            h: 0,
+            vx: 0,
+            vy: 0,
+            visible: true,
+            el: null,
+            previewFile: null,
+            previewUrl: "",
+          };
+        }
+
+        function buildGraph(project, label) {
+          clearGraph();
+          setRawProject(project);
+          const rawNodes = Array.isArray(project?.nodes) ? project.nodes : [];
+          const rawEdges = Array.isArray(project?.edges) ? project.edges : [];
+          if (!rawNodes.length) throw new Error("JSON senza nodi");
+
+          const nodes = rawNodes.map((raw, i) => parseNode(raw, i));
+          let minX = Infinity;
+          let minY = Infinity;
+          let maxX = -Infinity;
+          let maxY = -Infinity;
+          for (const n of nodes) {
+            minX = Math.min(minX, n.rawX);
+            minY = Math.min(minY, n.rawY);
+            maxX = Math.max(maxX, n.rawX + n.rawW);
+            maxY = Math.max(maxY, n.rawY + n.rawH);
+          }
+          const pad = 120;
+          const spanW = Math.max(1200, maxX - minX + pad * 2);
+          const spanH = Math.max(900, maxY - minY + pad * 2);
+
+          for (const n of nodes) {
+            n.x = n.rawX - minX + pad;
+            n.y = n.rawY - minY + pad;
+            n.w = n.rawW;
+            n.h = n.rawH;
+            n.previewFile = n.files.find((f) => !!f && f.isImage);
+            n.previewUrl = resolveAssetUrl(n.previewFile);
+          }
+
+          state.worldWidth = spanW;
+          state.worldHeight = spanH;
+          dom.world.style.width = `${spanW}px`;
+          dom.world.style.height = `${spanH}px`;
+          dom.edges.setAttribute("width", String(spanW));
+          dom.edges.setAttribute("height", String(spanH));
+          dom.edges.setAttribute("viewBox", `0 0 ${spanW} ${spanH}`);
+          dom.nodesLayer.style.width = `${spanW}px`;
+          dom.nodesLayer.style.height = `${spanH}px`;
+
+          const byId = new Map();
+          nodes.forEach((n, i) => byId.set(n.id, i));
+
+          const edges = [];
+          for (const rawEdge of rawEdges) {
+            const a = byId.get(String(rawEdge?.s));
+            const b = byId.get(String(rawEdge?.t));
+            if (a == null || b == null || a === b) continue;
+            const path = document.createElementNS(SVG_NS, "path");
+            path.classList.add("edge");
+            if (rawEdge?.dashed) path.classList.add("weak");
+            dom.edges.appendChild(path);
+            edges.push({ a, b, weak: !!rawEdge?.dashed, el: path });
+          }
+
+          for (let i = 0; i < nodes.length; i++) {
+            const node = nodes[i];
+            const el = document.createElement("div");
+            el.className = "pnode";
+            el.dataset.index = String(i);
+            el.addEventListener("click", (e) => {
+              e.stopPropagation();
+              selectNode(i);
+            });
+            node.el = el;
+            dom.nodesLayer.appendChild(el);
+          }
+
+          state.nodes = nodes;
+          state.edges = edges;
+          state.byId = byId;
+          state.projectName = label || "Project";
+          state.selected = -1;
+
+          layoutNodes();
+          updateFilterValueOptions();
+          updateColorValueOptions();
+          applyFiltersAndStyles();
+          fitView(true);
+          refreshProjectInfo();
+          selectNode(-1);
+          refreshAnalyticsPanels();
+        }
+
+        function isScreenFixedMode(mode = state.nodeStyle) {
+          return mode === "dot" || mode === "square" || mode === "preview";
+        }
+
+        function fixedWorldSize(mode) {
+          const z = Math.max(0.0001, state.view.zoom || 1);
+          if (mode === "dot" || mode === "square") {
+            const size = DOT_SIZE_PX / z;
+            return { w: size, h: size };
+          }
+          if (mode === "preview") {
+            return { w: PREVIEW_WIDTH_PX / z, h: PREVIEW_HEIGHT_PX / z };
+          }
+          return null;
+        }
+
+        function buildCardNodeHtml(node) {
+          const areaText = node.areas.length ? node.areas.join(", ") : "-";
+          const hasDesc = !!String(node.desc || "").trim();
+          const imageHtml =
+            state.showPreview && node.previewUrl
+              ? `<div class="images"><img src="${esc(node.previewUrl)}" alt="${esc(
+                  node.title
+                )}" loading="lazy" /></div>`
+              : "";
+          const attachments = (node.files || [])
+            .filter((file) => file && !file.isImage)
+            .map((file) => {
+              const url = resolveAssetUrl(file);
+              if (!url) return "";
+              const label = normValue(file.name || file.path || "file");
+              return `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
+            })
+            .filter(Boolean)
+            .join("");
+          const attachHtml = attachments
+            ? `<div class="attachments">${attachments}</div>`
+            : "";
+          return `
+            <div class="handle in" data-role="in" aria-hidden="true"></div>
+            <div class="handle out" data-role="out" aria-hidden="true"></div>
+            <div class="body">
+              <div class="title">${esc(node.title)}</div>
+              <div class="divider"></div>
+              <div class="meta"><span class="date">${esc(normValue(node.date))}</span></div>
+              <div class="divider"></div>
+              <div class="kv">
+                <div>Type</div><div class="object typeField">${esc(normValue(node.type))}</div>
+                <div>Action</div><div class="action">${esc(normValue(node.action))}</div>
+                <div>Areas</div><div class="areas">${esc(areaText)}</div>
+              </div>
+              <div class="descBlock">
+                ${hasDesc ? '<div class="descTitle">Description</div>' : ""}
+                <div class="desc">${esc(node.desc || "")}</div>
+              </div>
+              ${imageHtml}
+              ${attachHtml}
+            </div>
+          `;
+        }
+
+        function buildPreviewNodeHtml(node) {
+          const media = node.previewUrl
+            ? `<img src="${esc(node.previewUrl)}" alt="${esc(node.title)}" loading="lazy" />`
+            : '<div class="no-preview">no preview</div>';
+          return `${media}<div class="title">${esc(node.title)}</div>`;
+        }
+
+        function layoutNodes() {
+          const mode = state.nodeStyle;
+          for (const node of state.nodes) {
+            const el = node.el;
+            if (!el) continue;
+            el.classList.add("pnode");
+            el.classList.remove("style-card", "style-preview", "style-dot", "style-square");
+            el.classList.add(`style-${mode}`);
+
+            if (mode === "dot" || mode === "square") {
+              const fixed = fixedWorldSize(mode);
+              const sizeW = fixed ? fixed.w : node.w;
+              const sizeH = fixed ? fixed.h : node.h;
+              node.vx = node.x + node.w * 0.5 - sizeW * 0.5;
+              node.vy = node.y + node.h * 0.5 - sizeH * 0.5;
+              node.vw = sizeW;
+              node.vh = sizeH;
+              el.style.left = `${node.vx}px`;
+              el.style.top = `${node.vy}px`;
+              el.style.width = `${sizeW}px`;
+              el.style.height = `${sizeH}px`;
+              const renderKey = mode;
+              if (el.dataset.renderKey !== renderKey) {
+                el.innerHTML = "";
+                el.dataset.renderKey = renderKey;
+              }
+              continue;
+            }
+
+            const isPreview = mode === "preview";
+            const fixed = isPreview ? fixedWorldSize(mode) : null;
+            const vw = fixed ? fixed.w : node.w;
+            const vh = fixed ? fixed.h : node.h;
+            node.vw = vw;
+            node.vh = vh;
+            if (isPreview) {
+              node.vx = node.x + node.w * 0.5 - vw * 0.5;
+              node.vy = node.y + node.h * 0.5 - vh * 0.5;
+            } else {
+              node.vx = node.x;
+              node.vy = node.y;
+            }
+
+            el.style.left = `${node.vx}px`;
+            el.style.top = `${node.vy}px`;
+            el.style.width = `${vw}px`;
+            el.style.height = `${vh}px`;
+
+            const url = node.previewUrl || resolveAssetUrl(node.previewFile);
+            node.previewUrl = url;
+
+            if (isPreview) {
+              const renderKey = `preview:${url}:${node.title}`;
+              if (el.dataset.renderKey !== renderKey) {
+                el.innerHTML = buildPreviewNodeHtml(node);
+                el.dataset.renderKey = renderKey;
+              }
+            } else {
+              const renderKey = `card:${state.showPreview ? 1 : 0}:${url}:${node.title}`;
+              if (el.dataset.renderKey !== renderKey) {
+                el.innerHTML = buildCardNodeHtml(node);
+                el.dataset.renderKey = renderKey;
+              }
+            }
+          }
+        }
+
+        function anchorPoint(node, side) {
+          if (state.nodeStyle === "dot" || state.nodeStyle === "square") {
+            return {
+              x: node.vx + node.vw * 0.5,
+              y: node.vy + node.vh * 0.5,
+            };
+          }
+          if (side === "out") {
+            return {
+              x: node.vx + node.vw,
+              y: node.vy + node.vh * 0.5,
+            };
+          }
+          return {
+            x: node.vx,
+            y: node.vy + node.vh * 0.5,
+          };
+        }
+
+        function bezierPath(a, b) {
+          const dx = Math.max(34, Math.abs(b.x - a.x) * 0.42);
+          return `M ${a.x} ${a.y} C ${a.x + dx} ${a.y}, ${b.x - dx} ${b.y}, ${b.x} ${b.y}`;
+        }
+
+        function renderEdges() {
+          const selectedId = state.selected >= 0 ? state.nodes[state.selected]?.id : null;
+          const edgeScale =
+            state.nodeStyle === "dot" || state.nodeStyle === "square"
+              ? EDGE_DOT_MULTIPLIER
+              : 1;
+          const strongWidth = EDGE_NORMAL_WIDTH * edgeScale;
+          const weakWidth = Math.max(1, EDGE_NORMAL_WIDTH * 0.72 * edgeScale);
+          for (const edge of state.edges) {
+            const a = state.nodes[edge.a];
+            const b = state.nodes[edge.b];
+            if (!a || !b || !edge.el) continue;
+            const visible = a.visible && b.visible;
+            edge.el.style.display = visible ? "block" : "none";
+            if (!visible) continue;
+            const pa = anchorPoint(a, "out");
+            const pb = anchorPoint(b, "in");
+            edge.el.setAttribute("d", bezierPath(pa, pb));
+            edge.el.style.strokeWidth = `${edge.weak ? weakWidth : strongWidth}px`;
+
+            const linkedSelected = selectedId && (a.id === selectedId || b.id === selectedId);
+            edge.el.classList.toggle("dim", !!selectedId && !linkedSelected);
+          }
+        }
+
+        function nodePassesFilter(node) {
+          if (state.filterMode === "all" || state.filterValue === "__all__") return true;
+          const values = nodeValuesForMode(node, state.filterMode);
+          return values.includes(state.filterValue);
+        }
+
+        function refreshSummary() {
+          if (!dom.summary) return;
+          const visibleNodes = state.nodes.filter((n) => n.visible).length;
+          let visibleEdges = 0;
+          for (const e of state.edges) {
+            const a = state.nodes[e.a];
+            const b = state.nodes[e.b];
+            if (a?.visible && b?.visible) visibleEdges += 1;
+          }
+          dom.summary.textContent = `Visibili ${visibleNodes}/${state.nodes.length} nodi · ${visibleEdges}/${state.edges.length} archi`;
+        }
+
+        function applyFiltersAndStyles() {
+          const colorStats =
+            state.colorMode === "none" ? new Map() : collectModeStats(state.colorMode);
+
+          for (const node of state.nodes) {
+            node.visible = nodePassesFilter(node);
+            const el = node.el;
+            if (!el) continue;
+            el.style.display = node.visible ? "block" : "none";
+
+            const values = nodeValuesForMode(node, state.colorMode);
+            const chosen = pickPrimaryNodeValue(values, colorStats);
+            const color =
+              state.colorMode === "none" || !chosen
+                ? "#111111"
+                : colorByCategory(state.colorMode, chosen);
+            el.style.setProperty("--nodeBorder", color);
+
+            const strong =
+              state.colorMode === "none" ||
+              state.colorValue === "__all__" ||
+              values.includes(state.colorValue);
+            el.classList.toggle("dim", !strong);
+            if (state.nodeStyle === "dot") {
+              el.style.background = color;
+            } else if (state.nodeStyle === "square") {
+              el.style.background = color;
+              el.style.borderColor = "#111111";
+            } else {
+              el.style.background = "rgba(255,255,255,0.95)";
+            }
+          }
+
+          if (state.selected >= 0 && !state.nodes[state.selected]?.visible) {
+            state.selected = -1;
+          }
+
+          for (let i = 0; i < state.nodes.length; i++) {
+            state.nodes[i].el?.classList.toggle("selected", i === state.selected);
+          }
+
+          renderEdges();
+          refreshSummary();
+          refreshProjectInfo();
+          refreshAnalyticsPanels();
+          if (state.selected >= 0) {
+            updateNodeDetails(state.selected);
+          } else {
+            updateNodeDetails(-1);
+          }
+        }
+
+        function updateNodeDetails(index) {
+          if (index < 0 || index >= state.nodes.length) {
+            dom.nodeInfo.innerHTML = '<div class="k">info</div><div>Seleziona un nodo.</div>';
+            dom.nodeDesc.textContent = "";
+            dom.nodeMedia.innerHTML = "";
+            return;
+          }
+
+          const n = state.nodes[index];
+          const areaText = n.areas.length ? n.areas.join(", ") : "-";
+          const tagText = n.tags.length ? n.tags.join(", ") : "-";
+
+          dom.nodeInfo.innerHTML = `
+            <div class="k">id</div><div>${esc(n.id)}</div>
+            <div class="k">title</div><div>${esc(n.title)}</div>
+            <div class="k">type</div><div>${esc(normValue(n.type))}</div>
+            <div class="k">action</div><div>${esc(normValue(n.action))}</div>
+            <div class="k">date</div><div>${esc(normValue(n.date))}</div>
+            <div class="k">areas</div><div>${esc(areaText)}</div>
+            <div class="k">tags</div><div>${esc(tagText)}</div>
+          `;
+
+          dom.nodeDesc.textContent = n.desc || "";
+
+          dom.nodeMedia.innerHTML = "";
+          const url = n.previewUrl || resolveAssetUrl(n.previewFile);
+          if (url) {
+            const img = document.createElement("img");
+            img.src = url;
+            img.alt = n.title;
+            img.loading = "lazy";
+            dom.nodeMedia.appendChild(img);
+          }
+        }
+
+        function selectNode(index) {
+          state.selected = index;
+          for (let i = 0; i < state.nodes.length; i++) {
+            state.nodes[i].el?.classList.toggle("selected", i === state.selected);
+          }
+          renderEdges();
+          updateNodeDetails(index);
+        }
+
+        function refreshProjectInfo() {
+          dom.projectName.textContent = state.projectName || "Project";
+          const visibleNodes = state.nodes.filter((n) => n.visible).length;
+          let visibleEdges = 0;
+          for (const e of state.edges) {
+            const a = state.nodes[e.a];
+            const b = state.nodes[e.b];
+            if (a?.visible && b?.visible) visibleEdges += 1;
+          }
+          const filtering =
+            visibleNodes !== state.nodes.length || visibleEdges !== state.edges.length;
+          dom.stats.textContent = filtering
+            ? `${visibleNodes}/${state.nodes.length} nodes · ${visibleEdges}/${state.edges.length} edges`
+            : `${state.nodes.length} nodes · ${state.edges.length} edges`;
+        }
+
+        function updateWorldTransform() {
+          dom.world.style.transform = `translate(${state.view.panX}px, ${state.view.panY}px) scale(${state.view.zoom})`;
+        }
+
+        function drawNodeSnapshot(ctx, node, screenX, screenY, w, h, color) {
+          if (state.nodeStyle === "dot") {
+            const r = Math.max(2, Math.min(w, h) * 0.5);
+            ctx.beginPath();
+            ctx.arc(screenX + w * 0.5, screenY + h * 0.5, r, 0, Math.PI * 2);
+            ctx.fillStyle = color;
+            ctx.fill();
+            return;
+          }
+          if (state.nodeStyle === "square") {
+            ctx.fillStyle = color;
+            ctx.fillRect(screenX, screenY, w, h);
+            ctx.lineWidth = 2;
+            ctx.strokeStyle = "#111111";
+            ctx.strokeRect(screenX, screenY, w, h);
+            return;
+          }
+
+          ctx.fillStyle = "rgba(255,255,255,0.96)";
+          ctx.strokeStyle = color;
+          ctx.lineWidth = 1;
+          ctx.fillRect(screenX, screenY, w, h);
+          ctx.strokeRect(screenX, screenY, w, h);
+          ctx.fillStyle = "#111111";
+          ctx.font = `${Math.max(10, Math.min(14, 11 * Math.max(0.7, state.view.zoom)))}px system-ui`;
+          ctx.textBaseline = "top";
+          const text = String(node.title || "");
+          ctx.fillText(text.slice(0, 46), screenX + 8, screenY + 8, Math.max(30, w - 16));
+        }
+
+        function exportViewSnapshot() {
+          const rect = dom.viewWrap.getBoundingClientRect();
+          const width = Math.max(1, Math.round(rect.width));
+          const height = Math.max(1, Math.round(rect.height));
+          if (!width || !height) {
+            setHint("View non disponibile per snapshot.", "warn");
+            return;
+          }
+
+          const canvas = document.createElement("canvas");
+          canvas.width = width;
+          canvas.height = height;
+          const ctx = canvas.getContext("2d");
+          if (!ctx) {
+            setHint("Snapshot non supportato nel browser.", "warn");
+            return;
+          }
+
+          ctx.fillStyle = "#f7f7f7";
+          ctx.fillRect(0, 0, width, height);
+
+          const z = state.view.zoom;
+          const px = state.view.panX;
+          const py = state.view.panY;
+
+          for (const edge of state.edges) {
+            const a = state.nodes[edge.a];
+            const b = state.nodes[edge.b];
+            if (!a || !b || !a.visible || !b.visible) continue;
+            const pa = anchorPoint(a, "out");
+            const pb = anchorPoint(b, "in");
+            const sx = pa.x * z + px;
+            const sy = pa.y * z + py;
+            const tx = pb.x * z + px;
+            const ty = pb.y * z + py;
+            const dx = Math.max(28, Math.abs(tx - sx) * 0.42);
+            ctx.beginPath();
+            ctx.moveTo(sx, sy);
+            ctx.bezierCurveTo(sx + dx, sy, tx - dx, ty, tx, ty);
+            ctx.strokeStyle = edge.weak ? "rgba(16,16,16,0.36)" : "rgba(16,16,16,0.62)";
+            ctx.lineWidth = edge.weak
+              ? Math.max(1, EDGE_NORMAL_WIDTH * 0.72)
+              : EDGE_NORMAL_WIDTH;
+            if (edge.weak) ctx.setLineDash([8, 6]);
+            else ctx.setLineDash([]);
+            ctx.stroke();
+          }
+          ctx.setLineDash([]);
+
+          for (const node of state.nodes) {
+            if (!node.visible) continue;
+            const w = node.vw * z;
+            const h = node.vh * z;
+            const x = node.vx * z + px;
+            const y = node.vy * z + py;
+            if (x > width || y > height || x + w < 0 || y + h < 0) continue;
+            const color =
+              node.el?.style.getPropertyValue("--nodeBorder").trim() || "#111111";
+            drawNodeSnapshot(ctx, node, x, y, w, h, color);
+          }
+
+          canvas.toBlob((blob) => {
+            if (!blob) {
+              setHint("Snapshot non riuscita.", "warn");
+              return;
+            }
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = `${(state.projectName || "process")
+              .replace(/\s+/g, "_")
+              .toLowerCase()}_snapshot.png`;
+            document.body.appendChild(a);
+            a.click();
+            a.remove();
+            URL.revokeObjectURL(url);
+            setHint("Snapshot scaricata.", "ok");
+          }, "image/png");
+        }
+
+        function worldFromScreen(localX, localY) {
+          const z = Math.max(0.0001, state.view.zoom);
+          return {
+            x: (localX - state.view.panX) / z,
+            y: (localY - state.view.panY) / z,
+          };
+        }
+
+        function fitView(force = false) {
+          const wrapRect = dom.viewWrap.getBoundingClientRect();
+          if (!wrapRect.width || !wrapRect.height) return;
+
+          const visible = state.nodes.filter((n) => n.visible);
+          const nodes = visible.length ? visible : state.nodes;
+          if (!nodes.length) return;
+
+          let minX = Infinity;
+          let minY = Infinity;
+          let maxX = -Infinity;
+          let maxY = -Infinity;
+
+          if (isScreenFixedMode()) {
+            for (const n of nodes) {
+              const cx = n.x + n.w * 0.5;
+              const cy = n.y + n.h * 0.5;
+              minX = Math.min(minX, cx);
+              minY = Math.min(minY, cy);
+              maxX = Math.max(maxX, cx);
+              maxY = Math.max(maxY, cy);
+            }
+            const pad = state.nodeStyle === "preview" ? 40 : 24;
+            const bw = Math.max(1, maxX - minX);
+            const bh = Math.max(1, maxY - minY);
+            const zoom = Math.max(
+              ZOOM_MIN,
+              Math.min(ZOOM_MAX, Math.min((wrapRect.width - pad) / bw, (wrapRect.height - pad) / bh))
+            );
+            state.view.zoom = zoom;
+            state.view.panX = wrapRect.width * 0.5 - ((minX + maxX) * 0.5) * zoom;
+            state.view.panY = wrapRect.height * 0.5 - ((minY + maxY) * 0.5) * zoom;
+            layoutNodes();
+            updateWorldTransform();
+            if (force) renderEdges();
+            return;
+          }
+
+          for (const n of nodes) {
+            minX = Math.min(minX, n.vx);
+            minY = Math.min(minY, n.vy);
+            maxX = Math.max(maxX, n.vx + n.vw);
+            maxY = Math.max(maxY, n.vy + n.vh);
+          }
+
+          const pad = 24;
+          const bw = Math.max(1, maxX - minX);
+          const bh = Math.max(1, maxY - minY);
+          const zoom = Math.max(
+            ZOOM_MIN,
+            Math.min(ZOOM_MAX, Math.min((wrapRect.width - pad) / bw, (wrapRect.height - pad) / bh))
+          );
+
+          state.view.zoom = zoom;
+          state.view.panX = wrapRect.width * 0.5 - ((minX + maxX) * 0.5) * zoom;
+          state.view.panY = wrapRect.height * 0.5 - ((minY + maxY) * 0.5) * zoom;
+          updateWorldTransform();
+          if (force) renderEdges();
+        }
+
+        async function loadProjectData(project, label, preferredBase = "", preferredFolder = null) {
+          buildGraph(project, label);
+
+          if (preferredBase) {
+            state.assetBase = preferredBase;
+          } else {
+            state.assetBase = await detectAssetBase(project);
+          }
+          state.folderName = preferredFolder || inferFolderNameFromBase(state.assetBase);
+
+          for (const node of state.nodes) {
+            node.previewUrl = resolveAssetUrl(node.previewFile);
+          }
+          layoutNodes();
+          applyFiltersAndStyles();
+          fitView(true);
+          persistSharedProjectState("process");
+
+          if (state.assetBase) {
+            setHint(`Progetto caricato · assets base: ${state.assetBase}`, "ok");
+          } else {
+            setHint("Progetto caricato. Base assets non trovata automaticamente.", "warn");
+          }
+        }
+
+        async function loadFromJsonFile(file) {
+          const text = await file.text();
+          const project = JSON.parse(text);
+          await loadProjectData(project, file.name.replace(/\.json$/i, ""));
+        }
+
+        async function openJsonDialog() {
+          if ("showOpenFilePicker" in window) {
+            try {
+              const [handle] = await window.showOpenFilePicker({
+                multiple: false,
+                types: [
+                  {
+                    description: "JSON",
+                    accept: {
+                      "application/json": [".json"],
+                    },
+                  },
+                ],
+              });
+              if (!handle) return;
+              const file = await handle.getFile();
+              await loadFromJsonFile(file);
+              return;
+            } catch (err) {
+              if (err && err.name === "AbortError") return;
+            }
+          }
+          dom.fileInput.value = "";
+          dom.fileInput.click();
+        }
+
+        async function tryAutoloadFromQuery() {
+          const folder = new URLSearchParams(window.location.search).get("project");
+          if (!folder) return false;
+          try {
+            const res = await fetch(`${folder}/project.json`, { cache: "no-store" });
+            if (!res.ok) return false;
+            const project = await res.json();
+            await loadProjectData(project, folder, `${folder}/`, folder);
+            setHint(`Caricato default: ${folder}/project.json`, "ok");
+            return true;
+          } catch (_) {
+            return false;
+          }
+        }
+
+        function wireEvents() {
+          dom.btnOpen.addEventListener("click", () => openJsonDialog());
+          dom.btnSnapshot.addEventListener("click", () => exportViewSnapshot());
+          dom.btnFit.addEventListener("click", () => fitView(true));
+          dom.btnFitSide.addEventListener("click", () => fitView(true));
+
+          dom.btnEditor?.addEventListener("click", () => {
+            let persisted = false;
+            try {
+              persisted = !!persistSharedProjectState("process");
+            } catch (err) {
+              console.warn("Unable to persist shared project state", err);
+            }
+            const qs = new URLSearchParams();
+            qs.set("from", "process");
+            const folder = state.folderName || inferFolderNameFromBase(state.assetBase);
+            if (folder) qs.set("project", folder);
+            if (!persisted) {
+              window.location.href = "./threadscape.html";
+              return;
+            }
+            window.location.href = `./threadscape.html?${qs.toString()}`;
+          });
+
+          dom.btnSpace?.addEventListener("click", () => {
+            let persisted = false;
+            try {
+              persisted = !!persistSharedProjectState("process");
+            } catch (err) {
+              console.warn("Unable to persist shared project state", err);
+            }
+            const qs = new URLSearchParams();
+            qs.set("from", "process");
+            const folder = state.folderName || inferFolderNameFromBase(state.assetBase);
+            if (folder) qs.set("project", folder);
+            if (!persisted) {
+              window.location.href = folder
+                ? `./visualizer.html?${qs.toString()}`
+                : "./visualizer.html";
+              return;
+            }
+            window.location.href = `./visualizer.html?${qs.toString()}`;
+          });
+
+          dom.fileInput.addEventListener("change", async () => {
+            const file = dom.fileInput.files && dom.fileInput.files[0];
+            if (!file) return;
+            try {
+              await loadFromJsonFile(file);
+            } catch (err) {
+              setHint(`Errore apertura JSON: ${err.message || err}`, "warn");
+            }
+          });
+
+          dom.selNodeStyle?.addEventListener("change", () => {
+            state.nodeStyle = dom.selNodeStyle.value || "dot";
+            layoutNodes();
+            applyFiltersAndStyles();
+            fitView(true);
+          });
+
+          dom.chkPreview?.addEventListener("change", () => {
+            state.showPreview = !!dom.chkPreview.checked;
+            if (state.nodeStyle === "card") {
+              layoutNodes();
+              applyFiltersAndStyles();
+            }
+          });
+
+          dom.selFilterMode?.addEventListener("change", () => {
+            state.filterMode = dom.selFilterMode.value || "all";
+            updateFilterValueOptions();
+            state.filterValue = dom.selFilterValue?.value || "__all__";
+            applyFiltersAndStyles();
+          });
+
+          dom.selFilterValue?.addEventListener("change", () => {
+            state.filterValue = dom.selFilterValue.value || "__all__";
+            applyFiltersAndStyles();
+          });
+
+          dom.selColorMode?.addEventListener("change", () => {
+            state.colorMode = dom.selColorMode.value || "action";
+            updateColorValueOptions();
+            state.colorValue = dom.selColorValue?.value || "__all__";
+            applyFiltersAndStyles();
+          });
+
+          dom.selColorValue?.addEventListener("change", () => {
+            state.colorValue = dom.selColorValue.value || "__all__";
+            applyFiltersAndStyles();
+          });
+
+          dom.inpHubThreshold?.addEventListener("change", () => {
+            const value = Math.max(1, Number(dom.inpHubThreshold.value) || 4);
+            state.hubThreshold = value;
+            dom.inpHubThreshold.value = String(value);
+            updateStatsPanel();
+          });
+
+          dom.selStatsScope?.addEventListener("change", () => {
+            state.statsScope = dom.selStatsScope.value || "visible";
+            refreshAnalyticsPanels();
+          });
+
+          dom.chkSeriesExploring?.addEventListener("change", () => {
+            state.trend.showExploring = !!dom.chkSeriesExploring.checked;
+            updateTrendChart();
+          });
+
+          dom.chkSeriesMaking?.addEventListener("change", () => {
+            state.trend.showMaking = !!dom.chkSeriesMaking.checked;
+            updateTrendChart();
+          });
+
+          dom.chkSeriesTotal?.addEventListener("change", () => {
+            state.trend.showTotal = !!dom.chkSeriesTotal.checked;
+            updateTrendChart();
+          });
+
+          dom.selTimelineScale?.addEventListener("change", () => {
+            state.trend.scale = dom.selTimelineScale.value || "absolute";
+            updateTrendChart();
+          });
+
+          dom.selTimelineBucket?.addEventListener("change", () => {
+            state.trend.bucket = dom.selTimelineBucket.value || "week";
+            updateTrendChart();
+          });
+          dom.btnDownloadTrendSvg?.addEventListener("click", () => {
+            downloadTrendSvg();
+          });
+
+          dom.viewWrap.addEventListener("pointerdown", (e) => {
+            const onNode = !!e.target.closest(".pnode");
+            if (onNode && !state.spaceDown && e.button !== 1) return;
+            if (e.button !== 0 && e.button !== 1) return;
+            e.preventDefault();
+            state.view.isPanning = true;
+            state.view.pointerId = e.pointerId;
+            state.view.downX = e.clientX;
+            state.view.downY = e.clientY;
+            state.view.lastX = e.clientX;
+            state.view.lastY = e.clientY;
+            state.view.moved = false;
+            state.view.downOnNode = onNode;
+            dom.viewWrap.classList.add("panning");
+            dom.viewWrap.setPointerCapture?.(e.pointerId);
+          });
+
+          dom.viewWrap.addEventListener("pointermove", (e) => {
+            if (!state.view.isPanning || state.view.pointerId !== e.pointerId) return;
+            e.preventDefault();
+            const dx = e.clientX - state.view.lastX;
+            const dy = e.clientY - state.view.lastY;
+            state.view.lastX = e.clientX;
+            state.view.lastY = e.clientY;
+            if (Math.abs(e.clientX - state.view.downX) + Math.abs(e.clientY - state.view.downY) > 2) {
+              state.view.moved = true;
+            }
+            state.view.panX += dx;
+            state.view.panY += dy;
+            updateWorldTransform();
+          });
+
+          dom.viewWrap.addEventListener("pointerup", (e) => {
+            if (state.view.pointerId !== e.pointerId) return;
+            e.preventDefault();
+            const moved = Math.abs(e.clientX - state.view.downX) + Math.abs(e.clientY - state.view.downY);
+            const isClick = moved < 5 && !state.view.downOnNode;
+            state.view.isPanning = false;
+            state.view.pointerId = null;
+            state.view.moved = false;
+            state.view.downOnNode = false;
+            dom.viewWrap.classList.remove("panning");
+            dom.viewWrap.releasePointerCapture?.(e.pointerId);
+            if (isClick) selectNode(-1);
+          });
+
+          dom.viewWrap.addEventListener("pointercancel", (e) => {
+            if (state.view.pointerId !== e.pointerId) return;
+            state.view.isPanning = false;
+            state.view.pointerId = null;
+            state.view.moved = false;
+            state.view.downOnNode = false;
+            dom.viewWrap.classList.remove("panning");
+          });
+
+          dom.viewWrap.addEventListener(
+            "wheel",
+            (e) => {
+              e.preventDefault();
+              const rect = dom.viewWrap.getBoundingClientRect();
+              const localX = e.clientX - rect.left;
+              const localY = e.clientY - rect.top;
+              const before = worldFromScreen(localX, localY);
+              const factor = Math.exp(-e.deltaY * 0.0012);
+              state.view.zoom = Math.max(ZOOM_MIN, Math.min(ZOOM_MAX, state.view.zoom * factor));
+              state.view.panX = localX - before.x * state.view.zoom;
+              state.view.panY = localY - before.y * state.view.zoom;
+              if (isScreenFixedMode()) {
+                layoutNodes();
+                renderEdges();
+              }
+              updateWorldTransform();
+            },
+            { passive: false }
+          );
+
+          dom.viewWrap.addEventListener("dblclick", () => fitView(true));
+
+          window.addEventListener(
+            "keydown",
+            async (e) => {
+              if (e.code === "Space") {
+                state.spaceDown = true;
+                return;
+              }
+
+              const tag = document.activeElement && document.activeElement.tagName;
+              if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT") return;
+
+              const k = e.key.toLowerCase();
+              const cmdOpen = (e.metaKey || e.ctrlKey) && k === "o";
+              const plainOpen = !e.metaKey && !e.ctrlKey && !e.altKey && !e.shiftKey && k === "o";
+              if (!cmdOpen && !plainOpen) return;
+              e.preventDefault();
+              await openJsonDialog();
+            },
+            true
+          );
+
+          window.addEventListener("keyup", (e) => {
+            if (e.code === "Space") state.spaceDown = false;
+          });
+
+          window.addEventListener("blur", () => {
+            state.spaceDown = false;
+            state.view.isPanning = false;
+            state.view.pointerId = null;
+            dom.viewWrap.classList.remove("panning");
+          });
+
+          window.addEventListener("resize", () => {
+            updateWorldTransform();
+            updateTrendChart();
+            updateHeatmapChart();
+          });
+
+          const enter = (e) => {
+            e.preventDefault();
+            setHint("Rilascia il file project.json", "ok");
+          };
+          const over = (e) => {
+            e.preventDefault();
+          };
+          const leave = (e) => {
+            e.preventDefault();
+            setIdleStatus();
+          };
+          const drop = async (e) => {
+            e.preventDefault();
+            const files = e.dataTransfer && e.dataTransfer.files;
+            const file = files && files[0];
+            if (!file) return;
+            if (!/\.json$/i.test(file.name)) {
+              setHint("Il file trascinato non e' un JSON.", "warn");
+              return;
+            }
+            try {
+              await loadFromJsonFile(file);
+            } catch (err) {
+              setHint(`Errore apertura JSON: ${err.message || err}`, "warn");
+            }
+          };
+          dom.viewWrap.addEventListener("dragenter", enter);
+          dom.viewWrap.addEventListener("dragover", over);
+          dom.viewWrap.addEventListener("dragleave", leave);
+          dom.viewWrap.addEventListener("drop", drop);
+        }
+
+        dom.selNodeStyle.value = "dot";
+        dom.selFilterMode.value = "all";
+        dom.selFilterValue.value = "__all__";
+        dom.selColorMode.value = "action";
+        dom.selColorValue.value = "__all__";
+        dom.chkPreview.checked = true;
+        dom.inpHubThreshold.value = String(state.hubThreshold);
+        dom.selStatsScope.value = state.statsScope;
+        dom.chkSeriesExploring.checked = state.trend.showExploring;
+        dom.chkSeriesMaking.checked = state.trend.showMaking;
+        dom.chkSeriesTotal.checked = state.trend.showTotal;
+        dom.selTimelineScale.value = state.trend.scale;
+        dom.selTimelineBucket.value = state.trend.bucket;
+        setIdleStatus();
+        wireEvents();
+        refreshAnalyticsPanels();
+        window.ThreadscapeUI?.attachToolbarTooltips(
+          document.querySelector("header.ts-toolbar")
+        );
+
+        (async () => {
+          const restored = await restoreSharedProjectFromRoute();
+          if (!restored) await tryAutoloadFromQuery();
+        })();
+      })();
+    </script>
+  </body>
+</html>

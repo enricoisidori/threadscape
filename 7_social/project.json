@@ -13,8 +13,11 @@
         "title": "group formation",
         "type": "",
         "action": null,
-        "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Communication Design",
+          "Critical Theory"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -33,8 +36,12 @@
         "title": "Topic assignment",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Communication Design",
+          "Critical Theory",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -53,8 +60,12 @@
         "title": "Topic analysis and sup-topic research",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Communication Design",
+          "Critical Theory",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -73,8 +84,11 @@
         "title": "SOCIAL CONFLICT",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Communication Design",
+          "Critical Theory"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -93,8 +107,13 @@
         "title": "generational conflict",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Biotechnology",
+          "Bioethics",
+          "Political Philosophy",
+          "Sociology"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -113,8 +132,9 @@
         "title": "social isolation",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -133,8 +153,12 @@
         "title": "economical conflict",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Political Science",
+          "Political Economy",
+          "Sociology"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -153,8 +177,13 @@
         "title": "social struggles and protests",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Urban Studies",
+          "Tourism Studies",
+          "Sociology",
+          "Political Communication"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -173,8 +202,12 @@
         "title": "religious conflict",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Political Science",
+          "Political Economy",
+          "Sociology"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -193,8 +226,12 @@
         "title": "migration flows",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Political Science",
+          "Political Economy",
+          "Sociology"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -213,8 +250,12 @@
         "title": "privacy e identity",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Media Studies",
+          "Political Philosophy",
+          "Sociology"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -233,8 +274,12 @@
         "title": "theme selection",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Communication Design",
+          "Critical Theory",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -253,8 +298,11 @@
         "title": "Review with the professors and further selection",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Communication Design",
+          "Critical Theory"
+        ],
         "tags": [],
         "desc": "search for a small, even reductive, aspect, and exaggerate it, highlight it, give it value to reflect on a bigger thing\n\nimagine what the consequences of a situation would be: what would increasing or decreasing the conflict lead to\n\nwhat is the feeling linked to the issue?\n\nbe critical: there is a continuous narrative about \"everything is going to hell,\" but in reality, the world is always getting better than before\n\nconflict narrative / real conflict\n\ndifferent cultures exist with a different view of reality\n\nmore ironic keys can be used, one does not necessarily have to take the theme seriously and convey it in a serious, stereotyped, and classic way\n\nverify that the themes found match the sub-themes of social conflict\n\nbook: FACTFULNESS by Hans Rosling exhibition: INEQUALITIES at Triennale TV series: The Handmaid's Tale on Netflix",
         "links": [],
@@ -273,8 +321,13 @@
         "title": "climate change and inequality",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Political Science",
+          "Political Economy",
+          "Sociology",
+          "Urban Studies"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -293,8 +346,12 @@
         "title": "political bipolarity",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Political Science",
+          "Political Economy",
+          "Sociology"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -313,8 +370,13 @@
         "title": "generational conflict",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Urban Studies",
+          "Tourism Studies",
+          "Sociology",
+          "Biotechnology"
+        ],
         "tags": [],
         "desc": "focus on conflict\n\ndoes it make sense to increase it or try to smooth it out?\n\ntake data into account, categories are useful\n\nsee Alvar Aalto and the 7 cities",
         "links": [],
@@ -333,8 +395,13 @@
         "title": "climate change and inequality",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Political Science",
+          "Political Economy",
+          "Sociology",
+          "Urban Studies"
+        ],
         "tags": [],
         "desc": "it risks being too broad as a theme, we need to narrow it down\n\nlet's try not to talk about good or evil, or giving an opinion, but keep both points of view together\n\nfocus on the system, not on the struggle between people (silent conflict)\n\nit risks becoming an economic/macroeconomic discussion",
         "links": [],
@@ -353,8 +420,9 @@
         "title": "social isolation",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "what is the real conflict? \n\nin what way does this generate conflict?",
         "links": [],
@@ -373,8 +441,12 @@
         "title": "privacy and identity",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Media Studies",
+          "Political Philosophy",
+          "Sociology"
+        ],
         "tags": [],
         "desc": "theme narrows down a lot\n\ncareful: already similar projects\n",
         "links": [],
@@ -393,8 +465,12 @@
         "title": "Brainstorming and research on selected themes or new more specific details",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Communication Design",
+          "Critical Theory",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -413,8 +489,13 @@
         "title": "generational conflict and privacy",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Biotechnology",
+          "Bioethics",
+          "Political Philosophy",
+          "Sociology"
+        ],
         "tags": [],
         "desc": "There are sounds – like ultrasounds – that are only audible to young people and imperceptible to those who are older.",
         "links": [],
@@ -433,8 +514,13 @@
         "title": "historical trauma",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Psychology",
+          "Cultural Studies",
+          "Bioethics",
+          "Sociology"
+        ],
         "tags": [],
         "desc": "Historical trauma and the collective memory of past injustices can perpetuate social conflicts across generations, fueling resentment, grievances, and hostility between groups.",
         "links": [],
@@ -453,8 +539,13 @@
         "title": "hostile architecture",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Architecture",
+          "Urban Studies",
+          "Political Economy",
+          "Sociology"
+        ],
         "tags": [],
         "desc": "Hostile architecture is a design approach for public spaces that incorporates physical elements (uncomfortable benches, central armrests, spikes, sloped surfaces, etc.) intended to limit or discourage undesirable behaviors, such as sleeping or lingering.",
         "links": [],
@@ -473,8 +564,13 @@
         "title": "Accesso alla casa e gentrificazione turistica",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Urban Studies",
+          "Tourism Studies",
+          "Sociology",
+          "Architecture"
+        ],
         "tags": [],
         "desc": "The proliferation of short-term rentals (like Airbnb) has transformed entire neighborhoods into temporary hospitality zones, drastically reducing the availability of stable housing for residents.",
         "links": [],
@@ -493,8 +589,13 @@
         "title": "gated communities",
         "type": "",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Media Studies",
+          "Political Philosophy",
+          "Sociology",
+          "Architecture"
+        ],
         "tags": [],
         "desc": "Gated communities are residential neighborhoods enclosed and controlled by gates or private surveillance, designed to guarantee security and privacy for the inhabitants and to separate themselves from the surrounding urban space.",
         "links": [],
@@ -513,8 +614,11 @@
         "title": "review with assistants",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Communication Design",
+          "Critical Theory"
+        ],
         "tags": [],
         "desc": "Good research, aspects that intersect different themes\n\nThere is no risk of spilling over into other conflicts, but of losing the social dynamics linked to our conflict\n\nPractical advice: risk of superficializing and arriving at a simplified output such as: 'this thing is bad.'\n\nLet's not necessarily project ourselves onto futuristic things, we risk not allowing the user to relate, we don't need this 'noise'",
         "links": [],
@@ -533,8 +637,11 @@
         "title": "review with assistants",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Communication Design",
+          "Critical Theory"
+        ],
         "tags": [],
         "desc": "Clear Conflict, great ironic potential\n\nThe aspects we have designed are fine, but we should think about small variations, without changing the core\n\nSome cities want tourists to earn money (city seen as a government that does not primarily want the well-being of its citizens)\n\nWe can start working finely on the tone of voice, values, palette, graphic identity, branding (a couple of proposals)",
         "links": [],
@@ -553,8 +660,11 @@
         "title": "review with assistants",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Communication Design",
+          "Critical Theory"
+        ],
         "tags": [],
         "desc": "1 => build a narrative, but first try to think about what the most important message I want to convey is, the message must be one and clear, e.g., a banal example 'a caste of people exploit the few for their advantage,' the idea that a pension is a privilege, we young people feel we have to work until death. Try to explicitly state the film 'cameos' in the project as much as possible to make them immediately noticeable, so even make them too explicit or conversely use them as a reference and try to deviate; if we don't deviate too much, we need to think of an elegant way to clearly articulate this reference, keep somewhat the same narrative line; the risks of the first lie in the careful work on the references, but he still likes it very much, it just needs to be done in a refined way\n\n2 => meh, anyway, basically he likes it, here too the issue of references, here the main critical point to be careful of is the risk of it becoming a bit too silly, a bit an end in itself\n\nThe point is that it's important first and foremost to get people to think about social conflict, these scenarios are 'excuses' to talk about social conflict, which of the two conveys the message better? either by taking a radical stance or by remaining completely neutral, so I reason carefully about which of the two scenarios helps to convey the message better; perhaps the first tends to be more radical and the second less, what tone of voice do we want to maintain? what message do we want to convey about social conflict?",
         "links": [],
@@ -573,8 +683,12 @@
         "title": "scenario presentation",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Communication Design",
+          "Critical Theory",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "generational conflict\n\noverturism\n\nhistorical trauma\n",
         "links": [],
@@ -593,8 +707,13 @@
         "title": "HISTORICAL TRAUMA",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Psychology",
+          "Cultural Studies"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -613,8 +732,13 @@
         "title": "Context",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Psychology",
+          "Cultural Studies"
+        ],
         "tags": [],
         "desc": "Historical trauma does not belong only to the past: through epigenetics, experiences of suffering can leave biological marks that influence subsequent generations. Research on descendants of survivors of wars, genocides, and discrimination shows how collective stress can translate into psychological and physiological vulnerability. Trauma thus becomes an inheritance that is not only cultural but also genetic.",
         "links": [],
@@ -633,8 +757,13 @@
         "title": "Topic for consideration",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Psychology",
+          "Cultural Studies"
+        ],
         "tags": [],
         "desc": "Inherited trauma can be interpreted in different ways:\n\nas a factor of vulnerability, perpetuating stress and distrust;\n\nor as a biological memory, preserving identity and cultural ties.\n\nThe open question is whether this inheritance represents a limit to be overcome or an element to be understood and maintained.",
         "links": [],
@@ -653,8 +782,13 @@
         "title": "What if",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Psychology",
+          "Cultural Studies"
+        ],
         "tags": [],
         "desc": "In a future where genetic modification is common practice, a pharmaceutical company develops a treatment capable of intervening on the epigenetic markers of trauma. Every individual can choose whether to keep or remove the biological inheritance of pain. Those who decide to eliminate it stop the transmission of trauma to future generations, and also choose to lose the personal memory of the painful experiences from which this inheritance originated.",
         "links": [],
@@ -673,8 +807,13 @@
         "title": "definition and cause of the conflict",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Psychology",
+          "Cultural Studies"
+        ],
         "tags": [],
         "desc": "The conflict arises from the differing interpretations of the relationship between memory and well-being: on one side, those who consider genetic erasure a form of prevention, and on the other, those who deem it necessary to maintain the biological trace of the past as an element of historical continuity.",
         "links": [],
@@ -693,8 +832,13 @@
         "title": "Agents and dynamics of the conflict",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Psychology",
+          "Cultural Studies"
+        ],
         "tags": [],
         "desc": "Scientific institutions and research centers: They study the effects of inherited trauma and develop technologies to reduce its impact, with the aim of improving the mental and biological health of populations.\n\nCultural communities and social groups: They focus attention on the value of shared memory, considering it an essential component of collective identity and historical awareness.\n\nThe Public: They oscillate between the desire to lighten the burden of the past and the willingness to preserve the connection to their origins.",
         "links": [],
@@ -713,8 +857,13 @@
         "title": "Entity-subject",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Biotechnology",
+          "Bioethics"
+        ],
         "tags": [],
         "desc": "We position ourselves as a biotechnology company that offers the choice between remembering and forgetting.\n",
         "links": [],
@@ -733,8 +882,13 @@
         "title": "HISTORICAL TRAUMA",
         "type": "Moodboard",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Visual Culture",
+          "Graphic Design",
+          "Brand Identity",
+          "Communication Design",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -762,8 +916,13 @@
         "title": "GENERATIONAL CONFLICT",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Biotechnology",
+          "Bioethics"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -782,8 +941,13 @@
         "title": "Context",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Biotechnology",
+          "Bioethics"
+        ],
         "tags": [],
         "desc": "In the near future, retirement no longer exists for the majority. A ruling class of elderly and retired people lives thanks to the labor of the new generations, who work until death to maintain their privileges. Generational change is only possible for the elites.",
         "links": [],
@@ -802,8 +966,11 @@
         "title": "Topic for consideration",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design"
+        ],
         "tags": [],
         "desc": "What happens when the survival of the few is founded on the sacrifice of the many? The social contract becomes a system of biological exploitation, where youth is a resource and old age is a privilege to be protected at all costs.",
         "links": [],
@@ -822,8 +989,13 @@
         "title": "What if",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Biotechnology",
+          "Bioethics"
+        ],
         "tags": [],
         "desc": "What if longevity has become the new social privilege? The elderly prolong their lives thanks to the bodies of the young, used as 'biological matter.' Work and the body lose human value, becoming fuel for those who hold the power.",
         "links": [],
@@ -842,8 +1014,13 @@
         "title": "definition and cause of the conflict",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Biotechnology",
+          "Bioethics"
+        ],
         "tags": [],
         "desc": "Conflict between those who live off privilege and those who sustain it. An integrated system of economic power and biotechnology maintains inequality and hinders generational turnover.",
         "links": [],
@@ -862,8 +1039,13 @@
         "title": "Agents and dynamics of the conflict",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Biotechnology",
+          "Bioethics"
+        ],
         "tags": [],
         "desc": "Elderly ruling class: Political power, control of resources.\n\nYoung workers: Productive and biological force.\n\nBiotechnology structures: Instruments of exploitation and control.",
         "links": [],
@@ -882,8 +1064,13 @@
         "title": "Entity-subject",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Biotechnology",
+          "Bioethics"
+        ],
         "tags": [],
         "desc": "A biotechnology company manages human farms for transplants and life extension. It presents itself as a 'guarantor of the future,' but in reality, it transforms the human body into a resource. It is the symbol of a civilization that, in order not to die, devours itself.",
         "links": [],
@@ -902,8 +1089,13 @@
         "title": "GENERATIONAL CONFLICT",
         "type": "Moodboard",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Visual Culture",
+          "Graphic Design",
+          "Brand Identity",
+          "Communication Design",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -931,8 +1123,13 @@
         "title": "OVERTURISM",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -951,8 +1148,13 @@
         "title": "Context",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "In recent years, the phenomenon of overtourism has transformed many European cities, including Barcelona, Venice, and Florence. Mass tourism generates daily discomfort for residents: rising prices, loss of public spaces, and congested streets. At the same time, tourists themselves also experience an impoverished experience: endless queues, overcrowded places, and a lack of authenticity.",
         "links": [],
@@ -971,8 +1173,13 @@
         "title": "Topic for consideration",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "The core issue is not to establish whether tourism is 'right' or 'wrong,' but to question how sustainable the coexistence is between those who live in the city and those who pass through it. What happens when hospitality turns into exasperation? To what extent are residents willing to defend their daily lives?",
         "links": [],
@@ -991,8 +1198,13 @@
         "title": "What if",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "What if, one day, citizens had access to a device that allows them to identify and hit tourists with non-lethal weapons, such as BB guns or paintball guns, turning the city into a kind of gamified hunt? The scenario we imagine is one of extreme tourism, where visiting a city is no longer a cultural experience, but a challenge of survival.\n",
         "links": [],
@@ -1011,8 +1223,13 @@
         "title": "definition and cause of the conflict",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "Definition and reason for the conflict The conflict arises from two opposing needs: The residents want to reclaim their spaces, defending themselves against a perceived invasion. The tourists seek authentic experiences and free access to the cities. The device exacerbates this tension, normalizing the idea that 'hunting tourists' is a legitimate act.",
         "links": [],
@@ -1031,8 +1248,13 @@
         "title": "Agents and dynamics of the conflict",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "The main actors are: \nThe citizens, who become armed players and defenders. The tourists, transformed into collectible targets. The city becomes an arena, where tourism fuels the very conflict that rejects it.",
         "links": [],
@@ -1051,8 +1273,13 @@
         "title": "Entity-subject",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "In this scenario, a technology company specializing in 'playful urban defense' emerges. Its role is to provide tools that respond to the residents' need to reassert control over the city. But at the same time, it intercepts a new market: adrenaline tourism. A short circuit where protest becomes entertainment.",
         "links": [],
@@ -1071,8 +1298,13 @@
         "title": "OVERTURISM",
         "type": "Moodboard",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Visual Culture",
+          "Graphic Design",
+          "Brand Identity",
+          "Communication Design",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -1100,8 +1332,13 @@
         "title": "WHO WE ARE",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Communication Design",
+          "Brand Strategy"
+        ],
         "tags": [],
         "desc": "We are a private company operating in the field of human biotechnology applied to longevity. In a society that has surpassed the natural limits of age and reproduction, our task is to ensure vital continuity through a system of breeding and biological optimization of the new generations.\n\nYoung people today represent an essential resource: they are used as a source of 'Linfa' (Sap/Lifeblood), an organic substance indispensable for prolonging the lives of the elderly population. Thanks to our progress in the medical and engineering fields, it is now possible to regenerate organs, tissues, and vital functions by transferring biological components from the healthiest subjects to those in need. Our goal is to guarantee longevity to the elderly population through the exploitation of the new generations.",
         "links": [],
@@ -1120,8 +1357,13 @@
         "title": "PROGRAM'S LIFE CYCLE",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Biotechnology",
+          "Bioethics"
+        ],
         "tags": [],
         "desc": "Birth → registration and cataloging according to biological and genetic parameters.\n\nProductive Age → entry into the work cycle and controlled physiological maintenance.\n\nProgrammed Reproduction → generation of new biological units.\n\nExtraction of the Linfa (Lifeblood/Sap) → progressive harvesting until the subject's natural exhaustion.\n\nOrganic Recovery → removal of tissues and organs for regenerative and surgical procedures.",
         "links": [],
@@ -1140,8 +1382,13 @@
         "title": "VISION",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Speculative Design",
+          "Critical Design",
+          "Communication Design",
+          "Brand Strategy"
+        ],
         "tags": [],
         "desc": "We imagine a future where life is no longer a universal right, but a resource to be administered precisely. Our mission is to make the longevity of a portion of the population efficient and controlled. A world where every drop of lifeblood finds its purpose.",
         "links": [],
@@ -1160,8 +1407,11 @@
         "title": "DEVICE",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Human-Computer Interaction",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "Our biological management system is composed of two interconnected devices: a personal wearable and a domestic totem.",
         "links": [],
@@ -1180,8 +1430,13 @@
         "title": "WEARABLE",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Human-Computer Interaction",
+          "Speculative Design",
+          "Biotechnology",
+          "Bioethics"
+        ],
         "tags": [],
         "desc": "A biometric pendant for the elderly, to be worn around the neck, designed to track in real-time: the Linfa (Lifeblood/Sap) level; vital parameters;\n\nThe device constantly sends data to the Totem, ensuring continuous and transparent monitoring of vital performance.",
         "links": [],
@@ -1209,8 +1464,13 @@
         "title": "TOTEM",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Human-Computer Interaction",
+          "UX Design",
+          "Creative Coding",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "A desktop object with a minimalist design, about the size of a small household appliance. In the upper section, an interactive screen displays: the profile of the assigned young person; their vital statistics; the availability of purchasable organs or biological components.\n\nThe lower section contains reserves of Linfa-based products, ready for daily consumption. The Totem and the Wearable operate in synergy, suggesting when and what to consume to maintain the elderly user's optimal vital parameters.",
         "links": [],
@@ -1229,8 +1489,13 @@
         "title": "MEDICAL KIT",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design",
+          "Biotechnology",
+          "Bioethics",
+          "Political Philosophy",
+          "Sociology"
+        ],
         "tags": [],
         "desc": "a medical kit for the elderly medicines to maintain youth and strength, etc. → imagining that young people possess a special 'sap of youth,' we can play with creating bags of hypothetical materials that grant strength, beauty, etc., like miracle cures syringes for injecting the sap parts of 'synthetic' membranes or organs created from studies on the young patches that gradually release the sap of youth for critical situations pill boxes Petri dish where tissue can be 'grown' starting from that of a young donor device that allows monitoring various parameters (always related to youth, such as a percentage of youth, both physical and mental, and general state of health), but also, for example, to find if there are compatible young people to donate organs (maybe the idea of using identification codes for young people, as if they were just a number) imagining that every elderly person can find a perfect donor → device that allows the extraction and conservation of the 'sap of youth' + related instruction manual labels written with 'donor n.010192,' age, and important parameters (always emphasizing that young people are just a number)? I like the concept of 'sap' and it would be cool to make it a crazy color like neon, silver, or black (?) because it detaches from the idea we have of normal bodily fluids",
         "links": [],
@@ -1258,8 +1523,13 @@
         "title": "WHO WE ARE 1.1",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "A private company identifies an opportunity for profit in the problem of overtourism. It therefore decides to intervene, offering an exasperated citizenry a product, a game, presented as the solution to their discomfort. In this way, the company positions itself above the two conflicting groups, exploiting the tension between tourists and residents to gain an economic advantage.",
         "links": [],
@@ -1278,8 +1548,13 @@
         "title": "WHERE",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "In the European locations (especially large cities) most affected by this phenomenon.\n\nSome are: -Barcelona -Lisbon -Berlin -Florence -Venice -Rome\n\n*mostly large European cities",
         "links": [],
@@ -1298,8 +1573,12 @@
         "title": "CURRENT SCENARIO",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -1327,8 +1606,13 @@
         "title": "CONFLICT ACTORS",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Speculative Design",
+          "Urban Studies"
+        ],
         "tags": [],
         "desc": "citizens vs tourists",
         "links": [],
@@ -1347,8 +1631,13 @@
         "title": "WHY THE CONFLICT EXISTS",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Speculative Design",
+          "Urban Studies"
+        ],
         "tags": [],
         "desc": "The core issue is not establishing whether tourism is 'right' or 'wrong,' but questioning how sustainable the coexistence is between those who live in the city and those who pass through it. -What happens when hospitality becomes exasperation? -To what extent are residents willing to defend their daily life?",
         "links": [],
@@ -1367,8 +1656,13 @@
         "title": "WHAT IF",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Speculative Design",
+          "Urban Studies"
+        ],
         "tags": [],
         "desc": "What if citizens could hunt tourists to take back the city?",
         "links": [],
@@ -1384,11 +1678,16 @@
       "group": null,
       "data": {
         "date": "2025-10-21",
-        "title": "SPECULATIVE SCENARIO",
+        "title": "Speculative SCENARIO",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Speculative Design",
+          "Urban Studies"
+        ],
         "tags": [],
         "desc": "We place ourselves in the near future, where the problem of overtourism (already severe today) has not only not been resolved, but has worsened further. Let's imagine a community of exasperated residents who, after years of unheard protests and increasing frustration, find themselves living in an unsustainable situation. Faced with the inertia of the institutions, the desire to find increasingly radical solutions grows among them.",
         "links": [],
@@ -1407,8 +1706,13 @@
         "title": "OUR OBJECTIVES",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "Exploiting the citizens' discontent and the overtourism crisis to transform collective discomfort into a profitable recreational experience.\n\nInstead of solving the problem, we fuel it, converting social frustration into entertainment and profit.",
         "links": [],
@@ -1427,8 +1731,13 @@
         "title": "PRODUCT",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "The kit \nThe main product sold to citizens is a 'urban hunter' kit, composed of: A Paintball gun, with additional accessories. A Recognition Device, which allows for the identification and collection (tagging/scoring) of tourists.",
         "links": [],
@@ -1447,8 +1756,13 @@
         "title": "GAME RULES",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "Hunting seasons: the game is structured into seasons (events), determined by the peaks of tourist influx in different cities (for example, Milan in winter, Barcelona in summer).\n\nTeam play: players act in groups, collaborating to achieve common goals that determine the community's success. However, there are also individual milestones, which reward single players upon completion of specific personal achievements.\n\nScoring system: points are accumulated through the 'collection' of different categories of hit tourists, categorized by levels of rarity based on predetermined parameters.",
         "links": [],
@@ -1467,9 +1781,12 @@
         "title": "Le molte proteste contro i turisti nelle città italiane",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
-          "Article"
+          "Journalism",
+          "Urban Studies",
+          "Tourism Studies",
+          "Political Communication",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "",
@@ -1491,9 +1808,12 @@
         "title": "Tra Italia, Spagna e Portogallo si è tenuta una delle più grandi proteste del movimento contro l’overtourism",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
-          "Article"
+          "Journalism",
+          "Urban Studies",
+          "Tourism Studies",
+          "Political Communication",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "",
@@ -1515,9 +1835,12 @@
         "title": " Ai movimenti contro l’overtourism la protesta non basta più",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
-          "Article"
+          "Journalism",
+          "Urban Studies",
+          "Tourism Studies",
+          "Political Communication",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "",
@@ -1539,9 +1862,12 @@
         "title": "Le proteste contro l'overtourism nelle principali città europee",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
-          "Article"
+          "Journalism",
+          "Urban Studies",
+          "Tourism Studies",
+          "Political Communication",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "",
@@ -1563,9 +1889,12 @@
         "title": "Il 15 giugno in tutta Europa ci saranno manifestazioni contro il turismo. L'attivista italiana: «Il turismo non ci salverà, anzi, mette a rischio il diritto di vivere nelle nostre di città»",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
-          "Article"
+          "Journalism",
+          "Urban Studies",
+          "Tourism Studies",
+          "Political Communication",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "",
@@ -1587,8 +1916,13 @@
         "title": "tourists' identification",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "research of a method to identify tourists: typical tourists' objects? their ethnical features?",
         "links": [],
@@ -1607,8 +1941,13 @@
         "title": "device",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Human-Computer Interaction",
+          "UX Design",
+          "Creative Coding",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "a paintball gun to shoot tourists, without hurting them, but disturbing them and creating nuisance.",
         "links": [],
@@ -1627,8 +1966,13 @@
         "title": "Arduino",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Physical Computing"
+        ],
         "tags": [],
         "desc": "research for the use of an external camera, a screen as a sight (or viewfinder), and a button as a trigger.",
         "links": [],
@@ -1647,8 +1991,13 @@
         "title": "phone integration",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "Following the professors' advice, we opted for using the phone instead of a camera and sight (or viewfinder).",
         "links": [],
@@ -1667,8 +2016,13 @@
         "title": "Web App",
         "type": "Research",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "development of a web app that can use the phone's camera to recognize tourists and insert them into an archive.",
         "links": [],
@@ -1687,8 +2041,13 @@
         "title": "Swift UI",
         "type": "Research",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "switching to app development in order to have more control and greater integration.",
         "links": [],
@@ -1707,8 +2066,13 @@
         "title": "Vibrant motor arduino",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Physical Computing",
+          "Electronics Prototyping"
+        ],
         "tags": [],
         "desc": "integration of two vibrating motors via Arduino, activated by a button, to simulate the firing effect when the trigger is pressed.",
         "links": [],
@@ -1736,8 +2100,12 @@
         "title": "Vibrant motor arduino",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Physical Computing",
+          "Electronics Prototyping",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -1765,8 +2133,12 @@
         "title": "weapon draft 1",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Physical Computing",
+          "Electronics Prototyping",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "first draft of the weapon, with integrated sight and camera, and connection to the phone to keep track of the archive of hit tourists.",
         "links": [],
@@ -1794,8 +2166,12 @@
         "title": "weapon draft 1.2",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Physical Computing",
+          "Electronics Prototyping",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "second draft of the weapon with a transparent sight, camera and trigger connected to Arduino + smartphone attached to keep track of tourists and statistics.",
         "links": [],
@@ -1823,8 +2199,12 @@
         "title": "weapon draft 1.3",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Physical Computing",
+          "Electronics Prototyping",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "third draft of the weapon, with an organic shell/body, integrated sight, smartphone, and camera.",
         "links": [],
@@ -1852,8 +2232,11 @@
         "title": "Iphone Dock",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Journalism",
+          "Political Communication",
+          "Interaction Design"
+        ],
         "tags": [],
         "desc": "Iphone dock by Scott Yu Jan",
         "links": [],
@@ -1881,8 +2264,12 @@
         "title": "weapon draft 2.1",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Physical Computing",
+          "Electronics Prototyping",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "fourth draft of the weapon with a sight, LEDs, camera, and a screen instead of the phone that only shows the number of tourists hit during the session.",
         "links": [],
@@ -1910,8 +2297,12 @@
         "title": "weapon draft 3.1",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Physical Computing",
+          "Electronics Prototyping",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "fifth draft of the weapon, complete and futuristic shell/body, with grip, magazine integration of the phone as a sight/viewfinder, with an integrated camera",
         "links": [],
@@ -1939,8 +2330,12 @@
         "title": "weapon draft 3.1",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Physical Computing",
+          "Electronics Prototyping",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -1968,8 +2363,11 @@
         "title": "Magazine draft 3.1",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Design Research",
+          "Interaction Design"
+        ],
         "tags": [],
         "desc": "idea of a cartridge magazine, with wings/tabs (or fins) for extraction and changing.",
         "links": [],
@@ -1997,8 +2395,11 @@
         "title": "Submachine gun FN P-ninety",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Journalism",
+          "Political Communication",
+          "Interaction Design"
+        ],
         "tags": [],
         "desc": "The FN P90 is a personal defense weapon chambered for the 5.7×28mm cartridge, also classified as a submachine gun, designed and manufactured by FN Herstal in Belgium",
         "links": [],
@@ -2026,8 +2427,11 @@
         "title": "Packaging",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Human-Computer Interaction",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "Our weapon will be shipped to citizens inside a box that will also contain a flyer with instructions, some ammunition, and welcome badges.",
         "links": [],
@@ -2046,8 +2450,11 @@
         "title": "Bozza packaging 1.1",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Design Research",
+          "Interaction Design"
+        ],
         "tags": [],
         "desc": "metal briefcase, in the style of a weapon case",
         "links": [],
@@ -2075,8 +2482,10 @@
         "title": "Packaging Issues 1.1",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Interaction Design"
+        ],
         "tags": [],
         "desc": "limited possibility for customization, very large weapon dimensions which would result in a box that is too wide/large and inconvenient.",
         "links": [],
@@ -2095,8 +2504,11 @@
         "title": "briefcase",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Journalism",
+          "Political Communication",
+          "Interaction Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -2124,8 +2536,11 @@
         "title": "Interlocking cardboard boxes",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Journalism",
+          "Political Communication",
+          "Interaction Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -2153,8 +2568,11 @@
         "title": "packaging draft 2.1",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Design Research",
+          "Interaction Design"
+        ],
         "tags": [],
         "desc": "Interlocking plywood box",
         "links": [],
@@ -2182,8 +2600,11 @@
         "title": "packaging draft 2.1",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Design Research",
+          "Interaction Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -2211,8 +2632,11 @@
         "title": "1:1 Styrofoam prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "styrofoam prototype to understand the weapon's dimensions/size, usability, and user interaction.",
         "links": [],
@@ -2240,8 +2664,12 @@
         "title": "1:1 Vector view of the weapon",
         "type": "Sketch",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "Physical Computing",
+          "Electronics Prototyping",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -2269,8 +2697,12 @@
         "title": "webapp prototype 1.1",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "prototype made in figma of the webapp's main pages",
         "links": [],
@@ -2298,8 +2730,12 @@
         "title": "SHOP",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "development of a shop page within the web app to allow the purchase of accessories, weapon add-ons, and ammunition.",
         "links": [],
@@ -2327,8 +2763,12 @@
         "title": "webapp prototype 1.2",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "continuing prototype on figma by adding pages and functionalities and trying out a new style",
         "links": [],
@@ -2356,8 +2796,11 @@
         "title": "WALL",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "substituted shop page, now in our opinion superfluous, with a \"wall\" page that is meant to help our community connect through sharing posts in-app, prototyped",
         "links": [],
@@ -2385,8 +2828,12 @@
         "title": "Website",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "website that supports the communication and makes it possible for the citizen to buy our product",
         "links": [],
@@ -2405,8 +2852,11 @@
         "title": "homepage",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "figma prototype",
         "links": [],
@@ -2434,8 +2884,11 @@
         "title": "shop and check out",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "figma prototype",
         "links": [],
@@ -2463,8 +2916,13 @@
         "title": "WHO WE ARE 2.1",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "Transition into a DAO (Decentralized Autonomous Organization) to return control and decision-making power directly to the community.\nReclaim is a community-managed solution addressing an issue that affects all its participants, creating a product that is an actual solution to the issue of overtourism.",
         "links": [],
@@ -2483,8 +2941,12 @@
         "title": "website new direction",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "after becoming a DAO and changing our communication style, we give much more importance to the website, that has to contain our intentions, ideals, and our product. we use Antigravity to code the website.",
         "links": [],
@@ -2503,8 +2965,12 @@
         "title": "communication",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "exploration of different options such as using halftone, pixels or ascii",
         "links": [],
@@ -2523,8 +2989,13 @@
         "title": "packaging materials and printing",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "research about materials and printing for the packaging.",
         "links": [],
@@ -2543,8 +3014,12 @@
         "title": "website new prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "figma prototype of the new website",
         "links": [],
@@ -2572,8 +3047,12 @@
         "title": "Website coding",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "coding the website basing ourselves on our prototype, different inspos and reviews with professors.",
         "links": [],
@@ -2601,8 +3080,12 @@
         "title": "APP",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "Coding of the \"app\" page in the website.",
         "links": [],
@@ -2621,8 +3104,13 @@
         "title": "WHO WE ARE 1.2",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Urban Studies",
+          "Tourism Studies"
+        ],
         "tags": [],
         "desc": "We become more of a high-tech, morally grey company, looking at overtourism as an opportunity to profit off of a problem to which we give the best, most simple and most direct solution: starting an active war between citizens and tourists.",
         "links": [],
@@ -2641,8 +3129,12 @@
         "title": "webapp coding",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "coding the webapp manually basing ourselves on the figma prototype.",
         "links": [],
@@ -2670,8 +3162,13 @@
         "title": "Swift UI",
         "type": "Research",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Design Research",
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "switching to app development in order to have more control and greater integration.",
         "links": [],
@@ -2690,8 +3187,11 @@
         "title": "wall page",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "coded a functioning wall page for the community in the app.",
         "links": [],
@@ -2719,8 +3219,12 @@
         "title": "RECLAIM option 1 MOODBOARD",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Visual Culture",
+          "Graphic Design",
+          "Brand Identity",
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "playful and fun",
         "links": [],
@@ -2748,8 +3252,12 @@
         "title": "RECLAIM option 2 MOODBOARD",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Visual Culture",
+          "Graphic Design",
+          "Brand Identity",
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "military",
         "links": [],
@@ -2777,8 +3285,11 @@
         "title": "RECLAIM op 1 concept",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -2806,8 +3317,11 @@
         "title": "RECLAIM op 2 concept",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -2835,8 +3349,12 @@
         "title": "RECLAIM op 1 outputs",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -2864,8 +3382,12 @@
         "title": "RECLAIM op 2 outputs",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -2893,8 +3415,11 @@
         "title": "RECLAIM op 2.2",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication"
+        ],
         "tags": [],
         "desc": "After becoming a high-tech, morally grey company, we decide to adapt our communication",
         "links": [],
@@ -2922,8 +3447,12 @@
         "title": "RECLAIM op 2.2 output 1",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "posters to enrage the citizens and invite them to join reclaim",
         "links": [],
@@ -2951,8 +3480,12 @@
         "title": "RECLAIM op 2.2 output 2",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "stickers representing the objects to look out for and shoot at",
         "links": [],
@@ -2980,8 +3513,12 @@
         "title": "RECLAIM op 2.2 output 3",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "magnetic badges to put on the reclaim rifle.",
         "links": [],
@@ -3009,8 +3546,12 @@
         "title": "RECLAIM op 2.2 output 4",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "brochure to put in the packaging",
         "links": [],
@@ -3038,8 +3579,11 @@
         "title": "RECLAIM op 2.3",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication"
+        ],
         "tags": [],
         "desc": "BAGDES: still in use, updated\n\nPOSTERS: no longer used, substituted by stencils\n\nSTICKERS: no longer used, substituted by stencils\n\nBROCHURE: still in use, updated",
         "links": [],
@@ -3067,8 +3611,12 @@
         "title": "RECALIM op 2.3 STENCIL company",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "stencils are now the main way we communicate as a DAO",
         "links": [],
@@ -3096,8 +3644,12 @@
         "title": "RECLAIM op 2.3 STENCIL community",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "we give stencils and spray cans in the packaging containing the weapon, giving our community the opportunity to mark their city as they please",
         "links": [],
@@ -3125,8 +3677,12 @@
         "title": "RECLAIM op 2.3 BADGES updated",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "updated badge design",
         "links": [],
@@ -3154,8 +3710,12 @@
         "title": "RECLAIM op 2.3 BROCHURE updated",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "updated trifold brochure design, work in progress",
         "links": [],
@@ -3183,8 +3743,12 @@
         "title": "RECLAIM op 2.3 MANIFESTO",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "a manifesto, downloadable from our website, we and our community put up in the streets to communicate our cause and why we do what we do.",
         "links": [],
@@ -3212,8 +3776,13 @@
         "title": "Vibrant motor Arduino development",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Physical Computing",
+          "Electronics Prototyping"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3241,8 +3810,11 @@
         "title": "Weapon's first 3D print",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "First 3D print of the weapon to check weight, size and have a prototype that is as close as possible to the final product",
         "links": [],
@@ -3261,8 +3833,11 @@
         "title": "Sanding the first printed prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3290,8 +3865,12 @@
         "title": "Updated brochure",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "Practically finished brochure, switched to an a6 format",
         "links": [],
@@ -3310,8 +3889,12 @@
         "title": "Book",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication",
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "table of contents for the exam book",
         "links": [],
@@ -3339,8 +3922,12 @@
         "title": "Grids",
         "type": "Artefact",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "Different grids tryouts",
         "links": [],
@@ -3368,8 +3955,12 @@
         "title": "First pages design",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3397,8 +3988,13 @@
         "title": "packaging render",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture",
+          "Packaging Design"
+        ],
         "tags": [],
         "desc": "render of the packaging as it is supposed to look like inside",
         "links": [],
@@ -3426,8 +4022,12 @@
         "title": "Website update",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "Updating design of different website pages based on the reviews",
         "links": [],
@@ -3455,8 +4055,11 @@
         "title": "Updating battle mode",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "Reiewing and correcting battle mode in the app",
         "links": [],
@@ -3484,8 +4087,13 @@
         "title": "Measuring arduino to prototype the trigger",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Physical Computing",
+          "Electronics Prototyping"
+        ],
         "tags": [],
         "desc": "Figuring out measures for arduino elements to fit in the rifile and create the trigger.",
         "links": [],
@@ -3513,8 +4121,13 @@
         "title": "Trigger prototype",
         "type": "Research",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Physical Computing",
+          "Electronics Prototyping"
+        ],
         "tags": [],
         "desc": "Final trigger design",
         "links": [],
@@ -3542,8 +4155,11 @@
         "title": "First prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "Finished first printed prototype",
         "links": [],
@@ -3571,8 +4187,11 @@
         "title": "Rendering final rifle prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "3d rendering the final corrected prototype",
         "links": [],
@@ -3600,8 +4219,13 @@
         "title": "Final printed prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Physical Computing",
+          "Electronics Prototyping"
+        ],
         "tags": [],
         "desc": "Final printed rifle prototype which opens up to host the trigger and arduino system",
         "links": [],
@@ -3629,8 +4253,11 @@
         "title": "Fixing homepage",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "Fixing details in the homepage based on a few reviews",
         "links": [],
@@ -3658,8 +4285,11 @@
         "title": "Battle mode animation",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "Creating an animation to show when the user shoots in the battle mode",
         "links": [],
@@ -3695,8 +4325,11 @@
         "title": "Animation sound pairing",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "Pairing a sound to the shooting animation",
         "links": [],
@@ -3724,8 +4357,12 @@
         "title": "Final website",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction",
+          "Creative Coding"
+        ],
         "tags": [],
         "desc": "Final version of the Reclaim website",
         "links": [],
@@ -3753,8 +4390,12 @@
         "title": "Photos for mockups",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "Taking pictures to create our own mockups, more realistic",
         "links": [],
@@ -3782,8 +4423,12 @@
         "title": "New mockups",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "Creating our own mockups strating from photos taken by ourselves",
         "links": [],
@@ -3819,8 +4464,11 @@
         "title": "Finished wall page in app",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3848,8 +4496,11 @@
         "title": "Almost finished prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "Final prototype painted, almost fully finished",
         "links": [],
@@ -3877,8 +4528,11 @@
         "title": "App icon",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3906,8 +4560,13 @@
         "title": "finished packaging (outside)",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture",
+          "Packaging Design"
+        ],
         "tags": [],
         "desc": "Fully finished packaging as seen from outside, with detailing showing the interlocking mechanism",
         "links": [],
@@ -3943,8 +4602,11 @@
         "title": "Final rifle prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "Fully finished prototype with badges",
         "links": [],
@@ -3980,8 +4642,11 @@
         "title": "Adjusting recognition system",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design",
+          "UX Design",
+          "Human-Computer Interaction"
+        ],
         "tags": [],
         "desc": "Photos to train fully the recognition system in battle mode",
         "links": [],
@@ -4009,8 +4674,11 @@
         "title": "Finished long length video storyboard",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -4038,8 +4706,11 @@
         "title": "Final long length video",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Brand Strategy",
+          "Political Communication"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -4067,8 +4738,13 @@
         "title": "Inside packaging cut-out",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture",
+          "Packaging Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -4096,8 +4772,12 @@
         "title": "New manifesto design",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "Final manifesto design based on reviews",
         "links": [],
@@ -4125,8 +4805,12 @@
         "title": "Fully finished book",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design",
+          "Graphic Design",
+          "Brand Identity",
+          "Visual Culture"
+        ],
         "tags": [],
         "desc": "Example of a double page in the final design of the exam book",
         "links": [],
@@ -5137,7 +5821,36 @@
   ],
   "vocab": {
     "areas": [
-      "Article"
+      "Architecture",
+      "Bioethics",
+      "Biotechnology",
+      "Brand Identity",
+      "Brand Strategy",
+      "Communication Design",
+      "Creative Coding",
+      "Critical Design",
+      "Critical Theory",
+      "Cultural Studies",
+      "Design Research",
+      "Electronics Prototyping",
+      "Graphic Design",
+      "Human-Computer Interaction",
+      "Interaction Design",
+      "Journalism",
+      "Media Studies",
+      "Packaging Design",
+      "Physical Computing",
+      "Political Communication",
+      "Political Economy",
+      "Political Philosophy",
+      "Political Science",
+      "Psychology",
+      "Sociology",
+      "Speculative Design",
+      "Tourism Studies",
+      "UX Design",
+      "Urban Studies",
+      "Visual Culture"
     ],
     "tags": [],
     "type": [

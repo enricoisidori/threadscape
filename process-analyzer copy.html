@@ -1,0 +1,2029 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Process Analysis</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <style>
+      :root {
+        --bg: #f5f5f5;
+        --panel: #ffffff;
+        --ink: #111111;
+        --muted: #6f6f6f;
+        --line: rgba(0, 0, 0, 0.1);
+        --btn-hover: rgba(0, 0, 0, 0.06);
+        --btn-active: rgba(0, 0, 0, 0.1);
+        --focus-ring: rgba(0, 0, 0, 0.24);
+        --ok: #2f8f52;
+        --warn: #a66a12;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+      }
+
+      body {
+        background: var(--bg);
+        color: var(--ink);
+        font: 14px/1.4 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          Roboto, sans-serif;
+        overflow: hidden;
+      }
+
+      .app {
+        width: 100%;
+        height: 100%;
+        display: grid;
+        grid-template-rows: auto minmax(0, 1fr);
+      }
+
+      .layout {
+        min-height: 0;
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 360px;
+      }
+
+      #viewWrap {
+        position: relative;
+        min-width: 0;
+        min-height: 0;
+        overflow: hidden;
+        border-right: 1px solid var(--line);
+        background: #f7f7f7;
+        touch-action: none;
+      }
+
+      #viewWrap.panning {
+        cursor: grabbing;
+      }
+
+      #world {
+        position: absolute;
+        left: 0;
+        top: 0;
+        transform-origin: 0 0;
+      }
+
+      #edges {
+        position: absolute;
+        inset: 0;
+        overflow: visible;
+        pointer-events: none;
+      }
+
+      #edges path {
+        fill: none;
+        stroke: rgba(16, 16, 16, 0.62);
+        stroke-width: 1.8;
+        vector-effect: non-scaling-stroke;
+      }
+
+      #edges path.weak {
+        stroke-dasharray: 9 7;
+      }
+
+      #edges path.dim {
+        opacity: 0.2;
+      }
+
+      #nodesLayer {
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+
+      .pnode {
+        position: absolute;
+        border: 1px solid var(--nodeBorder, #111111);
+        border-radius: 8px;
+        background: #ffffff;
+        color: #111;
+        overflow: hidden;
+        cursor: pointer;
+        user-select: none;
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+        transition: opacity 0.12s ease;
+      }
+
+      .pnode.dim {
+        opacity: 0.24;
+      }
+
+      .pnode.selected {
+        box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.85);
+        z-index: 8;
+      }
+
+      .pnode.style-card {
+        padding: 0;
+        overflow: visible;
+      }
+
+      .pnode.style-card .body {
+        padding: 8px;
+      }
+
+      .pnode.style-card .title {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 1.2;
+        overflow: hidden;
+      }
+
+      .pnode.style-card .meta {
+        font-size: 11px;
+        color: #5f5f5f;
+        line-height: 1.3;
+      }
+
+      .pnode.style-card .divider {
+        height: 1px;
+        margin: 6px 0;
+        background: rgba(0, 0, 0, 0.14);
+      }
+
+      .pnode.style-card .kv {
+        display: grid;
+        grid-template-columns: 64px 1fr;
+        gap: 4px 6px;
+        font-size: 11px;
+      }
+
+      .pnode.style-card .kv div:nth-child(odd) {
+        color: #686868;
+      }
+
+      .pnode.style-card .descBlock {
+        margin-top: 4px;
+      }
+
+      .pnode.style-card .descTitle {
+        margin-top: 2px;
+        font-size: 11px;
+        color: #686868;
+      }
+
+      .pnode.style-card .desc {
+        margin-top: 2px;
+        font-size: 11px;
+        line-height: 1.32;
+        white-space: pre-wrap;
+      }
+
+      .pnode.style-card .images {
+        margin-top: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }
+
+      .pnode.style-card .images img {
+        display: block;
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        border-radius: 6px;
+        border: 1px solid rgba(0, 0, 0, 0.14);
+      }
+
+      .pnode.style-card .attachments {
+        margin-top: 8px;
+        font-size: 11px;
+        line-height: 1.3;
+      }
+
+      .pnode.style-card .attachments a {
+        color: #111;
+        text-decoration: underline;
+        margin-right: 8px;
+      }
+
+      .pnode .handle {
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        pointer-events: none;
+      }
+
+      .pnode .handle.out {
+        right: -22px;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+
+      .pnode .handle.in {
+        left: -22px;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+
+      .pnode .handle.out::after {
+        content: "";
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        right: 13px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: #4c4c4c;
+        border: 1px solid #4c4c4c;
+        border-radius: 50%;
+      }
+
+      .pnode .handle.in::after {
+        content: "";
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        left: 13px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: #4c4c4c;
+        border: 1px solid #4c4c4c;
+        clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
+      }
+
+      .pnode.selected .handle.out::after,
+      .pnode.selected .handle.in::after {
+        background: #000000;
+        border-color: #000000;
+      }
+
+      .pnode.style-preview {
+        padding: 0;
+      }
+
+      .pnode.style-preview img {
+        width: 100%;
+        height: calc(100% - 36px);
+        object-fit: cover;
+        display: block;
+      }
+
+      .pnode.style-preview .no-preview {
+        width: 100%;
+        height: calc(100% - 36px);
+        display: grid;
+        place-items: center;
+        font-size: 12px;
+        color: #888;
+        background: #f0f0f0;
+      }
+
+      .pnode.style-preview .title {
+        height: 36px;
+        padding: 8px 9px;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 1.2;
+        overflow: hidden;
+        background: #ffffff;
+      }
+
+      .pnode.style-dot {
+        border-radius: 999px;
+        background: var(--nodeBorder, #111111);
+        border-width: 1.5px;
+        box-shadow: none;
+      }
+
+      .pnode.style-dot .title,
+      .pnode.style-dot .meta,
+      .pnode.style-dot img,
+      .pnode.style-dot .no-preview {
+        display: none;
+      }
+
+      #side {
+        min-height: 0;
+        overflow: auto;
+        background: var(--panel);
+      }
+
+      .panel {
+        border-bottom: 1px solid var(--line);
+        padding: 10px;
+      }
+
+      .panel h2,
+      .panel h3 {
+        margin: 0 0 8px;
+        font-size: 14px;
+        font-weight: 600;
+      }
+
+      .panel h3 {
+        font-size: 12px;
+        color: var(--muted);
+        font-weight: 500;
+      }
+
+      #projectName {
+        margin: 0;
+        font-size: 15px;
+        font-weight: 600;
+      }
+
+      #stats {
+        margin: 5px 0 0;
+        color: var(--muted);
+        font-size: 12px;
+      }
+
+      .ctrl-grid {
+        display: grid;
+        gap: 8px;
+      }
+
+      .ctrl-grid .row {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+        gap: 8px;
+      }
+
+      .field {
+        display: grid;
+        gap: 4px;
+      }
+
+      .field label {
+        font-size: 11px;
+        color: #707070;
+      }
+
+      .side-select,
+      .side-btn {
+        width: 100%;
+        min-height: 30px;
+        border: 1px solid var(--line);
+        border-radius: 7px;
+        background: #fff;
+        color: var(--ink);
+        font: inherit;
+        padding: 5px 8px;
+      }
+
+      .side-select:focus-visible,
+      .side-btn:focus-visible {
+        outline: none;
+        box-shadow: 0 0 0 2px var(--focus-ring);
+      }
+
+      .side-btn {
+        cursor: pointer;
+      }
+
+      .side-btn:hover {
+        background: var(--btn-hover);
+      }
+
+      .check-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        font-size: 12px;
+        color: #4f4f4f;
+      }
+
+      #summary {
+        margin: 0;
+        color: var(--muted);
+        font-size: 12px;
+      }
+
+      .legend-list {
+        display: grid;
+        gap: 6px;
+      }
+
+      .legend-item {
+        display: grid;
+        grid-template-columns: 14px minmax(0, 1fr) auto;
+        align-items: center;
+        gap: 7px;
+        font-size: 12px;
+      }
+
+      .legend-swatch {
+        width: 12px;
+        height: 12px;
+        border-radius: 3px;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+      }
+
+      .legend-name {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      .legend-count {
+        color: #6a6a6a;
+      }
+
+      .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 7px;
+      }
+
+      .stat-box {
+        border: 1px solid var(--line);
+        border-radius: 7px;
+        padding: 7px;
+        background: #fafafa;
+      }
+
+      .stat-k {
+        font-size: 11px;
+        color: #777;
+      }
+
+      .stat-v {
+        margin-top: 2px;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 1.1;
+      }
+
+      .chart-toolbar {
+        display: grid;
+        gap: 8px;
+      }
+
+      .check-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 8px;
+      }
+
+      .check-grid .check-row {
+        font-size: 11px;
+      }
+
+      #trendCanvas {
+        width: 100%;
+        height: 170px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #fff;
+        display: block;
+      }
+
+      #trendHint {
+        margin: 6px 0 0;
+        color: var(--muted);
+        font-size: 11px;
+      }
+
+      .kv {
+        display: grid;
+        grid-template-columns: 74px 1fr;
+        gap: 6px;
+        font-size: 12px;
+      }
+
+      .k {
+        color: #777;
+      }
+
+      #nodeDesc {
+        margin-top: 8px;
+        white-space: pre-wrap;
+        font-size: 12px;
+        line-height: 1.4;
+      }
+
+      #nodeMedia {
+        margin-top: 8px;
+      }
+
+      #nodeMedia img {
+        width: 100%;
+        border: 1px solid var(--line);
+        border-radius: 6px;
+      }
+
+      .ok {
+        color: var(--ok) !important;
+      }
+
+      .warn {
+        color: var(--warn) !important;
+      }
+
+      @media (max-width: 1080px) {
+        .topbar {
+          flex-wrap: wrap;
+        }
+
+        .layout {
+          grid-template-columns: 1fr;
+          grid-template-rows: minmax(0, 1fr) minmax(320px, 46vh);
+        }
+
+        #viewWrap {
+          border-right: none;
+          border-bottom: 1px solid var(--line);
+        }
+      }
+    </style>
+    <link rel="stylesheet" href="./shared-ui.css" />
+    <script src="./shared-ui.js"></script>
+  </head>
+  <body>
+    <div class="app">
+      <header class="topbar ts-toolbar">
+        <div class="nav-left">
+          <button id="btnOpen" class="icon-btn" type="button" data-tip="Open JSON (Cmd/Ctrl+O)">
+            <span class="material-symbols-outlined">file_open</span>
+          </button>
+          <button id="btnFit" class="icon-btn" type="button" data-tip="Fit view">
+            <span class="material-symbols-outlined">fit_screen</span>
+          </button>
+          <div id="navStatus" class="toolbar-status" aria-live="polite"></div>
+        </div>
+        <div class="nav-right">
+          <button id="btnSpace" class="icon-btn switch-btn" type="button" data-tip="Go to Space Analysis">
+            <span class="material-symbols-outlined">view_in_ar</span>
+            <span class="btn-label">Space</span>
+          </button>
+          <button id="btnEditor" class="icon-btn switch-btn" type="button" data-tip="Back to Editor">
+            <span class="material-symbols-outlined">edit</span>
+            <span class="btn-label">Editor</span>
+          </button>
+        </div>
+        <input id="fileInput" type="file" accept="application/json,.json" hidden />
+      </header>
+
+      <main class="layout">
+        <section id="viewWrap">
+          <div id="world">
+            <svg id="edges"></svg>
+            <div id="nodesLayer"></div>
+          </div>
+        </section>
+
+        <aside id="side">
+          <section class="panel">
+            <h2 id="projectName">Nessun progetto caricato</h2>
+            <p id="stats">0 nodes · 0 edges</p>
+          </section>
+
+          <section class="panel">
+            <h3>Visualization controls</h3>
+            <div class="ctrl-grid">
+              <div class="row">
+                <div class="field">
+                  <label for="selNodeStyle">Mostra come</label>
+                  <select id="selNodeStyle" class="side-select">
+                    <option value="card">Nodo</option>
+                    <option value="preview">Anteprima</option>
+                    <option value="dot">Pallino</option>
+                  </select>
+                </div>
+                <div class="field">
+                  <label for="selFilterMode">Filtro</label>
+                  <select id="selFilterMode" class="side-select">
+                    <option value="all">Nodi: tutti</option>
+                    <option value="type">Nodi per type</option>
+                    <option value="action">Nodi per action</option>
+                    <option value="areas">Nodi per areas</option>
+                    <option value="tags">Nodi per tags</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="field">
+                  <label for="selFilterValue">Valore filtro</label>
+                  <select id="selFilterValue" class="side-select">
+                    <option value="__all__">Tutti</option>
+                  </select>
+                </div>
+                <div class="field">
+                  <label for="selColorMode">Colori</label>
+                  <select id="selColorMode" class="side-select">
+                    <option value="none">Nessuno</option>
+                    <option value="action">Action</option>
+                    <option value="macro">Macro area</option>
+                    <option value="type">Type</option>
+                    <option value="areas">Areas</option>
+                    <option value="tags">Tags</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="field">
+                  <label for="selColorValue">Valore colore</label>
+                  <select id="selColorValue" class="side-select">
+                    <option value="__all__">Tutti</option>
+                  </select>
+                </div>
+                <div class="field">
+                  <label>&nbsp;</label>
+                  <button id="btnFitSide" class="side-btn" type="button">Fit mappa</button>
+                </div>
+              </div>
+
+              <label class="check-row">
+                <input id="chkPreview" type="checkbox" checked />
+                Mostra anteprima immagine nei nodi
+              </label>
+
+              <p id="summary">Visibili 0/0 nodi · 0/0 archi</p>
+            </div>
+          </section>
+
+          <section class="panel">
+            <h3>Color legend</h3>
+            <div id="legendList" class="legend-list">
+              <div class="muted">Nessuna legenda disponibile.</div>
+            </div>
+          </section>
+
+          <section class="panel">
+            <h3>Network stats</h3>
+            <div class="ctrl-grid">
+              <div class="row">
+                <div class="field">
+                  <label for="inpHubThreshold">Soglia hub (&gt;=)</label>
+                  <input id="inpHubThreshold" class="side-select" type="number" min="1" step="1" value="4" />
+                </div>
+                <div class="field">
+                  <label for="selStatsScope">Scope</label>
+                  <select id="selStatsScope" class="side-select">
+                    <option value="visible">Visibili</option>
+                    <option value="all">Tutti</option>
+                  </select>
+                </div>
+              </div>
+              <div id="statsGrid" class="stats-grid"></div>
+            </div>
+          </section>
+
+          <section class="panel">
+            <h3>Process timeline</h3>
+            <div class="chart-toolbar">
+              <div class="check-grid">
+                <label class="check-row"><input id="chkSeriesExploring" type="checkbox" checked /> Exploring</label>
+                <label class="check-row"><input id="chkSeriesMaking" type="checkbox" checked /> Making</label>
+                <label class="check-row"><input id="chkSeriesTotal" type="checkbox" checked /> Totali</label>
+              </div>
+              <div class="row">
+                <div class="field">
+                  <label for="selTimelineScale">Scala</label>
+                  <select id="selTimelineScale" class="side-select">
+                    <option value="absolute">Assoluta</option>
+                    <option value="relative">Relativa (%)</option>
+                  </select>
+                </div>
+                <div class="field">
+                  <label for="selTimelineBucket">Raggruppamento</label>
+                  <select id="selTimelineBucket" class="side-select">
+                    <option value="week">Settimana</option>
+                    <option value="month">Mese</option>
+                  </select>
+                </div>
+              </div>
+              <canvas id="trendCanvas" width="620" height="170"></canvas>
+              <p id="trendHint">Serve una data valida nei nodi per popolare il grafico.</p>
+            </div>
+          </section>
+
+          <section class="panel">
+            <h3>Node details</h3>
+            <div id="nodeInfo" class="kv">
+              <div class="k">info</div>
+              <div>Seleziona un nodo.</div>
+            </div>
+            <div id="nodeDesc"></div>
+            <div id="nodeMedia"></div>
+          </section>
+        </aside>
+      </main>
+    </div>
+
+    <script>
+      (() => {
+        const KNOWN_FOLDERS = [
+          "1_linguistic",
+          "2_media",
+          "3_cognitive",
+          "4_metric",
+          "5_symbolic",
+          "6_cultural",
+          "7_social",
+          "8_bureaucratic",
+          "9_digital",
+          "10_ecological",
+          "11_infrastructural",
+        ];
+        const SHARED_PROJECT_KEY = "threadscape.shared.project.v1";
+        const SVG_NS = "http://www.w3.org/2000/svg";
+        const DOT_SIZE_PX = 20;
+        const PREVIEW_WIDTH_PX = 240;
+        const PREVIEW_HEIGHT_PX = 184;
+        const EDGE_NORMAL_WIDTH = 1.8;
+        const EDGE_DOT_MULTIPLIER = 6;
+        const FALLBACK_CATEGORY_COLOR = "#9a9a9a";
+
+        const dom = {
+          viewWrap: document.getElementById("viewWrap"),
+          world: document.getElementById("world"),
+          edges: document.getElementById("edges"),
+          nodesLayer: document.getElementById("nodesLayer"),
+          navStatus: document.getElementById("navStatus"),
+          btnOpen: document.getElementById("btnOpen"),
+          btnFit: document.getElementById("btnFit"),
+          btnFitSide: document.getElementById("btnFitSide"),
+          btnEditor: document.getElementById("btnEditor"),
+          btnSpace: document.getElementById("btnSpace"),
+          fileInput: document.getElementById("fileInput"),
+          projectName: document.getElementById("projectName"),
+          stats: document.getElementById("stats"),
+          selNodeStyle: document.getElementById("selNodeStyle"),
+          selFilterMode: document.getElementById("selFilterMode"),
+          selFilterValue: document.getElementById("selFilterValue"),
+          selColorMode: document.getElementById("selColorMode"),
+          selColorValue: document.getElementById("selColorValue"),
+          chkPreview: document.getElementById("chkPreview"),
+          summary: document.getElementById("summary"),
+          legendList: document.getElementById("legendList"),
+          inpHubThreshold: document.getElementById("inpHubThreshold"),
+          selStatsScope: document.getElementById("selStatsScope"),
+          statsGrid: document.getElementById("statsGrid"),
+          chkSeriesExploring: document.getElementById("chkSeriesExploring"),
+          chkSeriesMaking: document.getElementById("chkSeriesMaking"),
+          chkSeriesTotal: document.getElementById("chkSeriesTotal"),
+          selTimelineScale: document.getElementById("selTimelineScale"),
+          selTimelineBucket: document.getElementById("selTimelineBucket"),
+          trendCanvas: document.getElementById("trendCanvas"),
+          trendHint: document.getElementById("trendHint"),
+          nodeInfo: document.getElementById("nodeInfo"),
+          nodeDesc: document.getElementById("nodeDesc"),
+          nodeMedia: document.getElementById("nodeMedia"),
+        };
+
+        const state = {
+          nodes: [],
+          edges: [],
+          byId: new Map(),
+          rawProject: null,
+          projectName: "",
+          folderName: null,
+          assetBase: "",
+          selected: -1,
+          nodeStyle: "dot",
+          showPreview: true,
+          filterMode: "all",
+          filterValue: "__all__",
+          colorMode: "action",
+          colorValue: "__all__",
+          modeStats: {},
+          hubThreshold: 4,
+          statsScope: "visible",
+          trend: {
+            showExploring: true,
+            showMaking: true,
+            showTotal: true,
+            scale: "absolute",
+            bucket: "week",
+          },
+          worldWidth: 1,
+          worldHeight: 1,
+          idleStatus: "Apri project.json (Open / Cmd/Ctrl+O)",
+          statusTimer: 0,
+          spaceDown: false,
+          view: {
+            zoom: 1,
+            panX: 0,
+            panY: 0,
+            isPanning: false,
+            pointerId: null,
+            downX: 0,
+            downY: 0,
+            lastX: 0,
+            lastY: 0,
+            moved: false,
+            downOnNode: false,
+          },
+        };
+
+        function esc(text) {
+          return String(text ?? "").replace(/[&<>"']/g, (char) => {
+            const map = {
+              "&": "&amp;",
+              "<": "&lt;",
+              ">": "&gt;",
+              '"': "&quot;",
+              "'": "&#39;",
+            };
+            return map[char] || char;
+          });
+        }
+
+        function normValue(value, fallback = "-") {
+          const out = String(value ?? "")
+            .replace(/\s+/g, " ")
+            .trim();
+          return out || fallback;
+        }
+
+        function normalizeAreaName(value) {
+          return String(value ?? "")
+            .replace(/\s+/g, " ")
+            .trim();
+        }
+
+        function canonicalAreaName(value) {
+          const txt = normalizeAreaName(value);
+          if (!txt) return "";
+          const low = txt.toLowerCase();
+          if (low === "speculative" || low === "speculative design")
+            return "Speculative Design";
+          if (low === "communication" || low === "communication design")
+            return "Communication Design";
+          if (low === "interaction" || low === "interaction design")
+            return "Interaction Design";
+          return txt;
+        }
+
+        function areaDedupeKey(value) {
+          return canonicalAreaName(value)
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, " ")
+            .trim()
+            .replace(/\s+/g, " ");
+        }
+
+        function normalizeAreaList(areas, legacyMain = null) {
+          const seen = new Set();
+          const out = [];
+          const push = (raw) => {
+            const mapped = canonicalAreaName(raw);
+            if (!mapped) return;
+            const key = areaDedupeKey(mapped);
+            if (!key || seen.has(key)) return;
+            seen.add(key);
+            out.push(mapped);
+          };
+
+          if (Array.isArray(areas)) {
+            for (const a of areas) push(a);
+          } else {
+            push(areas);
+          }
+          if (Array.isArray(legacyMain)) {
+            for (const a of legacyMain) push(a);
+          } else {
+            push(legacyMain);
+          }
+          return out;
+        }
+
+        function hash(s) {
+          let h = 2166136261;
+          for (let i = 0; i < s.length; i++) {
+            h ^= s.charCodeAt(i);
+            h = Math.imul(h, 16777619);
+          }
+          return h >>> 0;
+        }
+
+        function areaLaneKey(areas, fallbackId) {
+          const scores = { speculative: 0, communication: 0, interaction: 0 };
+          const list = Array.isArray(areas) ? areas : [areas];
+          for (const area of list) {
+            const txt = String(area || "").toLowerCase();
+            if (!txt) continue;
+            if (txt.includes("specul")) scores.speculative += 1;
+            if (txt.includes("comunic") || txt.includes("communicat"))
+              scores.communication += 1;
+            if (txt.includes("inter")) scores.interaction += 1;
+          }
+          const best = Object.entries(scores).sort((a, b) => b[1] - a[1])[0];
+          if (best && best[1] > 0) return best[0];
+          const h = hash(`${fallbackId}_lane`) % 3;
+          if (h === 0) return "speculative";
+          if (h === 1) return "communication";
+          return "interaction";
+        }
+
+        function macroLabel(value) {
+          if (value === "speculative") return "Speculative";
+          if (value === "communication") return "Communication";
+          if (value === "interaction") return "Interaction";
+          return normValue(value);
+        }
+
+        function setIdleStatus(message) {
+          if (typeof message === "string") state.idleStatus = message;
+          if (!dom.navStatus) return;
+          dom.navStatus.textContent = state.idleStatus || "";
+          dom.navStatus.classList.remove("ok", "warn");
+        }
+
+        function setHint(message, level) {
+          if (!dom.navStatus) return;
+          if (state.statusTimer) {
+            window.clearTimeout(state.statusTimer);
+            state.statusTimer = 0;
+          }
+          dom.navStatus.textContent = message;
+          dom.navStatus.classList.remove("ok", "warn");
+          if (level === "ok") dom.navStatus.classList.add("ok");
+          if (level === "warn") dom.navStatus.classList.add("warn");
+          state.statusTimer = window.setTimeout(() => {
+            setIdleStatus();
+          }, 3000);
+        }
+
+        function setRawProject(project) {
+          if (!project) {
+            state.rawProject = null;
+            return;
+          }
+          try {
+            state.rawProject = structuredClone(project);
+          } catch (_) {
+            state.rawProject = JSON.parse(JSON.stringify(project));
+          }
+        }
+
+        function inferFolderNameFromBase(base) {
+          const text = String(base || "").trim().replace(/\/+$/, "");
+          if (!text) return null;
+          if (text.includes("/")) return text.split("/").pop() || null;
+          return text || null;
+        }
+
+        function persistSharedProjectState(source = "process") {
+          if (!state.rawProject) return false;
+          const folderName = state.folderName || inferFolderNameFromBase(state.assetBase);
+          const payload = {
+            version: 1,
+            source,
+            savedAt: Date.now(),
+            folderName: folderName || null,
+            assetBase: state.assetBase || "",
+            label: state.projectName || "",
+            project: state.rawProject,
+          };
+          localStorage.setItem(SHARED_PROJECT_KEY, JSON.stringify(payload));
+          return true;
+        }
+
+        async function restoreSharedProjectFromRoute() {
+          const params = new URLSearchParams(window.location.search);
+          const from = params.get("from");
+          if (!from || from === "process") return false;
+          try {
+            const raw = localStorage.getItem(SHARED_PROJECT_KEY);
+            if (!raw) return false;
+            const payload = JSON.parse(raw);
+            if (!payload || !payload.project) return false;
+            if (payload.source && payload.source !== from) return false;
+
+            await loadProjectData(
+              payload.project,
+              payload.label || payload.folderName || "Project",
+              payload.assetBase || "",
+              payload.folderName || null
+            );
+
+            const fromLabel =
+              from === "editor"
+                ? "Editor"
+                : from === "space"
+                ? "Space Analysis"
+                : "altra vista";
+            setHint(`Progetto ripristinato da ${fromLabel}.`, "ok");
+
+            params.delete("from");
+            const qs = params.toString();
+            const clean = `${window.location.pathname}${qs ? `?${qs}` : ""}`;
+            window.history.replaceState({}, "", clean);
+            return true;
+          } catch (err) {
+            console.warn("Shared-state restore failed", err);
+            setHint("Ripristino progetto non riuscito.", "warn");
+            return false;
+          }
+        }
+
+        function nodeValuesForMode(node, mode) {
+          if (mode === "type") return [normValue(node.type)];
+          if (mode === "action") return [normValue(node.action)];
+          if (mode === "macro") return [areaLaneKey(node.areas, node.id)];
+          if (mode === "areas")
+            return [...new Set((node.areas || []).map((v) => normValue(v)).filter(Boolean))];
+          if (mode === "tags")
+            return [...new Set((node.tags || []).map((v) => normValue(v)).filter(Boolean))];
+          return [];
+        }
+
+        function collectModeStats(mode) {
+          const stats = new Map();
+          for (const node of state.nodes) {
+            const values = nodeValuesForMode(node, mode);
+            for (const value of values) {
+              stats.set(value, (stats.get(value) || 0) + 1);
+            }
+          }
+          state.modeStats[mode] = stats;
+          return stats;
+        }
+
+        function categoryLabel(mode, value) {
+          if (mode === "macro") return macroLabel(value);
+          return normValue(value);
+        }
+
+        function pickPrimaryNodeValue(values, stats) {
+          if (!values.length) return "";
+          if (values.length === 1) return values[0];
+          const sorted = [...values].sort((a, b) => {
+            const ca = stats.get(a) || 0;
+            const cb = stats.get(b) || 0;
+            if (ca !== cb) return cb - ca;
+            return a.localeCompare(b, "it");
+          });
+          return sorted[0];
+        }
+
+        function colorByCategory(mode, value) {
+          if (mode === "action") {
+            const k = String(value || "")
+              .toLowerCase()
+              .trim();
+            if (k === "exploring") return "#00bcd4";
+            if (k === "making") return "#8b5a2b";
+            return FALLBACK_CATEGORY_COLOR;
+          }
+          if (mode === "macro") {
+            if (value === "speculative") return "#f08b3d";
+            if (value === "communication") return "#1f7dd3";
+            if (value === "interaction") return "#2f935c";
+            return FALLBACK_CATEGORY_COLOR;
+          }
+          const h = hash(`${mode}:${value}`) % 360;
+          return `hsl(${h} 62% 46%)`;
+        }
+
+        function ensureSelectValue(select, value) {
+          if (!select) return;
+          const has = [...select.options].some((o) => o.value === value);
+          select.value = has ? value : "__all__";
+        }
+
+        function updateFilterValueOptions() {
+          if (!dom.selFilterMode || !dom.selFilterValue) return;
+          const mode = dom.selFilterMode.value || "all";
+          const prev = dom.selFilterValue.value || "__all__";
+          const options = [{ value: "__all__", label: "Tutti" }];
+          if (mode !== "all") {
+            const stats = collectModeStats(mode);
+            const sorted = [...stats.entries()].sort((a, b) => {
+              if (a[1] !== b[1]) return b[1] - a[1];
+              return a[0].localeCompare(b[0], "it");
+            });
+            for (const [value, count] of sorted) {
+              options.push({
+                value,
+                label: `${categoryLabel(mode, value)} (${count})`,
+              });
+            }
+          }
+          dom.selFilterValue.innerHTML = options
+            .map((o) => `<option value="${esc(o.value)}">${esc(o.label)}</option>`)
+            .join("");
+          ensureSelectValue(dom.selFilterValue, prev);
+        }
+
+        function updateColorValueOptions() {
+          if (!dom.selColorMode || !dom.selColorValue) return;
+          const mode = dom.selColorMode.value || "none";
+          const prev = dom.selColorValue.value || "__all__";
+          const options = [{ value: "__all__", label: "Tutti" }];
+          if (mode !== "none") {
+            const stats = collectModeStats(mode);
+            const sorted = [...stats.entries()].sort((a, b) => {
+              if (a[1] !== b[1]) return b[1] - a[1];
+              return a[0].localeCompare(b[0], "it");
+            });
+            for (const [value, count] of sorted) {
+              options.push({
+                value,
+                label: `${categoryLabel(mode, value)} (${count})`,
+              });
+            }
+          }
+          dom.selColorValue.innerHTML = options
+            .map((o) => `<option value="${esc(o.value)}">${esc(o.label)}</option>`)
+            .join("");
+          ensureSelectValue(dom.selColorValue, prev);
+        }
+
+        function resolveAssetUrl(fileEntry) {
+          if (!fileEntry || !fileEntry.path) return "";
+          const rel = String(fileEntry.path).replace(/^\.\//, "");
+          if (!state.assetBase) return "";
+          return `${state.assetBase}${rel}`;
+        }
+
+        async function detectAssetBase(project) {
+          const sample = (project.nodes || [])
+            .flatMap((n) => ((n.data && Array.isArray(n.data.files)) ? n.data.files : []))
+            .map((f) => f && f.path)
+            .find((p) => typeof p === "string" && p.trim().length > 0);
+
+          if (!sample) return "";
+
+          const candidates = [];
+          const params = new URLSearchParams(window.location.search);
+          const qp = params.get("project");
+          if (qp) candidates.push(`${qp}/`);
+          for (const folder of KNOWN_FOLDERS) candidates.push(`${folder}/`);
+          candidates.push("");
+
+          for (const base of candidates) {
+            const url = `${base}${sample}`;
+            try {
+              const res = await fetch(url, { cache: "no-store" });
+              if (res.ok) return base;
+            } catch (_) {
+              // ignore
+            }
+          }
+          return "";
+        }
+
+        function clearGraph() {
+          dom.nodesLayer.innerHTML = "";
+          dom.edges.innerHTML = "";
+          state.nodes = [];
+          state.edges = [];
+          state.byId = new Map();
+          state.selected = -1;
+          state.worldWidth = 1;
+          state.worldHeight = 1;
+          dom.world.style.width = "1px";
+          dom.world.style.height = "1px";
+          dom.nodeInfo.innerHTML = '<div class="k">info</div><div>Seleziona un nodo.</div>';
+          dom.nodeDesc.textContent = "";
+          dom.nodeMedia.innerHTML = "";
+          refreshSummary();
+        }
+
+        function parseNode(raw, i) {
+          const data = raw?.data || {};
+          const filesRaw = Array.isArray(data.files) ? data.files : [];
+          const files = filesRaw.map((file) => {
+            const name = String(file?.name || "");
+            const type = String(file?.type || "");
+            const path = String(file?.path || "");
+            const isImageType = /^image\//i.test(type);
+            const isImageName = /\.(png|jpe?g|gif|webp|bmp|svg)$/i.test(name || path);
+            return {
+              ...file,
+              isImage: !!(file?.isImage || isImageType || isImageName),
+            };
+          });
+          const legacyMain = [
+            ...(Array.isArray(data.mainAreas) ? data.mainAreas : []),
+            data.mainArea,
+            data.mainarea,
+          ];
+          return {
+            id: String(raw?.id || `node_${i}`),
+            title: data.title || "(senza titolo)",
+            type: data.type || "Unknown",
+            action: data.action || "-",
+            date: data.date || "-",
+            areas: normalizeAreaList(data.areas, legacyMain),
+            tags: Array.isArray(data.tags) ? data.tags : [],
+            desc: data.desc || "",
+            files,
+            rawX: Number.isFinite(Number(raw?.x)) ? Number(raw.x) : i * 420,
+            rawY: Number.isFinite(Number(raw?.y)) ? Number(raw.y) : 0,
+            rawW: Number.isFinite(Number(raw?.w)) ? Math.max(140, Number(raw.w)) : 320,
+            rawH: Number.isFinite(Number(raw?.h)) ? Math.max(90, Number(raw.h)) : 180,
+            x: 0,
+            y: 0,
+            w: 0,
+            h: 0,
+            vx: 0,
+            vy: 0,
+            visible: true,
+            el: null,
+            previewFile: null,
+            previewUrl: "",
+          };
+        }
+
+        function buildGraph(project, label) {
+          clearGraph();
+          setRawProject(project);
+          const rawNodes = Array.isArray(project?.nodes) ? project.nodes : [];
+          const rawEdges = Array.isArray(project?.edges) ? project.edges : [];
+          if (!rawNodes.length) throw new Error("JSON senza nodi");
+
+          const nodes = rawNodes.map((raw, i) => parseNode(raw, i));
+          let minX = Infinity;
+          let minY = Infinity;
+          let maxX = -Infinity;
+          let maxY = -Infinity;
+          for (const n of nodes) {
+            minX = Math.min(minX, n.rawX);
+            minY = Math.min(minY, n.rawY);
+            maxX = Math.max(maxX, n.rawX + n.rawW);
+            maxY = Math.max(maxY, n.rawY + n.rawH);
+          }
+          const pad = 120;
+          const spanW = Math.max(1200, maxX - minX + pad * 2);
+          const spanH = Math.max(900, maxY - minY + pad * 2);
+
+          for (const n of nodes) {
+            n.x = n.rawX - minX + pad;
+            n.y = n.rawY - minY + pad;
+            n.w = n.rawW;
+            n.h = n.rawH;
+            n.previewFile = n.files.find((f) => !!f && f.isImage);
+            n.previewUrl = resolveAssetUrl(n.previewFile);
+          }
+
+          state.worldWidth = spanW;
+          state.worldHeight = spanH;
+          dom.world.style.width = `${spanW}px`;
+          dom.world.style.height = `${spanH}px`;
+          dom.edges.setAttribute("width", String(spanW));
+          dom.edges.setAttribute("height", String(spanH));
+          dom.edges.setAttribute("viewBox", `0 0 ${spanW} ${spanH}`);
+          dom.nodesLayer.style.width = `${spanW}px`;
+          dom.nodesLayer.style.height = `${spanH}px`;
+
+          const byId = new Map();
+          nodes.forEach((n, i) => byId.set(n.id, i));
+
+          const edges = [];
+          for (const rawEdge of rawEdges) {
+            const a = byId.get(String(rawEdge?.s));
+            const b = byId.get(String(rawEdge?.t));
+            if (a == null || b == null || a === b) continue;
+            const path = document.createElementNS(SVG_NS, "path");
+            path.classList.add("edge");
+            if (rawEdge?.dashed) path.classList.add("weak");
+            dom.edges.appendChild(path);
+            edges.push({ a, b, weak: !!rawEdge?.dashed, el: path });
+          }
+
+          for (let i = 0; i < nodes.length; i++) {
+            const node = nodes[i];
+            const el = document.createElement("div");
+            el.className = "pnode";
+            el.dataset.index = String(i);
+            el.addEventListener("click", (e) => {
+              e.stopPropagation();
+              selectNode(i);
+            });
+            node.el = el;
+            dom.nodesLayer.appendChild(el);
+          }
+
+          state.nodes = nodes;
+          state.edges = edges;
+          state.byId = byId;
+          state.projectName = label || "Project";
+          state.selected = -1;
+
+          layoutNodes();
+          updateFilterValueOptions();
+          updateColorValueOptions();
+          applyFiltersAndStyles();
+          fitView(true);
+          refreshProjectInfo();
+          selectNode(-1);
+        }
+
+        function isScreenFixedMode(mode = state.nodeStyle) {
+          return mode === "dot" || mode === "preview";
+        }
+
+        function fixedWorldSize(mode) {
+          const z = Math.max(0.0001, state.view.zoom || 1);
+          if (mode === "dot") {
+            const size = DOT_SIZE_PX / z;
+            return { w: size, h: size };
+          }
+          if (mode === "preview") {
+            return { w: PREVIEW_WIDTH_PX / z, h: PREVIEW_HEIGHT_PX / z };
+          }
+          return null;
+        }
+
+        function buildCardNodeHtml(node) {
+          const areaText = node.areas.length ? node.areas.join(", ") : "-";
+          const hasDesc = !!String(node.desc || "").trim();
+          const imageHtml =
+            state.showPreview && node.previewUrl
+              ? `<div class="images"><img src="${esc(node.previewUrl)}" alt="${esc(
+                  node.title
+                )}" loading="lazy" /></div>`
+              : "";
+          const attachments = (node.files || [])
+            .filter((file) => file && !file.isImage)
+            .map((file) => {
+              const url = resolveAssetUrl(file);
+              if (!url) return "";
+              const label = normValue(file.name || file.path || "file");
+              return `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
+            })
+            .filter(Boolean)
+            .join("");
+          const attachHtml = attachments
+            ? `<div class="attachments">${attachments}</div>`
+            : "";
+          return `
+            <div class="handle in" data-role="in" aria-hidden="true"></div>
+            <div class="handle out" data-role="out" aria-hidden="true"></div>
+            <div class="body">
+              <div class="title">${esc(node.title)}</div>
+              <div class="divider"></div>
+              <div class="meta"><span class="date">${esc(normValue(node.date))}</span></div>
+              <div class="divider"></div>
+              <div class="kv">
+                <div>Type</div><div class="object typeField">${esc(normValue(node.type))}</div>
+                <div>Action</div><div class="action">${esc(normValue(node.action))}</div>
+                <div>Areas</div><div class="areas">${esc(areaText)}</div>
+              </div>
+              <div class="descBlock">
+                ${hasDesc ? '<div class="descTitle">Description</div>' : ""}
+                <div class="desc">${esc(node.desc || "")}</div>
+              </div>
+              ${imageHtml}
+              ${attachHtml}
+            </div>
+          `;
+        }
+
+        function buildPreviewNodeHtml(node) {
+          const media = node.previewUrl
+            ? `<img src="${esc(node.previewUrl)}" alt="${esc(node.title)}" loading="lazy" />`
+            : '<div class="no-preview">no preview</div>';
+          return `${media}<div class="title">${esc(node.title)}</div>`;
+        }
+
+        function layoutNodes() {
+          const mode = state.nodeStyle;
+          for (const node of state.nodes) {
+            const el = node.el;
+            if (!el) continue;
+            el.classList.add("pnode");
+            el.classList.remove("style-card", "style-preview", "style-dot");
+            el.classList.add(`style-${mode}`);
+
+            if (mode === "dot") {
+              const fixed = fixedWorldSize(mode);
+              const sizeW = fixed ? fixed.w : node.w;
+              const sizeH = fixed ? fixed.h : node.h;
+              node.vx = node.x + node.w * 0.5 - sizeW * 0.5;
+              node.vy = node.y + node.h * 0.5 - sizeH * 0.5;
+              node.vw = sizeW;
+              node.vh = sizeH;
+              el.style.left = `${node.vx}px`;
+              el.style.top = `${node.vy}px`;
+              el.style.width = `${sizeW}px`;
+              el.style.height = `${sizeH}px`;
+              const renderKey = `dot`;
+              if (el.dataset.renderKey !== renderKey) {
+                el.innerHTML = "";
+                el.dataset.renderKey = renderKey;
+              }
+              continue;
+            }
+
+            const isPreview = mode === "preview";
+            const fixed = isPreview ? fixedWorldSize(mode) : null;
+            const vw = fixed ? fixed.w : node.w;
+            const vh = fixed ? fixed.h : node.h;
+            node.vw = vw;
+            node.vh = vh;
+            if (isPreview) {
+              node.vx = node.x + node.w * 0.5 - vw * 0.5;
+              node.vy = node.y + node.h * 0.5 - vh * 0.5;
+            } else {
+              node.vx = node.x;
+              node.vy = node.y;
+            }
+
+            el.style.left = `${node.vx}px`;
+            el.style.top = `${node.vy}px`;
+            el.style.width = `${vw}px`;
+            el.style.height = `${vh}px`;
+
+            const url = node.previewUrl || resolveAssetUrl(node.previewFile);
+            node.previewUrl = url;
+
+            if (isPreview) {
+              const renderKey = `preview:${url}:${node.title}`;
+              if (el.dataset.renderKey !== renderKey) {
+                el.innerHTML = buildPreviewNodeHtml(node);
+                el.dataset.renderKey = renderKey;
+              }
+            } else {
+              const renderKey = `card:${state.showPreview ? 1 : 0}:${url}:${node.title}`;
+              if (el.dataset.renderKey !== renderKey) {
+                el.innerHTML = buildCardNodeHtml(node);
+                el.dataset.renderKey = renderKey;
+              }
+            }
+          }
+        }
+
+        function anchorPoint(node, side) {
+          if (state.nodeStyle === "dot") {
+            return {
+              x: node.vx + node.vw * 0.5,
+              y: node.vy + node.vh * 0.5,
+            };
+          }
+          if (side === "out") {
+            return {
+              x: node.vx + node.vw,
+              y: node.vy + node.vh * 0.5,
+            };
+          }
+          return {
+            x: node.vx,
+            y: node.vy + node.vh * 0.5,
+          };
+        }
+
+        function bezierPath(a, b) {
+          const dx = Math.max(34, Math.abs(b.x - a.x) * 0.42);
+          return `M ${a.x} ${a.y} C ${a.x + dx} ${a.y}, ${b.x - dx} ${b.y}, ${b.x} ${b.y}`;
+        }
+
+        function renderEdges() {
+          const selectedId = state.selected >= 0 ? state.nodes[state.selected]?.id : null;
+          const edgeScale = state.nodeStyle === "dot" ? EDGE_DOT_MULTIPLIER : 1;
+          const strongWidth = EDGE_NORMAL_WIDTH * edgeScale;
+          const weakWidth = Math.max(1, EDGE_NORMAL_WIDTH * 0.72 * edgeScale);
+          for (const edge of state.edges) {
+            const a = state.nodes[edge.a];
+            const b = state.nodes[edge.b];
+            if (!a || !b || !edge.el) continue;
+            const visible = a.visible && b.visible;
+            edge.el.style.display = visible ? "block" : "none";
+            if (!visible) continue;
+            const pa = anchorPoint(a, "out");
+            const pb = anchorPoint(b, "in");
+            edge.el.setAttribute("d", bezierPath(pa, pb));
+            edge.el.style.strokeWidth = `${edge.weak ? weakWidth : strongWidth}px`;
+
+            const linkedSelected = selectedId && (a.id === selectedId || b.id === selectedId);
+            edge.el.classList.toggle("dim", !!selectedId && !linkedSelected);
+          }
+        }
+
+        function nodePassesFilter(node) {
+          if (state.filterMode === "all" || state.filterValue === "__all__") return true;
+          const values = nodeValuesForMode(node, state.filterMode);
+          return values.includes(state.filterValue);
+        }
+
+        function refreshSummary() {
+          if (!dom.summary) return;
+          const visibleNodes = state.nodes.filter((n) => n.visible).length;
+          let visibleEdges = 0;
+          for (const e of state.edges) {
+            const a = state.nodes[e.a];
+            const b = state.nodes[e.b];
+            if (a?.visible && b?.visible) visibleEdges += 1;
+          }
+          dom.summary.textContent = `Visibili ${visibleNodes}/${state.nodes.length} nodi · ${visibleEdges}/${state.edges.length} archi`;
+        }
+
+        function applyFiltersAndStyles() {
+          const colorStats =
+            state.colorMode === "none" ? new Map() : collectModeStats(state.colorMode);
+
+          for (const node of state.nodes) {
+            node.visible = nodePassesFilter(node);
+            const el = node.el;
+            if (!el) continue;
+            el.style.display = node.visible ? "block" : "none";
+
+            const values = nodeValuesForMode(node, state.colorMode);
+            const chosen = pickPrimaryNodeValue(values, colorStats);
+            const color =
+              state.colorMode === "none" || !chosen
+                ? "#111111"
+                : colorByCategory(state.colorMode, chosen);
+            el.style.setProperty("--nodeBorder", color);
+
+            const strong =
+              state.colorMode === "none" ||
+              state.colorValue === "__all__" ||
+              values.includes(state.colorValue);
+            el.classList.toggle("dim", !strong);
+            if (state.nodeStyle === "dot") {
+              el.style.background = color;
+            } else {
+              el.style.background = "rgba(255,255,255,0.95)";
+            }
+          }
+
+          if (state.selected >= 0 && !state.nodes[state.selected]?.visible) {
+            state.selected = -1;
+          }
+
+          for (let i = 0; i < state.nodes.length; i++) {
+            state.nodes[i].el?.classList.toggle("selected", i === state.selected);
+          }
+
+          renderEdges();
+          refreshSummary();
+          refreshProjectInfo();
+          if (state.selected >= 0) {
+            updateNodeDetails(state.selected);
+          } else {
+            updateNodeDetails(-1);
+          }
+        }
+
+        function updateNodeDetails(index) {
+          if (index < 0 || index >= state.nodes.length) {
+            dom.nodeInfo.innerHTML = '<div class="k">info</div><div>Seleziona un nodo.</div>';
+            dom.nodeDesc.textContent = "";
+            dom.nodeMedia.innerHTML = "";
+            return;
+          }
+
+          const n = state.nodes[index];
+          const areaText = n.areas.length ? n.areas.join(", ") : "-";
+          const tagText = n.tags.length ? n.tags.join(", ") : "-";
+
+          dom.nodeInfo.innerHTML = `
+            <div class="k">id</div><div>${esc(n.id)}</div>
+            <div class="k">title</div><div>${esc(n.title)}</div>
+            <div class="k">type</div><div>${esc(normValue(n.type))}</div>
+            <div class="k">action</div><div>${esc(normValue(n.action))}</div>
+            <div class="k">date</div><div>${esc(normValue(n.date))}</div>
+            <div class="k">areas</div><div>${esc(areaText)}</div>
+            <div class="k">tags</div><div>${esc(tagText)}</div>
+          `;
+
+          dom.nodeDesc.textContent = n.desc || "";
+
+          dom.nodeMedia.innerHTML = "";
+          const url = n.previewUrl || resolveAssetUrl(n.previewFile);
+          if (url) {
+            const img = document.createElement("img");
+            img.src = url;
+            img.alt = n.title;
+            img.loading = "lazy";
+            dom.nodeMedia.appendChild(img);
+          }
+        }
+
+        function selectNode(index) {
+          state.selected = index;
+          for (let i = 0; i < state.nodes.length; i++) {
+            state.nodes[i].el?.classList.toggle("selected", i === state.selected);
+          }
+          renderEdges();
+          updateNodeDetails(index);
+        }
+
+        function refreshProjectInfo() {
+          dom.projectName.textContent = state.projectName || "Project";
+          const visibleNodes = state.nodes.filter((n) => n.visible).length;
+          let visibleEdges = 0;
+          for (const e of state.edges) {
+            const a = state.nodes[e.a];
+            const b = state.nodes[e.b];
+            if (a?.visible && b?.visible) visibleEdges += 1;
+          }
+          const filtering =
+            visibleNodes !== state.nodes.length || visibleEdges !== state.edges.length;
+          dom.stats.textContent = filtering
+            ? `${visibleNodes}/${state.nodes.length} nodes · ${visibleEdges}/${state.edges.length} edges`
+            : `${state.nodes.length} nodes · ${state.edges.length} edges`;
+        }
+
+        function updateWorldTransform() {
+          dom.world.style.transform = `translate(${state.view.panX}px, ${state.view.panY}px) scale(${state.view.zoom})`;
+        }
+
+        function worldFromScreen(localX, localY) {
+          const z = Math.max(0.0001, state.view.zoom);
+          return {
+            x: (localX - state.view.panX) / z,
+            y: (localY - state.view.panY) / z,
+          };
+        }
+
+        function fitView(force = false) {
+          const wrapRect = dom.viewWrap.getBoundingClientRect();
+          if (!wrapRect.width || !wrapRect.height) return;
+
+          const visible = state.nodes.filter((n) => n.visible);
+          const nodes = visible.length ? visible : state.nodes;
+          if (!nodes.length) return;
+
+          let minX = Infinity;
+          let minY = Infinity;
+          let maxX = -Infinity;
+          let maxY = -Infinity;
+
+          if (isScreenFixedMode()) {
+            for (const n of nodes) {
+              const cx = n.x + n.w * 0.5;
+              const cy = n.y + n.h * 0.5;
+              minX = Math.min(minX, cx);
+              minY = Math.min(minY, cy);
+              maxX = Math.max(maxX, cx);
+              maxY = Math.max(maxY, cy);
+            }
+            const pad = state.nodeStyle === "preview" ? 240 : 120;
+            const bw = Math.max(1, maxX - minX);
+            const bh = Math.max(1, maxY - minY);
+            const zoom = Math.min(
+              2.2,
+              Math.max(0.06, Math.min((wrapRect.width - pad) / bw, (wrapRect.height - pad) / bh))
+            );
+            state.view.zoom = zoom;
+            state.view.panX = wrapRect.width * 0.5 - ((minX + maxX) * 0.5) * zoom;
+            state.view.panY = wrapRect.height * 0.5 - ((minY + maxY) * 0.5) * zoom;
+            layoutNodes();
+            updateWorldTransform();
+            if (force) renderEdges();
+            return;
+          }
+
+          for (const n of nodes) {
+            minX = Math.min(minX, n.vx);
+            minY = Math.min(minY, n.vy);
+            maxX = Math.max(maxX, n.vx + n.vw);
+            maxY = Math.max(maxY, n.vy + n.vh);
+          }
+
+          const pad = 80;
+          const bw = Math.max(1, maxX - minX);
+          const bh = Math.max(1, maxY - minY);
+          const zoom = Math.min(
+            2.2,
+            Math.max(0.06, Math.min((wrapRect.width - pad) / bw, (wrapRect.height - pad) / bh))
+          );
+
+          state.view.zoom = zoom;
+          state.view.panX = wrapRect.width * 0.5 - ((minX + maxX) * 0.5) * zoom;
+          state.view.panY = wrapRect.height * 0.5 - ((minY + maxY) * 0.5) * zoom;
+          updateWorldTransform();
+          if (force) renderEdges();
+        }
+
+        async function loadProjectData(project, label, preferredBase = "", preferredFolder = null) {
+          buildGraph(project, label);
+
+          if (preferredBase) {
+            state.assetBase = preferredBase;
+          } else {
+            state.assetBase = await detectAssetBase(project);
+          }
+          state.folderName = preferredFolder || inferFolderNameFromBase(state.assetBase);
+
+          for (const node of state.nodes) {
+            node.previewUrl = resolveAssetUrl(node.previewFile);
+          }
+          layoutNodes();
+          applyFiltersAndStyles();
+          fitView(true);
+          persistSharedProjectState("process");
+
+          if (state.assetBase) {
+            setHint(`Progetto caricato · assets base: ${state.assetBase}`, "ok");
+          } else {
+            setHint("Progetto caricato. Base assets non trovata automaticamente.", "warn");
+          }
+        }
+
+        async function loadFromJsonFile(file) {
+          const text = await file.text();
+          const project = JSON.parse(text);
+          await loadProjectData(project, file.name.replace(/\.json$/i, ""));
+        }
+
+        async function openJsonDialog() {
+          if ("showOpenFilePicker" in window) {
+            try {
+              const [handle] = await window.showOpenFilePicker({
+                multiple: false,
+                types: [
+                  {
+                    description: "JSON",
+                    accept: {
+                      "application/json": [".json"],
+                    },
+                  },
+                ],
+              });
+              if (!handle) return;
+              const file = await handle.getFile();
+              await loadFromJsonFile(file);
+              return;
+            } catch (err) {
+              if (err && err.name === "AbortError") return;
+            }
+          }
+          dom.fileInput.value = "";
+          dom.fileInput.click();
+        }
+
+        async function tryAutoloadFromQuery() {
+          const folder = new URLSearchParams(window.location.search).get("project");
+          if (!folder) return false;
+          try {
+            const res = await fetch(`${folder}/project.json`, { cache: "no-store" });
+            if (!res.ok) return false;
+            const project = await res.json();
+            await loadProjectData(project, folder, `${folder}/`, folder);
+            setHint(`Caricato default: ${folder}/project.json`, "ok");
+            return true;
+          } catch (_) {
+            return false;
+          }
+        }
+
+        function wireEvents() {
+          dom.btnOpen.addEventListener("click", () => openJsonDialog());
+          dom.btnFit.addEventListener("click", () => fitView(true));
+          dom.btnFitSide.addEventListener("click", () => fitView(true));
+
+          dom.btnEditor?.addEventListener("click", () => {
+            let persisted = false;
+            try {
+              persisted = !!persistSharedProjectState("process");
+            } catch (err) {
+              console.warn("Unable to persist shared project state", err);
+            }
+            const qs = new URLSearchParams();
+            qs.set("from", "process");
+            const folder = state.folderName || inferFolderNameFromBase(state.assetBase);
+            if (folder) qs.set("project", folder);
+            if (!persisted) {
+              window.location.href = "./threadscape.html";
+              return;
+            }
+            window.location.href = `./threadscape.html?${qs.toString()}`;
+          });
+
+          dom.btnSpace?.addEventListener("click", () => {
+            let persisted = false;
+            try {
+              persisted = !!persistSharedProjectState("process");
+            } catch (err) {
+              console.warn("Unable to persist shared project state", err);
+            }
+            const qs = new URLSearchParams();
+            qs.set("from", "process");
+            const folder = state.folderName || inferFolderNameFromBase(state.assetBase);
+            if (folder) qs.set("project", folder);
+            if (!persisted) {
+              window.location.href = folder
+                ? `./visualizer.html?${qs.toString()}`
+                : "./visualizer.html";
+              return;
+            }
+            window.location.href = `./visualizer.html?${qs.toString()}`;
+          });
+
+          dom.fileInput.addEventListener("change", async () => {
+            const file = dom.fileInput.files && dom.fileInput.files[0];
+            if (!file) return;
+            try {
+              await loadFromJsonFile(file);
+            } catch (err) {
+              setHint(`Errore apertura JSON: ${err.message || err}`, "warn");
+            }
+          });
+
+          dom.selNodeStyle?.addEventListener("change", () => {
+            state.nodeStyle = dom.selNodeStyle.value || "dot";
+            layoutNodes();
+            applyFiltersAndStyles();
+            fitView(true);
+          });
+
+          dom.chkPreview?.addEventListener("change", () => {
+            state.showPreview = !!dom.chkPreview.checked;
+            if (state.nodeStyle === "card") {
+              layoutNodes();
+              applyFiltersAndStyles();
+            }
+          });
+
+          dom.selFilterMode?.addEventListener("change", () => {
+            state.filterMode = dom.selFilterMode.value || "all";
+            updateFilterValueOptions();
+            state.filterValue = dom.selFilterValue?.value || "__all__";
+            applyFiltersAndStyles();
+          });
+
+          dom.selFilterValue?.addEventListener("change", () => {
+            state.filterValue = dom.selFilterValue.value || "__all__";
+            applyFiltersAndStyles();
+          });
+
+          dom.selColorMode?.addEventListener("change", () => {
+            state.colorMode = dom.selColorMode.value || "action";
+            updateColorValueOptions();
+            state.colorValue = dom.selColorValue?.value || "__all__";
+            applyFiltersAndStyles();
+          });
+
+          dom.selColorValue?.addEventListener("change", () => {
+            state.colorValue = dom.selColorValue.value || "__all__";
+            applyFiltersAndStyles();
+          });
+
+          dom.viewWrap.addEventListener("pointerdown", (e) => {
+            const onNode = !!e.target.closest(".pnode");
+            if (onNode && !state.spaceDown && e.button !== 1) return;
+            if (e.button !== 0 && e.button !== 1) return;
+            e.preventDefault();
+            state.view.isPanning = true;
+            state.view.pointerId = e.pointerId;
+            state.view.downX = e.clientX;
+            state.view.downY = e.clientY;
+            state.view.lastX = e.clientX;
+            state.view.lastY = e.clientY;
+            state.view.moved = false;
+            state.view.downOnNode = onNode;
+            dom.viewWrap.classList.add("panning");
+            dom.viewWrap.setPointerCapture?.(e.pointerId);
+          });
+
+          dom.viewWrap.addEventListener("pointermove", (e) => {
+            if (!state.view.isPanning || state.view.pointerId !== e.pointerId) return;
+            e.preventDefault();
+            const dx = e.clientX - state.view.lastX;
+            const dy = e.clientY - state.view.lastY;
+            state.view.lastX = e.clientX;
+            state.view.lastY = e.clientY;
+            if (Math.abs(e.clientX - state.view.downX) + Math.abs(e.clientY - state.view.downY) > 2) {
+              state.view.moved = true;
+            }
+            state.view.panX += dx;
+            state.view.panY += dy;
+            updateWorldTransform();
+          });
+
+          dom.viewWrap.addEventListener("pointerup", (e) => {
+            if (state.view.pointerId !== e.pointerId) return;
+            e.preventDefault();
+            const moved = Math.abs(e.clientX - state.view.downX) + Math.abs(e.clientY - state.view.downY);
+            const isClick = moved < 5 && !state.view.downOnNode;
+            state.view.isPanning = false;
+            state.view.pointerId = null;
+            state.view.moved = false;
+            state.view.downOnNode = false;
+            dom.viewWrap.classList.remove("panning");
+            dom.viewWrap.releasePointerCapture?.(e.pointerId);
+            if (isClick) selectNode(-1);
+          });
+
+          dom.viewWrap.addEventListener("pointercancel", (e) => {
+            if (state.view.pointerId !== e.pointerId) return;
+            state.view.isPanning = false;
+            state.view.pointerId = null;
+            state.view.moved = false;
+            state.view.downOnNode = false;
+            dom.viewWrap.classList.remove("panning");
+          });
+
+          dom.viewWrap.addEventListener(
+            "wheel",
+            (e) => {
+              e.preventDefault();
+              const rect = dom.viewWrap.getBoundingClientRect();
+              const localX = e.clientX - rect.left;
+              const localY = e.clientY - rect.top;
+              const before = worldFromScreen(localX, localY);
+              const factor = Math.exp(-e.deltaY * 0.0012);
+              state.view.zoom = Math.max(0.04, Math.min(6, state.view.zoom * factor));
+              state.view.panX = localX - before.x * state.view.zoom;
+              state.view.panY = localY - before.y * state.view.zoom;
+              if (isScreenFixedMode()) {
+                layoutNodes();
+                renderEdges();
+              }
+              updateWorldTransform();
+            },
+            { passive: false }
+          );
+
+          dom.viewWrap.addEventListener("dblclick", () => fitView(true));
+
+          window.addEventListener(
+            "keydown",
+            async (e) => {
+              if (e.code === "Space") {
+                state.spaceDown = true;
+                return;
+              }
+
+              const tag = document.activeElement && document.activeElement.tagName;
+              if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT") return;
+
+              const k = e.key.toLowerCase();
+              const cmdOpen = (e.metaKey || e.ctrlKey) && k === "o";
+              const plainOpen = !e.metaKey && !e.ctrlKey && !e.altKey && !e.shiftKey && k === "o";
+              if (!cmdOpen && !plainOpen) return;
+              e.preventDefault();
+              await openJsonDialog();
+            },
+            true
+          );
+
+          window.addEventListener("keyup", (e) => {
+            if (e.code === "Space") state.spaceDown = false;
+          });
+
+          window.addEventListener("blur", () => {
+            state.spaceDown = false;
+            state.view.isPanning = false;
+            state.view.pointerId = null;
+            dom.viewWrap.classList.remove("panning");
+          });
+
+          window.addEventListener("resize", () => {
+            updateWorldTransform();
+          });
+
+          const enter = (e) => {
+            e.preventDefault();
+            setHint("Rilascia il file project.json", "ok");
+          };
+          const over = (e) => {
+            e.preventDefault();
+          };
+          const leave = (e) => {
+            e.preventDefault();
+            setIdleStatus();
+          };
+          const drop = async (e) => {
+            e.preventDefault();
+            const files = e.dataTransfer && e.dataTransfer.files;
+            const file = files && files[0];
+            if (!file) return;
+            if (!/\.json$/i.test(file.name)) {
+              setHint("Il file trascinato non e' un JSON.", "warn");
+              return;
+            }
+            try {
+              await loadFromJsonFile(file);
+            } catch (err) {
+              setHint(`Errore apertura JSON: ${err.message || err}`, "warn");
+            }
+          };
+          dom.viewWrap.addEventListener("dragenter", enter);
+          dom.viewWrap.addEventListener("dragover", over);
+          dom.viewWrap.addEventListener("dragleave", leave);
+          dom.viewWrap.addEventListener("drop", drop);
+        }
+
+        dom.selNodeStyle.value = "dot";
+        dom.selFilterMode.value = "all";
+        dom.selFilterValue.value = "__all__";
+        dom.selColorMode.value = "action";
+        dom.selColorValue.value = "__all__";
+        dom.chkPreview.checked = true;
+        setIdleStatus();
+        wireEvents();
+        window.ThreadscapeUI?.attachToolbarTooltips(
+          document.querySelector("header.ts-toolbar")
+        );
+
+        (async () => {
+          const restored = await restoreSharedProjectFromRoute();
+          if (!restored) await tryAutoloadFromQuery();
+        })();
+      })();
+    </script>
+  </body>
+</html>

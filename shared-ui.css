@@ -1,0 +1,138 @@
+/* Shared toolbar and hint UI used by threadscape.html + visualizer.html */
+:root {
+  --ts-toolbar-bg: var(--bg, #ffffff);
+  --ts-toolbar-border: #333333;
+  --ts-toolbar-fg: var(--ink, #111111);
+  --ts-toolbar-hover: var(--btn-hover, rgba(0, 0, 0, 0.06));
+  --ts-toolbar-active: var(--btn-active, rgba(0, 0, 0, 0.1));
+  --ts-toolbar-focus: var(--field-focus-ring, rgba(0, 0, 0, 0.24));
+  --ts-toolbar-status: var(--muted, #6f6f6f);
+  --ts-toolbar-tip-bg: #ffffff;
+  --ts-toolbar-tip-fg: #111111;
+  --ts-toolbar-tip-border: #d4d4d4;
+  --ts-toolbar-tip-shadow: 0 8px 24px rgba(0, 0, 0, 0.16);
+}
+
+.ts-toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 8px;
+  background: var(--ts-toolbar-bg);
+  border-bottom: 1px solid var(--ts-toolbar-border);
+}
+
+.ts-toolbar .nav-left,
+.ts-toolbar .nav-right {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
+}
+
+.ts-toolbar .nav-right {
+  margin-left: auto;
+}
+
+.ts-toolbar button,
+.ts-toolbar .icon-btn,
+.ts-toolbar .switch-btn {
+  appearance: none;
+  -webkit-appearance: none;
+  border: none;
+  background: transparent;
+  color: var(--ts-toolbar-fg);
+  min-height: 32px;
+  min-width: 32px;
+  border-radius: 8px;
+  padding: 6px 8px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  transition: background-color 120ms ease, opacity 120ms ease,
+    transform 60ms ease;
+}
+
+.ts-toolbar button:hover,
+.ts-toolbar .icon-btn:hover,
+.ts-toolbar .switch-btn:hover {
+  background: var(--ts-toolbar-hover);
+}
+
+.ts-toolbar button:active,
+.ts-toolbar .icon-btn:active,
+.ts-toolbar .switch-btn:active {
+  background: var(--ts-toolbar-active);
+  transform: translateY(0.5px);
+}
+
+.ts-toolbar button:focus-visible,
+.ts-toolbar .icon-btn:focus-visible,
+.ts-toolbar .switch-btn:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--ts-toolbar-focus);
+}
+
+.ts-toolbar .material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 200, "opsz" 24;
+  font-size: 22px;
+  line-height: 1;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.ts-toolbar .btn-label {
+  font-size: 12px;
+  line-height: 1;
+}
+
+.ts-toolbar .nav-select {
+  height: 32px;
+  border: 1px solid var(--line, rgba(0, 0, 0, 0.12));
+  background: var(--panel, #ffffff);
+  color: var(--ts-toolbar-fg);
+  border-radius: 8px;
+  padding: 0 8px;
+  font: inherit;
+  font-size: 12px;
+  min-width: 116px;
+}
+
+.ts-toolbar .nav-select:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--ts-toolbar-focus);
+}
+
+.ts-toolbar .toolbar-status {
+  margin-left: 8px;
+  min-height: 1em;
+  font-size: 12px;
+  color: var(--ts-toolbar-status);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: min(28vw, 460px);
+}
+
+.ts-toolbar-tooltip {
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: none;
+  pointer-events: none;
+  z-index: 10000;
+  white-space: nowrap;
+  font-size: 11px;
+  line-height: 1.2;
+  padding: 4px 6px;
+  border-radius: 4px;
+  border: 1px solid var(--ts-toolbar-tip-border);
+  background: var(--ts-toolbar-tip-bg);
+  color: var(--ts-toolbar-tip-fg);
+  box-shadow: var(--ts-toolbar-tip-shadow);
+}

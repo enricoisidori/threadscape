@@ -13,11 +13,10 @@
         "title": "Conflict: a Distributed Condition: Contemporary War Ecologies",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Media studies",
-          "Communication",
+          "Communication Design",
           "Cultural practices",
           "Critical design",
           "Design research",
@@ -50,11 +49,10 @@
         "title": "Linguistic conflict",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Media studies",
           "Semiotics",
-          "Communication design",
+          "Communication Design",
           "Interface design",
           "Cultural studies"
         ],
@@ -83,7 +81,6 @@
         "title": "Media conflict",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Media theory",
           "Journalism studies",
@@ -116,7 +113,6 @@
         "title": "Cognitive conflict",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Neuroscience",
           "Human-computer interaction",
@@ -148,7 +144,6 @@
         "title": "Metric conflict",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Data ethics",
           "Algorithm studies",
@@ -181,13 +176,13 @@
         "title": "Symbolic Conflict (Brief)",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Cultural studies",
           "Art history",
           "Memory studies",
           "Heritage studies",
-          "Semiotics"
+          "Semiotics",
+          "Speculative Design"
         ],
         "tags": [
           "Brief",
@@ -211,7 +206,6 @@
         "title": "Cultural conflict",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Anthropology",
           "Sociology",
@@ -243,7 +237,6 @@
         "title": "Social conflict",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Sociology",
           "Political science",
@@ -275,7 +268,6 @@
         "title": "Bureaucratic conflict",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Legal studies",
           "Political geography",
@@ -307,7 +299,6 @@
         "title": "Digital conflict",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Computer science",
           "Cybersecurity",
@@ -340,7 +331,6 @@
         "title": "Ecological conflict",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Political ecology",
           "Environmental studies",
@@ -373,7 +363,6 @@
         "title": "Infrastructural conflict",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Infrastructure studies",
           "Urban studies",
@@ -405,12 +394,12 @@
         "title": "People align under symbols",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic alignment",
           "Identity",
           "Group dynamics",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -433,11 +422,11 @@
         "title": "Symbols generate debate",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic meaning",
           "Conflict",
-          "Debate"
+          "Debate",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -460,11 +449,11 @@
         "title": "Conflict as clash of ideas",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Ideation",
           "Abstract conflict",
-          "Ideology"
+          "Ideology",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -487,10 +476,10 @@
         "title": "Sport Rivalries",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic alignment",
-          "Identity"
+          "Identity",
+          "Speculative Design"
         ],
         "tags": [
           "Research",
@@ -543,12 +532,12 @@
         "title": "Religious Symbols in State Spaces",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic meaning",
           "Culture",
           "Society",
-          "Religion"
+          "Religion",
+          "Speculative Design"
         ],
         "tags": [
           "Research",
@@ -578,11 +567,11 @@
         "title": "Iconoclasm",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic meaning",
           "Historical memory",
-          "Iconoclasm"
+          "Iconoclasm",
+          "Speculative Design"
         ],
         "tags": [
           "Research",
@@ -632,11 +621,11 @@
         "title": "Witch Hunts",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic alignment",
           "Ideology",
-          "Power dynamics"
+          "Power dynamics",
+          "Speculative Design"
         ],
         "tags": [
           "Research",
@@ -673,13 +662,13 @@
         "title": "Celebrities as Symbols",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic alignment",
           "Group dynamics",
           "Society",
           "Identity",
-          "Youth culture"
+          "Youth culture",
+          "Speculative Design"
         ],
         "tags": [
           "Research",
@@ -708,12 +697,12 @@
         "title": "Appropriation of Symbols",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic meaning",
           "Culture",
           "Appropriation",
-          "Transculturation"
+          "Transculturation",
+          "Speculative Design"
         ],
         "tags": [
           "Research",
@@ -753,10 +742,10 @@
         "title": "Mythology",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Ideation",
-          "Culture"
+          "Culture",
+          "Speculative Design"
         ],
         "tags": [
           "Research",
@@ -787,13 +776,13 @@
         "title": "National Symbols",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic meaning",
           "Culture",
           "Identity",
           "Society",
-          "Product symbolism"
+          "Product symbolism",
+          "Speculative Design"
         ],
         "tags": [
           "Research",
@@ -822,11 +811,11 @@
         "title": "Religious symbolism",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic meaning",
           "Culture",
-          "Religion"
+          "Religion",
+          "Speculative Design"
         ],
         "tags": [
           "Research",
@@ -866,14 +855,14 @@
         "title": "Subcultural Conflicts",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic alignment",
           "Culture",
           "Society",
           "Identity",
           "Youth culture",
-          "Group dynamics"
+          "Group dynamics",
+          "Speculative Design"
         ],
         "tags": [
           "Research",
@@ -905,11 +894,11 @@
         "title": "Transculturation of Symbols",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic transformation",
           "Appropriation",
-          "Culture"
+          "Culture",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -944,12 +933,12 @@
         "title": "Group Aesthetics and Identities (Subcultures)",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Youth culture",
           "Style",
           "Identity",
-          "Group dynamics"
+          "Group dynamics",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -987,11 +976,11 @@
         "title": "Fanaticism",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Fanaticism",
           "Symbolic devotion",
-          "Radicalization"
+          "Radicalization",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1028,7 +1017,6 @@
         "title": "",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Feedback highlighted that subcultures are not a strong direction; they are seen as historical/global phenomena that no longer carry real conflict. Current material is too aestheticized and superficial, with manipulated images instead of raw sources.",
@@ -1048,7 +1036,6 @@
         "title": "",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Fanaticism is a stronger direction than subcultures, with clearer links to symbols. However, the approach is currently too historical and heavy. Needs more depth and better questioning that subverts expectations and leads towards a scenario.",
@@ -1068,11 +1055,11 @@
         "title": "Transculturation of Symbols",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic transformation",
           "Transculturation",
-          "Appropriation"
+          "Appropriation",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1107,12 +1094,12 @@
         "title": "Belonging through Symbols",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Belonging",
           "Identity",
           "Symbolic alignment",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1148,11 +1135,11 @@
         "title": "Fanaticism",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Fanaticism",
           "Symbolic devotion",
-          "Radicalization"
+          "Radicalization",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1190,11 +1177,11 @@
         "title": "What if? (Transculturation of Symbols)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Transculturation",
-          "Prohibition"
+          "Prohibition",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -1218,13 +1205,13 @@
         "title": "What if? (Belonging through Symbols)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Belonging",
           "Identity",
           "Symbolic alignment",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -1248,13 +1235,13 @@
         "title": "What if? (Fanaticism)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Fanaticism",
           "Extremism",
           "Symbolic devotion",
-          "Identity politics"
+          "Identity politics",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -1278,11 +1265,11 @@
         "title": "Belonging and Social Identity Theory",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Identity",
           "Symbolic alignment",
-          "Conflict"
+          "Conflict",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1310,14 +1297,14 @@
         "title": "What if? (Belonging)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Belonging",
           "Identity",
           "Conformity",
           "Censorship",
-          "Communication"
+          "Communication Design",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -1341,12 +1328,12 @@
         "title": "Symbolic Violence",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Power dynamics",
           "Hierarchy",
           "Unconscious influence",
-          "Culture"
+          "Culture",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1374,12 +1361,12 @@
         "title": "What if? (Symbolic Violence)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Symbolic awareness",
           "Autonomy",
-          "Power dynamics"
+          "Power dynamics",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -1403,11 +1390,11 @@
         "title": "Semiotic Inflation",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic saturation",
           "Meaning loss",
-          "Culture"
+          "Culture",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1432,11 +1419,11 @@
         "title": "What if? (Semiotic Inflation)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Semiotics",
-          "Universal meaning"
+          "Universal meaning",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -1461,12 +1448,12 @@
         "title": "Historical Memory",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Monuments",
           "Historical memory",
           "Ethics",
-          "Censorship"
+          "Censorship",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1492,13 +1479,13 @@
         "title": "What if? (Historical Memory)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Censorship",
           "Historical memory",
           "Society",
-          "Ethics"
+          "Ethics",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -1526,13 +1513,13 @@
         "title": "Symbolic Power of Products",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Product symbolism",
           "Perception",
           "Society",
           "Healthcare",
-          "Culture"
+          "Culture",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1558,13 +1545,13 @@
         "title": "What if? (Symbolic Power of Products)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Society",
           "Healthcare",
           "Product symbolism",
-          "Perception"
+          "Perception",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -1589,12 +1576,12 @@
         "title": "Belonging",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Identity",
           "Symbolic affiliation",
           "Conformity",
-          "Representation"
+          "Representation",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1619,13 +1606,13 @@
         "title": "What if? (Belonging)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Social ranking",
           "Ethics",
           "Power dynamics",
-          "Identity"
+          "Identity",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -1650,11 +1637,11 @@
         "title": "Semiotic Inflation",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic saturation",
           "Meaning loss",
-          "Ethics"
+          "Ethics",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1690,12 +1677,12 @@
         "title": "What if? (Semiotic Inflation)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Symbolic saturation",
           "Meaning loss",
-          "Society"
+          "Society",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -1722,12 +1709,12 @@
         "title": "Religion vs Science",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Symbolic conflict",
           "Medicine",
           "Religion",
-          "Ethics"
+          "Ethics",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1757,14 +1744,14 @@
         "title": "What if? (Religion vs Science)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Symbolic affiliation",
           "Religion",
           "Society",
           "Medicine",
-          "Ethics"
+          "Ethics",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -1793,7 +1780,6 @@
         "title": "",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The theme of the power of symbols explored in Semiotic Inflation is interesting, but it might be more effective to discuss it within the context of Transculturation of Symbols. The discussion should emphasize how meaning transforms across cultural contexts rather than abstract circulation of symbols.",
@@ -1813,7 +1799,6 @@
         "title": "",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The theme of the conflict between religion and science is compelling, but the focus should clarify the reflection goal and ensure a clear role for the symbol. The scenario must highlight the symbolic tension rather than only the ethical or practical consequences.",
@@ -1833,7 +1818,6 @@
         "title": "",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The IFS (Symbolic Loyalty Index) scenario is interesting for exploring belonging, but it is too complex. A simpler, more immediate scenario is preferable, focusing on visible symbolic behavior rather than algorithmic scoring.",
@@ -1853,7 +1837,6 @@
         "title": "",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The theme of historical memory is compelling, particularly regarding symbols in public spaces, but the existing scenario is too complicated. Simplifying the scenario could make the reflection on memory, identity, and public symbols more immediate and tangible.",
@@ -1873,7 +1856,6 @@
         "title": "",
         "type": "Observation",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "After exploring potential scenarios for the conflict between religion and science, the group decided to abandon this theme. The scenarios developed did not offer a clear role for the symbol or an effective design reflection. Focus will shift to other themes with stronger project potential.",
@@ -1893,7 +1875,6 @@
         "title": "",
         "type": "Observation",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The group decided to abandon this theme. While the theme offered interesting reflections on symbolic affiliation, the scenarios were either too complex or did not produce effective design directions.",
@@ -1913,12 +1894,12 @@
         "title": "Power of Symbols",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Identity",
           "Reputation",
           "Rebranding",
-          "Religion"
+          "Religion",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -1953,12 +1934,12 @@
         "title": "Church Rebranding",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Symbolic redefinition",
           "Institutional identity",
-          "Trust recovery"
+          "Trust recovery",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2024,11 +2005,11 @@
         "title": "Cancel Culture & Collective Memory",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Historical memory",
           "Iconoclasm",
-          "Debate"
+          "Debate",
+          "Speculative Design"
         ],
         "tags": [
           "Insight",
@@ -2082,13 +2063,13 @@
         "title": "Fantastatua",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Gamification",
           "Historical memory",
           "Society",
-          "Culture"
+          "Culture",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2155,7 +2136,6 @@
         "title": "Decision: Abandon Church Rebranding Theme",
         "type": "Observation",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "After review, the Church rebranding scenario is abandoned. Although the theme of transculturation and symbolic trust is interesting, basing the project on such a sensitive institution could be problematic. The project will instead focus on historical memory, which offers a safer and more versatile context for exploring symbolic conflict.",
@@ -2175,7 +2155,6 @@
         "title": "",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The historical memory scenario is promising, but the current scenario requires refinement. Feedback highlights:\nThe scenario must better reflect the thematic conflict at the core of memory and symbolism.\nThe scope of cancel culture should be carefully considered: should it be limited to statues, or address a broader spectrum of historical symbols and media?\nIt may be necessary to identify symbols that more effectively communicate the theme.\nThe scenario should clarify the tensions between interpretation, collective action, and symbolic preservation or erasure.",
@@ -2195,7 +2174,6 @@
         "title": "Decision: Project Focus on Historical Memory",
         "type": "Decision",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The project will officially focus on historical memory linked to public symbols. This thematic focus offers a strong and versatile context for exploring symbolic conflict, collective interpretation, and the tensions between preservation, erasure, and public perception.",
@@ -2215,13 +2193,13 @@
         "title": "Forbidden Symbol",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Language",
           "Ideology",
           "Censorship",
-          "Identity"
+          "Identity",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2247,14 +2225,14 @@
         "title": "Expiring Date",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Historical memory",
           "Democracy",
           "Monuments",
           "Culture",
-          "Society"
+          "Society",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2285,12 +2263,12 @@
         "title": "Inverted History",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Culture",
           "Historical memory",
-          "Multiverse"
+          "Multiverse",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2315,12 +2293,12 @@
         "title": "History Market",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Economy",
           "Historical memory",
-          "Culture"
+          "Culture",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2345,13 +2323,13 @@
         "title": "The Council of Chance",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scenarios",
           "Ethics",
           "Randomness",
           "Power dynamics",
-          "Neutrality"
+          "Neutrality",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2376,7 +2354,6 @@
         "title": "",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The latest review highlighted that while some speculative ideas on historical memory were promising, the project is drifting too far from the central theme of symbolic power.\nThe expiration date concept could have potential, but the focus on toponymy feels less contemporary.\nThe history market scenario (commercialization of memory) is interesting for its unusual logic but needs deeper development.\nThe random assignment of symbols offers a stimulating mechanism but lacks connection to strong visual or graphic elements.\nOverall, we are moving away from the graphic and communicative strength of symbols, which should remain central to our exploration.\n-\nWe should take a step back and reconsider how to explore the potency, transformation, and manipulation of graphic symbols, grounding our next scenarios more explicitly in the language of signs and visual identity.",
@@ -2396,12 +2373,12 @@
         "title": "Morphology of Symbols",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scensarios",
           "Semiotics",
           "Morphology",
-          "Culture"
+          "Culture",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2460,13 +2437,13 @@
         "title": "Sign vs Symbol",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scensarios",
           "Semiotics",
           "Historical memory",
           "Power dynamics",
-          "Appropriation"
+          "Appropriation",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2505,15 +2482,15 @@
         "title": "Influence of Symbols",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scensarios",
           "Psychology",
           "Ethics",
-          "Communication",
+          "Communication Design",
           "Symbolic saturation",
           "Perception",
-          "Semiotics"
+          "Semiotics",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2554,13 +2531,13 @@
         "title": "Perception of a Symbol",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scensarios",
           "Perception",
           "Psychology",
           "Graphic design",
-          "Semiotics"
+          "Semiotics",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2597,11 +2574,11 @@
         "title": "Neutrality",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scensarios",
           "Ethics",
-          "Semiotics"
+          "Semiotics",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2636,14 +2613,14 @@
         "title": "Context Inversion",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Scensarios",
           "Society",
           "Religion",
           "Culture",
           "Politics",
-          "Social critique"
+          "Social critique",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2680,7 +2657,6 @@
         "title": "Focus on Symbol Influence",
         "type": "Decision",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The project will proceed focusing on the theme of the influence of symbols, identified as the most promising and feasible. The “context inversion” theme, while interesting, lacked a compelling scenario and is therefore set aside. Observations highlight:\nCreating a symbolic “alphabet” is timely and rich in possibilities.\nConflict should remain central — either embedded in the scenario, the What If, or the interactive outcomes.\nThe tension lies between sign and meaning, symbol and symbolism, and should guide design exploration.",
@@ -2700,14 +2676,13 @@
         "title": "Semiotics",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Psychology",
           "Semiotics",
           "Interpretation",
           "Perception",
           "Graphic design",
-          "Communication"
+          "Communication Design"
         ],
         "tags": [
           "Research",
@@ -2753,7 +2728,6 @@
         "title": "No Logo (Naomi Klein)",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Branding",
           "Semiotics",
@@ -2802,13 +2776,13 @@
         "title": "When Symbols Replace Words",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Semiotics",
           "Visual culture",
           "Media studies",
           "Design theory",
-          "Linguistics"
+          "Linguistics",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -2835,9 +2809,8 @@
         "title": "DAMN (Giga Design Studio)",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
-          "Communication",
+          "Communication Design",
           "Symbolic saturation"
         ],
         "tags": [
@@ -2888,7 +2861,6 @@
         "title": "Brainrot",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Society",
           "Social media",
@@ -2935,7 +2907,6 @@
         "title": "Logo in Real Life (Ilya Stallone / Giga Design Studio)",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Branding",
           "Adbusting",
@@ -2974,12 +2945,12 @@
         "title": "When Symbols Become the Only Way to Feel",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Semiotics",
           "Visual culture",
           "Media studies",
-          "Design theory"
+          "Design theory",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -3006,12 +2977,12 @@
         "title": "Trademarked Emotions",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Semiotics",
           "Media studies",
           "Consumer culture",
-          "Emotional capitalism"
+          "Emotional capitalism",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -3038,14 +3009,14 @@
         "title": "Brands Become Language",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Semiotics",
           "Visual culture",
           "Media studies",
           "Design theory",
           "Linguistics",
-          "Brand theory"
+          "Brand theory",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -3070,13 +3041,13 @@
         "title": "When Symbols Replace Words",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Semiotics",
           "Visual culture",
           "Media studies",
           "Design theory",
-          "Linguistics"
+          "Linguistics",
+          "Speculative Design"
         ],
         "tags": [
           "What if?",
@@ -3104,14 +3075,14 @@
         "title": "Conflicts of Symbolic Ownership",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Semiotics",
           "Visual culture",
           "Media studies",
           "Design theory",
           "Linguistics",
-          "Brand theory"
+          "Brand theory",
+          "Speculative Design"
         ],
         "tags": [
           "Ownership",
@@ -3136,7 +3107,6 @@
         "title": "Focus on Symbolic Language Scenario",
         "type": "Decision",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "After evaluating multiple speculative directions, the team decided to proceed with the scenario exploring the rise of a language based on commercial signs. This path was chosen for its conceptual depth, cultural relevance, and feasibility within the available timeframe. The scenario — in which human communication is progressively replaced by corporate symbols — allows a critical reflection on semiotics, emotional control, and the commodification of meaning. This decision marks a strategic milestone shaping the project’s further developments.",
@@ -3156,12 +3126,12 @@
         "title": "ICON — Institute of Common Nomenclature",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Semiotics",
           "Design theory",
           "Linguistics",
-          "Governance"
+          "Governance",
+          "Communication Design"
         ],
         "tags": [
           "Institution",
@@ -3195,12 +3165,12 @@
         "title": "ICON: Mission, Vision, and Values",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Semiotics",
           "Media theory",
           "Cultural studies",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Identity",
@@ -3250,12 +3220,12 @@
         "title": "ICON Golden Circle",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Semiotics",
           "Media theory",
           "Cultural studies",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Golden circle",
@@ -3287,12 +3257,12 @@
         "title": "ICON Tone of Voice and Payoff",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Semiotics",
           "Media theory",
           "Cultural studies",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Tone of voice",
@@ -3332,12 +3302,12 @@
         "title": "Lexicon",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Semiotics",
           "Communication studies",
           "Visual culture",
-          "Design theory"
+          "Design theory",
+          "Interaction Design"
         ],
         "tags": [
           "Device",
@@ -3370,8 +3340,9 @@
         "title": "",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3407,8 +3378,9 @@
         "title": "",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "Study of logo interaction on white background to test visual balance and semantic clarity.\nMix of sans serif (digital readability) and serif (dictionary reference).\nNeutral greys + 4 base colors to express synthesis of infinite knowledge.\nModern layout reflecting immediacy, objectivity, universality — ICON’s core values.",
         "links": [],
@@ -3436,8 +3408,9 @@
         "title": "",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "Study of logo interaction on white background to test visual balance and semantic clarity.\nMix of sans serif (digital readability) and serif (dictionary reference).\nNeutral greys + 4 base colors to express synthesis of infinite knowledge.\nModern layout reflecting immediacy, objectivity, universality — ICON’s core values.",
         "links": [],
@@ -3465,8 +3438,9 @@
         "title": "",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "This moodboard embodies the values of immediacy, clarity, and objectivity.\nIt draws from minimalist design principles, using clean layouts and sans-serif typography reminiscent of institutional aesthetics. The color palette is primarily black and white, with the restrained addition of red, yellow, and blue to introduce subtle visual hierarchy and emphasis.",
         "links": [],
@@ -3494,8 +3468,9 @@
         "title": "",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "A futuristic, tech-inspired visual identity that combines elements of data visualization, industrial design, and minimal typography. The color palette centers around black, orange, light gray, and dark gray, evoking a modern and high-contrast aesthetic. The imagery includes schematic diagrams, modular grids, and digital interface mockups, giving a sense of precision, innovation, and engineered clarity.",
         "links": [],
@@ -3523,8 +3498,9 @@
         "title": "Icon website",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3552,8 +3528,9 @@
         "title": "Icon website",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3581,8 +3558,9 @@
         "title": "Icon website",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3610,8 +3588,9 @@
         "title": "Icon website",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3703,8 +3682,9 @@
         "title": "Lexicon Interface",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3772,8 +3752,9 @@
         "title": "",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3817,8 +3798,9 @@
         "title": "",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -3854,12 +3836,12 @@
         "title": "ICON Brand Identity",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual language",
           "Branding",
           "Institutional identity",
-          "Design theory"
+          "Design theory",
+          "Communication Design"
         ],
         "tags": [
           "Identity",
@@ -3937,12 +3919,12 @@
         "title": "ICON Brand Identity",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual language",
           "Branding",
           "Institutional identity",
-          "Design theory"
+          "Design theory",
+          "Communication Design"
         ],
         "tags": [
           "Identity",
@@ -4020,11 +4002,11 @@
         "title": "Assignment of Words to Brands",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Semiotics",
           "Algorithmic system",
-          "Sorting system"
+          "Sorting system",
+          "Communication Design"
         ],
         "tags": [
           "Dictionary",
@@ -4075,10 +4057,10 @@
         "title": "Brand Survey",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "User research",
-          "Data collection"
+          "Data collection",
+          "Interaction Design"
         ],
         "tags": [
           "Survey",
@@ -4112,11 +4094,11 @@
         "title": "Lexicon Machine Concept",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Data visualization"
+          "Data visualization",
+          "Interaction Design"
         ],
         "tags": [
           "Lexicon",
@@ -4175,11 +4157,11 @@
         "title": "ICON_R.01 Auction Simulation",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Data visualization"
+          "Data visualization",
+          "Interaction Design"
         ],
         "tags": [
           "Machine",
@@ -4222,11 +4204,11 @@
         "title": "Core Values of ICON",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Branding",
-          "Semiotics"
+          "Semiotics",
+          "Communication Design"
         ],
         "tags": [
           "Values",
@@ -4262,11 +4244,11 @@
         "title": "NEXA Brand Identity",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Branding",
-          "Design theory"
+          "Design theory",
+          "Communication Design"
         ],
         "tags": [
           "Identity",
@@ -4337,11 +4319,11 @@
         "title": "ICON Brand Identity",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Branding",
-          "Design theory"
+          "Design theory",
+          "Communication Design"
         ],
         "tags": [
           "Identity",
@@ -4405,11 +4387,11 @@
         "title": "LexMarket",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Data visualization"
+          "Data visualization",
+          "Interaction Design"
         ],
         "tags": [
           "Machine",
@@ -4461,7 +4443,6 @@
         "title": "",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "It was decided not to proceed with the word auction concept. While the economic aspect of NEXA and auctions was conceptually clear, it diverged from ICON’s initial premise focused on language. The auction mechanism risked overshadowing the linguistic and symbolic experience by placing users in the role of a brand. Feedback emphasized that the user experience should center on discovery of the evolving language via Lexicon, rather than brand competition.",
@@ -4481,13 +4462,13 @@
         "title": "ICON Starter Kit",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "Language learning",
           "Semiotics",
           "User interaction",
-          "Educational technology"
+          "Educational technology",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -4522,8 +4503,9 @@
         "title": "ICON Starter kit brainstorming",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Interaction",
-        "areas": [],
+        "areas": [
+          "Interaction Design"
+        ],
         "tags": [
           "Icon starter kit",
           "Moodboard"
@@ -4554,13 +4536,13 @@
         "title": "ICON Website",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Web design",
-          "Interaction design",
+          "Interaction Design",
           "Visual communication",
           "Digital platform",
-          "User experience"
+          "User experience",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -4603,8 +4585,9 @@
         "title": "",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -4640,11 +4623,11 @@
         "title": "ICON Brand Identity",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Branding",
-          "Design theory"
+          "Design theory",
+          "Communication Design"
         ],
         "tags": [
           "Identity",
@@ -4690,11 +4673,11 @@
         "title": "ICON Golden CIrcle Redefinition",
         "type": "Decision",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Semiotics",
           "Communication studies",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Golden circle",
@@ -4729,12 +4712,12 @@
         "title": "Reframing of Scenario Premises",
         "type": "Decision",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Media theory",
           "Visual culture",
           "Communication studies",
-          "Brand theory"
+          "Brand theory",
+          "Speculative Design"
         ],
         "tags": [
           "Symbols",
@@ -4783,12 +4766,12 @@
         "title": "ICON Visual Applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Communication studies",
           "Visual culture",
           "Design theory",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -4822,12 +4805,12 @@
         "title": "ICON Visual Applications - Transparency Exploration",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "Visual culture",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -4885,12 +4868,12 @@
         "title": "ICON Visual Applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "Visual culture",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -4988,12 +4971,12 @@
         "title": "ICON Visual Applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "Visual culture",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -5051,12 +5034,12 @@
         "title": "ICON Visual Applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "Visual culture",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -5098,12 +5081,12 @@
         "title": "ICON Visual Applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "Visual culture",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -5145,11 +5128,11 @@
         "title": "ICON Starter Kit - Packaging",
         "type": "Sketch",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -5191,11 +5174,11 @@
         "title": "ICON Starter Kit - Materials",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -5230,13 +5213,13 @@
         "title": "ICON Starter Kit - Dimensions",
         "type": "Sketch",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "Language learning",
           "Semiotics",
           "User interaction",
-          "Educational technology"
+          "Educational technology",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -5287,7 +5270,6 @@
         "title": "",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "During a design review, it was recommended to replace RFID technology with NFC sensors to support a more compact and seamless interaction within the ICON device. NFC readers offer smaller components, reduced spatial requirements, and more reliable short-range detection, making them better suited for an object that relies on the physical placement of logotype tiles. Additionally, NFC tags can be quickly reprogrammed through dedicated mobile applications",
@@ -5307,12 +5289,12 @@
         "title": "ICON Starter Kit - Aesthetics",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "Design theory",
           "Product design",
-          "User interaction"
+          "User interaction",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -5363,11 +5345,11 @@
         "title": "ICON Starter Kit - NFC Testing",
         "type": "Observation",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Visual communication",
-          "Prototyping"
+          "Prototyping",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -5402,13 +5384,13 @@
         "title": "ICON Starter Kit - Paper Prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Visual communication",
           "User interaction",
           "Product design",
-          "Prototyping"
+          "Prototyping",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -5449,12 +5431,12 @@
         "title": "ICON Website",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Web design",
           "Visual communication",
           "Digital platform",
-          "User experience"
+          "User experience",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -5506,11 +5488,11 @@
         "title": "ICON Teaser - References",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Video editing",
-          "Motion graphics"
+          "Motion graphics",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -5559,11 +5541,11 @@
         "title": "ICON Teaser",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Video editing",
-          "Motion graphics"
+          "Motion graphics",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -5611,13 +5593,13 @@
         "title": "ICON Starter Kit - Paper Prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Visual communication",
           "User interaction",
           "Product design",
-          "Prototyping"
+          "Prototyping",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -5666,12 +5648,12 @@
         "title": "ICON Starter Kit - LexICON Layout",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "User experience",
-          "Publishing"
+          "Publishing",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -5723,10 +5705,10 @@
         "title": "ICON Starter Kit - Tiles",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -5783,7 +5765,6 @@
         "title": "",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "A design improvement was proposed to facilitate the extraction and insertion of logotype tiles in the ICON Starter Kit. Each slot of the device includes a hole above it, allowing users to easily place or remove the tiles.",
@@ -5820,9 +5801,8 @@
         "title": "ICON Starter Kit – Updated Layout",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Design theory",
           "Visual communication",
           "Educational technology"
@@ -5861,9 +5841,8 @@
         "title": "ICON Starter Kit Sentence Assembly Algorithm",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "User experience",
           "Algorithmic system"
         ],
@@ -5902,11 +5881,11 @@
         "title": "ICON Starter Kit - Tiles",
         "type": "Observation",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Product design",
-          "Prototyping"
+          "Prototyping",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -5941,11 +5920,10 @@
         "title": "ICON Starter Kit - Tiles",
         "type": "Decision",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Design theory",
           "Product design",
-          "Interaction design",
+          "Interaction Design",
           "Prototyping"
         ],
         "tags": [
@@ -5995,11 +5973,11 @@
         "title": "ICON Teaser",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Video editing",
-          "Motion graphics"
+          "Motion graphics",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -6047,9 +6025,8 @@
         "title": "ICON Starter KIt - Interface",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Visual communication",
           "Product design",
           "User experience"
@@ -6121,13 +6098,13 @@
         "title": "LexICON",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Semiotics",
           "Visual communication",
           "Branding",
           "Language design",
-          "Communication studies"
+          "Communication studies",
+          "Communication Design"
         ],
         "tags": [
           "Lexicon",
@@ -6161,9 +6138,8 @@
         "title": "ICON Starter Kit - Technical Drawing",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Design theory",
           "Product design",
           "Prototyping"
@@ -6215,11 +6191,10 @@
         "title": "ICON Starter Kit - Magnets",
         "type": "Observation",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Product design",
           "Design theory",
-          "Interaction design"
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -6260,9 +6235,8 @@
         "title": "ICON Starter Kit - Technical Drawing",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Design theory",
           "Product design",
           "Prototyping"
@@ -6330,10 +6304,9 @@
         "title": "ICON Starter Kit - Interface Testing",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
-          "Interaction design",
+          "Interaction Design",
           "Communication studies",
           "Digital platform",
           "Prototyping"
@@ -6370,11 +6343,11 @@
         "title": "ICON Teaser",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Video editing",
-          "Motion graphics"
+          "Motion graphics",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -6478,10 +6451,10 @@
         "title": "ICON Teaser",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
-          "Video editing"
+          "Video editing",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -6513,10 +6486,10 @@
         "title": "ICON Teaser - References",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Media studies",
-          "Visual communication"
+          "Visual communication",
+          "Communication Design"
         ],
         "tags": [
           "Teaser"
@@ -6555,12 +6528,12 @@
         "title": "ICON Teaser - Storyboard",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Media studies",
           "Motion graphics",
           "Video editing",
-          "Visual communication"
+          "Visual communication",
+          "Communication Design"
         ],
         "tags": [
           "Teaser",
@@ -6592,9 +6565,8 @@
         "title": "ICON Starter Kit - Tutorial",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Visual communication",
           "User experience",
           "Motion graphics"
@@ -6682,9 +6654,8 @@
         "title": "ICON Starter Kit - Tutorial",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Visual communication",
           "User experience",
           "Motion graphics"
@@ -6764,11 +6735,11 @@
         "title": "ICON Starter Kit - Box Layout",
         "type": "Sketch",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -6803,12 +6774,12 @@
         "title": "ICON Website",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Web design",
           "Visual communication",
           "Digital platform",
-          "User experience"
+          "User experience",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -6868,11 +6839,11 @@
         "title": "ICON Teaser Update",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Video editing",
-          "Motion graphics"
+          "Motion graphics",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -6976,12 +6947,12 @@
         "title": "ICON Starter Kit - LexICON Layout",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "User experience",
-          "Publishing"
+          "Publishing",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -7025,11 +6996,11 @@
         "title": "ICON Brand Identity - Core Elements",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Branding",
-          "Design theory"
+          "Design theory",
+          "Communication Design"
         ],
         "tags": [
           "Identity",
@@ -7066,12 +7037,12 @@
         "title": "ICON Visual Applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "Visual culture",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -7121,9 +7092,8 @@
         "title": "ICON Starter Kit - Instruction Leaflet",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Visual communication",
           "User experience"
         ],
@@ -7161,11 +7131,11 @@
         "title": "ICON Starter Kit - Box Components",
         "type": "Sketch",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -7208,9 +7178,8 @@
         "title": "ICON Starter Kit - PLA Prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Design theory",
           "Product design",
           "Prototyping"
@@ -7264,9 +7233,8 @@
         "title": "ICON Starter Kit - Materials",
         "type": "Observation",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Design theory",
           "Product design",
           "Prototyping"
@@ -7295,9 +7263,8 @@
         "title": "ICON Starter Kit - Plexiglass 3D File",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Design theory",
           "Product design",
           "Prototyping"
@@ -7366,11 +7333,10 @@
         "title": "ICON Starter KIt - Tiles Production",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Product design",
-          "Interaction design",
+          "Interaction Design",
           "Prototyping"
         ],
         "tags": [
@@ -7421,12 +7387,12 @@
         "title": "ICON Website",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Web design",
           "Visual communication",
           "Digital platform",
-          "User experience"
+          "User experience",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -7478,11 +7444,11 @@
         "title": "ICON Starter Kit - Box inspiration",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -7517,12 +7483,12 @@
         "title": "ICON Website",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Web design",
           "Visual communication",
           "Digital platform",
-          "User experience"
+          "User experience",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -7590,11 +7556,11 @@
         "title": "ICON Starter Kit - Box Materials",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -7629,9 +7595,8 @@
         "title": "ICON Starter Kit - Technical ",
         "type": "Observation",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Design theory",
           "Product design",
           "Prototyping"
@@ -7654,10 +7619,9 @@
         "title": "ICON Starter Kit - Switch to ICON App",
         "type": "Decision",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
-          "Interaction design",
+          "Interaction Design",
           "Communication studies",
           "Digital platform",
           "Prototyping"
@@ -7686,10 +7650,9 @@
         "title": "ICON Starter Kit - App",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
-          "Interaction design",
+          "Interaction Design",
           "Communication studies",
           "Digital platform",
           "Prototyping"
@@ -7743,13 +7706,13 @@
         "title": "LexICON Logo",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Semiotics",
           "Visual communication",
           "Branding",
           "Language design",
-          "Communication studies"
+          "Communication studies",
+          "Communication Design"
         ],
         "tags": [
           "Lexicon",
@@ -7790,11 +7753,11 @@
         "title": "ICON - Logo",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Branding",
-          "Design theory"
+          "Design theory",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -7850,12 +7813,12 @@
         "title": "ICON Visual Applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "Visual culture",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -7905,10 +7868,10 @@
         "title": "ICON Starter Kit - Soldering",
         "type": "Decision",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Product design",
-          "Prototyping"
+          "Prototyping",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -7951,10 +7914,9 @@
         "title": "ICON Starter Kit - App",
         "type": "Decision",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
-          "Interaction design",
+          "Interaction Design",
           "Communication studies",
           "Digital platform",
           "Prototyping"
@@ -8043,9 +8005,8 @@
         "title": "ICON Starter Kit - Technical Improvements",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Design theory",
           "Product design",
           "Prototyping"
@@ -8114,13 +8075,13 @@
         "title": "LexICON Cover Design",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Semiotics",
           "Visual communication",
           "Branding",
           "Language design",
-          "Communication studies"
+          "Communication studies",
+          "Communication Design"
         ],
         "tags": [
           "Lexicon",
@@ -8178,11 +8139,11 @@
         "title": "ICON Teaser Update",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Video editing",
-          "Motion graphics"
+          "Motion graphics",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -8238,11 +8199,11 @@
         "title": "ICON Starter Kit - Cardboard Box Prototype",
         "type": "Sketch",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -8294,13 +8255,13 @@
         "title": "LexICON Cover Design",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Semiotics",
           "Visual communication",
           "Branding",
           "Language design",
-          "Communication studies"
+          "Communication studies",
+          "Communication Design"
         ],
         "tags": [
           "Lexicon",
@@ -8350,11 +8311,10 @@
         "title": "ICON Starter Kit - Tile Holder",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Product design",
-          "Interaction design",
+          "Interaction Design",
           "Prototyping"
         ],
         "tags": [
@@ -8405,12 +8365,12 @@
         "title": "ICON Visual Applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "Visual culture",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -8460,9 +8420,8 @@
         "title": "ICON Starter Kit - Assembly of the Device",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Design theory",
           "Product design",
           "Prototyping"
@@ -8523,9 +8482,8 @@
         "title": "Photography of ICON Starter Kit",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Design theory",
           "Product design",
           "Prototyping",
@@ -8595,11 +8553,11 @@
         "title": "ICON Teaser Update",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Video editing",
-          "Motion graphics"
+          "Motion graphics",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -8679,12 +8637,12 @@
         "title": "ICON Website",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Web design",
           "Visual communication",
           "Digital platform",
-          "User experience"
+          "User experience",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -8752,11 +8710,11 @@
         "title": "ICON Starter Kit - Box Layout",
         "type": "Sketch",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -8799,11 +8757,10 @@
         "title": "ICON Starter Kit - Tile Holder",
         "type": "Decision",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Product design",
-          "Interaction design",
+          "Interaction Design",
           "Prototyping"
         ],
         "tags": [
@@ -8846,12 +8803,12 @@
         "title": "ICON Visual Applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "Visual culture",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -8901,12 +8858,12 @@
         "title": "ICON Visual Applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "Visual culture",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -8964,10 +8921,9 @@
         "title": "ICON Starter Kit - Exercise Cards",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
-          "Interaction design",
+          "Interaction Design",
           "Communication studies",
           "Prototyping"
         ],
@@ -9021,9 +8977,8 @@
         "title": "ICON Starter Kit - Instructions",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Visual communication",
           "User experience"
         ],
@@ -9084,13 +9039,13 @@
         "title": "LexICON Cover Design",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Semiotics",
           "Visual communication",
           "Branding",
           "Language design",
-          "Communication studies"
+          "Communication studies",
+          "Communication Design"
         ],
         "tags": [
           "Lexicon",
@@ -9132,12 +9087,12 @@
         "title": "ICON Starter Kit - LexICON Layout",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "User experience",
-          "Publishing"
+          "Publishing",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -9181,9 +9136,8 @@
         "title": "ICON Starter Kit",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Design theory",
           "Product design",
           "Prototyping"
@@ -9218,12 +9172,12 @@
         "title": "ICON Starter Kit - LexICON printing",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "User experience",
-          "Publishing"
+          "Publishing",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -9259,11 +9213,11 @@
         "title": "ICON Starter Kit - Logo",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "Branding",
-          "Design theory"
+          "Design theory",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "The definitive logo of the ICON Starter Kit.",
@@ -9292,10 +9246,9 @@
         "title": "ICON Starter Kit - App",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
-          "Interaction design",
+          "Interaction Design",
           "Communication studies",
           "Digital platform",
           "Prototyping"
@@ -9335,10 +9288,9 @@
         "title": "ICON Starter Kit - App",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
-          "Interaction design",
+          "Interaction Design",
           "Communication studies",
           "Digital platform",
           "Prototyping"
@@ -9394,12 +9346,12 @@
         "title": "ICON Visual Applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "Visual culture",
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -9457,12 +9409,12 @@
         "title": "ICON Website",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Web design",
           "Visual communication",
           "Digital platform",
-          "User experience"
+          "User experience",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -9513,9 +9465,9 @@
         "title": "ICON Website - Sketches",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
-          "Web design"
+          "Web design",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -9555,12 +9507,12 @@
         "title": "ICON Website",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Web design",
           "Visual communication",
           "Digital platform",
-          "User experience"
+          "User experience",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -9619,12 +9571,12 @@
         "title": "ICON Website",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Web design",
           "Visual communication",
           "Digital platform",
-          "User experience"
+          "User experience",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -9676,12 +9628,12 @@
         "title": "ICON Starter Kit - LexICON",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "User experience",
-          "Publishing"
+          "Publishing",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -9725,11 +9677,11 @@
         "title": "ICON Starter Kit - Box",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -9762,12 +9714,12 @@
         "title": "ICON Starter Kit - Experience Video",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Visual communication",
           "Video editing",
-          "Media studies"
+          "Media studies",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -9819,11 +9771,11 @@
         "title": "ICON Starter Kit - Box Materials",
         "type": "Sketch",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -9857,11 +9809,11 @@
         "title": "ICON Starter Kit - Box Materials",
         "type": "Sketch",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -9927,11 +9879,10 @@
         "title": "ICON Starter Kit - Tile Holder",
         "type": "Observation",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Product design",
-          "Interaction design",
+          "Interaction Design",
           "Prototyping"
         ],
         "tags": [
@@ -9966,10 +9917,9 @@
         "title": "ICON Starter Kit - Exercise Cards",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
-          "Interaction design",
+          "Interaction Design",
           "Communication studies",
           "Prototyping"
         ],
@@ -10007,12 +9957,12 @@
         "title": "ICON Starter Kit - LexICON Bookmark",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "User experience",
-          "Publishing"
+          "Publishing",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -10047,11 +9997,11 @@
         "title": "ICON Starter Kit",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -10084,11 +10034,11 @@
         "title": "ICON Starter Kit - Box",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -10129,9 +10079,8 @@
         "title": "ICON Starter Kit - Instructions",
         "type": "Observation",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Interaction design",
+          "Interaction Design",
           "Visual communication",
           "User experience"
         ],
@@ -10159,10 +10108,9 @@
         "title": "ICON Starter Kit - Exercise Cards",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
-          "Interaction design",
+          "Interaction Design",
           "Communication studies",
           "Prototyping"
         ],
@@ -10200,12 +10148,12 @@
         "title": "ICON Starter Kit - LexICON Bookmark",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "User experience",
-          "Publishing"
+          "Publishing",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -10248,11 +10196,10 @@
         "title": "ICON Starter Kit - Tile Holder",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Product design",
-          "Interaction design",
+          "Interaction Design",
           "Prototyping"
         ],
         "tags": [
@@ -10287,12 +10234,12 @@
         "title": "ICON Starter Kit - LexICON (New Cover)",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "User experience",
-          "Publishing"
+          "Publishing",
+          "Communication Design"
         ],
         "tags": [],
         "desc": "We replaced the wrong cover with a new one.",
@@ -10321,10 +10268,9 @@
         "title": "ICON Starter Kit - Exercise Cards Box",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
-          "Interaction design",
+          "Interaction Design",
           "Communication studies",
           "Prototyping"
         ],
@@ -10378,12 +10324,12 @@
         "title": "ICON Starter Kit - LexICON Bookmark",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Design theory",
           "User experience",
-          "Publishing"
+          "Publishing",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -10426,12 +10372,12 @@
         "title": "ICON Starter Kit - Experience Video",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Visual communication",
           "Video editing",
-          "Media studies"
+          "Media studies",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -10465,12 +10411,12 @@
         "title": "Inspiration board for the booklet",
         "type": "Collection",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Design theory",
           "Data visualization",
           "Publishing",
-          "Visual communication"
+          "Visual communication",
+          "Communication Design"
         ],
         "tags": [
           "Materials",
@@ -10504,11 +10450,11 @@
         "title": "ICON Starter Kit ",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Visual communication",
           "User interaction",
-          "Product design"
+          "Product design",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -10592,11 +10538,11 @@
         "title": "ICON Starter Kit - Experience Video Animatic",
         "type": "Sketch",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Visual communication",
           "Video editing",
-          "Motion graphics"
+          "Motion graphics",
+          "Communication Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -10704,12 +10650,12 @@
         "title": "ICON Starter Kit - Experience Video",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Visual communication",
           "Video editing",
-          "Media studies"
+          "Media studies",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -10792,12 +10738,12 @@
         "title": "ICON Starter Kit - Experience Video",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
           "Design theory",
           "Visual communication",
           "Video editing",
-          "Media studies"
+          "Media studies",
+          "Interaction Design"
         ],
         "tags": [
           "Icon starter kit",
@@ -10912,12 +10858,12 @@
         "title": "",
         "type": "Artefact",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Design theory",
           "Data visualization",
           "Publishing",
-          "Visual communication"
+          "Visual communication",
+          "Communication Design"
         ],
         "tags": [],
         "desc": "",
@@ -10962,12 +10908,12 @@
         "title": "ICON Website",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Web design",
           "Visual communication",
           "Digital platform",
-          "User experience"
+          "User experience",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -11046,12 +10992,12 @@
         "title": "",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
           "Web design",
           "Visual communication",
           "Digital platform",
-          "User experience"
+          "User experience",
+          "Communication Design"
         ],
         "tags": [
           "Icon",
@@ -11090,7 +11036,6 @@
         "title": "Improving User Journey",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Feedback collected on the user journey of the ICON app highlighted a critical friction point in the onboarding phase. The presence of a “start” button requiring a click was identified as a usability issue, as it forces the user to rely on a mouse or an additional computer-based interaction, breaking the continuity of the experience. A more fluid solution was proposed: replacing the start button with a looping animation that visually invites the user to insert a tile into the physical device. The act of placing the first tile would naturally conclude the tutorial phase and seamlessly transition the interface to the translation mode.",

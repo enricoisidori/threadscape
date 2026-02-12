@@ -1,0 +1,651 @@
+{
+  "opts": {
+    "cwd": "/Users/enrico/Documents/GitHub/threadscape",
+    "json": "threadscape_validation.json",
+    "spanYearsWarn": 20,
+    "futureDaysWarn": 14,
+    "pastYearWarn": 1990,
+    "maxMissingAssetsToList": 20
+  },
+  "totals": {
+    "projects": 11,
+    "ok": 11,
+    "notOk": 0,
+    "nodes": 2048,
+    "edges": 3402,
+    "invalidDates": 0,
+    "missingDates": 0,
+    "missingAssets": 0,
+    "edgeMissingRefs": 0,
+    "dupNodeIds": 0
+  },
+  "results": [
+    {
+      "project": "1_linguistic",
+      "file": "/Users/enrico/Documents/GitHub/threadscape/1_linguistic/project.json",
+      "ok": true,
+      "version": 6,
+      "counts": {
+        "nodes": 162,
+        "edges": 541,
+        "actions": {
+          "exploring": 115,
+          "making": 29,
+          "other": 0,
+          "missing": 18
+        }
+      },
+      "dates": {
+        "invalid": 0,
+        "missing": 0,
+        "min": "2025-09-15",
+        "max": "2026-01-07",
+        "spanDays": 114.04166666666667,
+        "outOfRange": 0,
+        "future": 0
+      },
+      "schema": {
+        "nodesNotArray": false,
+        "edgesNotArray": false,
+        "nodeIdMissing": 0,
+        "nodeIdDuplicates": 0,
+        "edgeMissingRefs": 0,
+        "edgeSelfLoops": 0,
+        "edgeDuplicates": 0,
+        "nodeGeometryInvalid": 0,
+        "areasNotArray": 0,
+        "filesNotArray": 0,
+        "legacyMainAreasFields": 0,
+        "actionWeirdCase": 144
+      },
+      "assets": {
+        "fileEntries": 97,
+        "missing": 0,
+        "missingExamples": [],
+        "typeExtMismatch": 88,
+        "typeExtMismatchExamples": [
+          "1_linguistic/assets/Screenshot_2025-09-27_alle_12.00.24.jpg (type=image/png)",
+          "1_linguistic/assets/Screenshot_2025-09-27_alle_12.00.36.jpg (type=image/png)",
+          "1_linguistic/assets/Screenshot_2025-09-27_alle_12.16.49.jpg (type=image/png)",
+          "1_linguistic/assets/Screenshot_2025-09-24_alle_22.31.34.jpg (type=image/png)",
+          "1_linguistic/assets/Screenshot_2025-09-24_alle_22.35.00.jpg (type=image/png)",
+          "1_linguistic/assets/Screenshot_2025-09-24_alle_22.43.55.jpg (type=image/png)",
+          "1_linguistic/assets/Screenshot_2025-09-24_alle_22.44.47.jpg (type=image/png)",
+          "1_linguistic/assets/Screenshot_2025-09-26_alle_10.12.06.jpg (type=image/png)",
+          "1_linguistic/assets/Screenshot_2025-09-26_alle_10.12.52.jpg (type=image/png)",
+          "1_linguistic/assets/Screenshot_2025-09-26_alle_10.13.51.jpg (type=image/png)"
+        ],
+        "pathNotAssetsPrefix": 0
+      }
+    },
+    {
+      "project": "10_ecological",
+      "file": "/Users/enrico/Documents/GitHub/threadscape/10_ecological/project.json",
+      "ok": true,
+      "version": 6,
+      "counts": {
+        "nodes": 166,
+        "edges": 253,
+        "actions": {
+          "exploring": 41,
+          "making": 95,
+          "other": 0,
+          "missing": 30
+        }
+      },
+      "dates": {
+        "invalid": 0,
+        "missing": 0,
+        "min": "2025-09-15",
+        "max": "2026-12-26",
+        "spanDays": 467.0416666666667,
+        "outOfRange": 0,
+        "future": 2
+      },
+      "schema": {
+        "nodesNotArray": false,
+        "edgesNotArray": false,
+        "nodeIdMissing": 0,
+        "nodeIdDuplicates": 0,
+        "edgeMissingRefs": 0,
+        "edgeSelfLoops": 0,
+        "edgeDuplicates": 0,
+        "nodeGeometryInvalid": 0,
+        "areasNotArray": 0,
+        "filesNotArray": 0,
+        "legacyMainAreasFields": 0,
+        "actionWeirdCase": 136
+      },
+      "assets": {
+        "fileEntries": 174,
+        "missing": 0,
+        "missingExamples": [],
+        "typeExtMismatch": 74,
+        "typeExtMismatchExamples": [
+          "10_ecological/assets/Schermata_2025-09-25_alle_16.34.27.jpg (type=image/png)",
+          "10_ecological/assets/Schermata_2025-09-25_alle_16.43.34.jpg (type=image/png)",
+          "10_ecological/assets/Schermata_2025-09-25_alle_16.46.11.jpg (type=image/png)",
+          "10_ecological/assets/Schermata_2025-09-25_alle_16.50.08.jpg (type=image/png)",
+          "10_ecological/assets/Schermata_2025-09-25_alle_16.54.02.jpg (type=image/png)",
+          "10_ecological/assets/Screenshot_2025-10-06_alle_16.00.58.jpg (type=image/png)",
+          "10_ecological/assets/Screenshot_2025-10-06_alle_16.04.06.jpg (type=image/png)",
+          "10_ecological/assets/Screenshot_2025-10-09_alle_13.21.36.jpg (type=image/png)",
+          "10_ecological/assets/Screenshot_2025-10-09_alle_13.24.37.jpg (type=image/png)",
+          "10_ecological/assets/Screenshot_2025-10-07_alle_11.26.23.jpg (type=image/png)"
+        ],
+        "pathNotAssetsPrefix": 0
+      }
+    },
+    {
+      "project": "11_infrastructural",
+      "file": "/Users/enrico/Documents/GitHub/threadscape/11_infrastructural/project.json",
+      "ok": true,
+      "version": 6,
+      "counts": {
+        "nodes": 243,
+        "edges": 330,
+        "actions": {
+          "exploring": 148,
+          "making": 85,
+          "other": 0,
+          "missing": 10
+        }
+      },
+      "dates": {
+        "invalid": 0,
+        "missing": 0,
+        "min": "2025-02-03",
+        "max": "2026-02-03",
+        "spanDays": 365,
+        "outOfRange": 0,
+        "future": 0
+      },
+      "schema": {
+        "nodesNotArray": false,
+        "edgesNotArray": false,
+        "nodeIdMissing": 0,
+        "nodeIdDuplicates": 0,
+        "edgeMissingRefs": 0,
+        "edgeSelfLoops": 0,
+        "edgeDuplicates": 0,
+        "nodeGeometryInvalid": 0,
+        "areasNotArray": 0,
+        "filesNotArray": 0,
+        "legacyMainAreasFields": 0,
+        "actionWeirdCase": 233
+      },
+      "assets": {
+        "fileEntries": 203,
+        "missing": 0,
+        "missingExamples": [],
+        "typeExtMismatch": 155,
+        "typeExtMismatchExamples": [
+          "11_infrastructural/assets/image_117.jpg (type=image/png)",
+          "11_infrastructural/assets/cf431603-068a-4984-8c17-c6f0821f1e38.jpg (type=image/gif)",
+          "11_infrastructural/assets/image_127.jpg (type=image/png)",
+          "11_infrastructural/assets/image_91.jpg (type=image/png)",
+          "11_infrastructural/assets/image_92.jpg (type=image/png)",
+          "11_infrastructural/assets/image_102.jpg (type=image/png)",
+          "11_infrastructural/assets/everest.jpg (type=image/webp)",
+          "11_infrastructural/assets/image_168.jpg (type=image/png)",
+          "11_infrastructural/assets/image_204.jpg (type=image/png)",
+          "11_infrastructural/assets/image_215.jpg (type=image/png)"
+        ],
+        "pathNotAssetsPrefix": 0
+      }
+    },
+    {
+      "project": "2_media",
+      "file": "/Users/enrico/Documents/GitHub/threadscape/2_media/project.json",
+      "ok": true,
+      "version": 6,
+      "counts": {
+        "nodes": 171,
+        "edges": 201,
+        "actions": {
+          "exploring": 137,
+          "making": 32,
+          "other": 0,
+          "missing": 2
+        }
+      },
+      "dates": {
+        "invalid": 0,
+        "missing": 0,
+        "min": "2025-09-15",
+        "max": "2026-01-30",
+        "spanDays": 137.04166666666666,
+        "outOfRange": 0,
+        "future": 0
+      },
+      "schema": {
+        "nodesNotArray": false,
+        "edgesNotArray": false,
+        "nodeIdMissing": 0,
+        "nodeIdDuplicates": 0,
+        "edgeMissingRefs": 0,
+        "edgeSelfLoops": 0,
+        "edgeDuplicates": 0,
+        "nodeGeometryInvalid": 0,
+        "areasNotArray": 0,
+        "filesNotArray": 0,
+        "legacyMainAreasFields": 0,
+        "actionWeirdCase": 169
+      },
+      "assets": {
+        "fileEntries": 218,
+        "missing": 0,
+        "missingExamples": [],
+        "typeExtMismatch": 171,
+        "typeExtMismatchExamples": [
+          "2_media/assets/Screenshot_2025-09-23_at_12.12.53.jpg (type=image/png)",
+          "2_media/assets/Screenshot_2025-09-23_at_15.11.44.jpg (type=image/png)",
+          "2_media/assets/Screenshot_2025-09-23_at_15.31.10.jpg (type=image/png)",
+          "2_media/assets/Screenshot_2025-09-23_at_15.40.11.jpg (type=image/png)",
+          "2_media/assets/Screenshot_2025-09-23_at_15.45.57.jpg (type=image/png)",
+          "2_media/assets/Screenshot_2025-09-24_at_19.58.00.jpg (type=image/png)",
+          "2_media/assets/Screenshot_2025-09-24_at_19.58.16.jpg (type=image/png)",
+          "2_media/assets/Screenshot_2025-09-24_at_19.58.08.jpg (type=image/png)",
+          "2_media/assets/Screenshot_2025-10-21_at_15.13.32.jpg (type=image/png)",
+          "2_media/assets/Screenshot_2025-10-22_at_11.13.36.jpg (type=image/png)"
+        ],
+        "pathNotAssetsPrefix": 0
+      }
+    },
+    {
+      "project": "3_cognitive",
+      "file": "/Users/enrico/Documents/GitHub/threadscape/3_cognitive/project.json",
+      "ok": true,
+      "version": 6,
+      "counts": {
+        "nodes": 158,
+        "edges": 227,
+        "actions": {
+          "exploring": 69,
+          "making": 81,
+          "other": 0,
+          "missing": 8
+        }
+      },
+      "dates": {
+        "invalid": 0,
+        "missing": 0,
+        "min": "2025-09-15",
+        "max": "2026-01-28",
+        "spanDays": 135.04166666666666,
+        "outOfRange": 0,
+        "future": 0
+      },
+      "schema": {
+        "nodesNotArray": false,
+        "edgesNotArray": false,
+        "nodeIdMissing": 0,
+        "nodeIdDuplicates": 0,
+        "edgeMissingRefs": 0,
+        "edgeSelfLoops": 0,
+        "edgeDuplicates": 0,
+        "nodeGeometryInvalid": 0,
+        "areasNotArray": 0,
+        "filesNotArray": 0,
+        "legacyMainAreasFields": 0,
+        "actionWeirdCase": 150
+      },
+      "assets": {
+        "fileEntries": 152,
+        "missing": 0,
+        "missingExamples": [],
+        "typeExtMismatch": 113,
+        "typeExtMismatchExamples": [
+          "3_cognitive/assets/Screenshot_2025-10-07_alle_14.45.14.jpg (type=image/png)",
+          "3_cognitive/assets/Screenshot_2025-10-07_alle_14.45.28.jpg (type=image/png)",
+          "3_cognitive/assets/Screenshot_2025-10-07_alle_14.46.19.jpg (type=image/png)",
+          "3_cognitive/assets/Screenshot_2025-10-07_alle_14.46.26.jpg (type=image/png)",
+          "3_cognitive/assets/Screenshot_2025-10-07_alle_14.47.13.jpg (type=image/png)",
+          "3_cognitive/assets/Screenshot_2025-10-07_alle_14.47.19.jpg (type=image/png)",
+          "3_cognitive/assets/Screenshot_2025-10-07_alle_15.13.32.jpg (type=image/png)",
+          "3_cognitive/assets/Screenshot_2025-10-07_alle_15.15.52.jpg (type=image/png)",
+          "3_cognitive/assets/Screenshot_2025-10-24_alle_10.31.56.jpg (type=image/png)",
+          "3_cognitive/assets/Screenshot_2025-10-24_alle_10.57.30.jpg (type=image/png)"
+        ],
+        "pathNotAssetsPrefix": 0
+      }
+    },
+    {
+      "project": "4_metric",
+      "file": "/Users/enrico/Documents/GitHub/threadscape/4_metric/project.json",
+      "ok": true,
+      "version": 6,
+      "counts": {
+        "nodes": 352,
+        "edges": 541,
+        "actions": {
+          "exploring": 81,
+          "making": 241,
+          "other": 0,
+          "missing": 30
+        }
+      },
+      "dates": {
+        "invalid": 0,
+        "missing": 0,
+        "min": "2025-09-15",
+        "max": "2026-02-11",
+        "spanDays": 149.04166666666666,
+        "outOfRange": 0,
+        "future": 0
+      },
+      "schema": {
+        "nodesNotArray": false,
+        "edgesNotArray": false,
+        "nodeIdMissing": 0,
+        "nodeIdDuplicates": 0,
+        "edgeMissingRefs": 0,
+        "edgeSelfLoops": 0,
+        "edgeDuplicates": 0,
+        "nodeGeometryInvalid": 0,
+        "areasNotArray": 0,
+        "filesNotArray": 0,
+        "legacyMainAreasFields": 0,
+        "actionWeirdCase": 322
+      },
+      "assets": {
+        "fileEntries": 179,
+        "missing": 0,
+        "missingExamples": [],
+        "typeExtMismatch": 176,
+        "typeExtMismatchExamples": [
+          "4_metric/assets/Screenshot_2026-02-03_at_11.31.38.jpg (type=image/png)",
+          "4_metric/assets/Screenshot_2026-02-03_at_11.32.14.jpg (type=image/png)",
+          "4_metric/assets/Screenshot_2026-02-03_at_11.30.31.jpg (type=image/png)",
+          "4_metric/assets/Screenshot_2026-02-03_at_11.30.43.jpg (type=image/png)",
+          "4_metric/assets/Screenshot_2026-02-03_at_11.30.57.jpg (type=image/png)",
+          "4_metric/assets/Screenshot_2026-02-03_at_11.29.33.jpg (type=image/png)",
+          "4_metric/assets/Screenshot_2026-02-03_at_11.28.54.jpg (type=image/png)",
+          "4_metric/assets/Screenshot_2026-02-03_at_11.30.00.jpg (type=image/png)",
+          "4_metric/assets/Screenshot_2026-02-03_at_11.26.45.jpg (type=image/png)",
+          "4_metric/assets/Screenshot_2026-02-03_at_11.26.30.jpg (type=image/png)"
+        ],
+        "pathNotAssetsPrefix": 0
+      }
+    },
+    {
+      "project": "5_symbolic",
+      "file": "/Users/enrico/Documents/GitHub/threadscape/5_symbolic/project.json",
+      "ok": true,
+      "version": 6,
+      "counts": {
+        "nodes": 242,
+        "edges": 471,
+        "actions": {
+          "exploring": 98,
+          "making": 114,
+          "other": 0,
+          "missing": 30
+        }
+      },
+      "dates": {
+        "invalid": 0,
+        "missing": 0,
+        "min": "2025-09-15",
+        "max": "2026-02-26",
+        "spanDays": 164.04166666666666,
+        "outOfRange": 0,
+        "future": 1
+      },
+      "schema": {
+        "nodesNotArray": false,
+        "edgesNotArray": false,
+        "nodeIdMissing": 0,
+        "nodeIdDuplicates": 0,
+        "edgeMissingRefs": 0,
+        "edgeSelfLoops": 0,
+        "edgeDuplicates": 0,
+        "nodeGeometryInvalid": 0,
+        "areasNotArray": 0,
+        "filesNotArray": 0,
+        "legacyMainAreasFields": 0,
+        "actionWeirdCase": 212
+      },
+      "assets": {
+        "fileEntries": 472,
+        "missing": 0,
+        "missingExamples": [],
+        "typeExtMismatch": 436,
+        "typeExtMismatchExamples": [
+          "5_symbolic/assets/Screenshot_2025-10-16_alle_09.19.51.jpg (type=image/png)",
+          "5_symbolic/assets/Screenshot_2025-10-16_alle_08.56.32.jpg (type=image/png)",
+          "5_symbolic/assets/Screenshot_2025-10-16_alle_08.56.58.jpg (type=image/png)",
+          "5_symbolic/assets/Screenshot_2025-10-16_alle_08.57.56.jpg (type=image/png)",
+          "5_symbolic/assets/Screenshot_2025-10-16_alle_08.58.04.jpg (type=image/png)",
+          "5_symbolic/assets/Screenshot_2025-10-16_alle_08.59.23.jpg (type=image/png)",
+          "5_symbolic/assets/Screenshot_2025-10-16_alle_09.14.56.jpg (type=image/png)",
+          "5_symbolic/assets/Screenshot_2025-10-16_alle_09.25.58.jpg (type=image/png)",
+          "5_symbolic/assets/Screenshot_2025-09-24_alle_17.07.43.jpg (type=image/png)",
+          "5_symbolic/assets/Screenshot_2025-09-24_alle_17.07.23.jpg (type=image/png)"
+        ],
+        "pathNotAssetsPrefix": 0
+      }
+    },
+    {
+      "project": "6_cultural",
+      "file": "/Users/enrico/Documents/GitHub/threadscape/6_cultural/project.json",
+      "ok": true,
+      "version": 6,
+      "counts": {
+        "nodes": 140,
+        "edges": 170,
+        "actions": {
+          "exploring": 63,
+          "making": 55,
+          "other": 0,
+          "missing": 22
+        }
+      },
+      "dates": {
+        "invalid": 0,
+        "missing": 0,
+        "min": "2025-09-15",
+        "max": "2026-02-01",
+        "spanDays": 139.04166666666666,
+        "outOfRange": 0,
+        "future": 0
+      },
+      "schema": {
+        "nodesNotArray": false,
+        "edgesNotArray": false,
+        "nodeIdMissing": 0,
+        "nodeIdDuplicates": 0,
+        "edgeMissingRefs": 0,
+        "edgeSelfLoops": 0,
+        "edgeDuplicates": 0,
+        "nodeGeometryInvalid": 0,
+        "areasNotArray": 0,
+        "filesNotArray": 0,
+        "legacyMainAreasFields": 0,
+        "actionWeirdCase": 118
+      },
+      "assets": {
+        "fileEntries": 144,
+        "missing": 0,
+        "missingExamples": [],
+        "typeExtMismatch": 119,
+        "typeExtMismatchExamples": [
+          "6_cultural/assets/image_7.jpg (type=image/png)",
+          "6_cultural/assets/badjao.jpg (type=image/png)",
+          "6_cultural/assets/image_6.jpg (type=image/png)",
+          "6_cultural/assets/Screenshot_2025-09-20_alle_11.42.08_1.jpg (type=image/png)",
+          "6_cultural/assets/image_1.jpg (type=image/png)",
+          "6_cultural/assets/Screenshot_2025-09-27_alle_16.21.28.jpg (type=image/png)",
+          "6_cultural/assets/image_30.jpg (type=image/png)",
+          "6_cultural/assets/image_3.jpg (type=image/png)",
+          "6_cultural/assets/image_2.jpg (type=image/png)",
+          "6_cultural/assets/image_62.jpg (type=image/png)"
+        ],
+        "pathNotAssetsPrefix": 0
+      }
+    },
+    {
+      "project": "7_social",
+      "file": "/Users/enrico/Documents/GitHub/threadscape/7_social/project.json",
+      "ok": true,
+      "version": 6,
+      "counts": {
+        "nodes": 168,
+        "edges": 198,
+        "actions": {
+          "exploring": 84,
+          "making": 76,
+          "other": 0,
+          "missing": 8
+        }
+      },
+      "dates": {
+        "invalid": 0,
+        "missing": 0,
+        "min": "2025-09-15",
+        "max": "2026-02-10",
+        "spanDays": 148.04166666666666,
+        "outOfRange": 0,
+        "future": 0
+      },
+      "schema": {
+        "nodesNotArray": false,
+        "edgesNotArray": false,
+        "nodeIdMissing": 0,
+        "nodeIdDuplicates": 0,
+        "edgeMissingRefs": 0,
+        "edgeSelfLoops": 0,
+        "edgeDuplicates": 0,
+        "nodeGeometryInvalid": 0,
+        "areasNotArray": 0,
+        "filesNotArray": 0,
+        "legacyMainAreasFields": 0,
+        "actionWeirdCase": 160
+      },
+      "assets": {
+        "fileEntries": 85,
+        "missing": 0,
+        "missingExamples": [],
+        "typeExtMismatch": 46,
+        "typeExtMismatchExamples": [
+          "7_social/assets/Screenshot_2025-11-18_at_12.13.30.jpg (type=image/png)",
+          "7_social/assets/P90_Official_No_Bg.jpg (type=image/png)",
+          "7_social/assets/Screenshot_2025-12-02_at_15.21.31.jpg (type=image/png)",
+          "7_social/assets/Structura_box_L_1.jpg (type=image/png)",
+          "7_social/assets/Structura_box_L_3.jpg (type=image/png)",
+          "7_social/assets/Screenshot_2025-12-16_at_2.33.03_PM.jpg (type=image/png)",
+          "7_social/assets/Screenshot_2025-12-16_at_12.05.24_PM.jpg (type=image/png)",
+          "7_social/assets/Screenshot_2025-12-16_at_2.37.38_PM.jpg (type=image/png)",
+          "7_social/assets/Screenshot_2025-12-16_at_2.40.56_PM.jpg (type=image/png)",
+          "7_social/assets/Screenshot_2025-12-16_at_2.43.54_PM.jpg (type=image/png)"
+        ],
+        "pathNotAssetsPrefix": 0
+      }
+    },
+    {
+      "project": "8_bureaucratic",
+      "file": "/Users/enrico/Documents/GitHub/threadscape/8_bureaucratic/project.json",
+      "ok": true,
+      "version": 6,
+      "counts": {
+        "nodes": 234,
+        "edges": 459,
+        "actions": {
+          "exploring": 106,
+          "making": 105,
+          "other": 0,
+          "missing": 23
+        }
+      },
+      "dates": {
+        "invalid": 0,
+        "missing": 0,
+        "min": "2025-09-15",
+        "max": "2026-02-01",
+        "spanDays": 139.04166666666666,
+        "outOfRange": 0,
+        "future": 0
+      },
+      "schema": {
+        "nodesNotArray": false,
+        "edgesNotArray": false,
+        "nodeIdMissing": 0,
+        "nodeIdDuplicates": 0,
+        "edgeMissingRefs": 0,
+        "edgeSelfLoops": 0,
+        "edgeDuplicates": 0,
+        "nodeGeometryInvalid": 0,
+        "areasNotArray": 0,
+        "filesNotArray": 0,
+        "legacyMainAreasFields": 0,
+        "actionWeirdCase": 211
+      },
+      "assets": {
+        "fileEntries": 95,
+        "missing": 0,
+        "missingExamples": [],
+        "typeExtMismatch": 54,
+        "typeExtMismatchExamples": [
+          "8_bureaucratic/assets/9.jpg (type=image/png)",
+          "8_bureaucratic/assets/10.jpg (type=image/png)",
+          "8_bureaucratic/assets/11.jpg (type=image/png)",
+          "8_bureaucratic/assets/12.jpg (type=image/png)",
+          "8_bureaucratic/assets/13.jpg (type=image/png)",
+          "8_bureaucratic/assets/14.jpg (type=image/png)",
+          "8_bureaucratic/assets/15.jpg (type=image/png)",
+          "8_bureaucratic/assets/16.jpg (type=image/png)",
+          "8_bureaucratic/assets/17.jpg (type=image/png)",
+          "8_bureaucratic/assets/18.jpg (type=image/png)"
+        ],
+        "pathNotAssetsPrefix": 0
+      }
+    },
+    {
+      "project": "9_digital",
+      "file": "/Users/enrico/Documents/GitHub/threadscape/9_digital/project.json",
+      "ok": true,
+      "version": 6,
+      "counts": {
+        "nodes": 12,
+        "edges": 11,
+        "actions": {
+          "exploring": 0,
+          "making": 0,
+          "other": 0,
+          "missing": 12
+        }
+      },
+      "dates": {
+        "invalid": 0,
+        "missing": 0,
+        "min": "2025-09-15",
+        "max": "2025-09-18",
+        "spanDays": 3,
+        "outOfRange": 0,
+        "future": 0
+      },
+      "schema": {
+        "nodesNotArray": false,
+        "edgesNotArray": false,
+        "nodeIdMissing": 0,
+        "nodeIdDuplicates": 0,
+        "edgeMissingRefs": 0,
+        "edgeSelfLoops": 0,
+        "edgeDuplicates": 0,
+        "nodeGeometryInvalid": 0,
+        "areasNotArray": 0,
+        "filesNotArray": 0,
+        "legacyMainAreasFields": 0,
+        "actionWeirdCase": 0
+      },
+      "assets": {
+        "fileEntries": 0,
+        "missing": 0,
+        "missingExamples": [],
+        "typeExtMismatch": 0,
+        "typeExtMismatchExamples": [],
+        "pathNotAssetsPrefix": 0
+      }
+    }
+  ]
+}

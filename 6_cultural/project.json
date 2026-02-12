@@ -6,18 +6,17 @@
       "x": -1952,
       "y": -40,
       "w": 320,
-      "h": 807,
+      "h": 796,
       "group": null,
       "data": {
         "date": "2025-09-16",
         "title": "Conflict: a Distributed Condition: Contemporary War Ecologies",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "Media studies",
-          "Communication",
+          "Communication Design",
           "Cultural practices",
           "Critical design",
           "Design research",
@@ -39,182 +38,17 @@
       }
     },
     {
-      "id": "nqaspco0",
-      "x": -2424,
-      "y": -44,
-      "w": 320,
-      "h": 322,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Linguistic conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Media studies",
-          "Semiotics",
-          "Communication design",
-          "Interface design",
-          "Cultural studies"
-        ],
-        "tags": [
-          "Memetics",
-          "Persuasive rhetoric",
-          "Semiotic warfare",
-          "Language manipulation",
-          "Interface politics",
-          "Discourse control"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n4q8mtzu",
-      "x": -1472,
-      "y": 322,
-      "w": 320,
-      "h": 344,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Media conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Media theory",
-          "Journalism studies",
-          "Information systems",
-          "Political communication",
-          "Critical media design"
-        ],
-        "tags": [
-          "Propaganda systems",
-          "Disinformation",
-          "Deepfake",
-          "Rumor propagation",
-          "Narrative control",
-          "Attention economy"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nwl9ouvl",
-      "x": -1472,
-      "y": 706,
-      "w": 320,
-      "h": 344,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Cognitive conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Neuroscience",
-          "Human-computer interaction",
-          "Biopolitics",
-          "Cyberpsychology",
-          "Critical technology studies"
-        ],
-        "tags": [
-          "Neurocontrol",
-          "Brain hacking",
-          "Cognitive warfare",
-          "Neural interfaces",
-          "Psychopolitics"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "npongriz",
-      "x": -1472,
-      "y": 1090,
-      "w": 320,
-      "h": 344,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Metric conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Data ethics",
-          "Algorithm studies",
-          "Sociology of technology",
-          "Critical data studies",
-          "Digital governance"
-        ],
-        "tags": [
-          "Algorithmic bias",
-          "Data politics",
-          "Scoring systems",
-          "Quantification",
-          "Metric governance",
-          "Predictive control"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "n7z0p86f",
-      "x": -1472,
-      "y": 1474,
-      "w": 320,
-      "h": 299,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Symbolic conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Cultural studies",
-          "Art history",
-          "Memory studies",
-          "Heritage studies",
-          "Semiotics"
-        ],
-        "tags": [
-          "Cultural memory",
-          "Heritage politics",
-          "Myth-making",
-          "Iconographic power",
-          "Narrative hegemony",
-          "Semiotic infrastructures"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "n92sunmm",
       "x": -1472,
       "y": 1813,
       "w": 320,
-      "h": 299,
+      "h": 283,
       "group": null,
       "data": {
         "date": "2025-09-19",
         "title": "Cultural conflict",
         "type": "Brief",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Anthropology",
           "Sociology",
@@ -235,180 +69,17 @@
       }
     },
     {
-      "id": "n3vsqfai",
-      "x": -1472,
-      "y": 2152,
-      "w": 320,
-      "h": 299,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Social conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Sociology",
-          "Political science",
-          "Law and rights studies",
-          "Social policy",
-          "Critical theory"
-        ],
-        "tags": [
-          "Citizenship struggles",
-          "Rights negotiation",
-          "Representation crisis",
-          "Social stratification",
-          "Identity politics"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "ncob3sst",
-      "x": -1472,
-      "y": 2491,
-      "w": 320,
-      "h": 344,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Bureaucratic conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Legal studies",
-          "Political geography",
-          "Bureaucracy studies",
-          "Governance",
-          "Critical urbanism"
-        ],
-        "tags": [
-          "Administrative violence",
-          "Legal cartographies",
-          "Border regimes",
-          "Paper governance",
-          "Procedural control"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "ne7rohui",
-      "x": -1472,
-      "y": 2875,
-      "w": 320,
-      "h": 322,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Digital conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Computer science",
-          "Cybersecurity",
-          "Digital geopolitics",
-          "Ai ethics",
-          "Critical infrastructure studies"
-        ],
-        "tags": [
-          "Automation control",
-          "Kill chain",
-          "Ai warfare",
-          "Protocol politics",
-          "Simulated conflict",
-          "Cyberwarfare"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nr86jk3r",
-      "x": -1472,
-      "y": 3237,
-      "w": 320,
-      "h": 322,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Ecological conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Political ecology",
-          "Environmental studies",
-          "Sustainability studies",
-          "Geography",
-          "Climate justice"
-        ],
-        "tags": [
-          "Geoengineering",
-          "Resource wars",
-          "Ecocide",
-          "Energy politics",
-          "Environmental violence",
-          "Multispecies justice"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
-      "id": "nvlahv4k",
-      "x": -1472,
-      "y": 3599,
-      "w": 320,
-      "h": 344,
-      "group": null,
-      "data": {
-        "date": "2025-09-19",
-        "title": "Infrastructural conflict",
-        "type": "Brief",
-        "action": null,
-        "mainArea": null,
-        "areas": [
-          "Infrastructure studies",
-          "Urban studies",
-          "Political geography",
-          "Systems theory",
-          "Supply chain studies"
-        ],
-        "tags": [
-          "Logistics power",
-          "Infrastructural geopolitics",
-          "Network control",
-          "Chokepoints",
-          "Extractive systems"
-        ],
-        "desc": "",
-        "links": [],
-        "files": []
-      }
-    },
-    {
       "id": "njixu8s1",
       "x": 1093.2680334298655,
       "y": 1290.1640004884434,
       "w": 320,
-      "h": 776,
+      "h": 758,
       "group": null,
       "data": {
         "date": "2025-09-21",
         "title": "New Colonialism",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "People",
           "Media studies",
@@ -437,14 +108,13 @@
       "x": 2560.4945509860668,
       "y": 1209.6720241177184,
       "w": 320,
-      "h": 331,
+      "h": 310,
       "group": null,
       "data": {
         "date": "2025-09-21",
         "title": "The Limits of Automated Moderation in Minoritized Languages",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-political",
           "People"
@@ -462,14 +132,13 @@
       "x": 1739.6019331436148,
       "y": 887.7004735755106,
       "w": 320,
-      "h": 409,
+      "h": 387,
       "group": null,
       "data": {
         "date": "2025-09-21",
         "title": "Cognitive Imperialism and AI Failure",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "While AI drives transformation, its development primarily follows Western paradigms, often ignoring Indigenous knowledge systems. This oversight is a form of cognitive imperialism, which perpetuates biases and limits the creation of truly inclusive AI. Consequently, AI systems frequently misinterpret Indigenous realities, leading to culturally insensitive or harmful solutions. Closing this gap is crucial for building universally reliable and ethical AI technology.",
@@ -484,14 +153,13 @@
       "x": 2662.7006788486387,
       "y": 404.75945641015085,
       "w": 320,
-      "h": 432,
+      "h": 411,
       "group": null,
       "data": {
         "date": "2025-09-21",
         "title": "Integrating Indigenous Knowledge to Decolonize AI",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Critical theory"
         ],
@@ -508,14 +176,13 @@
       "x": 2148.1237063050744,
       "y": 1162.5500689846672,
       "w": 320,
-      "h": 409,
+      "h": 387,
       "group": null,
       "data": {
         "date": "2025-09-21",
         "title": " Techno-Linguistic Bias and Epistemic Injustice in AI",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "AI language technologies cover very few of the world's languages. Efforts to include \"underserved\" languages often lead to solutions plagued by techno-linguistic bias. This bias prioritizes the concepts and structures of dominant languages in system design, resulting in the misrepresentation of marginalized cultures and communities. The authors frame this as epistemic injustice, highlighting that this reductive approach excludes the unique needs and worldviews of many linguistic communities, with real socio-political consequences.",
@@ -530,17 +197,17 @@
       "x": 3026.939829136074,
       "y": 896.1639650233219,
       "w": 320,
-      "h": 421,
+      "h": 425,
       "group": null,
       "data": {
         "date": "2025-09-22",
         "title": "Indigenous Data Sovereignty: A Response to Algorithmic Exclusion",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Media studies",
-          "Socio-cultural"
+          "Socio-cultural",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "Indigenous communities suffer more harm than benefit from algorithms and do not participate in their design. To react, they have developed the concept of Indigenous Data Sovereignty (IDS), which is the right to manage their own data according to their own laws and cultures. A concrete example is Māori Data Sovereignty in New Zealand, which has generated models for data use that is respectful of Māori culture.",
@@ -555,15 +222,16 @@
       "x": 1745.9596493590723,
       "y": 423.5862546826833,
       "w": 320,
-      "h": 409,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-09-22",
         "title": "Decolonizing Data: Indigenous Sovereignty and the CARE Principles",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "The research criticizes data mining for replicating colonial logic and excluding Indigenous voices in AI development. It calls for recognizing Indigenous Data Sovereignty and using the CARE Principles (Collective Benefit, Authority to Control, Responsibility, and Ethics) as a framework. Case studies show that proper data governance protects both Indigenous communities and environmental ecosystems, proposing an ethical development model that prioritizes justice over profit.",
         "links": [
@@ -577,14 +245,13 @@
       "x": 1087.1896159929363,
       "y": 2807.673078873794,
       "w": 320,
-      "h": 540,
+      "h": 520,
       "group": null,
       "data": {
         "date": "2025-09-22",
         "title": "Badjao Tribe",
         "type": "Case study",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-cultural"
         ],
@@ -608,14 +275,13 @@
       "x": 1061.6358110044134,
       "y": 4523.026862207892,
       "w": 320,
-      "h": 729,
+      "h": 708,
       "group": null,
       "data": {
         "date": "2025-09-22",
         "title": "Sanguma",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-cultural",
           "Conflicts"
@@ -644,14 +310,13 @@
       "x": 1750.0126304352443,
       "y": 1385.3670095148564,
       "w": 320,
-      "h": 639,
+      "h": 620,
       "group": null,
       "data": {
         "date": "2025-09-22",
         "title": "Facial Recognition Bias: Misclassifying Dark-Skinned Women",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Critical theory",
           "Media studies"
@@ -678,14 +343,13 @@
       "x": 1669.014289884187,
       "y": 3059.7838236127154,
       "w": 320,
-      "h": 736,
+      "h": 715,
       "group": null,
       "data": {
         "date": "2025-09-22",
         "title": "Indigenous Knowledge Exclusion in Marine Conservation",
         "type": "",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The Badjao's animistic worldview and symbiotic relationship with the sea are dismissed as primitive and unscientific. Their knowledge is ignored, and their fishing methods are often banned.\n\nSpecific top-down conservation policies have been created that exclude the Badjao from the planning and management of Marine Protected Areas, failing to recognize their historical role as environmental stewards.",
@@ -711,14 +375,13 @@
       "x": 1693.2971301995562,
       "y": 4177.598148637291,
       "w": 320,
-      "h": 495,
+      "h": 473,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "Modern witch hunts",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Modern witch hunts are not relics of the past but a persistent crisis in regions like Papua New Guinea, Sub-Saharan Africa, and parts of India.\n\nThis violence is a symptom of failing modern institutions (medicine, economy, law). When structural issues like poverty or unexplained sicknesses lack rational explanation, the frustration is channeled into belief in sorcery. Vulnerable individuals—often older women or widows—are identified as scapegoats by local diviners for profit.\n\nThis mechanism replaces state authority with supernatural conflict, allowing community-sanctioned torture and murder to continue where the legal system is absent or distrusted.",
@@ -734,14 +397,13 @@
       "x": 2567.479889534675,
       "y": 5032.415824863113,
       "w": 320,
-      "h": 447,
+      "h": 425,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The Scientific American video highlights that the severe violence and fear surrounding witchcraft accusations (SARV) in Papua New Guinea are rooted in a lack of scientific explanation for misfortune, sickness, and death.\n\nThe solution being explored involves public health initiatives and science education to combat deep-seated beliefs. By providing reliable, verifiable explanations for common diseases (like malaria or typhoid), proponents aim to dismantle the necessity of blaming innocent individuals (often women and children) and reduce the authority of sorcery beliefs in favor of scientific and biomedical understanding.",
@@ -756,14 +418,13 @@
       "x": 2122.6401200002247,
       "y": 5001.57882311519,
       "w": 320,
-      "h": 443,
+      "h": 421,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "PNG Criminalizes Sorcery Accusation Violence (SARV)",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "In February 2022, the Papua New Guinea Parliament passed key amendments to the Criminal Code aimed at combating the rising scourge of violence related to sorcery accusations (SARV).\n\nThe new legislation takes a bold step by formally criminalizing SARV and specifically targeting the glasman and glasmeri (diviners or witch-finders) who are paid to identify alleged sorcerers, often resulting in the torture, rape, and murder of vulnerable women and children.",
@@ -778,14 +439,13 @@
       "x": 1695.6128294808536,
       "y": 5251.546297093761,
       "w": 320,
-      "h": 428,
+      "h": 406,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "Children as Scapegoats in Modern Witch Hunts",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "In places like Papua New Guinea and parts of Africa, children are increasingly targeted and accused of being \"child witches\" or sorcerers.\n\nWhen communities face unexplained tragedies (sickness, death, or financial ruin), diviners often pinpoint the most vulnerable individuals as scapegoats for profit. These victims are typically orphans, disabled children, or those from marginalized families.",
@@ -801,14 +461,13 @@
       "x": 1688.2055098497817,
       "y": 4719.923627974636,
       "w": 320,
-      "h": 495,
+      "h": 473,
       "group": null,
       "data": {
         "date": "2025-09-23",
         "title": "Ghana's Witch Camps: Exile for the Elderly",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "In Ghana, hundreds of elderly women are accused of witchcraft, often due to poverty, land disputes, or unaddressed health issues (e.g., lack of scientific understanding of disease).\n\nForced out of their communities, these survivors seek refuge in informal \"witch camps.\" Conditions there are dire, lacking electricity, adequate housing, and social welfare programs.\n\nMany women, unable to work, are abandoned by their families and charities, leading them to die of hunger, disease, and neglect. Activists emphasize that the key to ending this crisis is not closing the camps, but tackling and ending the witchcraft accusations in the communities themselves.",
@@ -824,14 +483,13 @@
       "x": 2682.9624297377954,
       "y": 2402.0839862043813,
       "w": 320,
-      "h": 456,
+      "h": 435,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "What if the only way for preservation was \"Cultural Cryopreservation\"?",
         "type": "Concept",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Conflicts"
         ],
@@ -846,15 +504,16 @@
       "x": 3981.4576727960102,
       "y": 3381.908906906343,
       "w": 320,
-      "h": 409,
+      "h": 394,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "And what if culture became a sovereign diplomatic currency?",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "What if a people, instead of seeking political recognition, began to negotiate their culture directly as a tradable asset with other global actors (corporations, city-states, transnational organizations), completely bypassing the nation-states that oppress them?\n\nSignificance: Culture ceases to be a cause for marginalization and becomes a strategic asset.",
         "links": [
@@ -868,15 +527,16 @@
       "x": 2756.4464805494754,
       "y": 3591.5726319644855,
       "w": 320,
-      "h": 366,
+      "h": 351,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "what if unrecognized peoples became \"citizens of time\" instead of space?",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "What if the answer to the lack of territory was not to seek a new space, but to reject the dominant temporality? What would happen if these peoples declared their allegiance to a different cultural timeline, creating temporal enclaves where their laws and traditions are sovereign? This is an act of civil disobedience that doesn't block roads, but suspends the dominant calendar, replacing it with their own biological, cultural, and cosmological rhythms.\n\n\n\n",
         "links": [],
@@ -888,15 +548,16 @@
       "x": 4109.391499170615,
       "y": 2596.192808534741,
       "w": 320,
-      "h": 537,
+      "h": 523,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "Moodboard",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "Option 1",
         "links": [],
@@ -917,14 +578,13 @@
       "x": 3171.4118040594785,
       "y": 3573.935367555754,
       "w": 320,
-      "h": 493,
+      "h": 471,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "Cyclical Time vs Linear Time",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Cyclical time (minorities) vs. Linear time (profit and mass culture) → Cyclical time is the time of nature and memory.\nㅤ\nThis is a reconfiguration of power. While States control space, peoples without territory could control meaningful time—transforming their cyclical traditions into tools of sovereignty. They would force the world to synchronize with their cultural rhythms instead of succumbing to the linear time of forced progress. It is an act of self-determination that completely bypasses the logics of territorial control, shifting the conflict to a plane where indigenous peoples hold an insurmountable advantage: the authenticity of their relationship with natural and cultural cycles.",
@@ -939,14 +599,13 @@
       "x": 1089.7499196915614,
       "y": -607.1114613643667,
       "w": 320,
-      "h": 882,
+      "h": 863,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "The Veneration of Robots",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-cultural",
           "Media studies"
@@ -971,14 +630,13 @@
       "x": 1770.5223503909924,
       "y": -628.5297727348413,
       "w": 320,
-      "h": 817,
+      "h": 797,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "Robot Priest in a Buddhist Temple in Kyoto",
         "type": "Finding",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "In Japan, the fusion of religion and technology already has a face: Mindar, a six-foot humanoid robot that delivers sermons at a 400-year-old Buddhist temple in Kyoto.\n\nMindar does not replace the human priest, but is seen as a means to make Buddhist teachings more accessible, demonstrating veneration not for the robot itself, but for its ability to embody and disseminate ancient wisdom in a new, technological form.",
@@ -1002,14 +660,13 @@
       "x": 2201.446253351968,
       "y": -101.14585281296809,
       "w": 320,
-      "h": 366,
+      "h": 344,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "The Web3 Theologian",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Vitalik Buterin, the co-creator of Ethereum, is not just a programmer, but a genuine philosopher and thinker of the digital world. His writings and reflections are not limited to the technical aspects of blockchain, but explore the ethical, social, and political implications of a decentralized network.\n\nHe is viewed as a spiritual guide and a point of reference for the entire Web3 movement, and his authority derives not from conventional fame, but from the depth of his thought.",
@@ -1022,14 +679,13 @@
       "x": 2208.9475485804796,
       "y": -718.505203013334,
       "w": 320,
-      "h": 551,
+      "h": 530,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "Virtual Idol: Miku",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Hatsune Miku is a figure created by Crypton Future Media. She is not just a character, but an actual software (Vocaloid) with which people can create music and lyrics. Miku has become a global icon, with concerts where she performs as a hologram and a huge fan community that venerates her as a genuine pop star. Her fame is based on a collaborative and decentralized model, rather than on a single figure of power.",
@@ -1051,14 +707,13 @@
       "x": 1768.5532789316906,
       "y": -1187.9376922662511,
       "w": 320,
-      "h": 507,
+      "h": 487,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "The Ethics of Building a Love Machine",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Amare i robot?",
           "Socio-cultural"
@@ -1077,14 +732,13 @@
       "x": 2217.9484829293124,
       "y": -1086.3879201689688,
       "w": 320,
-      "h": 304,
+      "h": 283,
       "group": null,
       "data": {
         "date": "2025-09-26",
         "title": "First 'Wrongful Death' Lawsuit Against AI",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [
           "Source"
@@ -1101,14 +755,13 @@
       "x": 2332.28698714897,
       "y": 1697.2480115167182,
       "w": 320,
-      "h": 394,
+      "h": 373,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "False Arrests and Racial Bias in Facial Recognition",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The implications of this bias are very serious. In the United States, several documented cases have shown that law enforcement's use of facial recognition software has led to false arrests and indictments of people of color due to identification errors.",
@@ -1124,17 +777,17 @@
       "x": 3335.8360634759197,
       "y": 1499.8266814465203,
       "w": 320,
-      "h": 440,
+      "h": 445,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "What if a terrorist entity arose whose operations relied solely on individuals not recognized by ai?",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Conflicts",
-          "Socio-political"
+          "Socio-political",
+          "Speculative Design"
         ],
         "tags": [
           "Discarded",
@@ -1159,15 +812,16 @@
       "x": 3798.204616530054,
       "y": 1558.7741298766819,
       "w": 320,
-      "h": 324,
+      "h": 310,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "Moodboard",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -1188,15 +842,16 @@
       "x": 2112.402898315907,
       "y": 2519.9148116648016,
       "w": 320,
-      "h": 447,
+      "h": 432,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "Stateless at Sea, Trespassers on Land",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "As a stateless people of the sea, the Badjao become invisible to nation-states. Modern maritime laws criminalize their traditional lifestyle, transforming them from original inhabitants into trespassers.",
         "links": [
@@ -1212,14 +867,13 @@
       "x": 1669.6271460210394,
       "y": 2396.267234552405,
       "w": 320,
-      "h": 617,
+      "h": 596,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "From Sea Nomads to Sedentary Settlers",
         "type": "",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The Sama-Bajau are being forced to abandon their traditional nomadic life on the sea due to ecological collapse (from industrial fishing and climate change) and legal/political pressures (national borders and sedentarization programs). Stripped of their livelihood and cultural identity, this stateless population is pushed into coastal settlements, where they face social discrimination and statelessness, criminalizing their ancient way of life and causing cultural disintegration.",
@@ -1243,14 +897,13 @@
       "x": 2115.2762483882752,
       "y": 3016.7874877175395,
       "w": 320,
-      "h": 783,
+      "h": 762,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "Relocation Vilages",
         "type": "",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The ecological collapse resulting from industrial fishing and pollution is destroying the Badjao’s marine habitat, stripping them of both food and identity. They are often forcibly resettled on land in “relocation villages,” severing their connection to the sea and disintegrating their culture.",
@@ -1276,15 +929,16 @@
       "x": 2756.4050542203613,
       "y": 4134.438433615728,
       "w": 320,
-      "h": 453,
+      "h": 439,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "What if the only solution to preserve their culture was to detach themselves from the rest of the world, moving permanently into the sea?",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [
           "Discarded",
           "Limited scope"
@@ -1308,15 +962,16 @@
       "x": 3190.2054631390183,
       "y": 4191.489441880156,
       "w": 320,
-      "h": 317,
+      "h": 303,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "Moodboard",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "",
         "links": [],
@@ -1337,16 +992,16 @@
       "x": 3609.5486738991845,
       "y": 2911.691666573256,
       "w": 320,
-      "h": 414,
+      "h": 417,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "Moodboard",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
-          "Conflicts"
+          "Conflicts",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "Option 2",
@@ -1370,14 +1025,13 @@
       "x": 3146.9478533144256,
       "y": 2666.206175625888,
       "w": 320,
-      "h": 584,
+      "h": 563,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "Svalbard Global Seed Vault",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Conflicts"
         ],
@@ -1403,15 +1057,16 @@
       "x": 4367.364530907372,
       "y": 3318.3637383879086,
       "w": 320,
-      "h": 366,
+      "h": 351,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": " The Badjao Initiative: Trading Expertise for Survival",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "The Badjao, weary of state inaction, declare their culture an Endangered Living Heritage of Humanity and begin to sell it. They don't sell objects, but unique cultural services:\n\n\"Badjao Ecological Consulting\" for major environmental NGOs, based on their millennial knowledge of marine ecosystems.\n\n\"Intellectual Access Rights\" to their stellar navigation system for shipping companies interested in more efficient routes.",
         "links": [],
@@ -1423,15 +1078,16 @@
       "x": 4852.928373751227,
       "y": 3729.575612500057,
       "w": 320,
-      "h": 265,
+      "h": 250,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "Global Culture Brokerage: Universal Examples",
         "type": "Concept",
         "action": "Making",
-        "mainArea": "Speculation",
-        "areas": [],
+        "areas": [
+          "Speculative Design"
+        ],
         "tags": [],
         "desc": "Tibetans could negotiate the rights to their traditional medicine with pharmaceutical companies. Native Americans could sell land management services to states affected by wildfires.\n",
         "links": [],
@@ -1443,14 +1099,13 @@
       "x": 4265.784891030368,
       "y": 3953.8253689895664,
       "w": 320,
-      "h": 468,
+      "h": 447,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "Moodboard",
         "type": "Collection",
         "action": "Making",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "",
@@ -1472,14 +1127,13 @@
       "x": 3608.98272149876,
       "y": 3579.430874693502,
       "w": 320,
-      "h": 480,
+      "h": 459,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "Moodboard",
         "type": "Collection",
         "action": "Making",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "",
@@ -1501,14 +1155,13 @@
       "x": 3192.0654096633607,
       "y": 4838.312430900589,
       "w": 320,
-      "h": 235,
+      "h": 214,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "What if the State, failing to defeat superstition, decided to create an infallible system based on those beliefs to re-establish control?",
         "type": "Concept",
         "action": "Making",
-        "mainArea": null,
         "areas": [],
         "tags": [
           "Discarded"
@@ -1523,14 +1176,13 @@
       "x": 3646.746500900015,
       "y": 4929.346369406234,
       "w": 320,
-      "h": 331,
+      "h": 310,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "Moodboard",
         "type": "Collection",
         "action": "Making",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "",
@@ -1552,14 +1204,13 @@
       "x": 3194.4568715438004,
       "y": 5164.593363080045,
       "w": 320,
-      "h": 206,
+      "h": 185,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "What if the community codified the evil of Sanguma into electronic waste, exiling the object instead of the accused witch?",
         "type": "Concept",
         "action": "Making",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "",
@@ -1572,17 +1223,17 @@
       "x": 2872.339876549431,
       "y": -658.5555470139398,
       "w": 320,
-      "h": 531,
+      "h": 536,
       "group": null,
       "data": {
         "date": "2025-09-27",
         "title": "Moodboard",
         "type": "Collection",
         "action": "Making",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-cultural",
-          "Media studies"
+          "Media studies",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "",
@@ -1604,14 +1255,13 @@
       "x": 3770.3477131222976,
       "y": 4439.32176790333,
       "w": 320,
-      "h": 282,
+      "h": 260,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "Target too narrow",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The concept is too narrow and rooted in a specific theme that lacks relatability for a Western audience. This creates a significant barrier to engagement, necessitating a strategic pivot or a broadening of the thematic appeal.",
@@ -1624,14 +1274,13 @@
       "x": 3869.5059835610928,
       "y": 5378.271890849614,
       "w": 320,
-      "h": 231,
+      "h": 209,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "The Use of an Object against the evil",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Is interesting the concept of the object that defeats the evil ",
@@ -1644,14 +1293,13 @@
       "x": 3345.4066854044704,
       "y": 2007.3478197917152,
       "w": 320,
-      "h": 214,
+      "h": 193,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "Already Widely Explored",
         "type": "Feedback",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "AI is a topic that has already been widely explored",
@@ -1664,14 +1312,13 @@
       "x": -948.4004425983892,
       "y": 1766.5290907449642,
       "w": 320,
-      "h": 298,
+      "h": 277,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "When is a Cultural Conflict?",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Cultural conflict is the clash that arises when different and incompatible cultural or ideological systems come into contact.\nThe disagreement is not only over material resources, but over what is considered true, right, legitimate, and meaningful.",
@@ -1684,14 +1331,13 @@
       "x": -354.83815016884273,
       "y": 1527.4983754253763,
       "w": 320,
-      "h": 231,
+      "h": 209,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "When Different Worlds Collide",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Two or more groups with different worldviews interact in the same social space.",
@@ -1704,14 +1350,13 @@
       "x": -354.83815016884273,
       "y": 1798.4983754253765,
       "w": 320,
-      "h": 231,
+      "h": 209,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "When a Group Imposes his Values",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "A dominant group imposes its cultural values ​​on a subordinate group.",
@@ -1724,14 +1369,13 @@
       "x": -354.83815016884273,
       "y": 2054.353262386574,
       "w": 320,
-      "h": 248,
+      "h": 226,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "When a Rapid Social Change Challenge Traditional Values",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "There is rapid social change that challenges traditional values",
@@ -1744,14 +1388,13 @@
       "x": 222.3184710645608,
       "y": 89.60808278328955,
       "w": 320,
-      "h": 576,
+      "h": 555,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "Culture Fights Back in Disobedient Objects",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "\"Disobedient Objects,\" a landmark exhibition at London's Victoria and Albert Museum, showcases artifacts like banners and barricades created by social movements since 1968. It argues that these objects are not just tools but acts of cultural resistance themselves. The exhibit demonstrates how grassroots creativity challenges dominant culture by transforming everyday items into powerful symbols of dissent and solidarity.\n\n",
@@ -1773,14 +1416,13 @@
       "x": 235.30342999549362,
       "y": 1508.2450533324588,
       "w": 320,
-      "h": 566,
+      "h": 545,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "Confronting \"Neutral\" Culture",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Adrian Piper – “Calling Card” (1986-1990)\nThe African-American artist handed out business cards to those who made racist comments in her presence. A social performance that showed how white Western culture perceives itself as “neutral,” but in reality draws a violent boundary between “us” and “them.” Here, culture appears as a barrier, and Piper highlights its absurdity.",
@@ -1804,14 +1446,13 @@
       "x": 243.78143411074893,
       "y": 2258.817994422147,
       "w": 320,
-      "h": 677,
+      "h": 655,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "The Art of Cultural Hybridity",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "British-Nigerian artist Yinka Shonibare uses his work to explore the paradox of post-colonial identity. He is known for placing figures dressed in vibrant \"African\" wax fabrics—a material actually invented in Europe and popularized through colonial trade—into classic scenes of European aristocracy and history.\n\nThis creates a powerful visual tension. The fabric itself is a hybrid object, symbolizing both African identity and its colonial manipulation. Shonibare's art does not seek a \"pure\" cultural root but instead masterfully fuses these historically antagonistic symbols. His work challenges us to accept that modern identity is a complex and contested blend of roots and contamination, rather than a simple, singular",
@@ -1833,14 +1474,13 @@
       "x": 232.82470391835324,
       "y": 919.6730788737941,
       "w": 320,
-      "h": 399,
+      "h": 377,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "The Optimization Delusion",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Our modern worldview - obsessed with control, purity and optimization - has become the source of a new cultural conflict. This isn't about clashing with other cultures, but about our fundamental way of seeing reality becoming alienating and counterproductive.\nNowhere is this clearer than in our approach to health. We pursue \"perfect\" health through sterilization and isolation, yet this very war against microbes undermines our biological reality: true health requires interdependence with our environment, not domination over it.",
@@ -1853,14 +1493,13 @@
       "x": 690.1340724664425,
       "y": 605.3392008862506,
       "w": 320,
-      "h": 534,
+      "h": 513,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "The Health Paradox",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The exhibition \"We the Bacteria\" argues that we are our intestines. It highlights a key contradiction: the intestine's surface area (32 m²) is larger than the minimum living space for a human (20 m²). The show critiques our cultural embarrassment about this organ as an \"antibiotic perspective\"—a destructive denial of our own microbial nature, which influences everything, even architecture.",
@@ -1882,14 +1521,13 @@
       "x": 245.47266855500004,
       "y": 3082.1196898596486,
       "w": 320,
-      "h": 722,
+      "h": 701,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "Childcare as a cultural repression",
         "type": "Brief",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "In Greenland, growing protests are emerging against Danish social services practices. The trigger is the forced removal of Inuit children from their families. Protesters and local leaders argue that these actions are not just child welfare issues, but pose a serious threat to the children's cultural identity and heritage, perpetuating a historical legacy of colonial separation and assimilation.\nIn Denmark, 7% of children born in Greenland and 5% of children with at least one Greenland-born parent are placed out of home, compared to 1% of other children in Denmark.",
@@ -1914,17 +1552,17 @@
       "x": 3799.413887305962,
       "y": 896.4460171630526,
       "w": 320,
-      "h": 584,
+      "h": 587,
       "group": null,
       "data": {
         "date": "2025-09-30",
         "title": "Massive Attack",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Conflicts",
-          "Socio-political"
+          "Socio-political",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "The shows feature typographic LED displays that leverage real-time data collection. The content is often politically charged, topical, thought-provoking, and socially conscious, sometimes multilingual and venue-specific. Over the course of their various tours, topics covered have ranged from net neutrality, censorship, data privacy, corporate greed, human rights abuses, and the politics of war.",
@@ -1948,18 +1586,18 @@
       "x": 4331.714013108823,
       "y": 2068.858510064732,
       "w": 320,
-      "h": 434,
+      "h": 439,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "An alternative to the current management of cultural conflict",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
           "Socio-political",
           "Socio-cultural",
-          "Critical theory"
+          "Critical theory",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "We live in a world were we risk to lose our culture for a various number of reasons. \nWe interrogated if\n- Is a culture that’s been artificially preserved still a culture? Or does it become an identity fossil?\n- What are we really protecting when we “save” a culture? And if the very act of preservation were itself a form of death?\n- Is keeping the people alive enough to declare their culture “protected”?",
@@ -1972,14 +1610,13 @@
       "x": 3847.2904132882754,
       "y": 2036.5328958031919,
       "w": 320,
-      "h": 506,
+      "h": 485,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "Causes of cultural loss",
         "type": "Source",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Conflicts",
           "Socio-cultural"
@@ -1995,16 +1632,16 @@
       "x": 5190.138589946025,
       "y": 2031.6251399135072,
       "w": 320,
-      "h": 505,
+      "h": 492,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "What if the only way to preserve a culture from extinction was to freeze it?",
         "type": "Output",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
-          "Critical design"
+          "Critical design",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "When a species disappears, its genetic code can be preserved to bring it back in the future.\nIn the case of culture, this is not possible, maintaining the genetic code of certain peoples does not preserve the memory that embodies their culture.\nIn this case, the only possible solution would be to preserve their entire bodies in a suspended state, thus allowing the preservation of memory as well.",
@@ -2026,14 +1663,13 @@
       "x": 6007.092287612924,
       "y": 1018.3364774006313,
       "w": 320,
-      "h": 231,
+      "h": 209,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "Why - Rise of Conflicts",
         "type": "Source",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The rise of local conflicts threatens the survival of numerous cultures.",
@@ -2046,14 +1682,13 @@
       "x": 5999.989750859658,
       "y": 1341.5336953458361,
       "w": 320,
-      "h": 231,
+      "h": 209,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "What - Group of Researchers",
         "type": "Source",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "A group of researchers decides to preserve certain populations in order to safeguard their culture.",
@@ -2066,14 +1701,13 @@
       "x": 5998.695896129846,
       "y": 1617.6481093412758,
       "w": 320,
-      "h": 611,
+      "h": 589,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "Where - Antartica",
         "type": "Source",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The location is chosen based on key geographical, climatic, and political criteria:\n\n- Extremely Cold and Stable Climate: provides the ideal natural environment for long-term preservation.\n\n- Permafrost Ground: ensures temperature stability even in the event of a power failure (blackout). Locating a repository carved into the Antarctic ground would maintain this stability even more effectively, with the natural cold facilitating the cryopreservation process and lowering costs.\n\n- Politically Neutral and Secure Location: Antarctica is not owned by any single state. Military activity, nuclear weapons, and resource extraction are prohibited.\n\n- Antarctic Treaty System: the international treaty serves as the sole \"governance\" for the continent, guaranteeing its use solely for peaceful and scientific purposes.\n\n- Isolation: significantly reduces the risk of intrusion, flooding, fires, or contamination.",
@@ -2088,14 +1722,13 @@
       "x": 5998.280558844181,
       "y": 2285.9833009048652,
       "w": 320,
-      "h": 550,
+      "h": 529,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "Who - non-governmental organization ",
         "type": "Source",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "A non-governmental organization for cultural preservation.\nThis initiative outlines a structured approach to safeguard global cultural diversity:\n\n- Identifying At-Risk Cultures (Scientific Criteria): Using scientific metrics, such as the risk of linguistic extinction, degradation of artifacts, and loss of critical knowledge, to identify and classify cultures requiring urgent cryopreservation intervention.\n\n- Cultural Peace Mission (Global Mandate): Operating like a UN mission, this initiative focuses on the conservation of cultural diversity, treating it as a fundamental global heritage that must be protected from threats and oblivion.\n\n- Transnational Cooperation: Facilitating collaboration between nations to ensure the recovery and cryopreservation of cultural materials, thereby transcending national borders in preservation efforts.",
@@ -2108,14 +1741,13 @@
       "x": 5999.388871267822,
       "y": 2891.532458863094,
       "w": 320,
-      "h": 248,
+      "h": 226,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "When - 2075",
         "type": "Source",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "In the year 2075, when conflicts in the world have increased to an alarming risk and technology has evolved enough to make cryogenics reliable.",
@@ -2128,14 +1760,13 @@
       "x": 6666.00209410514,
       "y": 1202.7234999429736,
       "w": 320,
-      "h": 355,
+      "h": 334,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "ONU criteria",
         "type": "Case study",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-cultural"
         ],
@@ -2150,14 +1781,13 @@
       "x": 7095.4952817776775,
       "y": 1194.3089250981686,
       "w": 320,
-      "h": 372,
+      "h": 351,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "The Five Prohibited Acts",
         "type": "Case study",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-political"
         ],
@@ -2172,14 +1802,13 @@
       "x": 6655.331345079699,
       "y": 2495.5215555892064,
       "w": 320,
-      "h": 304,
+      "h": 284,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "UNESCO criteria",
         "type": "Case study",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-cultural"
         ],
@@ -2194,14 +1823,13 @@
       "x": 6659.703100266149,
       "y": 1621.1711814097798,
       "w": 320,
-      "h": 742,
+      "h": 721,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "WWF model",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-cultural"
         ],
@@ -2225,14 +1853,13 @@
       "x": 7133.168232293696,
       "y": 1831.1952478701553,
       "w": 320,
-      "h": 321,
+      "h": 300,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "Identifying Priority Cultures",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-cultural"
         ],
@@ -2247,14 +1874,13 @@
       "x": 7694.709949218202,
       "y": 1706.8625003100094,
       "w": 320,
-      "h": 584,
+      "h": 562,
       "group": null,
       "data": {
         "date": "2025-10-16",
         "title": "Economic model",
         "type": "",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "- Private Donations (Crowdfunding & Supporters): small and large contributions from ordinary people who believe in the cause.\n- Institutional Grants and Funds: financing from international organizations (UN, UNESCO), philanthropic foundations, and governments for specific projects.\n- Ethical Revenue from Commerce: selling handicrafts and products generates a sustainable and respectful income stream that directly supports both the organization and the communities.\n- Responsible Corporate Partnerships: selective collaborations with companies aiming to clean up their supply chains from practices that harm cultures or indigenous territories. Not mere sponsorship, but a concrete commitment.\n- Support from Major Donors: individual philanthropists or impact-oriented investment funds that finance ambitious long-term projects.",
@@ -2267,14 +1893,13 @@
       "x": 4577.791841529068,
       "y": 687.3338133680334,
       "w": 320,
-      "h": 553,
+      "h": 532,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "Gaza War",
         "type": "",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The cultural conflicts in Gaza primarily involve a clash between two national identities both claiming the same land. The Israeli identity is rooted in historical and religious claims to a Jewish state (Zionism) while the Palestinian identity is centered on ancestral ties to the land and the struggle for self-determination (Resistance). This creates a war of narratives over historical legitimacy and involves disputes over sacred sites shared by Judaism and Islam. Ultimately it is a struggle for legitimacy and existence between two peoples",
@@ -2296,14 +1921,13 @@
       "x": 4574.918563319757,
       "y": 1267.5018559107925,
       "w": 320,
-      "h": 589,
+      "h": 568,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "Conflicts Between India and Pakistan",
         "type": "",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "he conflict's core is the 1947 Partition, which divided the subcontinent into Hindu-majority India and Muslim-majority Pakistan. This religious separation fuels historical hostility and rival nationalisms.\n\nThe main flashpoint is Kashmir, a Muslim-majority region. The conflict is a territorial and ideological struggle between secular Indian nationalism and Islamic Pakistani nationalism, both of which use religion to legitimize their claims over the disputed territory.",
@@ -2325,14 +1949,13 @@
       "x": 5190.858014415566,
       "y": 957.0684698859413,
       "w": 320,
-      "h": 510,
+      "h": 488,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "The Alarming Rise of Global Conflicts",
         "type": "",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "Recent studies and major reports, such as the Global Peace Index (GPI) 2024, confirm that global conflicts and tensions are significantly increasing, reaching levels not seen since the Cold War.\nData from ACLED (Armed Conflict Location & Event Data Project) indicates that the number of conflicts has risen by 40% over the last three years.\nDrivers of Instability: This surge is fueled by complex factors, including:\n\n- Rising geopolitical competition among major powers.\n\n- A massive increase in global military spending.\n\n- The continued reliance on conflict to solve disputes over identity and territory",
@@ -2347,14 +1970,13 @@
       "x": 7127.048046219685,
       "y": 2315.426447605858,
       "w": 320,
-      "h": 555,
+      "h": 535,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "WWF’s Communication Strategy",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-cultural"
         ],
@@ -2378,14 +2000,13 @@
       "x": 7694.645969493612,
       "y": 2450.0533850563274,
       "w": 320,
-      "h": 489,
+      "h": 468,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "Communication strategy",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-cultural"
         ],
@@ -2400,14 +2021,13 @@
       "x": 9105.45870299,
       "y": 2414.1866679953882,
       "w": 320,
-      "h": 534,
+      "h": 512,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "Color Palette",
         "type": "Output",
         "action": null,
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "The selected palette uses artificial, laboratory-style colors to reflect the tension between the cold, stable environment and the vibrant, yet preserved, cultural material.\n\n- Ice White: Represents the preservation medium (ice) and the pristine, sterile environment of cryopreservation.\n\n- Chemical Orange: The warm, organic color of the living cultures (the human element), made artificial and highly saturated to signify that the culture has been denatured (preserved/frozen).\n\n- Deep Blue: signifies the institutional, static, and calm nature of NGOs (Non-Governmental Organizations). Primarily used to convey trust and reliability.\n\n- Dark Gray: conveys institutional seriousness and a formal, protocol-driven approach.\n\n- Sky blue: used to balance the dark tones and symbolize medicine/science and hope.\n",
@@ -2420,14 +2040,13 @@
       "x": 8352.77825832998,
       "y": 1144.3321096413586,
       "w": 320,
-      "h": 917,
+      "h": 897,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "The Ethical Cabinet(descarted)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Machine"
         ],
@@ -2451,14 +2070,13 @@
       "x": 8345.120966427332,
       "y": 2159.187441155154,
       "w": 320,
-      "h": 858,
+      "h": 838,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "Cryometer",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Machine"
         ],
@@ -2482,14 +2100,13 @@
       "x": 8334.936028962624,
       "y": 3139.4196444862273,
       "w": 320,
-      "h": 1290,
+      "h": 1271,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "Assessment Booth",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-cultural"
         ],
@@ -2521,14 +2138,13 @@
       "x": 9851.199937069909,
       "y": 2840.0218361535844,
       "w": 320,
-      "h": 618,
+      "h": 598,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "Logo",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-cultural"
         ],
@@ -2552,16 +2168,16 @@
       "x": 9246.343613259212,
       "y": 3231.532458863094,
       "w": 320,
-      "h": 254,
+      "h": 257,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "Naming and Payoff",
         "type": "Output",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
-          "Critical design"
+          "Critical design",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "- Naming: United Network for Endangered Cultures (UNEC)\n\n- Payoff: Suspending life, protecting cultures\n",
@@ -2574,14 +2190,13 @@
       "x": 10420.388414210214,
       "y": 2390.7814409963466,
       "w": 320,
-      "h": 766,
+      "h": 746,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "Social media communication(descarted)",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Socio-cultural"
         ],
@@ -2605,16 +2220,16 @@
       "x": 9242.138589946026,
       "y": 3533.532458863094,
       "w": 320,
-      "h": 179,
+      "h": 182,
       "group": null,
       "data": {
         "date": "2025-10-28",
         "title": "Values",
         "type": "Output",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
-          "Critical design"
+          "Critical design",
+          "Speculative Design"
         ],
         "tags": [],
         "desc": "",
@@ -2627,14 +2242,13 @@
       "x": 10974.402718276144,
       "y": 1762.2250703376685,
       "w": 320,
-      "h": 602,
+      "h": 582,
       "group": null,
       "data": {
         "date": "2025-11-04",
         "title": "UNEC",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -2666,14 +2280,13 @@
       "x": 10939.323080992785,
       "y": 2961.227181595688,
       "w": 320,
-      "h": 602,
+      "h": 582,
       "group": null,
       "data": {
         "date": "2025-11-04",
         "title": "ECP",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -2705,14 +2318,13 @@
       "x": 11426.224134785307,
       "y": 1802.418157677013,
       "w": 320,
-      "h": 425,
+      "h": 405,
       "group": null,
       "data": {
         "date": "2025-11-04",
         "title": "Usage",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -2736,14 +2348,13 @@
       "x": 11375.961085982603,
       "y": 3030.245357856506,
       "w": 320,
-      "h": 425,
+      "h": 405,
       "group": null,
       "data": {
         "date": "2025-11-04",
         "title": "Usage",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -2767,14 +2378,13 @@
       "x": 9003.902301837756,
       "y": 1770.113688910308,
       "w": 320,
-      "h": 526,
+      "h": 505,
       "group": null,
       "data": {
         "date": "2025-11-04",
         "title": "Cryometer",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Machine"
         ],
@@ -2798,14 +2408,13 @@
       "x": 10541.797202536398,
       "y": 1086.9016857292045,
       "w": 320,
-      "h": 576,
+      "h": 556,
       "group": null,
       "data": {
         "date": "2025-11-04",
         "title": "Cryocare",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Machine"
         ],
@@ -2829,14 +2438,13 @@
       "x": 12177.785793066607,
       "y": 2778.4939183441734,
       "w": 320,
-      "h": 454,
+      "h": 434,
       "group": null,
       "data": {
         "date": "2025-11-18",
         "title": "Moodboard",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Design research"
         ],
@@ -2862,14 +2470,13 @@
       "x": 12689.236065389287,
       "y": 2812.4035774668005,
       "w": 320,
-      "h": 445,
+      "h": 425,
       "group": null,
       "data": {
         "date": "2025-11-18",
         "title": "",
         "type": "Source",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -2893,14 +2500,13 @@
       "x": 12037.35320668681,
       "y": 3281.3643281201535,
       "w": 320,
-      "h": 1032,
+      "h": 1014,
       "group": null,
       "data": {
         "date": "2025-11-18",
         "title": "",
         "type": "Concept",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Design research"
         ],
@@ -2940,17 +2546,16 @@
       "x": 13194.832395723282,
       "y": 2540.7107876631826,
       "w": 320,
-      "h": 1337,
+      "h": 1343,
       "group": null,
       "data": {
         "date": "2025-11-18",
         "title": "",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Branding",
-          "Communication"
+          "Communication Design"
         ],
         "tags": [],
         "desc": "We defined the main brand applications using the UNEC color and aesthetic.",
@@ -3004,14 +2609,13 @@
       "x": 11573.277612964508,
       "y": 359.7349678874318,
       "w": 320,
-      "h": 408,
+      "h": 388,
       "group": null,
       "data": {
         "date": "2025-11-18",
         "title": "Cryocare characters",
         "type": "Artefact",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Machine"
         ],
@@ -3035,14 +2639,13 @@
       "x": 11613.888090929855,
       "y": -63.846745351305344,
       "w": 320,
-      "h": 408,
+      "h": 388,
       "group": null,
       "data": {
         "date": "2025-11-18",
         "title": "Cryoapp",
         "type": "",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Machine"
         ],
@@ -3066,14 +2669,13 @@
       "x": 13756.621647703318,
       "y": 2559.511829303978,
       "w": 320,
-      "h": 425,
+      "h": 405,
       "group": null,
       "data": {
         "date": "2025-12-01",
         "title": "New Palette definition",
         "type": "Source",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -3097,14 +2699,13 @@
       "x": 13745.505209823354,
       "y": 3245.6139707179004,
       "w": 320,
-      "h": 646,
+      "h": 627,
       "group": null,
       "data": {
         "date": "2025-12-01",
         "title": "",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -3128,14 +2729,13 @@
       "x": 14387.36209955714,
       "y": 2968.2985937189214,
       "w": 320,
-      "h": 1519,
+      "h": 1502,
       "group": null,
       "data": {
         "date": "2025-12-01",
         "title": "",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -3183,14 +2783,13 @@
       "x": 14403.324427657291,
       "y": 761.8935291948492,
       "w": 320,
-      "h": 2044,
+      "h": 2029,
       "group": null,
       "data": {
         "date": "2025-12-01",
         "title": "other applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -3254,14 +2853,13 @@
       "x": 11516.708328202087,
       "y": 841.8836169067629,
       "w": 320,
-      "h": 391,
+      "h": 371,
       "group": null,
       "data": {
         "date": "2025-12-01",
         "title": "First render",
         "type": "Artefact",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Machine"
         ],
@@ -3285,14 +2883,13 @@
       "x": 12076.868986939086,
       "y": 933.0639575719297,
       "w": 320,
-      "h": 408,
+      "h": 388,
       "group": null,
       "data": {
         "date": "2025-12-01",
         "title": "Render for 3D prototype",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Machine"
         ],
@@ -3316,14 +2913,13 @@
       "x": 12184.981170159146,
       "y": 98.11701830413881,
       "w": 320,
-      "h": 585,
+      "h": 565,
       "group": null,
       "data": {
         "date": "2025-12-01",
         "title": "characters and elements",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Machine"
         ],
@@ -3355,14 +2951,13 @@
       "x": 12288.26329643462,
       "y": -1540.3142968969676,
       "w": 320,
-      "h": 568,
+      "h": 548,
       "group": null,
       "data": {
         "date": "2025-12-01",
         "title": "app interface",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Machine"
         ],
@@ -3394,14 +2989,13 @@
       "x": 11610.308752619223,
       "y": -592.0869438513939,
       "w": 320,
-      "h": 419,
+      "h": 398,
       "group": null,
       "data": {
         "date": "2025-12-01",
         "title": "cryocare content",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [],
         "tags": [],
         "desc": "In the cryocare packaging documentation, medical report and bracelet, instructions and other relevant applications will be given",
@@ -3423,14 +3017,13 @@
       "x": 15111.89950271268,
       "y": 740.8677081478363,
       "w": 320,
-      "h": 1968,
+      "h": 1953,
       "group": null,
       "data": {
         "date": "2025-12-01",
         "title": "correcting applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -3494,14 +3087,13 @@
       "x": 15099.89950271268,
       "y": 2988.8677081478363,
       "w": 320,
-      "h": 837,
+      "h": 818,
       "group": null,
       "data": {
         "date": "2025-12-01",
         "title": "correcting applications",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -3541,14 +3133,13 @@
       "x": 12798.571064055466,
       "y": 4268.111174379229,
       "w": 320,
-      "h": 744,
+      "h": 725,
       "group": null,
       "data": {
         "date": "2025-12-01",
         "title": "storyboard teaser",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -3580,14 +3171,13 @@
       "x": 13426.999999999996,
       "y": 554,
       "w": 320,
-      "h": 1714,
+      "h": 1698,
       "group": null,
       "data": {
         "date": "2025-12-16",
         "title": "Us working!",
         "type": "Observation",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Process"
         ],
@@ -3635,16 +3225,16 @@
       "x": 12352.428688807056,
       "y": 1477.4571617476095,
       "w": 320,
-      "h": 1163,
+      "h": 1169,
       "group": null,
       "data": {
         "date": "2025-12-16",
         "title": "Making our Prototype",
         "type": "Observation",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Process documentation"
+          "Process documentation",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "Photos of the work behind the prototype",
@@ -3682,16 +3272,16 @@
       "x": 13873.776937493849,
       "y": -1108.88480914762,
       "w": 320,
-      "h": 1734,
+      "h": 1742,
       "group": null,
       "data": {
         "date": "2025-12-16",
         "title": "Printing the first prototype",
         "type": "Observation",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Process documentation"
+          "Process documentation",
+          "Interaction Design"
         ],
         "tags": [
           "3d print"
@@ -3731,16 +3321,16 @@
       "x": 14445.405309666357,
       "y": -85.23877674418645,
       "w": 320,
-      "h": 519,
+      "h": 523,
       "group": null,
       "data": {
         "date": "2025-12-16",
         "title": "Studying Cryocare supporting base",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Speculation",
         "areas": [
-          "Process"
+          "Process",
+          "Speculative Design"
         ],
         "tags": [
           "Exploring"
@@ -3764,16 +3354,16 @@
       "x": 15781.845305153021,
       "y": 776.8947920039518,
       "w": 320,
-      "h": 1637,
+      "h": 1646,
       "group": null,
       "data": {
         "date": "2025-12-16",
         "title": "Defining Documentatiin",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [
           "Branding"
@@ -3821,14 +3411,13 @@
       "x": 15750.453589314297,
       "y": 3234.0474940548947,
       "w": 320,
-      "h": 614,
+      "h": 595,
       "group": null,
       "data": {
         "date": "2025-12-16",
         "title": "Defining Applications",
         "type": "Artefact",
         "action": null,
-        "mainArea": null,
         "areas": [
           "Branding"
         ],
@@ -3862,15 +3451,16 @@
       "x": 13520.805956122422,
       "y": 4320.088054999059,
       "w": 320,
-      "h": 537,
+      "h": 523,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "teaser",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "In the teaser video we give space to the people of the culture that UNEC protects, letting them guide the narration by explaining why they can't keep on living without the choice of cryopreservation. We choose to link this stories with the concept of fading, to give a concrete idea of what its happening to people, explaining why UNEC is crucial in the surviving of human species. (since the video file is quite heavy here we only upload the first frame of the teaser, to see the full video go on google drive)",
         "links": [],
@@ -3891,15 +3481,16 @@
       "x": 13517.202796588701,
       "y": 5005.527864366168,
       "w": 320,
-      "h": 915,
+      "h": 902,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "video animatic and updates",
         "type": "Sketch",
         "action": "Exploring",
-        "mainArea": "Communication",
-        "areas": [],
+        "areas": [
+          "Communication Design"
+        ],
         "tags": [],
         "desc": "we define the script and the scenes in the video",
         "links": [],
@@ -3928,16 +3519,16 @@
       "x": 12718.829931446573,
       "y": -186.59720850673912,
       "w": 320,
-      "h": 386,
+      "h": 389,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "defining character identities",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
-          "Machine"
+          "Machine",
+          "Communication Design"
         ],
         "tags": [],
         "desc": "All the dress worn by the characters",
@@ -3959,16 +3550,16 @@
       "x": 15335.656128078963,
       "y": -5545.416139235042,
       "w": 320,
-      "h": 1810,
+      "h": 1794,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "app interface definition",
         "type": "Sketch",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Machine"
+          "Machine",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "We define the interfaces of the integrated app on mobile made on github. Adding new areas and features.",
@@ -4006,16 +3597,16 @@
       "x": 15327.603647165846,
       "y": -3580.197534894988,
       "w": 320,
-      "h": 917,
+      "h": 898,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "tablet app interface",
         "type": "Sketch",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Machine"
+          "Machine",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "To make people choose their favourite culture that they want to adopt, we study the interface that will be put on frames in order to have an efficient webapp.",
@@ -4053,16 +3644,16 @@
       "x": 14553.725873491985,
       "y": -1789.3956651746814,
       "w": 320,
-      "h": 1546,
+      "h": 1529,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "linking linear actuator to code",
         "type": "Output",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Machine"
+          "Machine",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "integrating the vibration to the code structure and continuing by developing the interface on javascript.",
@@ -4092,16 +3683,16 @@
       "x": 16408.733824504045,
       "y": 3252.357005351963,
       "w": 320,
-      "h": 622,
+      "h": 627,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "first print of the artefacts",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [],
         "desc": "We printed the first version of the posters.",
@@ -4123,14 +3714,13 @@
       "x": 16332.028987364087,
       "y": 780.7849790816595,
       "w": 320,
-      "h": 674,
+      "h": 654,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "defining the identities for the characters",
         "type": "Concept",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Socio-cultural"
         ],
@@ -4154,16 +3744,16 @@
       "x": 16320.028987364087,
       "y": 1491.7816447081582,
       "w": 320,
-      "h": 1506,
+      "h": 1513,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "collecting artefacts",
         "type": "Finding",
         "action": "Exploring",
-        "mainArea": "Interaction",
         "areas": [
-          "Socio-cultural"
+          "Socio-cultural",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "We collected a lot of objects of the cultures represented during the exhibition, in order to put them in the folders of the report, like sorts of heirlooms that the people cherish, the last evidence of their presence.",
@@ -4201,17 +3791,17 @@
       "x": 16815.43169209344,
       "y": 500.2653395035218,
       "w": 320,
-      "h": 1185,
+      "h": 1191,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "the first finished folder",
         "type": "Artefact",
         "action": null,
-        "mainArea": "Interaction",
         "areas": [
           "Socio-cultural",
-          "Branding"
+          "Branding",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "",
@@ -4249,16 +3839,16 @@
       "x": 12707.275026865922,
       "y": 245.5311461935005,
       "w": 320,
-      "h": 345,
+      "h": 348,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "defining recipes",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
-          "Machine"
+          "Machine",
+          "Communication Design"
         ],
         "tags": [],
         "desc": "",
@@ -4280,16 +3870,16 @@
       "x": 12698.421008263496,
       "y": 639.4363187825295,
       "w": 320,
-      "h": 345,
+      "h": 349,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "defining rituals",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
-          "Machine"
+          "Machine",
+          "Communication Design"
         ],
         "tags": [],
         "desc": "",
@@ -4311,16 +3901,16 @@
       "x": 14895.539805487953,
       "y": -115.12208875700497,
       "w": 320,
-      "h": 1229,
+      "h": 1212,
       "group": null,
       "data": {
         "date": "2026-01-09",
         "title": "cryocare render+support+inside",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Machine"
+          "Machine",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "",
@@ -4358,16 +3948,16 @@
       "x": 15342.496572920913,
       "y": -2427.642763010532,
       "w": 320,
-      "h": 1176,
+      "h": 1158,
       "group": null,
       "data": {
         "date": "2026-01-29",
         "title": "developing the interface and the sensor",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Process"
+          "Process",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "We developed the interface of the app and adapted it to the triggers present in the iOS system. The code is mainly made with javascript, incorporating a firebase library and another script on python to make the app link to the linear servo and the tablet app. Here we link a screenshot of the structure of the app on visual studio code",
@@ -4397,14 +3987,13 @@
       "x": 15347.16183616678,
       "y": -1169.8263793626597,
       "w": 320,
-      "h": 667,
+      "h": 648,
       "group": null,
       "data": {
         "date": "2026-01-29",
         "title": "firebase-python library",
         "type": "Output",
         "action": "Making",
-        "mainArea": null,
         "areas": [
           "Process"
         ],
@@ -4436,16 +4025,16 @@
       "x": 15468.99678029785,
       "y": -121.79550848724361,
       "w": 320,
-      "h": 476,
+      "h": 457,
       "group": null,
       "data": {
         "date": "2026-01-29",
         "title": "new cryocare box",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Process"
+          "Process",
+          "Interaction Design"
         ],
         "tags": [
           "Branding"
@@ -4469,17 +4058,17 @@
       "x": 14155.777796868579,
       "y": 5183.19626249977,
       "w": 320,
-      "h": 1132,
+      "h": 1140,
       "group": null,
       "data": {
         "date": "2026-01-29",
         "title": "first video prototype",
         "type": "Concept",
         "action": "Exploring",
-        "mainArea": "Communication",
         "areas": [
           "Process",
-          "Process documentation"
+          "Process documentation",
+          "Communication Design"
         ],
         "tags": [
           "Exploring"
@@ -4511,16 +4100,15 @@
       "x": 17046.11820223172,
       "y": 3279.97712062267,
       "w": 320,
-      "h": 690,
+      "h": 670,
       "group": null,
       "data": {
         "date": "2026-01-29",
         "title": "adding new posters",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
-          "Communication"
+          "Communication Design"
         ],
         "tags": [],
         "desc": "we printed other posters with new subjects, the photographies come from the archive of a family member of the team, that has kindly given the rights to use them for the projects, other come from public archives and Jimmy Nelson's reportage.",
@@ -4542,16 +4130,16 @@
       "x": 17458.704026574356,
       "y": 964.6528703359754,
       "w": 320,
-      "h": 639,
+      "h": 644,
       "group": null,
       "data": {
         "date": "2026-01-29",
         "title": "printing the final artefacts",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
-          "Process documentation"
+          "Process documentation",
+          "Communication Design"
         ],
         "tags": [],
         "desc": "we printed the communication artefacts to make print tests and to see the outputs.",
@@ -4573,16 +4161,16 @@
       "x": 15894.921215966033,
       "y": -3362.7307375275263,
       "w": 320,
-      "h": 645,
+      "h": 649,
       "group": null,
       "data": {
         "date": "2026-01-29",
         "title": "tablet app developing",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Process documentation"
+          "Process documentation",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "with the tablet app (made with framer) you can learn about cultures and select the culture you will make the experience with. The process starts with information about the culture and then you can select the culture you want to adopt.",
@@ -4612,16 +4200,16 @@
       "x": 16911.98921884767,
       "y": 1872.8661049010857,
       "w": 320,
-      "h": 773,
+      "h": 753,
       "group": null,
       "data": {
         "date": "2026-02-02",
         "title": "vacuum-packing",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Interaction",
         "areas": [
-          "Machine"
+          "Machine",
+          "Interaction Design"
         ],
         "tags": [],
         "desc": "we vacuumed all the object to make them seem like they have been preserved better.",
@@ -4643,16 +4231,16 @@
       "x": 16391.98921884767,
       "y": 4072.866104901086,
       "w": 320,
-      "h": 1314,
+      "h": 1320,
       "group": null,
       "data": {
         "date": "2026-02-02",
         "title": "UNEC vests for volunteers",
         "type": "Artefact",
         "action": "Making",
-        "mainArea": "Communication",
         "areas": [
-          "Branding"
+          "Branding",
+          "Communication Design"
         ],
         "tags": [],
         "desc": "this is a model of the vest that will be worn by UNEC volunteers in the organizations.",
@@ -4681,57 +4269,7 @@
   "edges": [
     {
       "s": "ny15p0wg",
-      "t": "nqaspco0",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "n4q8mtzu",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "nwl9ouvl",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "npongriz",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "n7z0p86f",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
       "t": "n92sunmm",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "n3vsqfai",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "ncob3sst",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "ne7rohui",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "nr86jk3r",
-      "dashed": false
-    },
-    {
-      "s": "ny15p0wg",
-      "t": "nvlahv4k",
       "dashed": false
     },
     {
@@ -5593,7 +5131,6 @@
       "Media studies",
       "People",
       "Design research",
-      "Communication",
       "Process",
       "Process documentation"
     ],
